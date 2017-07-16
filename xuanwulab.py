@@ -81,8 +81,8 @@ def main():
 				except Exception as e:
 					pass
 				if typet:
-					tmp['typet'] = typet.replace('\'', ' ')
-					tmp['content'] = content.replace('\'', ' ').strip()
+					tmp['typet'] = typet.replace('\'', ' ')+'</br>'
+					tmp['content'] = content.replace('\'', ' ').strip()+'</br>'
 					#result.append(tmp)
 					savetxt(tmp)
 					tmp = {}
