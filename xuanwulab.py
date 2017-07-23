@@ -4,7 +4,7 @@
 
 import calendar,datetime,MySQLdb
 from bs4 import BeautifulSoup
-import sys,requests,re
+import sys,requests,re,json
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
@@ -16,8 +16,7 @@ mysqlconfig = {
 }
 
 '''
-当传入参数时，表示从这个日期开始到现在
-返回URL列表
+返回到当前日期的URL列表
 '''
 def get_url_list(start_year=2016, start_month=1, start_day=1):
 	urls = []
@@ -60,36 +59,51 @@ def mysql_insert(result):
 
 	db.close()
 
-def savetxt(result):
-	with open('xuanwulab.txt','a+') as f:
-		f.write(result['content']+'\n')
+def savetxt(result, count=0):
+	with open('xuanwulab'+str(count)+'.txt','a+') as f:
+		f.write(json.dumps(result)+'\n')
 
-def main():
-	urllist = get_url_list(2017,7,13)
+def main(save='txt'):
+	urllist = get_url_list()
 	typet = ''
 	result = []
 	tmp = {}
 
-	for url in urllist:
+	for count,url in enumerate(urllist):
 		soup = html2soup(url)
+		print 'Crawl: {:.2f}%'.format(100*count/float(len(urllist)))
 		if soup:
 			p_tags = soup.find_all('p')
-			for key,tag in enumerate(p_tags):
+			for tag in p_tags:
 				content = tag.get_text()
 				try:
 					typet = re.findall(r'\[(.*?)\]', content)[0].strip()
 				except Exception as e:
 					pass
 				if typet:
-					tmp['typet'] = typet.replace('\'', ' ')+'</br>'
-					tmp['content'] = content.replace('\'', ' ').strip()+'</br>'
-					#result.append(tmp)
-					savetxt(tmp)
+					tmp['typet'] = typet.replace('\'', ' ').strip()
+					tmp['content'] = content.replace('\'', ' ').strip()
+					if save == 'mysql':
+						result.append(tmp)
+					if save == 'txt':
+						savetxt(tmp, count/10)
+						#print count
 					tmp = {}
-			#mysql_insert(result)
-			#result = []
+			if save == 'mysql':
+				mysql_insert(result)
+				result = []
 
 	print 'crawl done,result svae in mysql!'
 
 if __name__ == '__main__':
-	main()
+	'''
+	type:
+	1.txt(json形式)
+	2.mysql
+
+	本程序：单线程
+	爬取一次，在运行脚本不能起更新作用，可以建一个文件记录上次爬取的日期来进行更新爬取
+	mysql功能可能还有问题,每10天为一个TXT
+	'''
+	saveType = 'txt'
+	main(saveType)

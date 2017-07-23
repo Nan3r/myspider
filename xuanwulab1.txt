@@ -1,0 +1,472 @@
+{"content": "Tencent Xuanwu Lab Security Daily News</br>", "typet": "Tools</br>"}
+{"content": "rotlogix @rotlogix</br>", "typet": "Tools</br>"}
+{"content": "[\u00a0Android\u00a0]\u00a0\u00a0Introduction to Lobotomy | Part Two - http://rotlogix.com/2016/01/09/introduction-to-lobotomy-part-two/ #android #mobile #security</br>", "typet": "Android</br>"}
+{"content": "\ufeff\"Lobotomy \u662f\u4e00\u4e2a\u529f\u80fd\u6bd4\u8f83\u5168\u9762\u7684 Android \u9006\u5411\u5206\u6790\u6846\u67b6\uff0c\u8fd9\u7bc7 Blog \u4ecb\u7ecd\u5982\u4f55\u7528\u5b83\u53cd\u7f16\u8bd1 APK \u4ee5\u53ca\u5982\u4f55\u89e3\u51b3\u4e00\u4e9b\u5e94\u7528\u4e0d\u53ef\u8c03\u8bd5\u7684\u95ee\u9898\uff1a\u00a0   https://t.co/pfpSAwXK2v\"</br>", "typet": "Android</br>"}
+{"content": "Andreas Zeller @AndreasZeller</br>", "typet": "Android</br>"}
+{"content": "[\u00a0Android\u00a0]\u00a0\u00a0Some malicious apps use compromised devices to download and positively review other malicious apps by same authors https://blog.lookout.com/blog/2016/01/06/brain-test-re-emerges/</br>", "typet": "Android</br>"}
+{"content": "\ufeff\"\u6076\u610f\u8f6f\u4ef6\u5bb6\u65cf Brain Test \u5377\u571f\u91cd\u6765 - \u5728\u88ab\u653b\u51fb\u7684\u8bbe\u5907\u4e0a\u4ece\u5e94\u7528\u5546\u5e97\u4e0b\u8f7d\u8be5\u4f5c\u8005\u7684\u5176\u4ed6\u5e94\u7528\uff0c\u5171\u8ba1\u53d1\u73b0\u4e86 13 \u6b3e\u5e94\u7528\uff1a   https://t.co/8ylSU3puMB\"</br>", "typet": "Android</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Android</br>"}
+{"content": "[\u00a0Browser\u00a0]\u00a0\u00a0Nvidia GPUs can break Chrome s incognito mode https://charliehorse55.wordpress.com/2016/01/09/how-nvidia-breaks-chrome-incognito/</br>", "typet": "Browser</br>"}
+{"content": "\ufeff\"Nvidia GPU \u662f\u5982\u4f55\u7834\u574f Chrome \u7684\u9690\u8eab\u6a21\u5f0f\uff1a   https://t.co/LtsxNAW3ON\"</br>", "typet": "Browser</br>"}
+{"content": "Binni Shah @binitamshah</br>", "typet": "Browser</br>"}
+{"content": "[\u00a0Crypto\u00a0]\u00a0\u00a0KCI-based MitM Attacks against TLS : https://github.com/maldevel/BSides_Vienna_2015/blob/master/kci_based_man_in_the_middle_attacks_against_tls.pdf</br>", "typet": "Crypto</br>"}
+{"content": "\ufeff\"\u57fa\u4e8e KCI\uff08Key Compromise Impersonatio\uff09 \u4e2d\u95f4\u4eba\u653b\u51fb TLS:   https://t.co/7DboKrSWQf\"</br>", "typet": "Crypto</br>"}
+{"content": "Security Network\u2122 @SecurityL1st</br>", "typet": "Crypto</br>"}
+{"content": "[\u00a0Fuzzing\u00a0]\u00a0\u00a0boofuzz - A fork and successor of the Sulley Fuzzing Framework.  http://ow.ly/WPAyY</br>", "typet": "Fuzzing</br>"}
+{"content": "\ufeff\"boofuzz - Sulley Fuzz \u6846\u67b6\u7684 fork \u7248\u672c\uff1a   https://t.co/kBqrs9cDF1\"</br>", "typet": "Fuzzing</br>"}
+{"content": "Florian Roth @Cyb3rOps</br>", "typet": "Fuzzing</br>"}
+{"content": "[\u00a0Network\u00a0]\u00a0\u00a0Joy\npackage for capturing and analyzing for network research, forensics & security monitoring http://seclist.us/joy-a-package-for-capturing-and-analyzing-for-network-research-forensics-security-monitoring.html</br>", "typet": "Network</br>"}
+{"content": "\ufeff\"Joy - \u7528\u4e8e\u7f51\u7edc\u6d41\u91cf\u6355\u83b7\u3001\u5206\u6790\u3001\u53d6\u8bc1\u3001\u76d1\u63a7\u7684\u5de5\u5177\uff1a   https://t.co/jOxwDc7vQw \"</br>", "typet": "Network</br>"}
+{"content": "Kahu Security @kahusecurity</br>", "typet": "Network</br>"}
+{"content": "[\u00a0Obfuscation\u00a0]\u00a0\u00a0Javascript Deobfuscator Updated: http://www.kahusecurity.com/?p=13482</br>", "typet": "Obfuscation</br>"}
+{"content": "\ufeff\"Javascript Deobfuscator \u66f4\u65b0\u4e3a 0.3 \u7248\u672c:\u00a0   https://t.co/bp7NLEkyny\"</br>", "typet": "Obfuscation</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Obfuscation</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0BetterCap and the first REAL DoubleDirect ICMP Redirect Attack http://www.evilsocket.net/2016/01/10/bettercap-and-the-first-real-icmp-redirect-attack/</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"\u4e0b\u4e00\u4e2a\u7248\u672c\u7684 BetterCap \u5c06\u4f1a\u652f\u6301 ICMP \u5168\u53cc\u5de5\u91cd\u5b9a\u5411\u4e2d\u95f4\u4eba\u653b\u51fb\uff1a\u00a0   https://t.co/DRkVrZkVjZ\"</br>", "typet": "Others</br>"}
+{"content": "juraj somorovsky @jurajsomorovsky</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0T. Eisenbarth: Cache Attacks on the Cloud. https://drive.google.com/file/d/0Bzm_4XrWnl5zVy0wSEFsOXdJU2s/view?usp=sharing #realworldcrypto</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"\u4e91\u73af\u5883\u4e2d\u7684\u5904\u7406\u5668\u7f13\u5b58\u653b\u51fb\u00a0 Paper:   https://t.co/23iAOzbcxM\"</br>", "typet": "Others</br>"}
+{"content": "Kas\u0131m ERKAN @kasimerkan</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0TorTrojan is a simple trojan-horse written in C# using tor to communicate https://github.com/x1125/tor-trojan #infosec #security</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"TorTrojan - \u5229\u7528 TOR \u901a\u4fe1\u7684\u4e00\u6b3e\u6728\u9a6c\uff0c C# \u8bed\u8a00\u7f16\u5199\uff1a   https://t.co/KmzxkIjonV\"</br>", "typet": "Others</br>"}
+{"content": "Symantec @symantec</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0Threat intelligence has to be embedded in your #security program. See what traps to avoid: http://symc.ly/1PLluvN</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"\u5a01\u80c1\u60c5\u62a5\u9700\u8981\u907f\u514d\u7684 5 \u4e2a\u9677\u9631\uff0c\u6765\u81ea Symantec\uff0c \u89c6\u9891:   https://t.co/lk0iCap9Fu\u00a0 Paper:   https://know.elq.symantec.com/LP=2011?CID=70150000000drF4AAI&MC=193726&OC=81774&OT=WP&TT=SW \"</br>", "typet": "Others</br>"}
+{"content": "Peter N. M. Hansteen @pitrh</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0New, rewritten #OpenBSD #PF FAQ example \"Building an OpenBSD Router\" http://www.openbsd.org/faq/pf/example1.html highlights a number of useful #OpenBSD features</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"\u6784\u5efa\u4e00\u4e2a OpenBSD \u8def\u7531\u5668\uff1a   https://t.co/SRESxJ8FB1 \"</br>", "typet": "Others</br>"}
+{"content": "TROOPERS Conference @WEareTROOPERS</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0Shielding applications from an untrusted cloud with Haven\nhttps://www.usenix.org/system/files/conference/osdi14/osdi14-paper-baumann.pdf [PDF] https://t.co/GiTKuQnfOV</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"\u5728\u4e0d\u53ef\u4fe1\u7684\u4e91\u73af\u5883\u4e0b\u6267\u884c\u5e94\u7528\uff0c\u540c\u65f6\u4fdd\u8bc1\u5b8c\u6574\u6027\u548c\u4fdd\u5bc6\u6027\u3002\u8fd9\u7bc7 Paper \u63d0\u51fa\u4e86\u4e00\u4e2a\u539f\u578b\u5b9e\u73b0 Haven \uff1a\u00a0   https://t.co/GiTKuQnfOV\u00a0 https://t.co/Ph69yd345O \"</br>", "typet": "Others</br>"}
+{"content": "Binni Shah @binitamshah</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0Confidentiality Issues on a GPU in a Virtualized Environment : http://s3.eurecom.fr/docs/fc14_maurice.pdf  (pdf) cc: @ BloodyTangerine</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"\u865a\u62df\u5316\u73af\u5883\u4e2d\u7684 GPU \u4fdd\u5bc6\u95ee\u9898: (PDF)\u00a0   https://t.co/BnaqpEK0rG \"</br>", "typet": "Others</br>"}
+{"content": "Peerlyst @Peerlyst</br>", "typet": "Others</br>"}
+{"content": "[\u00a0ReverseEngineering\u00a0]\u00a0\u00a0The ultimate collection of \"How to Reverse Malware\" -> Add your input https://www.peerlyst.com/blog-post/resource-learning-how-to-reverse-malware-a-guide?utm_source=Peerlyst%20Post%20Promo&utm_medium=social&utm_content=PeerlystPost&utm_campaign=Peerlyst%20Twitter1</br>", "typet": "ReverseEngineering</br>"}
+{"content": "\ufeff\"\u6076\u610f\u8f6f\u4ef6\u9006\u5411\u65b9\u9762\u7684\u4e00\u4e9b\u8d44\u6599\u6536\u96c6\uff0c\u5305\u62ec\u4e00\u4e9b\u6559\u7a0b\u3001\u5de5\u5177\u548c\u6837\u672c\uff1a   https://t.co/zwkAPXQPJA\"</br>", "typet": "ReverseEngineering</br>"}
+{"content": "Daniel Bilar @daniel_bilar</br>", "typet": "ReverseEngineering</br>"}
+{"content": "[\u00a0Web Security\u00a0]\u00a0\u00a0Formal sec analysis of OAuth 2.0 http://arxiv.org/pdf/1601.01229v2.pdf [Dolev-Yao model of web infrast.; 2 unknown attacks found] https://t.co/ruNUs1NVdi</br>", "typet": "Web Security</br>"}
+{"content": "\ufeff\"OAuth 2.0 \u5b89\u5168\u6027\u7efc\u5408\u6027\u5206\u6790\uff0c Paper\uff1a   https://t.co/7EOEdCQtYW\u00a0 https://t.co/ruNUs1NVdi\"</br>", "typet": "Web Security</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Web Security</br>"}
+{"content": "[\u00a0Web Security\u00a0]\u00a0\u00a0Malicious Use of the HTML5 Vibrate API https://shkspr.mobi/blog/2014/01/malicious-use-of-the-html5-vibrate-api/</br>", "typet": "Web Security</br>"}
+{"content": "\ufeff\"HTML5 \u9707\u52a8 API \u7684\u6076\u610f\u4f7f\u7528\uff1a   https://t.co/pw3m76BAii\"</br>", "typet": "Web Security</br>"}
+{"content": "Tencent Xuanwu Lab Security Daily News</br>", "typet": "Web Security</br>"}
+{"content": "\u0e23\u0547\ufec9\u06f7\ufec9 \u026d\u0e4f\u0433\u0e54 @stevelord</br>", "typet": "Web Security</br>"}
+{"content": "[\u00a0Android\u00a0]\u00a0\u00a0Covert Communication in Mobile Applications [pdf] http://j.mp/1SkwkXQ</br>", "typet": "Android</br>"}
+{"content": "\ufeff\"\u79fb\u52a8\u5e94\u7528\u7a0b\u5e8f\u4e2d\u7684\u9690\u853d\u901a\u4fe1\uff0c\u6765\u81ea\u9ebb\u7701\u7406\u5de5\u5b66\u9662\u7684 Paper:\u00a0   https://t.co/HqHyptVLx2 \"</br>", "typet": "Android</br>"}
+{"content": "Symantec @symantec</br>", "typet": "Android</br>"}
+{"content": "[\u00a0Android\u00a0]\u00a0\u00a0Vulnerability in #Android mediaserver could allow remote attacks. #MobileMonday http://symc.ly/1Ouu0de https://t.co/uwpb18s9pZ</br>", "typet": "Android</br>"}
+{"content": "\ufeff\"Android mediaserver \u6f0f\u6d1e\uff08CVE-2015-8507\uff09\u53ef\u4ee5\u5141\u8bb8\u8fdc\u7a0b\u4efb\u610f\u4ee3\u7801\u6267\u884c\uff0c\u6765\u81ea NVD \u7684\u6f0f\u6d1e\u63cf\u8ff0\uff1a   https://t.co/5EbP6euHBh https://t.co/uwpb18s9pZ\"</br>", "typet": "Android</br>"}
+{"content": "Joshua J. Drake @jduck</br>", "typet": "Android</br>"}
+{"content": "[\u00a0Android\u00a0]\u00a0\u00a0It s that time of the month again... Security fixes for Android https://source.android.com/security/bulletin/2016-01-01.html with some details here http://changes.droidsec.org/2016/01/04/android-5.1.1_r33.html</br>", "typet": "Android</br>"}
+{"content": "\ufeff\"Android 1 \u6708\u4efd\u7684\u6f0f\u6d1e\u516c\u544a\uff1a   https://t.co/FPnHRSZAZd\u00a0 \u4ee3\u7801\u53d8\u52a8\u7684\u7ec6\u8282\uff1a   https://t.co/ynpcnI2x19\"</br>", "typet": "Android</br>"}
+{"content": "jsoo @_jsoo_</br>", "typet": "Android</br>"}
+{"content": "[\u00a0Android\u00a0]\u00a0\u00a0\u201c\u767e\u8111\u866b\u201d\u624b\u673a\u75c5\u6bd2\u5206\u6790\u62a5\u544a - http://blogs.360.cn/360mobile/2016/01/06/analysis_of_bainaochong/</br>", "typet": "Android</br>"}
+{"content": "\ufeff\"\u201c\u767e\u8111\u866b\u201d\u624b\u673a\u75c5\u6bd2\u5206\u6790\u62a5\u544a -   https://t.co/Mw4c9vfguK\"</br>", "typet": "Android</br>"}
+{"content": "Attify @attifyme</br>", "typet": "Android</br>"}
+{"content": "[\u00a0Android\u00a0]\u00a0\u00a0Get the resources for #Secure #coding for #Android #app. #Blrdroid #mobsec #Androidsecurity http://buff.ly/1SIkiKr https://t.co/aQCZNFTQBL</br>", "typet": "Android</br>"}
+{"content": "\ufeff\"\u9762\u5411\u5f00\u53d1\u8005\u7684 Android \u5b89\u5168\u6307\u5357\uff1a   https://t.co/RDLxckOmdl https://t.co/aQCZNFTQBL \"</br>", "typet": "Android</br>"}
+{"content": "Unit 42 @Unit42_Intel</br>", "typet": "Android</br>"}
+{"content": "[\u00a0Attrack\u00a0]\u00a0\u00a0Angler Exploit Kit continues to evade detection, #Unit42 finds over 90,000 websites compromised http://bit.ly/1JFOMKV</br>", "typet": "Attrack</br>"}
+{"content": "\ufeff\"Angler Exploit Kit \u4e0d\u65ad\u5730\u8eb2\u907f\u68c0\u6d4b\uff0c Palo Alto Unit42 \u53d1\u73b0\uff0c\u8d85\u8fc7 9 \u4e07\u4e2a\u7f51\u7ad9\u5df2\u7ecf\u88ab\u653b\u51fb\uff1a\u00a0   https://t.co/NkUAuSmcm8\"</br>", "typet": "Attrack</br>"}
+{"content": "NCC Group @NCCGroupInfosec</br>", "typet": "Attrack</br>"}
+{"content": "[\u00a0Attrack\u00a0]\u00a0\u00a0NCC Group Blog: Cyber Security For The Financial Sector - https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/january/cyber-security-for-the-financial-sector/</br>", "typet": "Attrack</br>"}
+{"content": "\ufeff\"NCC Blog \u8c08\u91d1\u878d\u90e8\u95e8\u7684\u7f51\u7edc\u5b89\u5168   https://t.co/vuCim2wDok\"</br>", "typet": "Attrack</br>"}
+{"content": "J Wolfgang Goerlich @jwgoerlich</br>", "typet": "Attrack</br>"}
+{"content": "[\u00a0Attrack\u00a0]\u00a0\u00a0Analysis confirms coordinated hack attack caused Ukrainian power outage http://arstechnica.com/security/2016/01/analysis-confirms-coordinated-hack-attack-caused-ukrainian-power-outage/</br>", "typet": "Attrack</br>"}
+{"content": "\ufeff\"\u5206\u6790\u8bc1\u5b9e\u4e4c\u514b\u5170\u7535\u529b\u4e2d\u65ad\u4e8b\u4ef6\u662f\u4e00\u6b21\u9ed1\u5ba2\u5206\u5de5\u534f\u4f5c\u653b\u51fb\u7684\u7ed3\u679c\uff1a   https://t.co/WWYJXaNdb3\"</br>", "typet": "Attrack</br>"}
+{"content": "Full Disclosure @SecLists</br>", "typet": "Attrack</br>"}
+{"content": "[\u00a0Browser\u00a0]\u00a0\u00a0Google Chrome - Javascript Execution Via Default Search Engines http://goo.gl/fb/7Z6Z9e #FullDisclosure</br>", "typet": "Browser</br>"}
+{"content": "\ufeff\"Google Chrome \u901a\u8fc7\u9ed8\u8ba4\u641c\u7d22\u5f15\u64ce\u89e6\u53d1 Javascript \u6267\u884c\uff1a   https://t.co/ICPloMb51u\"</br>", "typet": "Browser</br>"}
+{"content": "Claud Xiao @claud_xiao</br>", "typet": "Browser</br>"}
+{"content": "[\u00a0Conference\u00a0]\u00a0\u00a0YouTube videos of security conferences in 2015: https://www.tunnelsup.com/online-security-conferences/</br>", "typet": "Conference</br>"}
+{"content": "\ufeff\"2015 \u5e74\u591a\u4e2a\u5b89\u5168\u4f1a\u8bae\u7684 YouTube \u89c6\u9891:   https://t.co/9sOG2RsG6V\"</br>", "typet": "Conference</br>"}
+{"content": "juraj somorovsky @jurajsomorovsky</br>", "typet": "Conference</br>"}
+{"content": "[\u00a0Crypto\u00a0]\u00a0\u00a0My favourite #realworldcrypto talk is online. K. Bhargavan: No more downgrades. Protecting TLS from legacy crypto. https://drive.google.com/file/d/0By2exizVD04fRW1kTnpPY1RTc1lOMnA4bXZYa1dQU0ROMG9N</br>", "typet": "Crypto</br>"}
+{"content": "\ufeff\"\u4fdd\u62a4 TLS\uff0c\u514d\u906d\u964d\u7ea7\u653b\u51fb\uff1a   https://t.co/i7YadjR23n\"</br>", "typet": "Crypto</br>"}
+{"content": "Iv\u00e1n @aszy</br>", "typet": "Crypto</br>"}
+{"content": "[\u00a0Detect\u00a0]\u00a0\u00a0A Hybrid Real-time Zero-day Attack Detection and Analysis System http://www.mecs-press.org/ijcnis/ijcnis-v7-n9/IJCNIS-V7-N9-3.pdf</br>", "typet": "Detect</br>"}
+{"content": "\ufeff\"\u6df7\u5408\u5b9e\u65f6 0Day \u653b\u51fb\u68c0\u6d4b\u548c\u5206\u6790\u7cfb\u7edf\uff0c\u6765\u81ea\u5370\u5ea6 Thapar Patiala \u5927\u5b66\uff0c Paper\uff1a   https://t.co/8RO6gwCIeH\"</br>", "typet": "Detect</br>"}
+{"content": "Casey Smith @subTee</br>", "typet": "Detect</br>"}
+{"content": "[\u00a0Exploit\u00a0]\u00a0\u00a0AuthentiShellcode\nPops Calc From Authenticode block\nSignature Checks Out vie Sigcheck.exe\nhttps://gist.github.com/subTee/a48d38ceba8e1e9d75ed\n:) https://t.co/EZhxF0jsAp</br>", "typet": "Exploit</br>"}
+{"content": "\ufeff\"AuthentiShellcode - \u5c06 Shellcode \u6ce8\u5165\u5230 InstallUtil.exe   https://t.co/rcXEGln0v9 \u00a0   https://t.co/EZhxF0jsAp\"</br>", "typet": "Exploit</br>"}
+{"content": "NCC Group @NCCGroupInfosec</br>", "typet": "Exploit</br>"}
+{"content": "[\u00a0Hardware\u00a0]\u00a0\u00a0NCC Group Research Insights Vol 8 - Hardware Design: FPGA Security Risks - https://www.nccgroup.trust/uk/our-research/research-insights-vol-8-hardware-design-fpga-security-risks/?research=Whitepapers</br>", "typet": "Hardware</br>"}
+{"content": "\ufeff\"\u786c\u4ef6\u8bbe\u8ba1\u4e4b FPGA \u7684\u5b89\u5168\u98ce\u9669\uff0c\u6765\u81ea NCC Group \u7684 Paper\uff1a   https://t.co/rVCNhklbbu\"</br>", "typet": "Hardware</br>"}
+{"content": "jsoo @_jsoo_</br>", "typet": "Hardware</br>"}
+{"content": "[\u00a0iOS\u00a0]\u00a0\u00a0iOS 8.1.2 \u8d8a\u72f1\u8fc7\u7a0b\u8be6\u89e3\u53ca\u76f8\u5173\u6f0f\u6d1e\u5206\u6790 - http://nirvan.360.cn/blog/?p=887 \nby Proteas of Qihoo 360 Nirvan Team</br>", "typet": "iOS</br>"}
+{"content": "\ufeff\"iOS 8.1.2 \u8d8a\u72f1\u8fc7\u7a0b\u8be6\u89e3\u53ca\u76f8\u5173\u6f0f\u6d1e\u5206\u6790\uff0c\u6765\u81ea 360 Nirvan Blog\uff0c\u4f5c\u8005\u4e3a Proteas\uff1a   https://t.co/CQQC3dk8Hl \"</br>", "typet": "iOS</br>"}
+{"content": "Hacker Fantastic @hackerfantastic</br>", "typet": "iOS</br>"}
+{"content": "[\u00a0Linux\u00a0]\u00a0\u00a0Amanda 3.3.1 local root exploit (0day) https://github.com/HackerFantastic/Public/blob/master/exploits/amanda-backup.txt - fun for all the family on Monday.</br>", "typet": "Linux</br>"}
+{"content": "\ufeff\"Amanda 3.3.1 \u672c\u5730 Root Exploit (0Day)   https://t.co/82vEeJLa1M \"</br>", "typet": "Linux</br>"}
+{"content": "Robert Rodriguez @RobInfoSecInst</br>", "typet": "Linux</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0A Case Study of Information Stealers: Part II\nhttp://goo.gl/9sYYCX\n#Hacking   #NetworkSecurity</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"Pony Stealer \u4fe1\u606f\u76d7\u53d6\u5de5\u5177\u6848\u4f8b\u7814\u7a76 Part 2:\u00a0   https://t.co/iJXKaIJi8s\"</br>", "typet": "Malware</br>"}
+{"content": "Florian Roth @Cyb3rOps</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0Web Malware Collection\nGithub Repo \n#Webshells & Flooder\nhttps://github.com/nikicat/web-malware-collection https://t.co/ejVdiVCMlz</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"Web \u6076\u610f\u6837\u672c\u6536\u96c6\uff0c\u5305\u62ec\u4e00\u4e9b\u540e\u95e8\u3001Bots\uff0c\u6076\u610f\u811a\u672c\u7b49\uff1a   https://t.co/ejVdiVCMlz \u00a0   https://t.co/1pvv5esPHt\"</br>", "typet": "Malware</br>"}
+{"content": "MalwareTech @MalwareTechBlog</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Network\u00a0]\u00a0\u00a0Exploring Peer to Peer Botnets - http://www.malwaretech.com/2016/01/exploring-peer-to-peer-botnets.html https://t.co/larm4yYRZ8</br>", "typet": "Network</br>"}
+{"content": "\ufeff\"\u63a2\u7a76 P2P Botnets\uff1a   https://t.co/larm4yYRZ8 https://t.co/XHbPhDPqqb\"</br>", "typet": "Network</br>"}
+{"content": "daveaitel @daveaitel</br>", "typet": "Network</br>"}
+{"content": "[\u00a0Network\u00a0]\u00a0\u00a0The evolution of wireless penetration testing: http://immunityservices.blogspot.com/2016/01/the-evolution-of-wireless-penetration.html</br>", "typet": "Network</br>"}
+{"content": "\ufeff\"\u65e0\u7ebf\u6e17\u900f\u6d4b\u8bd5\u7684\u6f14\u53d8:   https://t.co/plDd09T8AQ\"</br>", "typet": "Network</br>"}
+{"content": "Johannes Bader @viql</br>", "typet": "Network</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0Posted my notes on the domain generation algorithm in some DNSChanger / Alureon samples http://johannesbader.ch/2016/01/the-dga-in-alureon-dnschanger/. #dga</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"DNSChanger/Alureon \u6076\u610f\u6837\u672c\u4e2d\u7684\u57df\u540d\u751f\u6210\u7b97\u6cd5\uff1a   https://t.co/viUc9ccoNL \"</br>", "typet": "Others</br>"}
+{"content": "argp @_argp</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0Two Grassroots DICOM (GDCM) advisories by CENSUS co-worker Stelios Tsampas: http://census-labs.com/news/2016/01/11/gdcm-buffer-overflow-imageregionreaderreadintobuffer/ and http://census-labs.com/news/2016/01/11/gdcm-out-bounds-read-jpeglscodec-decodeextent/</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"GDCM \u7f13\u51b2\u533a\u6ea2\u51fa\u6f0f\u6d1e\uff08CVE-2015-8396\uff09\uff0c GDCM \u662f\u4e00\u4e2a\u8de8\u5e73\u53f0\u7684 DICOM \u5b9e\u73b0\u5e93:   https://t.co/cWD5xVOTQI\u00a0 JPEGLSCodec::DecodeExtent \u8d8a\u754c\u8bfb\u6f0f\u6d1e\uff08CVE-2015-8397\uff09   https://t.co/hJnC212ozd\"</br>", "typet": "Others</br>"}
+{"content": "Daniel Gruss @lavados</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0on #skylake there is a new clflushopt (optimized) instruction that allows faster #rowhammer-ing. I just added it to https://github.com/IAIK/rowhammerjs/tree/master/native</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"\u6d4b\u8bd5 DRAM RowHammer \u95ee\u9898\u7684\u4ee3\u7801\uff0c\u53ef\u4ee5\u7f16\u8bd1\u6210 Sandy\u3001Ivy\u3001haswell\u3001skylake \u7248\u672c\uff1a   https://t.co/4ezbB5djNi\"</br>", "typet": "Others</br>"}
+{"content": "jsoo @_jsoo_</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0\u4e66\u5b89\u7b2c\u56db\u671f\u300aJAVA\u53cd\u5e8f\u5217\u5316\u300b- \nhttp://down.jdsec.com/secbook-4/%E4%B9%A6%E5%AE%89-%E7%AC%AC%E5%9B%9B%E6%9C%9F.pdf</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"\u4e66\u5b89 \u7b2c\u56db\u671f\u300aJAVA\u53cd\u5e8f\u5217\u5316\u300b-   https://t.co/xHFrMbFe4b\"</br>", "typet": "Others</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Popular Software\u00a0]\u00a0\u00a0TrendMicro node.js HTTP server listening on localhost can execute commands https://code.google.com/p/google-security-research/issues/detail?id=693</br>", "typet": "Popular Software</br>"}
+{"content": "\ufeff\"\u8d8b\u52bf\u79d1\u6280 node.js \u672c\u5730 HTTP \u670d\u52a1\u5668\u53ef\u4ee5\u6267\u884c\u4efb\u610f\u547d\u4ee4   https://t.co/FTvTKkQgVF\"</br>", "typet": "Popular Software</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Popular Software</br>"}
+{"content": "[\u00a0Web Security\u00a0]\u00a0\u00a0Hijacking Verizon FiOS Accounts http://randywestergren.com/hijacking-verizon-fios-accounts/</br>", "typet": "Web Security</br>"}
+{"content": "\ufeff\"Verizon FiOS \u5e10\u6237\u52ab\u6301\u6f0f\u6d1e\uff1a   https://t.co/pi586p92TX\"</br>", "typet": "Web Security</br>"}
+{"content": "PHR34K @unpacker</br>", "typet": "Web Security</br>"}
+{"content": "[\u00a0Windows\u00a0]\u00a0\u00a0Virtual Bitlocker Containers, (Sat, Jan 9th) https://isc.sans.edu/diary.html?storyid=20593&rss</br>", "typet": "Windows</br>"}
+{"content": "\ufeff\"\u865a\u62df Bitlocker \u5bb9\u5668:   https://t.co/Y4czBiwmAB\"</br>", "typet": "Windows</br>"}
+{"content": "Casey Smith @subTee</br>", "typet": "Windows</br>"}
+{"content": "[\u00a0Windows\u00a0]\u00a0\u00a0Good Read:\nCaveats for Authenticode Code Signing\nhttp://blogs.msdn.com/b/ieinternals/archive/2014/09/04/personalizing-installers-using-unauthenticated-data-inside-authenticode-signed-binaries.aspx\nExploring Authenticode *grin*</br>", "typet": "Windows</br>"}
+{"content": "\ufeff\"\u4ee3\u7801\u7b7e\u540d\u9a8c\u8bc1\u6ce8\u610f\u4e8b\u9879\uff0c\u6765\u81ea MSDN Blog\uff1a   https://t.co/wHR87CVSZ4 \"</br>", "typet": "Windows</br>"}
+{"content": "Tencent Xuanwu Lab Security Daily News</br>", "typet": "Windows</br>"}
+{"content": "FireEye @FireEye</br>", "typet": "Windows</br>"}
+{"content": "[\u00a0Attack\u00a0]\u00a0\u00a0EMEA #CyberPredictions - Leadership become cyber security conscious. Full Report here: http://bddy.me/22Y3J1B https://t.co/Frlpo6mYk0</br>", "typet": "Attack</br>"}
+{"content": "\ufeff\"FireEye 2016 \u4e2d\u4e1c\u548c\u975e\u6d32\u5730\u533a\u5b89\u5168\u8d8b\u52bf\u9884\u6d4b\u62a5\u544a:\u00a0   https://t.co/Frlpo6mYk0 https://t.co/xHvHb5d391\"</br>", "typet": "Attack</br>"}
+{"content": "TrendLabs @TrendLabs</br>", "typet": "Attack</br>"}
+{"content": "[\u00a0Attack\u00a0]\u00a0\u00a0In Brazil, anyone can be an overnight sensation in #cybercrime: http://bit.ly/1RzHzit #deepweb https://t.co/dLqQHq1KgV</br>", "typet": "Attack</br>"}
+{"content": "\ufeff\"\u5df4\u897f\u5730\u4e0b\u7f51\u7edc\u72af\u7f6a\u8c03\u67e5\u62a5\u544a\uff0c\u6765\u81ea TrendMicro\uff1a   https://t.co/dLqQHq1KgV https://t.co/Oe0GfaV6el #deepweb\"</br>", "typet": "Attack</br>"}
+{"content": "TrendLabs @TrendLabs</br>", "typet": "Attack</br>"}
+{"content": "[\u00a0Attack\u00a0]\u00a0\u00a0The Canadian underground is vastly different from its neighbor: http://bit.ly/1Z4qnR2 #deepweb</br>", "typet": "Attack</br>"}
+{"content": "\ufeff\"\u52a0\u62ff\u5927\u7684\u7f51\u7edc\u5a01\u80c1\u73b0\u72b6\uff0c\u6765\u81ea TrendMicro Blog:   https://t.co/CUxSRiPWrk \"</br>", "typet": "Attack</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Attack</br>"}
+{"content": "[\u00a0Attack\u00a0]\u00a0\u00a0New RAT Trochilus Skilled at Espionage, Evading Detection https://asert.arbornetworks.com/wp-content/uploads/2016/01/ASERT-Threat-Intelligence-Brief-Uncovering-the-Seven-Pointed-Dagger.pdf</br>", "typet": "Attack</br>"}
+{"content": "\ufeff\"Seven Pointed Dagger - \u65b0 APT \u8fdc\u63a7\u5de5\u5177 Trochilus \u4ee5\u53ca\u5176\u4ed6\u5b9a\u5411\u5a01\u80c1\u7684\u53d1\u73b0\uff0c\u6765\u81ea Arbor \u7684\u5206\u6790\u62a5\u544a\uff1a   https://t.co/x0QCICfW8U\"</br>", "typet": "Attack</br>"}
+{"content": "Giuseppe `N3mes1s` @gN3mes1s</br>", "typet": "Attack</br>"}
+{"content": "[\u00a0Browser\u00a0]\u00a0\u00a0Bugs From Hell: Injected Third-party Code + Detours = a Bad Time - http://dblohm7.ca/blog/2016/01/11/bugs-from-hell-injected-third-party-code-plus-detours-equals-a-bad-time/</br>", "typet": "Browser</br>"}
+{"content": "\ufeff\"\u6765\u81ea\u5730\u72f1\u7684 Bug - \u5bf9 Firefox Bug 1213567 \u7684\u8c03\u8bd5\u5206\u6790\uff1a   https://t.co/OegeppqXfQ Bug 1213567:\u00a0   https://bugzilla.mozilla.org/show_bug.cgi?id=1218473 \"</br>", "typet": "Browser</br>"}
+{"content": "`Ivan @Ivanlef0u</br>", "typet": "Browser</br>"}
+{"content": "[\u00a0Debug\u00a0]\u00a0\u00a0ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/Oldbg2/x64dbg) with IDA https://github.com/bootleg/ret-sync</br>", "typet": "Debug</br>"}
+{"content": "\ufeff\"ret-sync - \u8c03\u8bd5\u4f1a\u8bdd\u540c\u6b65\u5de5\u5177\uff0c\u7528\u4e8e Windbg\u3001GDB\u3001LLDB\u3001Oldbg2\u3001x64dbg \u4e0e IDA \u4e4b\u95f4\u7684\u4f1a\u8bdd\u540c\u6b65   https://t.co/PsKpFN4Ofw \"</br>", "typet": "Debug</br>"}
+{"content": "Sebas Guerrero \u26a1 @0xroot</br>", "typet": "Debug</br>"}
+{"content": "[\u00a0Device\u00a0]\u00a0\u00a0Turning a webcam into a backdoor http://blog.vectranetworks.com/blog/turning-a-webcam-into-a-backdoor via @ revskills</br>", "typet": "Device</br>"}
+{"content": "\ufeff\"\u7ed9 D-Link WiFi \u6444\u50cf\u5934\u88c5\u4e00\u4e2a\u540e\u95e8\uff1a   https://t.co/ehLEMOwoLI \"</br>", "typet": "Device</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Device</br>"}
+{"content": "[\u00a0Device\u00a0]\u00a0\u00a0SSH Backdoor for FortiGate OS Version 4.x up to 5.0.7 http://seclists.org/fulldisclosure/2016/Jan/26</br>", "typet": "Device</br>"}
+{"content": "\ufeff\"FortiGate \u7cfb\u7edf 4.0~5.0.7 \u7248\u672c\u5b58\u5728 SSH \u540e\u95e8\uff0c PoC\uff1a   https://t.co/5OjXynsHDJ\u00a0 \u6765\u81ea Security ToolKit \u7684\u300a\u98de\u5854 SSH \u540e\u95e8 4900 \u53f0\u673a\u5668\u6837\u672c\u6d4b\u8bd5\u62a5\u544a\u300b\uff1a   http://tools.pwn.ren/2016/01/12/%E9%9A%8F%E6%9C%BA4900%E5%8F%B0%E6%9C%BA%E5%99%A8%E6%A0%B7%E6%9C%AC%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8A.html\u00a0 \u300a\u98de\u5854SSH\u540e\u95e8 \u8fdb\u4e00\u6b65\u5229\u7528\u65b9\u6cd5\u300b\uff1a   http://tools.pwn.ren/2016/01/12/ssh-backdoor-for-fortigate-os-version-4-x-up-to-5-0-7%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%88%A9%E7%94%A8-html.html\u00a0 \u6765\u81ea Sebug \u7684\u540e\u95e8\u5728\u7ebf\u68c0\u6d4b\uff1a   https://www.sebug.net/monster/?vul_id=90378\u00a0 ZoomEye \u5bf9\u98de\u5854\u8bbe\u5907\u7684\u626b\u63cf\u7ed3\u679c\uff1a   https://www.zoomeye.org/search?q=FortiGate \"</br>", "typet": "Device</br>"}
+{"content": "Roberto Paleari @rpaleari</br>", "typet": "Device</br>"}
+{"content": "[\u00a0Device\u00a0]\u00a0\u00a0Some vulns affecting Samsung \"Security\" cameras(hint: trivial arbitrary file read with clear-text pwds) cc @ joystick\nhttp://blog.emaze.net/2016/01/multiple-vulnerabilities-samsung-srn.html</br>", "typet": "Device</br>"}
+{"content": "\ufeff\"\u4e09\u661f\u7f51\u7edc\u6444\u50cf\u673a\u5b58\u5728\u591a\u4e2a\u6f0f\u6d1e\uff0c\u5305\u62ec\u4efb\u610f\u6587\u4ef6\u8bfb\u53d6\u6f0f\u6d1e\uff08CVE-2015-8279\uff09\u3001\u56fa\u4ef6\u5f31\u52a0\u5bc6\u6f0f\u6d1e\uff08CVE-2015-8281\uff09\u3001\u7528\u6237\u53ef\u679a\u4e3e\u6f0f\u6d1e\uff08CVE-2015-8280\uff09\uff1a   https://t.co/WWrFkwUIF7 \"</br>", "typet": "Device</br>"}
+{"content": "Binni Shah @binitamshah</br>", "typet": "Device</br>"}
+{"content": "[\u00a0Fuzzing\u00a0]\u00a0\u00a0Exploiting Trade-offs* in Symbolic Execution for Identifying Security Bugs : http://sas2015.inria.fr/sas_invited_talk.pdf (Slides)</br>", "typet": "Fuzzing</br>"}
+{"content": "\ufeff\"\u5229\u7528\u5b9e\u7528\u5316\u7684\u7b26\u53f7\u6267\u884c\u6316\u6398\u5b89\u5168\u6f0f\u6d1e\uff0c\u6765\u81ea Thanassis Avgerinos \u5728 SAS Workshop \u7684\u6f14\u8bb2\uff1a   https://t.co/vJJnF791e7\u00a0 \u4e4b\u524d\u63a8\u9001\u8fc7\u76f8\u5173\u7684 Paper:   http://repository.cmu.edu/cgi/viewcontent.cgi?article=1478&context=dissertations \"</br>", "typet": "Fuzzing</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Fuzzing</br>"}
+{"content": "[\u00a0Hardware\u00a0]\u00a0\u00a0Counting bits in hardware: reverse engineering the silicon in the ARM1 processor http://www.righto.com/2016/01/counting-bits-in-hardware-reverse.html</br>", "typet": "Hardware</br>"}
+{"content": "\ufeff\"\u9006\u5411 ARM1 \u5904\u7406\u5668\u4e2d\u7684\u7845\uff1a   https://t.co/5rXfPWgqwI \"</br>", "typet": "Hardware</br>"}
+{"content": "pancake @trufae</br>", "typet": "Hardware</br>"}
+{"content": "[\u00a0iOS\u00a0]\u00a0\u00a0iOS 9.3 Beta 1 arm64 Jailbreak Demo (w/ Code Injection) https://www.youtube.com/watch?v=ZDMWIl3bde8</br>", "typet": "iOS</br>"}
+{"content": "\ufeff\"iOS 9.3 Beta 1 arm64 \u8d8a\u72f1 Demo\uff0c Youtube \u89c6\u9891\uff1a   https://t.co/SxvyQwgZ1a\"</br>", "typet": "iOS</br>"}
+{"content": "Giuseppe `N3mes1s` @gN3mes1s</br>", "typet": "iOS</br>"}
+{"content": "[\u00a0Linux\u00a0]\u00a0\u00a0Write a filesystem with FUSE - http://engineering.facile.it/write-filesystem-fuse/</br>", "typet": "Linux</br>"}
+{"content": "\ufeff\"\u5229\u7528 FUSE \u5199\u4e00\u4e2a\u6587\u4ef6\u7cfb\u7edf -   https://t.co/eVV276TS72\"</br>", "typet": "Linux</br>"}
+{"content": "vincent zimmer @vincentzimmer</br>", "typet": "Linux</br>"}
+{"content": "[\u00a0Linux\u00a0]\u00a0\u00a0Minnowboard Max: Enable the firmware (TXE) TPM 2.0 http://prosauce.org/blog/2016/1/11/minnowboard-max-enable-and-test-the-firmware-txe-tpm-20</br>", "typet": "Linux</br>"}
+{"content": "\ufeff\"\u5728 Intel Minnowboard MAX \u5f00\u53d1\u677f\u4e0a\u542f\u7528\u56fa\u4ef6 TPM 2.0\u00a0   https://t.co/wRretxZ8qB\"</br>", "typet": "Linux</br>"}
+{"content": "David Cowen @HECFBlog</br>", "typet": "Linux</br>"}
+{"content": "[\u00a0Mac OS X\u00a0]\u00a0\u00a0Our #FOSS FSEvents parser for OSX and IOS is now available on Github https://github.com/dlcowen/FSEventsParser/tree/master #dfir #infosec as seen on the #forensiclunch</br>", "typet": "Mac OS X</br>"}
+{"content": "\ufeff\"OS X/iOS FSEvent \u65e5\u5fd7\u89e3\u6790\u5de5\u5177\uff1a   https://t.co/SriH4eiJZR\"</br>", "typet": "Mac OS X</br>"}
+{"content": "mlwre @huntingmalware</br>", "typet": "Mac OS X</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0Our first post! Inside Derkziel botnet https://mlwre.github.io/2015/12/11/Derkziel-Sofware.html</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"\u6df1\u5165\u5206\u6790 Derkziel Botnet:   https://t.co/FRzIuLlPwo\"</br>", "typet": "Malware</br>"}
+{"content": "Evilcry_ @Blackmond_</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0Malware analysis with VM instrumentation, WMI, winexe, Volatility and Metabrik - http://www.metabrik.org/blog/2016/01/09/malware-analysis-with-vm-instrumentation-wmi-winexe-volatility-and-metabrik/</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"\u5229\u7528\u865a\u62df\u673a\u81ea\u7701\u3001WMI\u3001winexe\u3001Volatility\u3001Metabrik \u5de5\u5177\u5206\u6790\u6076\u610f\u8f6f\u4ef6\uff1a   https://t.co/qf7mtjXDUz\"</br>", "typet": "Malware</br>"}
+{"content": "PHR34K @unpacker</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0Ransomware evolution: Another brick in the CryptoWall https://nakedsecurity.sophos.com/2016/01/11/ransomware-evolution-another-brick-in-the-cryptowall/</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"CryptoWall 4.0 \u51fa\u73b0 - CryptoWall \u7684\u53c8\u4e00\u5757\u677f\u7816\uff1a   https://t.co/PSF1utfUGV \"</br>", "typet": "Malware</br>"}
+{"content": "PHR34K @unpacker</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0MMD-0050-2016 - Incident report: ELF Linux/Torte infection (in Wordpress) http://blog.malwaremustdie.org/2016/01/mmd-0050-2016-incident-report-elf.html</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"\u901a\u8fc7 WordPress \u5411\u670d\u52a1\u5668\u690d\u5165 ELF Linux/Torte Botnet\uff0c\u6765\u81ea MalwareMustDie Blog:   https://t.co/hvrIR4RwQJ\"</br>", "typet": "Malware</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0Ransom32 \u2013 look at the malicious package http://blog.malwarebytes.org/intelligence/2016/01/ransom32-look-at-the-malicious-package/</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"Ransom32 \u2014 \u770b\u770b\u8fd9\u4e2a JavaScript \u52d2\u7d22\u8f6f\u4ef6\u5305\u7684\u5b9e\u73b0\u7ec6\u8282   https://t.co/F9yPUxN2ED\"</br>", "typet": "Malware</br>"}
+{"content": "Justin Seitz @jms_dot_py</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0New Post! Automatically Finding Weapons in Social Media Images Part 1 | Automating OSINT Blog http://bit.ly/1SKqqSq #osint #python</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"\u5728\u793e\u4ea4\u5a92\u4f53\u4e2d\u81ea\u52a8\u8bc6\u522b\u6b66\u5668\u56fe\u7247 Part 1:   https://t.co/ViYUyKC1vG\"</br>", "typet": "Others</br>"}
+{"content": "Full Disclosure @SecLists</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Popular Software\u00a0]\u00a0\u00a0SEC Consult whitepaper: Bypassing McAfee Application Whitelisting for\u2026 http://goo.gl/fb/AyjmbI #FullDisclosure</br>", "typet": "Popular Software</br>"}
+{"content": "\ufeff\"\u7ed5\u8fc7 McAfee \u5173\u952e\u8bbe\u65bd\u7cfb\u7edf\u7684\u5e94\u7528\u767d\u540d\u5355\u9650\u5236\uff0c\u6765\u81ea SEC Consult \u7684 Paper:   https://t.co/aYXWa8k0uy \"</br>", "typet": "Popular Software</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Popular Software</br>"}
+{"content": "[\u00a0Popular Software\u00a0]\u00a0\u00a0Analysis of Adobe Flash Player ID3 Tag Parsing Integer Overflow Vulnerability (CVE-2015-5560) https://blog.coresecurity.com/2016/01/12/analysis-of-adobe-flash-player-id3-tag-parsing-integer-overflow-vulnerability-cve-2015-5560/</br>", "typet": "Popular Software</br>"}
+{"content": "\ufeff\"Adobe Flash Player ID3 Tag \u89e3\u6790\u6574\u6570\u6ea2\u51fa\u6f0f\u6d1e\u5206\u6790 (CVE-2015-5560)\uff0c\u6765\u81ea CoreSecurity Blog\uff1a   https://t.co/3HX9oT2mRJ \"</br>", "typet": "Popular Software</br>"}
+{"content": "Threatpost @threatpost</br>", "typet": "Popular Software</br>"}
+{"content": "[\u00a0Popular Software\u00a0]\u00a0\u00a0. @ Adobe updates Reader and Acrobat, patches 17 code execution flaws https://threatpost.com/adobe-patches-code-execution-flaws-in-reader-acrobat/115863/ via @ threatpost</br>", "typet": "Popular Software</br>"}
+{"content": "\ufeff\"Adobe Acrobat/Reader \u53d1\u5e03\u8865\u4e01\u66f4\u65b0\u516c\u544a\uff0c\u672c\u6b21\u4fee\u590d\u4e86 17 \u4e2a\u6f0f\u6d1e\uff0c\u5176\u4e2d 16 \u4e2a\u53ef\u4ee5\u5b9e\u73b0\u4ee3\u7801\u6267\u884c\uff1a   https://t.co/JAUE0QTuQ0 \"</br>", "typet": "Popular Software</br>"}
+{"content": "mr_me @_mr_me_</br>", "typet": "Popular Software</br>"}
+{"content": "[\u00a0Vulnerability\u00a0]\u00a0\u00a0Analysis of CVE-2016-0035, A Remote Code Execution in Microsoft Office Excel http://sourceincite.com/2015/12/15/analysis-of-cve-2016-0035-a-remote-code-execution-in-microsoft-office-excel/ thanks to @ msftsecresponse & @ thezdi !</br>", "typet": "Vulnerability</br>"}
+{"content": "\ufeff\"Microsoft Office Excel \u8fdc\u7a0b\u4ee3\u7801\u6267\u884c\u6f0f\u6d1e\uff08CVE-2016-0035\uff09\u7684\u5206\u6790\uff1a\u00a0   https://t.co/7J0QwWe5xs \"</br>", "typet": "Vulnerability</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Vulnerability</br>"}
+{"content": "[\u00a0Vulnerability\u00a0]\u00a0\u00a0Windows Remote Desktop Protocol Security Bypass Vulnerability \u2013 CVE-2016-0019 https://technet.microsoft.com/library/security/MS16-007</br>", "typet": "Vulnerability</br>"}
+{"content": "\ufeff\"Windows \u8fdc\u7a0b\u684c\u9762\u534f\u8bae\u5b89\u5168\u7279\u6027\u7ed5\u8fc7\u6f0f\u6d1e \u2014\u2014 MS16-007(CVE-2016-0019)   https://t.co/c4WWvniJti \u5fae\u8f6f\u672c\u6708\u7684\u6f0f\u6d1e\u8865\u4e01\u516c\u544a\u6458\u8981\uff1a   https://technet.microsoft.com/en-us/library/security/ms16-jan.aspx \u81f4\u8c22\u4fe1\u606f\uff1a   https://technet.microsoft.com/en-us/library/security/mt674627.aspx \"</br>", "typet": "Vulnerability</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Vulnerability</br>"}
+{"content": "[\u00a0Web Security\u00a0]\u00a0\u00a0XSS Flaws lead to Keylogging,Webcams, & more http://neonprimetime.blogspot.com/2016/01/xss-flaws-lead-to-keyloggingwebcams-more.html</br>", "typet": "Web Security</br>"}
+{"content": "\ufeff\"\u901a\u8fc7 XSS \u6f0f\u6d1e\u5b9e\u73b0\u952e\u76d8\u8bb0\u5f55\u3001\u5f00\u542f\u6444\u50cf\u5934\uff1a   https://t.co/GmLWojopyk\"</br>", "typet": "Web Security</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Web Security</br>"}
+{"content": "[\u00a0Web Security\u00a0]\u00a0\u00a0A XSS may have exposed users of the eBay website to phishing attacks http://securityaffairs.co/wordpress/43521/hacking/ebay-website-to-phishing-attacks.html</br>", "typet": "Web Security</br>"}
+{"content": "\ufeff\"eBay \u7f51\u7ad9\u7684\u4e00\u4e2a XSS \u6f0f\u6d1e\u53ef\u80fd\u4f7f\u7528\u6237\u53d7\u5230\u9493\u9c7c\u653b\u51fb\uff1a   https://t.co/T5h8iplq4h \"</br>", "typet": "Web Security</br>"}
+{"content": "James Forshaw @tiraniddo</br>", "typet": "Web Security</br>"}
+{"content": "[\u00a0Windows\u00a0]\u00a0\u00a0Quick tutorial on how to go from a dead Windows process to EoP. http://googleprojectzero.blogspot.com/2016/01/raising-dead.html</br>", "typet": "Windows</br>"}
+{"content": "\ufeff\"\u590d\u6d3b\u6b7b\u8005 - \u901a\u8fc7\u5782\u6b7b\u7684\u8fdb\u7a0b\u63d0\u6743\uff0c \u901a\u8fc7 NtCreateLowBoxToken \u4efb\u610f handle \u6355\u83b7\u7684\u95ee\u9898\u5b9e\u73b0\u63d0\u6743\uff1a   https://t.co/jjH8FsUJRn\u00a0 NtCreateLowBoxToken Issue:   https://code.google.com/p/google-security-research/issues/detail?id=483 \"</br>", "typet": "Windows</br>"}
+{"content": "Tencent Xuanwu Lab Security Daily News</br>", "typet": "Windows</br>"}
+{"content": "PHR34K @unpacker</br>", "typet": "Windows</br>"}
+{"content": "[\u00a0Attack\u00a0]\u00a0\u00a0BlackEnergy and the Ukraine: Signals vs. Noise http://blog.cylance.com/blackenergy-and-the-ukraine-signals-vs.-noise</br>", "typet": "Attack</br>"}
+{"content": "\ufeff\"BlackEnergy \u548c\u4e4c\u514b\u5170: \u4fe1\u53f7\u4e0e\u566a\u58f0\uff0c\u6765\u81ea Cylance Blog\uff1a   https://t.co/SSUnPCXk8O\"</br>", "typet": "Attack</br>"}
+{"content": "Rapid7 @rapid7</br>", "typet": "Attack</br>"}
+{"content": "[\u00a0Attack\u00a0]\u00a0\u00a0We re sharing key findings from our Incident Detection & Response survey [BLOG]: http://bit.ly/1OqR913 #DFIR https://t.co/hnTsLJeJcR</br>", "typet": "Attack</br>"}
+{"content": "\ufeff\"\u6765\u81ea Rapid7 \u7684\u300a2015 \u5e74\u5e94\u6025\u4e8b\u4ef6\u68c0\u6d4b\u3001\u54cd\u5e94\u8c03\u67e5\u62a5\u544a\u300b   https://t.co/hnTsLJeJcR https://t.co/ElFLFvplmi #DFIR\"</br>", "typet": "Attack</br>"}
+{"content": "Unit 42 @Unit42_Intel</br>", "typet": "Attack</br>"}
+{"content": "[\u00a0Attack\u00a0]\u00a0\u00a0#Unit42 takes a closer look at recent holiday season-themed attacks http://bit.ly/1P8NaFV</br>", "typet": "Attack</br>"}
+{"content": "\ufeff\"Palo Alto \u5e26\u5927\u5bb6\u770b\u770b\u6700\u8fd1\u4e00\u4e9b\u5047\u671f\u4e3b\u9898\u7684\u653b\u51fb\uff0c\u5c3d\u7ba1\u662f\u5047\u671f\uff0c\u4f46\u653b\u51fb\u8005\u6ca1\u6709\u505c\u6b47\uff1a   https://t.co/xfePnF3pRS\"</br>", "typet": "Attack</br>"}
+{"content": "Exploit Database @exploitdb</br>", "typet": "Attack</br>"}
+{"content": "[\u00a0Browser\u00a0]\u00a0\u00a0[dos] - Internet Explorer 11.0.9600.18124 EdUtil::GetCommonAncestorElement - Denial of Service: Internet Explo... http://bit.ly/1ZukzWH</br>", "typet": "Browser</br>"}
+{"content": "\ufeff\"Internet Explorer 11.0.9600.18124 EdUtil::GetCommonAncestorElement \u62d2\u7edd\u670d\u52a1 PoC\uff1a   https://t.co/Bx7dhWuAra\"</br>", "typet": "Browser</br>"}
+{"content": "Microsoft Edge Dev @MSEdgeDev</br>", "typet": "Browser</br>"}
+{"content": "[\u00a0Browser\u00a0]\u00a0\u00a0ChakraCore GitHub repository is now open https://blogs.windows.com/msedgedev/2016/01/13/chakracore-now-open/</br>", "typet": "Browser</br>"}
+{"content": "\ufeff\"Chakra JavaScript \u5f15\u64ce\u7684\u6838\u5fc3\u7ec4\u4ef6 ChakraCore \u5f00\u6e90\u4e86\uff1a   https://t.co/CZGh3eT3cs Github Repo\uff1a   https://github.com/Microsoft/ChakraCore \"</br>", "typet": "Browser</br>"}
+{"content": "Enno Rey @Enno_Insinuator</br>", "typet": "Browser</br>"}
+{"content": "[\u00a0Device\u00a0]\u00a0\u00a0Cisco Aironet 1800 Series Access Point Default Static Account Credentials Vulnerability\nhttp://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160113-air\n#staticcredentialssurewhynot</br>", "typet": "Device</br>"}
+{"content": "\ufeff\"Cisco Aironet 1800 \u7cfb\u5217\u63a5\u5165\u70b9\u8bbe\u5907\u5b58\u5728\u9ed8\u8ba4\u8d26\u6237\u5bc6\u7801\u6f0f\u6d1e\uff0c\u653b\u51fb\u8005\u53ef\u4ee5\u8fdc\u7a0b\u767b\u9646\u8bbe\u5907\uff1a   https://t.co/sIf4jlncVz \"</br>", "typet": "Device</br>"}
+{"content": "Kimberly @StopMalvertisin</br>", "typet": "Device</br>"}
+{"content": "[\u00a0Exploit\u00a0]\u00a0\u00a0Microsoft SRD | Triaging the exploitability of IE/EDGE crashes http://bit.ly/1PViSJM</br>", "typet": "Exploit</br>"}
+{"content": "\ufeff\"\u8bc4\u4f30 IE/Edge \u5d29\u6e83\u7684\u53ef\u5229\u7528\u6027\uff0c\u6765\u81ea\u5fae\u8f6f SRD Blog\uff1a   https://t.co/yqBcJkRvOF\"</br>", "typet": "Exploit</br>"}
+{"content": "Yakup Korkmaz @likeitcool</br>", "typet": "Exploit</br>"}
+{"content": "[\u00a0Forensics\u00a0]\u00a0\u00a0Introduction to DFIR: http://sroberts.github.io/2016/01/11/introduction-to-dfir-the-beginning/ #DFIR @ sroberts</br>", "typet": "Forensics</br>"}
+{"content": "\ufeff\"DFIR\uff08\u6570\u5b57\u53d6\u8bc1\u548c\u5e94\u6025\u54cd\u5e94\uff09\u5165\u95e8\uff0c\u4ecb\u7ecd\u4e86\u4e00\u4e9b\u5e94\u6025\u76f8\u5e94\u3001\u53d6\u8bc1\u65b9\u9762\u7684\u5de5\u5177\u548c\u6280\u5de7\uff0c\u6765\u81ea sroberts \u7684 Blog\uff1a   https://t.co/of0Tb9iDS8\"</br>", "typet": "Forensics</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Forensics</br>"}
+{"content": "[\u00a0Fuzzing\u00a0]\u00a0\u00a0Hacking for Charity: Automated Bug-finding in LibOTR http://blog.trailofbits.com/2016/01/13/hacking-for-charity-automated-bug-finding-in-libotr</br>", "typet": "Fuzzing</br>"}
+{"content": "\ufeff\"\u4e3a\u6148\u5584\u4e8b\u4e1a Hacking: \u81ea\u52a8\u5316\u5bfb\u627e LibOTR \u7684\u6f0f\u6d1e\uff0c LibOTR \u662f\u4e00\u4e2a\u6d41\u884c\u7684\u52a0\u5bc6\u6d88\u606f\u4f20\u8f93\u5e93\uff1a   https://t.co/DoMRJgv7fw\"</br>", "typet": "Fuzzing</br>"}
+{"content": "Quequero @quequero</br>", "typet": "Fuzzing</br>"}
+{"content": "[\u00a0Fuzzing\u00a0]\u00a0\u00a0afl-fuzz-js a porting of afl fuzzer for javascript: https://github.com/tunz/afl-fuzz-js</br>", "typet": "Fuzzing</br>"}
+{"content": "\ufeff\"afl-fuzz-js - AFL-Fuzz \u7684 JavaScript \u79fb\u690d\u7248:   https://t.co/6nUAW3sQje\"</br>", "typet": "Fuzzing</br>"}
+{"content": "Giuseppe `N3mes1s` @gN3mes1s</br>", "typet": "Fuzzing</br>"}
+{"content": "[\u00a0Linux\u00a0]\u00a0\u00a0A type-safe and zero-allocation library for reading and navigating ELF files in Rust - http://www.ncameron.org/blog/a-type-safe-and-zero-allocation-library-for-reading-and-navigating-elf-files/</br>", "typet": "Linux</br>"}
+{"content": "\ufeff\"\u4e00\u4e2a\u7c7b\u578b\u5b89\u5168\u548c\u96f6\u5185\u5b58\u5206\u914d\u7684 ELF \u89e3\u6790\u3001\u5bfc\u822a\u5e93\uff0c Rust \u8bed\u8a00\u7f16\u5199\uff1a   https://t.co/KduYwKWUIf\"</br>", "typet": "Linux</br>"}
+{"content": "TrendLabs @TrendLabs</br>", "typet": "Linux</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0Spammers are using #DavidBowie to bypass #spam filters: http://bit.ly/1KcO1Uz https://t.co/yKxnxJkgxD</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"\u5783\u573e\u90ae\u4ef6\u53d1\u9001\u8005\u6b63\u5728\u4f7f\u7528 DavidBowie\uff08\u8457\u540d\u6447\u6eda\u660e\u661f\uff09 \u7ed5\u8fc7\u5783\u573e\u90ae\u4ef6\u8fc7\u6ee4\u5668\uff1a\u00a0   https://t.co/yKxnxJkgxD https://t.co/WHUqTYObKB\"</br>", "typet": "Malware</br>"}
+{"content": "c0d3inj3cT @c0d3inj3cT</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0#Nanocore and AutoIT Cryptor Unpacking and Deobfuscation: http://goo.gl/tjT1Hc cc: @ Xylit0l @ PhysicalDrive0</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"Nanocore \u4e0e AutoIT \u52a0\u5bc6\u58f3\u6837\u672c\u7684\u89e3\u538b\u7f29:   https://t.co/ywsrzPwnyK \"</br>", "typet": "Malware</br>"}
+{"content": "PhysicalDrive0 @PhysicalDrive0</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0#TeslaCrypt Ransomware 3.0 https://malwr.com/analysis/YmE4MmUwZDNhMzVlNGI0ZjkxNTg3MTBiZjI3NDU5NTI/</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"\u52d2\u7d22\u8f6f\u4ef6 TeslaCrypt 3.0 \u5728 Malwr \u7cfb\u7edf\u4e2d\u7684\u52a8\u6001\u5206\u6790\u7ed3\u679c\uff1a\u00a0   https://t.co/6OjuRM8UHX \"</br>", "typet": "Malware</br>"}
+{"content": "Decalage @decalage2</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0Unmasking Malfunctioning Malicious Documents: http://decalage.info/malformed_maldocs - featuring @ hahn_katja @ DidierStevens @ PayloadSecurity and oletools</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"\u5206\u6790\u6545\u969c\u7684\u6076\u610f\u6587\u6863\uff0c\u6765\u81ea decalage Blog:   https://t.co/wRD15cTEUv\"</br>", "typet": "Malware</br>"}
+{"content": "Frank Denis @jedisct1</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0Toolkit for ZeroAccess/Sirefef v3 https://github.com/hfiref0x/ZeroAccess</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"ZeroAccess/Sirefef v3 Toolkit\uff1a   https://t.co/mhRHyVnwkm \"</br>", "typet": "Malware</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Network\u00a0]\u00a0\u00a0Flexible, secure SSH with DNSSEC https://blog.cloudflare.com/flexible-secure-ssh-with-dnssec/</br>", "typet": "Network</br>"}
+{"content": "\ufeff\"\u501f\u52a9 DNSSEC\uff0c\u642d\u5efa\u7075\u6d3b\u3001\u5b89\u5168\u7684 SSH \u670d\u52a1\uff1a   https://t.co/TTgPOyxyNz\"</br>", "typet": "Network</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Network</br>"}
+{"content": "[\u00a0Network\u00a0]\u00a0\u00a0HTTP Evasions Explained 9 - How to fix the inspection bypasses http://noxxi.de/research/http-evader-explained-9-how-to-fix.html</br>", "typet": "Network</br>"}
+{"content": "\ufeff\"HTTP \u9003\u9038\u7cfb\u5217 9 - \u5982\u4f55\u7ed5\u8fc7\u5e94\u7528\u5c42\u7684\u68c0\u67e5\uff1a\u00a0   https://t.co/G3iTfRM6LQ\"</br>", "typet": "Network</br>"}
+{"content": "PHR34K @unpacker</br>", "typet": "Network</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0Android.Bankosy: All ears on voice call-based 2FA http://www.symantec.com/connect/ko/blogs/androidbankosy-all-ears-voice-call-based-2fa</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"Android Bankosy \u6076\u610f\u8f6f\u4ef6\u622a\u83b7\u57fa\u4e8e\u8bed\u97f3\u547c\u53eb\u7684\u4e24\u6b65\u8ba4\u8bc1\u4fe1\u606f\uff0c\u57fa\u4e8e\u8bed\u97f3\u7684\u4e24\u6b65\u8ba4\u8bc1\u7cfb\u7edf\u662f\u5728\u4e00\u6b21\u4e00\u5bc6\u77ed\u4fe1\u8ba4\u8bc1\u7684\u57fa\u7840\u4e0a\u7684\u589e\u5f3a\u7248\uff0c\u4e4b\u524d\u6076\u610f\u8f6f\u4ef6\u901a\u8fc7\u8f6c\u53d1 OTP\uff08\u4e00\u6b21\u4e00\u5bc6\uff09\u77ed\u4fe1\u7ed5\u8fc7\u8ba4\u8bc1\uff0c\u73b0\u5728\u653b\u51fb\u8005\u5df2\u7ecf\u5b9e\u73b0\u4e86\u8bed\u97f3\u547c\u53eb\u7684\u8f6c\u53d1\uff1a   https://t.co/1CLxA0UAT8\"</br>", "typet": "Others</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Pentest\u00a0]\u00a0\u00a0BSQLinjector - Blind SQL Injection Exploitation Tool http://www.kitploit.com/2016/01/bsqlinjector-blind-sql-injection.html</br>", "typet": "Pentest</br>"}
+{"content": "\ufeff\"BSQLinjector - SQL \u76f2\u6ce8\u653b\u51fb\u5de5\u5177\uff0cRuby \u8bed\u8a00\u7f16\u5199\uff1a   https://t.co/34pyn4S2kv\"</br>", "typet": "Pentest</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Pentest</br>"}
+{"content": "[\u00a0Popular Software\u00a0]\u00a0\u00a0ZDI-16-010: Adobe Acrobat Reader DC Search Query Use-After-Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-010/</br>", "typet": "Popular Software</br>"}
+{"content": "\ufeff\"Adobe Acrobat \u9605\u8bfb\u5668\u641c\u7d22\u67e5\u8be2 UAF RCE\uff08ZDI-16-010\uff09\uff0c\u6765\u81ea ZDI \u516c\u544a:\u00a0   https://t.co/1tWaiHuESB\"</br>", "typet": "Popular Software</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Popular Software</br>"}
+{"content": "[\u00a0Popular Software\u00a0]\u00a0\u00a0ZDI-16-017: Adobe Reader Graphics State Parameter Dictionary Double Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-017/</br>", "typet": "Popular Software</br>"}
+{"content": "\ufeff\"Adobe \u9605\u8bfb\u5668\u56fe\u5f62\u72b6\u6001\u53c2\u6570\u5b57\u5178 Double Free RCE\uff08 ZDI-16-017\uff09\uff0c\u6765\u81ea ZDI \u516c\u544a:   https://t.co/nI9ENgGOBn\"</br>", "typet": "Popular Software</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Popular Software</br>"}
+{"content": "[\u00a0Popular Software\u00a0]\u00a0\u00a0ZDI-16-016:  Adobe Reader DC AGM Use-After-Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-016/</br>", "typet": "Popular Software</br>"}
+{"content": "\ufeff\"Adobe \u9605\u8bfb\u5668 agm.dll UAF RCE\uff08ZDI-16-016\uff09\uff0c\u6765\u81ea ZDI Blog:\u00a0   https://t.co/yEWte2p94T\"</br>", "typet": "Popular Software</br>"}
+{"content": "PythonArsenal @PythonArsenal</br>", "typet": "Popular Software</br>"}
+{"content": "[\u00a0ReverseEngineering\u00a0]\u00a0\u00a0Enoki - Wrapper class for IDAPython. Regroups various useful functions for reverse engineering of binaries. https://github.com/InfectedPacket/Idacraft</br>", "typet": "ReverseEngineering</br>"}
+{"content": "\ufeff\"Enoki - IDAPython \u7684\u5c01\u88c5\u7c7b\u5e93\uff0c\u5728 IDAPython \u7684\u57fa\u7840\u4e0a\u4e3a\u9006\u5411\u63d0\u4f9b\u4e86\u4e00\u4e9b\u6709\u7528\u7684\u5de5\u5177\u51fd\u6570\uff1a   https://t.co/LDChOceRjI\"</br>", "typet": "ReverseEngineering</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "ReverseEngineering</br>"}
+{"content": "[\u00a0Tools\u00a0]\u00a0\u00a0Benchmarking Windows Packet-Capture Methods  http://blog.nektra.com/main/2016/01/12/benchmarking-windows-packet-capture-methods/</br>", "typet": "Tools</br>"}
+{"content": "\ufeff\"Windows \u7f51\u7edc\u6570\u636e\u5305\u6355\u83b7\u5e93\u6027\u80fd\u6bd4\u8f83\uff0c \u6bd4\u8f83 WinPcap\u3001NDIS 6.0\u3001WFP \u7684\u6027\u80fd\uff1a   https://t.co/jG3aB9NNqW\"</br>", "typet": "Tools</br>"}
+{"content": "Robert Rodriguez @RobInfoSecInst</br>", "typet": "Tools</br>"}
+{"content": "[\u00a0Tools\u00a0]\u00a0\u00a020 Popular Wireless Hacking Tools [updated for 2016]\nhttp://goo.gl/P3Rdnu\n#Hacking   #BruteForceAttacks   #WiFiAttacks</br>", "typet": "Tools</br>"}
+{"content": "\ufeff\"20 \u4e2a\u6d41\u884c\u7684\u65e0\u7ebf Hacking \u5de5\u5177\uff0c\u6765\u81ea InfoSec Blog\uff1a   https://t.co/FyWXBrWQqa\"</br>", "typet": "Tools</br>"}
+{"content": "Anton Ivanov @antonivanovm</br>", "typet": "Tools</br>"}
+{"content": "[\u00a0Vulnerability\u00a0]\u00a0\u00a0#Silverlight CVE-2016-0034 memory corruption vulnerability. Detailed analysis - https://securelist.com/blog/research/73255/the-mysterious-case-of-cve-2016-0034-the-hunt-for-a-microsoft-silverlight-0-day/ https://t.co/cjv9FWa0vS</br>", "typet": "Vulnerability</br>"}
+{"content": "\ufeff\"CVE-2016-0034 \u7684\u795e\u79d8\u6545\u4e8b - Kaspersky \u662f\u5982\u4f55\u6839\u636e HackingTeam \u6cc4\u9732\u7684\u90ae\u4ef6\u6355\u83b7\u5230 Silverlight 0Day \u7684   https://t.co/cjv9FWa0vS\u00a0 https://t.co/jiawpOM2Ss\"</br>", "typet": "Vulnerability</br>"}
+{"content": "Exploit Database @exploitdb</br>", "typet": "Vulnerability</br>"}
+{"content": "[\u00a0Vulnerability\u00a0]\u00a0\u00a0[dos] - Microsoft Office / COM Object DLL Planting with WMALFXGFXDSP.dll (MS-16-007): Microsoft Office / COM O... http://bit.ly/1ZukAd7</br>", "typet": "Vulnerability</br>"}
+{"content": "\ufeff\"Microsoft Office OLE WMALFXGFXDSP.dll DLL \u52ab\u6301\u6f0f\u6d1e(MS-16-007\uff0cCVE-2016-0016):\u00a0   https://t.co/uXAleUxWWl\u00a0 \"</br>", "typet": "Vulnerability</br>"}
+{"content": "Matt Graeber @mattifestation</br>", "typet": "Vulnerability</br>"}
+{"content": "[\u00a0Windows\u00a0]\u00a0\u00a0WMI attack and real-time detection examples from my #bluehat talk https://gist.github.com/mattifestation/2828e33c4fe9655fd907 https://gist.github.com/mattifestation/fa2e3cea76f70b1e2267</br>", "typet": "Windows</br>"}
+{"content": "\ufeff\"WMI \u653b\u51fb\u548c\u5b9e\u65f6\u68c0\u6d4b\uff0c\u6765\u81ea Matt Graeber \u5728 BlueHat 2016 \u4f1a\u8bae\u4e0a\u7684\u6f14\u8bb2\uff0c\u5b9e\u4f8b\u4ee3\u7801\uff1a   https://t.co/b3pGPBuPtv\u00a0 https://t.co/fRUjKWurS3\"</br>", "typet": "Windows</br>"}
+{"content": "Exploit Database @exploitdb</br>", "typet": "Windows</br>"}
+{"content": "[\u00a0Windows\u00a0]\u00a0\u00a0[dos] - Microsoft Windows devenum.dll!DeviceMoniker::Load() - Heap Corruption Buffer Underflow (MS16-007): Mic... http://bit.ly/1W7Yp72</br>", "typet": "Windows</br>"}
+{"content": "\ufeff\"Windows devenum.dll!DeviceMoniker::Load() \u5806\u7834\u574f\u7f13\u51b2\u533a\u4e0b\u6ea2 (MS16-007\uff0cCVE-2016-0015):   https://t.co/2rxWT4dbI1\"</br>", "typet": "Windows</br>"}
+{"content": "Tencent Xuanwu Lab Security Daily News</br>", "typet": "Windows</br>"}
+{"content": "Yanick Fratantonio @reyammer</br>", "typet": "Windows</br>"}
+{"content": "[\u00a0Android\u00a0]\u00a0\u00a0[PDF] We did the first and crazy-large-scale study on how Android apps use native code. Our NDSS 16 paper is online! http://cs.ucsb.edu/~yanick/publications/2016_ndss_native.pdf</br>", "typet": "Android</br>"}
+{"content": "\ufeff\"\u901a\u8fc7\u5927\u89c4\u6a21\u5206\u6790 Android \u5e94\u7528\uff0c\u521b\u5efa\u4e00\u4e2a\u5b9e\u7528\u7684 Native-Code \u6c99\u76d2\u7b56\u7565\uff0c\u6765\u81ea NDSS\uff08\u7f51\u7edc\u4e0e\u5206\u5e03\u5f0f\u7cfb\u7edf\u5b89\u5168\uff09 2016 \u4f1a\u8bae Paper:\u00a0   https://t.co/KxHONrZ3OQ\"</br>", "typet": "Android</br>"}
+{"content": "TROOPERS Conference @WEareTROOPERS</br>", "typet": "Android</br>"}
+{"content": "[\u00a0Android\u00a0]\u00a0\u00a0Keyboard or Keylogger?: a security analysis of third-party keyboards on #Android\nhttp://seclab.skku.edu/wp-content/uploads/2015/07/mka.pdf [PDF] https://t.co/ZVgPeDakUI</br>", "typet": "Android</br>"}
+{"content": "\ufeff\"Keyboard or Keylogger? Android \u7b2c\u4e09\u65b9\u952e\u76d8\u8f93\u5165\u6cd5\u5e94\u7528\u7684\u5b89\u5168\u6027\u5206\u6790\uff0c \u6765\u81ea\u97e9\u56fd\u6210\u5747\u9986\u5927\u5b66\u7684 Paper:   https://t.co/ZVgPeDakUI\u00a0 https://t.co/wXTiUswkQG \"</br>", "typet": "Android</br>"}
+{"content": "TROOPERS Conference @WEareTROOPERS</br>", "typet": "Android</br>"}
+{"content": "[\u00a0Android\u00a0]\u00a0\u00a0Life after App Uninstallation: Are the Data Still Alive? Data Residue Attacks on #Android\nhttp://www.cis.syr.edu/~wedu/Research/paper/data_residue_ndss2016.pdf https://t.co/CsONww3KE5</br>", "typet": "Android</br>"}
+{"content": "\ufeff\"\u5e94\u7528\u7a0b\u5e8f\u5378\u8f7d\u540e\u7684\u65e5\u5b50 - \u6570\u636e\u8fd8\u5728\u5417? Android \u7cfb\u7edf\u7684\u6570\u636e\u6b8b\u7559\u653b\u51fb\uff0c\u6765\u81ea NDSS 2016 \u4f1a\u8bae Paper\uff1a   https://t.co/B6IytIQrKk https://t.co/CsONww3KE5\"</br>", "typet": "Android</br>"}
+{"content": "PHR34K @unpacker</br>", "typet": "Android</br>"}
+{"content": "[\u00a0Android\u00a0]\u00a0\u00a0SlemBunk Part II: Prolonged Attack Chain and Better-Organized Campaign http://www.fireeye.com/blog/threat-research/2016/01/slembunk-part-two.html</br>", "typet": "Android</br>"}
+{"content": "\ufeff\"Android \u94f6\u884c\u6076\u610f\u8f6f\u4ef6 SlemBunk Part 2 - \u5ef6\u957f\u7684\u653b\u51fb\u94fe\u4e0e\u6709\u7ec4\u7ec7\u7684\u653b\u51fb\u6d3b\u52a8\u3002\u4e4b\u524d Part 1 \u4e2d\u4ecb\u7ecd\u8fc7 SlemBunk \u4f2a\u9020\u94f6\u884c\u754c\u9762\uff0c\u622a\u83b7\u94f6\u884c\u8d26\u6237\u4fe1\u606f\u7684\u6280\u672f\u7ec6\u8282\u3002 Part 2 \u4ece\u653b\u51fb\u94fe\u7684\u89d2\u5ea6\u7ee7\u7eed\u5206\u6790\uff1a   https://t.co/hnvFkRySip\"</br>", "typet": "Android</br>"}
+{"content": "Bromium @bromium</br>", "typet": "Android</br>"}
+{"content": "[\u00a0Attack\u00a0]\u00a0\u00a0Endpoint Exploitation Trends\u00a02015 http://blogs.bromium.com/2016/01/14/endpoint-exploitation-trends-2015 https://t.co/gkLJAMO08k</br>", "typet": "Attack</br>"}
+{"content": "\ufeff\"2015 \u5e74\u8f6f\u4ef6\u6f0f\u6d1e\u5229\u7528\u653b\u51fb\u8d8b\u52bf\u62a5\u544a\uff0c \u6765\u81ea Bromium Labs\uff1a   https://t.co/gkLJAMO08k https://t.co/VFSRYk1OzH \"</br>", "typet": "Attack</br>"}
+{"content": "Symantec @symantec</br>", "typet": "Attack</br>"}
+{"content": "[\u00a0Defend\u00a0]\u00a0\u00a0What are the challenges and solutions of protecting sensitive #data? Find out: http://symc.ly/1UN0Zhr https://t.co/LybpDNUadX</br>", "typet": "Defend</br>"}
+{"content": "\ufeff\"\u4fdd\u62a4\u654f\u611f\u6570\u636e\u7684\u6311\u6218\u548c\u89e3\u51b3\u65b9\u6848\uff1a   https://t.co/LybpDNUadX https://t.co/viDEKLupkM\"</br>", "typet": "Defend</br>"}
+{"content": "Matt Graeber @mattifestation</br>", "typet": "Defend</br>"}
+{"content": "[\u00a0Detect\u00a0]\u00a0\u00a0A simple example of creating an event log entry upon detecting WMI lateral movement. https://gist.github.com/mattifestation/aff0cb8bf66c7f6ef44a This could be easily extended.</br>", "typet": "Detect</br>"}
+{"content": "\ufeff\"\u4e00\u65e6\u68c0\u6d4b\u5230\u653b\u51fb\u8005\u6a2a\u5411\u6e17\u900f\u884c\u4e3a\uff0c\u521b\u5efa\u544a\u8b66\u65e5\u5fd7\uff0c \u4ee3\u7801 Demo:   https://t.co/FdnJYzL2BJ \"</br>", "typet": "Detect</br>"}
+{"content": "TROOPERS Conference @WEareTROOPERS</br>", "typet": "Detect</br>"}
+{"content": "[\u00a0Detect\u00a0]\u00a0\u00a0Automatically Evading Classifiers. A Case Study on PDF Malware Classifiers\nhttp://www.cs.virginia.edu/~evans/pubs/ndss2016/evademl.pdf [PDF] https://t.co/47klU9yxMT</br>", "typet": "Detect</br>"}
+{"content": "\ufeff\"\u81ea\u52a8\u5316\u5730\u9003\u9038\u5206\u7c7b\u5668 - PDF \u6076\u610f\u6837\u672c\u5206\u7c7b\u5668\u6848\u4f8b\u7814\u7a76\uff0c\u6765\u81ea\u7f8e\u56fd\u5f17\u5409\u5c3c\u4e9a\u5927\u5b66\u7684 Paper\uff1a   https://t.co/47klU9yxMT \u00a0   https://t.co/5U5aVFoot6 \"</br>", "typet": "Detect</br>"}
+{"content": "TROOPERS Conference @WEareTROOPERS</br>", "typet": "Detect</br>"}
+{"content": "[\u00a0Device\u00a0]\u00a0\u00a0Ingenious ideas (II):\nDevil in a Box. Installing Backdoors in Electronic Door Locks\nhttp://seclab.skku.edu/wp-content/uploads/2015/07/Devil_PST2015_IEEE_express.pdf [PDF] https://t.co/XElbeq2ggo</br>", "typet": "Device</br>"}
+{"content": "\ufeff\"\u5728\u7535\u5b50\u95e8\u9501\u4e2d\u88c5\u540e\u95e8\uff0c\u6765\u81ea\u97e9\u56fd\u6210\u5747\u9986\u5927\u5b66\u7684 Paper\uff1a\u00a0   https://t.co/9GrzMOos7n \"</br>", "typet": "Device</br>"}
+{"content": "Mike_Mimoso @Mike_Mimoso</br>", "typet": "Device</br>"}
+{"content": "[\u00a0Device\u00a0]\u00a0\u00a0Cisco Patches Hardcoded Password, DoS Vulnerabilities in Software, Devices: https://threatpost.com/cisco-patches-hardcoded-password-dos-vulnerabilities-in-software-devices/115881/ via @ threatpost</br>", "typet": "Device</br>"}
+{"content": "\ufeff\"Cisco \u4fee\u590d\u4e86\u8f6f\u4ef6\u3001\u8bbe\u5907\u4e2d\u7684\u786c\u7f16\u7801\u5bc6\u7801\u95ee\u9898\u548c\u62d2\u7edd\u670d\u52a1\u6f0f\u6d1e\uff0c\u6765\u81ea ThreatPost\uff1a\u00a0   https://t.co/evZ0kenytL\"</br>", "typet": "Device</br>"}
+{"content": "iOSAppRE @iOSAppRE</br>", "typet": "Device</br>"}
+{"content": "[\u00a0iOS\u00a0]\u00a0\u00a0#iOSREssence I ve open sourced SMSNinja on GitHub https://github.com/iosre/SMSNinja, hoping someone can pick it up and bring it back</br>", "typet": "iOS</br>"}
+{"content": "\ufeff\"SMSNinja - \u4e00\u4e2a\u8f7b\u91cf\u7ea7\u7684 iOS \u77ed\u4fe1\u3001\u5f69\u4fe1\u3001iMessage\u3001\u7535\u8bdd\u7b49\u9632\u706b\u5899\u5e94\u7528\uff0c Github Repo:   https://t.co/Lsgg6lgSnR \"</br>", "typet": "iOS</br>"}
+{"content": "scumjr @scumjr_</br>", "typet": "iOS</br>"}
+{"content": "[\u00a0Linux\u00a0]\u00a0\u00a0Here s an implementation of a SMM rootkit based on an idea by @ coreykal @ xenokovah et al.: http://bit.ly/1RNPBCK https://t.co/Yp0WOCkgwE</br>", "typet": "Linux</br>"}
+{"content": "\ufeff\"SMM Rookit \u7684\u5b9e\u73b0\uff08Linux\uff09\uff0c\u4f5c\u8005\u770b\u5230\u4eca\u5e74 BlackHat USA \u300aExtreme Privilege Escalation on Windows 8/UEFI Systems\u300b \u7684\u6f14\u8bb2\u540e\uff0c\u81ea\u5df1\u5728 Linux \u5b9e\u73b0\u4e86\u4e00\u4e2a SMM Rootkit:   https://t.co/Yp0WOCkgwE https://t.co/ARluAzDaho\"</br>", "typet": "Linux</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Linux</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0Flawed RANSOM_CRYPTEAR ransomware makes impossible the file recovery http://securityaffairs.co/wordpress/43585/cyber-crime/flawed-ransom_cryptear-ransomware.html</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"\u6709 Bug \u7684\u52a0\u5bc6\u52d2\u7d22\u8f6f\u4ef6\u4f7f\u5f97\u88ab\u52a0\u5bc6\u7684\u6587\u4ef6\u65e0\u6cd5\u518d\u6062\u590d\uff1a   https://t.co/mYttWaO2cS\"</br>", "typet": "Malware</br>"}
+{"content": "PHR34K @unpacker</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0A Case of Too Much Information: Ransomware Code Shared Publicly for \u201cEducational Purposes\u201d, Used Maliciously Anyway http://blog.trendmicro.com/trendlabs-security-intelligence/a-case-of-too-much-information-ransomware-code-shared-publicly-for-educational-purposes-used-maliciously-anyway/</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"\u4ee5  \u6559\u5b66\u76ee\u7684  \u653e\u5728 Github \u4e0a\u7684\u6076\u610f\u4ee3\u7801\u88ab\u653b\u51fb\u8005\u7528\u5728\u5b9e\u9645\u7684\u52d2\u7d22\u8f6f\u4ef6\u4e2d\uff1a   https://t.co/NPA7egebPl\"</br>", "typet": "Malware</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0When URL Shorteners and Ransomware Collide http://blog.malwarebytes.org/security-threat/2016/01/when-url-shorteners-and-ransomware-collide/</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"\u5f53\u77ed\u7f51\u5740\u670d\u52a1\u548c\u52d2\u7d22\u8f6f\u4ef6\u78b0\u5230\u4e00\u8d77\u7684\u65f6\u5019\uff1a   https://t.co/cHw97mMhok\"</br>", "typet": "Malware</br>"}
+{"content": "WebsenseSecurityLabs @websenselabs</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0Dridex Down Under: Raytheon | Websense\u00ae\u00a0Security Labs\u2122 has been tracking malicious email campaigns associated with\u2026 http://wb-sn.com/1Q0uETp</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"Dridex \u94f6\u884c\u6728\u9a6c\u7684\u653b\u51fb\u76ee\u6807\u5207\u6362\u4e3a\u6fb3\u5927\u5229\u4e9a\uff0c\u6765\u81ea ForcePoint 11 \u6708\u4efd\u7684\u4e00\u7bc7 Blog:   https://t.co/wWvswhrD1y\"</br>", "typet": "Malware</br>"}
+{"content": "WebsenseSecurityLabs @websenselabs</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0Newest Flash Player Exploit & Double Nuclear Exploit Kit Payload: Yesterday, we blogged about a\u00a0malvertising\u2026 http://wb-sn.com/1Q0uH1o</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"Flash Exploit \u4e0e Nuclear Exploit Kit\uff0c\u6765\u81ea ForcePoint 11 \u6708\u4efd\u7684\u4e00\u7bc7 Blog\uff1a\u00a0   https://t.co/jbWy1O4kch\"</br>", "typet": "Malware</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Malware\u00a0]\u00a0\u00a0Updated BlackEnergy Trojan Grows More Powerful https://blogs.mcafee.com/mcafee-labs/updated-blackenergy-trojan-grows-more-powerful/</br>", "typet": "Malware</br>"}
+{"content": "\ufeff\"\u66f4\u65b0\u540e\u7684 BlackEnergy \u6728\u9a6c\u53d8\u5730\u66f4\u5f3a\u5927\u4e86\uff1a   https://t.co/pgs08dkYTC\"</br>", "typet": "Malware</br>"}
+{"content": "Elie Bursztein @elie</br>", "typet": "Malware</br>"}
+{"content": "[\u00a0Network\u00a0]\u00a0\u00a0How email in transit can be intercepted using DNS hijacking - http://bit.ly/1W9uA68 #gmail #security #privacy #SSL</br>", "typet": "Network</br>"}
+{"content": "\ufeff\"\u90ae\u4ef6\u5728\u4f20\u8f93\u8fc7\u7a0b\u4e2d\u662f\u5982\u4f55\u901a\u8fc7 DNS \u52ab\u6301\u88ab\u622a\u83b7\u7684\uff1a\u00a0   https://t.co/luQkPZh3nf\"</br>", "typet": "Network</br>"}
+{"content": "TROOPERS Conference @WEareTROOPERS</br>", "typet": "Network</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0For our Korean friends: Enumeration attacks on finding friends w/ phone numbrs. A case study\nhttp://seclab.skku.edu/wp-content/uploads/2013/05/Kakao_COSE_15.pdf https://t.co/SlFcc4Kj9W</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"\u901a\u8fc7\u7535\u8bdd\u53f7\u7801\u679a\u4e3e\u6240\u6709\u7684\u670b\u53cb\u5217\u8868\uff0c\u9488\u5bf9\u97e9\u56fd\u670b\u53cb\uff0c\u4e00\u7bc7 2013 \u5e74\u7684 Paper:   https://t.co/J1yKNyPB6F https://t.co/SlFcc4Kj9W\"</br>", "typet": "Others</br>"}
+{"content": "Giuseppe `N3mes1s` @gN3mes1s</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0OpenSGX + TOR = https://github.com/sslab-gatech/opensgx/tree/master/Tor paper http://ina.kaist.ac.kr/~dongsuh/paper/kim-hotnets2015.pdf</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"Intel OpenSGX + TOR\uff0c \u7f51\u7edc\u5e94\u7528\u53ef\u4fe1\u6267\u884c\u73af\u5883\u7684\u7b2c\u4e00\u6b65\uff0c Paper:\u00a0   https://t.co/TWvVRYsCjp\u00a0 Github:   https://t.co/PzLF3aNi1a \"</br>", "typet": "Others</br>"}
+{"content": "Tora @onceuponanop</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0Not surprising that it works, but cute research: Video-Assisted Keystroke Inference from Tablet Backside Motion http://www2.hawaii.edu/~ruizhang/paper/sun-NDSS16.pdf</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"\u89c6\u9891\u8f85\u52a9\u7684\u51fb\u952e\u8bb0\u5f55\u5668 - \u4ece\u7528\u6237\u8f93\u5165\u5f15\u8d77\u7684\u5e73\u677f\u7535\u8111\u540e\u5411\u79fb\u52a8\u63a8\u7406\u51fa\u51fb\u952e\u5e8f\u5217\uff1a   https://t.co/cBRQ8LiZhj \"</br>", "typet": "Others</br>"}
+{"content": "Frederic Jacobs @FredericJacobs</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0On SMS logins: an example from Telegram in Iran. \nMy latest blog post on why SMS logins are a bad idea: https://www.fredericjacobs.com/blog/2016/01/14/sms-login/</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"Telegram \u77ed\u4fe1\u767b\u9646\u7684\u6545\u4e8b - \u4e3a\u4ec0\u4e48\u77ed\u4fe1\u767b\u9646\u4e0d\u662f\u4e2a\u597d\u4e3b\u610f:   https://t.co/EMwIb6XWL9\"</br>", "typet": "Others</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0Attacking HTTP/2 Implementations https://yahoo-security.tumblr.com/post/134549767190/attacking-http2-implementations</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"\u653b\u51fb HTTP 2 \u7684\u5b9e\u73b0\uff0c Blog\uff1a   https://t.co/cXXJOBcCKx \u4e4b\u524d\u63a8\u9001\u8fc7\u76f8\u5173\u7684 PacSecjp 2015 \u4f1a\u8bae\u7684\u6f14\u8bb2\uff1a   http://www.slideshare.net/JohnVillamil/attacking-http2-implementations-1 \"</br>", "typet": "Others</br>"}
+{"content": "FireEye @FireEye</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0#JustSayNo to \u201cWhack a Mole.\u201d Learn effective solutions to today\u2019s targeted intrusions http://bddy.me/232o9qi https://t.co/wAEjHp1mc7</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"\u5411  \u6253\u5730\u9f20\u6e38\u620f  \u8bf4\u4e0d - \u5bf9\u6297\u5b9a\u5411\u5a01\u80c1\u7684\u5165\u4fb5\uff0c\u6765\u81ea FireEye Mandiant \u62a5\u544a\uff1a   https://t.co/wAEjHp1mc7 https://t.co/kHQMBauNyl \"</br>", "typet": "Others</br>"}
+{"content": "Robert Rodriguez @RobInfoSecInst</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Pentest\u00a0]\u00a0\u00a0Advanced Pentesting Techniques with Metasploit\nhttp://goo.gl/jKXAzY\n#Hacking   #PenetrationTesting</br>", "typet": "Pentest</br>"}
+{"content": "\ufeff\"Metasploit \u9ad8\u7ea7\u6e17\u900f\u6d4b\u8bd5\u6280\u672f\uff1a   https://t.co/XT8QHxnbAb\"</br>", "typet": "Pentest</br>"}
+{"content": "yan @bcrypt</br>", "typet": "Pentest</br>"}
+{"content": "[\u00a0Popular Software\u00a0]\u00a0\u00a0uninitialized remote memory disclosure vulnerability in node. nice job, @ feross  https://twitter.com/j4cob/status/687764484291600384</br>", "typet": "Popular Software</br>"}
+{"content": "\ufeff\"Node.js \u672a\u521d\u59cb\u5316\u53d8\u91cf\u8fdc\u7a0b\u4fe1\u606f\u6cc4\u9732\u6f0f\u6d1e\uff0c \u6765\u81ea Github \u7684 issue \u8bf4\u660e\uff1a   https://github.com/nodejs/node/issues/4660\u00a0 \"</br>", "typet": "Popular Software</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Popular Software</br>"}
+{"content": "[\u00a0Popular Software\u00a0]\u00a0\u00a0Manage Engine Applications Manager 12 Multiple Vulnerabilities https://cxsecurity.com/issue/WLB-2016010085</br>", "typet": "Popular Software</br>"}
+{"content": "\ufeff\"ManageEngine \u5e94\u7528\u7ba1\u7406\u5668 12 \u7248\u672c\u5b58\u5728\u591a\u4e2a\u6f0f\u6d1e   https://t.co/ZSdN6KD5Ez\"</br>", "typet": "Popular Software</br>"}
+{"content": "Palo Alto Networks @PaloAltoNtwks</br>", "typet": "Popular Software</br>"}
+{"content": "[\u00a0ReverseEngineering\u00a0]\u00a0\u00a0Continuing this popular series with Part 5: How to use IDAPython to make your life easier http://bit.ly/1n1R7pN @ Unit42_Intel @ jgrunzweig</br>", "typet": "ReverseEngineering</br>"}
+{"content": "\ufeff\"IDAPython \u8ba9\u4f60\u7684\u751f\u6d3b\u66f4\u8f7b\u677e Part 5\uff1a   https://t.co/RrtM2t6cne \"</br>", "typet": "ReverseEngineering</br>"}
+{"content": "Roberto Martinez @r0bertmart1nez</br>", "typet": "ReverseEngineering</br>"}
+{"content": "[\u00a0ReverseEngineering\u00a0]\u00a0\u00a0#Course materials for #Malware #Analysis by RPISEC https://github.com/RPISEC/Malware</br>", "typet": "ReverseEngineering</br>"}
+{"content": "\ufeff\"\u6765\u81ea RPISEC \u7684\u6076\u610f\u8f6f\u4ef6\u5206\u6790\u7cfb\u5217\u6559\u7a0b\uff1a   https://t.co/4GyG8ocfCS \"</br>", "typet": "ReverseEngineering</br>"}
+{"content": "Palo Alto Networks @PaloAltoNtwks</br>", "typet": "ReverseEngineering</br>"}
+{"content": "[\u00a0SecurityProduct\u00a0]\u00a0\u00a0.@ enirx gives step-by-step instructions for using #AutoFocus API & #Postman for automation http://bit.ly/1PuEASa</br>", "typet": "SecurityProduct</br>"}
+{"content": "\ufeff\"\u901a\u8fc7 Postman \u5de5\u5177\u4e0e PaloAlto \u4e0b\u4e00\u4ee3\u9632\u706b\u5899\u7684 AutoFocus API \u81ea\u52a8\u5316\u5730\u4ea4\u4e92\uff1a   https://t.co/Ap1gaIfPzd \"</br>", "typet": "SecurityProduct</br>"}
+{"content": "David Mirza Ahmad @attractr</br>", "typet": "SecurityProduct</br>"}
+{"content": "[\u00a0ThirdParty\u00a0]\u00a0\u00a0ffmpeg vuln: process malicious video file & exfiltrate local file contents. Affects servers & endpoints: http://permalink.gmane.org/gmane.comp.security.oss.general/18574</br>", "typet": "ThirdParty</br>"}
+{"content": "\ufeff\"ffmpeg \u5728\u5904\u7406\u89c6\u9891\u6587\u4ef6 URL \u65f6\u5b58\u5728\u4e24\u4e2a\u8de8\u57df\u6f0f\u6d1e\uff08CVE-2016-1897/CVE-2016-1898\uff09\uff0c\u53ef\u4ee5\u76d7\u53d6\u672c\u5730\u6587\u4ef6:   https://t.co/qqCwakj5qh\"</br>", "typet": "ThirdParty</br>"}
+{"content": "Sebas Guerrero \u26a1 @0xroot</br>", "typet": "ThirdParty</br>"}
+{"content": "[\u00a0ThirdParty\u00a0]\u00a0\u00a0Roaming through the OpenSSH client: CVE-2016-0777 and CVE-2016-0778 https://www.qualys.com/2016/01/14/cve-2016-0777-cve-2016-0778/openssh-cve-2016-0777-cve-2016-0778.txt via @ revskills</br>", "typet": "ThirdParty</br>"}
+{"content": "\ufeff\"OpenSSH \u652f\u6301\u4e00\u4e2a\u79f0\u4e3a  Roaming  \u7684\u7279\u6027\uff0c\u8be5\u7279\u6027\u672a\u6587\u6863\u5316\uff0c\u8be5\u7279\u6027\u5141\u8bb8\u5728\u670d\u52a1\u7aef\u8fde\u63a5\u610f\u5916\u65ad\u5f00\u65f6\u5ba2\u6237\u7aef\u91cd\u5efa\u6302\u8d77\u7684 SSH \u4f1a\u8bdd\uff0c\u76ee\u524d\u4ec5\u88ab\u5ba2\u6237\u7aef\u652f\u6301\uff0c\u5e76\u4e14\u662f\u9ed8\u8ba4\u652f\u6301\u542f\u7528\u3002\u6765\u81ea Qualys \u7684\u5b89\u5168\u516c\u544a\u663e\u793a\uff1a OpenSSH 5.4 (2010 \u5e74 3 \u6708\u53d1\u5e03)\u540e\u7684\u6240\u6709\u7248\u672c Roaming \u7279\u6027\u5b9e\u73b0\u8fc7\u7a0b\u4e2d\u5b58\u5728\u4e24\u4e2a\u6f0f\u6d1e: CVE-2016-0777 \u4fe1\u606f\u6cc4\u9732\u6f0f\u6d1e\uff0c\u6076\u610f\u7684 SSH \u670d\u52a1\u7aef\u53ef\u4ee5\u76d7\u53d6\u5ba2\u6237\u7aef\u7684\u79c1\u94a5\uff1b CVE-2016-0778 \u7f13\u51b2\u533a\u6ea2\u51fa\u6f0f\u6d1e\uff1a   https://t.co/x4f78Rd8zi\"</br>", "typet": "ThirdParty</br>"}
+{"content": "Tencent Xuanwu Lab Security Daily News</br>", "typet": "ThirdParty</br>"}
+{"content": "Marco Grassi @marcograss</br>", "typet": "ThirdParty</br>"}
+{"content": "[\u00a0Android\u00a0]\u00a0\u00a0[CVE-2015-7292] Amazon Fire Phone Kernel Stack based Buffer Overflow - my disclosure and writeup http://marcograss.github.io/security/android/cve/2016/01/15/cve-2015-7292-amazon-kernel-stack-buffer-overflow.html</br>", "typet": "Android</br>"}
+{"content": "\ufeff\"Amazon Fire Phone \u624b\u673a\u5185\u6838\u6808\u7f13\u51b2\u533a\u6ea2\u51fa\u6f0f\u6d1e\uff08CVE-2015-7292\uff09\uff0c Blog\uff1a   https://t.co/fhNorEQEJg\"</br>", "typet": "Android</br>"}
+{"content": "Michael Boelen @mboelen</br>", "typet": "Android</br>"}
+{"content": "[\u00a0Linux\u00a0]\u00a0\u00a0My presentation: Linux Security for Developers (introduction) - http://www.slideshare.net/MichaelBoelen/linux-security-for-developers\n\nPDF: https://cisofy.com/files/public/presentation-linux-security-for-developers.pdf\n#linux #developer</br>", "typet": "Linux</br>"}
+{"content": "\ufeff\"\u9762\u5411\u5f00\u53d1\u8005\u7684 Linux \u5b89\u5168\u6307\u5357\uff1a   https://t.co/UII0ROUObL\u00a0 https://t.co/BQv2e9vN77\"</br>", "typet": "Linux</br>"}
+{"content": "TROOPERS Conference @WEareTROOPERS</br>", "typet": "Linux</br>"}
+{"content": "[\u00a0Network\u00a0]\u00a0\u00a0Delving into Internet DDoS Attacks by Botnets: Characterization and Analysis\nhttp://www.cse.buffalo.edu/~mohaisen/doc/dsn2015.pdf https://t.co/tVIKLnCUsB</br>", "typet": "Network</br>"}
+{"content": "\ufeff\"\u901a\u8fc7 Botnet \u6df1\u5165\u7814\u7a76 DDoS \u653b\u51fb: \u7279\u5f81\u63cf\u8ff0\u548c\u5206\u6790\uff0c\u6765\u81ea\u7ebd\u7ea6\u5dde\u91cc\u5927\u5b66\u5e03\u6cd5\u7f57\u5206\u6821\u7684 Paper\uff1a   https://t.co/yaIZBT5OWd https://t.co/tVIKLnCUsB\"</br>", "typet": "Network</br>"}
+{"content": "Antonios Atlasis @AntoniosAtlasis</br>", "typet": "Network</br>"}
+{"content": "[\u00a0Network\u00a0]\u00a0\u00a0New blogpost: \"Unusual #IPv6 Fragmentation and Operating Systems Responses\" http://www.secfu.net/2016/01/13/unusual-ipv6-fragmentation-and-operating-systems-responses/</br>", "typet": "Network</br>"}
+{"content": "\ufeff\"\u5f02\u5e38\u7684 IPv6 \u5206\u7247\u4ee5\u53ca\u64cd\u4f5c\u7cfb\u7edf\u7684\u54cd\u5e94\uff1a   https://t.co/235EsVKr2m\"</br>", "typet": "Network</br>"}
+{"content": "Tod Beardsley @todb</br>", "typet": "Network</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0CVE-2015-7938 disclosed, thx @ hdmoore : https://community.rapid7.com/community/infosec/blog/2016/01/15/r7-2015-26-advantech-eki-ssh-authentication-bypass (auth bypass on Advantech EKI 132x devices) #IoTSec #SCADA</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"Dropbear SSH \u670d\u52a1\u7aef\u8ba4\u8bc1\u7ed5\u8fc7\u6f0f\u6d1e\uff08CVE-2015-7938\uff09\uff0c\u6765\u81ea Rapid7 Blog\uff1a\u00a0   https://t.co/unbi62IhzH \"</br>", "typet": "Others</br>"}
+{"content": "Tencent Xuanwu Lab Security Daily News</br>", "typet": "Others</br>"}
+{"content": "Nikolaos Chrysaidos @virqdroid</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Android\u00a0]\u00a0\u00a0A Survey on Detection Techniques of Android Malware - http://www.ijcssca.co.in/Archive/Vol1/Issue2/V1I2%20(2).pdf</br>", "typet": "Android</br>"}
+{"content": "\ufeff\"Android \u6076\u610f\u8f6f\u4ef6\u68c0\u6d4b\u6280\u672f\u8c03\u67e5\uff0c Paper:   https://t.co/zQlybYTlTO\"</br>", "typet": "Android</br>"}
+{"content": "Security Response @threatintel</br>", "typet": "Android</br>"}
+{"content": "[\u00a0Attack\u00a0]\u00a0\u00a064% of Angler #ExploitKit attacks blocked by #Symantec IPS in 2015 targeted #Windows7 http://symc.ly/1mQhYo7 https://t.co/kjKcxkatvU</br>", "typet": "Attack</br>"}
+{"content": "\ufeff\"2015 \u5e74 Symantec IPS \u963b\u65ad\u7684 Angler Exploit Kit \u653b\u51fb\u4e2d\uff0c\u9488\u5bf9 Windows 7 \u7684\u653b\u51fb\u5360 64%\uff1a   https://t.co/hPmorjWDmS https://t.co/kjKcxkatvU\"</br>", "typet": "Attack</br>"}
+{"content": ".mario @0x6D6172696F</br>", "typet": "Attack</br>"}
+{"content": "[\u00a0Defend\u00a0]\u00a0\u00a0Section 7.4 of the \".trust Technical Policy\" is flawed & leverages XSS - affecting even @ NCCGroupplc s own services https://whodoyou.trust/globalassets/documents/dot-trust-technical-policy.pdf</br>", "typet": "Defend</br>"}
+{"content": "\ufeff\"\u6765\u81ea NCC Group \u7684  .trust Technical Policy  \u767d\u76ae\u4e66\uff0c \u8fd9\u7bc7 Paper \u4ecb\u7ecd\u4e86 NCC Group \u5728\u7f51\u7edc\u5b89\u5168\u52a0\u56fa\u65b9\u9762\u603b\u7ed3\u7684\u5b9e\u8df5\u7ecf\u9a8c\uff0c\u6db5\u76d6\u7684\u5185\u5bb9\u5f88\u5e7f\uff0c\u5305\u62ec\u7f51\u7edc\u3001Web \u5e94\u7528\u3001\u90ae\u4ef6\u3001DNS \u7b49\uff1a   https://t.co/Z5FZI9yfS7\"</br>", "typet": "Defend</br>"}
+{"content": "Binni Shah @binitamshah</br>", "typet": "Defend</br>"}
+{"content": "[\u00a0Fuzzing\u00a0]\u00a0\u00a0Fuzzing automation with AFL and Jenkins : https://zubu.re/fuzzing-automation-afl-jenkins.html</br>", "typet": "Fuzzing</br>"}
+{"content": "\ufeff\"\u501f\u52a9 Jenkins \u548c Docker\uff0c\u642d\u5efa\u4e00\u4e2a\u81ea\u52a8\u5316\u7684 AFL Fuzz \u6846\u67b6:   https://t.co/nsVOb8z91U\"</br>", "typet": "Fuzzing</br>"}
+{"content": "Enno Rey @Enno_Insinuator</br>", "typet": "Fuzzing</br>"}
+{"content": "[\u00a0Hardware\u00a0]\u00a0\u00a0Good overview: Security Attacks Against the Availability of LTE Mobility Networks\nhttp://web2-clone.research.att.com/export/sites/att_labs/techdocs/TD_101153.pdf\n#shmoocon https://t.co/i7uAvdilXb</br>", "typet": "Hardware</br>"}
+{"content": "\ufeff\"\u9488\u5bf9 LTE \u79fb\u52a8\u7f51\u7edc\u53ef\u7528\u6027\u7684\u5b89\u5168\u653b\u51fb\uff0c\u6765\u81ea\u7f8e\u56fd AT&T \u5b89\u5168\u7814\u7a76\u4e2d\u5fc3\u7684 Paper:   https://t.co/i7uAvdilXb \u00a0   https://t.co/gm022bDimF \"</br>", "typet": "Hardware</br>"}
+{"content": "nixCraft @nixcraft</br>", "typet": "Hardware</br>"}
+{"content": "[\u00a0Mac OS X\u00a0]\u00a0\u00a0Sailor, a native and portable container system for NetBSD and Mac OS X https://github.com/NetBSDfr/sailor #Unix #Jails #Sysadmin #developer</br>", "typet": "Mac OS X</br>"}
+{"content": "\ufeff\"Sailor - \u53ef\u79fb\u690d\u7684\u5bb9\u5668\u7cfb\u7edf\uff0c\u76ee\u524d\u652f\u6301 NetBSD \u548c Mac OS X :   https://t.co/lwE4I7547q \"</br>", "typet": "Mac OS X</br>"}
+{"content": "Binni Shah @binitamshah</br>", "typet": "Mac OS X</br>"}
+{"content": "[\u00a0Others\u00a0]\u00a0\u00a0Refund attacks on Bitcoin\u2019s Payment Protocol : https://eprint.iacr.org/2016/024.pdf (pdf)</br>", "typet": "Others</br>"}
+{"content": "\ufeff\"\u9488\u5bf9\u6bd4\u7279\u5e01\u652f\u4ed8\u534f\u8bae\u7684\u9000\u6b3e\u653b\u51fb, Paper:   https://t.co/magIZWE534\"</br>", "typet": "Others</br>"}
+{"content": "Binni Shah @binitamshah</br>", "typet": "Others</br>"}
+{"content": "[\u00a0Tools\u00a0]\u00a0\u00a0Dr. Memory: A Memory Checker Faster Than Valgrind : http://drmemory.org/</br>", "typet": "Tools</br>"}
+{"content": "\ufeff\"Dr. Memory \u662f\u4e00\u4e2a\u5185\u5b58\u76d1\u63a7\u5de5\u5177\uff0c\u7528\u4e8e\u8bc6\u522b\u5185\u5b58\u76f8\u5173\u7684\u9519\u8bef\uff0c\u5982\u4e3a\u521d\u59cb\u5316\u8bbf\u95ee\u3001Double Free\u3001UAF\u3001\u5185\u5b58\u6cc4\u9732\u7b49\uff0c Dr. Memory \u57fa\u4e8e DynamoRIO\uff0c\u901f\u5ea6\u6bd4 Valgrind \u5feb:   https://t.co/jLkMLAvQre\"</br>", "typet": "Tools</br>"}
+{"content": "jsoo @_jsoo_</br>", "typet": "Tools</br>"}
+{"content": "[\u00a0Tools\u00a0]\u00a0\u00a0Handle_Disk - \u4e00\u4e2a\u78c1\u76d8\u5206\u533a\u6062\u590d\u8f6f\u4ef6\uff0c\u80fd\u591f\u5b9e\u73b0\u4ece\u88ab\u635f\u574f\u4e86\u5206\u533a\u8868\u7684\u78c1\u76d8\u955c\u50cf\u4e2d\u6062\u590d\u51fa\u53ef\u80fd\u7684\u5206\u533a\u8868\u3002 \nhttps://github.com/purpleroc/hand_disk https://t.co/pUAK70SmoX</br>", "typet": "Tools</br>"}
+{"content": "\ufeff\"Handle_Disk - \u4e00\u4e2a\u78c1\u76d8\u5206\u533a\u6062\u590d\u8f6f\u4ef6\uff0c\u80fd\u591f\u5b9e\u73b0\u4ece\u88ab\u635f\u574f\u4e86\u5206\u533a\u8868\u7684\u78c1\u76d8\u955c\u50cf\u4e2d\u6062\u590d\u51fa\u53ef\u80fd\u7684\u5206\u533a\u8868\uff1a\u00a0   https://t.co/XNVCfmOO8g https://t.co/pUAK70SmoX\"</br>", "typet": "Tools</br>"}
+{"content": "Binni Shah @binitamshah</br>", "typet": "Tools</br>"}
+{"content": "[\u00a0Web Security\u00a0]\u00a0\u00a0web2attack : Web hacking framework with tools,exploits by python : https://github.com/santatic/web2attack</br>", "typet": "Web Security</br>"}
+{"content": "\ufeff\"web2attack - Web Hacking \u6846\u67b6\uff0c\u5185\u5d4c\u4e86\u591a\u4e2a Web \u6f0f\u6d1e\u7684 Exploits\uff0c\u8be5\u6846\u67b6\u7528 Python \u8bed\u8a00\u7f16\u5199:   https://t.co/AnZT17kt0e\"</br>", "typet": "Web Security</br>"}
+{"content": "Binni Shah @binitamshah</br>", "typet": "Web Security</br>"}
+{"content": "[\u00a0Web Security\u00a0]\u00a0\u00a0The Web Never Forgets : Persistent Tracking Mechanisms in the Wild : https://securehomes.esat.kuleuven.be/~gacar/persistent/the_web_never_forgets.pdf (pdf) cc: @ random_walker</br>", "typet": "Web Security</br>"}
+{"content": "\ufeff\"Web \u7f51\u7ad9\u5fd8\u4e0d\u4e86\u4f60 - 3 \u79cd Web \u8ddf\u8e2a\u673a\u5236\u7814\u7a76\uff0c\u5305\u62ec Canvas \u6307\u7eb9\u3001evercookie \u548c cookie syncing\uff0c\u6765\u81ea\u6bd4\u5229\u65f6\u9c81\u6c76\u5927\u5b66\u7684 Paper:   https://t.co/d4FPfOpmQd \"</br>", "typet": "Web Security</br>"}
+{"content": "Nicolas Krassas @Dinosn</br>", "typet": "Web Security</br>"}
+{"content": "[\u00a0Web Security\u00a0]\u00a0\u00a0Phishing attack against LastPass https://www.seancassidy.me/lostpass.html</br>", "typet": "Web Security</br>"}
+{"content": "\ufeff\"LostPass - \u9488\u5bf9 LastPass \u7684\u9493\u9c7c\u653b\u51fb   https://t.co/OhwA9O5FRF \"</br>", "typet": "Web Security</br>"}
+{"content": "Matt Nelson @enigma0x3</br>", "typet": "Web Security</br>"}
+{"content": "[\u00a0Windows\u00a0]\u00a0\u00a0My slides for the @ shmoocon #firetalk \"Red Team Upgrades: Using SCCM for Malware Deployment\" are up here: http://www.slideshare.net/enigma0x3/red-team-upgrades-using-sccm-for-malware-deployment-57117235</br>", "typet": "Windows</br>"}
+{"content": "\ufeff\"\u6ee5\u7528 SCCM\uff08\u5fae\u8f6f\u7684\u7cfb\u7edf\u4e2d\u5fc3\u914d\u7f6e\u7ba1\u7406\u5668\uff09\u90e8\u7f72\u6076\u610f\u8f6f\u4ef6:   https://t.co/dpWywEmB9Z\"</br>", "typet": "Windows</br>"}
