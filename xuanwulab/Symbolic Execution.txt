@@ -1,0 +1,6 @@
+[ Symbolic Execution ]  Introduction to Symbolic Execution : https://yurichev.com/blog/symbolic/ cc @ yurichev
+﻿"符号执行介绍︰ https://t.co/ZBsUEMYWip"
+[ Symbolic Execution ]  FireEye 对远程符号解析技术的分析与解决方案： https://www.fireeye.com/blog/threat-research/2017/06/remote-symbol-resolution.html
+[ Symbolic Execution ]  Malwr.co 团队分享的一篇关于符号执行的 Paper：《相对 IDA Pro，符号执行的 6 个优势》： https://malwr.co/symbolic_execution.pdf
+[ Symbolic Execution ]   Floating-Point Symbolic Execution: A Case Study in N-version Programming。为符号执行工具 KLEE 添加浮点约束求解的支持： https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2017/ASE.pdf
+[ Symbolic Execution ]   在 S2E 中利用定向符号执行的方法处理文件 Parsers，解决路径爆炸的问题：  https://adrianherrera.github.io/post/kaitai-s2e/

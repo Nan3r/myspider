@@ -1,0 +1,266 @@
+[ Fuzzing ]  Retweeted Binni Shah (@ binitamshah): The Art of Fuzzing without Fuzzing : https://github.com/bnagy/slides/blob/master/fuzzing_without_pub.pdf (Slides) cc:... http://fb.me/7XzHCOHpr
+﻿"The Art of Fuzzing without Fuzzing，来自 Ben Nagy Github: https://t.co/Ou39znI1HQ  https://t.co/zW70JvvuL0"
+[ Fuzzing ]  FuzTip: Always enable Special Pool when fuzzing Windows Fonts/Kernel: "verifier.exe /flags 0x1 /driver Win32k.sys" (&amp; atmfd.dll). Saves time
+﻿"Fuzz 小建议: 在 Fuzz Windows 字体和内核时启用 Special Pool， 可以节省时间，启用方法: 'verifier.exe /flags 0x1 /driver Win32k.sys'(& atmfd.dll)"
+[ Fuzzing ]  Retweeted Iván (@ aszy): Targeted Program Transformations for Symbolic Execution http://www.doc.ic.ac.uk/~cristic/papers/symex-transf-fse-ni-15.pdf http://fb.me/LJMNjKV8
+﻿"为符号执行做针对性的程序变换， Paper:  https://t.co/qPxJzn9WiZ  https://t.co/CovIElSl5y"
+[ Fuzzing ]  boofuzz - A fork and successor of the Sulley Fuzzing Framework. http://ow.ly/WPAyY
+﻿"boofuzz - Sulley Fuzz 框架的 fork 版本： https://t.co/kBqrs9cDF1"
+[ Fuzzing ]  Exploiting Trade-offs* in Symbolic Execution for Identifying Security Bugs : http://sas2015.inria.fr/sas_invited_talk.pdf (Slides)
+﻿"利用实用化的符号执行挖掘安全漏洞，来自 Thanassis Avgerinos 在 SAS Workshop 的演讲： https://t.co/vJJnF791e7  之前推送过相关的 Paper: http://repository.cmu.edu/cgi/viewcontent.cgi?article=1478&context=dissertations "
+[ Fuzzing ]  Hacking for Charity: Automated Bug-finding in LibOTR http://blog.trailofbits.com/2016/01/13/hacking-for-charity-automated-bug-finding-in-libotr
+﻿"为慈善事业 Hacking: 自动化寻找 LibOTR 的漏洞， LibOTR 是一个流行的加密消息传输库： https://t.co/DoMRJgv7fw"
+[ Fuzzing ]  afl-fuzz-js a porting of afl fuzzer for javascript: https://github.com/tunz/afl-fuzz-js
+﻿"afl-fuzz-js - AFL-Fuzz 的 JavaScript 移植版: https://t.co/6nUAW3sQje"
+[ Fuzzing ]  Fuzzing automation with AFL and Jenkins : https://zubu.re/fuzzing-automation-afl-jenkins.html
+﻿"借助 Jenkins 和 Docker，搭建一个自动化的 AFL Fuzz 框架: https://t.co/nsVOb8z91U"
+[ Fuzzing ]  C++ sanitizers & fuzzing & hardening http://llvm.org/devmtg/2015-10/slides/SerebryanyCollingbourne-BeyondSanitizers.pdf [ASan, TSan, MSan, UBSan +LLVM libFuzzer, AFL-fuzz +CFI; Fuzzing-as-a-service]
+﻿"Beyond Sanitizers - Fuzzing 和代码加固， 来自 2015 年 10 月的 LLVM 开发者会议， Slides：  https://t.co/cSl5mltxRf "
+[ Fuzzing ]  kitty : Fuzzing Framework written in python : https://github.com/cisco-sas/kitty
+﻿"kitty - 一个 Python 写的 Fuzz 框架，作者表示写这个框架的目标是为了 Fuzz 一些建立在非 TCP/IP 之上的不常见的协议。 Github Repo: https://t.co/kUwqG3SLp5"
+[ Fuzzing ]  vUSBf:A KVM/QEMU based USB-fuzzing framework https://github.com/schumilo/vUSBf
+﻿"vUSBf - 一个基于 KVM/QEMU 的 USB Fuzz 框架， Github Repo： https://t.co/P8zfYXL4ns"
+[ Fuzzing ]  AFL-analyze: Inferring a file structure via fuzzing by @ lcamtuf https://lcamtuf.blogspot.com/2016/02/say-hello-to-afl-analyze.html https://t.co/Y3OI2S3OWX
+﻿"AFL-analyze - 新版本的 AFL 新添加的一个工具，该工具可以在 Fuzz 过程中自动化地推导文件结构： https://t.co/4gUC9zFXmg "
+[ Fuzzing ]  Some new hot tricks (research area) on Symbolic Execution - Counting Path Constraint solucions - Tha paper here: http://www.iste.uni-stuttgart.de/fileadmin/user_upload/iste/zss/publications/supplementaryMaterial/2014-FSE-IncludingErrata.pdf
+﻿"基于依据采样的符号执行， Paper: https://t.co/ZaSyN4YUtE"
+[ Fuzzing ]  Extend #aflfuzz mutation routines with Python modules: https://github.com/choller/afl/blob/master/docs/mozilla/python_modules.txt
+﻿"用 Python 模块扩展 AFL Fuzz 的变异逻辑， Github Page: https://t.co/XYmLP3BvO2"
+[ Fuzzing ]  Fuzzing the Rust Typechecker Using CLP https://www.cs.ucsb.edu/~benh/research/papers/dewey15fuzzing.pdf
+﻿"采用约束逻辑编程（CLP） 的方法 Fuzz Rust 的类型检查器， Paper： https://t.co/mEEUjQG8LI"
+[ Fuzzing ]  morph : an open source browser fuzzing framework for fun : https://github.com/walkerfuz/morph
+﻿"morph - 一个开源的浏览器 Fuzz 框架， Github Repo: https://t.co/KLsNoQkY0z FreeBuf 上作者发表过一篇介绍这个框架的文章 《从零开始学Fuzzing系列：浏览器挖掘框架Morph诞生记》：  http://www.freebuf.com/tools/89001.html "
+[ Fuzzing ]  HTMLFuzzer https://github.com/jackmasa/HTMLFuzzer
+﻿"HTMLFuzzer， Github Repo： https://t.co/fB8zCFsH8F"
+[ Fuzzing ]  [ReverseEngineering]Quick introduction into SAT/SMT solvers and symbolic execution http://yurichev.com/tmp/SAT_SMT_DRAFT.pdf
+﻿"SAT/SMT 求解器和符号执行介绍： https://t.co/qzyEb91Vev"
+[ Fuzzing ]  Little HTML event attributes fuzzer - http://pastebin.com/AayLzNyB - #chrome and #firefox only
+﻿"HTML 事件属性 fuzzer， 只支持 Chrome 和 Firefox， 来自 Pastebin：  https://t.co/y2p6q6n3JC "
+[ Fuzzing ]  Coverage-guided kernel fuzzing with syzkaller https://lwn.net/SubscriberLink/677764/02236e45d8b181f0/
+﻿"基于 syzkaller、 覆盖率为制导的 Linux 内核 Fuzz, 来自 LWN 网站:  https://t.co/lygxfssJcs"
+[ Fuzzing ]  bNumEndpoints==0 in USB config descriptor…same bug described ~2 years ago,disregarded by MS http://blog.quarkslab.com/usb-fuzzing-basics-from-fuzzing-to-bug-reporting.html https://twitter.com/NCCGroupInfosec/status/707859018690199552
+﻿"USB 配置描述符中的 bNumEndpoints==0  - 两年前的同一个 Bug 微软没在意. 来自 QuarksLab 2014 年的一篇 Blog: USB Fuzzing 基础: https://t.co/HSBrK8heJh  "
+[ Fuzzing ]  AFL + MirageOS = <3 http://canopy.mirage.io/Posts/Fuzzing
+﻿"Stephen Dolan 为 OCaml 编译器写了一个 Patch, 以支持 AFL 对 OCaml 应用的 Fuzz 测试:  https://t.co/GEJzK21xiN"
+[ Fuzzing ]  afl+concolic=driller https://www.internetsociety.org/sites/default/files/blogs-media/driller-augmenting-fuzzing-through-selective-symbolic-execution.pdf
+﻿"通过 Fuzzing 和有选择地符号执行结合的方式挖掘漏洞, Paper: https://t.co/8u6phUeGkm"
+[ Fuzzing ]  nice detailed post about afl usage http://foxglovesecurity.com/2016/03/15/fuzzing-workflows-a-fuzz-job-from-start-to-finish/
+﻿"一篇非常详细的 AFL Fuzz 使用手册， Blog：  https://t.co/BgRb0SKUJD "
+[ Fuzzing ]  NextGen is a new Capstone-dependent genetic fuzzer for Unix file, syscall & network! https://github.com/2trill2spill/nextgen
+﻿"NextGen - 基于 Capstone 反汇编引擎的 Fuzzer, 该 Fuzzer 采用遗传算法, 支持对 Unix 文件、Syscall、网络的 Fuzz, Github Repo: https://t.co/qtHOHAFMSn"
+[ Fuzzing ]  FuzzWindows Kernel via javascript http://weibo.com/p/230418770b78cb0102w1ia
+﻿"Fuzz Windows Kernel via javascript， 新浪微博： https://t.co/JO1MJ85SlZ  基于 Chakra 引擎，写 JavaScript 代码 Fuzz Windows 内核"
+[ Fuzzing ]  Virtualised USB Fuzzing using QEMU and Scapy - Tobias Muller: http://youtu.be/EyljYN22_rU?a via @ YouTube
+﻿"基于 QEMU 和 Scapy 的虚拟 USB Fuzz 方案, (Youtube 视频)︰  https://t.co/pumjWoxjT8"
+[ Fuzzing ]  The Fuzzing Project (eh16) http://cdn.media.ccc.de/events/eh2016/h264-sd/eh16-75-eng-The_Fuzzing_Project_sd.mp4
+﻿"The Fuzzing Project， CCC 会议视频（MP4 下载）： https://t.co/wpmlMfitXb"
+[ Fuzzing ]  I Can Haz Fuzz? Fuzzing OpenSSL for fun and profit: https://github.com/benlaurie/openssl/tree/fuzz/fuzz Send me patches!
+﻿"用 libfuzzer Fuzz OpenSSL︰ https://t.co/eqaiP2b70U "
+[ Fuzzing ]  I'm proud to announce a radically new version of AFL: http://lcamtuf.coredump.cx/afl/
+﻿"AFL Fuzz 工具发布一个全新版本 - 企业版 ︰ https://t.co/x09sBa2D1S"
+[ Fuzzing ]  I'm doing a talk with @ 4c1d3 on Linux filesystem fuzzing using @ lcamtuf's AFL at Vault 2016: http://sched.co/68kL http://events.linuxfoundation.org/sites/events/files/slides/AFL%20filesystem%20fuzzing%2C%20Vault%202016.pdf
+﻿"基于 AFL 的 Linux 文件系统 Fuzz， 来自 Vault 2016 会议: https://t.co/Dwagx2qcWK https://t.co/Op5cYf7MMY"
+[ Fuzzing ]  afl-utils v1.27a comes with yet another new tool: afl-sync! https://github.com/rc0r/afl-utils Happy syncing! #AmericanFuzzyLop https://t.co/URyF5vohH5
+﻿"afl-fuzz 的辅助工具集 afl-utils 更新 v1.27a，本次新添加了一个工具 afl-sync，用于多个 fuzz 实例之间的同步、备份、重建： https://t.co/voN2191yw5    https://t.co/URyF5vohH5"
+[ Fuzzing ]  "Reducers are Fuzzers" http://blog.regehr.org/archives/1284 by @ johnregehr
+﻿"Reducers are Fuzzers， Reducer 指用于精简样本的工具：  https://t.co/VnaVoj5Tzj"
+[ Fuzzing ]  I just created a Docker image for Nightmare (https://github.com/joxeankoret/nightmare). Just use: $ docker pull joxean/nightmare
+﻿"Nightmare - 分布式 Fuzz 框架的 Docker 镜像版： https://t.co/UZqujxONQO "
+[ Fuzzing ]  PyExZ3 - symbolic execution engine for Python, now using the Z3 theorem prover https://github.com/thomasjball/PyExZ3/ Paper http://research.microsoft.com/pubs/233035/dse.pdf
+﻿"PyExZ3 - 基于 Z3 的符号执行引擎： https://t.co/QLU1HTObaj    来自微软的 Paper：  https://t.co/ZFYA8BHoWV"
+[ Fuzzing ]  Fuzzing Language Interpreters Using Regression Tests http://sean.heelan.ie/2016/04/26/fuzzing-language-interpreters-using-regression-tests/
+﻿"用回归测试的方法 Fuzz 语言解释器： https://t.co/1zEt7P8bjX"
+[ Fuzzing ]  Zesty assessment of #infiltrate 2016 talks by @ daveaitel http://cybersecpolitics.blogspot.com/2016/05/the-common-thread-fuzzing-bug-triage.html [bonmots galore; "fuzzers are mightier than the sword"]
+﻿" Dave Aitel 对 Infiltrate 会议 Fuzz 相关的的几个议题的看法：  https://t.co/rB5UFbWn12  "
+[ Fuzzing ]  Also: dizzy fuzzing library https://github.com/ernw/dizzy https://www.insinuator.net/2011/07/week-of-releases-dizzy/ https://github.com/ernw/insinuator-snippets/tree/master/VoLTE-dizzy https://t.co/iAMWCLVJLv
+﻿" Dizzy - 网络数据包 Fuzz 框架， Python 语言编写： https://t.co/JNjOrnzn98 https://t.co/LN7ockj3Nq https://t.co/sBWXInpMYz https://t.co/iAMWCLVJLv"
+[ Fuzzing ]  Pretty slick: fuzzing+PANDA taint & concolic exec+constraint solving for test case generation: http://publications.lib.chalmers.se/records/fulltext/228478/228478.pdf
+﻿" 基于 Concolic Execution 技术的多平台二进制程序测试， Paper ︰ https://t.co/HsKWCJdGlu"
+[ Fuzzing ]  ProtoFuzz is a generic fuzzer for Google’s Protobuf, now available on Github http://blog.trailofbits.com/2016/05/18/protofuzz-a-protobuf-fuzzer
+﻿"ProtoFuzz - 为 Google ProtoBuf 写的一个通用 Fuzzer： https://t.co/WmCAMJ5FQF  GitHub Repo： https://github.com/trailofbits/protofuzz "
+[ Fuzzing ]  mutation-based general purpose fuzzer, written in JavaScript https://github.com/attekett/Surku
+﻿" Surku - 基于变异的 Fuzzer，JavaScript 语言编写： https://t.co/jjRF1SYYcG"
+[ Fuzzing ]  Torturing the PHP interpreter - Slides from my @ CONFidence_news talk - http://www.slideshare.net/logicaltrust/torturing-the-php-interpreter CC: @ owasppoland #php #fuzzing
+﻿" 折磨（Fuzz） PHP 解释器，Slides： https://t.co/gVdHOF8op5 "
+[ Fuzzing ]  Slides: @ richinseattle on 'Go Speed Tracer: Guided Fuzzing' http://conference.hitb.org/hitbsecconf2016ams/materials/D2T2%20-%20Richard%20Johnson%20-%20Go%20Speed%20Tracer%20-%20Guided%20Fuzzing.pdf #HITB2016AMS https://t.co/0G0taEK0Kx
+﻿" 高速 Trace 与 Guided Fuzzing， 来自 HITB 2016 阿姆斯特丹会议： https://t.co/ea8IaKLN8G   https://t.co/0G0taEK0Kx"
+[ Fuzzing ]  afl-cov 0.6 released: https://github.com/mrash/afl-cov Code coverage for afl-fuzz.
+﻿"afl-cov - afl Fuzz 工具的代码覆盖率计算工具︰ https://t.co/Z50kRB58VX "
+[ Fuzzing ]  Open Source Fuzzers list : https://www.peerlyst.com/posts/resource-open-source-fuzzers-list
+﻿" 开源 Fuzzer 列表，来自 PeerLyst Blog︰ https://t.co/t3XXcjYl9y"
+[ Fuzzing ]  delta debugging on afl crashes https://github.com/MarkusTeufelberger/afl-ddmin-mod readings:"Reducers are Fuzzers" http://blog.regehr.org/archives/1284 paper http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.126.6907&rep=rep1&type=pdf
+﻿" afl crash 增量调试： https://t.co/00SSPgyhuu  Reducers are Fuzzers：  https://t.co/8XOHWGZ6R3  Paper： https://t.co/zx5w1EFxWR"
+[ Fuzzing ]  FlashFuzzr v1.0 release: https://pastebin.com/raw/CC6UPcbZ Example Usage: https://www.youtube.com/watch?v=T-Z9_HmM5UY to compile + exec: gcc -o h h.c -std=gnu11 ./h
+﻿"FlashFuzzr  - 自动化地 Fuzz 基于 Flash 的 XSS 漏洞 ︰ https://t.co/Afx0pXrhRQ  其中硬编码了一个可能存在 XSS 的 API 列表"
+[ Fuzzing ]  Fuzzing Rust code with american-fuzzy-lop https://github.com/frewsxcv/afl.rs
+﻿" 利用 AFL Fuzz Rust： https://t.co/71GyFwbG2a "
+[ Fuzzing ]  fuzzing using a neural network-- I had been planning to try this but these guys got to it first! http://cifasis.github.io/neural-fuzzer/
+﻿"Neural-Fuzzer - 基于神经网络的 Fuzzer：  https://t.co/CHShZ7MJ0j"
+[ Fuzzing ]  Run AFL on Everything! AFL + QEMU + Linux = CVEs https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2016/june/project-triforce-run-afl-on-everything/
+﻿" TriforceAFL - Run AFL on Everything，基于 Qemu、支持全系统模拟的 Fuzz，来自 NCC Group： https://t.co/ICcRStS7oi"
+[ Fuzzing ]  Escaping the Fuzz: Evaluating Fuzzing Techniques and How to Fool them with Anti-Fuzzing https://upload.edholmarna.se/master_thesis-first-draft.pdf
+﻿" Escaping the Fuzz - Fuzz 技术评估与对抗（Anti-Fuzzing），Paper： https://t.co/uIoDYQFGeC  关于 Anti-Fuzzing，还有一篇 NCC Group 2014 年的文章： https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2014/january/introduction-to-anti-fuzzing-a-defence-in-depth-aid/ "
+[ Fuzzing ]  Need something to hack with during summer? Try contributing some libFuzzer target functions for greater good: https://github.com/ouspg/libfuzzerfication
+﻿" libfuzzerfication - 一个基于 Docker 的 Fuzz 库，目的是让 Fuzz 更简单 ︰ https://t.co/bvFDJklhPC"
+[ Fuzzing ]  A simple concolic execution tool for exploring the input space of a binary executable program based in Triton https://github.com/CIFASIS/nosy-newt
+﻿" Nosy Newt - 一个具体执行（Concolic Execution）工具，用于发现二进制可执行程序的输入空间，基于 Triton： https://t.co/hfJHPdN0oU "
+[ Fuzzing ]  Peach Fuzz - Vulnerability Scanning Framework -- http://www.kitploit.com/2016/07/peach-fuzz-vulnerability-scanning.html
+﻿" Peach Fuzz 框架： https://t.co/nj7MjIptfk"
+[ Fuzzing ]  Ever wanted to fuzz Windows binaries with AFL? Now you can. https://github.com/ivanfratric/winafl
+﻿" WinAFL- 用 AFL Fuzz Windows 二进制文件： https://t.co/pC7iQuPeHn"
+[ Fuzzing ]  Nosy Newt - concolic execution tool for exploring the input space of a binary executable program. Based on Triton. https://github.com/CIFASIS/nosy-newt
+﻿" Nosy Newt - 可以用于探测二进制程序输入区间的符号执行工具： https://t.co/7NRBSw1TLt"
+[ Fuzzing ]  Awesome Fuzzing: A list of fuzzing resources - books, courses, videos, tools, tutorials. https://github.com/secfigo/Awesome-Fuzzing https://t.co/Z1wAe2Oo0n
+﻿"Awesome Fuzzing - Fuzz 相关的资料收集整理： https://t.co/uwzs2fmlDv https://t.co/Z1wAe2Oo0n"
+[ Fuzzing ]  非主流Fuzzing-模糊测试在⾮内存型漏洞挖掘中的应⽤ - http://blog.knownsec.com/2016/07/some-unique-fuzzing/
+﻿"非主流 Fuzzing - 模糊测试在⾮内存型漏洞挖掘中的应⽤，来自知道创宇 Blog，作者为黑哥： https://t.co/QQ8FRX8xrG"
+[ Fuzzing ]  Multiple Bugs in OpenBSD Kernel: Hi All, As part of NCC Group’s Project Triforce, a generic syscall fuzzing ... http://bit.ly/29LdpcI
+﻿"NCC Group 研究员通过 Syscall Fuzz 的方法在 OpenBSD 内核中发现了多个漏洞：  https://t.co/UpVQxbyn71 "
+[ Fuzzing ]  .@ zer0mem & me #shakacon2016 slides - 50 Shades of Fuzzing - https://speakerdeck.com/marcograss/50-shades-of-fuzzing … #win32k #VMware @ shakacon https://t.co/iW5smyyqkp
+﻿" 50 Shades of Fuzzing（VMware、Win32k），来自科恩实验室研究员在 ShakaCon 会议的演讲： https://speakerdeck.com/marcograss/50-shades-of-fuzzing "
+[ Fuzzing ]  Choronzon, our (CENSUS) evolutionary knowledge-based fuzzer, has just been released as open source software: https://census-labs.com/news/2016/07/20/choronzon-public-release/
+﻿" 去年 12 月份的 ZeroNights 会议上， Census Lab 公开了自己基于知识库的 fuzzer - Choronzon，但代码直到昨天才公开︰ https://t.co/FiBuL5Ld8H"
+[ Fuzzing ]  Major new features in AFL 2.20b: https://groups.google.com/forum/#!topic/afl-users/tTR5KcoecGs
+﻿" AFL Fuzz 2.20b 版本的两个新特性: https://t.co/e1VJrkI7w2"
+[ Fuzzing ]  New post: Fuzzing with AFL is an Art http://moyix.blogspot.com/2016/07/fuzzing-with-afl-is-an-art.html
+﻿" 基于 AFL 的 Fuzz 是一种艺术： https://t.co/5rVl26ghn3"
+[ Fuzzing ]  Dynamic Symbolic Execution with Interpolation Based Path Merging https://www.sec.in.tum.de/assets/Uploads/ibing16interpolmerge.pdf
+﻿"通过插值路径合并算法解决符号执行中的路径爆炸问题，Paper： https://t.co/UhfxRJckmo"
+[ Fuzzing ]  A fuzzer and a symbolic executor walk into a cloud. https://blog.trailofbits.com/2016/08/02/engineering-solutions-to-hard-program-analysis-problems/
+﻿" 高性能 Fuzzer GRR 与二进制符号执行工具 PySymEmu，以程序分析的方法挖掘漏洞： https://t.co/yUS7RO6Fbr"
+[ Fuzzing ]  Guided in-process fuzzing of Chrome components http://feedproxy.google.com/~r/GoogleOnlineSecurityBlog/~3/40jBXgzhCfQ/guided-in-process-fuzzing-of-chrome.html
+﻿" 基于 libFuzzer 的 Chrome 组件 Fuzz 方法，来自 Google 官方 Blog，这里提到了一种称为 in-process 的 Fuzz 方式，这种 Fuzz 不用每次都重启目标进程，而是在内存中直接变异 Fuzz： https://security.googleblog.com/2016/08/guided-in-process-fuzzing-of-chrome.html  "
+[ Fuzzing ]  Fuzz Windows Kernel via Javascript (the english version in github) https://github.com/tinysec/public/blob/master/FuzzWindowsKernelViaJavascript/en.md
+﻿"通过 Javascript Fuzz Windows 内核： https://github.com/tinysec/public/blob/master/FuzzWindowsKernelViaJavascript/zh.md  昨天作者 TinySec 还发了几张截图介绍 jsfuzzer： http://weibo.com/1997240523/E2W0ZmsOH "
+[ Fuzzing ]  Fuzzing nginx with American Fuzzy Lop (not the bunny) https://www.invincealabs.com/blog/2016/08/fuzzing-nginx-with-afl/
+﻿"用 AFL Fuzz Nginx 服务器： https://t.co/L3A0aCZFPG"
+[ Fuzzing ]  Just published the slides + code from @ NerdKernel & @ munmap @ defcon presentation on platform agnostic kernel fuzzing https://labs.mwrinfosecurity.com/publications/platform-agnostic-kernel-fuzzing
+﻿" KernelFuzzer - MWR Labs 开源了一个跨平台的内核 Fuzz 框架，支持 Windows、OS X、QNX 系统： https://t.co/KMK69a63qH "
+[ Fuzzing ]  Coverage-based Greybox Fuzzing as Markov Chain https://www.comp.nus.edu.sg/~mboehme/paper/CCS16.pdf && code https://github.com/mboehme/aflfast
+﻿"基于代码覆盖率的灰盒 Fuzz，Paper： https://t.co/Db4sB0WMpi  作者在 AFL 的基础上实现了一个 AFLFast： https://t.co/As5kQYY7rq"
+[ Fuzzing ]  Fuzzing Perl: A Tale of Two American Fuzzy Lops http://www.geeknik.net/71nvhf1fp #infosec #fuzzing
+﻿" 用 AFL Fuzz Perl 的小故事： https://t.co/2EmVlLtNF7 "
+[ Fuzzing ]  NCC Group Research Insights Volume 9 - Modern Security Vulnerability Discovery - is out! - https://www.nccgroup.trust/uk/our-research/research-insights-vol-9-modern-security-vulnerability-discovery/?research=Whitepapers https://t.co/0K9IbWLGHo
+﻿" 当代漏洞挖掘方法的总结，来自 NCC Group： https://www.nccgroup.trust/uk/our-research/research-insights-vol-9-modern-security-vulnerability-discovery/?research=Whitepapers "
+[ Fuzzing ]  NCC Group Open Source: Hodor Fuzzer - a generic fuzzer design - https://github.com/nccgroup/hodor by Joel St. John, Braden Hollembaek, and Frank Arana
+﻿" Hodor - 通用型 Fuzzer，NCC Group 开源的： https://t.co/DPukdKHP0s"
+[ Fuzzing ]  #QtCon #FSFEsummit talk on American Fuzzy Lop and Address Sanitizer slides https://www.int21.de/slides/qtcon-fuzzing/ (almost same as @ BornHax talk)
+﻿"QtCon 会议关于 AFL 和 Address Sanitizer 的演讲： https://t.co/39mBfdwPj9 "
+[ Fuzzing ]  Fuzzing emulators https://mgba.io/2016/09/13/fuzzing-emulators/
+﻿" Fuzzing emulators： https://t.co/CeC7aFdKLZ"
+[ Fuzzing ]  Fuzz 工具 AFL 的 Android 移植版本： https://github.com/ele7enxxh/android-afl
+[ Fuzzing ]  Project Springfield : Fuzz your code before hackers do https://www.microsoft.com/en-us/springfield/#examples
+﻿" 微软推出 Project Springfield Fuzzing 测试服务： https://t.co/YEPZud9rgA"
+[ Fuzzing ]  Mozilla 的文件 Fuzz 样本库： https://github.com/MozillaSecurity/fuzzdata
+[ Fuzzing ]  Announcing CERT Basic Fuzzing Framework (BFF) Version 2.8 File fuzzing for the masses! https://insights.sei.cmu.edu/cert/2016/10/announcing-cert-basic-fuzzing-framework-bff-28.html #fuzzing #infosec #netsec
+﻿" CERT 发布 Basic Fuzzing Framework Version 2.8： https://t.co/Avh29OklOq  下载页面： https://www.cert.org/vulnerability-analysis/tools/bff-download.cfm "
+[ Fuzzing ]  Test suite for fuzzers: https://github.com/google/fuzzer-test-suite.
+﻿" 一组用于测试 fuzzer 效果的测试集: https://t.co/oKa5Zlc0K0 "
+[ Fuzzing ]  I just released my web fuzzer (urlfuzz) written in NodeJS https://github.com/danigargu/urlfuzz
+﻿" NodeJS 写的一个 Web Fuzzer - urlfuzz： https://t.co/QbEgNbxwLu "
+[ Fuzzing ]  So #fuzzinator is out: https://github.com/renatahodovan/fuzzinator! All the awesome and crazy ideas for extensions are welcome! ;)
+﻿"Fuzzinator Fuzz框架︰ https://t.co/dzLo5NovrG "
+[ Fuzzing ]  shared a ppt about my js-kernel-fuzzer https://github.com/tinysec/public/blob/master/FuzzWindowsKernelViaJavascript/JSkernelFuzzer.pptx
+﻿" 介绍 TinySec 的 js windows kernel fuzzer 的 PPT： https://t.co/AF1MgyPIQC  还有一篇相关的文档： https://github.com/tinysec/public/blob/master/FuzzWindowsKernelViaJavascript/zh.md "
+[ Fuzzing ]  Mozilla LibFuzzer NSS corpus https://github.com/mozilla/nss-fuzzing-corpus
+﻿"Mozilla LibFuzzer NSS 语料库： https://t.co/4Vl7ZdxIC1"
+[ Fuzzing ]  Google is launching a hosted free fuzzing service for OSS projects; tracking it for @ openmirage here https://github.com/mirage/mirage/issues/642
+﻿"Google 为 OSS 项目发起了一个免费的 fuzz 服务：  https://t.co/k0E44BOMKB   https://github.com/google/oss-fuzz "
+[ Fuzzing ]  System call fuzzing of OpenBSD amd64 using TriforceAFL (i.e. AFL and QEMU) https://github.com/nccgroup/TriforceOpenBSDFuzzer
+﻿"使用 Triforce AFL 来 fuzz OpenBSD amd64 的系统调用： https://t.co/9tbudjUA7h"
+[ Fuzzing ]  Project Triforce: AFL + QEMU + kernel = CVEs! (or) How to use AFL to fuzz arbitrary VMs : https://github.com/nccgroup/TriforceAFL/blob/master/slides/ToorCon16_TriforceAFL.pdf
+﻿"AFL + QEMU + kernel = CVEs! (or) How to use AFL to fuzz arbitrary VMs(PDF):  https://t.co/bppigImZ5K           TriforceAFL（GitHub）： https://github.com/nccgroup/TriforceAFL   "
+[ Fuzzing ]  blog post: Fuzzing #Qt with libFuzzer -> http://www.peter.hartmann.tk/single-post/2016/11/29/Fuzzing-Qt-with-libFuzzer
+﻿"用 libFuzzer 来 Fuzz Qt 框架： https://t.co/we81LTHD1e"
+[ Fuzzing ]  Google Open Source Blog: Announcing OSS-Fuzz: Continuous fuzzing for open source software https://opensource.googleblog.com/2016/12/announcing-oss-fuzz-continuous-fuzzing.html via @ google
+﻿"Google 开源新 Fuzz 工具 OSS-Fuzz ，用来 Fuzz 开源软件： https://t.co/KfhDKHLoZC"
+[ Fuzzing ]  An introduction of Use-After-Free detection in binary code by #static analysis - http://blog.amossys.fr/intro-to-use-after-free-detection.html #uaf
+﻿"在二进制代码中通过静态分析的方法检测 UAF 漏洞： https://t.co/ulcgwGkRI7"
+[ Fuzzing ]  Applied high-speed in-process fuzzing: the case of Foxit Reader http://www.hdwsec.fr/en/blog/inprocessfuzzing.html
+﻿" Fuzz 过程中，性能是一个关键指标。这篇 Blog 以 Fuzz 福昕阅读器的 ConvertToPDF 插件为例，介绍如何通过注入代码不重启进程的方式 Fuzz 指定 API，实现高性能 Fuzz： https://t.co/6MwdamAHJ4 "
+[ Fuzzing ]  如何利用代码相似性分析进行自动化漏洞检测： https://loccs.sjtu.edu.cn/gossip/notes/VulPecker%20An%20Automated%20Vulnerability%20Detection%20System%20Based%20on%20Code%20Similarity%20Analysis.pdf
+[ Fuzzing ]  gramfuzz - 基于语法的 Fuzzing： https://blog.exodusintel.com/2017/01/03/gramfuzz/
+[ Fuzzing ]  Finding Bugs in TensorFlow with LibFuzzer https://da-data.blogspot.com.es/2017/01/finding-bugs-in-tensorflow-with.html
+﻿"利用 LibFuzzer 挖掘 TensorFlow 中的 bug： https://t.co/IxlH1kvmd0"
+[ Fuzzing ]  Fuzzing OpenSSL1.1.0 and Apache2.4 with hongfuzz: step-by-step examples + powerful corpora: https://goo.gl/hrczuT https://goo.gl/6B9WVf
+﻿"Fuzzing OpenSSL1.1.0 and Apache2.4 with hongfuzz︰ https://t.co/bTwb1ObiH9 https://t.co/TbLM408sES"
+[ Fuzzing ]  Fuzzing results for various interpreters. https://github.com/dyjakan/interpreter-bugs
+﻿" 研究员 Andrzej Dyjak 对 PHP/Python 等解释器的 Fuzz 结果： https://t.co/iJFWSC27Do"
+[ Fuzzing ]  Learn & Fuzz : Machine Learning for Input Fuzzing : https://arxiv.org/pdf/1701.07232.pdf (pdf)
+﻿" 基于机器学习的 Input Fuzzing 技术︰ https://t.co/GdhK0LrpYZ"
+[ Fuzzing ]  The Smart Fuzzer Revolution https://blog.trailofbits.com/2017/02/16/the-smart-fuzzer-revolution/
+﻿"智能 Fuzzer 的发展过程： https://t.co/hypFUwEZhp"
+[ Fuzzing ]  Finally! Vuzzer was open sourced https://github.com/vusec/vuzzer Thank you @ vu5ec
+﻿"Fuzz 工具 Vuzzer 开源了： https://t.co/AWvybYx97z "
+[ Fuzzing ]  在Linux上使用AFL对Stagefright进行模糊测试： http://paper.seebug.org/245/
+[ Fuzzing ]  Docker 的镜像库里有人共享了一个 AFL Fuzz Docker Image，里面内置了 clang, qemu, afl-dyninst, TriforceAFL: https://hub.docker.com/r/moflow/afl-tools/
+[ Fuzzing ]  Smarter Peach: Add Eyes to Peach Fuzzer： http://bobao.360.cn/news/detail/4036.html
+[ Fuzzing ]  Fuzzing the OpenSSH daemon using AFL. http://vegardno.blogspot.fr/2017/03/fuzzing-openssh-daemon-using-afl.html
+﻿"如何 fuzz OpenSSH daemon（sshd）： https://t.co/eJfNvHrJCj"
+[ Fuzzing ]  DIG INTO THE ATTACK SURFACE OF PDF AND GAIN 100+ CVES IN 1 YEAR，来自玄武实验室 Ke Liu 在 BlackHat Asia 会议的演讲，其中分享了他在挖掘 PDF 文件格式漏洞过程中的经验，包括如何寻找攻击面以及 Fuzzing 过程中的一些技巧：
+[ Fuzzing ]  Project Zero blog: "Notes on Windows Uniscribe Fuzzing" by @ j00ru - https://googleprojectzero.blogspot.com/2017/04/notes-on-windows-uniscribe-fuzzing.html
+﻿"在 Fuzz Windows 用户态组件 Uniscribe 库对字体的处理时，j00ru 发现了 29 个 Bug，Project Zero 这篇 Blog 介绍他是如何大规模 Fuzz Uniscribe 的： https://t.co/euMaN1t6D6"
+[ Fuzzing ]  Modern fuzzing of C/C++ Projects 项目的资料 - libfuzzer-workshop，其中分多个章节介绍了如何用 libfuzzer Fuzz C/C++ 的代码项目: https://github.com/Dor1s/libfuzzer-workshop
+[ Fuzzing ]  KFUZZ story continued, Improving Coverage Guided Fuzzing, Using Static Analysis https://repret.wordpress.com/2017/05/01/improving-coverage-guided-fuzzing-using-static-analysis/
+﻿"使用静态分析的方法提升 Guided Fuzzing 过程中的代码覆盖率 ： https://repret.wordpress.com/2017/05/01/improving-coverage-guided-fuzzing-using-static-analysis/"
+[ Fuzzing ]  Slides for my @ stirtrek talk "High Speed Bug Discovery with Fuzzing" https://speakerdeck.com/craigstuntz/high-speed-bug-discovery-with-fuzzing
+" High Speed Bug Discovery with Fuzzing： https://speakerdeck.com/craigstuntz/high-speed-bug-discovery-with-fuzzing "
+[ Fuzzing ]  Fuzzing Apache httpd server with American Fuzzy Lop + persistent mode (+2k exec/sec) https://animal0day.blogspot.co.uk/2017/05/fuzzing-apache-httpd-server-with.html
+" 利用 AFL Fuzz Apache httpd server： https://animal0day.blogspot.co.uk/2017/05/fuzzing-apache-httpd-server-with.html "
+[ Fuzzing ]  微软 Build 2017 会议上的一篇视频演讲，How To Fuzz It - Microsoft Security Risk Detection in Practice， Microsoft Security Risk Detection 是微软推出的一个 Fuzzing 测试服务： https://channel9.msdn.com/Events/Build/2017/P4051
+[ Fuzzing ]  Skyfire: Data-Driven Seed Generation for Fuzzing，Fuzzing 过程中数据驱动的种子文件生成： https://www.ieee-security.org/TC/SP2017/papers/42.pdf
+[ Fuzzing ]  Fork Google 的 oss-fuzz 工具，使其支持不间断 Fuzzing: https://www.fastly.com/blog/how-bootstrap-self-service-continuous-fuzzing
+[ Fuzzing ]   Node.fz - 对服务端事件驱动型应用程序的 Fuzz，发现了很多的并发相关的 Bugs： https://blog.acolyer.org/2017/06/09/node-fz-fuzzing-the-server-side-event-driven-architecture/
+[ Fuzzing ]   利用 Scapy 和 radamsa Fuzz 私有协议： https://blog.blazeinfosec.com/fuzzing-proprietary-protocols-with-scapy-radamsa-and-a-handful-of-pcaps/
+[ Fuzzing ]  Python JSON Fuzzer: PyJFuzz： https://n0where.net/python-json-fuzzer-pyjfuzz/
+[ Fuzzing ]  Fuzzing Numpy - 用于 Fuzz Python 数值运算库 NumPy 的工具： https://github.com/jaybosamiya/fuzzing-numpy
+[ Fuzzing ]   利用 AFL 以持久模式 Fuzz Apache httpd： https://sensepost.com/blog/2017/fuzzing-apache-httpd-server-with-american-fuzzy-lop-%2B-persistent-mode/
+[ Fuzzing ]  使用 ChakraCore 来 Fuzz NScript，来自 blast： http://www.nul.pw/2017/07/06/241.html
+[ Fuzzing ]  为 Gcc 添加 comparison-guided fuzzing 支持： https://gcc.gnu.org/ml/gcc/2017-07/msg00046.html
+[ Fuzzing ]  从 fuzzing Apache httpd server 到获得 1500刀奖励： https://animal0day.blogspot.co.uk/2017/07/from-fuzzing-apache-httpd-server-to-cve.html
+[ Fuzzing ]  Scapy Fuzz实现——S7协议从建连到“正常交流“(一)： http://bobao.360.cn/learning/detail/4120.html
+[ Fuzzing ]  什么样的应用值得 Fuzz 测试： https://medium.com/fuzzstation/what-applications-should-be-fuzz-tested-e83c77aec84a
+[ Fuzzing ]   使用不同的 Fuzz 工具实现加密软件的自动化测试，来自 Blackhat us 2017： https://131002.net/data/talks/CDFBH.pdf
+[ Fuzzing ]   Evolutionary Kernel Fuzzing，来自 Talos 团队研究员在 BlackHat 会议关于 Windows/Linux 内核 Fuzzing 技术的演讲： https://github.com/richinseattle/EvolutionaryKernelFuzzing/blob/master/slides/Evolutionary%20Kernel%20Fuzzing-BH2017-rjohnson-FINAL.pdf
+[ Fuzzing ]   如何使用Fuzzing挖掘ImageMagick的漏洞，作者同时公开了这个 Fuzzer 的代码： https://github.com/lcatro/Fuzzing-ImageMagick
+[ Fuzzing ]    Google 公开的用于 Fuzz 的测试样本集： https://github.com/google/fuzzer-test-suite
+[ Fuzzing ]  Fuzzing: The State of the Art： http://www.dtic.mil/dtic/tr/fulltext/u2/a558209.pdf
+[ Fuzzing ]  Smarter Peach: Add Eyes to Peach Fuzzer，来自 YIHAN LIAN 和 ZHIBIN HU 在 Rooted CON 2017 会议的演讲（视频）： https://www.youtube.com/watch?v=tivSuY6rJVg&index=27&list=PLUOjNfYgonUvu4EZ4m6OxVovCd18M6jTv
+[ Fuzzing ]   《Directed Greybox Fuzzing》，这篇 Paper 提出了一种新的 Fuzzing 技术，可以更加高效地测试目标程序的指定位置： https://www.comp.nus.edu.sg/~mboehme/paper/CCS17.pdf
+[ Fuzzing ]  通过 BurpSuite 宏自动化 Fuzz Web 应用程序的输入点： http://blog.securelayer7.net/automating-web-apps-input-fuzzing-via-burp-macros/
+[ Fuzzing ]  如何为 AFL 选择 Fuzzing 的种子文件： https://medium.com/fuzzstation/fuzz-testing-choosing-a-seed-file-for-afl-fee4a09753c2
+[ Fuzzing ]  Breaking Ruby's Unmarshal with AFL-Fuzz： https://medium.com/fuzzstation/breaking-rubys-unmarshal-with-afl-fuzz-6b5f72b581d5
+[ Fuzzing ]  利用 WinAFL 来 fuzz MSXML library ： https://symeonp.github.io/2017/09/17/fuzzing-winafl.html
+[ Fuzzing ]   利用 WinAFL Fuzz MSXML6 XML 解析库：  https://symeonp.github.io/2017/09/17/fuzzing-winafl.html
+[ Fuzzing ]  《Fuzz or lose: why and how to make fuzzing a standard practice for C++》，来自 CppCon 2017 会议上一篇关于 Fuzz 的议题： https://github.com/CppCon/CppCon2017/blob/master/Demos/Fuzz%20Or%20Lose/Fuzz%20Or%20Lose%20-%20Kostya%20Serebryany%20-%20CppCon%202017.pdf https://www.youtube.com/watch?v=k-Cv8Q3zWNQ
+[ Fuzzing ]  基于 Property 的测试与 Fuzzing： https://blog.nelhage.com/post/property-testing-like-afl/
+[ Fuzzing ]  A_Whole_New_Efficient_Fuzzing_Strategy_for_Stagefright_Porting_and_Optimisations，来自 ele7enxxh ： https://github.com/ele7enxxh/slides/blob/master/A_Whole_New_Efficient_Fuzzing_Strategy_for_Stagefright_Porting_and_Optimisations-ruxcon2017.pdf
+[ Fuzzing ]  Neural fuzzing: applying DNN to software security testing： https://www.microsoft.com/en-us/research/blog/neural-fuzzing/
+[ Fuzzing ]  Learn&Fuzz: Machine Learning for Input Fuzzing（paper）： https://arxiv.org/pdf/1701.07232.pdf
+[ Fuzzing ]  KERNEL Fuzzing in userspace： https://x41-dsec.de/lab/blog/kernel_userspace/
+[ Fuzzing ]  水文：对漏洞挖掘的一点看法： https://weibo.com/ttarticle/p/show?id=2309404174670051067824
+[ Fuzzing ]  The Art of Fuzzing – slides and demos： https://sec-consult.com/en/blog/2017/11/the-art-of-fuzzing-slides-and-demos/index.html
+[ Fuzzing ]  内置接口自动感知能力的 Linux 内核驱动 Fuzzing，来自 BlackHat Europe 2017 会议：  https://www.blackhat.com/docs/eu-17/materials/eu-17-Corina-Difuzzing-Android-Kernel-Drivers.pdf  https://www.blackhat.com/docs/eu-17/materials/eu-17-Corina-Difuzzing-Android-Kernel-Drivers-wp.pdf
+[ Fuzzing ]   Mutiny Fuzzing Framework - Talos 团队开源了一个用于 Fuzz 网络应用程序的框架，这个框架结合 Decept 代理程序实现高效 Fuzzing：  http://blog.talosintelligence.com/2017/12/mutiny-decept.html
+[ Fuzzing ]   为二进制程序构建一个覆盖率导向的高级 Fuzzer，来自 ZeroNights 2017 会议： http://groundx.io/docs/ZeroNights2017-darko-fuzzer.pdf
+[ Fuzzing ]  fuzzing 入门指南： https://fuzzing-project.org/tutorial1.html
+[ Fuzzing ]  Steelix: program-state based binary fuzzing： https://www.semanticscholar.org/paper/Steelix-program-state-based-binary-fuzzing-Li-Chen/d9b98ccc75ec1a464e84121916fb39838dc61862
+[ Fuzzing ]  机器学习与人工智能时代下的应用 fuzzing： https://cloudblogs.microsoft.com/microsoftsecure/2018/01/03/application-fuzzing-in-the-era-of-machine-learning-and-ai/
+[ Fuzzing ]  AFL(American Fuzzy Lop)实现细节与文件变异： https://paper.seebug.org/496/
+[ Fuzzing ]  Reddit 社区中的 Fuzzing 主题页： https://www.reddit.com/r/fuzzing/
+[ Fuzzing ]   利用 libFuzzer Fuzz TCP Server：  http://blog.swiecki.net/2018/01/fuzzing-tcp-servers.html
+[ Fuzzing ]  使用 WinAFL 来 fuzz Hangul(HWP) AppShield： https://www.sigpwn.io/blog/2018/1/29/using-winafl-to-fuzz-hangul-appshield
+[ Fuzzing ]  Fuzzing 的艺术： https://sec-consult.com/wp-content/uploads/files/vulnlab/the_art_of_fuzzing_slides.pdf
+[ Fuzzing ]  Internals of AFL fuzzer - QEMU Instrumentation： https://tunnelshade.in/blog/2018/02/afl-internals-qemu-instrumentation/
+[ Fuzzing ]  史上最详[ZI]细[DUO]的wfuzz中文教程（三）——wfuzz 高级用法： http://www.freebuf.com/column/163632.html
+[ Fuzzing ]    利用 Visual Fuzzing 的方法发现 ZalgoScript： http://blog.portswigger.net/2018/03/unearthing-zalgoscript-with-visual.html
+[ Fuzzing ]   ELF 二进制中的定向函数 Fuzzing： https://blahcat.github.io/2018/03/11/fuzzing-arbitrary-functions-in-elf-binaries/
+[ Fuzzing ]  CollAFL - Path Sensitive Fuzzing： https://csdl.computer.org/csdl/proceedings/sp/2018/4353/00/435301a660.pdf
+[ Fuzzing ]   go-fuzz 使用指南，来自 GopherConRu 18 大会 ： https://go-talks.appspot.com/github.com/dvyukov/go-fuzz/slides/fuzzing.slide
+[ Fuzzing ]   ceph 文件系统模糊测试示例： https://github.com/hardenedlinux/Debian-GNU-Linux-Profiles/tree/master/docs/harbian_qa/fuzz_testing/syz_for_ceph
+[ Fuzzing ]  使用 WinAFL 来 Fuzz MSXML6 library: https://symeonp.github.io/2017/09/17/fuzzing-winafl.html
+[ Fuzzing ]  如何使用 ExploitDev 进行网络应用的模糊测试： https://hansesecure.de/howto-exploitdev-fuzzing/  GitHub： https://github.com/HanseSecure/ExploitDev
+[ Fuzzing ]  T-Fuzz： fuzzing by program transformation（paper）： http://nebelwelt.net/publications/files/18Oakland.pdf
+[ Fuzzing ]  深入理解 Domato Fuzzer 的自动化代码生成器引擎： https://www.sigpwn.io/blog/2018/4/14/domato-fuzzers-generation-engine-internals
+[ Fuzzing ]  Fuzzing Adobe Reader 寻找可利用的漏洞： https://kciredor.com/fuzzing-adobe-reader-for-exploitable-vulns-fun-not-profit.html
+[ Fuzzing ]  一系列用于Fuzzing学习的资源汇总： http://www.freebuf.com/articles/rookie/169413.html

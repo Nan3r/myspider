@@ -1,0 +1,53 @@
+[ Cloud ]  Security Vulnerabilities in Cloud Application http://goo.gl/9Hl3qq #CloudComputing #ApplicationSecurity #NetworkSecurity #Vulnerabilities
+﻿"部署在云上的应用程序的安全漏洞，来自 InfoSec 2015 年 11 月份的一篇 Blog: https://t.co/9dn6sZYBsg "
+[ Cloud ]  Docker Engine 1.10 Security Improvements! It's a bomb dot com release! https://blog.docker.com/2016/02/docker-engine-1-10-security/
+﻿"Docker 引擎 1.10 版本在安全方面的一些改进： https://t.co/6YG4x5Vqi2"
+[ Cloud ]  Deep Packet Inspection in Cloud Containers http://goo.gl/k17BVw #CloudComputing #ApplicationDataSecurity #NetworkSecurity
+﻿"云容器环境下的深度数据包检测， 来自 InfoSec Blog： https://t.co/mlbe5d0WF9 "
+[ Cloud ]  New blog post: Cloud Security & Trust https://www.insinuator.net/2016/03/cloud-security-trust/
+﻿"Insinuator 在 云安全、合规、信任 会议上的演讲 <云安全与信任>: https://t.co/29Ur4wVGM6"
+[ Cloud ]  How to Reduce Security Threats and Operating Costs Using AWS WAF and Amazon CloudFront http://blogs.aws.amazon.com/security/post/Tx1G747SE1R2ZWE/How-to-Reduce-Security-Threats-and-Operating-Costs-Using-AWS-WAF-and-Amazon-Clou
+﻿"如何通过使用 AWS WAF 和 Amazon 云降低安全威胁和运营成本, 来自 Amazon AWS Blog: https://t.co/6MCadhvb14"
+[ Cloud ]  Slides from my Build session, "Building Resilient Services: Learning Lessons from Azure": https://onedrive.live.com/redir?resid=D026B4699190F1E6!2604&authkey=!AGgJt8z0FW6pZ0U&ithint=file%2cpptx https://t.co/F9BUl1su7T
+﻿"Build 大会演讲： 构建弹性服务 - Azure 云上学到的经验教训， Slides ︰ https://t.co/8jf4OzYBkF https://t.co/F9BUl1su7T"
+[ Cloud ]  Cloud Forensic Framework For IaaS With Support for Volatile Memory http://trap.ncirl.ie/2068/1/matusbanus.pdf
+﻿"云服务环境下的内存取证框架： https://t.co/Sp8hryem1d "
+[ Cloud ]  New on our AWS #BigData Blog: "Encrypt Your Amazon Redshift Loads with Amazon S3 & AWS KMS" http://amzn.to/1YhZPwj https://t.co/RqbEN1CAqU
+﻿"用 Amazon S3 和 AWS KMS 加密 Redshift： https://t.co/z1dMRzKJxD  Redshift 是 Amazon 推出的一种快速、完全托管的 PB 级数据仓库"
+[ Cloud ]  We share how different application settings within #Azure can be used to increase security of the web app: http://intel.ly/1Tfn5NC
+﻿" Azure App 服务 Web App 开发最佳安全实践， Part 3︰ https://t.co/8KoK7zkElJ   Part 2: https://blogs.mcafee.com/mcafee-labs/azure-app-service-web-apps-security-best-practices-part-2/   Part 1: https://blogs.mcafee.com/mcafee-labs/security-best-practices-azure-app-service-web-apps-part-1/ "
+[ Cloud ]  Slides from my Cloud Security talk at #SourceBoston are now available https://speakerdeck.com/silvexis/defending-the-cloud-from-the-full-stack-hack-source-boston-2016
+﻿" 云安全中的全栈攻击，介绍了 GitHub 上泄漏云平台私钥的问题、元数据泄漏、老漏洞获得新生等话题： https://t.co/zrtuGrRb1F"
+[ Cloud ]  Distributed honeypot deployment in the cloud. H/T @ MalwareMustDie http://simonclary.com/wp-content/uploads/2016/05/How-feasible-is-a-distributed-honeypot-deployment-in-the-cloud-v-1.pdf (PDF) cc: @ binitamshah https://t.co/NdjvPoIzua
+﻿" 在云环境中部署分布式蜜罐的可行性， Paper： https://t.co/1ILzJH5qQs   https://t.co/NdjvPoIzua"
+[ Cloud ]  switchd - An OpenFlow implementation for OpenBSD http://www.openbsd.org/papers/bsdcan2016-switchd.pdf #unix #sysadmin #CloudComputing
+﻿"switchd - OpenBSD OpenFlow 控制器和虚拟交换机的实现：  https://t.co/KUE2s6ralc  除此之外， BSDCan 2016 会议的其他几篇议题资料也可以下载： https://www.openbsd.org/papers/ "
+[ Cloud ]  What's the opposite of a sandbox? Shielded execution: protecting apps from an untrusted OS http://blog.acolyer.org/2016/06/16/shielding-applications-from-an-untrusted-cloud-with-haven https://t.co/AvIRmsxsUr
+﻿" 基于 Intel SGX，防护非可信云端运行的应用： https://t.co/rC8dh7vMO5 https://t.co/AvIRmsxsUr"
+[ Cloud ]  Hardening #OpenStack Cloud Platforms against Compute Node Compromises http://seclab.cs.sunysb.edu/seclab/pubs/asiaccs16.pdf [PDF] https://t.co/4hJfoDSmoR
+﻿" 加固 OpenStack 云平台，防止计算节点被攻破， Paper： https://t.co/ZTPWWlLP0q  https://t.co/4hJfoDSmoR  "
+[ Cloud ]  Post infection persistency & Lateral Movement in AWS : https://www.blackhat.com/docs/us-16/materials/us-16-Amiga-Account-Jumping-Post-Infection-Persistency-And-Lateral-Movement-In-AWS.pdf (Slides) #BlackHat2016
+﻿" 亚马逊 AWS 云中的攻击维持和横向穿梭，来自 BlackHat 2016 会议： https://t.co/gSZ1wjl7Hc"
+[ Cloud ]  Google Compute Engine disk encryption with customer-managed (off-cloud) keys released to production https://cloud.google.com/security/encryption-at-rest/resources/encryption-whitepaper.pdf via @ jmckenty
+﻿" Google 云计算环境加密存储实现白皮书： https://t.co/NaHDU8IBTB "
+[ Cloud ]  Azure 0day Cross-Site Scripting with Sandbox Escape https://www.securesolutions.no/guest-blog-at-pen-testing-sans-org-azure-0day-cross-site-scripting-with-sandbox-escape/
+﻿"微软 Azure 云平台的一枚 XSS 0Day，可以实现跨站点的 XSS：  https://t.co/XvBdSuD8Ed"
+[ Cloud ]  Announcing GPUs for Google Cloud Platform https://cloudplatform.googleblog.com/2016/11/announcing-GPUs-for-Google-Cloud-Platform.html?m=1
+﻿"2017 年初，Google 云将提供 GPU 云平台： https://t.co/oujiOSbK3i"
+[ Cloud ]  As promised, slides from @ kiwicon X talk on hacking AWS up at https://github.com/dagrz/aws_pwn/blob/master/miscellanea/Kiwicon%202016%20-%20Hacking%20AWS%20End%20to%20End.pdf
+﻿"Hacking AWS End to End，来自 Kiwicon 2016： https://t.co/9nGBuTn9GK"
+[ Cloud ]  Securing Local AWS Credentials with MFA + Roles in AWS CLI https://medium.com/starting-up-security/securing-local-aws-credentials-9589b56a0957#.6a55jqmyh
+﻿"保护本地 AWS 凭证： https://t.co/S1A0EciBg4 "
+[ Cloud ]  Our #NDSS17 paper "Hello from the Other Side: SSH over Robust Cache Covert Channels in the Cloud" is now online:… https://t.co/XBTGVq5luX
+﻿"SSH over Robust Cache Covert Channels in the Cloud： https://cmaurice.fr/pdf/ndss17_maurice.pdf"
+[ Cloud ]  Slides for "SSH over CPU cache covert channels" (cf last RT) https://twitter.com/bloodytangerine/status/847369269977403393
+﻿" 基于 CPU 缓存隐蔽隧道的 SSH - 从云中缓存信道里发来的问候，来自作者昨天在 BlackHat Asia 会议的演讲， PPT： https://cmaurice.fr/pdf/ndss17_maurice_slides.pdf   Paper： https://cmaurice.fr/pdf/ndss17_maurice.pdf   https://t.co/onweue0Olt"
+[ Cloud ]  Penetration Testing AWS Storage: Kicking the S3 Bucket https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-storage/
+"  对 AWS STORAGE S3 BUCKET 的安全性测试与总结： https://t.co/V6EHQDRDtN "
+[ Cloud ]  Azure Stack – 比你想的更激进： https://channel9.msdn.com/Events/DEVintersection/DEVintersection-2017-Orlando/KEY002#time=44m25s
+[ Cloud ]   使用 DNS 打破 AWS 云环境中的隔离网络: https://dejandayoff.com/using-dns-to-break-out-of-isolated-networks-in-a-aws-cloud-environment/
+[ Cloud ]    微软的云 ERP 产品泄露了 TLS 加密私钥： https://medium.com/matthias-gliwka/microsoft-leaks-tls-private-key-for-cloud-erp-product-10b56f7d648
+[ Cloud ]  移动云计算中的网络攻击检测之深度学习方法： https://arxiv.org/pdf/1712.05914.pdf
+[ Cloud ]   希捷私人云多个漏洞披露，允许攻击者启动 SSH 服务并修改 root 密码：  https://blogs.securiteam.com/index.php/archives/3548
+[ Cloud ]  云安全与 Azure，Azure CSV Injection Vulnerability： https://rhinosecuritylabs.com/azure/cloud-security-risks-part-1-azure-csv-injection-vulnerability/
+[ Cloud ]  云环境下的隐藏管理员威胁：10条需要重点注意的权限： https://www.cyberark.com/threat-research-blog/cloud-shadow-admin-threat-10-permissions-protect/

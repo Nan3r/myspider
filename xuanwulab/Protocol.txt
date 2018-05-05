@@ -1,0 +1,93 @@
+[ Protocol ]  The Security of HTTP-Headers http://contextis.com/resources/blog/security-http-headers/
+﻿" The Security of HTTP-Headers，来自 Context Security Blog： https://t.co/FHQlM01HTD"
+[ Protocol ]  More LTE protocol implementation and new (unpatched) baseband vulnerabilities by Benoit Michau and C. Devine - https://www.sstic.org/media/SSTIC2016/SSTIC-actes/how_to_not_break_lte_crypto/SSTIC2016-Article-how_to_not_break_lte_crypto-michau_devine.pdf
+﻿" LTE 加密在不同实现版本中的一些问题： https://t.co/8peukEcaCY"
+[ Protocol ]  Mobile communications: practical attacks using cheap equipment - http://www.synacktiv.ninja/ressources/synacktiv_mobile_communications_attacks.pdf @ FlUxIuS
+﻿" 基于廉价硬件设备的移动通信攻击： https://t.co/todwn2Xrwy "
+[ Protocol ]  Hacking Facebook Accounts with just a phone number through the SS7 protocol http://securityaffairs.co/wordpress/48421/hacking/hacking-facebook-accounts-ss7.html
+﻿" 仅需要一个手机号，就可以通过 SS7 协议劫持 Facebook 账号，来自 SecurityAffairs 的报道： https://t.co/x05KTswEWw "
+[ Protocol ]  New blog post: VoLTE Security Analysis, part 2 https://www.insinuator.net/2016/06/volte-security-analysis-part-2/
+﻿" VoLTE（基于 IMS 的语音服务）安全性分析 Part 2： https://t.co/WfiayJ2Osd"
+[ Protocol ]  mini-tor : PoC implementation of tor protocol using Microsoft CryptoAPI : https://github.com/wbenny/mini-tor
+﻿" mini-tor - 基于 Microsoft CryptoAPI，实现的一款 Mini Tor 工具，可以用此工具访问洋葱网络（.onion）︰ https://t.co/Kg0tEsxU3c"
+[ Protocol ]  IMSecure – Attacking VoLTE (and other Stuff) : http://area41.io/downloads/slides/area41_16_ERNW_IMSecure.pdf (Slides) https://t.co/ep8wlfRlje
+﻿"IMSecure —  Attacking VoLTE︰ https://t.co/hI5AEoN0LG  "
+[ Protocol ]  A “quick” guide to QUIC http://blogs.cisco.com/security/a-quick-guide-to-quic
+﻿" Cisco 对 QUIC 协议以及相关安全问题的介绍： https://t.co/xbuYXsR4U5 "
+[ Protocol ]  Severe vulnerabilities discovered in HTTP/2 protocol http://www.zdnet.com/article/severe-vulnerabilities-discovered-in-http2-protocol/#ftag=RSSbaffb68
+﻿" 研究员在 HTTP/2 协议中发现了 4 个严重漏洞，来自 ZDNet 的报道： https://t.co/ABhv7wIUAy  Paper： http://www.imperva.com/docs/Imperva_HII_HTTP2.pdf "
+[ Protocol ]  New post: BlackHat2016: badWPAD – The Doubtful Legacy of the WPAD Protocol http://bit.ly/2aYnaTu @ TrendMicro
+﻿" badWPAD — 令人生疑的古老 WPAD 协议，来自趋势科技 Blog： https://t.co/i7P0GNMUnU "
+[ Protocol ]  Awesome to see solid further research into HTTP host header attacks! https://hostoftroubles.com/ Time to investigate burp scanner integration :)
+﻿" Host of Troubles - 对 HTTP 协议实现中存在的一类漏洞的总结： https://t.co/5Bffr8fsPl "
+[ Protocol ]  Attacking SS7: Mobile Operators Security Analysis http://blog.ptsecurity.com/2016/08/attacking-ss7-mobile-operators-security.html
+﻿" Attacking SS7，手机运营商安全性分析： https://t.co/js4zipozm2"
+[ Protocol ]  Assessing and Exploiting XML Schema's Vulnerabilities http://www.ioactive.com/Arnaboldi-XML-Schema-Vulnerabilities.pdf
+﻿"对于 XML  Schema的漏洞分析，以及基于此分析推断的新攻击向量： http://www.ioactive.com/Arnaboldi-XML-Schema-Vulnerabilities.pdf"
+[ Protocol ]  New blog post: A journey into the depths of VoWiFi Security https://insinuator.net/2016/10/a-journey-into-the-depths-of-vowifi-security/
+﻿" Voice over WiFi (VoWiFi) 安全性分析： https://t.co/FIq6RsuO2w "
+[ Protocol ]  BearSSL is an implementation of the SSL/TLS protocol (RFC 5246) written in C by Thomas Pornin https://bearssl.org
+﻿"BearSSL -- 一个用 c 语言实现的 SSL/TLS 协议：  https://t.co/nXa2EYs5vh"
+[ Protocol ]  OAuth 2.0 Hack Exposes 1 Billion Mobile Apps to Account Hijacking https://threatpost.com/oauth-2-0-hack-exposes-1-billion-mobile-apps-to-account-hijacking/121889/
+﻿"由于 OAuth 2.0 协议漏洞问题，导致 1 亿移动应用帐户劫持： https://t.co/F7ZKdOEKQP"
+[ Protocol ]  How we ditched HTTP and transitioned to MQTT : https://blog.hypertrack.io/2016/11/10/how-we-ditched-http-and-transitioned-to-mqtt/ ; MQTT Essentials : http://www.hivemq.com/mqtt-essentials/ https://t.co/nff1dkmL5n
+﻿"我们是如何抛弃了 HTTP 并切换到 MQTT 的： https://blog.hypertrack.io/2016/11/10/how-we-ditched-http-and-transitioned-to-mqtt/ MQTT 要点︰ https://t.co/SutgP0OIbn MQTT（中文版）： https://github.com/mcxiaoke/mqtt"
+[ Protocol ]  So, I wrote a thing on the @ Rapid7 community blog: Project Sonar Study of LDAP on the Internet - https://community.rapid7.com/community/infosec/sonar/blog/2016/11/08/project-sonar-study-of-ldap-on-the-internet
+﻿"Project Sonar Study of LDAP on the Internet： https://t.co/AAH2UFCFbS"
+[ Protocol ]  [CORE-2016-0007] - TP-LINK TDDP Multiple Vulnerabilities https://goo.gl/fb/b0jY2N #FullDisclosure
+﻿"TP-LINK TDDP 存在多个漏洞： https://t.co/Nmt9w6MIfA "
+[ Protocol ]  A Story About TP-link Device Debug Protocol (TDDP) Research http://hubs.ly/H05hNDc0 https://t.co/MbNeYlpFb3
+﻿"关于 TP-link Device Debug Protocol (TDDP) 的研究： https://t.co/TjjzTIwm6F https://t.co/MbNeYlpFb3"
+[ Protocol ]  Analysis of #OpenSSL ChaCha20-Poly1305 Heap Buffer #Overflow (CVE-2016-7054) http://blog.fortinet.com/2016/11/23/analysis-of-openssl-chacha20-poly1305-heap-buffer-overflow-cve-2016-7054 #Fortinet
+﻿"OpenSSL ChaCha20 Poly1305 堆溢出漏洞 (CVE-2016-7054)分析： https://t.co/LeUUqI42RG "
+[ Protocol ]  Analysis of OpenSSL ChaCha20-Poly1305 Heap Buffer Overflow (CVE-2016-7054) https://blog.fortinet.com/2016/11/23/analysis-of-openssl-chacha20-poly1305-heap-buffer-overflow-cve-2016-7054
+﻿"OpenSSL ChaCha20 Poly1305 堆缓冲区溢出漏洞分析 (CVE-2016-7054)： https://t.co/ZIVNTZvU4m "
+[ Protocol ]  The TR-069 Exploit: https://terrorbyte.org/tr069-request.txt Payload: https://terrorbyte.org/Telekom-Payload
+﻿"TR-069 漏洞︰ https://t.co/Q2AgOKxZu5 Payload︰ https://t.co/q2WfVbE1WU"
+[ Protocol ]  HTTP/2 Push : The details : http://calendar.perfplanet.com/2016/http2-push-the-details/ https://t.co/HHJDW5HqPe
+﻿"HTTP/2 Push 实现细节︰ https://t.co/6YIpQU5fnS "
+[ Protocol ]  Reverse Engineering the HTC Vive watchman controller protocol https://www.youtube.com/watch?v=oHJkpNakswM
+﻿"逆向 HTC Vive watchman controller 协议（video）： https://t.co/6N1eT3CuYw"
+[ Protocol ]  OpenSSH 7.4 released! http://undeadly.org/cgi?action=article&sid=20161219155115
+﻿"OpenSSH 7.4 版发布： https://t.co/oINZny1QZl"
+[ Protocol ]  Multipath TCP : Breaking today's networks with tomorrow's protocol : http://docplayer.net/4350923-Multipath-tcp-breaking-today-s-networks-with-tomorrow-s-protocol.html (Slides)
+﻿"Multipath TCP : Breaking today's networks with tomorrow's protocol ︰ https://t.co/hzmlHL6qTu"
+[ Protocol ]  S4U2Pwnage http://www.harmj0y.net/blog/activedirectory/s4u2pwnage/ constrained delegation and S4U2Self/S4U2Proxy, a follow on to @ meatballs__'s post https://t.co/VETJKSvweM
+﻿"Active Directory 的 S4U2Self/S4U2Proxy 协议扩展及安全研究 ： https://t.co/grJJptc9N9 "
+[ Protocol ]  A cheat sheet of TLS/SSL vulnerabilities : https://www.gracefulsecurity.com/tls-ssl-vulnerabilities/ cc @ HollyGraceful
+﻿"针对 TLS/SSL 的漏洞总结︰ https://t.co/RgXXWR5iqg"
+[ Protocol ]  nice overview of various HTTP security headers: http://bit.ly/2kOxiRt - read and deploy, please!
+﻿" 关于 HTTP Security Headers，你需要了解的一切： https://blog.appcanary.com/2017/http-security-headers.html "
+[ Protocol ]  Attacking the OAuth Protocol https://dhavalkapil.com/blogs/Attacking-the-OAuth-Protocol/
+﻿"攻击 OAuth 协议： https://t.co/YjoBNMolm3"
+[ Protocol ]  ATTACKING RDP - How to Eavesdrop on Poorly Secured RDP Connections http://bit.ly/2nghFr1
+﻿"攻击远程桌面协议（RDP）-如何窃听不安全的 RDP 连接： https://t.co/wxtE0Wk8gv"
+[ Protocol ]  Cisco IOS Remote Code Execution Vulnerability -> https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170317-cmp, (Sat, Mar 18th) https://isc.sans.edu/diary/Cisco%2BIOS%2BRemote%2BCode%2BExecution%2BVulnerability%2B-%3E%2Bhttps%3Atools.cisco.comsecuritycentercontentCiscoSecurityAdvisorycisco-sa-20170317-cmp/22195
+﻿" Cisco IOS 和 IOS XE 软件群集管理协议存在远程代码执行漏洞（CVE-2017-3881）： https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170317-cmp"
+[ Protocol ]  Slides from my #TR17 NGI talk on "IPv6 Configuration Approaches for Servers" https://www.ernw.de/download/ERNW_TR17_NGI_IPv6_Config_Approach_Servers.pdf [PDF] https://t.co/GAXueAVS3P
+﻿"服务器 IPV6 配置详解： https://www.ernw.de/download/ERNW_TR17_NGI_IPv6_Config_Approach_Servers.pdf"
+[ Protocol ]  NOMX deep dive https://scotthelme.co.uk/nomx-the-worlds-most-secure-communications-protocol/ < A pretty fun read :)
+﻿" nomx - 一个安全的通信协议介绍： https://t.co/3yiwp7dXaF"
+[ Protocol ]  Fastcgi协议分析 && PHP-FPM未授权访问漏洞 && Exp编写： https://www.leavesongs.com/PENETRATION/fastcgi-and-php-fpm.html
+[ Protocol ]  IPv6 clue-bat: consider Extension Header(EH) injection and NDP, SEND, MLD, MRD, inverses, and tunnelled packets http://goo.gl/BYnXWR
+﻿"Cisco 对 IPV6 扩展头(EH)的分析与思考，侧重于分析扩展头对网络设备转发 IPV6 流量的性能影响： http://www.cisco.com/en/US/technologies/tk648/tk872/technologies_white_paper0900aecd8054d37d.html"
+[ Protocol ]  Reverse Engineering Apple Location Services Protocol https://appelsiini.net/2017/reverse-engineering-location-services/ https://t.co/Pa91YqNFRB
+" 逆向 Apple 位置服务协议（Location Services Protocol）： https://appelsiini.net/2017/reverse-engineering-location-services/ "
+[ Protocol ]  SSL and TLS Deployment Best Practices : https://github.com/ssllabs/research/wiki/SSL-and-TLS-Deployment-Best-Practices
+" SSL及TLS部署实践： https://t.co/xUeM7c3VEi "
+[ Protocol ]  I2C 协议的逆向分析： https://xianzhi.aliyun.com/forum/read/1910.html
+[ Protocol ]  破译优利德旗舰万用表UT181A通讯协议： http://www.freebuf.com/articles/terminal/145017.html
+[ Protocol ]  基于蓝牙协议漏洞的BlueBrone攻击综合分析报告： https://mp.weixin.qq.com/s/YCuY4D-IH3ovyBLBQkXwdQ
+[ Protocol ]  从核心概念和技术层面着眼，系统化认识RPC： https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2650997997&idx=1&sn=cdcd04fb6c5f2e6deb4b0ae89102ddf8&amp
+[ Protocol ]  《We need to talk about Session Tickets》，为什么说 TLS 1.2 Session Tickets 是 TLS 部署中最薄弱的一环： https://blog.filippo.io/we-need-to-talk-about-session-tickets/
+[ Protocol ]   打破邮件 DKIM 认证的详细方法： http://noxxi.de/research/breaking-dkim-on-purpose-and-by-chance.html
+[ Protocol ]  使用SGX构建健壮的同步P2P基础协议： https://mp.weixin.qq.com/s/KCdRJkqJ94AHQOioc2Y4nQ
+[ Protocol ]   利用差分加密分析的方法解密空调设备的校验和机制： http://www.righto.com/2017/12/decoding-air-conditioner-controls.html
+[ Protocol ]    SSL/TLS 证书信息中的 XSS： https://binaryfigments.com/2017/12/11/dont-trust-all-ssl-tls-certificates/
+[ Protocol ]   网络安全分析之 SMB 协议： https://401trg.pw/an-introduction-to-smb-for-network-security-analysts/
+[ Protocol ]   SSL Labs Grading 2018，关于 SSL 协议安全性定级标准的文档：  https://docs.google.com/document/d/13o_iRZ5-Lv8VTDULUmpUu0XgHWCXDUbYia1vPagMBKE/edit#
+[ Protocol ]   编写 PyKD 调试脚本，自动化地 Sniffer VMware 的 RPC 请求，来自 ZDI：  https://www.zerodayinitiative.com/blog/2018/1/19/automating-vmware-rpc-request-sniffing
+[ Protocol ]   Messaging Layer Security (MLS) 协议架构草案： https://tools.ietf.org/html/draft-omara-mls-architecture-00
+[ Protocol ]  窃取 SSH credentials 的另一种方式： https://mthbernardes.github.io/persistence/2018/02/10/stealing-ssh-credentials-another-approach.html
+[ Protocol ]  Protecting Against HSTS Abuse： https://webkit.org/blog/8146/protecting-against-hsts-abuse/
+[ Protocol ]  解密 Gh0st 变种远控的网络通信协议： https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/april/decoding-network-data-from-a-gh0st-rat-variant/

@@ -1,0 +1,58 @@
+[ Rootkit ]  Rootkit basics ---> DKOM http://bsodtutorials.blogspot.ca/2014/01/rootkits-direct-kernel-object.html A bit out of date though...
+﻿"Rootkit 基础知识：直接操作内核对象和进程， 来自 BSOD Blog 2014 年的一篇文章： https://t.co/IbC6JWmT7r "
+[ Rootkit ]  How to hide a hook - A hypervisor for rootkits : http://phrack.org/issues/69/15.html#article #Phrack
+﻿"如何隐藏 Hook - 基于 Hypervisor 的 Rootkit， 来自 Phrack 第 69 期: https://t.co/Gt7F740ZCO "
+[ Rootkit ]  Designing BSD Rootkits : https://drive.google.com/file/d/0B_F62m5rTn3kZjAzZWEwOGQtN2VlNS00MmFmLWIzY2MtMmY1Zjk0MjExZWM3/view
+﻿"BSD 系统内核 Rootkits 设计: https://t.co/3qEk2AM2Q4"
+[ Rootkit ]  Defeating x64 : Modern Trends of Kernel-Mode Rootkits : http://go.eset.com/us/resources/white-papers/Ekoparty2011_preso.pdf (Slides/2011 Ekoparty) cc: @ matrosov
+﻿"对抗 x64 - 内核态 Rootkits 的当代趋势， 来自 ESET 2011 年的一篇演讲 ︰ https://t.co/cTQfk6tSFR  "
+[ Rootkit ]  Detecting Rootkits in Memory Dumps : https://www.terena.org/activities/tf-csirt/meeting27/oesterberg-rootkits.pdf (Slides)
+﻿"从内存 Dump 中检测 Rootkit， 来自 2009 年的一篇演讲: https://t.co/lErFqZ0MPd  "
+[ Rootkit ]  (2012) Great slide deck from @ snare on building EFI-based rootkits http://ho.ax/downloads/De_Mysteriis_Dom_Jobsivs_Black_Hat_Slides.pdf
+﻿" 基于 EFI 的 Rootkit，来自 BlackHat 2012 年的一篇演讲： https://t.co/gObWDb7PBP"
+[ Rootkit ]  LibZeroEvil & the Research Rootkit project. https://github.com/NoviceLive/research-rootkit
+﻿"LibZeroEvil Rootkit 研究项目： https://t.co/1DfRZZB0iV  中文： https://github.com/NoviceLive/research-rootkit/blob/master/README-zh_CN.rst "
+[ Rootkit ]  Now at #WOOT16: “Hardware-Assisted Rootkits: Abusing Performance Counters on the ARM and x86 Architectures” https://www.usenix.org/conference/woot16/workshop-program/presentation/spisak
+﻿" 滥用 ARM 和 x86 架构的性能计数器，实现硬件辅助的 Rootkit，Paper： https://t.co/JDClh3Ss3a"
+[ Rootkit ]  The SMM Rootkit Revisited: Fun with USB (paper published at ARES 2014): https://www.computer.org/csdl/proceedings/ares/2014/4223/00/4223a279.pdf
+﻿"能够劫持 USB 控制器事件的 SMM Rootkit︰ https://t.co/lWIJ2mdXT8   https://www.deepdyve.com/lp/institute-of-electrical-and-electronics-engineers/the-smm-rootkit-revisited-fun-with-usb-JeSl2a5ZRo "
+[ Rootkit ]  HorsePill: a New Type of Linux Rootkit : https://github.com/r00tkillah/HORSEPILL
+﻿"HorsePill - 一种新型的 Linux Rootkit: https://t.co/Cl7Xfqm8Ez"
+[ Rootkit ]  NumChecker A System Approach for Kernel Rootkit Detection and Identification https://www.blackhat.com/docs/asia-16/materials/asia-16-Guo-NumChecker-A-System-Approach-For-Kernel-Rootkit-Detection-And-Identification.pdf - https://www.youtube.com/watch?v=TgMsMwsfoQ0
+﻿"NumChecker - 内核 Rootkit 检测和识别的系统性方法，来自 BlackHat Asia 2016 会议： https://www.blackhat.com/docs/asia-16/materials/asia-16-Guo-NumChecker-A-System-Approach-For-Kernel-Rootkit-Detection-And-Identification.pdf   视频： https://www.youtube.com/watch?v=TgMsMwsfoQ0 "
+[ Rootkit ]  Our @ h2hconference slides "UEFI Firmware Rootkits: Myths and Reality" @ vxradius https://github.com/REhints/Publications/blob/master/Conferences/H2HC%202016/H2HC_2016.pdf New stuff coming soon at @ ZeroNights
+﻿" UEFI 固件 Rootkit 的神话与现实： https://t.co/fv0b5hpWI5 "
+[ Rootkit ]  SEKOIA release a #sednit #APT28 rootkit analysis / a hands on usecase on HideDRV - http://www.sekoia.fr/blog/rootkit-analysis-use-case-on-hidedrv/ cc @ eset @ r00tbsd
+﻿"Rootkit analysis Use case on HideDRV： https://t.co/sIXbDCGDle "
+[ Rootkit ]  Linux LD_PRELOAD rootkit (x86 and x86_64 architectures) https://github.com/mempodippy/vlany
+﻿"Vlany -- Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)： https://t.co/FpJ6D3dSkK"
+[ Rootkit ]  Simple userland rootkit – a case study https://blog.malwarebytes.com/threat-analysis/2016/12/simple-userland-rootkit-a-case-study/
+﻿"简单的用户级 rootkit 案例研究： https://t.co/6CcOd6D93n"
+[ Rootkit ]  As I promised - "Wingbird rootkit analysis" http://artemonsecurity.blogspot.com/2017/01/wingbird-rootkit-analysis.html #rootkit #injector #avbypass #cyberespionage
+﻿"Wingbird rootkit 分析： https://t.co/cea5591anC "
+[ Rootkit ]  VENOM Linux rootkit: https://security.web.cern.ch/security/venom.shtml
+﻿"VENOM Linux rootkit: https://t.co/ucjJYadmCJ"
+[ Rootkit ]  Finfisher mssounddx.sys rootkit analysis. http://goo.gl/2KUuzI
+﻿"Finfisher rootkit 分析： https://t.co/snunoqSz2v"
+[ Rootkit ]  Crafting MAC OS Root kits : https://www.zdziarski.com/blog/wp-content/uploads/2017/02/Crafting-macOS-Root-Kits.pdf (pdf) cc @ jzdziarski
+﻿"制作 MAC OS Root kits（PDF）︰ https://t.co/z0BToMbhtw "
+[ Rootkit ]  Chapters 2-14 of Rootkits and Bootkits are available now in Early Access! https://www.nostarch.com/rootkits https://t.co/CjioDa2lDi
+﻿" 一本新书《Rootkits and Bootkits》： https://t.co/pVxOv44aBs https://t.co/CjioDa2lDi"
+[ Rootkit ]  Farely thorough tutorial BIOS-based rootkits https://n0where.net/bios-based-rootkits/
+﻿"基于 BIOS 的 rootkit 教程： https://t.co/kIG1VOwjFy"
+[ Rootkit ]  New Post: BEURK – Linux Userland Preload Rootkit http://ift.tt/2ozF43m https://t.co/nP4e3FKyO5
+﻿"BEURK - Linux Userland Preload Rootkit： https://t.co/eRkcx0nHNQ "
+[ Rootkit ]  BIOS Based Rootkits https://n0where.net/bios-based-rootkits/ #InfoSec #CyberSecurity
+﻿" 基于 BIOS 的 Rootkit 研究： https://t.co/4xwIj6aTAs "
+[ Rootkit ]  GrayFish rootkit analysis http://artemonsecurity.blogspot.com/2017/05/grayfish-rootkit-analysis.html
+" 方程式组织的 GrayFish Rootkit 分析： http://artemonsecurity.blogspot.hk/2017/05/grayfish-rootkit-analysis.html "
+[ Rootkit ]  Detect Kernel-Mode Rootkits via Real Time Logging & Controlling Memory Access : https://www.slideshare.net/IgorKorkin/detect-kernelmode-rootkits-via-real-time-logging-controlling-memory-access , Paper : https://0bb29b31-a-62cb3a1a-s-sites.googlegroups.com/site/igorkorkin/cdfsl17_paper_tanda_korkin.pdf?attachauth=ANoY7coC9UAU5jfo172RIa7Vx-zCEVMYQrDdnQMM_UVH3M7GJEuj-75VcZNry3V81RjMXuzlp3wTDwya2nXr9T0nzBhac5_GYpV-NsKn3ibTM_kpjCLDo18YmjJoQ2PE8SQuCfLhpgvH8NfRyhuSxW51bR49LuweUQA7AqrbvUNwJvWFodbqwNdJ_Qoywn4dpCB8s46qihhHTeZFYs7q8oi3SXjn2oJpxVJy5s-x4ccYp9es51F4ebk%3D&attredirects=0
+" 利用基于 Intel VT 的内存控制和分析技术检测内核态的 RootKit： https://www.slideshare.net/IgorKorkin/detect-kernelmode-rootkits-via-real-time-logging-controlling-memory-access  Paper:  https://sites.google.com/site/igorkorkin/cdfsl17_paper_tanda_korkin.pdf?attredirects=1 "
+[ Rootkit ]  RootKits-List-Download : This is the list of all rootkits found so far on github and other sites : https://github.com/d30sa1/RootKits-List-Download
+" 开源 RootKits 收集： https://t.co/c4Yrh0kxuw "
+[ Rootkit ]   rootkit - 针对 Ubuntu 16.04 和 10.04 的 rootkit： https://github.com/nurupo/rootkit
+[ Rootkit ]  Ring3 / Ring0 Rootkit Hook Detection 1/2： http://www.pentestingexperts.com/ring3-ring0-rootkit-hook-detection-1-2/
+[ Rootkit ]  Puszek - Linux kernel module rootkit： https://github.com/Eterna1/puszek-rootkit
+[ Rootkit ]  Capcom Rootkit Proof-Of-Concept： http://www.fuzzysecurity.com/tutorials/28.html
+[ Rootkit ]  ROOTKIT 核心技术——利用 NT!_MDL（内存描述符链表）突破 SSDT（系统服务描述符表）的只读访问限制（一）: https://mp.weixin.qq.com/s/Bf_ySmGYUqfoNGtXTmDafA
+[ Rootkit ]  RootKit 核心技术——利用 NT!_MDL 突破 KiServiceTable 的只读访问限制（二）： https://mp.weixin.qq.com/s/I5cQI8Q-EP5DOhbi4v72sA

@@ -1,0 +1,208 @@
+[ SecurityReport ]  A 60 page report on attacks from Iot botnets, by Institute for Critical Infrastructure Technology (@ICITorg):… https://t.co/opYuf9rW5Q
+﻿"60 页针对 Iot botnet 的报告，来自 ICIT： https://t.co/opYuf9rW5Q"
+[ SecurityReport ]  What will the threat landscape be like in 2017? Our forecast: http://bit.ly/2h8HOW3 #securitypredictions https://t.co/6JEYYuJsYQ
+﻿"2017 年 8 大安全趋势预测，来自 Trend Micro ︰ https://t.co/2NKyvHp06B"
+[ SecurityReport ]  our @ virusbtn paper"Modern attacks on Russian financial institutions" is now available! links here http://www.welivesecurity.com/2016/12/12/modern-attacks-russian-financial-institutions/ /cc @ cherepanov74
+﻿"针对俄罗斯金融机构的现代攻击（Paper）： https://www.virusbulletin.com/uploads/pdf/magazine/2016/VB2016-Boutin-Cherepanov.pdf "
+[ SecurityReport ]  12 Bulletins fixing 47 CVEs released by #Microsoft. Analysis of those plus 9 from #Adobe coming soon. https://t.co/D7UV0eB75s
+﻿"Microsoft 12月安全公告发布，修复了 47 个 CVE 漏洞： https://t.co/D7UV0eB75s"
+[ SecurityReport ]  A really interesting document on evolution of #phishing attacks! Worth reading .. A Decade of Phishing from RSA https://t.co/DLNtDGWBQ0
+﻿"网络钓鱼十年路，报告中介绍了网络钓鱼这些年来的演化： https://t.co/DLNtDGWBQ0 "
+[ SecurityReport ]  Security Bulletin 2016. Review of the year. Overall statistics for 2016: https://securelist.com/analysis/kaspersky-security-bulletin/76858/kaspersky-security-bulletin-2016-executive-summary/ https://t.co/HRLvUeklkD
+﻿"kaspersky 2016 年安全公告，对今年一年的数字化回顾︰ https://t.co/FuNvZfzEsr https://t.co/HRLvUeklkD"
+[ SecurityReport ]  Research report: Vulnerability Disclosure Attitudes and Actions - from the NTIA Awareness and Adoption Group http://r-7.co/2gONWRV
+﻿"针对漏洞披露和处理中的态度及方法调查报告，该报告从研究人员与厂商两个维度出发做了调查研究： https://t.co/yhbHON4ag8"
+[ SecurityReport ]  2016 was “the year of ransomware.” Our Threats Report details the year's technical advances and vendor responses:… https://twitter.com/i/web/status/811085250138882048
+﻿"McAfee 发布 12 月威胁报告： https://t.co/C3KKXRj1bt"
+[ SecurityReport ]  《2016 安全大事件》： http://mp.weixin.qq.com/s/B_ZYsK-mJWzcC_NtRcFanw
+[ SecurityReport ]  What were the top trends in #cybersecurity in 2016? Click to see more: http://symc.ly/2hHjiuu #WedesdayWisdom
+﻿"五大网络安全趋势带你回顾 2016 年，来自 Symantec︰ https://t.co/iYO6YkEta9 "
+[ SecurityReport ]  A series of unexpected incidents made 2016 an interesting year for #cybersecurity. Recap: http://bit.ly/2gWkCWB https://t.co/bO2nbESQ6H
+﻿"通过 10 件网络安全大事件，TrendMicro 带你回顾即将过去的 2016 年︰ https://t.co/iz52PZvrr9 https://t.co/bO2nbESQ6H"
+[ SecurityReport ]  黑产：“打码平台”与“羊毛党”： https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655113653&idx=3&sn=223564a3bfa669f5d8fff887c136a2db&chksm=bc864c5a8bf1c54cf51e9f7ee392f66d5bca3ae5dc5e897bb4e85af5ce648324253af10e4905&mpshare=1&scene=1&srcid=0102epege22xuYhr2sFuGqhw
+[ SecurityReport ]  2016中国电脑恶意程序伪装与欺骗性研究报告： http://bobao.360.cn/learning/detail/3367.html
+[ SecurityReport ]  Intelligence agencies' report on Russian cyberattack and influence operation targeting the 2016 US election: https://t.co/onQUYb04No
+﻿"DNI 公布了一份关于 2016 年俄罗斯针对美国大选发起的网络攻击的分析报告︰ https://t.co/onQUYb04No"
+[ SecurityReport ]  The ZDI 2016 Retrospective: 674 advisories, 54 0-days, $2,000,000 paid out: http://blog.trendmicro.com/zdi-2016-retrospective/ #vulnerabilities #exploits #0days #0day
+﻿"ZDI 回顾过去 2016 : https://t.co/WroxgRBcV2 "
+[ SecurityReport ]  #PatchTuesday - #Security updates available for #Adobe #Flash Player: https://adobe.ly/2iB4awy
+﻿"Adobe 发布 1 月安全公告︰ https://t.co/zCEpSmh1hA"
+[ SecurityReport ]  Microsoft Security Bulletin Summary for January 2017 https://technet.microsoft.com/library/security/ms17-jan
+﻿"Microsoft 发布 1 月安全公告： https://t.co/JaBvFdNfwt"
+[ SecurityReport ]  Just blogged: A data breach investigation blow-by-blow http://ift.tt/2izh91P
+﻿"eroticy.com 网站数据泄露调查： https://t.co/dcsjgTmWlR"
+[ SecurityReport ]  网络安全强国 - 以色列的工控安全之路： http://paper.seebug.org/184/
+[ SecurityReport ]  方程式组织Drug攻击平台初步解析—方程式组织系列分析报告之四： http://www.antiy.com/response/EQUATION_DRUG/EQUATION_DRUG.html
+[ SecurityReport ]  2016 Cyber Attacks Statistics http://www.hackmageddon.com/2017/01/19/2016-cyber-attacks-statistics/ #Infosec
+﻿"针对 2016 网络攻击的数据统计： https://t.co/9jJDPEGUHB "
+[ SecurityReport ]  Part 4 of the Exploring the Cybercrime Underground series dives into darknet markets http://oak.ctx.ly/r/5f0dy #Unit42
+﻿"暗网买卖大揭秘 Part 4： https://t.co/13JDVao5Nl "
+[ SecurityReport ]  #PatchTuesday - #Security updates available for #Adobe #Flash Player: https://adobe.ly/2kNTPAZ
+﻿"Adobe 发布 2月 安全公告︰ https://t.co/t2SFl1tNT2"
+[ SecurityReport ]  OpenSSL Security Advisory [16 Feb 2017] https://www.openssl.org/news/secadv/20170216.txt
+﻿"OpenSSL 2 月份安全公告： https://t.co/AYAmGlcF3C"
+[ SecurityReport ]  New Xagent Mac Malware Linked with the APT28 : Full Report (APT28 Under the Scope) : https://download.bitdefender.com/resources/media/materials/white-papers/en/Bitdefender_In-depth_analysis_of_APT28%E2%80%93The_Political_Cyber-Espionage.pdf (pdf) https://t.co/xYYDhoDpI9
+﻿" APT28 完全调查报告︰ https://t.co/XiX9PHKsA9 "
+[ SecurityReport ]  How does Locky ransomware compare to other threats? Our new Threat Landscape Dashboard ranks the top 10 strains:… https://twitter.com/i/web/status/835005354954080260
+﻿"McAfee 威胁监测平台排行的10大威胁： https://t.co/wDDEsUCkkY"
+[ SecurityReport ]  Mobile Malware Evolution in 2016 #GooglePlay #Ransomware #Banking #Trojans https://securelist.com/analysis/kaspersky-security-bulletin/77681/mobile-malware-evolution-2016/ https://t.co/sOqVkZYKHS
+﻿" 2016 年移动恶意软件的演化： https://securelist.com/files/2017/02/Mobile_report_2016.pdf"
+[ SecurityReport ]  软件定义安全白皮书PPT解读： http://blog.nsfocus.net/software-definition-security-white-paper-ppt/
+[ SecurityReport ]  腾讯反病毒实验室：“敲诈者”黑产研究报告： http://www.freebuf.com/articles/terminal/128144.html
+[ SecurityReport ]  Two #bankingTrojans resurfaced with a new #ATM malware discovered. More about the banking threats of 2016:… https://twitter.com/i/web/status/838554727822606336
+﻿"2016 年企业威胁总览，来自 trendmicro： https://t.co/xe7WQ2pDAc"
+[ SecurityReport ]  Analysing the use of outdated JavaScript libraries on the web https://blog.acolyer.org/2017/03/07/thou-shalt-not-depend-on-me-analysing-the-use-of-outdated-javascript-libraries-on-the-web/
+﻿"旧版本 (Outdated) JavaScript 库在互联网网站上的使用情况如何？根据 13.3 万网站的统计结果显示，其中 37% 的网站至少存在一个 JS 库的已知漏洞：： https://t.co/kVcDjmbLPP "
+[ SecurityReport ]  安天发布2016移动安全年报：威胁的全面迁徙： http://www.freebuf.com/articles/terminal/128999.html
+[ SecurityReport ]  MS17-010 - Critical: Security Update for Microsoft Windows SMB Server (4013389) - Version: 1.0 https://technet.microsoft.com/en-us/library/security/MS17-010
+﻿"Microsoft 官方发布 2017 年 3 月安全公告： https://technet.microsoft.com/en-us/library/security/ms17-mar.aspx  其中修复了一个 SMB 服务的远程代码执行漏洞： https://t.co/OlZXHxWVpc 类似该漏洞函数 SrvRestartExecuteTransaction 的补丁，还有一处相似的修复位置：SRV!ExecuteTransaction：  https://twitter.com/i/web/status/841719286011850752    还有多个 Hyper-V vSMB 的远程代码执行漏洞： https://technet.microsoft.com/library/security/MS17-008  本月致谢： https://technet.microsoft.com/zh-cn/library/security/mt745121.aspx "
+[ SecurityReport ]  今年的 Pwn2Own 即将开始，Google, Adobe, VMWare, Firefox, Microsoft 纷纷发布补丁来补补补；那么到底补了哪些漏洞？ZDI 带我们看看史上补了最多补丁的星期二: https://www.zerodayinitiative.com/blog/2017/3/14/the-march-2017-security-update-review
+[ SecurityReport ]  [Blog] Still Getting Served: A Look at Recent #Malvertising Campaigns Involving #Exploit Kits http://bddy.me/2mJlan3
+﻿"FireEye 对近期恶意广告（Malvertising Campaigns）的分析报告： https://t.co/KU0kMx1cHZ"
+[ SecurityReport ]  Our new Threats Report shares research into the #Mirai bot, which has infected ~2.5 million #IoT devices:… https://twitter.com/i/web/status/849975888166780929
+﻿"来自 McAfee 的 威胁报告，主要研究了 Mirai botnet ： https://www.mcafee.com/us/resources/reports/rp-quarterly-threats-mar-2017.pdf"
+[ SecurityReport ]  安天发布《2016网络安全威胁的回顾与展望》： http://www.antiy.cn/report/2016_Antiy_Annual_Security_Report.html
+[ SecurityReport ]  #PatchTuesday - #Security updates available for #Adobe #Flash Player:  https://adobe.ly/2oT1T6s
+﻿"Adobe 发布 4 月安全公告︰ https://t.co/lmUEq0ijYW   Adobe Reader： https://helpx.adobe.com/security/products/acrobat/apsb17-11.html  Adobe Flash： https://helpx.adobe.com/security/products/flash-player/apsb17-10.html其他产品： https://helpx.adobe.com/security.html "
+[ SecurityReport ]  Microsoft responds to the Shadow Brokers release of Windows exploits (#infosec) https://blogs.technet.microsoft.com/msrc/2017/04/14/protecting-customers-and-evaluating-risk/
+﻿"微软也发表紧急声明，称其中涉及的漏洞都已经修复，有意思的是有的漏洞是上个月(MS17-010)才修复的： https://t.co/Bz8supVDbg"
+[ SecurityReport ]  The upcoming #Java critical patch update contains 9 new security fixes for Oracle Java SE http://www.oracle.com/technetwork/security-advisory/cpuapr2017-3236618.html #JDK 8 #Java security
+﻿" Oracle 发布 2017 年 4 月漏洞公告，本次共修复各个产品家族共 299 个漏洞： https://t.co/TtTE3zGyBW "
+[ SecurityReport ]  SSL & TLS Penetration Testing : https://www.aptive.co.uk/blog/tls-ssl-security-testing/
+﻿"SSL/TLS 安全评估指南︰ https://t.co/3xoxMr8Qmi"
+[ SecurityReport ]  Threat intel report Key finding 1. A majority of attackers are still relying on user interactions to create threats: http://r-7.co/2oO8We1
+﻿"RAPID7 2017 第一季度威胁报告： https://www.rapid7.com/globalassets/_pdfs/research/rapid7-threat-report-2017-q1.pdf"
+[ SecurityReport ]  Technical details on the Lazarus Group and the SWIFT bank attacks https://securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf
+﻿"卡巴斯基针对经常攻击金融机构的 Lazarus 组织的详细分析报告： https://t.co/45XSLFkXVo"
+[ SecurityReport ]  Nice overview of last couple of years of Pawn Storm/Sofacy/Sednit/STRONTIUM/APT28/Fancy Bear (phew!) APT activities https://t.co/tL1cje8wfi
+﻿"Two Years of Pawn Storm： https://t.co/tL1cje8wfi"
+[ SecurityReport ]  We track &gt; 100 threat actors &amp; sophisticated malicious ops targeting comm &amp; gov organizations in ~ 80 countries https://t.co/0ZHF8mhARa #APT
+﻿"Kaspersky 实验室出的 2017年第一季度 APT 趋势报告，数据来自他们对超过一百个攻击组织的追踪，被攻击的商业组织和政府部门遍布 80 多个国家： https://t.co/0ZHF8mhARa "
+[ SecurityReport ]  Android Security Bulletin—May 2017 #MobileSecurity #AndroidSecurity https://source.android.com/security/bulletin/2017-05-01
+﻿"Android 5月安全公告 ： https://t.co/zRRuwz5sr5"
+[ SecurityReport ]  related to Intel AMT EoP, INTEL-SA-00075 Mitigation Guide - https://downloadmirror.intel.com/26754/eng/INTEL-SA-00075%20Mitigation%20Guide-Rev%201.1.pdf tl;dr disable Local Management Service (LMS)
+﻿"针对 Intel 平台管理引擎的严重漏洞，官方发布了一份缓解指南： https://downloadmirror.intel.com/26754/eng/INTEL-SA-00075%20Mitigation%20Guide-Rev%201.1.pdf"
+[ SecurityReport ]  New #ZDI white paper available--Auditing #Adobe #Reader: The Open Source Attack Surface in Closed Source Software. http://bit.ly/2p1QGRO
+闭源软件的开源攻击面 - 挖掘 Adobe Reader XSLT 引擎的漏洞，来自趋势科技的漏洞研究报告： https://static1.squarespace.com/static/5894c269e4fcb5e65a1ed623/t/590b42a2ff7c500c50fc2ceb/1493921555683/ZDI+Adobe_XSLT_Report.pdf
+[ SecurityReport ]  Adobe patches seven critical vulnerabilities in Flash, AEM - http://bit.ly/2pvIOnM #PatchTuesday
+"  Adobe 发布漏洞公告，本次修复了 Flash 和 AEM 中的共 8 个漏洞，其中7个是高危漏洞： https://threatpost.com/adobe-patches-seven-critical-vulnerabilities-in-flash-aem/125539/ "
+[ SecurityReport ]  Windows Offensive Security Team crushing patch Tuesday again with SMB RCEs https://portal.msrc.microsoft.com/en-us/security-guidance/acknowledgments
+" 微软发布本月的漏洞补丁，公告信息： https://portal.msrc.microsoft.com/en-us/security-guidance  漏洞致谢信息： https://portal.msrc.microsoft.com/en-us/security-guidance/acknowledgments "
+[ SecurityReport ]  All you need to know about the #Lazarus APT group in one paper: https://securelist.com/files/2017/04/Lazarus_Under_The_Hood_PDF_final.pdf
+" 昨天卡巴斯基发 Blog 称 WannaCry 勒索软件背后是 Lazarus 组织，4 月份卡巴斯基专门发过一份分析 Lazarus 组织的报告： https://t.co/Vw3WEyAu9h "
+[ SecurityReport ]  Tainted Leaks: Disinformation and Phishing With a Russian Nexus https://citizenlab.org/2017/05/tainted-leaks-disinformation-phish/
+" Tainted Leaks - 与俄罗斯有关的一个钓鱼与虚假情报攻击行动，来自 CitizenLab 发布的一份调查报告： https://t.co/zBXc9C8hOd "
+[ SecurityReport ]  赛门铁克发布的《2017 金融威胁综述报告》： https://www.symantec.com/connect/blogs/financial-malware-more-twice-prevalent-ransomware
+[ SecurityReport ]   微软发布 6 月份的漏洞补丁公告，本月共修复了 92 漏洞，其中 17 个为高危级别。另外，其中有两个已经被用于实际攻击中，包括 LNK 的 RCE（CVE-2017-8464） 和 Windows 搜索服务的 RCE（CVE-2017-8543）： https://portal.msrc.microsoft.com/en-US/security-guidance  http://blog.talosintelligence.com/2017/06/ms-tuesday.html   https://threatpost.com/microsoft-patches-two-critical-vulnerabilities-under-attack/126239/  漏洞致谢信息：  https://portal.msrc.microsoft.com/en-us/security-guidance/acknowledgments
+[ SecurityReport ]   Mozilla 发布 Firefox 54 版本，本次更新修复的漏洞列表： https://www.mozilla.org/en-US/security/advisories/mfsa2017-15/
+[ SecurityReport ]   Adobe 今天也发布了 6 月份的漏洞补丁公告，共修复了涵盖 4 个产品的 21 个漏洞，其中包括 Flash 的 9 个漏洞： https://threatpost.com/adobe-fixes-21-critical-vulnerabilities-with-june-patch-tuesday-update/126230/
+[ SecurityReport ]   本月微软修复了几个 Device Guard Bypass 的漏洞：  1)  https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0215    2)  https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0216   3)  https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0218  4)  https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2017-0219
+[ SecurityReport ]   微软在本月的更新中，再次例外地推送了 Windows XP 的补丁，用于修复 WannaCry 勒索软件所用的 SMB 漏洞（MS17-010）： https://blogs.technet.microsoft.com/msrc/2017/06/13/june-2017-security-update-release/  https://threatpost.com/risk-of-destructive-cyber-attacks-prompts-microsoft-to-update-xp-again/126235/
+[ SecurityReport ]  安天移动安全关于“Dvmap”安卓恶意软件分析报告： http://www.freebuf.com/articles/terminal/137015.html
+[ SecurityReport ]  McAfee 发布了一份报告，专门介绍恶意软件作者使用的反调试、沙盒逃逸、分析对抗技术： https://t.co/8Qtw7AYeUY
+[ SecurityReport ]  FBI 出品的 2016网络犯罪报告： https://t.co/pqCZ9xVOf7
+[ SecurityReport ]  卡巴斯基发布 2016-2017 勒索软件报告： https://securelist.com/ksn-report-ransomware-in-2016-2017/78824/
+[ SecurityReport ]  2017年第一季度反电信网络诈骗大数据报告： http://book.yunzhan365.com/aoar/sbgt/mobile/index.html#p=1
+[ SecurityReport ]  《RSA乱谈：云端的威胁检测》与《开源威胁情报的自动整理》： http://paper.kakapo.ml/?p=145
+[ SecurityReport ]  《安天365安全研究》期刊 2017-06: https://pan.baidu.com/s/1hscLrb2
+[ SecurityReport ]   Symantec 对无文件(fileless)攻击方法的总结报告： https://www.symantec.com/content/dam/symantec/docs/security-center/white-papers/istr-living-off-the-land-and-fileless-attack-techniques-en.pdf
+[ SecurityReport ]  《安全客 2017 季刊第二期》： http://bobao.360.cn/download/book/security-geek-2017-q2.pdf
+[ SecurityReport ]  趋势科技针对 Wilted Tulip 网络间谍行动的报告： http://www.clearskysec.com/wp-content/uploads/2017/07/Operation_Wilted_Tulip.pdf
+[ SecurityReport ]  Kaspersky Lab 对 2016 年金融网络威胁的报告白皮书： https://go.kaspersky.com/NA_Financial_Cyberthreats_in_2016_SOC_2017.html?utm_source=smm_li&utm_medium=us_li_o_170227
+[ SecurityReport ]    卡巴斯基发布《2017 第二季度 DDoS 攻击报告》： https://securelist.com/ddos-attacks-in-q2-2017/79241/
+[ SecurityReport ]   Malwarebytes 实验室对 Magnitude exploit kit 重定向链的分析： https://blog.malwarebytes.com/cybercrime/2017/08/enemy-at-the-gates-reviewing-the-magnitude-exploit-kit-redirection-chain/
+[ SecurityReport ]  安天针对“魔鼬”木马DDoS事件分析报告： http://www.antiy.com/response/weasel.html
+[ SecurityReport ]  2017上半年移动安全报告 | 猎豹移动与安天移动安全联合发布： https://mp.weixin.qq.com/s/2PGUSAIJ-__W8bPFtmtw8w
+[ SecurityReport ]   微软发布的 2017 年第一季度的威胁情报报告： https://www.microsoft.com/en-us/security/intelligence-report
+[ SecurityReport ]   NIST 发布了一份报告《数据完整性：从勒索软件和其他破坏事件中还原数据》： https://nccoe.nist.gov/publication/1800-11/VolC/index.html
+[ SecurityReport ]  软件供应链来源攻击分析报告: https://mp.weixin.qq.com/s/I6cJ7xgT5mTESL0TXa1DBw
+[ SecurityReport ]  揭密小黑系列——SSL劫持木马的追踪溯源： https://mp.weixin.qq.com/s/Qb57iVaFGQrwkHlfAurPFg
+[ SecurityReport ]  西方红玫瑰和辣条先生黑产组织深度分析报告 ： http://www.freebuf.com/articles/paper/145777.html
+[ SecurityReport ]  XShellGhost事件技术回顾报告： https://mp.weixin.qq.com/s/a5dC6Q0-DKY2iV3Fl8chDQ
+[ SecurityReport ]  最新RTF漏洞野外利用分析报告（.NET Framework CVE-2017-8759），来自 FreeBuf，作者为腾讯电脑管家： http://www.freebuf.com/vuls/148086.html
+[ SecurityReport ]  CSE CybSec ZLAB 对 Petya 勒索软件的分析报告： http://securityaffairs.co/wordpress/63314/malware/cse-cybsec-zlab-report-petya.html  http://csecybsec.com/download/zlab/Report_petya_final.pdf
+[ SecurityReport ]  微软安全发布2017上半年勒索软件事件分析与统计图，来自 FreeBuf： http://www.freebuf.com/articles/paper/147638.html
+[ SecurityReport ]  McAfee 发布九月威胁报告: https://www.mcafee.com/us/resources/reports/rp-quarterly-threats-sept-2017.pdf#sf116851706
+[ SecurityReport ]  Microsoft MMPC 针对 2017 上半年勒索软件的回顾与总结 ： https://blogs.technet.microsoft.com/mmpc/2017/09/06/ransomware-1h-2017-review-global-outbreaks-reinforce-the-value-of-security-hygiene/
+[ SecurityReport ]  网络攻击给企业带来的经济损失均值已经上升到了 1170 万美元。来自 eweek 的调查报告： http://www.eweek.com/security/average-cyber-crime-cost-to-global-businesses-rises-to-11.7m-report
+[ SecurityReport ]  安全补丁的大规模研究(Paper)： http://www.icir.org/vern/papers/patch-study.ccs17.pdf
+[ SecurityReport ]   Google 团队对 DNS、DHCP 服务器软件 Dnsmasq 的安全审计报告： https://security.googleblog.com/2017/10/behind-masq-yet-more-dns-and-dhcp.html
+[ SecurityReport ]  开源软件安全现状分析报告： http://www.freebuf.com/articles/terminal/149575.html
+[ SecurityReport ]  Palo Alto 发布的《2017 SDx 基础设施安全报告》： http://go.paloaltonetworks.com/SecurityReport
+[ SecurityReport ]  Symantec Q2 季度 Mobile Threat Intelligence Report ： https://www.symantec.com/connect/sites/default/files/users/user-4100651/Q2%202017MobileThreatIntelligenceReport-Mobility%2BFinance.pdf?om_ext_cid=biz_social_NAM_twitter_Asset+Type+-+White+Paper%2CCampaign+-+ISTR+2017
+[ SecurityReport ]  卡巴斯基对几款流行在线约会 APP 的安全测试报告，主要是从隐私泄露和流量加密传输两个角度： https://securelist.com/dangerous-liaisons/82803/
+[ SecurityReport ]  Symantec 九月安全情报：https://www.symantec.com/connect/blogs/latest-intelligence-september-2017
+[ SecurityReport ]  2017年Ｑ3季度互联网安全报告： https://guanjia.qq.com/news/n1/2168.html
+[ SecurityReport ]  VirtualApp技术黑产利用研究报告： http://www.freebuf.com/articles/paper/152091.html
+[ SecurityReport ]  卡巴斯基 2017 第3季度垃圾邮件与网络钓鱼分析报告： https://securelist.com/spam-and-phishing-in-q3-2017/82901/
+[ SecurityReport ]  深渊背后的真相之薅羊毛产业报告： http://www.freebuf.com/news/152525.html
+[ SecurityReport ]  Google 对账户劫持攻击根本原因的研究报告： https://security.googleblog.com/2017/11/new-research-understanding-root-cause.html
+[ SecurityReport ]   How To Cook Cisco - Cisco 设备漏洞利用研究报告：  https://embedi.com/blog/how-cook-cisco
+[ SecurityReport ]  卡巴斯基 2017 年第三季度 IT威胁演变报告： https://securelist.com/it-threat-evolution-q3-2017/83076/ 数据： https://securelist.com/it-threat-evolution-q3-2017-statistics/83131/
+[ SecurityReport ]  NTT Security 2017 威胁情报报告解读： https://zhuanlan.zhihu.com/p/30888595
+[ SecurityReport ]  卡巴斯基发布 2017 年第三季度 APT 趋势报告： https://securelist.com/apt-trends-report-q3-2017/83162/
+[ SecurityReport ]  卡巴斯基发布 2018 年威胁预测：  https://securelist.com/ksb-threat-predictions-for-2018/83169/
+[ SecurityReport ]  2017 State of Open Source Security Report： https://snyk.io/blog/launching-state-of-oss-security/
+[ SecurityReport ]   NIST 发布的应用容器安全指南： http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-190.pdf
+[ SecurityReport ]   从编程语言的角度防御漏洞的一份报告，来自 ISO 和 IEC： http://www.open-std.org/jtc1/sc22/wg23/docs/ISO-IECJTC1-SC22-WG23_N0751-tr24772-1-after-pre-meeting-51-webex-20171016.pdf
+[ SecurityReport ]   Nominum 发布的《2017 秋季安全报告》，报告中剖析了最近半年网络攻击中出现的一些新方式，也介绍了 IoT 和移动设备漏洞攻击的数据趋势： https://www.nominum.com/resource/security-report-fall-2017/
+[ SecurityReport ]  卡巴斯基实验室对市面上 IoT 设备安全性的分析: https://securelist.com/iot-lottery/83300/
+[ SecurityReport ]  Cybereason 发布的关于2018年网络安全的5大预测： https://www.cybereason.com/blog/5-predictions-for-cybersecurity-in-2018
+[ SecurityReport ]  McAfee Lab 对 2018 年的威胁预测： https://securingtomorrow.mcafee.com/mcafee-labs/2018-threats-predictions/
+[ SecurityReport ]  揭秘2017网络黑产四大新趋势，威胁源全方位袭来: http://www.freebuf.com/news/155425.html
+[ SecurityReport ]  Palo Alto Networks 发布 2018年安全网络安全预测 ： https://researchcenter.paloaltonetworks.com/2017/12/2018-predictions-recommendations-cloud-security-adoption-will-disrupt-automotive-industry/
+[ SecurityReport ]  卡巴斯基发布 2017 年安全事件回顾： https://securelist.com/ksb-review-of-the-year-2017/83338
+[ SecurityReport ]  Gartner报告：2018年全球安全支出将达到960亿美元: http://www.freebuf.com/news/156859.html
+[ SecurityReport ]  Zimperium 发布第三季度全球移动威胁报告： https://blog.zimperium.com/zimperium-global-threat-report-q3-2017/
+[ SecurityReport ]  从数据回顾 2017，Kaspersky 2017 安全公告： https://securelist.com/ksb-overall-statistics-2017/83453/
+[ SecurityReport ]  趋势科技 2018 安全预测报告: https://www.trendmicro.com/vinfo/us/security/research-and-analysis/predictions/2018
+[ SecurityReport ]  McAfee Labs 发布 12 月份威胁报告： https://www.mcafee.com/us/resources/reports/rp-quarterly-threats-dec-2017.pdf
+[ SecurityReport ]    Proofpoint 发布 Lazarus Group 黑客组织研究报告：  https://www.proofpoint.com/sites/default/files/pfpt-us-wp-north-korea-bitten-by-bitcoin-bug.pdf
+[ SecurityReport ]  黑产大数据：流量欺诈灰产的现状： https://zhuanlan.zhihu.com/p/32328491
+[ SecurityReport ]  2017年我国DDoS攻击资源分析报告： https://paper.seebug.org/489/
+[ SecurityReport ]  苹果平台2017年漏洞情况统计报告： https://www.anquanke.com/post/id/92781
+[ SecurityReport ]  2017年度安全报告--Office， 来自 360CERT： https://mp.weixin.qq.com/s/M1F8WTnRajEcuavJ7xRr4g
+[ SecurityReport ]  微软 Today in Technology 系列之 2018 十大技术问题聚焦： https://ncmedia.azureedge.net/ncmedia/2018/01/TopTen2018.pdf
+[ SecurityReport ]  2017我国移动端传销诈骗类威胁态势分析报告： http://blog.avlsec.com/2017/12/5083/paper/
+[ SecurityReport ]   Cisco Talos 发布12月29日至1月5日的威胁总结报告： http://blog.talosintelligence.com/2018/01/threat-round-up-1229-0105.html
+[ SecurityReport ]   针对 75 个网络运营商的  BGP 前缀劫持调查：  https://arxiv.org/abs/1801.02918
+[ SecurityReport ]  2017全球僵尸网络DDOS攻击威胁态势报告： https://paper.seebug.org/502/
+[ SecurityReport ]  从 A 到 Z，看网络安全威胁： https://medium.com/threat-intel/the-a-to-z-of-cyber-security-93150c4f336c
+[ SecurityReport ]  腾讯2017年度网络黑产威胁源研究报告： https://book.yunzhan365.com/odqt/yzzl/mobile/index.html#p=1
+[ SecurityReport ]  腾讯安全联合实验室前沿技术研究白皮书： http://slab.qq.com/news/authority/1706.html
+[ SecurityReport ]  2017年度安全报告——IoT安全威胁： https://www.anquanke.com/post/id/95491
+[ SecurityReport ]  2017 年度安全报告——数据泄密： https://cert.360.cn/static/files/2017%E5%B9%B4%E5%BA%A6%E5%AE%89%E5%85%A8%E6%8A%A5%E5%91%8A--%E6%95%B0%E6%8D%AE%E6%B3%84%E5%AF%86.pdf
+[ SecurityReport ]  黑客攻击焦点之韩国（上）: http://www.4hou.com/info/news/10059.html
+[ SecurityReport ]  黑客攻击焦点之韩国（下）: http://www.4hou.com/info/news/10062.html
+[ SecurityReport ]  与问题应用和恶意软件开发者做对抗的2017，来自 Android Developers Blog，据其统计，在2017年共从 Google Play 上移除 70多万款应用，较 2016 年多出 70%. ： https://android-developers.googleblog.com/2018/01/how-we-fought-bad-apps-and-malicious.html
+[ SecurityReport ]  Digital Extortion: A Forward-looking View，Trend Micro 发布的对 2018 年数字勒索的预测： https://documents.trendmicro.com/assets/wp-digital-extortion-a-forward-looking-view.pdf
+[ SecurityReport ]  2017年度安全报告——供应链攻击： https://www.anquanke.com/post/id/96721
+[ SecurityReport ]  2017年网络诈骗趋势研究报告： https://www.anquanke.com/post/id/96973
+[ SecurityReport ]  卡巴斯基发布 2017年第四季度 DDoS 攻击报告： https://securelist.com/ddos-attacks-in-q4-2017/83729/
+[ SecurityReport ]  2017年度安全报告––应用漏洞： https://www.anquanke.com/post/id/98007
+[ SecurityReport ]  2017年网络诈骗趋势研究报告： http://www.freebuf.com/articles/paper/161746.html
+[ SecurityReport ]   Kaspersky Lab 发布的报告中指出，2017 年发生将近 2.5 亿次网络钓鱼尝试，比 2016 年多出 9100万起： https://securityintelligence.com/news/nearly-250-million-phishing-attempts-in-2017-study-shows/
+[ SecurityReport ]   Cisco 发布的 annual Cybersecurity Report: https://www.cisco.com/c/dam/m/digital/elq-cmcglobal/witb/acr2018/acr2018final.pdf
+[ SecurityReport ]  McAfee发布 2018 Q1 移动威胁报告 ：  https://www.mcafee.com/us/resources/reports/rp-mobile-threat-report-2018.pdf
+[ SecurityReport ]  2017年移动互联网应用程序安全态势分析： http://mp.weixin.qq.com/s/eATatI-qX2bRNUJxVRqiWw
+[ SecurityReport ]  Kaspersky 发布 2017 年金融领域网络威胁报告 ： https://securelist.com/financial-cyberthreats-in-2017/84107/
+[ SecurityReport ]  俄罗斯黑客组织与俄罗斯 GRU 及 FSB情报机构关系概述： https://www.valisluureamet.ee/pdf/raport-2018-ENG-web.pdf
+[ SecurityReport ]  2017年Android恶意软件专题报告： http://blogs.360.cn/blog/review_android_malware_of_2017-2/
+[ SecurityReport ]  2017年度中国互联网黑产报告： http://www.freebuf.com/company-information/163890.html
+[ SecurityReport ]   手机监控生态系统（Mobile Tracking Ecosystem）的调查报告： https://www.ndss-symposium.org/wp-content/uploads/sites/25/2018/02/ndss2018_05B-3_Razaghpanah_paper.pdf
+[ SecurityReport ]  卡巴斯基对恶意加密货币挖矿发展的调查报告： https://securelist.com/mining-is-the-new-black/84232/
+[ SecurityReport ]  思科2018年度安全报告： http://www.freebuf.com/articles/paper/164240.html
+[ SecurityReport ]  卡巴斯基发布 2017 年移动端恶意软件发展报告： https://securelist.com/mobile-malware-review-2017/84139/
+[ SecurityReport ]  McAfee 发布 2018 年 3 月威胁报告： https://www.mcafee.com/us/resources/reports/rp-quarterly-threats-mar-2018.pdf
+[ SecurityReport ]  CNCERT 2017年我国联网智能设备安全情况报告： http://www.freebuf.com/articles/terminal/164866.html
+[ SecurityReport ]  2017年安天移动安全年报—起承转合间的方兴未艾与暗流涌动： http://blog.avlsec.com/2018/03/5150/2017-annual-report/
+[ SecurityReport ]  Kaspersky 发布 2017 年下半年工控系统威胁报告： https://securelist.com/threat-landscape-for-industrial-automation-systems-in-h2-2017/85053/
+[ SecurityReport ]  容器镜像安全概述： http://blog.nsfocus.net/docker-mirror-security/
+[ SecurityReport ]  Gartner报告：全球网络安全产业规模发展情况及趋势预测： https://mp.weixin.qq.com/s/_jOALqJB4aVpaM25rjN5Yg
+[ SecurityReport ]  Fireeye 发布 mtrends 2018 报告，对 2017 的回顾，以及对 2018 的预测： https://www.fireeye.com/content/dam/collateral/en/mtrends-2018.pdf
+[ SecurityReport ]  malwarebytesLab 发布 2018 Q1 安全报告之网络犯罪策略及技巧： https://www.malwarebytes.com/pdf/white-papers/CTNT-Q1-2018.pdf
+[ SecurityReport ]  安全客2018季刊第一季 | 区块链时代下的黑产攻防： http://static.anquanke.com/download/b/security-geek-2018-q1.pdf
+[ SecurityReport ]  2017金融科技安全分析报告： http://www.freebuf.com/articles/paper/167847.html
+[ SecurityReport ]  2017 Botnet趋势报告： http://blog.nsfocus.net/wp-content/uploads/2018/04/2017-Botnet%E8%B6%8B%E5%8A%BF%E6%8A%A5%E5%91%8A-%E4%B8%8D%E5%8F%AF%E7%BC%96%E8%BE%91.pdf
+[ SecurityReport ]  2017 DDoS与Web报告： http://blog.nsfocus.net/wp-content/uploads/2018/04/2017-NSFOCUS-DDoS-Web%E6%8A%A5%E5%91%8A-%E4%B8%8D%E5%8F%AF%E7%BC%96%E8%BE%91.pdf
+[ SecurityReport ]  Kaspersky 发布 2018 年 Q1 季度 DDoS 威胁报告： https://securelist.com/ddos-report-in-q1-2018/85373/

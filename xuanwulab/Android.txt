@@ -1,0 +1,1277 @@
+[ Android ]  Security Assessment of BlackBerry Messenger for Android - https://cedricvb.be/wp-content/files/bbm-report.pdf
+﻿"即时通信工具 BlackBerry Messenger Android 版本安全评估 https://t.co/O9Fi5AunjC"
+[ Android ]  CopperheadOS - security hardened Android http://goo.gl/GzrXCU
+﻿"CopperheadOS - 安全加固版本的 Android 系统，开源： https://t.co/y1RNGLJ19D"
+[ Android ]  ADVDroid - statically vetting Android apps based soot. Based on Androguard. https://github.com/Xbalien/ADVDroid
+﻿"ADVDroid - Android 应用程序静态分析框架，基于 soot 和 Androguard： https://t.co/BK8WrUQyFs"
+[ Android ]  Just released dex-oracle, an Android deobfuscation tool: https://github.com/CalebFenton/dex-oracle
+﻿"dex-oracle - Android 反混淆工具: https://t.co/Ej1lPWEcmH 另外 TetCon 2016 会议上有一个相关的演讲 http://www.slideshare.net/tekproxy/tetcon-2016 "
+[ Android ]  Dex Education: Practicing Safe Dex http://www.strazzere.com/papers/DexEducation-PracticingSafeDex.pdf by @ timstrazz
+﻿"Android Dex 及其在反调试和反虚拟机方面的方法： https://t.co/9KPvNVfndo "
+[ Android ]  Today's #Android Nexus Security Bulletin patches a critical vulnerability in #Mediaserver - http://ow.ly/WC8nB
+﻿"Android 本月的补丁中修复了一个 Mediaserver 严重漏洞， ThreatPost 的报道： https://t.co/fqoQyyj4un  Android 官方补丁公告： https://source.android.com/security/bulletin/2016-01-01.html "
+[ Android ]  Android++ (native development and debugging for Visual Studio) is now open-source https://github.com/webbju/android-plus-plus
+﻿"Android++  - 用于实现 Visual Studio 开发和调试 Android Native 应用的工具 https://t.co/VMs2b8LF05"
+[ Android ]  New post on a vulnerability I found in the #Android Blackphone (BP1) is now up https://www.sentinelone.com/blog/vulnerability-in-blackphone-puts-devices-at-risk-for-takeover/ CVE-2015-6841
+﻿"Android Blackphone 被发现了一个漏洞，通过该漏洞，攻击者可以远程控制手机的调制解调器（CVE-2015-6841）：  https://t.co/5pKp812zLO"
+[ Android ]  Kali NetHunter 3.0 Released : Android Mobile Penetration Testing Platform : https://www.offensive-security.com/kali-nethunter/nethunter-3-0-released/
+﻿"Kali NetHunter 3.0 发布 - Android 渗透测试平台: https://t.co/1txpCPAsOf"
+[ Android ]  Introduction to Lobotomy | Part Two - http://rotlogix.com/2016/01/09/introduction-to-lobotomy-part-two/ #android #mobile #security
+﻿"Lobotomy 是一个功能比较全面的 Android 逆向分析框架，这篇 Blog 介绍如何用它反编译 APK 以及如何解决一些应用不可调试的问题：  https://t.co/pfpSAwXK2v"
+[ Android ]  Some malicious apps use compromised devices to download and positively review other malicious apps by same authors https://blog.lookout.com/blog/2016/01/06/brain-test-re-emerges/
+﻿"恶意软件家族 Brain Test 卷土重来 - 在被攻击的设备上从应用商店下载该作者的其他应用，共计发现了 13 款应用： https://t.co/8ylSU3puMB"
+[ Android ]  Covert Communication in Mobile Applications [pdf] http://j.mp/1SkwkXQ
+﻿"移动应用程序中的隐蔽通信，来自麻省理工学院的 Paper:  https://t.co/HqHyptVLx2 "
+[ Android ]  Vulnerability in #Android mediaserver could allow remote attacks. #MobileMonday http://symc.ly/1Ouu0de https://t.co/uwpb18s9pZ
+﻿"Android mediaserver 漏洞（CVE-2015-8507）可以允许远程任意代码执行，来自 NVD 的漏洞描述： https://t.co/5EbP6euHBh https://t.co/uwpb18s9pZ"
+[ Android ]  It's that time of the month again... Security fixes for Android https://source.android.com/security/bulletin/2016-01-01.html with some details here http://changes.droidsec.org/2016/01/04/android-5.1.1_r33.html
+﻿"Android 1 月份的漏洞公告： https://t.co/FPnHRSZAZd  代码变动的细节： https://t.co/ynpcnI2x19"
+[ Android ]  “百脑虫”手机病毒分析报告 - http://blogs.360.cn/360mobile/2016/01/06/analysis_of_bainaochong/
+﻿"“百脑虫”手机病毒分析报告 - https://t.co/Mw4c9vfguK"
+[ Android ]  Get the resources for #Secure #coding for #Android #app. #Blrdroid #mobsec #Androidsecurity http://buff.ly/1SIkiKr https://t.co/aQCZNFTQBL
+﻿"面向开发者的 Android 安全指南： https://t.co/RDLxckOmdl https://t.co/aQCZNFTQBL "
+[ Android ]  [PDF] We did the first and crazy-large-scale study on how Android apps use native code. Our NDSS'16 paper is online! http://cs.ucsb.edu/~yanick/publications/2016_ndss_native.pdf
+﻿"通过大规模分析 Android 应用，创建一个实用的 Native-Code 沙盒策略，来自 NDSS（网络与分布式系统安全） 2016 会议 Paper:  https://t.co/KxHONrZ3OQ"
+[ Android ]  Keyboard or Keylogger?: a security analysis of third-party keyboards on #Android http://seclab.skku.edu/wp-content/uploads/2015/07/mka.pdf [PDF] https://t.co/ZVgPeDakUI
+﻿"Keyboard or Keylogger? Android 第三方键盘输入法应用的安全性分析， 来自韩国成均馆大学的 Paper: https://t.co/ZVgPeDakUI  https://t.co/wXTiUswkQG "
+[ Android ]  Life after App Uninstallation: Are the Data Still Alive? Data Residue Attacks on #Android http://www.cis.syr.edu/~wedu/Research/paper/data_residue_ndss2016.pdf https://t.co/CsONww3KE5
+﻿"应用程序卸载后的日子 - 数据还在吗? Android 系统的数据残留攻击，来自 NDSS 2016 会议 Paper： https://t.co/B6IytIQrKk https://t.co/CsONww3KE5"
+[ Android ]  SlemBunk Part II: Prolonged Attack Chain and Better-Organized Campaign http://www.fireeye.com/blog/threat-research/2016/01/slembunk-part-two.html
+﻿"Android 银行恶意软件 SlemBunk Part 2 - 延长的攻击链与有组织的攻击活动。之前 Part 1 中介绍过 SlemBunk 伪造银行界面，截获银行账户信息的技术细节。 Part 2 从攻击链的角度继续分析： https://t.co/hnvFkRySip"
+[ Android ]  [CVE-2015-7292] Amazon Fire Phone Kernel Stack based Buffer Overflow - my disclosure and writeup http://marcograss.github.io/security/android/cve/2016/01/15/cve-2015-7292-amazon-kernel-stack-buffer-overflow.html
+﻿"Amazon Fire Phone 手机内核栈缓冲区溢出漏洞（CVE-2015-7292）， Blog： https://t.co/fhNorEQEJg"
+[ Android ]  A Survey on Detection Techniques of Android Malware - http://www.ijcssca.co.in/Archive/Vol1/Issue2/V1I2%20(2).pdf
+﻿"Android 恶意软件检测技术调查， Paper: https://t.co/zQlybYTlTO"
+[ Android ]  PowerSpy: Location Tracking using Mobile Device Power Analysis https://crypto.stanford.edu/powerspy/
+﻿"PowerSpy - 通过分析手机的电量消耗跟踪手机的位置，来自斯坦福大学： https://t.co/ZnTlt21mxf "
+[ Android ]  This week's #MobSec5: @ cdump's #FFmpeg bug, @ CopperheadSec finds Android UAF errors & more http://ow.ly/X3Sjz https://t.co/pZq0S2OQlJ
+﻿"来自 NowSecure 的上周手机安全动态摘要： https://t.co/npnAekBj5R https://t.co/pZq0S2OQlJ 更多"
+[ Android ]  diva-Android : (Intentionally) Damn Insecure and vulnerable App for Android : https://github.com/payatu/diva-android/ cc: @ aseemjakhar
+﻿"diva-Android - 浑身漏洞的 Android 应用，专为研究、学习 Android 应用漏洞准备: https://t.co/gP8SR15qGM  "
+[ Android ]  Autopwn every Android device on your network using BetterCap and the "addJavascriptInterface" vulnerability. http://www.evilsocket.net/2016/01/18/autopwn-every-android-device-on-your-network-using-bettercap-the-and-addjavascriptinterface-vulnerability/
+﻿"通过 BetterCap 工具和 'addJavascriptInterface' 漏洞自动攻击网络内的所有 Android 设备：  https://t.co/rjan3R1P39"
+[ Android ]  Android Xposed Module to bypass SSL certificate validation (Certificate Pinning) - https://github.com/ac-pm/SSLUnpinning_Xposed
+﻿"SSLUnpinning_Xposed - 用于劫持 Android SSL 流量的 Xposed 模块，劫持是通过 Hook SSL 相关的类实现的： https://t.co/EgdVOzpKTk"
+[ Android ]  Targeted Mobile Implants in the Age of Cyber-Espionage https://kas.pr/tbn4 by @ dimitribest
+﻿"网络间谍时代的定向手机攻击，来自 Kaspersky Blog： https://t.co/dqbYzfjQyp "
+[ Android ]  Mobile Security News Update January 2016 https://www.mulliner.org/blog/blosxom.cgi/security/mobile_security_news_update_January2016.html #theyearjuststarted
+﻿"2016 年 1 月份的移动安全动态，来自 mulliner Blog： https://t.co/m9hRFd4n2L "
+[ Android ]  Stats on Android device security from @ duosec's service: https://duo.com/blog/duo-analytics-android-device-security-article
+﻿"Duo Security 对 Android 设备安全性的数据分析: https://t.co/NUMAm5F14D"
+[ Android ]  Samsung URL filtering in kernel land: what could possibly go wrong?https://github.com/ud2/advisories/tree/master/android/samsung/nocve-2016-0001 via @ Fuzion24
+﻿"三星手机内核 URL 过滤存在缺陷，影响 Note 3 和 Galaxy S6，来自 Github ud2 的公告：  https://t.co/Nb0PudcN2o"
+[ Android ]  Trojan for Android preinstalled on Phillips s307 firmware http://news.drweb.com/show/?i=9792&lng=en&c=5
+﻿"Android 固件木马 Android.Cooee.1 被发现预装在 Phillips s307 手机中，来自 Dr.Web Blog:  https://t.co/Svq1AavsDt "
+[ Android ]  @ MalwareMustDie #BLOCK (pic) #China #android #ELF #malware #CNC case: https://pastebin.com/9YhRvYEY rpt by: @ ptolomeo_sec https://t.co/np3TwACusR
+﻿"来自中国的疑似恶意软件被发现预装在 Android 手机上，来自 OEM 厂商锐嘉科， MalwareMustDie 在 Pastebin 上贴出了分析报告: https://t.co/l4APkcUOOC   https://t.co/np3TwACusR "
+[ Android ]  CAF Chromium Browser: a chromium fork with built-in ad blocker for Android - http://caf.notphenom.com/
+﻿"CAF Chromium 浏览器 -  Chromium 项目的 Android Fork 版，内建的广告拦截工具： https://t.co/d0ebSGMWN2"
+[ Android ]  Cracking Damn Insecure and Vulnerable App (DIVA) – part 4: http://goo.gl/8Tk5aC #AccessControl #Hacking
+﻿"Cracking Diva(Damn insecure and vulnerable App)，来自 InfoSec Blog，Part 4： https://t.co/pNF5KY5RHf Part 3: http://resources.infosecinstitute.com/cracking-damn-insecure-and-vulnerable-app-diva-part-3/#article  Part 2: http://resources.infosecinstitute.com/cracking-damn-insecure-and-vulnerable-app-diva-part-2/#article  Part 1: http://resources.infosecinstitute.com/cracking-damn-insecure-and-vulnerable-apps-diva-part-1/#article "
+[ Android ]  New post: Operation Emmental Revisited: Malicious Apps Lock Users Out http://bit.ly/1ZQt91W @ TrendMicro
+﻿"Operation Emmental - 恶意 APP 被安装之后，攻击者远程修改手机的锁屏密码，在用户费劲尝试密码的时候，后台劫持银行的短信，实现交易，来自 TrendMicro Blog: https://t.co/g4SRjfgi18  "
+[ Android ]  Apparently Nexus kernel debug cables are also open source: https://android.googlesource.com/device/google/debugcable/+/master
+﻿"Android Nexus 内核调试线缆设计文档，包括 PCB/BOM 等等文档: https://t.co/Y1UxFWICZf"
+[ Android ]  Android Spywaller: Firewall-Style Antivirus Blocking http://blog.fortinet.com/post/android-spywaller-firewall-style-antivirus-blocking
+﻿"Android Spywaller - 恶意软件利用 DroidWall 防火墙禁用 Qihoo 360 的安全应用，之前推送过 Symantec 关于这个攻击的介绍，这次是 Fortinet Blog 对这个过程的详细技术分析：  https://t.co/CFEBiVWdJj"
+[ Android ]  Experimental analysis of popular smartphone apps offering anonymity, ephemerality, and end-to-end encryption: http://arxiv.org/abs/1510.04083
+﻿"几款热门匿名、阅后即焚、端到端加密应用的分析，来自伦敦大学的 Paper: https://t.co/aDWJRD3pj1"
+[ Android ]  Android privilege escalation to mediaserver from zero permissions (CVE-2014-7920 + CVE-2014-7921) http://bits-please.blogspot.com/2016/01/android-privilege-escalation-to.html (Detailed writeup)
+﻿"Android 提权 - 结合两个漏洞(CVE-2014-7920 + CVE-2014-7921)实现 MediaServer 进程内的任意代码执行，而且不要求任何权限，来自 Bits-Please Blog： https://t.co/9LPPVWWX7s "
+[ Android ]  Facebook adds anonymous Tor network support to its Android app https://www.facebook.com/notes/facebook-over-tor/adding-tor-support-on-android/814612545312134?_rdr=p
+﻿"Facebook Android APP 加入对匿名 Tor 网络的支持： https://t.co/nYRDswLwIV"
+[ Android ]  Android ADB Debug Server Remote Payload Execution https://packetstormsecurity.com/files/135370/adb_server_exec.rb.txt
+﻿"Android ADB Debug Server 远程 Payload 执行， Metasploit 模块： https://t.co/5yXCiDOBzP"
+[ Android ]  Samsung Android Security Updates January 2016: http://security.samsungmobile.com/smrupdate.html#SMR-JAN-2016
+﻿"三星 Android 安全公告， 2016 年 1 月份: https://t.co/6MFosAQW5K"
+[ Android ]  Android application development - Securing source code - http://drops.wooyun.org/mobile/12172 (Chinese)
+﻿"Android 应用安全开发之源码安全，来自 Wooyun Drops，作者为 gh0stbo： https://t.co/L0tyR9CyIY"
+[ Android ]  Mobile Application Penetration Testing Cheat Sheet : https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet/
+﻿"移动应用渗透测试备忘单，包括 iOS 和 Android 在渗透测试、逆向分析中会用到的各种工具: https://t.co/yDdNl35Afs"
+[ Android ]  .@ OguzhanTopgul Android.#BankingPhisher malware detailed analysis [in Turkish] - http://bit.ly/1JEEH14 #Android #Malware #Bankingtrojan
+﻿"一款 Android 银行钓鱼恶意样本的分析（土耳其语）： https://t.co/valWgO7HOg"
+[ Android ]  Androl4b - A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis - https://github.com/sh4hin/Androl4b
+﻿"Androl4b - 用于评估 Android 应用、逆向和分析恶意软件的虚拟机： https://t.co/J2ECKIxTor"
+[ Android ]  Just-in : Android sensord 0day root exploit : https://www.exploit-db.com/exploits/39340/
+﻿"Android sensord 0Day Root Exploit PoC，来自 ExploitDB: https://t.co/Ec3MrdktsJ"
+[ Android ]  Top 10 reasons to use Visual Studio for C++ Android Development! : http://blogs.msdn.com/b/vcblog/archive/2016/01/25/ten-good-reasons-to-use-visual-studio-for-c-android-development.aspx
+﻿"用 Visual Studio IDE 从事 C++ Android 开发的 10 个理由: https://t.co/XCEjh0oWPg"
+[ Android ]  Details on CVE-2015-6606 (discovered by Michael Roland from our lab) are now online: https://usmile.at/blog/open-mobile-api-implementations-affected-by-code-injection-vulnerability, http://arxiv.org/abs/1601.05833
+﻿"Android Open Mobile API 实现存在漏洞，精心构造的 APK 可以实现在 SmartCard 服务中执行任意代码（CVE-2015-6606）: https://t.co/qmQRcM1rw5、 https://t.co/mm1Md167b2"
+[ Android ]  Android.Trojan.Marcher - Conclusion http://blog.phishlabs.com/android.trojan.marcher-conclusion
+﻿"Android 木马 Marcher 的分析， 来自 PhishLabs， Part 3： https://t.co/lD7lVyxNad  Part 2: http://blog.phishlabs.com/android.trojan.marcher-part-two  Part 1:  http://blog.phishlabs.com/analyzing-android.trojan.marcher  "
+[ Android ]  POC for remote code execution of TalkingTom by abusing zip files and the multidex lib is now opensource: https://github.com/nowsecure/android-rce-multidex-and-zip-files
+﻿"在存在任意文件写漏洞的 MultiDex 应用中实现 RCE， PoC 代码 : https://t.co/1aQRSYt39Q 之前推送过相关的漏洞分析文章： https://www.nowsecure.com/blog/2015/06/15/a-pattern-for-remote-code-execution-using-arbitrary-file-writes-and-multidex-applications/  这次是作者将 PoC 开源了"
+[ Android ]  Android Security Bulletin February 2016: https://source.android.com/security/bulletin/2016-02-01.html
+﻿"Android 2016 年 2 月份的漏洞公告， 其中包括 5 个严重漏洞， 4 个高危漏洞: https://t.co/3U3P2Ahpcd"
+[ Android ]  Austrian Mobile Phone Signature is vulnerable against phishing and MitM attack http://robert.penz.name/1224/austrian-mobile-phone-signature-is-vulnerable-against-phishing-and-mitm-attack/
+﻿"奥地利的 Mobile Phone Signature 受网络钓鱼和中间人攻击影响， 而 Mobile Phone Signature 是一种 Web 身份证明机制： https://t.co/jv2GtJnI13"
+[ Android ]  Chip chomped as dev's debug backdoor found in Android phones http://www.theregister.co.uk/2016/02/02/chip_chomped_as_devs_debug_backdoor_found_in_android_phones
+﻿"MediaTek 生产的 MT6582 芯片被发现留有一个调试特性，允许攻击者以 ROOT 权限访问， 这个开发调试后门影响联想、华为等厂商的 Android 设备， 来自 TheRegister 报道： https://t.co/80tyUSAoRa"
+[ Android ]  Here are the goods on the Android WiFi kernel RCEs (CVE-2016-0801/0802), from the msm.git: http://pastebin.com/7g2tPJeb (/cc @ newshtwit)
+﻿"Android WiFi RCE(CVE-2016-0801/0802) Patch 的 Git 提交日志， 来自 Pastebin: https://t.co/CoHPCNEb92 "
+[ Android ]  CVE-2016-0728 vs Android : https://www.mulliner.org/blog/blosxom.cgi/security/CVE-2016-0728_vs_android.html cc: @ collinrm
+﻿"Linux 内核提权漏洞 CVE-2016-0728 对 Android 用户的影响: https://t.co/Jqnccm8ier "
+[ Android ]  Want to fuzz Android applications? Drozer has a new module for that: https://github.com/mwrlabs/drozer-modules/blob/master/intents/fuzzinozer.py Crashes browser in 30s https://t.co/P6AR2ev6dt
+﻿"Drozer 新增了一个用于 Fuzz Android 应用的脚本： https://t.co/sfCRmvxvIk ， 这个 Drozer-Modules 项目来自 MWR Labs，用于评估 Android 应用的安全性"
+[ Android ]  Fake Security App for AliPay customers - Android SMS Stealer http://research.zscaler.com/2016/02/fake-security-app-for-alipay-customers.html
+﻿"伪装成支付宝安全控件的 Android 短信'小偷'，  来自 Zscaler Blog：  https://t.co/c2zc5GvH9t "
+[ Android ]  ARTDroid: Simple and easy to use library to intercept virtual-method calls under the Android ART runtime - https://github.com/vaioco/art-hooking-vtable
+﻿"ARTDroid: 用于在 Android ART 运行时中劫持虚函数调用的工具，  Github Repo：  https://t.co/mWSRsrHEXG"
+[ Android ]  git version of NoDeviceCheck Xposed module recently updated to effectively log and bypass SafetyNet checks - https://github.com/pylerSM/NoDeviceCheck
+﻿"NoDeviceCheck - 禁用 Android 设备兼容性检查的 Xposed 模块， Github Repo：  https://t.co/tkWtH3ZqOS"
+[ Android ]  Android Dynamic Binary Instrumentation tool for tracing Android native layer: http://ow.ly/Y4zUD
+﻿"ADBI - Android Native 层动态二进制插桩工具， Github Repo: https://t.co/H9kH9acqeS"
+[ Android ]  2016 @ NowSecureMobile Mobile Security Report - [PDF] https://info.nowsecure.com/rs/201-XEW-873/images/2016-NowSecure-mobile-security-report.pdf https://t.co/vIXF8pD9kX
+﻿"来自 NowSecureMobile 的 2016 手机安全报告（PDF）： https://t.co/K1NzSz8w6H https://t.co/vIXF8pD9kX"
+[ Android ]  User Beware: Rooting Malware Found in 3rd Party App Stores http://blog.trendmicro.com/trendlabs-security-intelligence/user-beware-rooting-malware-found-in-3rd-party-app-stores/
+﻿"Android 用户要小心第三方应用市场中的 Root 恶意软件， 来自 TrendMicro Blog： https://t.co/URAkkAJksE"
+[ Android ]  Unlocking the Motorola Bootloader with a TrustZone exploit : http://bits-please.blogspot.in/2016/02/unlocking-motorola-bootloader.html https://t.co/5qMW9VjEGs
+﻿"通过一个 TrustZone Exploit 解锁 Motorola Bootloader， 来自 Bits-Please Blog: https://t.co/k0X7pBsTTD https://t.co/5qMW9VjEGs"
+[ Android ]  Reflecting on Recent iOS and Android Security Updates https://shar.es/14jQJz via @ sharethis
+﻿"对这个月 iOS 和 Android 安全更新的一些分析和思考， 来自 Zimperium Blog： https://t.co/JfYGqzTMjw"
+[ Android ]  Valentine's Day app downloads provide perfect opportunity for attacks http://www.symantec.com/connect/ko/blogs/valentines-day-app-downloads-provide-perfect-opportunity-attacks
+﻿"本月，情人节和约会相关的应用下载量增加，这对于攻击者来说是个绝佳的时机， 来自 Symantec Blog： https://t.co/kka7CsAIpw"
+[ Android ]  New blog post on Lobotomy #android #mobile #security https://twitter.com/lifeform_labs/status/698947286840303616
+﻿"Android 逆向分析框架 Lobotomy 的 surgicalAPI 介绍： https://t.co/fYV4dhy4uB"
+[ Android ]  Android malware roots devices, installs Tor/a proxy app to steal data; spotted in attacks - http://duo.sc/AndroidBot https://t.co/7WcPF1RiDr
+﻿"Android 恶意软件 Mazar Root 用户设备，安装 Tor 代理程序， 窃取用户数据， 来自 DUO Security Blog： https://t.co/HxCuhSemM8 "
+[ Android ]  My write-up on the new Network Security Policy configuration options that Android apps will soon be able to use: https://koz.io/network-security-policy-configuration-for-android-apps/
+﻿"Android 应用很快将可以使用新的网络安全配置策略， 来自 Koz Blog: https://t.co/XBORsG2R07"
+[ Android ]  How to bypass this LG smartphone’s fingerprint security in just 30 seconds http://www.welivesecurity.com/2016/02/16/lg-v10-security-bypass/
+﻿"30 秒内绕过 LG 智能手机的指纹解锁， 来自 WeLiveSecurity 的报道： https://t.co/FvVUO6esmj "
+[ Android ]  We just published Marvin: An OSS static+dynamic code analysis system that finds bugs in Android apps, BSD license: https://github.com/programa-stic/marvin-django/blob/master/README_en.md
+﻿"Marvin: 一个用于在 Android APP 中寻找 Bugs 的系统，支持动静态分析，还有一个 Web 管理平台。 Github Repo: https://t.co/Pu6rdhIe9J"
+[ Android ]  ESET paper on Android ransomware http://avien.net/blog/eset-paper-on-android-ransomware/
+﻿"来自 ESET 的报告： Android 勒索软件的崛起： https://t.co/uJ1ojTv2Ix"
+[ Android ]  A "documentation" bug in SElinux which leads to incorrect security context in Android https://code.google.com/p/google-security-research/issues/detail?id=727 Fortunately, non-exploitable.
+﻿"当以 ONE_WAY binder Transaction 方式调用 getpidcon 时， getpidcon 返回错误的安全上下文， Project Zero Issue： https://t.co/VNlK9GcYnx  通过这个漏洞可以绕过 SELinux"
+[ Android ]  New Android Trojan “Xbot” Phishes Credit Cards and Bank Accounts, Encrypts Devices for Ransom http://researchcenter.paloaltonetworks.com/2016/02/new-android-trojan-xbot-phishes-credit-cards-and-bank-accounts-encrypts-devices-for-ransom/
+﻿"Android 木马 'Xbot' 通过钓鱼手段盗取信用卡和银行帐户信息， 加密用户 SD 卡的文件， 勒索用户： https://t.co/gY3KARmXI9 "
+[ Android ]  Source Code For #GMBot Android Banking Malware Leaked: https://threatpost.com/source-code-for-android-banking-malware-leaked/116380/ via @ threatpost
+﻿"Android 银行恶意软件 GM Bot 的源码泄露了， 接下来一段时间将会出现大量 GM Bot 的变种:  https://t.co/aG9Qu6IP7o"
+[ Android ]  How does Dalvik handle 'this' registers? - http://buff.ly/20Qpw7m
+﻿"Dalvik 虚拟机是如何处理 'this' 寄存器的？ https://t.co/JrS5l3Xp2d"
+[ Android ]  Mobile malware evolution 2015 | Securelist https://securelist.com/analysis/kaspersky-security-bulletin/73839/mobile-malware-evolution-2015/ https://t.co/URJRCsg4Jp
+﻿"2015 年手机恶意软件发展情况报告， 来自 Kaspersky Blog： https://t.co/Yb49Bc414c https://t.co/URJRCsg4Jp"
+[ Android ]  The Evolution of Acecard https://securelist.com/blog/research/73777/the-evolution-of-acecard/
+﻿"Android 银行木马家族 Acecard 的演进， 来自 Kaspersky Blog： https://t.co/9wiNe7IpXA  Kaspersky 发现， 最近澳大利亚成为银行木马攻击活动的主要国家，经过调查分析，这些攻击的背后就是 Acecard 木马家族"
+[ Android ]  Highly recommend "Android Application Secure Design/Secure Coding Guidebook" by @ jssec_org to Android developers: https://www.jssec.org/dl/android_securecoding_en.pdf
+﻿"强烈推荐 《 Android 应用程序安全设计/安全编码指南 》， 来自 JSSec（日本智能手机安全协会） 的出版书， PDF: https://t.co/c3oj5RQB7z"
+[ Android ]  New MazarBot targeting the MobilePay can lock and erase your device http://b0n1.blogspot.com/2016/02/recent-mazarbot-targeting-mobilepay-can.html #MazarBOT #Android https://t.co/ltm0M5WIbj
+﻿"最近的 Android MazarBot 开始用钓鱼方式攻击手机支付， 而且可以锁定和清空手机： https://t.co/cXj9tV8Pt6  https://t.co/ltm0M5WIbj"
+[ Android ]  The largest malicious campaign on Google Play: Trojan porn clicker http://www.welivesecurity.com/2016/02/24/porn-clicker-trojans-google-play-analysis/ #Android #Malware https://t.co/uWIhb58vme
+﻿"Google Play 上出现了大量的色情点击木马， 这些木马伪装成 '地铁跑酷' 或者 'GTA' 游戏， 来自 WeLiveSecurity 的分析：  https://t.co/Q2Ye3GyvfG  https://t.co/uWIhb58vme"
+[ Android ]  Improving dynamic analysis coverage in Android with DroidBot | The Honeynet Project https://honeynet.org/node/1317
+﻿"Honeynet 项目 DroidBot， 该工具可以有效地提高 Android 恶意软件动态分析时的覆盖率：  https://t.co/sGwEBc0iU1"
+[ Android ]  Just published 3 chs. of "Mobile #IncidentResponse for #Android & #iOS” via @ NowSecureMobile http://ow.ly/YLjlP https://t.co/yWH2B5LTl6
+﻿"来自 NowSecure 的 《Android iOS 安全应急响应》（书）， 也可以在线浏览： https://t.co/LrebDfVW9H https://t.co/yWH2B5LTl6"
+[ Android ]  Appie v3 - Android Pentesting Portable Integrated… http://goo.gl/V0zEUD #Androguard #Android #AndroidPentesting https://t.co/u3vaoV1X1B
+﻿"Appie v3  - Windows 平台 Android 便携式渗透测试框架： https://t.co/dZIA6klOob  https://t.co/u3vaoV1X1B "
+[ Android ]  Ransomware and SMS-Sending Trojans: Top Threats in Bitdefender Android H2 2015 Report https://labs.bitdefender.com/2016/02/ransomware-and-sms-sending-trojans-top-threats-in-bitdefender-android-h2-2015-report/
+﻿"Bitdefender 2015 下半年 Android 威胁报告， 报告中指出， 勒索软件和短信木马仍然是 Android 平台最主要的威胁： https://t.co/whpWN8OgLt "
+[ Android ]  Samsung Android Security Update - February 2016 http://security.samsungmobile.com/smrupdate.html
+﻿"三星发布 2 月份的 Android 安全漏洞公告：  https://t.co/Cm6MO7DjDe"
+[ Android ]  Our Mobile Threat Report details the latest threats facing your device, like #Stagefright. http://intel.ly/1WH2WwW https://t.co/LeCo2TxvAG
+﻿"来自 McAfee 的 2016 移动安全威胁报告：  https://t.co/sHEHk1irEj https://t.co/LeCo2TxvAG"
+[ Android ]  [Blog] Remote Code Execution in the Baidu Browser for Android http://bit.ly/1oP2KRS #android #mobile #security
+﻿"百度 Android 浏览器 RCE， 来自 Lifeform-Labs Blog:  https://t.co/yLU5UjBrqD "
+[ Android ]  Decompiling XAPK Files http://calebfenton.github.io/2016/02/28/decompiling-xapk-files/
+﻿"反编译 XAPK 文件, Blog: https://t.co/UIX0I8zgfD"
+[ Android ]  Attack on Zygote: a new twist in the evolution of mobile threats https://goo.gl/SjQ1mk
+﻿"对 Zygote 的攻击 - 手机上的威胁一直在进化发展, 攻击者开始用 ROOT 工具传播复杂的手机木马. 来自 Kaspersky Blog: https://t.co/BkSqUl3IJ5 "
+[ Android ]  Metaphor - a (real) real-life Stagefright exploit (bypassed ASLR for Stagefright) : https://raw.githubusercontent.com/NorthBit/Public/master/NorthBit-Metaphor.pdf cc: @ _arkon
+﻿"Metaphor - 为 Stagefright 写一个能绕过 ASLR 的 Exploit（CVE-2015-3864，PDF）:  https://t.co/L9szXJrXic  这篇 Paper 的作者为 NorthBit 团队"
+[ Android ]  Embed a Metasploit Payload in an original .apk File https://techkernel.wordpress.com/2015/12/19/embed-metasploit-payload-in-apk-manually/
+﻿"如何在 .APK 文件中嵌入一个 Metasploit Meterpreter, Blog: https://t.co/PS8UAaaoFG "
+[ Android ]  Hack a mobile phone’s fingerprint sensor in 15 minutes https://www.helpnetsecurity.com/2016/03/07/hack-a-mobile-phones-fingerprint-sensor-in-15-minutes/
+﻿"15 分钟内黑掉手机的指纹传感器 - 利用 2D 打印的指纹破解手机指纹锁, 国外 HelpNetSecurity 的报道:  https://t.co/ZCBNslsGFX  Paper: http://www.cse.msu.edu/rgroups/biometrics/Publications/Fingerprint/CaoJain_HackingMobilePhonesUsing2DPrintedFingerprint_MSU-CSE-16-2.pdf  国内 Freebuf 的报道: http://www.freebuf.com/news/97981.html "
+[ Android ]  Latest Android Nexus security bulletin out; more Mediaserver trouble. https://threatpost.com/google-fixes-critical-android-mediaserver-bugs-again/116614/ via @ threatpost
+﻿"Android 2016 年 3 月份的漏洞公告, 其中包括 6 个严重漏洞, 8 个高危漏洞, 来自 ThreatPost 的报道: https://t.co/DVsybuDChv  Android 官方公告: https://source.android.com/security/bulletin/2016-03-01.html "
+[ Android ]  Inspeckage - Android Package Inspector http://blog.tempest.com.br/antonio-martins/inspeckage-android-package-inspector.html
+﻿"Inspeckage - Android 动态分析工具,监控 Android 应用运行时的行为: https://t.co/Nfzk63zESr"
+[ Android ]  #SherlockDroid/#Alligator identified a new #Android #malware family: BadMirror. See http://blog.fortinet.com/post/badmirror-new-android-malware-family-spotted-by-sherlockdroid
+﻿"Fortinet 的爬虫&分析系统发现了一个新的 Android 恶意软件家族: BadMirror : https://t.co/n0uI47fSsx"
+[ Android ]  New post: Android Vulnerabilities Allow For Easy Root Access http://bit.ly/1UbG9u1 @ TrendMicro
+﻿"本月 Android 补丁更新中修复了多个高通骁龙芯片的漏洞，这些漏洞可以帮助攻击者获取手机的 Root 权限， 来自 TrendMicro  Blog： https://t.co/4732btpwAB "
+[ Android ]  #Android banking malware can easily change this targeted attack to different countries or banking apps! http://www.welivesecurity.com/2016/03/09/android-trojan-targets-online-banking-users/ #malware
+﻿"Android 银行木马伪装成 Flash Player，可以绕过基于短信的双因素认证。 来自 WeLiveSecurity 的分析：  https://t.co/tzamZsvGdZ"
+[ Android ]  Android emulator internals by @ freesamael http://www.slideshare.net/freesamael/study-on-android-emulator-53069679
+﻿"Android 模拟器内幕, 来自 Slideshare: https://t.co/kyr7QjEMdF "
+[ Android ]  Android with machine learning to detect malicious code - http://drops.wooyun.org/mobile/13428 (Chinese)
+﻿"用机器学习检测Android恶意代码，来自乌云 Drops，作者为 runner：  https://t.co/jazkrnBV6j  "
+[ Android ]  Sending of multiple certificate chains leads to some broken TLS cert pinning implementations on Android: https://www.cigital.com/blog/ineffective-certificate-pinning-implementations/
+﻿"几个无效 Certificate Pinning 实现方案的测试 - Certificate Pinning 保护机制的绕过， 来自 Cigital Blog︰  https://t.co/vNLwW8XyJa"
+[ Android ]  First Preview of Android N : http://android-developers.blogspot.in/2016/03/first-preview-of-android-n-developer.html
+﻿"Android N 开发者预览版的 API 和相关工具: https://t.co/TqWCxDELeu"
+[ Android ]  Paper "Building a Hybrid Experimental Platform for Mobile Botnet Research" Malatras & Beslay #Botconf 2015 #CybIN https://www.botconf.eu/2015/building-a-hybrid-experimental-platform-for-mobile-botnet-research/
+﻿" 搭建一个混合实验平台，研究手机 Botnet， 来自 2015 年的 Botconf 会议： https://t.co/UVTry7Pk9Q"
+[ Android ]  Fix for CVE-2016-0815 Android stagefright RCE https://android.googlesource.com/platform/frameworks/av/+/5403587a74aee2fb57076528c3927851531c8afb%5E%21/#F0 Looks exactly same bug as "DRMfright" Oct/2015 https://github.com/programa-stic/security-advisories/tree/master/Android/Stagefright/CVE-2015-3873
+﻿"Android CVE-2016-0815 stagefright RCE 漏洞的 Patch: https://t.co/XhyT0H1bdO  看起来和 2015 年 10 月的 "DRMfright" 像是同一个: https://t.co/5Bdcy6B4CI"
+[ Android ]  Patch for Android's CVE-2016-1621 bug. Remote Code Exec in mediaserver, looks like int sign issue parsing .MKV files https://android.googlesource.com/platform/external/libvpx/+/04839626ed859623901ebd3a5fd483982186b59d%5E%21/#F0
+﻿"Android CVE-2016-1621 漏洞的 Patch, 看起来像是 .MKV 文件解析时的整型符号处理问题: https://t.co/R1GSM5AKmu"
+[ Android ]  Android fixes obvious MediaTek wifi kernel driver buffer overflow while leaving four identical overflows in the code.
+﻿"Android 修复了一个很明显的 MediaTek WiFi 内核驱动的缓冲区溢出漏洞, 但代码里还有 4 个一样的漏洞"
+[ Android ]  Mobile Security News Update March 2016 https://www.mulliner.org/blog/blosxom.cgi/security/mobile_security_newsupdate_march2016.html #notmuchhappening
+﻿" Collin R. Mulliner 网站总结的 3 月的移动安全动态： https://t.co/yr11mDyoFW "
+[ Android ]  Android Marcher now marching via porn sites http://research.zscaler.com/2016/03/android-marcher-now-marching-via-porn.html
+﻿"Android 木马 Marcher 伪装成 Flash 安装包，通过色情网站诱惑用户下载， 来自 Zscaler 的分析：  https://t.co/ROBjenXcas"
+[ Android ]  CuriousDroid: Automated User Interface Interaction for Android Application Analysis Sandboxes - https://mulliner.org/collin/publications/fc2016curiousdroid.pdf (via @ collinrm)
+﻿"CuriousDroid  - Android 应用事件驱动的渲染机制使 Android 自动沙盒分析系统很难有较高的代码覆盖率， 这篇 Paper 提出了 CuriousDroid 自动化分析系统，这个系统会以类用户的行为与应用交互， Paper：  https://t.co/2iiqoz8ORA"
+[ Android ]  A Growing Number of Android Malware Families Believed to Have a Common Origin: A Study Based on Binary Code http://www.fireeye.com/blog/threat-research/2016/03/android-malware-family-origins.html
+﻿"IBM 今年 2 月份发报告称：Android 恶意代码家族 GM Bot 的源码去年 12 月份泄露了，FireEye 最近对 SlemBunk 家族以及 SimpleLocker 家族的二进制代码分析后认为，这几个都有相同的家族特征， 来自 FireEye Blog：  https://t.co/nmzVFH5qfi "
+[ Android ]  安卓微信、QQ自带浏览器 UXSS 漏洞 - http://blog.knownsec.com/2016/02/android-weixin-qq-uxss/ by @ 80vul
+﻿"安卓微信、QQ自带浏览器 UXSS 漏洞 - https://t.co/KvNEYbaQAK by @80vul"
+[ Android ]  Releasing Mobile Security Framework (MobSF) v0.9 http://goo.gl/fb/BoQCfh #FullDisclosure
+﻿"用移动安全框架 MobSF 自动化地测试手机应用, MobSF 支持 Android 和 iOS, 来自 FullDisclosure 的介绍: https://t.co/Yb8Ee3mhvj Github Repo: https://github.com/ajinabraham/Mobile-Security-Framework-MobSF  作者在 Nullcon Goa 2016 会议上的演讲: http://www.slideshare.net/ajin25/nullcon-goa-2016-automated-mobile-application-security-testing-with-mobile-security-framework-mobsf "
+[ Android ]  honggfuzz 0.7 - ASAN code coverage for all OS, and Intel PT for Linux. OS: Linux, FreeBSD, Windows/Cygwin, MacOSX - https://github.com/google/honggfuzz/releases/tag/0.7
+﻿"honggfuzz 发布 0.7 版本, honggfuzz 是个通用型 Android Fuzz 工具, 支持 Linux、 Mac OS X、 Windows 等多种操作系统, 另外支持 AddressSanitizer 代码覆盖率评估、 支持 Intel BTS、 支持 AMD/Intel 指令/分支计数:  https://t.co/dpiVGEQGOh"
+[ Android ]  From Android ART (binary-only) to DEX? Yes, we can ! : http://reyammer.blogspot.in/2016/03/from-android-art-binary-only-to-dex-yes.html
+﻿"From Android ART (binary-only) to DEX, 这篇 Blog 是 0CTF Quals 2016 比赛一道 Android 题目的 WriteUp: https://t.co/0kVxGIq5eK"
+[ Android ]  Linux Kernel Exploitation on Android : https://github.com/Fuzion24/AndroidKernelExploitationPlayground cc: @ Fuzion24
+﻿"AndroidKernelExploitationPlayground - Android 内核漏洞利用练习， 来自 Github Repo ︰ https://t.co/VVKpB2WVVH  这个工具主要是内核方面的，之前还推送过 Android 应用方面的漏洞靶场： https://github.com/nil1666/AuditDroid    https://github.com/payatu/diva-android/ "
+[ Android ]  File-encrypting #Android #ransomware strikes as adult applications http://b0n1.blogspot.com/2016/03/file-encoder-android-ransomware-adult-applications.html #malware https://t.co/UIfNVDYvea
+﻿"伪装成成人应用的 Android 文件加密勒索软件： https://t.co/4X7VxTZ6rc   https://t.co/UIfNVDYvea"
+[ Android ]  Millions Of Android Devices Vulnerable To Stagefright https://packetstormsecurity.com/news/view/26435/Millions-Of-Android-Devices-Vulnerable-To-Stagefright.html
+﻿"数百万的 Android 设备受 Stagefright 漏洞的影响: https://t.co/7QRgPhx5hj"
+[ Android ]  Adult themed Android SMS Stealer Trojan http://research.zscaler.com/2016/03/adult-themed-android-sms-stealer-trojan.html
+﻿"成人主题的 Android 短信窃取木马， 来自 Zscaler Blog：  https://t.co/x8VvhTbQ2v"
+[ Android ]  New Android Gmobi adware found in firmware and popular apps http://securityaffairs.co/wordpress/45420/cyber-crime/new-android-gmobi-adware.html
+﻿"Dr.Web 研究员检测到了一款新的 Android 恶意程序 - Gmobi，Gmobi 以 SDK 方式传播，很多知名应用厂商在应用和固件中都嵌入了这个 SDK，Gmobi 会悄悄地收集各种信息，然后发送到恶意作者的 C&C 服务器：  https://t.co/ERGaswjOTb"
+[ Android ]  slide for 《Pwn a Nexus device with a single vulnerability》in CanSecWest and full exploit for CVE-2015-6764 https://github.com/secmob/cansecwest2016
+﻿"360 的 oldfresher 在 CanSecWest 2016 会议的演讲《Pwn a Nexus device with a single vulnerability》 Slides，还有他用于参加 Pwn2Own Mobile 2015 比赛的 Exploit（CVE-2015-6764）：  https://t.co/4t5yxQdZAw  "
+[ Android ]  Android security advisory http://source.android.com/security/advisory/2016-03-18.html
+﻿"Google 最近发现了一个 Android Root 应用，该应用利用一个本地提权漏洞实现 Root（CVE-2015-1805）， 漏洞公告：   https://t.co/LhuZlHYrN0"
+[ Android ]  Who viewed your #Instagram account? And who stole your password? https://kas.pr/1jrT by @ r0bertmart1nez & @ thiagoolmarques
+﻿"谁看了你的 Instagram 账户, 又是谁偷了你的密码. 最近一款 'InstaCare – Who cares with me' 应用盗取用户敏感信息, 该应用滥用 OAuth 协议. 来自 Kaspersky Blog:  https://t.co/LoBmCqiDNO"
+[ Android ]  The “SpyLocker” Malware in Android – What you Need to Know https://blogs.mcafee.com/consumer/spylocker-malware-what-you-need-to-know/
+﻿"关于 Android SpyLocker 恶意软件, 你需要了解的: https://t.co/SZGnsDnE30"
+[ Android ]  CVE-2015-1805 PoC, untested https://twitter.com/idl3r/statuses/711371009874485249
+﻿"CVE-2015-1805 PoC, Twitter 上的讨论: https://t.co/JTeiPbFUX0  PoC: https://github.com/idl3r/testcode/blob/master/test2.c "
+[ Android ]  Android v. Stagefright? The latter is still winning. https://blog.zimperium.com/reflecting-on-stagefright-patches/ HT @ zimperium https://t.co/buL5jb7dJk
+﻿"Android Stagefright 漏洞补丁的数据分析， 包括各个国家的修复比例对比： https://t.co/Zv442nGhPQ   https://t.co/buL5jb7dJk"
+[ Android ]  CENSUS advisories (+ trigger files) for Android libstagefright bugs CVE-2016-0816 and CVE-2016-0824 are now public: https://census-labs.com/news/tag/advisories/
+﻿"Android libstagefright CVE-2016-0816 和 CVE-2016-0824 漏洞的细节， 来自 CENSUS 的漏洞公告︰ https://t.co/gUxHKjZ3XK"
+[ Android ]  Android One Privilege Escalation https://packetstormsecurity.com/files/136436/GS20160325232718.tgz
+﻿"Android One 设备在处理无线驱动数据包时，不正确地调用 copy_from_user 触发内存破坏漏洞，成功利用这个漏洞可以实现 APP 到 Kernel 的提权， Project Zero Issue 678： https://bugs.chromium.org/p/project-zero/issues/detail?id=678"
+[ Android ]  jsifenum - A drozer module for enumerating Javascript Interfaces and methods https://github.com/droidsec/jsif-enumerator
+﻿"jsifenum - 用于枚举 Javascript 接口和方法的 Drozer 模块，这可以辅助检测 addJavascriptInterface 漏洞： https://t.co/ls48qUH4W5 "
+[ Android ]  Generic Stagefright exploit for CVE-2015-3864 released ! git clone https://github.com/NorthBit/Metaphor Vulnerable % by country: https://blog.zimperium.com/reflecting-on-stagefright-patches/
+﻿"Android Stagefright CVE-2015-3864 通用 Exploit：  https://t.co/r3IS7vw6ZA  各个国家的补丁修复情况对比 ︰ https://t.co/MDybVZPZgS"
+[ Android ]  Samdunk - the eMMC backdoor vulnerability used to unlock the Galaxy S5 Bootloader : http://theroot.ninja/disclosures/SAMDUNK_1.0-03262016.pdf (pdf)
+﻿"Samdunk - 用于解锁三星 Galaxy S5 Bootloader 的 eMMC 后门漏洞 ︰ https://t.co/ZjJxRawzvq  "
+[ Android ]  Remotely Exploitable Flaw in Truecaller Leaves 100 Million Android Devices Vulnerable http://securityaffairs.co/wordpress/45701/hacking/truecaller-remotely-exploitable-flaw.html
+﻿"Android 呼叫管理应用 Truecaller 存在远程可以利用的漏洞， 1 亿 Android 设备受影响： https://t.co/YuTWhsnjzQ "
+[ Android ]  Apktool v2.1.0 Released http://connortumbleson.com/2016/03/27/apktool-v2-1-0-released/
+﻿"Apktool v2.1.0 发布，详细的发布日志： https://t.co/TearGaEvGY"
+[ Android ]  Setting up the new @ kalilinux #Nethunter 3.0 on a OnePlusOne is so straight-forward. Thanks guys! @ _binkybear https://github.com/offensive-security/nethunter-LRT
+﻿"nethunter-LRT - nethunter Root 工具包，将 nethunter 安装到支持的设备上： https://t.co/FwVzf5qQzd"
+[ Android ]  New post: Critical ‘CVE-2015-1805’ Vulnerability Allows Permanent Rooting of Most Android Phones http://bit.ly/1pZnbME @ TrendMicro
+﻿" CVE-2015-1805 漏洞允许攻击者永久性地 Root Android 手机， 来自 TrendMicro 的分析： https://t.co/tGKoYyvG3j "
+[ Android ]  Signal is using docker and a custom apk signature verifier to do (mostly) reproducible builds : https://whispersystems.org/blog/reproducible-android/
+﻿"Signal-Android - 一个开源的私有通讯工具 ︰ https://t.co/UlmgPQdhNL  Github： https://github.com/whispersystems/Signal-Android "
+[ Android ]  How to test for CVE-2016-2402 and similar certificate pinning flaws https://koz.io/pinning-cve-2016-2402/
+﻿"如何测试 CVE-2016-2402 以及类似的 Certificate Pinning 问题： https://t.co/az87a30Q7J"
+[ Android ]  Fuzzing and Exploiting parcelization vulnerabilities in Android : https://www.blackhat.com/docs/asia-16/materials/asia-16-He-Hey-Your-Parcel-Looks-Bad-Fuzzing-And-Exploiting-Parcelization-Vulnerabilities-In-Android.pdf (Slides) #BHASIA
+﻿"Hey your parcel looks bad - Android Parcel 漏洞的挖掘和利用， Parcel 是 Android 系统的一种对象序列化机制， 来自 KeenLab Flanker 在 BlackHat Asia 2016 会议的演讲 ︰ https://t.co/9fv1kVT1sW "
+[ Android ]  Use scheduling feature to detect Android Emulator - http://drops.wooyun.org/mobile/13486 (Chinese) - based on http://www.dexlabs.org/blog/btdetect
+﻿"利用任务调度特性检测 Android 模拟器， 来自 Wooyun Drops： https://t.co/1CXPGEcqMI  基于这篇文章： https://t.co/7OZ7zppJx4"
+[ Android ]  Today's #Android patches include a fix for a vulnerability exploited by a rooting application - http://ow.ly/10hqsA
+﻿"本月的 Android 补丁更新中修复了一个 Root 应用中使用的漏洞（CVE-2016-1805）， 来自 ThreatPost 的报道： https://t.co/U7WRwPTEaB  Android 4 月份的漏洞公告： https://source.android.com/security/bulletin/2016-04-02.html "
+[ Android ]  Surreptitious Sharing on Android : https://www.ibr.cs.tu-bs.de/papers/schuermann-sicherheit2016.pdf (pdf)
+﻿"Android 上的秘密共享 - 很多应用都会使用 Intent API 实现图片、视频、文档的共享。 这篇 Paper 谈应用在处理 file URI 时的一个安全漏洞，成功利用这个漏洞可以实现提权和数据泄露︰ https://t.co/l1Jw19idj8 "
+[ Android ]  While working on something, found this article on Android kernel security — https://github.com/ukanth/afwall/wiki/Kernel-security
+﻿"Android 内核安全机制概览， Github Repo： https://t.co/Ew9yI0h41J"
+[ Android ]  WhatsApp Encryption Overview: Technical white paper https://www.whatsapp.com/security/WhatsApp-Security-Whitepaper.pdf [PDF] https://t.co/yGVMtak0Gy
+﻿"WhatsApp 加密体系概览：  https://t.co/Aiu2dnDOR9   https://t.co/yGVMtak0Gy"
+[ Android ]  The evolution of mobile ransomware https://blog.avast.com/the-evolution-of-mobile-ransomware
+﻿"手机勒索软件的发展历程， 来自 Avast Blog： https://t.co/VvQy8DXcB7 "
+[ Android ]  Trojan found in more than 100 Android apps on Google Play Store https://www.grahamcluley.com/2016/04/advertising-trojan-100-android-apps-google-play-store/
+﻿"Google Play Store 在超过 100 款 Android Apps 中发现了 Android.Spy.277.origin 木马： https://t.co/66eP6RxJuh "
+[ Android ]  Android Studio 2.0: Now available as a *stable* release. Instant Run, faster builds, new emulator, and much more! http://android-developers.blogspot.com/2016/04/android-studio-2-0.html
+﻿"Android Studio 2.0 稳定版发布，官方 Blog：  https://t.co/yhw3T1ofmF"
+[ Android ]  New Android emulator is sweet https://developer.android.com/tools/devices/emulator.html
+﻿"在 Android 模拟器中运行 APP，来自 Android 开发者 Blog： https://t.co/xMn6VCcKLG"
+[ Android ]  All of the presentation materials for the Android browser @ InfiltrateCon talk can be found here - https://github.com/LifeForm-Labs/all_your_browsers_belong_to_us
+﻿"All Your Browsers Belong To Us， 来自 rotlogix 在 Infiltrate 会议的演讲，谈 Android 浏览器漏洞利用：  https://t.co/8Vg9NkRwB3"
+[ Android ]  Release a PoC for CVE-2016-0846, IMemory bug leak to arbitrary memory read/write, first reported by @ tiraniddo https://github.com/secmob/CVE-2016-0846
+﻿"Android IMemory 接口 OOB 漏洞导致的内存读写 PoC （CVE-2016-0846）， 来自 oldfresher 的 Github Repo:  https://t.co/DhS81nyTsN    该漏洞最早由 James Forshaw 发现： https://bugs.chromium.org/p/project-zero/issues/detail?id=706 "
+[ Android ]  New advisory released: A Bluetooth pairing authentication bypass in Android discovered by @ bouuntyyy https://labs.mwrinfosecurity.com/advisories/bluetooth-pairing-authentication-bypass/
+﻿" Android 蓝牙配对身份认证绕过漏洞（CVE-2016-0850）， 来自 MWR Labs 的公告： https://t.co/ONiflSSGLQ "
+[ Android ]  Android IOMX getConfig/getParameter Information Disclosure https://packetstormsecurity.com/files/136632 #exploit
+﻿"Android IOMX getConfig/getParameter 信息泄漏漏洞（CVE-2016-2417）， 来自 Project Zero Issue 711: https://bugs.chromium.org/p/project-zero/issues/detail?id=711  "
+[ Android ]  iOS & Android vulnerable to 2FA attack - How Anywhere Computing Just Killed Two-Factor Authentication (2FA) : https://docs.google.com/viewer?url=http%3A%2F%2Ffc16.ifca.ai%2Fpreproceedings%2F24_Konoth.pdf (pdf)
+﻿"随着越来越多的手机应用实现了跨平台同步，双因素认证所依赖的隔离环境在逐步减弱。这篇 Paper 谈这类应用是如何 Kill 掉双因素认证机制的 : https://t.co/XUQqRAS0cC    还有一篇文章参考： http://www.few.vu.nl/~vvdveen/bandroid.html "
+[ Android ]  New post: Mobile Devices Used to Execute DNS Malware Against Home Routers http://bit.ly/1VMsgn3 @ TrendMicro
+﻿"TrendMicro 最近发现有 IoT 攻击借助手机来完成，当手机访问恶意站点时，触发恶意 JavaScript 的下载，下载的 JavaScript 修改家用路由器的 DNS 配置。 TrendMicro 将其命名为 JS_JITON： https://t.co/dvJuPm5dwn  "
+[ Android ]  Samsung exposes modem over USB which can be abused to enable ADB, make calls, send texts, and bypass lockscreen: https://github.com/ud2/advisories/tree/master/android/samsung/nocve-2016-0004
+﻿"三星手机通过 USB 可以访问 Modem 接口，攻击者可以滥用该接口，实现启用 ADB、打电话、发短信、绕过锁屏 ︰ https://t.co/ZubJtUIf0W    受影响的型号包括： Galaxy S6、Galaxy Note 3，Galaxy S4 系列"
+[ Android ]  ReDex is an Android bytecode optimizer originally developed at Facebook http://fbredex.com/
+﻿"ReDex - Facebook 开发的 Android 字节码优化工具： https://t.co/n9CBQCafJj "
+[ Android ]  通过BT种子传播到安卓手机的下载者 - http://blogs.360.cn/360safe/2016/04/12/bt_android_downloader/
+﻿"通过BT种子传播到安卓手机的下载者， 来自 360 Blog： https://t.co/tMgxxTS9Fl"
+[ Android ]  Crypto hooking on Android using the JEB debuggers API, demo plugin at https://www.pnfsoftware.com/blog/crypto-monitoring-android-debuggers-api/ https://t.co/O7z3SLZ9vl
+﻿"利用 Android JEB 调试器 API Hook 加密流程，提取输入输出参数： https://t.co/rOK6MijleT   示例代码： https://github.com/pnfsoftware/jeb2-samplecode/tree/master/src/com/pnf/andhook  "
+[ Android ]  #Unit42 finds #MobileOrder #trojan targeting #Android users w/ pro-terrorism lures via social networks http://bit.ly/264kNEw
+﻿"MobileOrder Android 木马通过社交网络攻击亲恐怖主义的土耳其用户， 来自 Palo Alto Blog：  https://t.co/S84CNRko8D"
+[ Android ]  Analysis of CVE-2016-2414 - Out-of-Bound Write Denial of Service Vulnerability in Android Minikin Library http://blog.fortinet.com/post/analysis-of-cve-2016-2414-out-of-bound-write-denial-of-service-vulnerability-in-android-minikin-library-1
+﻿"Android Minikin 库越界写拒绝服务漏洞分析（CVE-2016-2414 ）， 来自 Fortinet Blog：  https://t.co/Yu9N8oGUWk "
+[ Android ]  Likely the last Android Census update, now has 572 devices, SELECT your way to lolworthy bugs. https://census.tsyrklevich.net
+﻿"Android 手机设备统计信息汇总：  https://t.co/GcAuYJisT2  https://androiddevice.info/"
+[ Android ]  Having fun with secure messengers and Android Wear (and Android Auto) : http://www.slideshare.net/CanSecWest/csw2016-chaykin-havingfunwithsecuremessengersandandroidwear (Slides)
+﻿"Android 几款通讯应用、Android Wear 与 PendingIntent 相关的攻击面 ︰ https://t.co/xEZLRUw17x "
+[ Android ]  Checkout @ anarcheuz poc for CVE-2014-0196 - https://github.com/anarcheuz/Android-PoCs/tree/master/CVE-2014-0196
+﻿"Android tty_insert_flip_string_fixed_flag 条件竞争漏洞（CVE-2014-0196） PoC：  https://t.co/TPbilKY9sG"
+[ Android ]  How I defeated an obfuscated and anti-tamper APK with some Python and a home-made Smali emulator : https://www.evilsocket.net/2016/04/18/how-i-defeated-an-obfuscated-and-anti-tamper-apk-with-some-python-and-a-home-made-smali-emulator/
+﻿"怎样用 Python 和自制 Smali 模拟器搞定一个加混淆、防篡改的 APK︰ https://t.co/WIKtZpCATz"
+[ Android ]  Android Security Report: 29 Percent of Active Devices Not Up To Patch Levels: https://threatpost.com/android-security-report-29-percent-of-active-devices-not-up-to-patch-levels/117511/ via @ threatpost
+﻿"Google 发布 Android 安全年度报告（2015）， 来自 ThreatPost 的报道： https://t.co/DxsRTGnBIE   报告下载： http://source.android.com/security/reports/Google_Android_Security_2015_Report_Final.pdf "
+[ Android ]  Fun! Open sourced CVE-2015-1805 for some Android devices (mainly Sony) https://github.com/dosomder/iovyroot
+﻿"iovyroot - 基于 CVE-2015-1805 漏洞的 Android Root 工具： https://t.co/M5svW17mGu"
+[ Android ]  Booting Android: bootloaders, fastboot and boot images - http://www.slideshare.net/chrissimmonds/android-bootslides20
+﻿"Android 系统的引导过程︰ bootloaders， fastboot， boot images：  https://t.co/f19jk42xAb"
+[ Android ]  Announcing cargo-apk - cross compiling to android just got significantly easier! https://users.rust-lang.org/t/announcing-cargo-apk/5501
+﻿"cargo-apk - 从 Rust 交叉编译成 APK： https://t.co/BH5beFpQZ8"
+[ Android ]  For a given Android vulnerability (i.e. #Stagefright), @ opensignal's fragmentation data is helpful to gauge risk: http://opensignal.com/reports/2015/08/android-fragmentation/.
+﻿"如果想评估一个 Android 漏洞的影响， OpenSignal 公司的这些 Android 数据可以帮助你 ︰ https://t.co/KrW6V0ZbE4。"
+[ Android ]  LG officially opens the European LG G5 H850 bootloader http://forum.xda-developers.com/lg-g5/development/official-european-lg-g5-h850-bootloader-t3363040
+﻿"LG 官方发布解锁 G5 H850 手机 Bootloader 的工具： https://t.co/MADc3WOXbr"
+[ Android ]  In The Wild: Google Can’t Close the Door on Android Malware | Check Point Blog http://ow.ly/4n3wFH
+﻿"Google 也无法关上 Android 恶意软件的大门： https://t.co/Q6hD537mHC"
+[ Android ]  First weaponized #Towelroot exploits used in #Android #ransomware attacks https://threatpost.com/android-ransomware-attacks-using-towelroot-hacking-team-exploits/117655/ via @ threatpost
+﻿"Towelroot Exploits 被用于传播 Dogspectus Android 勒索软件， 来自 ThreatPost 的报道： https://t.co/aIxphXCyL3  来自 Blue Coat 的分析： https://www.bluecoat.com/security-blog/2016-04-25/android-exploit-delivers-dogspectus-ransomware "
+[ Android ]  First post in the new zero-to-TrustZone series is up! Exploring QSEE - Qualcomm's Secure Execution Environment. http://bits-please.blogspot.com/2016/04/exploring-qualcomms-secure-execution.html
+﻿"从 0 到 TrustZone 系列文章： 第一篇 探究高通的 SEE（安全可执行环境），来自  Bits, Please Blog： https://t.co/3jfGwnfNpF"
+[ Android ]  百脑虫之HOOK技术分析 - http://blogs.360.cn/360mobile/2016/04/25/analysis_of_bainaochong_hook/ by 360 Mobile Security Team
+﻿"百脑虫之 HOOK 技术分析， 来自 360 移动安全团队： https://t.co/IYFnhH1qtC "
+[ Android ]  RuMMS: The Latest Family of Android Malware Attacking Users in Russia Via SMS Phishing https://www.fireeye.com/blog/threat-research/2016/04/rumms-android-malware.html
+﻿"RuMMS - 通过短信钓鱼攻击俄罗斯用户的 Android 恶意软件： https://t.co/jboVYJNhFG"
+[ Android ]  . @ IBM analyzes market for #Android malware, in particular overlay malware which steal credentials. https://threatpost.com/scourge-of-android-overlay-malware-on-rise/117720/
+﻿"地下市场上 Android 恶意攻击者之间的竞争越来越激烈， 来自 ThreatPost 的报道： https://t.co/AShtt8ufRx"
+[ Android ]  Fake Android Update Delivers SMS, Click Fraud in Europe https://blogs.mcafee.com/mcafee-labs/fake-android-update-delivers-sms-click-fraud-europe/
+﻿"伪装成 Android 更新的短信、点击诈骗： https://t.co/qtlC1OAkrT"
+[ Android ]  Dalvik Virtual Execution with SmaliVM : http://calebfenton.github.io/2016/04/30/dalvik-virtual-execution-with-smalivm/
+﻿"基于 SmaliVM 的 Dalvik 虚拟执行技术: https://t.co/drdBxq1IjE"
+[ Android ]  Google Patches More Trouble in Mediaserver https://threatpost.com/google-patches-more-trouble-in-mediaserver/117758/
+﻿"Android 发布 5 月份补丁更新，本次共修复了 32 个漏洞，其中含 Mediaserver 的多个漏洞，来自 ThreatPost 的报道： https://t.co/pC8Yo4E702   官方的公告： https://source.android.com/security/bulletin/2016-05-01.html "
+[ Android ]  CVE-2016-2445 POC:https://raw.githubusercontent.com/ScottyBauer/Android_Kernel_CVE_POCs/master/CVE-2016-2445.c Full exploit soon.
+﻿"Android NVIDIA 视频驱动提权漏洞（CVE-2016-2445） POC: https://t.co/K6p7w1azJo "
+[ Android ]  QSEE privilege escalation vulnerability & exploit : https://bits-please.blogspot.in/2016/05/qsee-privilege-escalation-vulnerability.html , Exploit : https://github.com/laginimaineb/cve-2015-6639 https://t.co/DjHiUu1aBk
+﻿"利用 PRDiag* 命令实现 QSEE 提权漏洞的利用（CVE-2015-6639） : https://t.co/xpSjifIenR ; Exploit:  https://t.co/PFG1F9asd7 https://t.co/DjHiUu1aBk"
+[ Android ]  [CVE-2016-2443] Qualcomm MSM debug fs kernel arbitrary write - https://marcograss.github.io/security/android/cve/2016/05/03/cve-2016-2443-msm-kernel-arbitrary-write.html
+﻿"高通 MSM debugfs 内核任意地址写漏洞（CVE-2016-2443）： https://t.co/QiuOJmBFPd"
+[ Android ]  Linux IPC router binding any port as a control port (CVE-2016-2059) https://www.codeaurora.org/linux-ipc-router-binding-any-port-control-port-cve-2016-2059
+﻿"Linux IPC Router 绑定任意端口为控制端口 (CVE-2016-2059)， 漏洞公告：  https://t.co/iGFLE9TqaQ"
+[ Android ]  Something my team's been working on (scanning for security and privacy bugs in apps on Google Play): http://android-developers.blogspot.com/2016/04/enhancing-app-security-on-google-play.html
+﻿" 增强 Google Play 市场中应用的安全性， 来自 Android-Developers 官方 Blog ︰ https://t.co/Extqpdryy7"
+[ Android ]  We uncovered a campaign of Android/Clicker.G in dozens of malicious apps on #GooglePlay: http://intel.ly/26Vd6kC https://t.co/SXcxV86Mec
+﻿" McAfee 研究团队在 GooglePlay 中发现了一种新的恶意软件 - Android/Clicker.G，其攻击的目标为俄罗斯用户: https://t.co/QuckytVlVM https://t.co/SXcxV86Mec"
+[ Android ]  A Study of Android Malware Detection Techniques and Machine Learning - http://ecommons.udayton.edu/cgi/viewcontent.cgi?article=1015&context=maics
+﻿"Android 恶意软件检测技术与机器学习研究 Paper， 来自美国辛辛纳提大学： https://t.co/F1Tv2H6rpE"
+[ Android ]  War of the Worlds - Hijacking the Linux Kernel from QSEE http://bits-please.blogspot.com/2016/05/war-of-worlds-hijacking-linux-kernel.html
+﻿"世界大战 - 从 QSEE 中劫持 Linux 内核： https://t.co/tjzAfMyT4p"
+[ Android ]  Android N media stack hardening (-fsanitize=integer in trapping mode and split up + better sandboxed mediaserver): https://android-developers.blogspot.ca/2016/05/hardening-media-stack.html.
+﻿"Android N 加固多媒体栈，防御漏洞利用: https://t.co/LqFFftUgpJ。"
+[ Android ]  CENSUS advisory & details for CVE-2016-0842 (Android stagefright ih264d_read_mmco_commands OOB write) https://census-labs.com/news/2016/05/04/libstagefright-ih264d-read-mmco-commands-overflow/ by @ anestisb
+﻿"Android stagefright libavc H.264 decoder 内存越界写漏洞（CVE-2016-0842）： https://t.co/YupH9uGoXu  "
+[ Android ]  Exploiting CVE-2016-2060 on Qualcomm devices http://bddy.me/21A5ujD #mobile #Android https://t.co/BYzDxJKSkm
+﻿" Android 高通 netd 守护进程缺乏对参数的校验，存在本地提权漏洞（提权至 radio 用户权限）（CVE-2016-2060）， 来自 FireEye Blog： https://t.co/ILk70XE1jW  https://t.co/BYzDxJKSkm"
+[ Android ]  Mobile Security News Update May 2016 - https://www.mulliner.org/blog/blosxom.cgi/2016/05/06#mobile_security_news_update_may2016 (via @ collinrm)
+﻿" 上个月的移动安全动态（2016 年 5 月版），来自 Mulliner Blog： https://t.co/unbHlxFBps"
+[ Android ]  A quick how-to on ioctl whitelisting for Android M http://jeffvanderstoep.blogspot.com/2016/02/collecting-ioctl-command-denials-for.html
+﻿"收集被 Android M SELinux 白名单拒绝的 ioctls： https://t.co/gcvJ7kQzq7 "
+[ Android ]  How to test your script/binary in the same security context as a regular third party app (UID/GID/SELinux-domain): http://jeffvanderstoep.blogspot.com/2016/01/android-how-to-run-executable-from-adb.html
+﻿" 在测试脚本和二进制程序时，如何通过 adb 让测试程序以沙箱内的环境和权限运行：  https://t.co/AfsYXvPl0z"
+[ Android ]  Now blog post on the better ways to pentest Android apps (filesystem, dynamic, static ...) http://buff.ly/1WONaSR
+﻿" Android APP 渗透测试的第一步 - 搭建环境、反编译、API 监控、文件系统监控、Java 调试： https://t.co/j78BI4Lpgc"
+[ Android ]  #Malware may abuse Android's accessibility service to bypass security enhancements. More: http://symc.ly/21QD5Wp https://t.co/WR5XGITODo
+﻿"恶意软件滥用 Android Accessibility 服务，绕过安全限制︰ https://t.co/uSM5MBBZj0 https://t.co/WR5XGITODo"
+[ Android ]  ApkSecurityAnalysis - https://github.com/Andy10101/ApkSecurityAnalysis
+﻿"ApkSecurityAnalysis - Android APK 安全性分析工具： https://t.co/PLD8Q1UJci"
+[ Android ]  DexExtractor - Android dex file extractor, anti-bangbang (Bangcle) - https://github.com/bunnyblue/DexExtractor
+﻿"DexExtractor - Android dex 文件提取工具，可以对抗梆梆： https://t.co/Q0nwbQtxtx"
+[ Android ]  Some more CF-Auto-Root's for Samsung 6.0 firmwares have been uploaded, including several Note4 variants. https://autoroot.chainfire.eu/
+﻿" CF-Auto-Root - 跟踪最新的 Android Root 信息： https://t.co/asmdVrLyTc"
+[ Android ]  POC for remote Linux / Android kernel stack buffer overflow via WiFi https://github.com/abdsec/CVE-2016-0801/blob/master/PoC.c
+﻿" Android/Linux 内核 WiFi 模块栈缓冲区溢出漏洞 PoC（CVE-2016-0801）： https://t.co/sZW71rupja"
+[ Android ]  Results of PoC Publishing https://securelist.com/blog/research/74724/results-of-poc-publishing/
+﻿" Kaspersky 这篇 Blog 谈 PoC 公开与 Android 系统碎片化的问题，过早的公开 PoC 有可能为恶意攻击者提供 '帮助'：  https://t.co/VPcLhdZ7HF "
+[ Android ]  Android-Security-Reference - KeyStore - https://github.com/doridori/Android-Security-Reference/blob/master/api/keystore.md
+﻿" Android 安全手册之 KeyStore： https://t.co/YnqBSPBBe7  该作者还整理了很多其他组件的笔记： https://github.com/doridori/Android-Security-Reference  其中还有一个链接整理了一些 HackingTeam 泄漏的 Exploits: https://github.com/f47h3r/hackingteam_exploits "
+[ Android ]  Sex Sells: Looking at Android Adult Adware Apps https://blogs.mcafee.com/mcafee-labs/sex-sells-looking-at-android-adult-adware-apps/
+﻿"Android 成人广告 APP 通过社交网络传播： https://t.co/ZjSa39gBun"
+[ Android ]  Thanks to those who stuck around to see my @ hackmiami talk.. here is my slide deck-https://docs.google.com/presentation/d/179vkh2uLBUf83NzwLABzMdADeoNoZF26HnOWL6zMe5E/edit?usp=sharing… #mobilesecurity #hackmiami
+﻿" HackMiami 会议一篇关于 Mobile App Hacking 的议题： https://t.co/ShsxjEICV7 "
+[ Android ]  How I broke a mobile banking application to gain unrestricted access to several Billion Dollars worth of Deposits. https://boris.in/blog/2016/the-bank-job/
+﻿" 我是如何通过攻破银行 APP，不受限制地控制几亿美元存款的： https://t.co/ed2nCW1Jho"
+[ Android ]  Android internals https://github.com/keesj/gomo/wiki/
+﻿" Android Internals Wiki 文档：  https://t.co/nSThOV3eo6"
+[ Android ]  Android Hacking: Dumping and Analyzing Application’s Memory http://resources.infosecinstitute.com/android-hacking-dumping-and-analyzing-applications-memory/
+﻿" Android APP 内存 Dump 和分析，来自 InfoSec Blog： https://t.co/2MO0P3WAvQ"
+[ Android ]  Banking Trojan Outwits Google Verify Apps Scanner https://threatpost.com/banking-trojan-outwits-google-verify-apps-scanner/118142/
+﻿"一款名叫 'Black Jack Free' 的银行木马通过 Google Play Store 的审查并上架，有 5000 人下载了该木马应用。后来被 Lookout Security 团队发现： https://t.co/iGpbgZNlfs"
+[ Android ]  Android N's cert pinning API is easy-to-implement & flexible. Works with custom certs. https://developer.android.com/preview/features/security-config.html https://t.co/dDrjG8Sxxd
+﻿" Android N 网络安全配置指南，来自 Android 开发者网站： https://t.co/BENiOp90Sr https://t.co/dDrjG8Sxxd"
+[ Android ]  Android Qualcomm Vulnerability Impacts 60 Percent of Devices: https://threatpost.com/android-qualcomm-vulnerability-impacts-60-percent-of-devices/118191/ via @ threatpost
+﻿" 'Bits, Please' Blog 那篇《从 QSEE 劫持 Linux 内核》提到的高通漏洞影响 60% 的 Android 设备，来自 ThreatPost 的报道：  https://t.co/jzVkx2JvD9   从 QSEE 劫持 Linux 内核： http://bits-please.blogspot.com/2016/05/war-of-worlds-hijacking-linux-kernel.html   Duo Security 的分析： https://duo.com/blog/sixty-percent-of-enterprise-android-phones-affected-by-critical-qsee-vulnerability "
+[ Android ]  Following Devil’s Footprints: Cross-Platform Analysis of Potentially Harmful Libraries on Android and iOS: http://www.ieee-security.org/TC/SP2016/papers/0824a357.pdf
+﻿"跟随魔鬼的脚步︰ Android、iOS 潜在危险的跨平台库分析: https://t.co/lmRVJkAW7q   来自 IEEE 安全与隐私研讨会，全部的议题： http://www.ieee-security.org/TC/SP2016/program-papers.html "
+[ Android ]  Google to kill passwords on Android, replace 'em with 'trust scores' http://www.theregister.co.uk/2016/05/24/google_smartphone_password_replacement_trust_scores/
+﻿" Google 计划用 '可信评分' 机制替换 Android 系统当前的传统密码策略： https://t.co/qlKxEFii5u"
+[ Android ]  How to: Testing Android Application Security, Part 1 https://blogs.mcafee.com/mcafee-labs/testing-android-application-security-part-1/
+﻿" Android APP 安全性测试 Part 1，来自 McAfee Blog： https://t.co/bxi0OIGn42"
+[ Android ]  China backdoored your Android phone http://phwned.com/ (Grandstream Android phones don't escape shell metachars leading to RCE as root)
+﻿" 潮流网络 Android 手机处理 Shell 通配符不当，可以 Root（疑似后门）： https://t.co/IfVP0qWgxz  101 种方式 Pwn 掉你的 Android 手机： http://davidjorm.blogspot.com.au/2015/07/101-ways-to-pwn-phone.html "
+[ Android ]  Security updates in Android N https://firmwaresecurity.com/2016/05/21/security-updates-in-android-n/ via @ wordpressdotcom
+﻿" Android N 在安全方面的一些改进： http://www.tomshardware.com/news/google-android-n-security-improvements,31846.html#xtor=RSS-100 "
+[ Android ]  CVE-2015-3854 Battery permission leakage in Android http://goo.gl/fb/eC2w6Q #FullDisclosure
+﻿" Android 电池、电量相关权限泄漏漏洞（CVE-2015-3854），发现者为 KeenLab Flanker，来自 FullDisclosure 的公告：  https://t.co/N0gLScYtTy "
+[ Android ]  jniostorlab - Script to enumerate JNI methods in ELF files. https://github.com/ostorlab/jniostorlab
+﻿"jniostorlab - 用于枚举 ELF 文件中 JNI 方法的脚本， GitHub Repo： https://t.co/SohVJcmvSl"
+[ Android ]  Droid-ff: Android Fuzzing Framework: https://conference.hitb.org/hitbsecconf2016ams/materials/D1T3%20LABS%20-%20Anto%20Joseph%20-%20Droid-FF.pdf presentation by @ antojosep007 at @ HITBSecConf
+﻿" Droid-ff - Android Fuzz 框架，来自昨天 HITB 阿姆斯特丹会议的演讲： https://t.co/XNwQelf0TD  其他的几个已公告的议题 Slides： https://conference.hitb.org/hitbsecconf2016ams/materials/ "
+[ Android ]  [Slides] Perf: From Profiling to Kernel Exploiting http://goo.gl/OnRmQE #HITB2016AMS by @ wish_wu
+﻿" From Profiling to Kernel Exploiting，来自 wish_wu 在 HITB 2016 阿姆斯特丹会议的演讲： https://t.co/B4Szta4hvM "
+[ Android ]  Android AdWare Trying to Deceive the Analyst | Fortinet Blog http://ow.ly/DuLP300tC6V
+﻿" 一款叫做 Feiwo 的 Android 广告软件欺骗分析人员躲避检测，截至上周很多反病毒厂商仍不能检出： https://t.co/71JgiyHpDf"
+[ Android ]  Android Anti-Hooking Techniques in Java http://d3adend.org/blog/?p=589 ( by @ neilbergman )
+﻿" 在 Java 层探测 Substrate 或者 Xposed Hook 框架的存在： https://t.co/vqalHfZnPl "
+[ Android ]  LG Smartphones Affected by Two Severe Vulnerabilities http://ow.ly/6Rrr300Iz9J
+﻿" 在这两天的 LayerOne 安全会议上，来自 CheckPoint 的两位研究员直接公开了他们发现的两个 LG 手机的漏洞，之前并没有通知 LG 官方：  https://t.co/5qxFU76ROu"
+[ Android ]  Android 6.0 Marshmallow permission-granting model is under attack http://securityaffairs.co/wordpress/47865/malware/android-marshmallow.html
+﻿" 多个恶意软件作者盯上了 Android 6.0 版本的权限授予模型： https://t.co/WKIEJhXApt "
+[ Android ]  Interacting with Samsung radio layer from unprivileged applications http://roberto.greyhats.it/2016/05/samsung-access-rild.html (“stealth call” video: https://twitter.com/rpaleari/status/701780929791008768)
+﻿" 非特权 APP 滥用一个未公开漏洞，直接与 Radio 层交互，悄悄地拨打电话： https://t.co/6TzariA5MK   https://t.co/JeaDlWTn6M "
+[ Android ]  A reference guide that shows private notes of @ doriancussen about Android Security: https://github.com/doridori/Android-Security-Reference
+﻿" Android 安全概览手册，来自作者 doridori 的个人总结和资料收集 ︰ https://t.co/CE32XOxXH3"
+[ Android ]  Secure Containers in #Android: the Samsung KNOX Case Study https://arxiv.org/pdf/1605.08567v1.pdf
+﻿" 三星 KNOX 安全容器案例研究，来自以色列特拉维夫大学： https://t.co/HaZK4X70sY"
+[ Android ]  Our root team's observation of Android kernel defense: http://keenlab.tencent.com/en/2016/06/01/Emerging-Defense-in-Android-Kernel/ @ idl3r @ returnsme @ NWMonster
+﻿" Android 内核的防御新技术总结，来自科恩实验室 Blog︰ https://t.co/hZE2ZKuXHp  "
+[ Android ]  Android安全开发之Provider组件安全 - http://jaq.alibaba.com/community/art/show?spm=a313e.7916646.24000001.1.JVyUd2&articleid=352
+﻿"Android 安全开发之 Provider 组件安全，来自阿里聚安全团队： https://t.co/EpurkgpRU0"
+[ Android ]  安卓动态调试七种武器之长生剑 - Smali Instrumentation http://jaq.alibaba.com/community/art/show?articleid=339
+﻿"安卓动态调试七种武器之长生剑 - Smali Instrumentation，来自阿里聚安全团队： https://t.co/IqEeNTSIMl"
+[ Android ]  移动平台千王之王大揭秘 - http://blogs.360.cn/360mobile/2016/06/02/gamble_ecosystem_on_mobile/
+﻿"移动平台千王之王大揭秘，来自 360 烽火实验室： https://t.co/9wnGPD8EgA"
+[ Android ]  MopEye is a per-app network perf monitor for Android based on VpnService: https://play.google.com/store/apps/details?id=com.mopeye Short paper: https://daoyuan14.github.io/papers/CoNEXT15_Poster_MopEye.pdf
+﻿"MopEye - 一个基于 VPN 服务、用于监控 Android APP 网络活动的工具， 应用下载︰ https://t.co/KSv8fUgDTa  Paper︰ https://t.co/Bv7Q0QryCr"
+[ Android ]  Releasing JADE, android app static vulnerability analysis tool based on Soot and Scala https://github.com/flankerhqd/JADE
+﻿" JAADAS - Android 应用缺陷评估框架，作者为科恩实验室的 Flanker： https://t.co/r2Qd3xKzx4  "
+[ Android ]  Mobile malware uses API and legitimate, open source projects to bypass Android security http://symc.ly/24gu48R https://t.co/SEEy8P1H2t
+﻿" Android 木马利用从 GitHub 开源项目学到的技巧，绕过 Android 安全策略： https://t.co/KpxDSGXlf6 https://t.co/SEEy8P1H2t"
+[ Android ]  CVE-2016-2061 PoC: https://goo.gl/a3uR92 CVE-2016-2469 PoC: https://goo.gl/QPPri2 CVE-2016-2465 / 2489 PoC: https://goo.gl/jxWZCr
+﻿" 研究员 Scott Bauer 几个小时前公开了 Android 内核多个漏洞的 PoC， CVE-2016-2061： https://t.co/RuRH55JOSX   CVE-2016-2469： https://t.co/A4Kync14Lk   CVE-2016-2465/2489: https://t.co/GUCZQ9Vpr1"
+[ Android ]  Mobile Security News Update June 2016 https://www.mulliner.org/blog/blosxom.cgi/security/mobile_security_news_update_june2016.html #mobilesecurity
+﻿"移动安全动态（2016 年 6 月版），来自 Mulliner Blog： https://t.co/KZteEsCuYX "
+[ Android ]  Google patches Mediaserver, Qualcomm drivers, libwebm in #Android Security Bulletin https://threatpost.com/latest-android-security-bulletin-heavy-on-critical-qualcomm-flaws/118479/ via @ threatpost
+﻿" Android 发布 6 月份补丁更新，本次修复了 Mediaserver、高通驱动、libwebm 的共计 6 个严重漏洞，来自 ThreatPost 的报道： https://t.co/Z9CFbHIXGV   来自官方的公告： https://source.android.com/security/bulletin/2016-06-01.html  "
+[ Android ]  Short overview of Cryptolocker and Ransomware for Android http://forensics.spreitzenbarth.de/2016/06/06/overview-cryptolocker-and-ransomware/ https://t.co/FHNIflvAfN
+﻿" Android 平台 Cryptolocker 勒索软件概览： https://t.co/jgf78a1K34 https://t.co/FHNIflvAfN "
+[ Android ]  Android Malware Analysis http://resources.infosecinstitute.com/android-malware-analysis-2/
+﻿"动态静态结合的 Android 恶意软件分析，来自 InfoSec Blog： https://t.co/QOpN9SroJW"
+[ Android ]  Why does an Android keyboard need to see your camera, log files – and phone home to China? 50 million downloads http://m.theregister.co.uk/2016/06/07/android_keyboard_needs_to_see_camera_and_log_files/
+﻿" 为什么一个 Android 键盘 APP 还需要查看摄像头和日志文件，而且还发回数据到中国的服务器呢？ 来自 TheRegister 的报道：  https://t.co/TZovPly5P0"
+[ Android ]  Attacks and Defence on Android Free Floating Windows - https://dl.acm.org/citation.cfm?id=2897897
+﻿" Android 自由浮动窗口的攻击与防御，来自 ACM 数字实验室的 Paper： https://t.co/1Wmy53JTuB"
+[ Android ]  Interested to read this: Consumer-centric android application repackaging detection (http://www.sciencedirect.com/science/article/pii/S0167739X16301327) from @ lcavallaro
+﻿" 以消费者为中心的 Android 应用重打包(Repackaging)检测技术： https://t.co/GlejBWBr0F "
+[ Android ]  LG Now Has Its Own Security Bulletin Like Google And Samsung http://www.androidpolice.com/2016/06/10/lg-now-security-bulletin-like-google-samsung/ https://t.co/SimZJsTfLL
+﻿"像 Google 和三星一样，LG 也有自己的安全公告网站了： https://t.co/tunxVQuZ8T https://t.co/SimZJsTfLL"
+[ Android ]  Android /system/bin/sdcard Stack Buffer Overflow https://packetstormsecurity.com/files/137404/GS20160609225743.tgz
+﻿"Android /system/bin/sdcard 栈缓冲区溢出漏洞（CVE-2016-2494），来自 Project Zero Issue 798： https://bugs.chromium.org/p/project-zero/issues/detail?id=798 "
+[ Android ]  Disclosure of [CVE-2016-2468], OOB write in Qualcomm MSM GPU driver http://retme.net/index.php/2016/06/12/CVE-2016-2468.html
+﻿" 高通 MSM GPU 驱动越界写漏洞（CVE-2016-2468），来自 Retme 的 Blog： https://t.co/tsErCP79N3"
+[ Android ]  Security "Crypto" provider deprecated in Android N http://android-developers.blogspot.co.uk/2016/06/security-crypto-provider-deprecated-in.html
+﻿" Android N 将要废弃 SHA1PRNG 算法以及 Crypto Provider，来自官方 Blog： https://t.co/l2QejUMtOV "
+[ Android ]  [BLOG] Codeinspect: The all-in-one Platform for Android App Analysis http://forensics.spreitzenbarth.de/2016/06/12/codeinspect-the-all-in-one-platform-for-android-app-analysis/ by @ m_spreitz
+﻿" Codeinspect - Android APP 综合分析平台： https://t.co/8E6A75NZvh "
+[ Android ]  ProbeDroid - A dynamic binary instrumentation kit targeting on Android(Lollipop) 5.0 and above - https://github.com/ZSShen/ProbeDroid
+﻿"ProbeDroid - Android 动态二进制插桩工具，支持 5.0 及以上版本： https://t.co/pMEY2z5LbU "
+[ Android ]  JEB 2.2.5 is out with ARM 64 and MIPS Android debuggers - https://www.pnfsoftware.com/jeb2cl
+﻿"JEB 2.2.5 版本发布，加入对 ARM 64 和 MIPS 的调试支持：  https://t.co/d1PsriPJyA"
+[ Android ]  How to recover the orig. code of an Android app protected by AppSolid, tutorial and demo at https://www.pnfsoftware.com/blog/defeating-appsolid-android-protector/ https://t.co/oMoVTZ6SE3
+﻿" 还原 AppSolid 加固后的文件： https://t.co/VVSTni2CfQ  "
+[ Android ]  Just published a new blog post in the zero-to-TrustZone series: https://bits-please.blogspot.com/2016/06/trustzone-kernel-privilege-escalation.html Qualcomm TrustZone Kernel privilege escalation!
+﻿" 高通 TrustZone 内核提权漏洞的利用(CVE-2016-2431) ︰ https://t.co/rkCZOhcrwb "
+[ Android ]  McAfee Labs discovers app collusion threats, increasing growth in mobile malware http://zpr.io/Kvfm https://t.co/eUd53v8Qoc
+﻿" 一种称为 'APP 勾结' 的新威胁 - 两个 APP 勾结作案，一个负责收集信息，另一个负责外泄信息： https://t.co/P3SKoH0MDl   Trustlook 也有一篇 Blog 谈这个问题： http://blog.trustlook.com/2016/06/15/hijacked-mobile-app-collision/  "
+[ Android ]  Dalvik bytecode from tampering Principle and Implementation: http://drops.wooyun.org/mobile/16677 (Chinese) https://github.com/leonnewton/selfmodify
+﻿" Dalvik 字节码自篡改原理及实现 ︰ https://t.co/MSWISRGmvH   GitHub Repo： https://t.co/p6SpnxNYKy"
+[ Android ]  Nice! Google increased Android reward for bugs filed after 6.1! And thanks Google named me as the top researcher! https://security.googleblog.com/2016/06/one-year-of-android-security-rewards.html
+﻿" Google 对最近一年 Android 漏洞奖励计划的总结： https://t.co/4Yadh3VxVV"
+[ Android ]  Installing drozer on MacOSX El Capital - https://blog.ropnop.com/installing-drozer-on-os-x-el-capitan/ (There is a bug with pyOpenSSL)
+﻿"在 Mac OS X 系统安装 Drozer 工具： https://t.co/IUZlPWzenD  "
+[ Android ]  Strongdb is a new GDB plugin using ARM assembler of Keystone for #Android debugging! https://github.com/cx9527/strongdb https://t.co/m6h4QUkoKj
+﻿"Strongdb - 用于辅助调试 Android Native 的 GDB UI 插件，使调试 Native 程序时有更友好的界面：  https://t.co/G8W6UUcETR https://t.co/m6h4QUkoKj"
+[ Android ]  Upload some Android/Mac/iOS POCs, not well written but can take a look https://github.com/heisecode/Bug_POCs https://twitter.com/heisecode/status/743564423881601024
+﻿" 研究员 heisecode 公开了几个 iOS/Android 相关的漏洞 PoC： https://t.co/SEyuMcOmNF https://t.co/nc1kc48CrT"
+[ Android ]  Mobile malware variants have new capabilities to evade #Android security. https://threatpost.com/aggressive-triada-horde-variants-up-mobile-malware-threat/118767/ via @ threatpost
+﻿"手机恶意软件 Triada 和 Horde 的新变种可以逃逸 Android 安全策略，来自 ThreatPost 的报道： https://t.co/eLlfoPoOOR"
+[ Android ]  Anti-debugging Skills in APK - http://drops.wooyun.org/mobile/16969 (Chinese)
+﻿" APK 中的反调试技巧，来自乌云 Drops： https://t.co/aZBYyIf7qn "
+[ Android ]  Fingerprint Unlock Security: iOS vs. Google Android (Part II) http://blog.elcomsoft.com/2016/06/fingerprint-unlock-security-ios-vs-google-android-part-ii/
+﻿" iOS 和 Android 在指纹解锁安全性方面的对比（Part 2）： https://t.co/yDLedeG6h0"
+[ Android ]  Android Trojan "Hellfire" modified system binaries, boot image, init.rc, SE policy rules, dm_verify, etc. http://blogs.360.cn/360mobile/2016/06/21/analysis_of_diyuhuo/ (Chinese)
+﻿" '地狱火' 手机病毒 - 源自安卓系统底层的威胁，来自 360 移动安全团队： https://t.co/b9yTqoWeXY  "
+[ Android ]  New post: ‘GODLESS’ Mobile Malware Uses Multiple Exploits to Root Devices http://bit.ly/28N8Yih @ TrendMicro
+﻿" Android 恶意软件家族 Godless 利用多个 Exploits Root Android 设备，来自 TrendMicro Blog： https://t.co/Y2KYNItzvs "
+[ Android ]  Bandicoot - An Open-source Python Toolbox To Analyze Mobile Phone Metadata http://buff.ly/28L0W7f #metadata #phone https://t.co/RzkdirMoqT
+﻿" Bandicoot - 可视化分析手机应用元数据的一个开源工具套件： https://t.co/UYbsHOIPle   https://t.co/RzkdirMoqT"
+[ Android ]  Online analysis system for packed Android malware https://github.com/CvvT/AppTroy
+﻿" AppTroy - 加壳后的 Android 恶意软件在线分析工具，可以实现脱壳、反混淆、监控 API 调用： https://t.co/cZ4FQHxqZk "
+[ Android ]  An automated NFC fuzzing framework for Android devices. https://github.com/mit-ll/LL-Fuzzer
+﻿"LL-Fuzzer - Android 设备 NFC Fuzz 框架： https://t.co/8VxtRHPq7Z"
+[ Android ]  How to: Testing Android Application Security, Part 2 https://blogs.mcafee.com/mcafee-labs/testing-android-application-security-part-2/
+﻿" Android APP 安全性测试 Part 2，来自 McAfee Blog：  https://t.co/yopKit11e0"
+[ Android ]  Android Anti-Hooking techniques in Java - http://d3adend.org/blog/
+﻿"Android Anti-Hooking Techniques in Java： https://t.co/zokEn3xq2J"
+[ Android ]  android-n-preview-3 to android-n-preview-4 AOSP changelog - http://www.androidpolice.com/android_aosp_changelogs/android-n-preview-3-to-android-n-preview-4-AOSP-changelog.html
+﻿" Android-N-Preview 3 到 Android-N-Preview 4 版本的 Changelog： https://t.co/6Qsl3iMlwC"
+[ Android ]  Well, that didn't take long. Android apps no longer able to load non-NDK platform libraries http://android-developers.blogspot.co.uk/2016/06/android-changes-for-ndk-developers.html https://twitter.com/ikoz/status/719667103020802052
+﻿" Android NDK 开发的一些变化，如： Native Code 中不再能够调用私有 API： https://t.co/9HGUSQbk7w https://t.co/fmP7fHNq0t"
+[ Android ]  Google Play Hit with Rash of Auto-Rooting Malware https://threatpost.com/google-play-hit-with-rash-of-auto-rooting-malware/118938/
+﻿" Google Play 应用市场上潜伏的一款自动化 Root 型恶意软件 - LevelDropper，来自 ThreatPost 的报道： https://t.co/coDY0CE8CM"
+[ Android ]  Huawei Is the Best OEM at Applying Android Security Updates http://twib.in/l/aAE9kRp7Rx4A https://t.co/rukU8iZP44
+﻿" Duo Security 统计数据表明，在应用 Android 安全更新的及时性方面，华为是最优秀的 OEM 厂商： https://t.co/YmtRaP7eg1 https://t.co/rukU8iZP44"
+[ Android ]  New blog post: https://bits-please.blogspot.com/2016/06/extracting-qualcomms-keymaster-keys.html Extracting Qualcomm's KeyMaster Keys - Breaking Android Full Disk Encryption! https://t.co/fE5Bc6ndUJ
+﻿" 提取高通的 KeyMaster 密钥，破坏 Android 全盘加密︰ https://t.co/Ni9RdLWwIp https://t.co/fE5Bc6ndUJ  相关的代码： https://github.com/laginimaineb/ExtractKeyMaster  https://github.com/laginimaineb/android_fde_bruteforce "
+[ Android ]  Android security :) (Source) https://conference.hitb.org/hitbsecconf2016ams/materials/D1T2%20-%20Tim%20Xia%20-%20Adaptive%20Android%20Kernel%20Live%20Patching.pdf https://t.co/sXF0BMojyH
+﻿" 自适应地 Android 内核运行时 Patch 技术，来自百度 XLab 研究员在 HITB 会议的演讲： https://t.co/DlTyiZBkZi https://t.co/sXF0BMojyH"
+[ Android ]  The Latest Android Overlay Malware Spreading via SMS Phishing in Europe https://www.fireeye.com/blog/threat-research/2016/06/latest-android-overlay-malware-spreading-in-europe.html
+﻿"RuMMS - 通过短信传播的 Android 视图覆盖恶意软件，来自 FireEye Blog： https://t.co/7Py2UfTh1C"
+[ Android ]  Android.HummingBad was correlated w/ iOS.YiSpecter in authorship: http://blog.checkpoint.com/wp-content/uploads/2016/07/HummingBad-Research-report_FINAL-62916.pdf (investigation method may be inappropriate though)
+﻿"HummingBad Android 恶意软件研究报告，来自 CheckPoint: https://t.co/Z1d8vHjK0C "
+[ Android ]  All set for today's @hackinparis talk, DIFF-Droid, powered by @fridadotre @oleavr , pushing to github soon!! https://t.co/kCa7kjLgrV
+﻿"一个新的 Android 插桩框架 Diff-Droid：  http://www.slideshare.net/antojoseph007/diffdroidantojosephhip2016  GitHub Repo： https://github.com/antojoseph/diff-gui "
+[ Android ]  Android malware workshop slides: https://slides.com/paul38/ndh-2016-android-malware-analysis/live#/ #ndh2k16
+﻿"Android 恶意代码分析实践，来自 La Nuit du Hack 2016 会议︰ https://t.co/8zAHNtJY7M "
+[ Android ]  mosec2016 in shanghai "Advanced Android Root：How To Bypass PXN" slide https://github.com/jianqiangzhao/mosec2016
+﻿" Android Root 利用技术漫谈 - 绕过 PXN，来自 360 研究员在 MoSec 2016 会议的演讲： https://t.co/i2VtlP2G7c"
+[ Android ]  The slide and exploit of 《A Way of Breaking Chrome’s Sandbox in Android》in MoSec 2016 https://github.com/secmob/mosec2016
+﻿" 安卓 Chrome 沙箱逃逸的一种姿势，来自前两天龚广在 MoSec 2016 会议的演讲： https://t.co/NUsxbdWjpf"
+[ Android ]  The exploit for CVE-2016-2434 https://github.com/jianqiangzhao/CVE-2016-2434 Google has released the patch.
+﻿" Nexus9 NVIDIA 视频驱动的提权漏洞 PoC（CVE-2016-2434）： https://t.co/xqRyZnD099 "
+[ Android ]  Android Security July PoCs: CVE-2016-3797: http://goo.gl/Ts63GG 3794: http://goo.gl/3nLvzg 3813: http://goo.gl/VduZpw
+﻿"Android 7 月份的漏洞 PoC， CVE-2016-3797: https://t.co/Z5IPuJ9ESG  CVE-2016-3794: https://t.co/2nQ8ANttZH  CVE-2016-3813: https://t.co/FsJlr55V14  作者还公开了其他一些 PoC： https://github.com/ScottyBauer/Android_Kernel_CVE_POCs "
+[ Android ]  Breaking Into the KeyStore: A Practical Forgery Attack Against Android KeyStore http://eprint.iacr.org/2016/677
+﻿" 针对 Android 密钥库（KeyStore）的伪造攻击： https://t.co/86u65neEwY"
+[ Android ]  Five More Critical @ MediaTek Kernel Vuls Identified by @ C0RETeam: CVE-2016-3770~3774 (from Google's July Update https://source.android.com/security/bulletin/2016-07-01.html)
+﻿" Android 发布 7 月份补丁公告： https://t.co/WnVxAqsI0n  三星也发布了本月的漏洞公告： http://security.samsungmobile.com/smrupdate.html#SMR-JUL-2016 "
+[ Android ]  NCC Group's Justin Taft credited for Priv Esc Vuln in Graphics Driver (CVE-2016-2067) in all Android from CAF - https://www.codeaurora.org/privilege-escalation-vulnerability-graphics-driver-cve-2016-2067
+﻿" Android GPU 驱动的一个逻辑错误，导致只读内存映射成可读写内存(CVE-2016-2067)，漏洞公告： https://t.co/PsrBytF2mp"
+[ Android ]  Samsung Android JACK ASLR bypass and privilege escalation by p0 https://bugs.chromium.org/p/project-zero/issues/detail?id=795 https://bugs.chromium.org/p/project-zero/issues/detail?id=796
+﻿"三星 Android JACK 音频服务 ASLR Bypass，Project Zero Issue 795： https://t.co/jURJHlshSe   JACK 音频服务提权，Issue 796： https://t.co/hxlyHaFcvP"
+[ Android ]  Android N will ignore user added CA certs by default https://android-developers.blogspot.com/2016/07/changes-to-trusted-certificate.html
+﻿"Android 在处理可信 CA 方面的一些变化： https://t.co/r6uQ9LyucS"
+[ Android ]  Stop logging to the sd card! Addressing some common logging shenanigans: http://jeffvanderstoep.blogspot.com/2016/07/dont-log-to-sd-card.html
+﻿" 别再往 SD 卡上写日志︰ https://t.co/JJ29Iod9II"
+[ Android ]  Remote Code Execution in #Xiaomi MIUI Analytics: https://securityintelligence.com/remote-code-execution-in-xiaomi-miui-analytics/#.V35lKNLX4Mk.twitter @ roeehay @ depletionmode @ ibmsecurity
+﻿" 小米 MIUI 分析组件存在基于中间人的远程代码执行漏洞，来自 SecurityIntelligence Blog︰ https://t.co/T9S9qEdSbc  "
+[ Android ]  Cool attack. Hacking smartphones via voice commands hidden in YouTube videos https://www.helpnetsecurity.com/2016/07/11/hacking-smartphones-voice-commands/
+﻿" 通过 YouTube 视频中内嵌的语言命令黑掉智能手机： https://t.co/mksBpA5FTt "
+[ Android ]  Malicious #PokémonGo App Installs Backdoor on #Android Devices: https://threatpost.com/malicious-pokemon-go-app-installs-backdoor-on-android-devices/119174/ via @ threatpost
+﻿" 一个被篡改的、带后门的 Pokémon Go 游戏应用正在 Android 设备上传播： https://t.co/VdpNWKrPbz"
+[ Android ]  Security at your Fingertips. A dive into Marshmallow’s new fingerprint and keystore APIs https://droidcon.de/sites/global.droidcon.cod.newthinking.net/files/media/documents/Talk-%20Security%20at%20your%20Fingertips._0.pdf https://t.co/YPrZZn5Ul9
+﻿" Android Keystore 以及如何生成 APP 私有的密钥： https://t.co/y1sAqVgztY https://t.co/YPrZZn5Ul9 "
+[ Android ]  TaintDroid depth analysis http://drops.wooyun.org/mobile/17417 (Chinese)
+﻿" TaintDroid 深入剖析之启动篇，来自 WooYun Drops： https://t.co/H2CeA2CGZR "
+[ Android ]  Android N's Network Security Config ? to API 17 https://commonsware.com/blog/2016/07/11/backporting-android-n-network-security-configuration.html Nice work @ commonsguy
+﻿" 向后移植 Android N 的网络安全配置： https://t.co/NdjF13gbBr "
+[ Android ]  Understanding and Bypassing Reset Protection http://blog.elcomsoft.com/2016/05/understanding-and-bypassing-reset-protection/
+﻿"了解和绕过几个主流手机操作系统的出厂重置保护： https://t.co/un9LZ2GKCe"
+[ Android ]  Frog lets you access the official Android documentation from the command line. Neat ?https://github.com/anupcowkur/frog https://t.co/xGSYAdud7f
+﻿" Frog - 命令行格式的 Android 文档查看工具 https://t.co/M1NRcHKufl https://t.co/xGSYAdud7f"
+[ Android ]  Android WebView exploit vulnerabilities, limitations and End http://drops.wooyun.org/papers/17610 (Chinese)
+﻿" Android WebView 漏洞的利用、局限与终结，来自乌云 Drops： https://t.co/mV50tbSF21"
+[ Android ]  Very powerful and usable Android IPC firewall by @ Davidwuuuuuuuu presented at @ SummerC0n https://github.com/dxwu/AndroidBinder, also does GPS spoofing.
+﻿" AndroidBinder - Android 内核 IPC 防火墙： https://t.co/tRRz756yEY "
+[ Android ]  Introduction to debugging Android apps using AndBug http://resources.infosecinstitute.com/android-hacking-and-security-part-23-introduction-to-debugging-android-apps-using-andbug/
+﻿" 用 AndBug 逆向调试器调试 Android APP： https://t.co/kj5APC6HbE"
+[ Android ]  MADAM: Effective and Efficient Behavior-based Android Malware Detection and Prevention http://www.iet.unipi.it/g.dini/research/papers/2016-tdsc-ssdm-accepted.pdf
+﻿" MADAM - 基于行为的 Android 恶意软件检测技术，Paper： https://t.co/NZF2iFwuqB"
+[ Android ]  New in Android N: Strictly Enforced Verified Boot with Error Correction http://android-developers.blogspot.com/2016/07/strictly-enforced-verified-boot-with.html Thanks @ samitolvanen!
+﻿" Android 7.0 将启用带错误纠正的严格的启动过程验证： https://t.co/5LvbnxcHjn  "
+[ Android ]  @ Morpheus______ 's presentation slides on #ARM #TrustZone usage in #iOS and #Android #Boot - http://technologeeks.com/files/TrustZone.pdf https://t.co/T9PTFOpcRq
+﻿" iOS 和 Android 的启动链与 TrustZone： https://t.co/eLLQ0xQlQp https://t.co/T9PTFOpcRq  "
+[ Android ]  First post on our brand new blog: Samsung baseband RE tools release https://comsecuris.com/blog/posts/shannon
+﻿" 上个月推送过《Samsung 基带实现中的安全漏洞及利用》，这次作者把相关的逆向工具也开源了： https://t.co/NLAyDwJTAL  https://github.com/comsecuris/shannonRE "
+[ Android ]  APKiD published, tool for identifying Android Packers, obfuscators and other interesting features http://github.com/rednaga/APKiD
+﻿"APKiD - 加壳、加固、混淆 APK 样本的识别： https://t.co/nk64XVzAgX "
+[ Android ]  Technical analysis by @ anestisb for Android CVE-2016-0835 now available here: https://census-labs.com/news/2016/07/22/android-stagefright-impeg2d_dec_pic_data_thread-overflow/ #CENSUS_SA
+﻿" Android Stagefright impeg2d_dec_pic_data_thread 整数溢出漏洞（CVE-2016-0835）︰ https://t.co/PS38iOTp8T "
+[ Android ]  YADD - Yet another Android Dex bytecode Disassembler https://github.com/ZSShen/YADD by @ AndyZSShen
+﻿" YADD - Android Dex 字节码反编译工具： https://t.co/0inGgNKZqx "
+[ Android ]  Semi-Offline Attack on the Android Full-Disk Encryption : http://area41.io/downloads/slides/area41_16_kunz_semioffline_attack.pdf (Slides)
+﻿"针对 Android 全盘加密的半离线攻击︰ https://t.co/vhyVRMaJTo "
+[ Android ]  Details + PoC of Android stagefright CVE-2016-0836 (stack overflow in libmpeg2) by @ anestisb now available here: https://census-labs.com/news/2016/07/25/android-stagefright-impeg2d_vld_decode-stack-buffer-overflows/
+﻿" Android Stagefright impeg2d_vld_decode 栈缓冲区溢出漏洞（CVE-2016-0836）︰ https://t.co/vqnreB4c29"
+[ Android ]  Some Ideas about Fuzzing Android OMX Shared at #hitcon2016: http://hitcon.org/2016/CMT/slide/day2-r2-c-1.pdf @ Mingjian_Zhou @ C0RETeam
+﻿"Fuzzing Android OMX，来自 CoreTeam 研究员 Mingjian Zhou 在 HITCon 2016 会议的演讲︰ https://t.co/vri3ZQj3wJ "
+[ Android ]  Android Compiler Fingerprinting : http://hitcon.org/2016/CMT/slide/day1-r0-e-1.pdf (pdf) cc @ timstrazz || @ caleb_fenton https://t.co/KBV7zHXxBr
+﻿"Android 的编译器指纹，来自 HITCON 2016 会议︰ https://t.co/9ZaWJfoB9f  HITCON 2016 会议所有的 PPT： http://hitcon.org/2016/CMT/#hitcon_agenda "
+[ Android ]  Protecting Android with more Linux kernel defenses. Thank you kernel devs for your important work! http://android-developers.blogspot.com/2016/07/protecting-android-with-more-linux.html
+﻿" Android 将在底层启用更多的 Linux 内核防御措施，来自 Android 官方 Blog： https://t.co/3IAcfWncYZ"
+[ Android ]  The Android Open Pwn Project (and You) - https://www.pwnieexpress.com/blog/android-open-pwn-project
+﻿"Android 的分支项目 AOPP（网络安全）开源了：  https://t.co/NTrcv3cyTH  GitHub Repo： https://github.com/aopp "
+[ Android ]  Yet another Android side channel: input stealing for fun and profit https://www.lightbluetouchpaper.org/2016/07/29/yet-another-android-side-channel/
+﻿" 根据手势推测 Android 键盘输入的文本： https://t.co/YBFfcRF9sG"
+[ Android ]  "Detecting Pirated and Malicious Android Apps with APKiD" https://rednaga.github.io/2016/07/31/detecting_pirated_and_malicious_android_apps_with_apkid/ cc @ timstrazz || @ caleb_fenton https://t.co/tExjwqeBYh
+﻿" 用 APKiD 检测恶意/盗版 Android 应用程序： https://t.co/8DvB7F5ylW "
+[ Android ]  Reverse engineering and removing Pokémon GO’s certificate pinning https://eaton-works.com/2016/07/31/reverse-engineering-and-removing-pokemon-gos-certificate-pinning/
+﻿" 逆向以及移除 Pokémon GO 客户端的严格证书检查（Certificate Pinning）： https://t.co/qhycDyXtTM"
+[ Android ]  Linux Kernel Arbitrary Mem Write ID'ed by @ coreteam: CVE-2016-3857. All ARM machines w/ OABI support are vulnerable! https://source.android.com/security/bulletin/2016-08-01.html
+﻿" Android 官方发布了 8 月份的漏洞公告： https://t.co/SruS0vOCei"
+[ Android ]  #Andevcon slide set on #Android #security: http://technologeeks.com/files/AnSec2.0.pdf. Also:q.v. http://Technologeeks.com/AIRE for #Training! https://t.co/3hZLr24umo
+﻿" Android 安全概览: https://t.co/kGGUhSt81g "
+[ Android ]  Adaptive Kernel Live Patching: An OpenCollaborative Effort toAmeliorate AndroidN-day Root Exploits : https://www.blackhat.com/docs/us-16/materials/us-16-Zhang-Adaptive-Kernel-Live-Patching-An-Open-Collaborative-Effort-To-Ameliorate-Android-N-Day-Root-Exploits.pdf #BlackHat2016
+﻿" 自适应内核实时 Patch 技术 - 针对 Android NDay Root Exploits 的解决方案，来自 BlackHat 会议︰ https://t.co/hYSi3l4ljS "
+[ Android ]  Courier scam prods victims to download malicious app. Here's the report: http://bit.ly/2aCMrlP
+﻿" 2016 年第一季度，很多新加坡用户收到快递诈骗电话，他们被诱导下载恶意 APP，来自趋势科技的分析︰ https://t.co/qx2kCOrmSI"
+[ Android ]  BHUSA16 - OAuth Demystified for Mobile Application Developers [PDF] https://www.blackhat.com/docs/us-16/materials/us-16-Tian-1000-Ways-To-Die-In-Mobile-OAuth-wp.pdf [SLIDES] https://www.blackhat.com/docs/us-16/materials/us-16-Tian-1000-Ways-To-Die-In-Mobile-OAuth.pdf
+﻿"手机 OAuth 认证中的 1000 种死法，来自 BlackHat 会议的演讲， Paper：  https://t.co/lNHR5HF95S    PPT： https://t.co/GNSnCqy1Py"
+[ Android ]  CVE-2016-6526 Possible Privilege Escalation in telecom of Samsung Mobile… http://goo.gl/fb/If2rAr #FullDisclosure
+﻿"三星手机通讯 APP 可能存在的两个提取漏洞，来自 FullDisclosure 的公告，CVE-2016-6526： http://seclists.org/fulldisclosure/2016/Aug/33   CVE-2016-6527： http://seclists.org/fulldisclosure/2016/Aug/34 "
+[ Android ]  Android Reverse Engineering Tools https://hackerlists.com/android-reverse-engineering-tools/
+﻿" 25 个常用的 Android 逆向工具： https://t.co/s3iKg1k6X4"
+[ Android ]  CuckooDroid – Automated Android Malware Analysis http://www.darknet.org.uk/2016/08/cuckoodroid-automated-android-malware-analysis/
+﻿"CuckooDroid - Android 恶意软件自动化分析框架： https://t.co/oX1ZTcT3i5"
+[ Android ]  If you're curious about my keynote at #WOOT16, check out the slides here: https://www.usenix.org/conference/woot16/workshop-program/presentation/drake
+﻿" Joshua J. Drake 在 WOOT16 会议关于 Stagefright 漏洞利用的演讲︰ https://t.co/kEkcoXkUGR"
+[ Android ]  Disclosure of CVE-2016-3842,Use-after-free vulnerability in Qualcomm MSM GPU driver http://retme.net/index.php/2016/08/11/cve-2016-3842.html
+﻿" 高通 MSM GPU 驱动的一个 UAF 漏洞（CVE-2016-3842）： https://t.co/uVcyS1BLxk"
+[ Android ]  RetroScope - Public release of the RetroScope Android memory forensics framework https://github.com/ProjectRetroScope/RetroScope
+﻿"RetroScope - Android 内存取证框架，GitHub Repo： https://t.co/US52BDo7G4 "
+[ Android ]  OWAS Hacking Playground - Android application with common vulnerabilities - https://github.com/OWASP/OMTG-Hacking-Playground
+﻿" OWAS Hacking Playground - Android 漏洞学习、练习工具： https://t.co/5icZQhtZze"
+[ Android ]  Dumb question...how is the ashmem bug supposed to lead to privilege escalation? Does the mapped mem contain objects? https://www.codeaurora.org/invalid-path-check-ashmem-memory-file-cve-2016-5340
+﻿" 匿名共享内存（ashmem）中的路径检查不正确导致的提权漏洞（CVE-2016-5340），影响 Android MSM、FirefoxOS MSM 版本： https://t.co/VQUaNtINQz"
+[ Android ]  Smartphone Antivirus and Security Applications Under Fire - https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEFCON-24-Huber-Rasthofer-Smartphone-Antivirus-And-Security-Applications-Under-Fire.pdf via @ trufae
+﻿" 《How to do it Wrong: Smartphone Antivirus and Security Applications Under Fire》，智能手机反病毒软件自身的安全问题，来自 DefCon 会议： https://t.co/2g7rBx2mWG"
+[ Android ]  Fuzzing Android Devices - https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEFCON-24-Anto-Joseph-Fuzzing-Android-Devices.pdf via @ trufae
+﻿" Fuzzing Android Devices，来自 DefCon 会议： https://t.co/KtTBSWohZ6"
+[ Android ]  Android Security: Welcome To Shell (Permissions) http://doridori.github.io/Android-Security-welcome-to-shell/ #androiddev
+﻿" Welcome To Shell，Android APP 启动的 Shell 与 ADB 启动的 Shell 权限一样吗： https://t.co/XEHSFOlS3p "
+[ Android ]  Bypassing SSL Pinning in Android Applications https://serializethoughts.com/2016/08/18/bypassing-ssl-pinning-in-android-applications/
+﻿" 以 Facebook Messenger 为例介绍如何绕过 Android App 的 SSL Pinning 检查： https://t.co/Cj4tXv4ddi"
+[ Android ]  My new blog "Deep Analysis of CVE-2016-3820 - Remote Code Execution Vulnerability in Android Mediaserver" https://blog.fortinet.com/2016/08/17/deep-analysis-of-cve-2016-3820-remote-code-execution-vulnerability-in-android-mediaserver
+﻿" Android Mediaserver CVE-2016-3820 远程代码执行漏洞深度分析，来自 Fortinet Blog：  https://t.co/fxZTLQSOTR"
+[ Android ]  Just finished "Understanding Dalvik Static Fields part 2 of 2" - http://buff.ly/2bxJHs7 https://t.co/IFluXfrqnp
+﻿" 理解 Dalvik 的类静态字段 Part 2： https://t.co/h5igBX0vcJ "
+[ Android ]  http://www.slideshare.net/ZongShenShen/probedroid-crafting-your-own-dynamic-instrument-tool-on-android-for-app-behavior-exploration The design memo and hack note about ProbeDroid instrument toy
+﻿" ProbeDroid - 构建自己的 Android 动态插桩工具： http://www.slideshare.net/ZongShenShen/probedroid-crafting-your-own-dynamic-instrument-tool-on-android-for-app-behavior-exploration "
+[ Android ]  How I Hacked an Android App to Get Free Beer - https://breakdev.org/how-i-hacked-an-android-app-to-get-free-beer/
+﻿"我是如何黑掉 Android App 赢得免费啤酒的： https://t.co/wyxXG1xwlB"
+[ Android ]  Hardening Measures in Android N Cripple System Utility and Security Applications https://code.google.com/p/android/issues/detail?id=205565
+﻿" Android N SELinux 策略将限制对 /、/proc、/sys 路径的访问： https://t.co/Hdf7lSqLpQ "
+[ Android ]  My slides from the Linux security summit: http://events.linuxfoundation.org/sites/events/files/slides/Android-%20protecting%20the%20kernel.pdf
+﻿" Linux 安全峰会的一篇演讲《Android: protecting the kernel》︰ https://t.co/OqXgIpOXw6"
+[ Android ]  国内自有内核手机浏览器安全情况分析 - http://appscan.360.cn/blog/?p=76
+﻿"国内自有内核手机浏览器安全情况分析： https://t.co/3cuahWHDp8"
+[ Android ]  Another Qualcomm kernel buffer overflow not included in the August security update: https://www.codeaurora.org/buffer-overflow-vulnerability-wcnsswlanwrite-cve-2016-5342. Including this for 5X/6P too.
+﻿" 高通的内核缓冲区溢出漏洞（CVE-2016-5342）︰  https://www.codeaurora.org/buffer-overflow-vulnerability-wcnsswlanwrite-cve-2016-5342 "
+[ Android ]  For an unspecified reason, Google switched all the Nexus factory image files to ZIP (instead of TGZ) today. http://droidsec.org/nexus updated!
+﻿" 不知道什么原因， Google 将出厂时的 Nexus 镜像文件切换至 ZIP 格式，不再采用 TGZ： https://t.co/HLnhoN3CiX  "
+[ Android ]  How Trojans manipulate Google Play https://securelist.com/blog/research/75894/how-trojans-manipulate-google-play/
+﻿"Android 木马是如何调戏 Google Play 的： https://t.co/p91Q4JBUfP"
+[ Android ]  Undocumented Patched Vulnerability in Nexus 5X Allowed for Memory Dumping Via USB - https://securityintelligence.com/undocumented-patched-vulnerability-in-nexus-5x-allowed-for-memory-dumping-via-usb/ by @ roeehay
+﻿" Nexus 5X 最近修复了一个未公开的漏洞，利用该漏洞可以通过 USB Dump 内存： https://t.co/JJ53SprO2c"
+[ Android ]  We are also publishing our intern's Android lib code matching plugin for JEB, https://www.pnfsoftware.com/blog/jeb-library-code-matching-for-android/ @ UncleCat8 https://t.co/1NvM0zv1AD
+﻿" JEB 发布 2.2.8 版本： https://www.pnfsoftware.com/blog/jeb-library-code-matching-for-android/ "
+[ Android ]  Build an Android Penetration Testing lab http://www.hackingarticles.in/build-android-penetration-testing-lab/
+﻿" Android 渗透测试实验环境搭建： https://t.co/RPX9voDL1g"
+[ Android ]  This SafetyNet presentation from Android Security bootcamp is worth a read http://static.googleusercontent.com/media/source.android.com/en//security/reports/Android-Bootcamp-2016-SafetyNet.pdf https://t.co/eIeAoak73E
+﻿" Android 2016 安全训练营关于 SafetyNet 的一篇演讲： https://t.co/bkdUabp5hD "
+[ Android ]  Harvesting Inconsistent Security Configurations in Custom Android ROMs via Differential Analysis - [PDF] https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_aafer.pdf
+﻿" 通过差分分析的方法分析 Android 定制化带来的安全问题： https://t.co/NkUNyWg2y3"
+[ Android ]  Android Sep' update https://source.android.com/security/bulletin/2016-09-01.html: 3 RCE (libutils, mediaserver) 34 LPE 7 Infoleak: (w/ mediaserver!) 10 DoS PATCH NOW! Oh wait...
+﻿"Android 发布 9 月份补丁公告： https://source.android.com/security/bulletin/2016-09-01.html "
+[ Android ]  The Exif vulnerability doesn't impact Android Nougat because Google already replaced that native library with Java: https://android.googlesource.com/platform/frameworks/base/+/bf24c9fcb3e66b25c90c0cd51f8bf4f401f6c3d6.
+﻿"Exif 的漏洞不会再影响 Android Nougat 版本，因为 Google 已经用 Java 代码替换了原来的 Native 代码︰ https://t.co/ffxp1WFwNG "
+[ Android ]  There was an issue of libjhead crash on Android: https://code.google.com/p/android/issues/detail?id=207230 No idea whether it's related with CVE-2016-3862 @ timstrazz
+﻿" Android libjhead 的一个 Crash，不确定是不是和 CVE-2016-3862 有关︰ https://t.co/bIDb26KWVy "
+[ Android ]  Android Accessibility Security Report http://blogs.360.cn/360mobile/2016/09/07/research_of_accessibility/ (Chinese)
+﻿" Android Accessibility 安全性研究报告，来自 360 移动安全团队： https://t.co/RAK84BquXa "
+[ Android ]  @ ScottyBauer1 @ sagikedmi @ fisher_the_cell I put the poc of cve-2016-3866 in github https://github.com/jiayy/android_vuln_poc-exp cause it had been disclosed
+﻿" Android CVE-2016-3866 的 PoC： https://t.co/0f1NEUrWqx "
+[ Android ]  #KCON 2016 Attack Android App's Third Library by dragonltx & quhe https://github.com/knownsec/KCon/raw/master/2016/%5BKCon%202016%5D0827_7_dragonltx_quhe_Attack%20Android%20App's%20Third%20Library.pdf
+﻿" 攻击 Android APP 的第三方库，来自 KCon 2016 会议： https://t.co/1XXZkUFj34 "
+[ Android ]  #KCON 2016 Binder Fuzz based on drozer by 行之 @ 0xr0ot https://github.com/knownsec/KCon/raw/master/2016/%5BKCon%202016%5D0827_8_%E8%A1%8C%E4%B9%8B_Binder%20Fuzz%20based%20on%20drozer.pdf
+﻿"基于 drozer 的 Android Binder Fuzz，来自 KCon 2016 会议： https://t.co/8j6JNunqNY   KCon 2016 会议所有的 PPT： https://github.com/knownsec/KCon/tree/master/2016 "
+[ Android ]  Project Zero blog: "Return to libstagefright: exploiting libutils on Android" by Mark Brand - http://goo.gl/OYU1Ll
+﻿" Return to libstagefright: exploiting libutils on Android，来自 Project Zero：  https://t.co/rFZOsRq8mj"
+[ Android ]  Banking Trojan, Gugi, evolves to bypass Android 6 protection https://securelist.com/blog/mobile/75971/banking-trojan-gugi-evolves-to-bypass-android-6-protection/
+﻿"银行木马 Gugi 可绕过 Android 6 新加的两种安全保护特性： https://t.co/AmqzmfLXyH"
+[ Android ]  APK Signature Scheme v2 - Android 7.0 https://source.android.com/security/apksigning/v2.html
+﻿" Android 7.0 版本新引入的 APK 签名方案： https://t.co/uu2I1FbUbn"
+[ Android ]  Android Security Analysis: Final Report https://www.mitre.org/sites/default/files/publications/pr-16-0202-android-security-analysis-final-report.pdf
+﻿" 来自 MITRE 的 Android 安全性分析报告： https://t.co/nQsBurojLn"
+[ Android ]  Android Bootcamp 2016. "Defense in depth efforts" presentation (header may not be correct) http://static.googleusercontent.com/media/source.android.com/en//security/reports/Android-Bootcamp-2016-Defense-in-depth-efforts.pdf https://t.co/1AIOpRlSrC
+﻿"Android Exploit 深度防御的现在和未来，来自 Android 训练营会议： https://t.co/m8aASk3HpF "
+[ Android ]  Official documentation about Android 7's file-based encryption (FBE) https://source.android.com/security/encryption/file-based.html
+﻿" Android 7 基于文件的加密 (FBE) 特性的文档： https://t.co/o7nOFC8wZw "
+[ Android ]  Samsung Android Security Updates for September: http://security.samsungmobile.com/smrupdate.html#SMR-SEP-2016
+﻿" 三星发布 9 月份的 Android 漏洞公告︰ https://t.co/DpP12N0h8B"
+[ Android ]  Interesting and very detailed survey about the ELF based #Android #malware http://www.cmcm.com/blog/en/security/2016-09-07/1027.html
+﻿" Android ELF 病毒调查报告： https://t.co/hTFABMIVW4"
+[ Android ]  How to: Testing Android Application Security, Part 3 https://blogs.mcafee.com/mcafee-labs/testing-android-application-security-part-3/
+﻿"如何测试 Android APP 的安全性 Part 3， 来自 McAfee Blog： https://t.co/ykbmb8fQFM"
+[ Android ]  A simple bug in Wickr Android I disclosed in 2014 - https://marcograss.github.io/security/android/bug/2016/09/10/a-2014-wickr-bug.html
+﻿" marcograss 发现的一个 Android Wickr 消息通信 APP 的敏感信息泄露漏洞： https://t.co/k5EhioeBqq"
+[ Android ]  #Unit42 looks into #DualToy: a new Windows #trojan that sideloads risky apps to Android & iOS devices http://bit.ly/2bYzj8Y
+﻿" DualToy - 通过 USB 连接向 Android/iOS 推送高风险 APP 的木马： https://t.co/NVgzfRoBBL"
+[ Android ]  If you want free Android kernel 0days, just track Qualcomm's QuIC disclosures. They drop a couple every month: https://www.codeaurora.org/multiple-memory-corruption-issues-write-operation-qdsp6v2-voice-service-driver-cve-2016-5343
+﻿"Multiple memory corruption issues in write operation in QDSP6v2 Voice Service driver (CVE-2016-5343)，想获得 Android 0Day 就一直关注高通的漏洞披露就好了︰ https://t.co/WZckma9D3B"
+[ Android ]  移动APP漏洞自动化检测平台建设 https://security.tencent.com/index.php/blog/msg/109
+前言：本文是《移动APP客户端安全笔记》系列原创文章中的第一篇，主要讲的是企业移动APP自动化漏洞检测平台建设，移动APP漏洞检测发展史与前沿技术，APP漏洞检测工具与平台，以及笔者的一些思考。希望能对移动App自动化漏洞检测感兴趣的同学有所帮助，限于笔者技术水平与文章篇幅，有些内容暂没有逐一详细分析，后续我争取多学习多分享，在此也欢迎大家指点和交流。
+submit cancel
+[ Android ]  Reverse Engineering Xiaomi’s Analytics app. https less remote code execution in all devices https://www.thijsbroenink.com/2016/09/xiaomis-analytics-app-reverse-engineered/ by @ thijs_br
+﻿" 小米预装 APP AnalyticsCore 的逆向分析： https://t.co/KP2T9eOxqg "
+[ Android ]  Run Android 6.0 Marshmallow on Your PC With Android-x86 6.0 : http://www.android-x86.org/releases/releasenote-6-0-r1
+﻿" 在 PC 机上的 Android x86 6.0 模拟器中运行 Android 6.0 Marshmallow 版本：  https://t.co/J0dtIZbstX"
+[ Android ]  Android 第三方库检测及其在安全方面的应用 ： https://loccs.sjtu.edu.cn//gossip/blog/2016/09/18/2016-09-18/
+[ Android ]  Android Banking Trojan First to Gain Root Privileges https://threatpost.com/android-banking-trojan-first-to-gain-root-privileges/120707/
+﻿" 利用 Exploit 获取 Root 权限的 Android 银行木马： https://t.co/EABSFerZeJ  来自卡巴斯基的技术分析： https://securelist.com/blog/mobile/76101/the-banker-that-can-steal-anything/ "
+[ Android ]  Great Android Security article. @ AndroidTamer thanks for sharing! https://androidtamer.com/learn_android_security
+﻿" Learn Android Security，关于 Android 安全的文章集锦： https://t.co/l9Lei3WA1r"
+[ Android ]  Blender: Self-randomizing Address Space Layout for Android Apps，Paper： https://loccs.sjtu.edu.cn//gossip/blog/2016/09/20/2016-09-20/ 针对 Android 5.x 版本 ASLR 机制的安全性，本文介绍了一种新的攻击方式：return-to-art (ret2art)，并且针对这种方式提出了相应的解决方案
+[ Android ]  Android 热修复技术选型 - 三大流派解析： http://weibo.com/ttarticle/p/show?id=2309404017932874165265
+[ Android ]  Android 虚拟机调试器原理与实现： http://www.freebuf.com/articles/terminal/114869.html
+[ Android ]  Tinker - 腾讯开源的一个 Android Hot-Fix 库： https://github.com/Tencent/tinker
+[ Android ]  avmdbg - 轻量级的 Android 虚拟机调试器： https://github.com/cheetahsec/avmdbg
+[ Android ]  TaintART -通过修改编译器(dex2oat)来实现数据流分析的系统： http://securitygossip.com/blog/2016/09/27/2016-09-27/
+[ Android ]  QQ 浏览器（Wormable Browser） 漏洞报告： http://blog.pangu.io/wormable-browser/
+[ Android ]  Android - libutils UTF16 to UTF8 conversion heap-buffer-overflow https://bugs.chromium.org/p/project-zero/issues/detail?id=840
+﻿" Android libutils 库 UTF16 到 UTF8 转换过程中的一个堆溢出漏洞（CVE-2016-3861），来自 Project Zero Issue 840： https://t.co/mpT7AqbwgF"
+[ Android ]  Android 漏洞 CVE-2015-3825 分析及 exploit 实战：从 Crash 到劫持 PC： http://www.freebuf.com/vuls/115352.html
+[ Android ]  How to View TLS Traffic in Android’s Logs https://blog.securityevaluators.com/how-to-view-tls-traffic-in-androids-logs-6a42ca7a6e55#.bs4czxifs
+﻿"如何在 Android 日志中查看 TLS 流量： https://t.co/zYLbSc18yS"
+[ Android ]  Android October Security Bulletin http://source.android.com/security/bulletin/2016-10-01.html #CyberAware #security #Android
+﻿" Android 发布 10 月份漏洞公告： https://t.co/4csXbaIkVa "
+[ Android ]  Android PoCs for October bulletin: CVE-2015-0572 CVE-2016-3902 CVE-2016-3928 CVE-2016-3936 CVE-2016-3937 http://goo.gl/rLBRVp
+﻿" 10 月份修复的 Android 漏洞的 PoC（CVE-2015-0572 CVE-2016-3902 CVE-2016-3928 CVE-2016-3936 CVE-2016-3937）： https://t.co/L1Nnx6hVt8"
+[ Android ]  KNOXout - Bypassing Samsung KNOX - https://media.wix.com/ugd/4e84e6_668d564cc447434a9a8fda3c13a63f6a.pdf
+﻿"KNOXout - Bypassing Samsung KNOX： https://t.co/nLxUnfNR2U"
+[ Android ]  Android full-disk encryption: a security assessment from Oliver Kunz https://www.royalholloway.ac.uk/isg/documents/pdf/technicalreports/2016/rhul-isg-2016-8-oliver-kunz.pdf < Excellent and up to date FDE doc (PDF)
+﻿" 评估 Android 的全盘加密特性，Paper： https://t.co/tnNS9kY4xi "
+[ Android ]  PoC for CVE-2016-3931:QSEE driver out of bounds write, duplicate bug with dosomder. https://github.com/huntcve/exploit/blob/master/CVE-2016-3931.c
+﻿" Android QSEE 驱动越界写漏洞 PoC（CVE-2016-3931）： https://t.co/gNVmNHQwGn"
+[ Android ]  Crashing Android phones via large GPS-xtra files https://wwws.nightwatchcybersecurity.com/2016/10/04/advisory-cve-2016-5348-2/
+﻿" 通过 A-GPS 数据大文件使 Android 设备崩溃： https://t.co/GtyW3ng0a1"
+[ Android ]  Suhide updated to bypass SafetyNet update - http://forum.xda-developers.com/showpost.php?p=69021494&postcount=1592 https://t.co/vv8wEvo9Sl
+﻿"Suhide 工具更新，增加对 SafetyNet 检测的绕过： https://t.co/XIsqtFrXxw https://t.co/vv8wEvo9Sl"
+[ Android ]  Qark - Android app (apk) static code analyzer. via @ sempf https://github.com/linkedin/qark
+﻿" Qark - LinkedIn 开源的一个 Android APK 静态代码分析工具： https://t.co/P9g8CHAQ0M"
+[ Android ]  通过内存 Dump 的方式脱壳百度加固： http://blog.trustlook.com/2016/10/06/how-to-unpack-baidu-protect-through-memory-dumping/
+[ Android ]  Broadcom Wi-Fi 驱动提权漏洞分析： http://mp.weixin.qq.com/s?__biz=MzAwNTI1NDI3MQ==&mid=2649611864&idx=1&sn=c3ab4e1de4609de05b742c4ae1c42fa3&chksm=83060348b4718a5e819a7dd6e8f3f75202894feeaa4e967ecf4bc74378e7739adf2de7ddffb2&mpshare=1&scene=1&srcid=10105oQQBybtxmbCqrEnsS8Z#rd
+[ Android ]  Android 系统新权限模型剖析与预警：http://blogs.360.cn/360mobile/2016/10/11/android_new_permission_model/
+[ Android ]  不会对 Android 设备的 CPU 进行锁频？看这个就够了: https://testerhome.com/topics/4658
+[ Android ]  Android PoCs for October bulletin: cve-2016-3901 cve-2016-3935 cve-2016-3940 cve-2016-6672 cve-2016-6690 https://github.com/jiayy/android_vuln_poc-exp
+﻿"Android 10 月公布的漏洞 PoC： CVE-2016-3901、CVE-2016-3935、CVE-2016-3940、CVE-2016-6672、cve-2016-6690： https://github.com/jiayy/android_vuln_poc-exp "
+[ Android ]  Our slides for CVE-2015-1805 exploit & Samsung Knox(S6 ver.) bypassing at MOSEC2016, is now available. https://speakerdeck.com/retme7/talk-is-cheap-show-me-the-code @ keen_lab
+﻿" CVE-2015-1805 exploit & Samsung Knox Bypass，来自科恩实验室申迪在 MoSec2016 会议的演讲： https://t.co/IdkI60Cx49 "
+[ Android ]  Leftover Factory Debugger Doubles as Android Backdoor: https://threatpost.com/leftover-factory-debugger-doubles-as-android-backdoor/121302/ via @ threatpost
+﻿" 富士康生产的 Android 固件中遗留的工厂调试器被认为是后门： https://t.co/mP19NUfNs1"
+[ Android ]  Kwetza : Allows infecting an existing Android application w/ Meterpreter payload : https://github.com/sensepost/kwetza ,Details: https://sensepost.com/blog/2016/kwetza-infecting-android-applications/
+﻿"Kwetza - 在已有 APK 的情况下，注入 Meterpreter Payload 的工具︰ https://t.co/ZwemsvEMJj   技术细节︰ https://t.co/CNTHCse71w"
+[ Android ]  Hack any Android Phone using Spade APK Backdoor http://www.hackingarticles.in/hack-android-phone-using-spade-apk-backdoor/
+﻿"Spade APK -- 可用于 hack 安卓手机： http://www.hackingarticles.in/hack-android-phone-using-spade-apk-backdoor/"
+[ Android ]  CVE-2016-3918：电子邮件信息泄露漏洞分析： http://bobao.360.cn/learning/detail/3107.html
+[ Android ]  对某 APP 加固的一次分析： http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458280163&idx=1&sn=cfccb6297b0272c50153ce82db635ccc&chksm=b181506986f6d97f441e94ab4953e6d8ed4a7f14dfc4d6e21a5f2c7d29806daa6750b7031f17&mpshare=1&scene=1&srcid=1017pkBPxItUB5JhnF7aanvL#rd
+[ Android ]  How to: Testing Android Application Security, Part 4 https://blogs.mcafee.com/mcafee-labs/patching-android-binary/
+﻿"来自 McAfee Blog 的系列文章《如何测试 Android APP 的安全性》，Part 4：  https://t.co/ALWpJUqVpG  之前的三部分：Part 3 : https://blogs.mcafee.com/mcafee-labs/testing-android-application-security-part-3   Part 2: https://blogs.mcafee.com/mcafee-labs/testing-android-application-security-part-2   Part 1: https://blogs.mcafee.com/mcafee-labs/testing-android-application-security-part-1 "
+[ Android ]  Targeting Android for OTA Exploitation http://contextis.com/resources/blog/targeting-android-ota-exploitation/
+﻿" 攻击 Android OTA（空中下载）技术： https://t.co/p9Xi4eGobj"
+[ Android ]  Android 7.1 feature spotlight: Tapping the security patch date loads the security bulletin...… https://t.co/8XXQ8PfdF7
+﻿"Android 从 7.1 版本开始，将在'关于'界面增加对补丁版本的标识： https://t.co/8XXQ8PfdF7"
+[ Android ]  TCP over sound on Android : https://github.com/quiet/org.quietmodem.Quiet
+﻿" 在 Android 上通过扬声器传输 TCP 数据报文︰ https://t.co/YrYl3P0W8e"
+[ Android ]  DirtyCow CVE-2016-5195: Android PoC: https://github.com/timwr/CVE-2016-5195
+﻿"DirtyCow 漏洞（CVE-2016-5195） Android 版本的 PoC:  https://t.co/iGmrrAeoOe"
+[ Android ]  Android hacking, SW and HW : https://www.thanassis.space/android.html
+﻿" Hacking Asus MemoPad Android 平板电脑（软件和硬件）︰ https://t.co/k8ikJbCLbG"
+[ Android ]  Sultanxda Bypasses new SafetyNet unlocked Bootloader check http://www.xda-developers.com/sultanxda-bypasses-new-safetynet-unlocked-bootloader-check-on-latest-cm13-builds-for-op3/ https://t.co/l4TbIQccsU
+﻿" Bypass SafetyNet 解锁后的 Bootloader 检查： https://t.co/QlmTg6ukeL https://t.co/l4TbIQccsU"
+[ Android ]  Android Escape compilation technology - http://blogs.360.cn/360mobile/2016/10/24/android_escape/ (Chinese)
+﻿" Android逃逸技术汇编： https://t.co/rppWIJjEAv "
+[ Android ]  #Rowhammer vulnerability comes to #Android - http://bit.ly/2enXxOV
+﻿" 利用 Rowhammer 漏洞在 Android 系统上实现 Root 提权，来自 Threatpost 的报道： https://t.co/ZoFFYKdkhU ;  技术细节： https://www.vusec.net/projects/drammer/ ; https://vvdveen.com/publications/drammer.pdf ; https://github.com/vusec/drammer "
+[ Android ]  DRAMMER - Deterministic Rowhammer privilege escalation on Android https://www.vusec.net/projects/drammer/
+﻿"Drammer: flip feng shui gose mobileflip： https://t.co/f8FYlzbzsW "
+[ Android ]  阿里聚安全扫描器之本地拒绝服务检测详解： http://weibo.com/ttarticle/p/show?id=2309404034118919805689
+[ Android ]  Here’s the apk from @vvdveen/@vu5ec for testing #android for #Drammer attack. Presentation coming up at #ccs16.... https://t.co/vP3vaS0gTg
+﻿" 用于测试 Android Drammer 攻击的 APK 样本： https://t.co/vP3vaS0gTg "
+[ Android ]  通杀所有系统的漏洞? - 聊一聊Drammer，Android上的RowHammer攻击： http://weibo.com/ttarticle/p/show?id=2309404034511389214467
+[ Android ]  Forensic Analysis of the ChatSecure Instant Messaging Application on Android Smartphones : https://arxiv.org/pdf/1610.06721v1.pdf (pdf)
+﻿"Android ChatSecure 即时通信应用的取证分析︰ https://t.co/nRHq375Chr "
+[ Android ]  Android 逆向随笔之遇见 MultiDex： http://drops.wiki/index.php/2016/10/26/android-multidex/
+[ Android ]  Android开启USB调试可以做到什么程度的攻击： http://bobao.360.cn/learning/detail/3130.html
+[ Android ]  Root is now available for the Google Pixel and Pixel XL: Here's what we've discovered http://www.xda-developers.com/root-is-now-available-for-the-google-pixel-and-pixel-xl/ https://t.co/Yrp6iOtj39
+﻿" Google Pixel 和 Pixel XL 智能机的 Root 工具出现了： https://t.co/zrx20h1xQu https://t.co/Yrp6iOtj39"
+[ Android ]  安卓Stagefright高危漏洞分析学习总结： http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458280387&idx=1&sn=f0873e2fbdf92605fd0da791eb8028cc&chksm=b181514986f6d85f0598ba8f301ee3267f6ed97d2b31413c848b97148cabc491f13c1f3d4e90&mpshare=1&scene=23&srcid=1101iVXH0aYuHbljjv96xVaQ#rd
+[ Android ]  一种 Android 系统中断时序分析旁路攻击方法： https://loccs.sjtu.edu.cn//gossip/blog/2016/10/31/2016-10-31/
+[ Android ]  New post: Security Update Patches 13 Android Vulnerabilities Discovered by Trend Micro http://bit.ly/2ehZewA @ TrendMicro
+﻿"Trend Micro 回顾了由自家发现的值得关注的13个 Android 漏洞： https://t.co/4IiI5760z9"
+[ Android ]  Belkin’s WeMo Gear Can Hack Android Phones: https://threatpost.com/belkins-wemo-gear-can-hack-android-phones/121730/ via @ threatpost
+﻿" Belkin 办公自动化系统 WeMo 存在漏洞，攻击者可以控制家庭自动化设备： https://t.co/UCVCHOhSLj"
+[ Android ]  Android线上Bug热修复分析 ： http://mp.weixin.qq.com/s?__biz=MzA3MjgwNDIzNQ==&mid=2651939553&idx=1&sn=70337aa12319dbb01ba974c1bf30405f&chksm=84fd7005b38af913108a09ff581464a657935bb241682cf7f9618bfb5566ba80b9cf6e3b8938&scene=0#wechat_redirect
+[ Android ]  Nathan Android Emulator for mobile security testing has been released: https://github.com/mseclab/nathan Ready for hooking and mobile app testing
+﻿"一个可用于移动安全测试的 Android 模拟器︰ https://t.co/RKFdAkNgqO "
+[ Android ]  MicroG Project: A re-implementation of Google's Android apps and libraries : https://microg.org/?=
+﻿"MicroG Project -- Android 应用程序及其库的再实现︰ https://t.co/XSS7aPagMG"
+[ Android ]  Android ADB 调试支持套件的用法总结： https://github.com/mzlogin/awesome-adb
+[ Android ]  逆向修改 Android 内核绕过反调试： http://www.whitecell-club.org/?p=1442
+[ Android ]  Source code of #HelDroid, the #Android #Ransomware analysis tool I presented at @BlackHatEvents yesterday morning: https://t.co/tNDYAcQICr
+﻿"HelDroid -- 一个用于分析 Android 恶意软件的工具︰ https://t.co/tNDYAcQICr"
+[ Android ]  申迪在 BlackHat EU 会议的演讲《Rooting Every Android From Extension To Exploitation》 PPT：https://speakerdeck.com/retme7/rooting-every-android-from-extension-to-exploitation
+[ Android ]  Mara 手机应用逆向分析框架： https://github.com/xtiankisutsa/MARA_Framework
+[ Android ]  [CVE-2016-6716] Elevation of privilege vulnerability in Android Launcher [RU] http://blog.blackfan.ru/2016/11/android-launcher-vuln.html
+﻿" Android Launcher 的一个提权漏洞（CVE-2016-6716）： https://t.co/N12Hm6VsyS"
+[ Android ]  Android Security Bulletin CVE-2016-6699 Remote code execution vulnerability in Mediaserver https://source.android.com/security/bulletin/2016-11-01.html again...
+﻿"Android 发布 11 月份安全公告： https://source.android.com/security/bulletin/2016-11-01.html"
+[ Android ]  Andriod 重打包检测框架 WuKong: https://loccs.sjtu.edu.cn//gossip/blog/2016/11/07/2016-11-07/
+[ Android ]  Android 7.1 feature spotlight: A closer look at seamless updates, partition changes, and new fastboot commands… https://t.co/fK1t8v6aAD
+﻿"Android 7.1 特性介绍： http://www.androidpolice.com/2016/11/07/android-7-1-feature-spotlight-a-closer-look-at-seamless-updates-partition-changes-and-new-fastboot-commands/"
+[ Android ]  Disassembling a Mobile Trojan Attack https://securelist.com/blog/research/76286/disassembling-a-mobile-trojan-attack/
+﻿" 卡巴斯基对一次手机木马攻击的剖析： https://t.co/0G7zshwQ70"
+[ Android ]  Crashing Android devices with large Proxy Auto Config (PAC) Files [CVE-2016… https://goo.gl/fb/CMfoo6 #FullDisclosure
+﻿"使用大的 PAC 文件导致 Android 设备崩溃： https://t.co/18b9dUjNqi "
+[ Android ]  Install Kali Linux on Android Phone http://www.kalitut.com/2015/11/install-kali-linux-on-android-phone.html #android #kalilinux #Linux https://t.co/LgpZiN9KQr
+﻿"在 Android 手机上安装 Kali Linux： http://www.kalitut.com/2015/11/install-kali-linux-on-android-phone.html"
+[ Android ]  See our Android N pwning video of #MP2O 2016. Affect all major phones (e.g. Pixel, Nexus), bugs disclosed and fixed. https://youtu.be/zcVsyA4Imys
+﻿"Mobile Pwn2Own 2016 上攻破 Android N 的 DEMO 视频，来自腾讯科恩实验室： https://t.co/7MyfTJ9Zzv"
+[ Android ]  OpenGApps launches its own app for quick and easy Google Apps package downloads [APK Download]… https://t.co/h7kyt3ivwS
+﻿"OpenGApps 发布了自己的 APP： https://t.co/h7kyt3ivwS"
+[ Android ]  安卓Stagefright高危漏洞分析学习总结： http://bbs.pediy.com/showthread.php?p=1450064#post1450064
+[ Android ]  Nathan：Android安全测试模拟器： http://www.mottoin.com/91660.html
+[ Android ]  Pwning the Pixel remotely using the Mobile Pwn2Own 2016 bugs @ keen_lab https://youtu.be/ip7FsZpuHT4 (maybe first in the world?)
+﻿"Pwning Nougat 7.1 on Pixel，来自腾讯科恩实验室（video）： https://t.co/fH73UiQaRj"
+[ Android ]  Tool to reverse engineer your app online to get API tokens and Secrets https://android.fallible.co/
+﻿"一个在线检测 Android app 密钥的工具： https://t.co/61tO5qX6LG"
+[ Android ]  Interesting new details and great analysis on Google's SafetyNet attestation by @ ikoz: http://koz.io/inside-safetynet-3/
+﻿"SafetyNet: Google's tamper detection for Android part 3： https://t.co/yVB9BtAzyT"
+[ Android ]  New Reliable Android Kernel Root Exploitation Techniques - http://powerofcommunity.net/poc2016/x82.pdf
+﻿"新 Android 内核 Root 漏洞利用技术： https://t.co/dpk5UTT4kH"
+[ Android ]  NJAS Sandboxing Unmodified Applications in Non-rooted Devices Running Stock Android，这篇文章提出了一种不修改系统，不需要ROOT，不重打包来制造一个沙盒的工具–NJAS(Not Just Another Sandbox)： https://loccs.sjtu.edu.cn//gossip/blog/2016/11/15/2016-11-15/
+[ Android ]  apk-deguard 在线APK反混淆工具，理论上ProGurad 混淆的代码 80% 都可以恢复出来： http://www.apk-deguard.com/
+[ Android ]  Hardening Android for Security And Privacy : https://blog.torproject.org/blog/mission-improbable-hardening-android-security-and-privacy
+﻿"加固安卓系统的安全性和隐私性︰ https://t.co/F0rZKkRQqh"
+[ Android ]  Nice to see that Intel uses Capstone disassembler in their Android Runtime (ART) extension for #Android #Nougat https://t.co/88c87P8pv8
+﻿" Intel 公司为 Android Nougat 提供了 ART-Extension ： https://t.co/88c87P8pv8"
+[ Android ]  HackingTeam back for your Androids, now extra insecure ! : http://rednaga.io/2016/11/14/hackingteam_back_for_your_androids/ cc @ timstrazz || @ caleb_fenton… https://twitter.com/i/web/status/799194038930849793
+﻿"HackingTeam 再次瞄准 Android 设备 : https://t.co/UMMcb9BCN1"
+[ Android ]  EdgeMiner: Automatically Detecting Implicit Control Flow Transitions Through the Android Framework，作者提出一种静态的分析工具EdgeMiner。它能够通过分析整个android框架，寻找框架中描述隐式控制流的注册函数和回调函数对： https://loccs.sjtu.edu.cn//gossip/blog/2016/11/17/2016-11-17/
+[ Android ]  Powerful backdoor/rootkit found preinstalled on 3 million Android phones http://arstechnica.com/?p=997125
+﻿"预装在 300 万 Android 手机上的后门： https://t.co/XnFroaSM1f"
+[ Android ]  Ragentek Android over-the-air update mechanism vulnerable to Man-in-the-Middle attack https://goo.gl/PV753w
+﻿"Ragentek Android over-the-air 机制存在中间人攻击漏洞： https://t.co/PfXgPJyxVn"
+[ Android ]  Androguard – Reverse Engineering & Malware Analysis For Android http://www.darknet.org.uk/2016/11/androguard-reverse-engineering-malware-analysis-for-android/
+﻿"Androguard -- 一款用于 Android 恶意软件分析及逆向的工具： https://t.co/wHm3PMIGLs"
+[ Android ]  Hack Android Phone using HTA Attack with QR Code http://www.hackingarticles.in/hack-android-phone-using-hta-attack-qr-code/
+﻿"Hack Android Phone using HTA Attack with QR Code： https://t.co/l9nkI7l0y4 "
+[ Android ]  Android malware analysis with Radare: Dissecting the Triada Trojan https://www.nowsecure.com/blog/2016/11/21/android-malware-analysis-radare-triada-trojan/
+﻿"使用 Radare 对 Android 恶意软件进行分析： https://t.co/rZdVeds8or"
+[ Android ]  另一家中国公司被发现在Android固件中植入后门： http://www.solidot.org/story?sid=50435
+[ Android ]  I wrote up some thoughts on what I view as the limitations of Android N's new device encryption: https://t.co/MSma9g8gPP
+﻿" Android N 加密的局限性︰ https://t.co/MSma9g8gPP"
+[ Android ]  Fuzzing Android：挖掘Android系统组件组件中的漏洞： http://bobao.360.cn/learning/detail/3213.html
+[ Android ]  两个 Android 漏洞（cve-2016-6700，cve-2016-6702） PoC： https://github.com/ele7enxxh/poc-exp
+[ Android ]  Android Studio 2.3 Canary 2 is now available. Read all about the changes here: https://goo.gl/hpg3ja
+﻿" Android Studio 2.3 Canary 2 发布︰ https://t.co/YGRTNeqwnB"
+[ Android ]  1 million Google accounts compromised by Android malware called Gooligan http://arstechnica.com/security/2016/11/1-million-android-accounts-compromised-by-android-malware-called-gooligan/
+﻿"Android 恶意软件 Gooligan 盗取了 100 万个用户的谷歌帐户： https://t.co/DRelYNDupo"
+[ Android ]  Chapter excerpt on Boot and Init from #Andevcon lecture earlier today - http://newandroidbook.com/temp/AI-boot.pdf (from #Android… https://t.co/1RXCqKiPGq
+﻿"《Android Internals: A Confectioner's Cookbook》，讲解 Android 框架、原生库、内核的一本书，链接中的内容主要是此书的 Boot Loader 部分： http://newandroidbook.com/temp/AI-boot.pdf  "
+[ Android ]  一个目录穿越引发的注入及后续——XG SDK漏洞回顾与思考： http://www.ms509.com/?p=474
+[ Android ]  Just published a new blog post! Using Android's ashmem to escalate privileges from any context. As always, exploits… https://twitter.com/i/web/status/804373455189766144
+﻿"BitUnmap: 攻击 Android 匿名共享内存（Ashmem） ： https://googleprojectzero.blogspot.com/2016/12/bitunmap-attacking-android-ashmem.html"
+[ Android ]  Analysis of multiple vulnerabilities in AirDroid https://shar.es/18cttj by @ evilsocket
+﻿" Android AirDroid 的多个漏洞分析： https://t.co/TpoNIvyhmz "
+[ Android ]  内网穿透：Android木马进入高级攻击阶段： http://www.freebuf.com/articles/terminal/121634.html
+[ Android ]  Android - IOMXNodeInstance::enableNativeBuffers unchecked index https://bugs.chromium.org/p/project-zero/issues/detail?id=932
+﻿"Android - IOMXNodeInstance::enableNativeBuffers unchecked index（CVE-2016-6706）： https://t.co/Rc71sUqM3G"
+[ Android ]  HackingTeam's Android implant analysis: http://rednaga.io/2016/11/14/hackingteam_back_for_your_androids/ by @ RedNagaSec
+﻿"HackingTeam 的 Android 后门组件分析： https://t.co/zsRISOUnUB"
+[ Android ]  December Android Security Bulletin: https://source.android.com/security/bulletin/2016-12-01.html. It's also the stable release of 7.1.1, which is the first Nexus 7.1.x release.
+﻿"Android 12 月安全公告, DirtyCow 漏洞被修复︰ https://t.co/uEQ0IcVugo"
+[ Android ]  科恩实验室 Retme 公开了他在 BlackHat Europe 会议的演讲 PPT 《Rooting Every Android From Extension To Exploitation (slides) 》，主要介绍 Android WEXT 的攻击界面以及 3 个 Root Exploits 的细节： https://speakerdeck.com/retme7/rooting-every-android-from-extension-to-exploitation
+[ Android ]  趋势科技的一篇 Blog，谈利用 Dirty Cow 漏洞攻击 Android： http://blog.trendmicro.com/trendlabs-security-intelligence/new-flavor-dirty-cow-attack-discovered-patched/
+[ Android ]  Android逆向与病毒分析，本文由同程旅游安全团队对内移动安全培训的PPT整理而来，面向对象为对移动安全感兴趣的研发同事： http://mp.weixin.qq.com/s?__biz=MzI4MzI4MDg1NA==&mid=2247483766&idx=1&sn=556e4013ecf61057dc3f3ef75c5d31e0&chksm=eb8c55cfdcfbdcd9f7e78824778887b491929509f38210c93db973a306ffdcce5637d23f5cca&mpshare=1&scene=1&srcid=1206iFN4fygpyaOXHbuTI6Hl#rd
+[ Android ]  Digging into ADUPS FOTA data collection details，Trustlook 团队对上海广升 FOTA（Firmware Over-The-Air）用户数据采集功能的分析： http://blog.trustlook.com/2016/12/12/digging-into-adups-fota-data-collection-details/
+[ Android ]  CVE-2016-6771： Android 语音信箱伪造漏洞分析： https://security.tencent.com/index.php/blog/msg/110
+[ Android ]  利用同步回调机制攻击Android的系统服务和系统应用： https://www.inforsec.org/wp/?p=1593#more-1593
+[ Android ]  Infected firmware spotted in well-known low-cost Android devices http://securityaffairs.co/wordpress/54360/malware/low-cost-android-devices.html
+﻿"Doctor Web的专家发现了有新的木马‘入驻’ Android 智能手机及其平板电脑的固件中： https://t.co/vFIGWmwNha "
+[ Android ]  backdoor-apk : a shell script that simplifies the process of adding a backdoor to any Android APK file : https://github.com/dana-at-cp/backdoor-apk
+﻿"backdoor-apk -- 一个 shell 脚本，使用它可简化向 Android APK 添加后门的过程︰ https://t.co/JyLD0VoxT8"
+[ Android ]  Details of Elevation of privilege vulnerability in libziparchive (CVE-2016-6762) http://ele7enxxh.com/Details-Of-Elevation-Of-Privilege-Vulnerability-In-Libziparchive-CVE-2016-6762.html https://github.com/ele7enxxh/poc-exp/tree/master/CVE-2016-6762
+﻿"libziparchive 提权漏洞细节 (CVE-2016-6762) ： https://t.co/Cbks1VOIwe https://t.co/3GhnyRbLIZ "
+[ Android ]  Our #ndss2017 paper on Android malware detection is available here http://ow.ly/piT0307h8o4
+﻿"通过建立行为模型的 Markov 链来检测 Android 恶意软件（Paper）： https://t.co/VTCm8k1WSU"
+[ Android ]  Android - Stack overflow in WifiNative::setHotlist https://bugs.chromium.org/p/project-zero/issues/detail?id=958
+﻿"Android  WifiNative::setHotlist 栈溢出 poc（CVE-2016-6772 ）： https://t.co/9Cwxjq9xTp"
+[ Android ]  针对 Android 平台上 Web code 的细粒度访问控制： http://securitygossip.com/blog/2016/12/20/2016-12-20/
+[ Android ]  SuperSU v2.79-SR1 released https://plus.google.com/+Chainfire/posts/WrCvex7KAZR
+﻿"SuperSU v2.79 更新说明： https://t.co/6mMr4IaRv0"
+[ Android ]  Android get_user/put_user Exploit https://cxsecurity.com/issue/WLB-2016120148
+﻿"Android get_user/put_user Exp（CVE-2013-6282）： https://t.co/yHP0fqDcq3"
+[ Android ]  三星 TrustZone tlc_server LOAD_TUI_RESOURCE command 堆溢出漏洞 ： https://bugs.chromium.org/p/project-zero/issues/detail?id=957
+[ Android ]  罗升阳（老罗的 Android之旅）自己搭建了一个网站开始连载《Android系统源码情景分析》： http://0xcc0xcd.com/p/index.php
+[ Android ]  [local] - Android - get_user/put_user Exploit (Metasploit) https://www.exploit-db.com/exploits/40975/
+﻿"Android  get_user/put_user 内核提权 MSF Exp （CVE-2013-6282）： https://t.co/DWccZY6HjB"
+[ Android ]  Article: "Lobotomy v2.0.0 Overview" http://rotlogix.com/2017/01/02/lobotomy-v2-0-0/
+﻿"Lobotomy v2.0.0 基于命令行的 Android 逆向工具发布： https://t.co/bzjGQ7c2j4"
+[ Android ]  TIMA Arbitrary Kernel Module Verification Bypass https://bugs.chromium.org/p/project-zero/issues/detail?id=960
+﻿"Android TrustZone TIMA 任意内核模块认证绕过： https://t.co/XkHvqtO2Nc"
+[ Android ]  Latest Android Security Bulletin: https://source.android.com/security/bulletin/2017-01-01.html
+﻿"Google 发布 Android 2017 年 1 月安全公告︰ https://t.co/q07nkLMUSw"
+[ Android ]  深入理解Android系列书籍资源分享： http://blog.csdn.net/innost/article/details/43342087
+[ Android ]  Official, stable URLs for latest ADB &amp; Fastboot, compiled by Google. No more XDAForums. You're welcome. /cc @jduck https://t.co/0tsaK4wt5D
+﻿"最新版 ADB 及 Fastboot 下载 ： https://t.co/0tsaK4wt5D"
+[ Android ]  Samsung Android Security Updates - January 2017 http://security.samsungmobile.com/smrupdate.html
+﻿"Samsung Android 2017 年 1 月安全更新： https://t.co/Cm6MO7lIeE"
+[ Android ]  Stack buffer overflow in OTP TrustZone trustlet https://bugs.chromium.org/p/project-zero/issues/detail?id=938
+﻿"OTP TrustZone trustlet 堆缓冲区溢出： https://t.co/Oi717EcJXA "
+[ Android ]  Android: Kernel memory corruption via unchecked pointer in tzic_ioctl https://bugs.chromium.org/p/project-zero/issues/detail?id=962
+﻿"Android tzic_ioctl 中未检查的指针导致内核内存破坏： https://t.co/yEFkeH9caV"
+[ Android ]  Android: Kernel information disclosure in "maxdsm_read" https://bugs.chromium.org/p/project-zero/issues/detail?id=964
+﻿"Android Maxdsm_read 函数导致内核信息泄漏漏洞： https://t.co/fX20mZdaUz "
+[ Android ]  Android: Race condition in max86902 driver sysfs interfaces https://bugs.chromium.org/p/project-zero/issues/detail?id=963
+﻿"Android max86902 驱动 sysfs 接口中存在条件竞争漏洞： https://t.co/Oo51njq8fh"
+[ Android ]  CVE-2016-8467: Attacking Nexus 6 & 6P Custom Bootmodes @ MichaelGoberman @ IBMSecurity #netsec https://securityintelligence.com/android-vulnerabilities-attacking-nexus-6-and-6p-custom-boot-modes/
+﻿"攻击 Nexus 6 和 6P 自定义启动模式（CVE-2016-8467）： https://t.co/JlabuxdcOz"
+[ Android ]  Trusted Execution Environments: Slides: http://asokan.org/asokan/Padova2014/tutorial-mobileplatsec.pdf Video Part 1: https://www.youtube.com/watch?v=PFjh-IeUJMI Video Part 2: https://t.co/lS29h8zxF5
+﻿"Trusted Execution Environments（Slides)︰ https://t.co/zsqrpIWxjQ Video 1： https://t.co/eEHpcP1N68 Video 2： https://t.co/lS29h8zxF5"
+[ Android ]  Android - IOMXNodeInstance::enableNativeBuffers unchecked index https://bugs.chromium.org/p/project-zero/issues/detail?id=932
+﻿"Android  IOMXNodeInstance::enableNativeBuffers 未检查索引： https://t.co/tOlo4i11xD"
+[ Android ]  Derestricted a fun vuln yesterday; bypassing the TrustZone-enforced kernel module verification. https://bugs.chromium.org/p/project-zero/issues/detail?id=960
+﻿"TrustZone TIMA 任意内核模块认证绕过： https://t.co/6wzCrGajH4"
+[ Android ]  Android 设备管理组件 AirDroid 存在多个漏洞： https://labs.mwrinfosecurity.com/advisories/airdroid-multiple-vulnerabilities/
+[ Android ]  Solving an #Android #Crackme with a Little Symbolic Execution http://www.vantagepoint.sg/blog/81-solving-an-android-crackme-with-a-little-symbolic-execution
+﻿"利用符号执行解决 Android Crackme： https://t.co/l5RmlSW13m "
+[ Android ]  Hooking #Android System Calls for Pleasure and Benefit http://goo.gl/tTyBGN https://t.co/kOevQoVlY6
+﻿"Hooking Android 系统调用： https://t.co/mnOKSkBkwM "
+[ Android ]  New post: Practical Android Debugging Via KGDB http://blog.trendmicro.com/trendlabs-security-intelligence/practical-android-debugging-via-kgdb/ @ TrendMicro
+﻿"通过 KGDB 进行 Android 内核调试： https://t.co/31bt5YFqJD"
+[ Android ]  Android SensorHub ssp_batch_ioctl 的一个越界写漏洞： https://bugs.chromium.org/p/project-zero/issues/detail?id=966
+[ Android ]  Samsung Mobile January 2017 Security Updates: http://security.samsungmobile.com/smrupdate.html#SMR-JAN-2017
+﻿"Samsung Android 2 月安全更新︰ https://t.co/nNK1MSn2mj"
+[ Android ]  Android TSP sysfs "cmd_store" 多处溢出漏洞： https://bugs.chromium.org/p/project-zero/issues/detail?id=967
+[ Android ]  Android: "fps" sysfs entry 缓冲区溢出漏洞： https://bugs.chromium.org/p/project-zero/issues/detail?id=969
+[ Android ]  Android sec_ts touchscreen sysfs 接口存在一个条件竞争漏洞： https://bugs.chromium.org/p/project-zero/issues/detail?id=968
+[ Android ]  Hash Suite Droid (Hash Suite for Android). Free and Open Source. http://hashsuite.openwall.net/android
+﻿"Hash Suite for Android： https://t.co/iDcWe1Qg8C"
+[ Android ]  Running Android Tests on cloud devices with Jenkins CI and @Firebase @awscloud @Genymotion #AndroidDev https://t.co/wFybpoPDAy
+﻿"使用 Jenkins CI 在云设备上进行 Android 测试： https://t.co/wFybpoPDAy "
+[ Android ]  装了这个主题包，就被拿system shell?： https://zhuanlan.zhihu.com/p/24983092?refer=c_34192763
+[ Android ]  Exploit for CVE-2016-5342 https://github.com/freener/exploits/tree/master/CVE-2016-5342. After I finished the exploit, I found it was reported by @ chiachih_wu and patched. :(
+﻿" Android CVE-2016-5342 Exploit： https://t.co/njEEneD4pZ "
+[ Android ]  Derestricted a fun vuln yesterday; bypassing the TrustZone-enforced kernel module verification. https://bugs.chromium.org/p/project-zero/issues/detail?id=960
+﻿"Samsung: TIMA 任意内核模块验证绕过，来自 Project Zero： https://t.co/6wzCrGajH4"
+[ Android ]  Android: KASLR bypass in "pm_qos" https://bugs.chromium.org/p/project-zero/issues/detail?id=971
+﻿" Samsung: KASLR bypass in "pm_qos"： https://t.co/NPSthDjmPp"
+[ Android ]  An Analysis of the Privacy and Security Risks of Android VPN Permission-enabled Apps : https://research.csiro.au/ng/wp-content/uploads/sites/106/2016/08/paper-1.pdf (pdf)
+﻿"Android 平台拥有 VPN 权限的 APP 对隐私和安全性带来的影响分析，Paper︰ https://t.co/x6Z5VPbZNi "
+[ Android ]  Tracking Android Security Updates across devices : Call for data : https://androidtamer.com/tracking-android-security-update-across-devices/ : Please RT and please contribute.
+﻿"Android Tamer - 跟踪各个 Android 厂商手机的补丁更新状态︰ https://t.co/BOvqqQPalb "
+[ Android ]  Android: RKP EL1 Code Loading Bypass https://bugs.chromium.org/p/project-zero/issues/detail?id=981
+﻿"三星 Android RKP 相关的三个漏洞： https://bugs.chromium.org/p/project-zero/issues/detail?id=980 https://bugs.chromium.org/p/project-zero/issues/detail?id=981 https://bugs.chromium.org/p/project-zero/issues/detail?id=982"
+[ Android ]  Android: RKP Memory Corruption via "rkp_set_init_page_ro" https://bugs.chromium.org/p/project-zero/issues/detail?id=984
+﻿" Samsung: RKP Memory Corruption via "rkp_set_init_page_ro"： https://t.co/GNjYcLFazY"
+[ Android ]  Unlocking The Screen Of An LG Android Smartphone With AT Modem Commands http://www.forensicfocus.com/News/article/sid=2830/
+﻿" 通过发送 AT 调制解调器命令，解锁 LG Android 手机屏幕： https://t.co/kHeXvdAbCF"
+[ Android ]  Samsung: Stack buffer overflow in OTP TrustZone trustlet https://bugs.chromium.org/p/project-zero/issues/detail?id=938
+﻿"Samsung: Stack buffer overflow in OTP TrustZone trustlet： https://t.co/Oi717EcJXA"
+[ Android ]  Deep Analysis of Android Rootnik Malware Using Advanced Anti-Debug and Anti-Hook: https://blog.fortinet.com/2017/01/24/deep-analysis-of-android-rootnik-malware-using-advanced-anti-debug-and-anti-hook-part-i-debugging-in-the-scope-of-native-layer https://blog.fortinet.com/2017/01/24/deep-analysis-of-android-rootnik-malware-using-advanced-anti-debug-and-anti-hook-part-ii-analysis-of-the-scope-of-java
+[ Android ]  Android Security Bulletin February 2017 http://source.android.com/security/bulletin/2017-02-01.html
+﻿"Android 安全公告 - 2017 年 2 月： https://t.co/DYYpvC5GgJ"
+[ Android ]  深度分析使用高级反调试和反hook的Android Rootnik Malware，Part II：分析JAVA层： http://paper.seebug.org/209/
+[ Android ]  Project Zero blog: "Lifting the (Hyper) Visor: Bypassing Samsung’s Real-Time Kernel Protection" by @ laginimaineb - https://googleprojectzero.blogspot.com/2017/02/lifting-hyper-visor-bypassing-samsungs.html
+﻿"Android 系统利用 Verified Boot Chain 来保证启动过程中内核组件加载的完整性，三星在此基础上引入了 Real-Time Kernel Protection（RKP）保护机制，用于保证内核运行时状态的完整性。这篇 Blog 介绍 Project Zero 研究员对 RKP 机制的研究，包括 RKP 是如何实现的以及如何绕过它的防护： https://t.co/v4yfXVNG9e"
+[ Android ]  Android-Debug-Database : A library for debugging android databases and shared preferences - Make Debugging Great : https://github.com/amitshekhariitbhu/Android-Debug-Database
+﻿"Android Debug Database︰ 用于调试 android 应用数据库的工具︰ https://t.co/BQ8V5jHqBl"
+[ Android ]  Android免Root环境下Hook框架Legend原理分析： https://zhuanlan.zhihu.com/p/25200724?refer=android-sec
+[ Android ]  Android: Inter-process munmap in android.util.MemoryIntArray： https://bugs.chromium.org/p/project-zero/issues/detail?id=1001
+[ Android ]  ISC 2016安全训练营－安卓app逆向与安全防护 PPT： https://github.com/feicong/android-app-sec/blob/master/2016%E5%AE%89%E5%85%A8%E8%AE%AD%E7%BB%83%E8%90%A5.pptx.zip
+[ Android ]  浅入浅出 Android 安全 （四） Android 框架层安全： http://mp.weixin.qq.com/s/zxjTH_qEFNr3G24KWLGCyw
+[ Android ]  Android源代码的下载和编译技巧，以及如何处理中间过程出现的错误： http://0xcc0xcd.com/p/videos/download-and-compile-aosp.php
+[ Android ]  Android 源代码情景分析法，了解罗老师是怎么分析 Android 源代码（视频）： http://0xcc0xcd.com/p/videos/analyse-aosp.php
+[ Android ]  Android 渗透测试学习手册（一）Android 安全入门： http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458282048&idx=1&sn=e17505bda5734a97e869cca787020dd7&chksm=b18158ca86f6d1dccf4b2ccbd204a4660f40faf3dfaddf23edb77396700c3031ca4555c4b3ad&mpshare=1&scene=23&srcid=0222mKdkJ0TL8RWGqF2p9Jao#rd
+[ Android ]  ESET paper on the evolution of Android ransomware is a good read. http://www.welivesecurity.com/wp-content/uploads/2017/02/ESET_Trends_2017_in_Android_Ransomware.pdf
+﻿"Android 勒索软件的的演变： https://t.co/CYII96rg3l"
+[ Android ]  Hacking an Android phone. How deep the rabbit hole goes: https://medium.com/@ kayrus/hacking-android-phone-how-deep-the-rabbit-hole-goes-18b62ad65727
+﻿" Hacking Android phone - 兔子洞能有多深？︰ https://t.co/7i9VSuY0AR"
+[ Android ]  Security analysis of popular Android password managers https://team-sik.org/trent_portfolio/password-manager-apps/
+﻿"多款 Android 密码管理 APP 的安全性分析： https://t.co/e0ykM4b7xO "
+[ Android ]  Exploiting Android S-Boot: Getting Arbitrary Code Execution in the Samsung Bootloader (part 1) http://hexdetective.blogspot.com/2017/02/exploiting-android-s-boot-getting.html
+﻿"攻击 Android Secure Bootloader ︰ 在 Samsung Bootloader 上获取任意代码执行（part 1 ）： https://t.co/NwvsCq9eos"
+[ Android ]  Now with working instructions for unlock/flashing. Also bootlaoder key combinations for Nexus/Pixels https://t.co/RDtI3901ky
+﻿"Android 官方给出的一些手机型号的刷机指引： https://t.co/RDtI3901ky"
+[ Android ]  阴阳师：一个非酋的逆向旅程，这篇文章介绍的是网易手游《阴阳师》 Android APP 的逆向，主要是 assets/script.npk 文件解码的过程 ： http://paper.seebug.org/232/
+[ Android ]  [BLOG] Reverse Engineering Samsung S6 SBOOT - Part I by @ _kamino_ http://blog.quarkslab.com/reverse-engineering-samsung-s6-sboot-part-i.html
+﻿"Samsung S6 Bootloader SBOOT 的逆向过程，Part 1： https://t.co/VzLWoZkn7T "
+[ Android ]  Root has arrived for the Qualcomm S7/S7 Edge on Android Nougat! https://forum.xda-developers.com/tmobile-s7-edge/how-to/heres-how-rooted-nougat-s7-edge-g935t-t3567502 https://t.co/2xZPI0bj1i
+﻿"Galaxy S7 & S7 Edge Android 7.0 Nougat Root 工具： https://t.co/83ZQ7LiOJW "
+[ Android ]  Android Security Bulletin—March 2017: https://source.android.com/security/bulletin/2017-03-01.html again 2 patch level's. send your OTA screens to update https://kb.androidtamer.com/Device_Security_Patch_tracker/
+﻿"Android 2017年3月安全公告： https://t.co/cXCz9hBFkl "
+[ Android ]  Writeup on cadmium - Exploit targeting sboot, the exynos android bootloader cc @ _kamino_ @ nitayart https://wikileaks.org/ciav7p1/cms/files/cadmium.pdf #Vault7
+﻿"WikiLeaks 公开的 CIA 对 Exynos Android Bootloader 漏洞的分析和利用细节，成功利用该漏洞可以实现加载未签名的 Android Image 镜像： https://t.co/BxuULz29NF "
+[ Android ]  [CVE-2017-0510] Critical #Vulnerability: Attacking #Nexus 9 with Malicious Headphones #android #netsec https://t.co/QXnbBZ07oT
+﻿"3 月份的 Android 漏洞补丁修复了一个可以通过耳机触发的 Nexus 9 漏洞，成功利用该漏洞可以实现泄露栈上 Cookie、Bypass ASLR、恢复手机出厂设置等等： https://t.co/QXnbBZ07oT "
+[ Android ]  TrustZone TEEs An Attacker’s Perspective https://microsoftrnd.co.il/Press%20Kit/BlueHat%20IL%20Decks/GalBeniamini.pdf
+﻿"攻击者眼中的TrustZone TEEs（可信执行环境）： https://t.co/UxfBPzbJWr"
+[ Android ]  Android 应用中 local socket 引发的安全问题总结，来自 Flanker_017 的微博，Paper《Android Unix Domain Sockets 的误用以及带来的安全问题》： http://web.eecs.umich.edu/~yurushao/pubs/sinspector_ccs2016.pdf
+[ Android ]  Learn about what @ Google's been doing to protect #Android users from malicious apps: https://goo.gl/paqlJl
+﻿"Android 官方开发者 Blog 通报了一款 Chamois Botnet 恶意软件（家族）︰ https://t.co/VtOSHuiySo"
+[ Android ]  Wrote a thing about hacking Android apps with Frida (@fridaotre) and a quick glance on r2frida for @radare2: https://t.co/52BChR3kls
+﻿"利用 FRIDA 框架 hack Android 应用: https://t.co/52BChR3kls"
+[ Android ]  Hooking and Patching #Android Apps Using #Xposed Framework #androidsecurity #mobilesecurity #ReverseEngineering https://t.co/ButOCVvPjb
+﻿"使用 Xposed 框架 Hooking 及 Patching Android 应用： https://t.co/ButOCVvPjb"
+[ Android ]  Releasing data related to the evolution of the Android permissions work https://github.com/zyrikby/android_permission_evolution as promised at #AndroidSecuritySymposium
+﻿" Android 权限演变分析： https://t.co/Zh4H9a8JYu "
+[ Android ]  Android Internals : http://newandroidbook.com/ Download : http://newandroidbook.com/AIvI-M-RL1.pdf (pdf) Author Cr : @ Morpheus______
+﻿"《Android Internals: A Confectioner's Cookbook》的作者看到 CIA 泄露的资料里有一本旧版他的书，他说他既不能告 CIA 侵权，也不能告 Wikileaks，所以干脆最新版也直接免费下载了︰ https://t.co/iaxH5XSwyo    pdf下载︰ https://t.co/Re0udwyd8d "
+[ Android ]  来自 Flanker_017 的微博， NewAndroidBook 的作者还有两份不错的 Android 学习资料，《Binder 架构深入浅出》： http://newandroidbook.com/files/Andevcon-Binder.pdf 《Android 安全综述》： http://weibo.com/fav?leftnav=1
+[ Android ]  Reverse Engineering Samsung S6 SBOOT - Part I(译)： http://paper.seebug.org/242/
+[ Android ]  Second part of my intro "Hacking Android apps with Frida" (@fridadotre) online: Solving @Owasp Android Uncrackable 1 https://t.co/jq4KefLfh0
+﻿"Hacking Android apps with FRIDA II - Crackme： https://t.co/jq4KefLfh0"
+[ Android ]  https://goo.gl/hLE4JO PoCs for Android Vulns: CVE-2017-0451 CVE-2017-0504 CVE-2017-0516 CVE-2017-0518 CVE-2017-0519 CVE-2017-0521
+﻿"Scott Bauer 公布了 5 个 Android 内核漏洞的 PoC（CVE-2017-0451/CVE-2017-0504/CVE-2017-0516/CVE-2017-0518/CVE-2017-0521）： https://t.co/7UhKxTIVC9 "
+[ Android ]  New #NotSoSecure blog: Pentesting Android Apps With FRIDA https://www.notsosecure.com/pentesting-android-apps-using-frida/
+﻿"使用 Frida 对 Android 应用进行渗透测试： https://t.co/nDF4rQl9ZI"
+[ Android ]  #Nexus6P/#Nexus running #Nougat pwned with a complete #exploit chain #mobilesecurity #androidsecurity #CSW2017 https://t.co/lalTTJvpz3
+﻿"Pwn2Own Mobile 2016 比赛中，我们是如何 PWN 掉运行 Android Nougat 的 Nexus6P/Pixel 手机的，来自 CanSecWest 2017 大会腾讯 keen lab： https://t.co/lalTTJvpz3"
+[ Android ]  Android 三月份刚修复漏洞 CVE-2017-0478 的 POC： https://github.com/JiounDai/CVE-2017-0478
+[ Android ]  Security and privacy related API changes in Android O: https://developer.android.com/preview/behavior-changes.html#security-all. For apps targeting new API level: https://t.co/OjFsakIcYc.
+﻿"Android 官方发布下一个大版本的预览版 - Android O，Android O 在安全方面有一些新变化： https://t.co/Wbd4Q4bams"
+[ Android ]  Google 官方发布 2016年 Android 安全回顾： https://security.googleblog.com/2017/03/diverse-protections-for-diverse.html
+[ Android ]  越来越多的 Android 广告软件开始滥用插件框架（Android Plugin Frameworks）: http://researchcenter.paloaltonetworks.com/2017/03/unit42-new-trend-android-adware-abusing-android-plugin-frameworks/ https://www.bleepingcomputer.com/news/security/the-next-big-thing-for-android-malware-is-plugin-frameworks-/
+[ Android ]  研究员 ele7enxxh 公开了两个 Android 3 月份漏洞的 PoC（CVE-2017-0475/CVE-2017-0497）： https://github.com/ele7enxxh/poc-exp/tree/master/CVE-2017-0497 https://github.com/ele7enxxh/poc-exp/tree/master/CVE-2017-0475
+[ Android ]  Android ART 中的反调试技巧： http://www.vantagepoint.sg/blog/88-anti-debugging-fun-with-android-art
+[ Android ]  Android 漏洞分析：CVE-2017-0497 TIFF SkRawCodec：http://www.mottoin.com/99247.html CVE-2017-0475： http://www.mottoin.com/99237.html
+[ Android ]  如何通过恶意充电器控制你的 OnePlus 3/3T（译文）：http://bobao.360.cn/learning/detail/3670.html
+[ Android ]  Trojan analysis of the virus: advertising SDK behind the magic hand - http://bobao.360.cn/learning/detail/3676.html (Chinese)
+﻿" 破坏者病毒：广告SDK背后的魔手，来自安全客： https://t.co/oAkKmOGN2v "
+[ Android ]  Samsung Galaxy S8 facial recognition system to unlock the device can be bypassed with a photo http://securityaffairs.co/wordpress/57573/hacking/samsung-galaxy-s8-hack.html (was it unexpected ?)
+﻿"三星 Galaxy S8 的面部识别系统可通过一张照片解锁： https://t.co/REH7t4MOiB "
+[ Android ]  Anti-Plugin : Don't let your App Play as an Android Plugin : https://www.blackhat.com/docs/asia-17/materials/asia-17-Luo-Anti-Plugin-Don't-Let-Your-App-Play-As-An-Android-Plugin.pdf (Slides) #BHASIA2017
+﻿" Anti-Plugin - 来自 Palo Alto 的研究员讲 Android 插件框架的滥用问题︰ https://t.co/R35MXsZemM   前两周他们官方 Blog 发过一篇相关文章"
+[ Android ]  Android Overtakes Windows as Most Used Operating System on the Internet https://www.bleepingcomputer.com/news/software/android-overtakes-windows-as-most-used-operating-system/ #android #windows… https://t.co/gfbiT459i8
+﻿"据 StatCounter 分析公司发布的数据显示，Android 在今年三月赶超 Windows 成为使用人数最广的操作系统，第三、第四分别为 iOS、OS X： https://t.co/rzsLcCRhVM "
+[ Android ]  Android Security Bulletin April 2017 includes fix to 17 critical bugs in Qualcomm components, no details available https://t.co/lT3jc1bc89
+﻿"Android 发布 2017年 4月安全公告： https://t.co/lT3jc1bc89 "
+[ Android ]  How to repair a DEX file, in which some key methods are erased with NOPs http://blog.fortinet.com/2017/04/05/how-to-repair-a-dex-file-in-which-some-key-methods-are-erased-with-nops
+﻿"如何修复关键函数被 NOP 抹掉的 DEX 文件： https://t.co/uF9HRrI74a"
+[ Android ]  Android 4月公告中 CVE-2017-0541 的 PoC 以及漏洞分析： https://github.com/JiounDai/CVE-2017-0541
+[ Android ]  CanSecWest 2017 会议上那篇关于 Android Chrome 逻辑漏洞检测的议题 PPT 已公开： https://www.slideshare.net/CanSecWest/csw2017-geshevmiller-logic-bug-hunting-in-chrome-on-android
+[ Android ]  More Android Anti-Debugging Fun http://www.vantagepoint.sg/blog/89-more-android-anti-debugging-fun
+﻿"Android 反调试技巧之 Self-Debuging/proc 文件系统检测、调试断点探测： https://t.co/tKjaL30xpX"
+[ Android ]  Android Binder 驱动程序的基础数据结构： http://0xcc0xcd.com/p/books/978-7-121-18108-5/c511.php
+[ Android ]  Using @ fridadotre on non-rooted Android devices https://koz.io/using-frida-on-android-without-root/
+﻿"非 Root 条件下，如何在 Android 上使用 Frida 框架： https://t.co/8uPgV43Q2Q"
+[ Android ]   Details of Denial of Service Vulnerability in Andriod Libskia (CVE-2017-0548)： http://ele7enxxh.com/Details-Of-Denial-Of-Service-Vulnerability-In-Libskia-CVE-2017-0548.html
+[ Android ]  One more #Zer0Con slide was released. Dan Austin's slide: https://source.android.com/security/reports/zer0-conf-2017-Your-Move.pdf
+﻿"关于 Android 漏洞利用及缓解技术的演讲，来自 Google 的 Dan Austin 在 Zer0 会议上的分享︰ https://t.co/TcxfFhIQxm"
+[ Android ]  Sophos researchers give an overview of anti-emulation techniques used in Android malware https://blogs.sophos.com/2017/04/13/android-malware-anti-emulation-techniques/ https://t.co/3zpo8v1zZw
+﻿" Android 恶意软件反模拟器技术概述： https://t.co/NztuS79jGp "
+[ Android ]  The Shadow over Android - Android libc 堆利用技术，来自 Infiltrate 2017 会议： https://census-labs.com/media/shadow-infiltrate-2017.pdf https://census-labs.com/news/2017/04/18/infiltrate-2017/
+[ Android ]  MobSF 0.9.5 released Android ARM Emulator for Dynamic Analysis. https://www.youtube.com/watch?v=hD2zK0agMJk Thanks @ Matandobr Download: https://t.co/3DxXtwWTWj
+﻿" 手机安全分析框架 MobSF 更新 v0.9.5.2 Beta 版本，支持用 Android ARM 模拟器进行动态分析︰ https://t.co/3DxXtwWTWj"
+[ Android ]  Security Activity Blog : Hack Android Application Through Exposed Component... http://anandsecurity.blogspot.com/2017/04/hack-android-application-through.html?spref=tw
+﻿" 通过暴露的组件攻击安卓应用： https://t.co/idWg5mtv4t"
+[ Android ]  Zimperium 昨天突然公开了两个 Android 驱动提权漏洞的细节和 Exploit，漏洞分别来自 NVIDIA 视频驱动和 MSM Thermal 驱动，这些 Exploits 来自它的 N-Days Exploit 收购项目： https://blog.zimperium.com/nday-2017-0102-elevation-of-privilege-vulnerability-in-nvidia-video-driver/ https://blog.zimperium.com/nday-2017-0105-elevation-of-privilege-vulnerability-in-msm-thermal-driver/
+[ Android ]  “Hidden Gems of Android O” by @ ianhlake https://medium.com/@ ianhlake/hidden-gems-of-android-o-7def63136629
+﻿"从 API Diff 的角度来比较 Android O 版本的一些变化： https://t.co/0SOL1b1h0M"
+[ Android ]  Here it is: 3rd part of my #Android Hacking with Frida tutorial. @OWASP UnCrackable2 with @fridadotre and @radareorg https://t.co/D1D1NHjkaE
+﻿"Hacking Android apps with FRIDA 系列之三： https://t.co/D1D1NHjkaE"
+[ Android ]  Detecting tampering with #FRIDA from within an Android app #MobileSecurity #AndroidSecurity by @muellerberndt https://t.co/2cfW3kMV85
+The Jiu-Jitsu of Detecting Frida： http://www.vantagepoint.sg/blog/90-the-jiu-jitsu-of-detecting-frida
+[ Android ]   Ultimate Android Reference - Android 终极手册，GitHub 上的这个项目按照类别收集了 Android 开发常用的各种库、各种图书、文章、视频资源： https://github.com/aritraroy/UltimateAndroidReference
+[ Android ]  TrustZone安全技术研究： http://paper.seebug.org/296/
+[ Android ]  Android 官方更新了漏洞评级（高危/中危/低危）的标准： https://source.android.com/security/overview/updates-resources
+[ Android ]  Android Developers Blog:Android and Architecture https://android-developers.googleblog.com/2017/05/android-and-architecture.html via @ google
+" 来自 Android 开发者官网的《Android 与架构》： https://t.co/jVwngxyBLr "
+[ Android ]  Google I/O 大会上，官方表示新版本的 Android 将集成 Google Play Protect 服务，用来检查下载的 App 的安全性： https://threatpost.com/android-gets-security-makeover-with-google-play-protect/125781/
+[ Android ]  An open source android emulator in the browser : https://medium.com/alter-way-innovation/announcing-aic-2-0-an-open-source-android-cloud-emulator-8571b06c424d https://t.co/XGizl0X6Pf
+" AiC 2.0 - 一个开源的 Android 云模拟器，可以在浏览器里操作 Android 实例： https://t.co/9e5nMNk7Ct "
+[ Android ]  initroot: Bypassing Nexus 6 Secure Boot Kernel Cmdline Injection #bootloader #security #vuln CVE-2016-10277 @ roeehay https://alephsecurity.com/2017/05/23/nexus6-initroot/
+" initroot: Bypassing Nexus 6 Secure Boot through Kernel Command-line Injection： https://t.co/yIe3DGqnon "
+[ Android ]  针对 Android 设备 UI 的 Cloak & Dagger 攻击方式： http://cloak-and-dagger.org/
+[ Android ]  Android O 开始，Google 提出 Treble 计划，用来将 Android 系统与硬件厂商的固件和驱动隔离，方便 Google 及时发布 Android 补丁： https://threatpost.com/google-elevates-security-in-android-o/125848/
+[ Android ]  2017年Q1安卓ROOT类恶意病毒发展趋势研究报告 ： http://www.freebuf.com/articles/terminal/134977.html
+[ Android ]  内网穿透——ANDROID木马进入高级攻击阶段（二）： http://blogs.360.cn/360mobile/2017/05/25/analysis_of_milkydoor/
+[ Android ]  HTTPS 原理浅析及其在 Android 中的使用： http://mobile.51cto.com/android-540662.htm
+[ Android ]  Google 提高了对安全研究者报告 Android Exploit 的奖励标准，搞定 TEE 最高可获得 20 万美金： https://www.google.com/about/appsecurity/android-rewards/ http://weibo.com/5274004507/F5RWuhyTA
+[ Android ]  Pwning the Nexus of Every Pixel，来自科恩实验室 Flanker 在高通移动安全峰会的演讲： https://blog.flanker017.me/wp-content/uploads/2017/06/qmss2017.pdf
+[ Android ]  Android O 版本中，启用开发者选项要求输入设备的解锁密码： http://www.androidpolice.com/2017/06/01/android-o-feature-spotlight-enabling-developer-options-requires-devices-passcode/
+[ Android ]  apkfile - Android APP 分析与特征提取的库，将 APK 转化为 JSON 对象： https://github.com/CalebFenton/apkfile
+[ Android ]  Android 漏洞奖励计划，过去一年的总结以及今年的一些变化： https://android-developers.googleblog.com/2017/06/2017-android-security-rewards.html
+[ Android ]  Android 六月安全公告： https://t.co/4qsfV98nyh
+[ Android ]   在 Android 手机上利用 4G VoLTE 信道实现对用户的地理位置追踪： https://www.sstic.org/media/SSTIC2017/SSTIC-actes/remote_geolocation_and_tracing_of_subscribers_usin/SSTIC2017-Article-remote_geolocation_and_tracing_of_subscribers_using_4g_volte_android_phone-le-moal_ventuzelo_coudray.pdf
+[ Android ]   3 月份的 Android 漏洞补丁修复了一个可以通过耳机触发的 Nexus 9 漏洞（CVE-2017-0510）。作者研究之后发现补丁依然可以绕过（CVE-2017-0648），该漏洞在本月已经修复：  https://alephsecurity.com/2017/06/13/nexus9-ephemeral-fiq/
+[ Android ]   Android AntiVM - Android虚拟机检测库，意在未授权的情况下禁止在虚拟机App上非法运行： https://github.com/bunnyblue/AntiVM
+[ Android ]    LG Android 的 ASFParser ASFParser::ParseHeaderExtensionObjects memcpy 时缺少边界检查，触发越界读： https://bugs.chromium.org/p/project-zero/issues/detail?id=1222
+[ Android ]   将 Metasploit Payloads 注入到 Android 应用的手法介绍： https://pentestlab.blog/2017/06/26/injecting-metasploit-payloads-into-android-applications-manually/
+[ Android ]   Android O API level 26 中更新了 DEX 文件格式，添加了两个新的 Dalvik opcodes（invoke-polymorphic 和 invoke-custom），用于支持动态调用（Dynamic Invocation）： https://www.pnfsoftware.com/blog/android-o-and-dex-version-38-new-dalvik-opcodes-to-support-dynamic-invocation/#fn-619-1
+[ Android ]  从Android内核镜像中静态提取符号表： https://mp.weixin.qq.com/s?__biz=MjM5NDM1OTM0Mg==&mid=2651050636&idx=1&sn=0fcbb1ba1477f244690db14f5844130e&scene=0#wechat_redirect
+[ Android ]  使用 Android Studio 转换 Kotlin 时的学习经验： https://medium.com/google-developers/lessons-learned-while-converting-to-kotlin-with-android-studio-f0a3cb41669
+[ Android ]  逆向三星 S6 bootloader SBOOT，定位 Trustonic TEE t-base： https://blog.quarkslab.com/reverse-engineering-samsung-s6-sboot-part-ii.html
+[ Android ]  利用联想 Vibe P1 Android 手机备份功能实现相关的漏洞实现 Root（CVE-2017-3750/CVE-2017-3749/CVE-2017-3748），来自 FireEye： https://www.fireeye.com/blog/threat-research/2017/05/gaining-root-on-lenovo-vibe.html
+[ Android ]  警惕：“王者荣耀皮肤”伪装者 Android 恶意 APP 侵袭： http://paper.seebug.org/342/
+[ Android ]  阿里手淘团队公开的一本电子书《深入理解Android热修复技术原理》： https://m.aliyun.com/yunqi/articles/115122
+[ Android ]   Android 7 月份修复漏洞 CVE-2017-8260/0705/8259 的 PoC： https://github.com/ScottyBauer/Android_Kernel_CVE_POCs/commit/0b4721f4c9061f2de2222bff50f6f719864b6a10
+[ Android ]   昨天 WikiLeaks 新公开了一个 CIA 的 Android 项目 - Highrise，Highrise 是一个短信转发 APP，用户发送和接收的短信都会转发至外部服务器： https://wikileaks.org/vault7/  https://www.bleepingcomputer.com/news/security/vault-7-cia-developed-android-malware-that-works-as-an-sms-proxy/
+[ Android ]  Android 应用安全检查清单： https://github.com/b-mueller/android_app_security_checklist/blob/master/README.md
+[ Android ]   Android 内核 ASoC 驱动的安全性分析，来自趋势科技的 Seven Shen： https://github.com/huntcve/slides/blob/master/seven_shen_shakacon.pdf
+[ Android ]  Testing Anti-Reversing Defenses on Android： https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05j-Testing-Resiliency-Against-Reverse-Engineering.md
+[ Android ]   基于 Frida 的 Android SSL Pinning Bypass 方法： https://techblog.mediaservice.net/2017/07/universal-android-ssl-pinning-bypass-with-frida/
+[ Android ]  通过 WebView 攻击 Android 应用： http://paper.seebug.org/360/
+[ Android ]    研究员 ScottyBauer 公开了几个本月 Android 漏洞公告中涉及的 PoC（CVE-2017-8260 CVE-2017-0705 CVE-2017-8259）： https://github.com/ScottyBauer/Android_Kernel_CVE_POCs/commit/0b4721f4c9061f2de2222bff50f6f719864b6a10
+[ Android ]  研究员 Gengjia Chen 公开了两个 Android Qualcomm 加密引擎驱动程序中提权漏洞（CVE-2016-3935/CVE-2016-6738）的 PoC： https://github.com/jiayy/android_vuln_poc-exp
+[ Android ]   Android 的 A/B (Seamless) 无缝热补丁更新技术介绍： https://source.android.com/devices/tech/ota/ab_updates
+[ Android ]  这两天 BlackHat 新公开了几篇议题的 PPT，其中有一篇介绍 Android 在降低攻击界面方面的努力及成果，包括 Android N Mediaserver、Android O Webview、SELinux、Linux 内核等： https://www.blackhat.com/docs/us-17/thursday/us-17-Kralevich-Honey-I-Shrunk-The-Attack-Surface-Adventures-In-Android-Security-Hardening.pdf
+[ Android ]   Android 应用程序可以利用 Hover (floating touch) 技术截获系统级的用户触屏输入，泄露用户敏感信息： https://www.ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/system-security-group-dam/research/publications/pub2017/WiSec17_ulqinaku.pdf
+[ Android ]  Android 7.0 之后分区加密、Bootloaders 被锁，导出数据不容易了。这篇 Blog 以取证的目的，介绍如何从 Android 7.0 的三星 Galaxy S7 中导出数据： https://articles.forensicfocus.com/2017/08/08/physical-imaging-of-a-samsung-galaxy-s7-smartphone-running-android-7-0/
+[ Android ]  Usenix 2017 会议一篇关于 Android Root Exploits 检测的 Paper，作者构建了一套系统 RootExplorer，用于检测恶意软件中的 Root Exploit 的存在： http://www.cs.ucr.edu/~krish/usenix17.pdf
+[ Android ]  利用 Frida 实现 Android Native 函数的插桩： https://www.notsosecure.com/instrumenting-native-android-functions-using-frida/
+[ Android ]  用于 Android 恶意软件自动化分析的 CuckooDroid 工具更新 2.0 版本了： https://t.co/tQEpDSDL9f
+[ Android ]  fastboot oem vuln - 厂商在定制过程中出现的 Android Bootloader 漏洞，来自 USENIX 2017 会议，PoC 代码之后会公开： https://www.usenix.org/conference/woot17/workshop-program/presentation/hay
+[ Android ]  盘古团队近期发现华为 3 个漏洞、Android 2 个漏洞：http://blog.pangu.io/%e7%9b%98%e5%8f%a4%e5%ae%9e%e9%aa%8c%e5%ae%a4%e6%8a%a5%e5%91%8a%e4%b8%89%e4%b8%aa%e5%8d%8e%e4%b8%ba%e6%89%8b%e6%9c%ba%e5%ae%89%e5%85%a8%e6%bc%8f%e6%b4%9e%e8%8e%b7%e5%8d%8e%e4%b8%ba%e8%87%b4%e8%b0%a2/ http://blog.pangu.io/%e7%9b%98%e5%8f%a4%e5%ae%9e%e9%aa%8c%e5%ae%a4%e6%8a%a5%e5%91%8a%e4%b8%a4%e4%b8%aaandroid%e5%ae%89%e5%85%a8%e6%bc%8f%e6%b4%9e%e8%8e%b7google%e8%87%b4%e8%b0%a2/
+[ Android ]   昨天发布的 Android 8.0 正式版在安全性方面的主要变化： https://developer.android.com/about/versions/o/android-8.0-changes.html#security-all
+[ Android ]    Android 系统的启动过程： https://thecyberfibre.com/android-boot-process/
+[ Android ]  Android 8.0 版本的内核在哪些方面做了安全加固： https://source.android.com/devices/architecture/kernel/hardening
+[ Android ]  Humble Bundle 网站是一家在线卖游戏和电子书的网站，特点是卖价由买家决定。这篇 Blog 介绍作者如何逆向该网站的 Android APP，得到 API 信息，然后自动化下载东西： https://www.schiff.io/blog/2017/07/21/reverse-engineering-humble-bundle-api
+[ Android ]   Android WireX DDOS BOTNET 在几家公司的合作下被消灭了： https://threatpost.com/mobile-wirex-ddos-botnet-neutralized-by-collaboration-of-competitors/127680/
+[ Android ]  Android Oreo 中的内核加固： https://android-developers.googleblog.com/2017/08/hardening-kernel-in-android-oreo.html
+[ Android ]    Android 手机禁用了 WiFi 还会发送 WiFi 扫描探测数据包吗？ https://hal.inria.fr/hal-01575519/document
+[ Android ]   Android 官方对 Keystore 的介绍，Keystore 是个基于硬件的可信执行环境服务，可以被操作系统、服务、第三方 APP 使用： https://source.android.com/security/keystore/
+[ Android ]  Android 8.0 Oreo（奥利奥）的整体变化概览： https://arstechnica.com/gadgets/2017/09/android-8-0-oreo-thoroughly-reviewed/
+[ Android ]  Android 发布 9 月份漏洞公告： https://source.android.com/security/bulletin/2017-09-01
+[ Android ]  Android Verified Boot 2.0 的设计文档： https://android.googlesource.com/platform/external/avb/#Rollback-Protection
+[ Android ]  TrendMicro 发现通过恶意 GIF 能够致使 Android Messages 应用崩溃（cve-2017-0780）： http://blog.trendmicro.com/trendlabs-security-intelligence/cve-2017-0780-denial-service-vulnerability-android-messages-app/
+[ Android ]   Paloalto 研究员对 Android Toast Overlay 攻击的分析，OS 版本在 8.0 以下均受影响 ： https://researchcenter.paloaltonetworks.com/2017/09/unit42-android-toast-overlay-attack-cloak-and-dagger-with-no-permissions/
+[ Android ]  Android 应用逆向工程： https://offensivepentest.com/2017/08/26/android-application-reverse-engineering/
+[ Android ]  Android 点击欺诈应用可被用于建立 DDoS 僵尸网络： https://securingtomorrow.mcafee.com/mcafee-labs/android-click-fraud-app-repurposed-ddos-botnet/#sf113324137
+[ Android ]  Android色情病毒发展史： http://www.freebuf.com/articles/system/146504.html
+[ Android ]   安装 Android Google Play 的手机会存在 Google Play Protect 防护服务，目前其新添加了一个 SafetyNet Verify Apps API 的特性，开发者可以从 Verify Apps API 获得已安装 APP 的安全状态： https://android-developers.googleblog.com/2017/09/safetynet-verify-apps-api-google-play.html
+[ Android ]   Reverse Engineering an Android Application（Android 应用逆向）电子书下载： https://leakedforums.com/threads/ebook-reverse-engineering-an-android-application-apk-hacking.349/
+[ Android ]  安卓Trustzone有巨大漏洞？降级攻击为你做出解析！： https://mp.weixin.qq.com/s/lR9t74nrZY35mwnonO8sew
+[ Android ]  NSA 2012 年公开的一份关于 SE Android 的 Paper《The Case for Security Enhanced (SE) Android》：  https://events.linuxfoundation.org/images/stories/pdf/lf_abs12_smalley.pdf
+[ Android ]  蓝牙协议 Android 信息泄露漏洞 (CVE-2017-0785/Blueborne) 的 PoC： https://github.com/ojasookert/CVE-2017-0785
+[ Android ]  Android内核提权cve-2014-3153研究笔记： https://mp.weixin.qq.com/s/7iGcOb0Ac3A0rjCxo_SsNQ
+[ Android ]  New Reliable Android Kernel Root Exploitation Techniques： http://powerofcommunity.net/poc2016/x82.pdf
+[ Android ]  ANDROID 8.0 奥利奥版本在安全性方面的新变化： https://threatpost.com/whats-new-in-android-8-0-oreo-security/128061/
+[ Android ]  有研究证明 Android swipe 锁屏模式比使用 PIN 安全性低： https://threatpost.com/android-lockscreen-patterns-less-secure-than-pins/128123/
+[ Android ]  借助 Debugger 攻击 Android 应用： https://blog.netspi.com/attacking-android-applications-with-debuggers/
+[ Android ]  Stock Android 中基于编译器实现对第三方库的单独权限隔离（paper）： https://trust.cispa.saarland/~bugiel/publications/pdfs/bugiel17-ccs2.pdf
+[ Android ]    基于 System Call Logs 的 Android 恶意软件检测方法，Paper： https://arxiv.org/ftp/arxiv/papers/1709/1709.08805.pdf
+[ Android ]  Android 操作系统中的逆向和篡改教程，来自 OWASP： https://github.com/OWASP/owasp-mstg/blob/master/Document/0x05c-Reverse-Engineering-and-Tampering.md
+[ Android ]   《Inside Android’s SafetyNet Attestation: Attack and Defense》，来自研究员 Collin Mulliner 对 Android SafetyNet 保护服务的攻防研究报告： https://www.mulliner.org/collin/publications/inside_safetynet_attestation_attacks_and_defense_mulliner2017_ekoparty.pdf
+[ Android ]  Android SO自动化逆向探究： http://bobao.360.cn/learning/detail/4489.html
+[ Android ]  Android 2017 年 10 月补丁公告：  https://source.android.com/security/bulletin/2017-10-01
+[ Android ]   了解 Android 7.0 新引入的 APK Signature Scheme v2 签名机制： https://medium.com/@dhuma1981/understanding-new-apk-signature-scheme-v2-b705178f4d60
+[ Android ]  支持 Android Nougat 版本的 Xposed 框架发布了： https://www.xda-developers.com/official-xposed-framework-android-nougat/
+[ Android ]   Android 逆向工具之 android-re Docker 环境和 JEB2 的脚本： https://www.virusbulletin.com/uploads/pdf/conference_slides/2017/Apvrille-VB2017-android-rev-eng-tools.pdf
+[ Android ]    Exploiting on CVE-2016-6787，CVE-2016-6787 漏洞是位于 Android 内核 perf 子系统中的提权漏洞： https://hardenedlinux.github.io/system-security/2017/10/16/Exploiting-on-CVE-2016-6787.html
+[ Android ]  Android APP SSL 相关漏洞的研究报告《Danger is My Middle Name: Experimenting with SSL Vulnerabilities in Android Apps》： https://arxiv.org/ftp/arxiv/papers/1505/1505.00589.pdf
+[ Android ]  Awesome Android Open Source Libraries： https://blog.mindorks.com/awesome-android-open-source-libraries-56a008c776c0
+[ Android ]   在 Android 手机上安装 Frida 框架，篡改 SSLContext，Bypass Certificate Pinning 特性：  https://blog.it-securityguard.com/the-stony-path-of-android-%F0%9F%A4%96-bug-bounty-bypassing-certificate-pinning/
+[ Android ]  LOKIBOT - 第一款混合型 ANDROID 恶意软件： https://clientsidedetection.com/lokibot___the_first_hybrid_android_malware.html
+[ Android ]  Android Oreo Version 8.1 开发者预览版发布： https://www.xda-developers.com/android-8-1-oreo-developer-preview-1/
+[ Android ]  Android 手机上市之前，兼容性测试（Google’s compatibility certification tests）需要大约 3 个月。为了加快手机上市速度，Google 和 MediaTek 合作推出 GMS Express 计划，将 3 个月缩短为 4 周： https://www.xda-developers.com/google-mediatek-announce-gms-express/
+[ Android ]  确保 Andriod 应用数据安全性与隐私性的最佳做法：https://developer.android.com/training/best-security.html
+[ Android ]  Bypassing Android’s Network Security Configuration： https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/november/bypassing-androids-network-security-configuration/
+[ Android ]    Android 内核非常见 UAF 漏洞的利用，来自科恩实验室申迪(Retme)在 PacSec 2017 会议的演讲：  https://speakerdeck.com/retme7/the-art-of-exploiting-unconventional-use-after-free-bugs-in-android-kernel
+[ Android ]  ANDROID勒索软件黑产研究 ——恶意软件一键生成器： http://blogs.360.cn/360mobile/2017/11/10/analysis_of_mobile_malware_factories/
+[ Android ]   在 Android 6.0.1 版本上测试 BlueBorne 蓝牙漏洞 Exploit（CVE-2017-0781）：  https://jesux.es/exploiting/blueborne-android-6.0.1-english/
+[ Android ]   安卓逆向工程：反汇编与代码注入： http://www.syssec-project.eu/m/page-media/158/syssec-summer-school-Android-Code-Injection.pdf
+[ Android ]  一份 HackerOne 的 Android 报告与资源收集：https://github.com/B3nac/Android-Reports-and-Resources
+[ Android ]   利用 Google 的 SafetyNet Attestation API 实现 Android 应用完整性检查（Application Integrity Security Control）： https://census-labs.com/news/2017/11/17/examining-the-value-of-safetynet-attestation-as-an-application-integrity-security-control/
+[ Android ]  卡巴斯基对 Android 商业间谍软件的调查报告： https://securelist.com/android-commercial-spyware/83098/
+[ Android ]  2017安卓应用第三方SDK威胁概况: http://www.freebuf.com/articles/paper/154703.html
+[ Android ]    Behind the PWN of a TrustZone。在 Android 设备的 TrustZone 中执行代码。来自 Nick Stephens 在 GeekPwn 上海站的分享：  https://www.slideshare.net/GeekPwnKeen/nick-stephenshow-does-someone-unlock-your-phone-with-nose
+[ Android ]  Android Gmail 附件下载目录穿越漏洞，来自 Project Zero： https://bugs.chromium.org/p/project-zero/issues/detail?id=1342
+[ Android ]  Google Safe Browsing 团队将把反垃圾软件保护策略（Unwanted Software Policy）扩展到 Android 平台上： https://security.googleblog.com/2017/12/additional-protections-by-safe-browsing.html
+[ Android ]   ParseDroid - 来自 CheckPoint 的研究员提出了一个 Android 生态环境的攻击面 - 开发者工具，以 APKTool 为例，他们在 APKTool 的第三方 XML 库中找到了一个 XXE，下载使用 APKTool 的开发者/研究员就可能被攻击：  https://threatpost.com/developers-targets-in-parsedroid-poc-attack/129088/  https://research.checkpoint.com/parsedroid-targeting-android-development-research-community/
+[ Android ]  360 Vulpecker：友盟SDK越权漏洞分析报告： https://www.anquanke.com/post/id/89222
+[ Android ]    Inside Android's SafetyNet Attestation - Android  SafetyNet Attestation 保护机制的深度分析：  https://www.blackhat.com/docs/eu-17/materials/eu-17-Mulliner-Inside-Androids-SafetyNet-Attestation.pdf  https://www.blackhat.com/docs/eu-17/materials/eu-17-Mulliner-Inside-Androids-SafetyNet-Attestation-wp.pdf
+[ Android ]   三星是如何保护你的钱包的 - 三星支付的攻防研究报告，来自玄武实验室 HC Ma 在 BlackHat Europe 2017 会议的演讲： https://www.blackhat.com/docs/eu-17/materials/eu-17-Ma-How-Samsung-Secures-Your-Wallet-And-How-To-Break-It.pdf
+[ Android ]   Janus - 本月的 Android 补丁中修复了一个影响 APK 签名有效性的漏洞，这个漏洞允许攻击者修改 APP 但却不影响 APK 签名信息的有效性。漏洞发现者将该漏洞命名为 Janus（CVE-2017-13156）：  https://www.guardsquare.com/en/blog/new-android-vulnerability-allows-attackers-modify-apps-without-affecting-their-signature
+[ Android ]   上周五推送的 Janus Android APK 签名有效性漏洞（CVE-2017-13156），有研究员公开了 PoC:  https://github.com/V-E-O/PoC/tree/master/CVE-2017-13156
+[ Android ]  Android开发工具Apktool漏洞利用分析: https://security.tencent.com/index.php/blog/msg/122
+[ Android ]   Android Vulnerabilities Overview - 研究员 CHEF-KOCH 整理的 Android 已知漏洞的情况总结： https://github.com/CHEF-KOCH/Android-Vulnerabilities-Overview
+[ Android ]  独家分析：安卓“Janus”漏洞的产生原理及利用过程： https://mp.weixin.qq.com/s/qIxe-eWfDTUJZDvM4erDuw
+[ Android ]   如何使用 Burp 代理调试安卓应用中的 HTTP(S) 流量： https://android.jlelse.eu/how-to-debug-http-s-traffic-for-android-apps-with-burp-proxy-73f906821283
+[ Android ]   利用前两天爆出的 Android APK 签名验证漏洞 Janus 生成 APK 样本的工具： https://github.com/odensc/janus
+[ Android ]  VMP加固技术对比第三代加固技术，安全效果究竟如何？: http://webcache.googleusercontent.com/search?q=cache:KxbcyaSfoRcJ:www.freebuf.com/column/157104.html+&cd=1&hl=zh-CN&ct=clnk&gl=cn
+[ Android ]  借助元数据和机器学习进行 Android 恶意软件描述： https://arxiv.org/pdf/1712.04402.pdf
+[ Android ]  On the Usage of the Fingerprint API in Android ： https://machiry.github.io/files/fingerpri.pdf
+[ Android ]  Android Accessibility点击劫持攻防： https://sec.xiaomi.com/article/36
+[ Android ]  提高 Google Play 上的应用安全性：  https://android-developers.googleblog.com/2017/12/improving-app-security-and-performance.html
+[ Android ]   Android Oreo 在安全性方面做出的努力，来自 Android 官方 Blog：  https://android-developers.googleblog.com/2017/12/double-stuffed-security-in-android-oreo.html
+[ Android ]  研究员 jiayy 昨天公开了多个 Android 漏洞的 PoC： https://github.com/jiayy/android_vuln_poc-exp
+[ Android ]  17种安卓native反调试收集: https://bbs.pediy.com/thread-223460.htm
+[ Android ]  解决 Android 的自定义权限困境（Paper）： http://seclab.illinois.edu/wp-content/uploads/2017/12/tuncay2018resolving.pdf
+[ Android ]  Android Tethering Provisioning Check Bypass (CVE-2017-0554)： https://github.com/lanrat/tethr
+[ Android ]   Inside Android's SafetyNet Attestation - Android SafetyNet Attestation 保护机制的深度分析，这个议题作者在最近的 Black Europe 会议上讲过： https://www.mulliner.org/collin/publications/34c3_Androids_SafetyNet_Attestation_Attack_and_Defense.pdf
+[ Android ]  Android: Inter-process munmap due to race condition in ashmem(CVE-2017-13216)： https://bugs.chromium.org/p/project-zero/issues/detail?id=1388
+[ Android ]  支持 Android Oreo 8.0/8.1 版本的 Xposed 框架发布了： https://www.xda-developers.com/xposed-framework-for-android-oreo-beta/
+[ Android ]  趋势科技最近发现了第一个由 Kotlin 语言编写的 Android  恶意 APP，该 APP 可以远程控制用户手机、窃取短信、自动订阅收费短信服务： http://blog.trendmicro.com/trendlabs-security-intelligence/first-kotlin-developed-malicious-app-signs-users-premium-sms-services/
+[ Android ]  腾讯安全玄武实验室发现“应用克隆”攻击模型 过半应用或需重新设计。 在这个攻击模型的视角下，很多以前认为威胁不大、厂商不重视的安全问题，都可以轻松“克隆”用户账户，窃取隐私信息，盗取账号及资金等。基于该攻击模型，腾讯安全玄武实验室以某个常被厂商忽略的安全问题进行检查，在200个移动应用中发现27个存在漏洞，比例超过10%： http://mp.weixin.qq.com/s/pQqOLQS_hWfv8btYpYK1xQ
+[ Android ]  Fuzzing AOSP For the Masses ，面向大众的  Android AOSP Fuzzing，来自韩国 PoC 会议  ： http://powerofcommunity.net/poc2017/dan.pdf
+[ Android ]   Android ALSA SoC 声卡驱动中的漏洞挖掘，来自韩国 PoC 会议：  http://powerofcommunity.net/poc2017/yu.pdf
+[ Android ]  四种方法绕过 Android SSL 验证及 Certificate Pinning： https://blog.netspi.com/four-ways-bypass-android-ssl-verification-certificate-pinning/
+[ Android ]  CVE-2017-8890漏洞分析与利用（Root Android 7.x）： http://www.freebuf.com/articles/terminal/160041.html
+[ Android ]   揭密新版 Dagger v2.10 中新引入的 Android Injection API：  https://proandroiddev.com/exploring-the-new-dagger-android-module-9eb6075f1a46
+[ Android ]   SCLib：用于防御 Android 应用程序中组件劫持攻击的一款轻量级安全组件库 （Paper）： https://arxiv.org/pdf/1801.04372.pdf
+[ Android ]  Android adbd 错误配置导致的本地提权漏洞披露（CVE-2017-13212）： https://labs.mwrinfosecurity.com/advisories/privilege-escalation-via-adbd-misconfiguration
+[ Android ]  Pixel 远程代码执行攻击链的技术细节（CVE-2017-5116、CVE-2017-14904），来自 Android Security Rewards 项目获得者 Alpha Team 龚广： https://android-developers.googleblog.com/2018/01/android-security-ecosystem-investments.html
+[ Android ]  在 OSX 上调试第三方 Android Java 代码： https://kov4l3nko.github.io/blog/2018-01-20-debugging-thirdparty-android-java-code/
+[ Android ]  Fortinet 发现法航的 Android 应用中存在个人信息及凭证泄漏问题： https://fortiguard.com/zeroday/FG-VD-17-213
+[ Android ]   Android 8.1 兼容性定义中关于指纹传感器的部分： https://source.android.com/compatibility/8.1/android-8.1-cdd#7_3_10_fingerprint_sensor
+[ Android ]   在 Android N 中安装 root CA 实现用 Burp 抓取 https 流量的方法： https://blog.nviso.be/2018/01/31/using-a-custom-root-ca-with-burp-for-inspecting-android-n-traffic/
+[ Android ]  Android平台挖矿木马研究报告： http://www.freebuf.com/articles/paper/161741.html
+[ Android ]   Android 官方发布 2018 年 2 月份的补丁：  https://source.android.google.cn/security/bulletin/2018-02-01
+[ Android ]  Android 应用安全测试介绍： https://usmile.at/sites/default/files/androidsecuritysymposium/presentations2017/Elenkov_AnIntroductionToAndroidApplicationSecurityTesting.pdf
+[ Android ]  应用克隆攻击丨大东话安全: http://mp.weixin.qq.com/s/LuRvWl69VxTsMRmy7brG4g
+[ Android ]   在分析 APK 时，如何解决恶意 APK 中常见的 Native 代码加壳保护： https://blog.zimperium.com/dissecting-mobile-native-code-packers-case-study/
+[ Android ]  2017年Android“间谍软件”年度总结报告： http://www.freebuf.com/articles/terminal/161839.html
+[ Android ]  From APK to Golden Ticket - 通过 Android 手机渗透企业内网： https://docs.google.com/document/d/1XWzlOOuoTE7DUK60qTk1Wz1VNhbPaHqKEzyxPfyW4GQ/edit#heading=h.2m380ikv89me
+[ Android ]  Android 应用沙箱概述： https://pierrchen.blogspot.mk/2016/09/an-walk-through-of-android-uidgid-based.html
+[ Android ]  SELinux for Android 8.0：  https://source.android.com/security/selinux/images/SELinux_Treble.pdf
+[ Android ]  解决 Android 自定义权限的困境，Slides： http://soterisdemetriou.com/blog/wp-content/uploads/2018/02/ndss2018_release_slides.pdf  Paper：  http://seclab.illinois.edu/wp-content/uploads/2017/12/tuncay2018resolving.pdf
+[ Android ]   日志注入以及不安全的 tail -f：  https://disconnect3d.pl/2018/02/24/log-injection-aka-tailing-logs-is-unsafe/
+[ Android ]   第三方代码对 Android 应用安全的影响： https://www.usenix.org/sites/default/files/conference/protected-files/enigma18_derr.pdf
+[ Android ]  对 Android VPN 应用所允许权限的隐私和安全风险分析 （Paper）： http://www.icir.org/vern/papers/vpn-apps-imc16.pdf
+[ Android ]  Android 3 月安全公告： https://source.android.com/security/bulletin/2018-03-01
+[ Android ]  Android bluetooth remote heap disclosure PoC（CVE-2017-13259） ： https://github.com/ScottyBauer/Android_Kernel_CVE_POCs/commit/7c164cca56aae19edd417f597f92423965415f50
+[ Android ]   Android P 版本引入的安全新特性： https://developer.android.com/preview/features/security.html#fingerprint-auth
+[ Android ]  分析基于行为模式的 Andriod 恶意检测： https://arxiv.org/pdf/1803.03448.pdf
+[ Android ]  Android BLE 学习笔记： http://www.huwei.tech/2016/07/07/Android-BLE%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
+[ Android ]  绕过 Android 7 的网络安全设置配置自定义 SSL 根证书： https://sensepost.com/blog/2018/tip-toeing-past-android-7s-network-security-configuration/
+[ Android ]  利用 Frida 绕过Certificate Pinning ： https://blog.it-securityguard.com/the-stony-path-of-android-%F0%9F%A4%96-bug-bounty-bypassing-certificate-pinning/
+[ Android ]  Google 对 2017 年 Android 安全的一个回顾 ： https://security.googleblog.com/2018/03/android-security-2017-year-in-review.html
+[ Android ]  多个 Android DRM 服务存在内存溢出漏洞（CVE-2017-13253）： https://blog.zimperium.com/cve-2017-13253-buffer-overflow-multiple-android-drm-services/
+[ Android ]  绕过 Android 反仿真(Anti-Emulation) 保护：  http://www.juanurs.com/Android-Bypassing-Anti-Emulation-Part-I/
+[ Android ]  如何解决恶意APK中常见的Native代码加壳保护： http://jaq.alibaba.com/community/art/show?spm=a313e.7916642.220000NaN1.1.78d94892TTHgEG&articleid=1565
+[ Android ]  利用 ARM MMU 特性打破 Android 内核隔离并 root 设备，来自 Blackhat Asia 2018： https://www.blackhat.com/docs/asia-18/asia-18-WANG-KSMA-Breaking-Android-kernel-isolation-and-Rooting-with-ARM-MMU-features.pdf
+[ Android ]  Abusing Android In app Billing feature thanks to a misunderstood integration，对 Android 应用内结算的滥用： https://www.securingapps.com/blog/AbusingAndroidInAppBilling_INS18.pdf
+[ Android ]  Quarkslab 对 3 月 Android 安全公告中修复的两个蓝牙漏洞的分析： https://blog.quarkslab.com/android-bluetooth-vulnerabilities-in-the-march-2018-security-bulletin.html
+[ Android ]  Project Walrus - 在 Android 上辅助使用各种卡片克隆设备的应用： https://download.ernw-insight.de/troopers/tr18/slides/TR18_LT_Project-Walrus.pdf
+[ Android ]  在未 root 的 Android 设备上使用 frida： https://lief.quarkslab.com/doc/latest/tutorials/09_frida_lief.html
+[ Android ]  使用 Logcat 查看 Android P 中调用隐藏 API 的应用： https://www.xda-developers.com/logcat-android-p-hidden-apis/
+[ Android ]  Android Studio 3.1 发布： https://android-developers.googleblog.com/2018/03/android-studio-3-1.html
+[ Android ]  如何绕过安卓的网络安全配置功能： http://www.freebuf.com/articles/terminal/165671.html
+[ Android ]  一文了解安卓APP逆向分析与保护机制： http://www.freebuf.com/articles/terminal/165904.html
+[ Android ]  Android 4 月安全公告发布： https://source.android.com/security/bulletin/2018-04-01
+[ Android ]  检测Android虚拟机的方法和代码实现: http://mp.weixin.qq.com/s/tamMeh2xsi6L37jjizW_rA
+[ Android ]  Android P 中将默认只允许应用通过 TLS 加密通信传输数据以保护用户隐私: https://android-developers.googleblog.com/2018/04/protecting-users-with-tls-by-default-in.html
+[ Android ]  对混淆的 Android 应用进行渗透测试： http://tinyhack.com/2018/02/05/pentesting-obfuscated-android-app/
+[ Android ]  在安卓应用中使用高权限操作的分析与解决(Paper)： https://arxiv.org/pdf/1804.04605.pdf
+[ Android ]  绕过 Android 反仿真(Anti-Emulation) 保护 Part 2： http://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-II/
+[ Android ]  利用一个竞态漏洞root三星s8的方法: http://www.iceswordlab.com/2018/04/20/samsung-root/
+[ Android ]  Android  APP 安全测试环境搭建 Part 1： https://x1m.nl/posts/android-app-testing-part-1/
+[ Android ]  Mobile Pwn2Own 上攻击 Huawei Mate 9 Pro 所用的漏洞利用详情 : https://labs.mwrinfosecurity.com/assets/BlogFiles/huawei-mate9pro-pwn2own-write-up-final-2018-04-26.pdf
+[ Android ]  绕过 Android 反仿真 (Anti-Emulation) 保护 ，Part 3： http://www.juanurs.com/Bypassing-Android-Anti-Emulation-Part-III/
+[ Android ]  Going Back In Time To Abuse Android's JIT： https://speakerdeck.com/rotlogix/back-to-the-future-going-back-in-time-to-abuse-androids-jit
+[ Android ]  Android bluedroid 配置文件注入漏洞详情(CVE-2017-13284) ： http://sploit3r.xyz/cve-2017-13284-injection-in-configuration-file/

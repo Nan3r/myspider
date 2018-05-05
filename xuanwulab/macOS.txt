@@ -1,0 +1,332 @@
+[ macOS ]  A new Python project 'macholibre' could parse CodeSignature and symbols in Mach-O file: https://github.com/aaronst/macholibre code clearer than macholib.
+﻿" macholibre - 一个用于解析 Mach-O 文件代码签名和符号信息的工具， GitHub Repo︰ https://t.co/FRnBnESPoz "
+[ macOS ]  Joker (#iOS10/#OSX 12 #kernel reversing aid) v3.0(β): now shows MACF hooks, syscalls, MIG. http://newosxbook.com/tools/joker.html#v3 https://t.co/WKDkscwhAT
+﻿" Joker - OS X Kernel Cache 处理工具（辅助逆向）： https://t.co/AlYBBbvT4w https://t.co/WKDkscwhAT"
+[ macOS ]  Shooting the OSX El Capitan Kernel Like a Sniper : https://speakerdeck.com/flankerhqd/shooting-the-osx-el-capitan-kernel-like-a-sniper (Slides)
+﻿" Shooting the OSX El Capitan Kernel Like a Sniper（像狙击手一样攻击 OS X 内核），来自腾讯科恩实验室 Flanker 和陈良在 RECon 会议的演讲︰ https://t.co/rLQ3YkVvXP  "
+[ macOS ]  DNS parsing flaw patched in @ Apple #AirPort base stations https://threatpost.com/apple-patches-airport-remote-code-execution-flaw/118787/ via @ threatpost
+﻿" 苹果刚刚修复了一个 AirPort DNS 数据解析远程代码执行漏洞，来自 ThreatPost 的报道：  https://t.co/SXXxioRF4l"
+[ macOS ]  Reverse engineering Apples EFI firmware password reset functionality https://reverse.put.as/2016/06/25/apple-efi-firmware-passwords-and-the-scbo-myth/
+﻿" 逆向 Apple EFI 固件的密码重置功能： https://t.co/SnHPitrxXL"
+[ macOS ]  Guide to Securing Apple OS X 10.10 Systems for IT Professionals: http://csrc.nist.gov/publications/drafts/800-179/sp800_179_draft.pdf(pdf)
+﻿" Apple OS X 10.10 系统安全加固指南 ︰ https://t.co/Dmk3ue95uQ"
+[ macOS ]  A ZFS developer’s analysis of the good and bad in Apple’s new APFS file system http://arstechnica.com/apple/2016/06/a-zfs-developers-analysis-of-the-good-and-bad-in-apples-new-apfs-file-system/
+﻿" ZFS 开发者对 Apple 新文件系统 - APFS 的分析，来自 ArsTechnica 的报道： https://t.co/dpmyJxFU2W"
+[ macOS ]  Breaking the OSX & iCloud Keychain (Korean) https://forensic.n0fate.com/wp-content/uploads/2015/08/FIOS-2015-OS-X-Keychain-Forensic-Artifacts.pdf
+﻿" OS X Keychain 取证分析（韩语）： https://t.co/y8aMg6hkjN   GitHub Repo： https://github.com/n0fate/iChainbreaker "
+[ macOS ]  New Mac OS Backdoor, Eleanor: https://labs.bitdefender.com/wp-content/uploads/2016/07/Backdoor-MAC-Eleanor_final.pdf remote access, webcam images, files... You know the drill. https://t.co/qwnWRn2HcL
+﻿" Mac OS X 系统的一款新后门恶意软件 Eleanor，会让攻击者完全控制系统 ︰ https://t.co/7ROaxeQ9I7  研究员 Claud Xiao 表示，该后门软件是通过 hxxp://MacUpdate.com 传播的 "
+[ macOS ]  There's a OS X (ahem macOS) backdoor around dumping and stealing keychain. Downloader is distributed in a ZIP file http://www.welivesecurity.com/2016/07/06/new-osxkeydnap-malware-hungry-credentials/
+﻿" OSX/Keydnap - 专门偷密钥的一个 OS X 后门软件： https://t.co/cNT7aP5niY"
+[ macOS ]  再看CVE-2016-1757---浅析mach message的使用 - http://turingh.github.io/2016/07/05/%E5%86%8D%E7%9C%8BCVE-2016-1757%E6%B5%85%E6%9E%90mach%20message%E7%9A%84%E4%BD%BF%E7%94%A8/
+﻿" 再看 CVE-2016-1757，浅析 mach message 的使用： https://t.co/ziLE6Sf5HE"
+[ macOS ]  OS X 10.11.3 sources released: http://opensource.apple.com/release/os-x-10113/
+﻿"OS X 10.11.3 的源码发布︰ https://t.co/cDvOYViH9X"
+[ macOS ]  Mac malware OSX.Keydnap steals keychain https://blog.malwarebytes.com/cybercrime/2016/07/mac-malware-osx-keydnap-steals-keychain/
+﻿" Keydnap - 专门偷 OS X Keychain 信息的恶意软件，来自 MalwareBytes Blog： https://t.co/JKcfFZvmPc"
+[ macOS ]  OS X exploitable kernel NULL dereference in CoreCaptureResponder due to unchecked return value https://bugs.chromium.org/p/project-zero/issues/detail?id=777
+﻿"OS X CoreCaptureResponder 返回值未检查导致的空指针引用漏洞（CVE-2016-1803）， Project Zero Issue 777： https://t.co/RYzirgtpbe"
+[ macOS ]  OS X 10.11.4 is now up: https://opensource.apple.com/release/os-x-10114/
+﻿"OS X 10.11.4 版本的源码︰ https://t.co/ohApcD21x0"
+[ macOS ]  m-cli : Swiss Army Knife for Mac OS X : https://github.com/rgcr/m-cli
+﻿"m-cli - Mac OS X 系统的瑞士军刀: https://t.co/NtxmDZy79J"
+[ macOS ]  @ SummerC0n Up next!!! Slide deck tool research etc... https://github.com/blankwall/MacHeap
+﻿" MacHeap - Mac OS X 内存分配插桩工具： https://t.co/W2P0I6ppZd"
+[ macOS ]  Source code release for my @ shmoocon talk with @ drraid , OSX VR and Why We wrote Our own Debugger. Check it out: https://github.com/blankwall/MacDBG
+﻿" Mac Debugger， GitHub Repo︰ https://t.co/huj5YPQPkq"
+[ macOS ]  OS X 10.11.5 now available: http://opensource.apple.com/release/os-x-10115/
+﻿"OS X 10.11.5 版本的源码也发布了︰ https://t.co/Fqlqw2MHWC"
+[ macOS ]  ZDI-16-434: Apple OS X AppleIntelBDWGraphics Memory Corruption Privilege Escalation Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-434/
+﻿"ZDI-16-434︰ Apple OS X AppleIntelBDWGraphics 内存破坏提权漏洞： https://t.co/u51wRo1Z9k"
+[ macOS ]  ZDI-16-435: Apple OS X WindowServer Heap-Buffer Overflow Privilege Escalation Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-435/
+﻿"ZDI-16-435︰ Apple OS X WindowServer 堆缓冲区溢出提权漏洞： https://t.co/AmFqEWYFe4"
+[ macOS ]  ZDI-16-436: Apple OS X IOPMrootDomain Memory Corruption Privilege Escalation Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-436/
+﻿"ZDI-16-436︰ Apple OS X IOPMrootDomain 内存破坏提权漏洞： https://t.co/crJOfQOBS6"
+[ macOS ]  ZDI-16-438: Apple OS X DspFuncLib Use-After-Free Privilege Escalation Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-438/
+﻿"ZDI-16-438︰ Apple OS X DspFuncLib UAF 提权漏洞： https://t.co/w2jrWKksX1"
+[ macOS ]  Vulnerability Spotlight: Apple Remote Code Execution With Image Files http://blog.talosintel.com/2016/07/vulnerability-spotlight-apple-remote.html
+﻿" Talos 团队研究员发现了 OS X 操作系统图片格式处理相关的 5 个 RCE 漏洞： http://blog.talosintel.com/2016/07/apple-image-rce.html "
+[ macOS ]  [CVE-2016-4633] Another OS X Bug in Apple Graphics https://marcograss.github.io/security/apple/cve/2016/07/21/cve-2016-4633-apple-graphics-another-osx-bug.html
+﻿" OS X 图形处理相关的另一个漏洞（CVE-2016-4633）： https://t.co/LcPxePz4eM"
+[ macOS ]  WindowServer : The privilege chameleon on macOS (Part 1) : http://keenlab.tencent.com/en/2016/07/22/WindowServer-The-privilege-chameleon-on-macOS-Part-1/ https://t.co/VXcV77TAlS
+﻿"WindowServer - macOS 系统中的特权变色龙，来自腾讯科恩实验室 Blog，作者为陈良︰ https://t.co/6b5WKURwlA https://t.co/VXcV77TAlS"
+[ macOS ]  Reverse engineering and exploiting a critical Little Snitch vulnerability : https://sentinelone.com/blogs/shut-snitch-reverse-engineering-exploiting-critical-little-snitch-vulnerability-reverse-engineering-mac-os-x/ https://t.co/DyjhUAJZA3
+﻿" Little Snitch (Mac)防火墙软件一个严重漏洞的逆向和利用︰ https://t.co/DamSlOIZo8 https://t.co/DyjhUAJZA3"
+[ macOS ]  Could OS X malware abuse Finder Syncs to gain persistence? Read 'Persisting via a Finder Sync' to find out! https://objective-see.com/blog/blog_0x11.html #newblog
+﻿"OS X 恶意软件滥用 Finder Sync 功能实现持久化控制： https://t.co/xyWx6jyciS"
+[ macOS ]  WindowServer: The privilege chameleon on macOS (Part 2): http://keenlab.tencent.com/en/2016/07/28/WindowServer-The-privilege-chameleon-on-macOS-Part-2/#more @ fuyubin1993 @ marcograss with video https://www.youtube.com/watch?v=TvxEClEZtxc
+﻿" WindowServer - macOS 系统中的特权变色龙，本周一推送的是 Part 1，今天是 Part 2。来自腾讯科恩实验室 Blog，作者为陈良︰ https://t.co/UWfZjqDvYw  视频 Demo： https://t.co/UbAGpGeNJp"
+[ macOS ]  The Journey of a complete OSX privilege escalation with a single vulnerability - Part 1 http://keenlab.tencent.com/2016/07/29/The-Journey-of-a-complete-OSX-privilege-escalation-with-a-single-vulnerability-Part-1/
+﻿" 仅通过一个漏洞实现 OS X 完整提权，来自科恩实验室 Blog，作者为 Flanker： https://t.co/W4DAwPbclS "
+[ macOS ]  Helpful article on debugging system calls on OSX: http://bryce.is/writing/code/macosx/debugging/udp/sockets/dtruss/dtrace/eaddrinuse/2016/07/30/debugging-using-system-calls.html
+﻿" 在 OS X，利用 dtruss 和 DTrace 工具，监控应用的系统调用︰ https://t.co/34DWVY2jqD"
+[ macOS ]  Introducing FlockFlock: File Access Enforcement for macOS http://www.zdziarski.com/blog/?page_id=6171 https://t.co/XgTytZFNXl
+﻿" FlockFlock - macOS 系统的一个文件访问控制工具： https://t.co/2nBiwGoBDK "
+[ macOS ]  OS X 10.11.6 now available: http://opensource.apple.com/release/os-x-10116/
+﻿"苹果公开了 OS X 10.11.6 的源码︰ https://t.co/rNZIShdxHT"
+[ macOS ]  Slides for our talk on sandboxes at #defcon24 https://goo.gl/eM4oSC @ marcograss https://t.co/v4aeBN0hqi
+﻿" 科恩实验室 Flanker 在 DefCon24 会议的演讲《Escaping The Sandbox By Not Breaking It》，关于 OS X 系统 Safari 和 Chrome 的沙箱逃逸： https://speakerdeck.com/flankerhqd/escaping-the-sandbox-by-not-breaking-it "
+[ macOS ]  mahalo @ defcon for incredible time :) posted my slides: "I got 99 Problems, but Little Snitch ain’t one!" https://speakerdeck.com/patrickwardle/defcon-2016-i-got-99-problems-but-little-snitch-aint-one #defcon24
+﻿" OS X 系统个人防火墙 Little Snitch 的安全性分析： https://t.co/g8oopnRM1I  前两周推送过一篇相关的 Blog： https://sentinelone.com/blogs/shut-snitch-reverse-engineering-exploiting-critical-little-snitch-vulnerability-reverse-engineering-mac-os-x/ "
+[ macOS ]  How a malware could infects digitally signed files without altering hashes on macOS https://medium.com/@ sabrihaddouche/how-a-malware-can-infects-digitally-signed-files-without-altering-hashes-on-macos-c7dc9e391a8e#.3vw053iey
+﻿" macOS 系统中，恶意软件是如何感染数字签名后的文件但不改动 Hash 值的： https://t.co/Y5gQm9G85w "
+[ macOS ]  Google’s Santa macOS malware sniffer goes open source http://www.zdnet.com/article/googles-santa-os-x-malware-sniffer-goes-open-source/#ftag=RSSbaffb68
+﻿" macOS 系统基于黑、白名单的恶意软件检测工具 Santa 开源了，来自 Google： https://t.co/u7LI9OZVit"
+[ macOS ]  new blog: "Click File, App Opens (reversing os x's launch services, to understand 'document handlers')" https://objective-see.com/blog/blog_0x12.html #osxmalware
+﻿" Click File, App Opens，Objective-See 对一款 OS X 恶意软件的分析： https://t.co/rgHDlLdcmv "
+[ macOS ]  ZDI-16-494: Apple OS X IOHIDFamily Heap Buffer Overflow Privilege Escalation Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-494/
+﻿"ZDI-16-494︰ Apple OS X IOHIDFamily 堆缓冲区溢出提权漏洞，来自 ZDI 的公告： https://t.co/EVFlHuOHGO"
+[ macOS ]  OSX/Keydnap spreads via signed Transmission application http://www.welivesecurity.com/2016/08/30/osxkeydnap-spreads-via-signed-transmission-application/ via @ ESET
+﻿"OSX/Keydnap 恶意软件通过有签名的 Transmission APP 捆绑传播： https://t.co/dTedY4JkQW "
+[ macOS ]  Just posted "The Missing Piece – Sophisticated OS X Backdoor Discovered" (cross-platform) #malware #apple #osx #blog https://securelist.com/blog/research/75990/the-missing-piece-sophisticated-os-x-backdoor-discovered/
+﻿" 丢失的片段 - 复杂的 OS X Mokes 后门分析： https://t.co/9eXQqScmox"
+[ macOS ]  How Dropbox Hacks Your Mac : http://applehelpwriter.com/2016/08/29/discovering-how-dropbox-hacks-your-mac/
+﻿" How Dropbox Hacks Your Mac︰ https://t.co/Ujjdxijv4l"
+[ macOS ]  New paper: Behavioural Detection and Prevention of Malware on OS X, by @ _vivami https://www.virusbulletin.com/virusbulletin/2016/september/behavioural-detection-and-prevention-malware-os-x/ https://t.co/RX3zrDO7n1
+﻿" OS X 恶意软件基于行为的检测与防护： https://t.co/R0LzzGWb6u "
+[ macOS ]  New LLDB Debugging Guide https://developer.apple.com/library/content/documentation/General/Conceptual/lldb-guide/chapters/Introduction.html
+﻿" LLDB 调试指南： https://t.co/wbyzvq5J2J"
+[ macOS ]  Intercepting Passwords to Escalate Privileges on OS X is now released with source code. Enjoy. https://www.scriptjunkie.us/2016/09/intercepting-passwords-to-escalate-privileges-on-os-x/
+﻿" 劫持 OS X 的用户密码，获取特权： https://t.co/VRYYArn4Zp"
+[ macOS ]  ZDI-16-522: Apple OS X IOThunderboltFamily Uninitialized Memory Privilege Escalation Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-522/
+﻿"ZDI-16-522︰ 苹果 OS X IOThunderboltFamily 未初始化内存提权漏洞： https://t.co/Uylodl449p"
+[ macOS ]  ZDI-16-521: Apple OS X AppleHSSPIHIDDriver Buffer Overflow Privilege Escalation Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-521/
+﻿"ZDI-16-521︰ 苹果 OS X AppleHSSPIHIDDriver 缓冲区溢出提权漏洞： https://t.co/Xwh5CkO93i"
+[ macOS ]  MacOS Sierra Kernel Panic with Razer Mouse https://xorcat.net/2016/09/21/macos-sierra-kernel-panic-with-razer-mouse/
+﻿"雷蛇鼠标触发的 MacOS Sierra 内核 Crash： https://t.co/0iqSqy7X7z"
+[ macOS ]  https://blog.flanker017.me/cve-2016-4697-buffer-overrun-in-macos-kernel-driver/ writeup for CVE-2016-4697 credited in macOS 10.12 bulletin
+﻿" macOS 驱动 AppleHSSPIHIDDriver _setReportGated 中的一个缓冲区越界访问漏洞（CVE-2016-4697），来自科恩实验室 Flanker：  https://t.co/ou9qg2LBPt "
+[ macOS ]  OS X-KVM : Running Mac OS X El Capitan on KVM and QEMU : https://github.com/kholia/OSX-KVM https://t.co/XEbGKzh9gM
+﻿"Running Mac OS X 10.11.6 El Capitan on KVM + QEMU: https://t.co/EIsAbLkv7m https://t.co/XEbGKzh9gM"
+[ macOS ]  New #Unit42 research on Komplex: an OS X Trojan with links to #Sofacy group http://bit.ly/2d73xem
+﻿" 一款新的 OS X 木马 Komplex，与 Sofacy 组织有关，来自 Palo Alto： https://t.co/yW1XSSjSgU "
+[ macOS ]  OSX kernel vulnerabilities (CVE-2016-4655 / CVE-2016-4656) analysis and exploitation: http://jndok.github.io/2016/10/04/pegasus-writeup/
+﻿"Pegasus OS X 内核漏洞的分析和利用（CVE-2016-4655/CVE-2016-4656）︰ https://t.co/OINt8mHAgR"
+[ macOS ]  Slides from my @virusbtn talk "Getting Duped: Piggybacking on Webcam Streams for Surreptitious Recordings" https://t.co/W21ihApPgi #VB2016
+﻿" macOS 上的恶意软件是如何实现偷摸地录制视频的，来自 VB2016 会议： https://t.co/W21ihApPgi "
+[ macOS ]  《Form CVE-2016-1764 To CVE-2016-1843》 http://paper.seebug.org/65/
+﻿" 从老漏洞到新漏洞 - iMessage 0day(CVE-2016-1843) 挖掘实录，来自 Seebug，作者为知道创宇黑哥： https://t.co/16Ap68PBYF"
+[ macOS ]  #VB2016 slides "A malicious OS X cocktail served from a tainted bottle" http://goo.gl/PMCZxc #MacMalware #DFIR #VolatilityBot #VolUtility
+﻿"VB2016 上，对 Mac os 木马 OSX/Keydnap 分析的议题【PPT】： https://www.virusbulletin.com/uploads/pdf/conference_slides/2016/Kalnai_Jirkal-vb-2016-malicious-osx-cocktail.pdf "
+[ macOS ]  New Post: MacOS File Movements https://forensic4cast.com/2016/10/macos-file-movements/
+﻿" MacOS 文件移动细节： https://t.co/CmHPWysQVg"
+[ macOS ]  Apple macOS 10.12.1/iOS 10 SecureTransport SSL handshake OCSP MiTM and DoS https://goo.gl/fb/ogrhHH #FullDisclosure
+﻿"Apple macOS 10.12.1/iOS 10 SecureTransport SSL handshake OCSP MiTM and DoS： http://seclists.org/fulldisclosure/2016/Oct/86?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29"
+[ macOS ]  How to detect malicious activities on your Mac OS X system with system logs and grep, sort, awk: http://sud0man.blogspot.fr/2016/10/new-version-of-checkout4mac-02.html #macosx #forensics
+﻿"一款检测 Mac OS X 系统上安全隐患的工具︰ https://t.co/ljl89Po5Zd #macosx #forensics"
+[ macOS ]  Project Zero blog: "task_t considered harmful" by Ian Beer (design issue in iOS/MacOS) - https://goo.gl/yHsnSK
+﻿" XNU 内核 task_t 相关的两个 Bug，Project Zero 这篇 Blog 具体分析这两个 Bug 以及如何利用他们实现沙箱逃逸： https://t.co/YWjY45Vupn"
+[ macOS ]  task_t (a design issue at core of XNU kernel which powers iOS & MacOS) considered harmful: https://googleprojectzero.blogspot.in/2016/10/taskt-considered-harmful.html ; https://bugs.chromium.org/p/project-zero/issues/detail?id=837
+﻿"XNU kernel 中的代码设计缺陷，此问题影响到 iOS 和 MacOS︰ https://t.co/lT1vSg2xSW; https://t.co/aJ9lcPJIbi"
+[ macOS ]  OS X/iOS kernel use-after-free in IOSurfaceh ttps://bugs.chromium.org/p/project-zero/issues/detail?id=831
+﻿"OS X/iOS kernel use-after-free in IOSurface： https://bugs.chromium.org/p/project-zero/issues/detail?id=831 "
+[ macOS ]  OS X kernel use-after-free in IOThunderboltFamily https://bugs.chromium.org/p/project-zero/issues/detail?id=834
+﻿"OS X kerner IOThunderboltFamily UAF 漏洞： https://t.co/ZBQ4EuV7c4 "
+[ macOS ]  OS X kernel use-after-free in CoreStorage https://bugs.chromium.org/p/project-zero/issues/detail?id=833
+﻿"OS X kerner CoreStorage UAF 漏洞： https://t.co/VbzHdmhMbV "
+[ macOS ]  OS X/iOS kernel use-after-free in IOHDIXController https://bugs.chromium.org/p/project-zero/issues/detail?id=832
+﻿"OS X/iOS IOHDIXController UAF 漏洞： https://t.co/6Ckvb7Usx3 "
+[ macOS ]  OS X kernel use-after-free in IOBluetoothFamily.kext https://bugs.chromium.org/p/project-zero/issues/detail?id=830
+﻿"OS X kerner IOBluetoothFamily.kext UAF 漏洞： https://t.co/0VzhdUh6hM "
+[ macOS ]  My ppt "Fuzzing and Exploit OSX Vulnerabilities for Fun and Profit" on Pacsec2016 http://www.slideshare.net/PacSecJP/moony-li-pacsec18?qid=15552f01-6655-4555-9894-597d62fd803c&v=&b=&from_search=4 Github https://t.co/rUX8bzhCAd
+﻿" OS X 系统漏洞的挖掘和利用，来自 PacSec 2016 会议， PPT： https://t.co/jDYsVanz1l   代码：  https://t.co/rUX8bzhCAd"
+[ macOS ]  To top it all off, Ian also found a bug in auto-generated MIG code leading to a UAF on a mach_port_t: https://bugs.chromium.org/p/project-zero/issues/detail?id=882
+﻿" macOS/iOS mach_ports_register 中的多个安全问题，来自 Project Zero︰ https://t.co/eMpTIbys6m"
+[ macOS ]  HITCON 2016 - (P)FACE into the Apple core and exploit to root http://hitcon.org/2016/CMT/slide/day1-r2-c-1.pdf
+﻿"趋势科技研究员今年 7 月份在 HITCON 2016 会议的演讲《(P)FACE Into the Apple Core and Exploit to Root》： https://t.co/J1IAYB90pr"
+[ macOS ]  Using email for persistence on OS X https://www.n00py.io/2016/10/using-email-for-persistence-on-os-x/
+﻿" 通过 OS X 的邮件规则实现持久控制： https://t.co/xcTTvkH7ZI "
+[ macOS ]  Strolling into Ring-0 via I/O Kit Drivers : https://speakerdeck.com/patrickwardle/o-kit-drivers (Slides) cc @ patrickwardle
+﻿"通过 I/O Kit 驱动走进 Ring-0︰ https://t.co/G4GGVJlX9t "
+[ macOS ]  [dos] - Apple OS X Kernel - IOBluetoothFamily.kext Use-After-Free https://www.exploit-db.com/exploits/40652/
+﻿"Apple OS X Kernel - IOBluetoothFamily.kext Use-After-Free： https://t.co/vF9YtxQJ44"
+[ macOS ]  A new MacOS kernel extension using Capstone inside: AppleALC to add native HD audio support for unofficially codecshttp://bit.ly/2f03v6h —…
+﻿"AppleALC - 一款开源的 OS X 内核扩展，用于启用 Native OS X HD Audio：  http://bit.ly/2f03v6h "
+[ macOS ]  Decrypting iCloud Authorization Tokens on macOS https://github.com/manwhoami/MMeTokenDecrypt
+﻿" MMeTokenDecrypt -- 解码 macOS 上 iCloud 认证 Token 的工具（/Users/*/Library/Application Support/iCloud/Accounts/DSID）： https://t.co/hSXrmb1dYj "
+[ macOS ]  CIS Apple OSX 10.12 Benchmark https://benchmarks.cisecurity.org/tools2/osx/CIS_Apple_OSX_10.12_Benchmark_v1.0.0.pdf
+﻿"CIS Apple OSX 10.12 Benchmark： https://t.co/iIAWthtll8"
+[ macOS ]  An overview of malvertising on the Mac https://blog.malwarebytes.com/threat-analysis/social-engineering-threat-analysis/2016/11/an-overview-of-malvertising-on-the-mac/
+﻿"Mac 上恶意软件的总览： https://t.co/RtCDUnvvaV"
+[ macOS ]  A practical guide to securing macOS (macOS-Security-and-Privacy-Guide) : https://github.com/drduh/macOS-Security-and-Privacy-Guide
+﻿"提升 Mac 安全性的引导手册︰ https://t.co/XP9k6OMB3w"
+[ macOS ]  Reverse Engineering Resources (iOS & Mac OS X) : https://pewpewthespells.com/re.html
+﻿"针对 iOS 和 Mac OS X 的逆向资源收集︰ https://t.co/LYUqwj7lgw"
+[ macOS ]  Abusing the Mac Recovery & OS Update Process : https://speakerdeck.com/patrickwardle/syscan360-2016-abusing-the-mac-recovery-and-os-update-process (Slides) cc @ patrickwardle
+﻿"滥用 Mac Recovery 及 OS 更新程序 (Slides)，来自 ZeroNights / Syscan360 2016︰ https://t.co/qZP879sV7f
+[ macOS ]  0day SIP bypass → subvert the OS or install malware in an 'undeletable' manner ? ? https://objective-see.com/blog/blog_0x14.html #0day #SIPbypass #SharingIsCaring
+﻿"[0day] 利用本地更新程序绕过 Apple SIP 保护：  https://t.co/i7WesFgoDW "
+[ macOS ]  via @mikeymikey mac admins have prev 'abused' El Capitan Installer to bypass SIP for custom deployments https://t.co/pZqQQ7WDU1 great read!
+﻿"利用  El Capitan 更新来绕过 SIP（System Integrity Protection） 安全技术： https://t.co/pZqQQ7WDU1 "
+[ macOS ]  macOS 10.12.1 XNU 3789.21.4 kernel sources are now available: https://opensource.apple.com/tarballs/xnu/xnu-3789.21.4.tar.gz
+﻿"macOS 10.12.1 XNU 3789.21.4 内核源码︰ https://t.co/pntr9AU1n8"
+[ macOS ]  macOS FileVault2 Password Retrieval http://blog.frizk.net/2016/12/filevault-password-retrieval.html
+﻿"macOS FileVault2 密码检索： https://t.co/qW39HTUPv4"
+[ macOS ]  XNU kernel UaF due to lack of locking in set_dp_control_port https://bugs.chromium.org/p/project-zero/issues/detail?id=965
+﻿"XNU 内核的 set_dp_control_port 函数缺少锁操作，经过线程间的条件竞争后可导致 UAF 漏洞： https://t.co/JCDWzA0K7m"
+[ macOS ]  Hacking Apple Mac encryption password in Just 30 Seconds with PCILeech device http://securityaffairs.co/wordpress/54477/hacking/pcileech-hacking-mac.html
+﻿"利用 PCILeech 设备 30 秒 hack Apple Mac： https://t.co/13J5BBKyvr"
+[ macOS ]  MacOS kernel code execution due to writable privileged IOKit registry properties https://bugs.chromium.org/p/project-zero/issues/detail?id=974
+﻿"可写的 IOkit 注册表属性可导致 MacOS 内核代码执行（CVE-2016-7617）： https://t.co/b1kgo4CgFu"
+[ macOS ]  MacOS/iOS arbitrary port replacement in syslogd https://bugs.chromium.org/p/project-zero/issues/detail?id=977
+﻿"Mac/iOS syslogd 服务中的任意端口替换（CVE-2016-7660）： https://t.co/vwFeUN8uqp"
+[ macOS ]  ipc_port_t reference count leak with nested MIG methods leads to OS X/iOS kernel UaF https://bugs.chromium.org/p/project-zero/issues/detail?id=926
+﻿"nested MIG 方法中的 ipc_port_t 引用计数泄露导致的  OS X/iOS 内核 UaF 漏洞（CVE-2016-7612）： https://t.co/TitjKqqezr"
+[ macOS ]  macOS < 10.12.2 / iOS < 10.2 Kernel Mach Port Name uref Privilege Escalation https://cxsecurity.com/issue/WLB-2016120133
+﻿"macOS < 10.12.2 / iOS < 10.2 Kernel Mach Port Name uref 提权漏洞： https://t.co/WmMYeszQ2d"
+[ macOS ]  Bypass alerts for Little Snitch and Little Flocker on OS X https://github.com/pwnsdx/Security-Bypass https://lobste.rs/s/m8dbn5 #security
+﻿"绕过 OS X Little Snitch 和 Little Flocker 的弹窗警告：   https://t.co/ENdWnulwAt  "
+[ macOS ]  Happy 2017! ?? New blog cumulatively covers (all?) new Mac malware from 2016: https://objective-see.com/blog/blog_0x16.html KeRanger, Mokes, Eleanor, Komplex, etc
+﻿"总结分析 2016 年 OS X 上的恶意软件 ︰ https://t.co/Dc2ifcXUql "
+[ macOS ]  task_t considered harmful - many XNU EoPs https://bugs.chromium.org/p/project-zero/issues/detail?id=837
+﻿"task_t considered harmful - many XNU EoPs（CVE-2016-4625 CVE-2016-7613） https://t.co/DrgaLnEdeL"
+[ macOS ]  XNU kernel 3789.31.2 sources (macOS Sierra 10.12.2) are now available: https://opensource.apple.com/tarballs/xnu/xnu-3789.31.2.tar.gz
+﻿"XNU kernel 3789.31.2 源码 (macOS Sierra 10.12.2)︰ https://t.co/4hciwfLkda"
+[ macOS ]  About the security content of macOS Sierra 10.12.3 https://support.apple.com/en-us/HT207483
+﻿"macOS Sierra 10.12.3 安全更新公告： https://t.co/8mEEbn1Qie"
+[ macOS ]  MacOS kernel use after free due to bad reference counting when creating new user clients https://bugs.chromium.org/p/project-zero/issues/detail?id=975
+﻿"MacOS 内核在 create user client 时因引用计数错误存在一个 UAF 漏洞，来自 Project Zero： https://t.co/7pKMmSoaoG"
+[ macOS ]  macOS 10.12.3 source is out: https://opensource.apple.com/release/macos-10123.html
+﻿"macOS 10.12.3 源码公开︰ https://t.co/jkNzkvhXBZ"
+[ macOS ]  Running Executables on macOS From Memory https://blog.cylance.com/running-executables-on-macos-from-memory
+﻿"在 macOS 的内存中执行可执行文件： https://t.co/6ZV1ZIQ9eb "
+[ macOS ]  Slides: Crafting macOS Root Kits https://www.zdziarski.com/blog/?p=6909
+﻿"构造 macOS Root Kits： https://t.co/EvZZid45dt"
+[ macOS ]  从CVE-2016-7644回到CVE-2016-4669 http://turingh.github.io/2017/01/15/CVE-2016-7644-%E4%B8%89%E8%B0%88Mach-IPC/ by @ samulehuang
+﻿" 从 CVE-2016-7644 回到 CVE-2016-4669（Mach IPC）： https://t.co/9IPqq3oNq6 "
+[ macOS ]  Running Executables on macOS From Memory : https://blog.cylance.com/running-executables-on-macos-from-memory
+﻿"在 macOS 从内存运行可执行文件︰ https://t.co/703UfqaZ9X"
+[ macOS ]  Word documents laced with malicious macros used to hack Apple Mac systems http://securityaffairs.co/wordpress/56226/breaking-news/apple-mac-malware.html
+﻿"据 SecurityAffairs 报道，已经有攻击者开始利用携带恶意宏代码的 Word 文档攻击 Mac 系统用户： https://t.co/68YP2zYuc1"
+[ macOS ]  __today = ['new','blog','post']; post=str('OS X Packet Capture & #Empire '); https://cybersyndicates.com/2017/02/os-x-packet-capture--empire/
+﻿"为 OS X Empire 攻击框架添加 Socket Sniffer 的支持： https://t.co/wIGrCjfFXp"
+[ macOS ]  Two new Mac backdoors discovered https://blog.malwarebytes.com/cybercrime/2017/03/two-new-mac-backdoors-discovered/
+﻿"两种新 Mac 后门被发现： https://t.co/WW7qST1RHU"
+[ macOS ]  macOS 10.12.2本地提权以及 XNU port 堆风水： https://jaq.alibaba.com/community/art/show?articleid=781 Github： https://github.com/zhengmin1989/macOS-10.12.2-Exp-via-mach_voucher
+[ macOS ]  New macOS Proton RAT Available for Sale on Russian Hacking Forum https://www.bleepingcomputer.com/news/security/new-macos-proton-rat-available-for-sale-on-russian-hacking-forum/ #RAT #macOS #Apple https://t.co/4gjPlJDlWq
+﻿"针对 macOS 的 RAT 工具 Proton 在俄罗斯地下黑客论坛中叫卖： https://t.co/F4iUu3Ca6W "
+[ macOS ]  Playing with Mach-O binaries and dyld http://blog.lse.epita.fr/articles/82-playing-with-mach-os-and-dyld.html
+﻿"Playing with Mach-O binaries and dyld： https://t.co/ovXlrH3mxc"
+[ macOS ]  macOS 一个 HelpViewer XSS 漏洞实现任意文件执行和任意文件读漏洞： https://bugs.chromium.org/p/project-zero/issues/detail?id=1040&can=1&q=&sort=-id
+[ macOS ]  About the security content of macOS Sierra 10.12.4 https://support.apple.com/en-us/HT207615
+﻿"苹果今天发布了多个产品的版本更新，包括 iOS 10.3、macOS 10.12.4、tvOS 10.2、watchOS 3.2，本次更新修复了多个漏洞： https://support.apple.com/zh-cn/HT201222  https://support.apple.com/en-us/HT207617  https://support.apple.com/en-us/HT207615"
+[ macOS ]  一発入魂 - XNU内核漏洞分析与利用，来自蒸米在 2017 先知白帽大会的演讲： https://github.com/zhengmin1989/MyArticles/blob/master/PPT/2017XianZhiBaiMao_Spark.pdf
+[ macOS ]  [CVE-2017-2436] #macOS #Sierra &lt;= 10.12.3 IOFireWireAVC #Kernel Extension Out of Bounds #Vulnerability https://t.co/dqnKLuyWFt
+﻿"macOS 10.12.3 IOFireWireAVC 内核扩展越界访问漏洞（CVE-2017-2436）： https://t.co/dqnKLuyWFt"
+[ macOS ]  Third-party installer packages may not be installable by the macOS 10.12.4 OS installer: https://derflounder.wordpress.com/2017/03/29/third-party-installer-packages-may-not-be-installable-by-the-macos-10-12-4-os-installer/
+﻿" macOS 10.12.4 发布之后， OS Installer 有所更新，第三方未经过签名的 Installer Package 装不上了︰ https://t.co/rlHdJSZXGf"
+[ macOS ]  macOS/IOS: mach_msg doesn't copy memory in a certain case https://bugs.chromium.org/p/project-zero/issues/detail?id=1083
+﻿" macOS/IOS: mach_msg doesn't copy memory in a certain case（CVE-2017-2456），来自 Project Zero： https://t.co/ULwE9bZkWT"
+[ macOS ]  Apple macOS/IOS 10.12.2(16C67) mach_msg Heap Overflow https://cxsecurity.com/issue/WLB-2017030254
+﻿" Apple macOS/IOS 10.12.2(16C67) mach_msg Heap Overflow： https://t.co/qvNvlA9cR3"
+[ macOS ]  Introducing http://Monitor.app for macOS https://www.fireeye.com/blog/threat-research/2017/03/introducing_monitor.html #Freeware #infosec https://t.co/Z4LI3Wq30K
+﻿" FireEye 公开了一个用于 macOS 的动态分析工具，类似 Windows Sysinternals 中的 ProcMon： https://t.co/5UrKUUFBYb  https://t.co/Z4LI3Wq30K https://t.co/30xzdR1giM"
+[ macOS ]  macOS 10.12.4 Sources https://opensource.apple.com/release/macos-10124.html
+﻿"macOS 10.12.4 Sources： https://t.co/WKTwSJOz2p"
+[ macOS ]  Two Bugs, One Func() - Part 2 : a kernel info leak 0-day : https://objective-see.com/blog/blog_0x1B.html ,Part 1 :… https://twitter.com/i/web/status/850287507359096832
+﻿"Two Bugs, One Func， macOS 一个 kernel panic，part 1： https://t.co/DHvs6u42wR  part 2︰ https://t.co/O0DlHGfwfT  "
+[ macOS ]  Step-by-step guide to macOS source-level kernel debugging using VirtualBox. https://klue.github.io/blog/2017/04/macos_kernel_debugging_vbox
+﻿" 借助 VirtualBox 实现 macOS 内核的源码级调试： https://t.co/5M7bxMwdht"
+[ macOS ]  GNS-3 Mac OS-X local root LPE in “ubridge” #0day - https://github.com/HackerFantastic/Public/blob/master/exploits/gns3super-osx.sh @ gns3 https://t.co/jygb4Bp2PN
+﻿"GNS-3 Mac OS-X LPE 本地 Root Exploit： https://t.co/PvvUMkL0BU "
+[ macOS ]  Doyensec 公司在 macOS/iOS/watchOS 中发现的几个漏洞的公告： https://doyensec.com/research.html
+[ macOS ]  Quite enjoyed speaking at @ HITBSecConf Mahalo! ? ? slides: "OverSight: Exposing Spies on macOS" https://speakerdeck.com/patrickwardle/hack-in-the-box-2017-oversight-exposing-spies-on-macos #HITB2017AMS #synack
+﻿"揭露 mac 上的监控，主要讲解了利用 webcam 记录用户视频和音频的恶意软件，同时介绍了一款用于检测此行为的工具，来自 HITB 2017 AMS 大会： https://t.co/neJ1QqiRZ4 "
+[ macOS ]  PoC for macOS 10.12.4 kernel memory leak (0day): https://pastebin.com/87fHLMQq ?? ...previously blogged about it here: https://objective-see.com/blog/blog_0x1B.html
+﻿"月初的时候推送过一篇《Two Bugs, One Func》，介绍的是一个 macOS 10.12.4 内核信息泄露漏洞，现在作者放出了一份 PoC︰ https://t.co/qWPAYdtiEI "
+[ macOS ]  New Apple Filesystem (APFS) Reverse Engineered https://blog.cugu.eu/post/apfs/
+﻿"Apple 新启用的 APFS 文件系统格式逆向分析： https://t.co/NtjzF5zv7u"
+[ macOS ]  YARA signatures for Snake / Turla OSX malware https://github.com/Neo23x0/signature-base/blob/master/yara/apt_snaketurla_osx.yar Report by @ foxit https://blog.fox-it.com/2017/05/03/snake-coming-soon-in-mac-os-x-flavour/ https://t.co/H3xXOW2JIz
+Fox-IT 的研究员发现 Snake 恶意软件框架首次出现了攻击 MacOS 操作系统的版本：  https://blog.fox-it.com/2017/05/03/snake-coming-soon-in-mac-os-x-flavour/   Github： https://github.com/Neo23x0/signature-base/blob/master/yara/apt_snaketurla_osx.yar
+[ macOS ]  macOS < 10.12.4 trigger for kernel/ring-0 heap overflow PoC: https://pastebin.com/sF1Kv1hq
+[ macOS ]  MacOS uses an insecure swap file https://bugs.chromium.org/p/project-zero/issues/detail?id=1131
+" macOS 系统 Root 用户可以直接写 swap 内存交换文件(/private/var/vm/swapfile0)（CVE-2017-2494）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1131 "
+[ macOS ]  Two new macOS XNU bugs by Jann Horn of P0: https://bugs.chromium.org/p/project-zero/issues/detail?id=1149 and https://bugs.chromium.org/p/project-zero/issues/detail?id=1164
+" macOS: raw frame pointers in stackshot，泄露内核原始栈指针（CVE-2017-2516）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1164      macOS： kernel register leak via 32-bit syscall exit(CVE-2017-2509)： https://bugs.chromium.org/p/project-zero/issues/detail?id=1149 "
+[ macOS ]  MacOS local EoP due to lack of bounds checking in HIServices custom CFObject serialization https://bugs.chromium.org/p/project-zero/issues/detail?id=1219
+" macOS local EoP due to lack of bounds checking in HIServices custom CFObject serialization（CVE-2017-6978）： https://t.co/8edDxvhDrn "
+[ macOS ]  iOS/OS X NSKeyedArchiver memory corruption due to lack of bounds checking in CAMediaTimingFunctionBuiltin https://bugs.chromium.org/p/project-zero/issues/detail?id=1175
+" iOS/macOS CAMediaTimingFunctionBuiltin NSKeyedArchiver 边界检查处理不当引起的内存破坏漏洞（CVE-2017-2527）： https://t.co/H2xHJDxjqu "
+[ macOS ]  iOS/MacOS NSKeyedArchiver heap corruption due to rounding error in TIKeyboardLayout initWithCoder: https://bugs.chromium.org/p/project-zero/issues/detail?id=1172
+" iOS/macOS NSKeyedArchiver heap corruption due to rounding error in TIKeyboardLayout initWithCoder（CVE-2017-2524）： https://t.co/7Xdfp4Dmpa "
+[ macOS ]  iOS/MacOS memory corruption due to bad bounds checking in NSCharacterSet coding for NSKeyedUnarchiver https://bugs.chromium.org/p/project-zero/issues/detail?id=1168
+" iOS/macOS NSKeyedUnarchiver NSCharacterSet coding 边界检查处理不当引起的内存破坏漏洞（CVE-2017-2522）： https://t.co/wuPSDe3Wkq "
+[ macOS ]  iOS/MacOS kernel memory disclosure due to lack of bounds checking in netagent socket option handling https://bugs.chromium.org/p/project-zero/issues/detail?id=1140
+" macOS netagent_handle_register_setopt 因缺少边界检查造成的内核信息泄露漏洞（CVE-2017-2507）： https://t.co/wn6ijmManJ "
+[ macOS ]  iOS/MacOS kernel uaf due to bad locking in unix domain socket file descriptor externalization https://bugs.chromium.org/p/project-zero/issues/detail?id=1123
+" iiOS/macOS 内核文件描述符 unp_externalize 锁处理不当引起的 UAF（CVE-2017-2501）： https://t.co/3ZU90BVYzl "
+[ macOS ]  Monitoring HTTPS Traffic of a Single App on OSX https://calebfenton.github.io/2017/05/27/monitoring-https-of-a-single-app-on-osx/
+"  如何在 macOS 中监控指定应用的 HTTPS 流量：  https://t.co/1IyxK3EPRz单 "
+[ macOS ]  macOS 10.12.2本地提权和XNU port 堆风水： https://mp.weixin.qq.com/s/BtRoG4b4sNauaia-8jmL2g
+[ macOS ]  dyld_cache_extract - 从 macOS/iOS dyld_shared_cache 中提取动态库的工具： https://github.com/macmade/dyld_cache_extract
+[ macOS ]  macOS FileVault 磁盘加密破解工具： https://github.com/macmade/FileVaultCracker
+[ macOS ]  一篇文章走进Mac逆向的世界，来自 AloneMonkey Blog： http://www.alonemonkey.com/2017/05/31/get-start-with-mac-reverse/
+[ macOS ]  macOS Disk Arbitration Daemon 条件竞争提权漏洞利用脚本（CVE-2017-2533）： https://t.co/pPArGm0zlL
+[ macOS ]   如何在 macOS 上安装 Powershell 6.0： http://www.techrepublic.com/article/how-to-install-microsoft-powershell-6-0-on-macos/
+[ macOS ]   上个月推送过一篇今年 Pwn2Own 上《利用 macOS Disk Arbitration 服务挂载（Mount）实现中的条件竞争漏洞（CVE-2017-2533）穿越沙箱获得 Root》的文章，那篇作者介绍的是利用符号链接攻击挂载服务提权的过程。今天作者发了第二篇，介绍如何获得前期的 authorization token 以及创建符号链接的能力： https://phoenhex.re/2017-07-06/pwn2own-sandbox-escape  https://phoenhex.re/2017-06-09/pwn2own-diskarbitrationd-privesc
+[ macOS ]    如何在 OS X 编译出 AFL 的 LLVM 模式，提高性能： https://reverse.put.as/2017/07/10/compiling-afl-osx-llvm-mode/
+[ macOS ]   用 Metasploit 生成可以 Bypass macOS 版本 Avast 12.7 的 Payload： https://astr0baby.wordpress.com/2017/07/13/bypassing-antivirus-on-osx-10-11-with-metasploit-avast/
+[ macOS ]  macOS软件安全工程师技能表，来自 非虫's weibo： https://m.weibo.cn/status/4130804521338030
+[ macOS ]  Apple 发布 macOS Sierra 10.12.6 安全更新，修复多个漏洞： https://support.apple.com/en-us/HT207922
+[ macOS ]   macOS 系统软件升级器（Updater）和安装器（Installer）漏洞所引入的提权问题，包括系统自带的也包括一些第三方软件提供的，来自 DEFCON 会议的演讲： https://speakerdeck.com/patrickwardle/defcon-2017-death-by-1000-installers-its-all-broken
+[ macOS ]   Pwnfest 2016 利用两个变量未初始化漏洞实现 macOS Sierra 内核任意代码执行的过程，来自 Usenix WOOT 17 会议： https://www.usenix.org/system/files/conference/woot17/woot17-paper-xu.pdf
+[ macOS ]   macOS 10.12.4 的内核及驱动中的类型树，来自 Proteas： https://github.com/Proteas/macos-class-tree
+[ macOS ]   macOS Sierra 10.12.2 内核 mach_voucher_extract_attr_recipe_trap mach trap 堆溢出漏洞的利用（CVE-2017-2370），之前 Ian Beer 写过一篇分析该漏洞的文章： http://theori.io/research/korean/osx-kernel-exploit-2  https://googleprojectzero.blogspot.com/2017/04/exception-oriented-exploitation-on-ios.html
+[ macOS ]  实现 macOS 内核监控的几种方法： https://paper.seebug.org/380/
+[ macOS ]   如何在运行时修复 macOS 10.9 版本 Swift 4 运行时缺失的 “object_isClass”  方法： https://www.hopperapp.com/blog/?p=219
+[ macOS ]  OS X/iOS Entitlement Database： http://newosxbook.com/ent.jl?ent=&osVer=MacOS13
+[ macOS ]   Bypass macOS 10.13 内核新加的 "Secure Kernel Extension Loading" 内核模块加载保护特性： https://objective-see.com/blog/blog_0x21.html
+[ macOS ]  Source for macOS 10.12.5 and 10.12.6： https://opensource.apple.com/release/macos-10125.html https://opensource.apple.com/release/macos-10126.html
+[ macOS ]    苹果  macOS 10.12 差分隐私保护（Differential Privacy）的实现，Paper： https://arxiv.org/pdf/1709.02753.pdf
+[ macOS ]   LuLu - objective-see 开源的一个 macOS 防火墙软件： https://github.com/objective-see/LuLu
+[ macOS ]   《The Python Bites your Apple：Fuzzing and exploiting OSX Kernel bugs》，《蛇噬汝果：基于Python的OSX内核漏洞模糊测试挖掘和利用》，来自科恩实验室 Flanker 在 XKungfoo 2016 会议的演讲： https://papers.put.as/papers/macosx/2016/xkungfoo.pdf
+[ macOS ]   Biting the Apple that feeds you（咬一口嘴边的苹果） - macOS 内核的 Fuzzing，来自 MWR Labs 在 44CON 会议的演讲： https://labs.mwrinfosecurity.com/assets/BlogFiles/mwri-44con-biting-the-apple-that-feeds-you-2017-09-25.pdf
+[ macOS ]   High Sierra macOS 系统中，未签名的程序通过编程可以导出 keychain 中的明文密码： https://twitter.com/i/web/status/912254053849079808
+[ macOS ]  macOS High Sierra 10.13 安全更新内容： https://support.apple.com/en-us/HT208144
+[ macOS ]    Mac OS X 10.12 Quarantine Bypass - macOS 的 rhtmlPlayer.html 存在一个 DOM XSS，攻击者可以利用 rhtmlPlayer.html 实现在无限制的上下文中实现 JavaScript 任意命令执行，譬如直接读 /etc/passwd：  https://blogs.securiteam.com/index.php/archives/3449  https://www.wearesegment.com/research/Mac-OS-X-Local-Javascript-Quarantine-Bypass.html
+[ macOS ]    XNU kernel 4570.1.46 sources (macOS High Sierra 10.13) 内核源码公开了，下载链接：  https://opensource.apple.com/tarballs/xnu/xnu-4570.1.46.tar.gz
+[ macOS ]   Duo Security 团队的研究员称，2015 年 Thunderstrike bootkit 攻击公开至今，尽管苹果发布了多次补丁更新，但是大约有 4.2% 的 MAC PC 并没有收到固件补丁更新： https://threatpost.com/macs-not-receiving-efi-firmware-security-updates-as-expected/128191/  https://duo.com/assets/ebooks/Duo-Labs-The-Apple-of-Your-EFI.pdf
+[ macOS ]    逆向 macOS High Sierra Supplemental 版本更新，定位加密卷密码泄露 Bug 的细节： https://cocoaengineering.com/2017/10/08/reverse-engineering-macos-high-sierra-supplemental-update/
+[ macOS ]   剖析 macOS 的日志 - logd 服务以及它所管理的文件：  https://eclecticlight.co/2017/10/10/inside-the-macos-log-logd-and-the-files-that-it-manages/
+[ macOS ]  安全研究人员发现在 macOS High Sierra XNU 内核中利用 kill 系统调用可实现提权，非特权用户可以杀掉系统中的所有运行进程： http://seclists.org/oss-sec/2017/q4/61
+[ macOS ]  Mac OS X 10.12隔离机制绕过漏洞，该漏洞允许攻击者绕过Apple的隔离机制，不受任何限制执行任意JavaScript代码。前段时间推送过这篇公告的英文版（ https://blogs.securiteam.com/index.php/archives/3449 ），这次是中文版： https://blogs.securiteam.com/index.php/archives/3481
+[ macOS ]   macOS 操作系统桌面搜索引擎 Spotlight 因为接受内核的文件系统通知事件而暴露的攻击面分析： https://blog.doyensec.com/2017/11/15/osx-spotlight.html
+[ macOS ]  动手写一个简单的Mac内核反反调试扩展： http://www.alonemonkey.com/2017/11/20/get-start-antidebug-kext/
+[ macOS ]   在 macOS 10.13 上挂载 APFS 和 4K 镜像： https://www.mac4n6.com/blog/2017/11/26/mount-all-the-things-mounting-apfs-and-4k-disk-images-on-macos-1013
+[ macOS ]   macOS High Sierra 爆 ROOT 用户空密码登陆。多次点击登陆按钮，root 用户可以用一个空密码登陆进系统： https://twitter.com/i/web/status/935578694541770752  https://news.hitb.org/content/anyone-can-hack-macos-high-sierra-just-typing-root
+[ macOS ]   Why <blank> Gets You Root，Objective-See 研究员对昨天爆出的 macOS ROOT 空密码提权 Bug 的分析：  https://objective-see.com/blog/blog_0x24.html
+[ macOS ]   macOS High Sierra 10.13.2 安全更新内容：  https://support.apple.com/en-us/HT208331
+[ macOS ]    macOS 10.13.1 系统中，如果我们有能力改写任何不受 SIP 保护的文件，但是改写后的属主不是 ROOT。这种条件下如何实现进一步利用提权，作者想到的方法是：cron： https://m4.rkw.io/blog/macos-high-sierra-10131-insecure-cron-system.html
+[ macOS ]  Project Zero 公开了几个 macOS/iOS 的漏洞细节（CVE-2017-13865、CVE-2017-13867、CVE-2017-13875、CVE-2017-13876、CVE-2017-13861）：  1) https://bugs.chromium.org/p/project-zero/issues/detail?id=1386 ; 2) https://bugs.chromium.org/p/project-zero/issues/detail?id=1372 ; 3) https://bugs.chromium.org/p/project-zero/issues/detail?id=1373 ; 4) https://bugs.chromium.org/p/project-zero/issues/detail?id=1375 ; 5) https://bugs.chromium.org/p/project-zero/issues/detail?id=1417 ;
+[ macOS ]    iOS / macOS 的 VPN Client 可以帮用户实现在公用 WiFi 中匿名安全的通信，然而 Apple SDK 的 NetworkExtension 存在安全问题，攻击者可以自己写一个 APP，绑定物理接口 IP 上，可以导致所有的 VPN 流量都不从 VPN 安全信道传输了： https://www.symantec.com/blogs/threat-intelligence/security-vpn-ios-macos
+[ macOS ]  公开的免费书： Mac OS X and iOS Internals: To the Apple's Core： http://newosxbook.com/MOXiI.pdf
+[ macOS ]   IOHIDeous - IOHIDFamily 中的一个内核任意地址读写漏洞，只影响 macOS 系统：  https://siguza.github.io/IOHIDeous/
+[ macOS ]  MacOS 本地提权漏洞给予攻击者 root 访问权限： https://threatpost.com/macos-lpe-exploit-gives-attackers-root-access/129282/
+[ macOS ]  macOS High Sierra 发布 10.13.2 版本，推送 Spectre 幽灵 CPU 漏洞的补丁： https://support.apple.com/en-us/HT208397
+[ macOS ]  Measuring OS X Meltdown Patches Performance： https://reverse.put.as/2018/01/07/measuring-osx-meltdown-patches-performance/
+[ macOS ]  macOS High Sierra 被爆可利用任意密码解锁App Store 的系统偏好设置： https://www.macworld.com/article/3246634/macs/macos-high-sierra-bug-unlock-app-store-system-preferences.html
+[ macOS ]   由于 AppleIntelCapriController :: getDisplayPipeCapability 中缺少边界检查导致 MacOS 内核内存泄漏（CVE-2017-13878）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1374
+[ macOS ]  MWR Labs 发布了三个关于 Apple macOS/ios 权限提升漏洞的公告（CVE-2017-13848、CVE-2017-7114、CVE-2017-13858）： 1）： https://labs.mwrinfosecurity.com/advisories/com-apple-avebridgequerycompletion/ 2）： https://labs.mwrinfosecurity.com/advisories/containerextendedinfo-invalid-write/  3）： https://labs.mwrinfosecurity.com/advisories/com-apple-avebridgesubmitdata-kernel-null-pointer-derefence/
+[ macOS ]   利用 macOS 的事件监控 Demon 服务 emond 实现稳定控制（Persistence）： https://posts.specterops.io/leveraging-emond-on-macos-for-persistence-a040a2785124
+[ macOS ]   苹果发布 macOS High Sierra 10.13.3 版本安全更新：  https://support.apple.com/en-us/HT208465
+[ macOS ]  如何读取 macOS Notes 应用的数据库内容: https://www.swiftforensics.com/2018/02/reading-notes-database-on-macos.html?m=1
+[ macOS ]  macOS 10.13.1 源码放出：  https://opensource.apple.com/release/macos-10131.html
+[ macOS ]  macOS 10.13.3 sources 放出： https://opensource.apple.com/release/macos-10133.html
+[ macOS ]  macOS 10.13.2 的源码公开了： https://opensource.apple.com/release/macos-10132.html
+[ macOS ]  由于 AppleEmbeddedOSSupportHostClient::registerNotificationPort 方法缺少锁操作导致 MacOS 内核 UAF 漏洞（CVE-2018-4083）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1430
+[ macOS ]   macOS 系统 Installer Plugins 从 /tmp 文件夹加载 .pkg 代码执行的特性可以被用来劫持签名应用（Signed APP）： https://posts.specterops.io/malicious-installer-plugins-6e30991bb529
+[ macOS ]  macOS 沙箱内的 APP 可以在任何时间截屏，并且用户无感知： https://krausefx.com/blog/mac-privacy-sandboxed-mac-apps-can-take-screenshots
+[ macOS ]  利用 jtool 对 Apple File Conduit daemon 的逆向分析： http://newosxbook.com/articles/afcdecomposed.html
+[ macOS ]  利用 CGDisplayCreateImage 和 OCR 绕过 MacOS 应用沙盒：  https://malwaresec.github.io/RogueApp.html
+[ macOS ]  macOS Unified log 介绍： https://eclecticlight.co/2018/03/19/macos-unified-log-1-why-what-and-how/
+[ macOS ]  MacOS High Sierra 的 Unified 日志中可看到 APFS 外部加密卷的明文密码： https://www.mac4n6.com/blog/2018/3/21/uh-oh-unified-logs-in-high-sierra-1013-show-plaintext-password-for-apfs-encrypted-external-volumes-via-disk-utilityapp
+[ macOS ]  Breaking macOS one click at a time，滥用 Synthetic 事件绕过 macOS 安全防御，来自 SyScan 2018： https://objective-see.com/talks/Wardle_SyScan2018.pdf
+[ macOS ]  发篇推文让你的 OSX 崩溃： https://twitter.com/eylon_by/status/978279839223427074
+[ macOS ]  逆向分析 macOS 的 DSMOS 内核扩展： https://lightbulbone.com/posts/2016/10/dsmos-kext/
+[ macOS ]  macOS High Sierra 10.13.4 安全更新内容： https://support.apple.com/zh-cn/HT208692
+[ macOS ]  监控 macOS ，Part 1：通过 MACF 监控进程执行情况： https://www.fortinet.com/blog/threat-research/monitoring-macos--part-i--monitoring-process-execution-via-macf.html
+[ macOS ]  在 macOS 的 /var/log/install.log 日志中存储了 APFS 加密使用的明文密码： https://www.mac4n6.com/blog/2018/3/30/omg-seriously-apfs-encrypted-plaintext-password-found-in-another-more-persistent-macos-log-file
+[ macOS ]  macOS 1day 漏洞分析与利用，构造命令执行-沙盒绕过-本地提权的攻击链，来自 Zer0Con 2018 ： https://github.com/theori-io/zer0con2018_singi/blob/master/slide/singi_zer0con_2018_slide.pdf
+[ macOS ]  macOS necp_client_action 系统调用中的堆溢出漏洞分析与利用： https://blog.grimm-co.com/post/heap-overflow-in-the-necp_client_action-syscall/
+[ macOS ]  使用开源工具建立 MacOS 安全监控(osquery + santa + openBSM): https://blogs.dropbox.com/tech/2018/04/4696/
+[ macOS ]  Apple macOS/iOS - ReportCrash mach port Replacement due to Failure to Respect MIG Ownership Rules(CVE-2018-4206)： https://www.exploit-db.com/exploits/44562/

@@ -1,0 +1,166 @@
+[ Mobile ]  Threat Analysis of Malicious Applications on Mobile Operating Systems : https://www.ernw.de/download/newsletter/ERNW_Newsletter_55_Threat_Analysis_v1.0_signed.pdf (pdf) cc @ Enno_Insinuator
+﻿"手机操作系统上的恶意应用威胁研究，来自 ERNW 的 Paper︰ https://t.co/UaEb9plZCR "
+[ Mobile ]  Mobile Security News Update September 2016 https://www.mulliner.org/blog/blosxom.cgi/security/mobile_security_news_update_sep2016.html <-- Very Android Heavy
+﻿" Collin R. Mulliner 总结的 9 月份的移动安全热点： https://t.co/MdOLylrvw2 "
+[ Mobile ]  New blog entry: Samsung Pay NFC flaw https://salmg.net/2016/10/11/samsung-pay-nfc-flaw/ #infosec #ekoparty #BugCON @ zackwhittaker
+﻿"Samsung Pay NFC flaw ：  https://salmg.net/2016/10/11/samsung-pay-nfc-flaw/ "
+[ Mobile ]  移动终端交互行为分析的身份主动认证与安全感知： https://www.inforsec.org/wp/?p=1393
+[ Mobile ]  Mobile Security News Update October 2016 https://www.mulliner.org/blog/blosxom.cgi/security/mobile_security_news_update_oct2016.html OMG so many pics!
+﻿"由 Collin Mulliner 总结的 10 月份移动安全动态： https://t.co/dj821gf5Op "
+[ Mobile ]  Fun for researchers: Cellebrite phone hacking firmware leaked online: http://motherboard.vice.com/read/the-phone-hackers-at-cellebrite-have-had-their-firmware-leaked-online
+﻿"以色列数字取证公司 Cellebrite 固件泄露︰ https://t.co/I6Wf9Fzhp3"
+[ Mobile ]  MARA_Framework : A Mobile Application Reverse engineering and Analysis Framework : https://github.com/xtiankisutsa/MARA_Framework
+﻿"MARA_Framework -- 一个用于逆向移动应用与分析的框架︰ https://t.co/j4ANpdWrSE"
+[ Mobile ]  Mobile Security Wiki： https://mobilesecuritywiki.com/
+[ Mobile ]  I released a new blog post called, JTAGing Mobile Phones - https://sysforensics.org/2016/08/jtaging-mobile-phones/ #DFIR #JTAG #infosec
+﻿"JTAGing Mobile Phones： https://t.co/qDxcZjtuSA "
+[ Mobile ]  Working on Mobile Security, look at OWASP Projects: Testing Guide (https://github.com/OWASP/owasp-mstg) and ASVS (https://t.co/VrxldjojP4) for mobile
+﻿"OWASP 移动安全测试指南： https://github.com/OWASP/owasp-mstg ; OWASP MASVS： https://github.com/OWASP/owasp-masvs "
+[ Mobile ]  MobSF v0.9.3 is released. Now supports Windows App Static Analysis. See what’s new:... http://fb.me/Z0OADo6L
+﻿"MobSF v0.9.3 发布 -- 一个可用来测试手机应用安全性的框架： https://github.com/ajinabraham/Mobile-Security-Framework-MobSF/releases/tag/v0.9.3"
+[ Mobile ]  ITU published the 2016 edition of their list of E.212 Mobile Network Codes (MNC) http://www.itu.int/pub/T-SP-E.212B-2016
+﻿"Mobile Network Codes (MNC)： https://t.co/yo5v3i5G2E"
+[ Mobile ]  Post mortem on #Samsung Galaxy Note 7 https://www.instrumental.ai/blog/2016/12/1/aggressive-design-caused-samsung-galaxy-note-7-battery-explosions https://t.co/thmaXZjESX
+﻿"激进设计导致 Samsung Galaxy Note 7 爆炸： https://t.co/TW1aFPrc2P https://t.co/thmaXZjESX"
+[ Mobile ]  Samsung Mobile December 2016 Security Updates: http://security.samsungmobile.com/smrupdate.html#SMR-DEC-2016
+﻿"三星手机 12 月安全更新︰ https://t.co/8WSC4xCG9I"
+[ Mobile ]  New post: Mobile Ransomware: Pocket-Sized Badness http://bit.ly/2hn2p4Q @ TrendMicro
+﻿"TrendMicro 对手机勒索软件的研究： https://t.co/74pwNrsy3X "
+[ Mobile ]  Stack buffer overflow and information disclosure in OTP TrustZone trustlet via OTP_GET_CRYPTO_DERIVED_KEY https://bugs.chromium.org/p/project-zero/issues/detail?id=939
+﻿"三星设备的 OTP TrustZone 内出现栈溢出及信息泄露漏洞： https://t.co/eEvEv5Svn3"
+[ Mobile ]  Mobile Application Testing Cheatsheet and Testing Checklist - https://github.com/sh4hin/MobileApp-Pentest-Cheatsheet
+﻿"移动应用渗透测试备忘录： https://t.co/joUS0jcCoG"
+[ Mobile ]  Escalating Local Privileges Using Mobile Partner https://osandamalith.com/2014/10/20/escalating-local-privileges-using-mobile-partner/ (from my friend @ OsandaMalith )
+﻿"利用华为 Mobile Partner 进行提权： https://t.co/CTL31uMlKg "
+[ Mobile ]  #OWASP #Mobile #Security Testing Guide - Full List of Test Cases plus Excel Checklist https://github.com/OWASP/owasp-mstg/blob/master/all_tests.md https://t.co/exDPzfOXAw
+﻿"OWASP 移动安全测试指南： https://t.co/AGHynifgn2"
+[ Mobile ]  通信监听：来自联邦政府的多纲目触手： https://mp.weixin.qq.com/s/p9XelW0FOwPXWctdW2JtLA
+[ Mobile ]  #Android #Security Bulletin by #Samsung http://security.samsungmobile.com/smrupdate.html#SMR-DEC-2015
+﻿"Samsung Android Security 12月公告： http://security.samsungmobile.com/smrupdate.html"
+[ Mobile ]  Relive : A look into the Mobile Messaging Black Box : https://fahrplan.events.ccc.de/congress/2016/Fahrplan/system/event_attachments/attachments/000/003/121/original/slides.pdf (Slides) , Live-Stream : http://streaming.media.ccc.de/33c3/relive/8062 cc @ twillnix
+﻿"移动通讯软件的消息传递内幕分析︰ https://t.co/m8hp3MuKhE ，video︰ https://t.co/WYym0TgEaH "
+[ Mobile ]  剑与盾——移动游戏安全攻防研究： http://securitygossip.com/blog/2016/12/29/2016-12-29/
+[ Mobile ]  有研究者研究发现，小米的 Bootloader 锁并不安全，包括最新的 Mi Mix：https://gist.github.com/anonymous/5fd967b3fe5d9201e0ec7a1d35c03a19
+[ Mobile ]  OnePlus 3/3T Vulnerability Allows Changing of SELinux to Permissive Mode in Fastboot: https://www.xda-developers.com/oneplus-33t-bootloader-vulnerability-allows-changing-of-selinux-to-permissive-mode-in-fastboot/
+﻿"一加手机 3/3T Bootloader 存在漏洞，允许在 Fastboot 中将SELinux 更改为 Permissive 模式︰ https://t.co/l14j8BMnVI"
+[ Mobile ]  DIY smartphone based on Raspberry Pi Zero : https://hackaday.io/project/19035-zerophone-a-raspberry-pi-smartphone/log/51839-project-description-and-frequently-asked-questions https://t.co/YtOQPnhIzp
+﻿"50 美元，打造一个你自己的智能手机︰ https://t.co/K7gvdSIUgj https://t.co/YtOQPnhIzp"
+[ Mobile ]  .@ Qualcomm Secure Boot & Image Authentication - in detail. Blog: https://www.qualcomm.com/news/onq/2017/01/17/secure-boot-and-image-authentication-mobile-tech, FULL WHITEPAPER: https://t.co/afbnevJtsP
+﻿"高通 Secure Boot 及 Image Authentication 技术总览（PDF）︰ https://t.co/afbnevJtsP"
+[ Mobile ]  PoC and details of CVE-2016-3873: Arbitrary Kernel Write in Nexus 9: https://sagi.io/2016/09/cve-2016-3873-arbitrary-kernel-write-in-nexus-9/
+﻿"Nexus 9 任意内核写漏洞细节（CVE-2016-3873）: https://t.co/xIimBl4iYp"
+[ Mobile ]  New post: In Review: 2016’s Mobile Threat Landscape Brings Diversity, Scale, and Scope http://bit.ly/2j88vHz @ TrendMicro
+﻿"回顾 2016 年移动安全： https://t.co/QEXCesVqzH "
+[ Mobile ]  local wifi can access any file including dropbox etc... on LG G3/G4/G5 if they know name https://goo.gl/SsXikc http://goo.gl/q9MMNx
+﻿"LG G3/G4/G5 云服务的任意文件读： https://t.co/ucjSNHMzww "
+[ Mobile ]  智能手机相比电脑，谁更安全: http://mp.weixin.qq.com/s?__biz=MzI3ODI4NDM2MA==&mid=2247483680&idx=1&sn=d34636d19e6a90ab6b8e9358eb399b72
+[ Mobile ]  移动APP安全测试要点： http://blog.nsfocus.net/mobile-app-security-security-test/
+[ Mobile ]  New Bootloader Vulnerabilities in OnePlus 3/3T - CVE-2017-5626 and CVE-2017-5624 https://securityresear.ch/2017/02/08/oneplus3-bootloader-vulns/
+﻿"利用 Bootloader 解锁 OnePlus 3/3T 手机（CVE-2017-5626 和 CVE-2017-5624）： https://t.co/SY1E0RLZed"
+[ Mobile ]  New Blogpost: ? Unpatched (0day) jQuery Mobile XSS http://sirdarckcat.blogspot.com/2017/02/unpatched-0day-jquery-mobile-xss.html
+﻿"未修复的 jQuery Mobile XSS： https://t.co/i5y5Ww6g66"
+[ Mobile ]  OnePlus3/3T Bootloader Vuln (<OxygenOS4.0.1): https://securityresear.ch/2017/02/08/oneplus3-bootloader-vulns/#exploiting-cve-2017-5626-for-kernel-code-execution more details: https://www.xda-developers.com/two-critical-oneplus-33t-bootloader-security-flaws-discovered-one-patched-and-other-being-addressed/ "fastboot oem disable dm-verity"
+﻿"OnePlus 3/3T BootLoader 解锁漏洞及 SELinux 漏洞的分析： https://www.xda-developers.com/two-critical-oneplus-33t-bootloader-security-flaws-discovered-one-patched-and-other-being-addressed/"
+[ Mobile ]  Mobile Network Security Experiments With USRP [PDF] #USRP #SDR https://brage.bibsys.no/xmlui/bitstream/id/451272/15719_FULLTEXT.pdf https://t.co/m0hvDJ6M7b
+﻿"利用 USRP 进行 手机网络安全实践： https://t.co/nMd5vQkG1p"
+[ Mobile ]  Mobile Phone Network Security Internet Security [1] VU #SDR #MobileNetWorks https://secenv.seclab.tuwien.ac.at/secenv/static/inetsec1/11_mobileNetworks.pdf https://t.co/8REfc822d2
+﻿"手机网络安全性： https://t.co/qDFnhH2qfj "
+[ Mobile ]  SSD Advisory – HTC Sync Remote Code Execution https://blogs.securiteam.com/index.php/archives/3026
+﻿"HTC Sync 软件 v3.3.63 版本被发现了一个远程代码执行漏洞： https://t.co/d4DwZCY6gU"
+[ Mobile ]  My talk at the #androidsecuritysymposium: Building Threat Models for the #Mobile Ecosystem http://jfranklin.me/prez/AndroidSecuritySymposium-2017.pdf #mobilesecurity #infosec
+﻿"移动生态系统威胁建模： https://t.co/nPbQopFGzY"
+[ Mobile ]  [CVE-2017-5623] #OnePlus 3/3T #OxygenOS 4.0.3 and below Boot Mode Changing #Vulnerability https://alephsecurity.com/vulns/aleph-2017005
+﻿"一加 3/3T OxygenOS 4.0.3 未授权启动模式篡改漏洞（CVE-2017-5623）： https://t.co/BWewHU6TsF"
+[ Mobile ]  美国国土安全部：放一段声音，你的手机就可能被黑： http://www.youxia.org/homeland-security-a-sound-your-cell-phone-may-be-black.html?from=timeline&isappinstalled=0
+[ Mobile ]  Mobile Security Research - Recap 2016 - http://www.virqdroid.com/2017/03/mobile-security-research-recap-2016.html
+﻿"针对 2016 年移动安全研究方面的总结，包括 演讲、技术文章、论文等： https://t.co/xQPQsVxof3"
+[ Mobile ]  Owning OnePlus 3/3T with a Malicious Charger (CVE-2017-5622) : https://alephsecurity.com/2017/03/26/oneplus3t-adb-charger/
+﻿"利用充电器搞定 OnePlus 3/3T（拥有 adb 访问权限的 Charger Boot Mode），搞定之后可以获得 root shell，替换系统分区: https://t.co/JCuPAJI1Ko"
+[ Mobile ]  Hacking Xiaomi MI Smartphone into Zigbee Sniffer : http://faire-ca-soi-meme.fr/hack/2017/03/13/hack-xiaomi-mi-smarthome-zigbee-sniffer/ https://t.co/omPstT7D6G
+﻿"利用 Zigbee Sniffer Hacking 小米的智能家具硬件（法语）︰ https://t.co/657ZaL8HNW "
+[ Mobile ]  高通设备上由于缺少 TVM 置位，攻击者可以 Bypass 三星 RKP 内核保护特性（Real-time Kernel Protection）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1041
+[ Mobile ]  [Slides] Mobile Telephony Threats in Asia https://goo.gl/WN06sY - #BlackHatAsia 2017
+﻿" 亚洲地区来自移动电话的威胁分析： https://www.blackhat.com/docs/asia-17/materials/asia-17-Balduzzi-Mobile-Telephony-Threats-In-Asia.pdf "
+[ Mobile ]  SunShine now supports the Samsung Galaxy Note 7 - Unlock your bootloader before your phone bursts into flames https://t.co/l7ENUInbZo
+﻿"SunShine - HTC/摩托罗拉手机的 Bootloader 解锁工具： https://t.co/l7ENUInbZo"
+[ Mobile ]  Fuzzing your GSM phone using OpenBSC and scapy [PDF] https://events.ccc.de/congress/2009/Fahrplan/attachments/1503_openbsc_gsm_fuzzing.pdf https://t.co/oyzSew5QAI
+﻿"利用 OpenBSC 和 scapy Fuzz GSM 手机： https://t.co/htXQoRZW6n "
+[ Mobile ]  Attacking ARM Trustzone using Rowhammer by @ eshardNews (direct link) http://www.eshard.com/wp-content/plugins/email-before-download/download.php?dl=9465aa084ff0f070a3acedb56bcb34f5
+﻿"利用 RowHammer 的方式尝试攻击 TrustZone： https://t.co/TGCRWnoqVU "
+[ Mobile ]  [CVE-2017-5625] #OnePlus 3/3T #OxygenOS Unauthorized Flash Dumping via fastboot #Vulnerability https://alephsecurity.com/vulns/aleph-2017006
+﻿"OnePlus（一加手机）3/3T fastboot Flash Dump 漏洞，影响 OxygenOS 4.0.2 及之前版本： https://t.co/rmFjlTe7u1"
+[ Mobile ]  Mobile Security News Update April 2017 https://www.mulliner.org/blog/blosxom.cgi/security/mobile_security_news_update_april_2017.html #flexispy #android sooo many slides
+﻿"4 月移动安全方向的动态总结： https://t.co/9Uxds51q3O #"
+[ Mobile ]  手把手教你手机编译 ROM，让自己的手机运行自己编译的 ROM（视频）: http://0xcc0xcd.com/p/videos/build-your-own-rom.php
+[ Mobile ]  关注 GSM/移动网络安全的 OsmoCon 2017 会议的视频资料公开了： https://media.ccc.de/c/osmocon17
+[ Mobile ]  [CVE-2017-0563] #Nexus 9 Cypress SAR #Firmware #Injection via I2C #Vulnerability https://alephsecurity.com/vulns/aleph-2017009
+Google Nexus 9 Cypress 传感器的固件可以通过 I2C 总线注入更新（CVE-2017-0563）： https://alephsecurity.com/vulns/aleph-2017009
+[ Mobile ]  [CVE-2017-0582] #Nexus 9 #SensorHub #Firmware #Downgrade #Vulnerability https://alephsecurity.com/vulns/aleph-2017010
+Google Nexus 9 SensorHub Firmware Downgrade Vulnerability（CVE-2017-0582）： https://alephsecurity.com/vulns/aleph-2017010
+[ Mobile ]  LG: Bad alloca calls in liblg_parser_mkv.so https://bugs.chromium.org/p/project-zero/issues/detail?id=1102
+" Project Zero 公开了 LG Android 手机 mkvparser 的 3 个漏洞：  1） https://bugs.chromium.org/p/project-zero/issues/detail?id=1102  2） https://bugs.chromium.org/p/project-zero/issues/detail?id=1124  3） https://bugs.chromium.org/p/project-zero/issues/detail?id=1117  "
+[ Mobile ]  We have found vulnerabilities in 3G&amp;4G cellular networks, we can reset your bank passwords by hijacking/interceptin… https://t.co/ySUPb5doHF
+" 360 的研究员公开了一段视频，展示 3G&4G 蜂窝网络的漏洞，称可以劫持短信和语音呼叫： https://twitter.com/i/web/status/859617047881363456 "
+[ Mobile ]  OnePlus OTAs: Analysis & Exploitation (CVE-2017-5948, CVE-2017-8850/1, CVE-2016-10370) https://alephsecurity.com/2017/05/11/oneplus-ota/
+"  OnePlus OTA 升级中的中间人劫持漏洞的分析和利用，影响 OnePlus One/X/2/3/3T： https://alephsecurity.com/2017/05/11/oneplus-ota/ "
+[ Mobile ]  手机、Flash、SSD 都有一个加密的类 TPM 区域，称为 RPMB，可以存储一个不可复写的 Key: https://twitter.com/dragosr/status/864342884606066688
+[ Mobile ]  Samsung Galaxy S8 iris based biometrics bypass (blog post in german), video: https://media.ccc.de/v/biometrie-s8-iris-en (english) https://twitter.com/raviborgaonkar/status/866969707601158144
+" Hacking Samsung Galaxy S8 虹膜扫描器（Irisscanner）： https://t.co/Fexoove8j2 "
+[ Mobile ]  移动安全方向的资料整理： https://github.com/secmobi/wiki.secmobi.com
+[ Mobile ]   Innovera 公开的一份关于移动安全渗透测试的研究报告，介绍了移动安全渗透测试时常用的工具、并有结合 DIVA(Damn Insecure and Vulnerable App) 实验环境的实践： https://www.exploit-db.com/docs/42080.pdf
+[ Mobile ]  Appthority 的 2017 移动威胁报告显示，超过 43 TB 的用户数据存储在逾 2.1 万台未加密的 Elasticsearch 服务器上： https://www.bleepingcomputer.com/news/security/backend-servers-for-1-000-apps-expose-terabytes-of-user-data/
+[ Mobile ]  SS7 GPRS 互联攻击，来自 2015 年的 CCC 会议： https://events.ccc.de/camp/2015/Fahrplan/system/attachments/2649/original/CCCamp-SRLabs-Advanced_Interconnect_Attacks.v1.pdf  在 Shodan 上的搜索结果： https://www.shodan.io/search?query=GGSN
+[ Mobile ]  高通 TrustZone 内核允许加载 Trustlets 进 QSEE 中，加载时会验证 Trustlets 的签名。但是 Nexus 6P 和 Nexus 6 设备实现时缺少签名的吊销机制：  https://t.co/d1z4QQtxMm
+[ Mobile ]   如何利用下载模式攻破三星 Galaxy 手机的 Secure Boot： https://www.sstic.org/media/SSTIC2017/SSTIC-actes/attacking_samsung_secure_boot/SSTIC2017-Article-attacking_samsung_secure_boot-basse.pdf
+[ Mobile ]  高通（Qualcomm）LK源码深度分析（一）：  https://t.co/3c7ipW18HT  （二）： https://t.co/qMn4GYdBoW （三）： https://t.co/qovCyHYoFe
+[ Mobile ]   TEEs（可信执行环境）的初始化过程以及在保护 TEE 过程中系统初始化扮演的角色： https://www.riscure.com/news/secure-initialization-of-tees-when-secure-boot-falls-short
+[ Mobile ]    Framadrop - 利用 Rowhammer 技术攻击 TrustZone： https://framadrop.org/r/VNrp8MVg8W#jrBWuqLhVTUaTkVjcRfFqKGQ9ZrG2hcihusUnQAnYvI=
+[ Mobile ]    BOOTSTOMP - 手机设备的 Bootloaders 是信任链启动过程中的重要组件，但 Bootloader 实现本身可能存在漏洞，同时很多验证功能由于一些原因也是可以配置禁用的。这篇 Paper 作者对 4 个主流厂商的 Bootloader 的安全性进行分析： http://cs.ucsb.edu/~yanick/publications/2017_sec_bootstomp.pdf
+[ Mobile ]   MWR Labs 公开了 Huawei Y6 Pro 手机的 MediaTek frame buffer 驱动的三个漏洞： https://labs.mwrinfosecurity.com/advisories/huawei-frame-buffer-driver-information-leak/  https://labs.mwrinfosecurity.com/advisories/huawei-frame-buffer-driver-arbitrary-memory-write/  https://labs.mwrinfosecurity.com/advisories/huawei-frame-buffer-driver-arbitrary-memory-write-2/
+[ Mobile ]  TrustZone 中的降级攻击（Paper）： https://t.co/eBvJQg3mjo降级攻击
+[ Mobile ]   Samsung: Trustonic <t-base TEE does not perform revocation of trustlets： https://bugs.chromium.org/p/project-zero/issues/detail?id=1239
+[ Mobile ]   Nexus S 的底层 NFC 实现研究，来自 RECon 会议： https://recon.cx/2017/montreal/resources/slides/RECON-MTL-2017-Hacking_Cell_Phone_Embedded_Systems.pdf
+[ Mobile ]   Defeating Samsung KNOX with zero privilege，来自科恩实验室 Di Shen 在 BlackHat 会议关于三星 KNOX 的演讲： https://www.blackhat.com/docs/us-17/thursday/us-17-Shen-Defeating-Samsung-KNOX-With-Zero-Privilege.pdf
+[ Mobile ]    一加 2 手机篡改 Bootloader SBL1 分区可以禁用后续的 Bootloader 签名验证逻辑（CVE-2017-11105）： https://alephsecurity.com/vulns/aleph-2017026
+[ Mobile ]   使用智能手机的相机进行有效的指纹提取与匹配（Paper）： https://arxiv.org/pdf/1708.00884.pdf
+[ Mobile ]  解锁更多姿势——手机锁屏安全研究： https://security.tencent.com/index.php/blog/msg/118
+[ Mobile ]  4G 网络基础设施存在的漏洞威胁，来自 Positive Blog： http://blog.ptsecurity.com/2017/08/4g-networks-infrastructure-still.html
+[ Mobile ]  高通加解密引擎提权漏洞解析: http://paper.seebug.org/372/
+[ Mobile ]  给手机的一颗蓝色药丸，来自 BlackHat 会议的一篇，关于 ARM TrustZone 和 Hypervisor 的逆向和攻击： https://github.com/abazhaniuk/Publications/blob/master/2017/BlackHat_USA_2017/us-17-Bazhaniuk-Bulygin-BluePill-for-Your-Phone.pdf
+[ Mobile ]  Digital Interruption 发布的移动应用安全开发手册： http://file.digitalinterruption.com/Secure%20Mobile%20Development.pdf
+[ Mobile ]   Bypass 一加手机的 App Locker 应用保护特性： https://www.xda-developers.com/oneplus-app-locker-bypass/
+[ Mobile ]   SamPWND - 三星 Galaxy S8/S8+ Snapdragon 美版旗舰机可以 Root 了： https://www.xda-developers.com/sampwnd-root-galaxy-s8-snapdragon/
+[ Mobile ]  国内的 Android 广告 SDK 厂商个信被怀疑在用户手机上安装间谍软件，受此影响，Google Play 下架了 500 多款应用： https://threatpost.com/android-spyware-linked-to-chinese-sdk-forces-google-to-boot-500-apps/127585/
+[ Mobile ]  Oppo/Oneplus 手机的固件解密工具： https://github.com/bkerler/oppo_decrypt
+[ Mobile ]   Telling Your Secrets Without Page Faults: Stealthy Page Table-Based Attacks on Enclaved Execution，这篇 Paper 提出了一种针对可信执行环境的基于页表的攻击： https://argp.github.io/public/b81efa3a4c5826fa441852bd63a402c6.pdf
+[ Mobile ]   之前推送过 USENIX 2017 会议上的一篇关于 Android Bootloader 厂商定制中出现的 fastboot oem 的 Paper。今天作者写了一篇 Blog 《Untethered initroot》，介绍短暂的 ROOT 权限访问就可以在摩托罗拉设备实现不完美的越狱： https://alephsecurity.com/2017/08/30/untethered-initroot/
+[ Mobile ]   剖析 GSM 加密机制以及位置更新的过程： http://payatu.com/dissecting-gsm-encryption-location-update-process/
+[ Mobile ]  深度解析Bootloader攻击面，来自 KCon2017： https://github.com/knownsec/KCon/blob/master/2017/%5BKCon%202017%5D0827_7_%E5%90%B4%E4%BF%8A%E8%B1%AA_%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90Bootloader%E6%94%BB%E5%87%BB%E9%9D%A2.pdf
+[ Mobile ]  针对 VOLTE 和 VOWiFi 的攻击实战报告，来自 ERNW： https://www.ernw.de/download/newsletter/ERNW_Whitepaper_60_Practical_Attacks_On_VoLTE_And_VoWiFi_v1.0.pdf
+[ Mobile ]  分析一个电信劫持跳转下载情色APP的案例： https://www.92ez.com/?action=show&id=23453
+[ Mobile ]  从口袋里的伪基站到手持的真基站，来自 Kcon 2017： https://github.com/knownsec/KCon/blob/master/2017/%5BKCon%202017%5D0827_8_Seeker_%E4%BB%8E%E5%8F%A3%E8%A2%8B%E9%87%8C%E7%9A%84%E4%BC%AA%E5%9F%BA%E7%AB%99%E5%88%B0%E6%89%8B%E6%8C%81%E7%9A%84%E7%9C%9F%E5%9F%BA%E7%AB%99.pdf
+[ Mobile ]  Intra-Library Collusion,智能手机中潜在的隐私噩梦： https://arxiv.org/pdf/1708.03520.pdf
+[ Mobile ]  七号信令：跨国定位手机の奥义： https://mp.weixin.qq.com/s/m3YVGdftE8TbYd58fvLyyg
+[ Mobile ]  攻击TrustZone系列(Pt.2) -- 逆向高通TrustZone： http://mp.weixin.qq.com/s/l6GME9QCQAaN7Wxp7xCp9w
+[ Mobile ]   BabelView: 评估 Mobile Webviews 代码注入攻击的影响（Paper）： https://arxiv.org/pdf/1709.05690.pdf
+[ Mobile ]    VOIP 渗透测试环境的搭建：  http://www.hackingarticles.in/lab-setup-voip-penetration-testing/
+[ Mobile ]   基于 ADB 调试器卸载 OEM 厂商预装的软件（无需 ROOT）： https://www.xda-developers.com/uninstall-carrier-oem-bloatware-without-root-access/
+[ Mobile ]  使用 BRIDA 实现高级移动端渗透测试： https://techblog.mediaservice.net/wp-content/uploads/2017/10/HackInBo-2017-Winter-Edition-Federico-Dotta-Advanced-mobile-penetration-testing-with-Brida-141017.pdf
+[ Mobile ]   利用 YateBTS 和 BladeRF 搭建一个 IMSI catcher： http://www.delaat.net/rp/2015-2016/p86/report.pdf  之前还推送过一个类似的："用 Nuand BladeRF、树莓派、YatesBTS 一步步搭建一个便携式 GSM 基站"：  https://blog.strcpy.info/2016/04/21/building-a-portable-gsm-bts-using-bladerf-raspberry-and-yatebts-the-definitive-guide
+[ Mobile ]  RIBs - Uber 的跨平台移动架构： https://github.com/uber/RIBs
+[ Mobile ]   Data Theorem 团队研究员在微软 BlueHat 2017 会议关于手机平台 SSL 劫持的研究报告： https://datatheorem.github.io/documents/bluehat-2017.pdf
+[ Mobile ]   一加（OnePlus）多款手机预装的开发者模式（EngineerMode）APP 被怀疑是一个 ROOT 权限的后门： https://www.nowsecure.com/blog/2017/11/14/oneplus-device-root-exploit-backdoor-engineermode-app-diagnostics-mode/ ; 一加官方对此称，EngineerMode 是个官方遗留的诊断工具，接下来将通过 OTA 升级删除。： https://threatpost.com/debugging-tool-left-on-oneplus-phones-enables-root-access/128881/
+[ Mobile ]  Google Pixel 2 中的锁屏硬件保护模块介绍： https://security.googleblog.com/2017/11/lock-it-up-new-hardware-protections-for.html
+[ Mobile ]  深度剖析：手机指纹的马奇诺防线： https://mp.weixin.qq.com/s/0VJPz4ckWO11aD1sft2emA
+[ Mobile ]   利用 Bootloader Exploit 为锁定的 Motorola 设备刷机： https://articles.forensicfocus.com/2017/12/05/imaging-locked-motorola-devices-via-bootloader-exploit/
+[ Mobile ]   Attacks against GSMA’s M2M Remote Provisioning，来自 BlackHat Europe 2017 会议：  https://www.blackhat.com/docs/eu-17/materials/eu-17-Meyer-Attacks-Against-GSMAS-M2M-Remote-Provisioning.pdf
+[ Mobile ]  针对移动设备的安全的生物识别认证可替代方案： https://translate.google.com/#en/zh-CN/A%20Secure%20Mobile%20Authentication%20Alternative%20to%20Biometrics
+[ Mobile ]  一个电信劫持案例的简要分析： https://www.92ez.com/?action=show&id=23464
+[ Mobile ]   Huawei P8 wkupccpu debugfs 内核缓冲区溢出漏洞披露： https://blogs.securiteam.com/index.php/archives/3580
+[ Mobile ]  在单用户和跨用户配置下对智能手机传感器进行利用： https://eprint.iacr.org/2017/1169.pdf
+[ Mobile ]   利用三星 USB MTP（媒体传输协议）任意读写三星手机存储设备 Exploit，同时可以 Bypass 锁屏和只充电模式（SVE-2017-10086）： https://github.com/smeso/MTPwn
+[ Mobile ]  移动钱包以及 Apple Pay 概览： http://resources.infosecinstitute.com/overview-mobile-wallet-apple-pay/ 移动钱包的安全威胁分析： http://resources.infosecinstitute.com/examination-security-threats-posed-mobile-wallet-infrastructure/
+[ Mobile ]  比较 Samsungs ARM 与 Samsungs Qualcomm 的 Android 图像驱动： https://medium.com/@afd_icl/a-tale-of-two-samsungs-arm-vs-qualcomm-in-android-graphics-c1c6f1eef828
+[ Mobile ]   OWASP 发布《移动安全验证标准》 v1.0 版本：  https://twitter.com/mobilesecurity_/status/955896808147955712
+[ Mobile ]   华为发布漏洞公告，修复了 Mobile Pwn2Own 比赛中被使用的漏洞（CVE-2017-15308/CVE-2017-15309/CVE-2017-15310）： https://twitter.com/i/web/status/966643689794793477http://www.huawei.com/uk/psirt/security-advisories/huawei-sa-20171120-01-hwreader-en
+[ Mobile ]  移动端应用流量分析方法介绍： http://www.shadowinfosec.io/2018/04/portable-mobile-app-traffic-analysis.html

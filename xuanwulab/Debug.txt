@@ -1,0 +1,156 @@
+[ Debug ]  Debugging Early Boot Stages of Windows http://standa-note.blogspot.com.es/2014/11/debugging-early-boot-stages-of-windows.html
+﻿"如何在 Windows 引导的早期阶段 Attach 上调试器，方便调试 Bootkit  https://t.co/YqXlLCS2St"
+[ Debug ]  ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/Oldbg2/x64dbg) with IDA https://github.com/bootleg/ret-sync
+﻿"ret-sync - 调试会话同步工具，用于 Windbg、GDB、LLDB、Oldbg2、x64dbg 与 IDA 之间的会话同步 https://t.co/PsKpFN4Ofw "
+[ Debug ]  Intro to Debugging X86-64 Assembly : http://nickdesaulniers.github.io/blog/2016/01/20/debugging-x86-64-assembly-with-lldb-and-dtrace/
+﻿"LLDB 调试 X86-64 汇编的指令介绍: https://t.co/Mc12QtRhuF"
+[ Debug ]  uni-trace - Universal Trace Debugger Engine. Based on pykd. https://github.com/Baoqi/uni-trace
+﻿"uni-trace - 一个通用的调试器 Trace 工具，作为 Windbg 扩展存在， 基于 pykd，目前仅支持 Windbg， Github Repo：  https://t.co/DmeiVbB569"
+[ Debug ]  #DeepSec Video: Building a Better #Honeypot Network:… http://wp.me/p6PE4U-D2 #Defence #InfoSec #Intelligence
+﻿"构建一个更好的蜜罐网， 来自 DeepSec 会议的演讲： https://t.co/o3DotSvtxz "
+[ Debug ]  Flare Script Series: Flare-Dbg Plug-ins https://www.fireeye.com/blog/threat-research/2016/02/flare_script_series.html #RE #malware
+﻿"FireEye Flare 脚本系列文章: 这次介绍其中的三个插件 injectfind、membreak 和 importfind： https://t.co/BoXAsfsCcA  "
+[ Debug ]  How to isolate VBS or JScript malware with Visual Studio http://feedproxy.google.com/~r/eset/blog/~3/O8WiZ96Y8mQ/
+﻿"如何借助 Visual Studio 在一个可控的隔离环境中执行 VBS 和 JScript， 观察恶意软件的行为：  https://t.co/2lpH6LQJUG "
+[ Debug ]  soswow64 : windbg extension for debugging 64-bit dumps of 32-bit .NET processes : https://github.com/poizan42/soswow64
+﻿"soswow64 - 用于调试 32 位 .NET 进程 64 位内存 Dump 的 Windbg 扩展工具: https://t.co/pZ4wEeWQUf"
+[ Debug ]  Tool Added: The "Ultimate" anti debugging reference http://www.woodmann.com/collaborative/knowledge/index.php/The_%22Ultimate%22_anti_debugging_reference
+﻿"终极版反调试手册： https://t.co/iqiATWf4Qu"
+[ Debug ]  Does anyone know whether you can peek inside SGX containers using Intel's JTAG debugger? https://software.intel.com/sites/default/files/managed/d6/39/10-jtag-debugger-2014.pdf
+﻿"有谁知道是否可以用 Intel JTAG 调试器看看 SGX 容器内部的情况吗？ Intel JTAG 调试器的使用（Slides）： https://t.co/jVKK2FHIZx"
+[ Debug ]  @ standa_t http://code.google.com/p/hyperdbg
+﻿"hyperdbg - 基于硬件虚拟化的内核调试器， Google Code： https://code.google.com/archive/p/hyperdbg/ "
+[ Debug ]  pykd 0.3.0.38 Released! http://pykd.codeplex.com/releases/view/620279 many changes, recommended for upgrade
+﻿"Windbg 的调试扩展 pykd 发布 0.3.0.38 版本: https://t.co/vCD2zDL6Gd "
+[ Debug ]  ProDBG is a very cool debugger written in #Rust & uses Capstone inside! https://github.com/emoon/ProDBG (by @ daniel_collin) https://t.co/HQTeDpRbxb
+﻿"ProDBG - Rust 语言写的一个调试器, 支持多种操作系统, 目前还在开发中, Github Repo:  https://t.co/dxdGK0iMRS https://t.co/HQTeDpRbxb"
+[ Debug ]  An Introduction to Debugging the Windows Kernel with WinDbg http://contextis.com/resources/blog/introduction-debugging-windows-kernel-windbg/
+﻿"WinDbg 调试 Windows 内核简介， 来自 Context Blog： https://t.co/7Rv8xRVmgT"
+[ Debug ]  "WinDbg the easy way" http://www.debuginfo.com/articles/easywindbg.html
+﻿" Windbg 直接上手有一些难度，那有没有简单的呢？ 有， 它弟弟 - cdb： https://t.co/U0NH597aSI"
+[ Debug ]  Debug Edge in VS Code, Sublime, or other tools that work with the Chrome Remote Debug Protocol #EdgeWebSummit https://twitter.com/auchenberg/status/717108260709408768
+﻿"任何支持 Chrome 远程调试协议的工具（如 VS Code、 Sublime 等）都可以调试 Edge 浏览器： https://t.co/JVllY4LdH9 "
+[ Debug ]  New post from @ _samdb_ on WinDbg scripting with python and Windows heap tracing https://labs.mwrinfosecurity.com/blog/heap-tracing-with-windbg-and-python/ https://t.co/8pcxzepzJX
+﻿"如何通过 WinDbg 的 Python 扩展（pykd）跟踪 Windows 进程堆的使用： https://t.co/msqJ775MbI https://t.co/8pcxzepzJX  "
+[ Debug ]  PwnDbg by @ ebeip90 is now using Unicorn inside for code emulation! https://github.com/zachriggle/pwndbg
+﻿"PwnDbg - 优化 GDB 调试的体验， 有很多与 PEDA 相似的功能：  https://t.co/jylNfDtBMP"
+[ Debug ]  Debugging memory corruption : http://blogs.unity3d.com/2016/04/25/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2/ https://t.co/4auyvnA7ad
+﻿"Unity3D 内存破坏 Bug 调试 - 到底是谁向栈上写了个 2： https://t.co/prxcTKFOT1 https://t.co/4auyvnA7ad"
+[ Debug ]  Debugging Node.js apps using core dumps - https://reaktor.com/blog/debugging-node-js-applications-using-core-dumps/
+﻿"基于 Core Dumps 调试 Node.js 应用： https://t.co/bZMTVvz4b7"
+[ Debug ]  Debugging Debuggers - Symbolic Debugging With DWARF : http://backtrace.io/blog/images/bbcon2016-sbahra.pdf (Slides)
+﻿"Debugging Debuggers - 基于 DWARF 格式的有符号调试是如何实现的， Slides︰ https://t.co/OXdSQIf5xx  "
+[ Debug ]  Detecting KMDs with a single instruction http://www.anti-reversing.com/detecting-kmds-with-a-single-instruction/
+﻿" 一条指令检测内核模式调试器： https://t.co/7qCTavGKrG "
+[ Debug ]  Here's the basic recipe for debugging xnu with LLDB via the VMware debug server. @ osxreverser https://gist.github.com/rgov/e6107e85563875d9d70b4fab83ccc791
+﻿" 用 LLDB 调试器通过 VMware 的 Debug Server，调试 XNU： https://t.co/d6CQWiJpE7"
+[ Debug ]  Very Mighty eXtension for debugging : http://www.slideshare.net/phdays/ss-62582252 (Slides)
+﻿" 基于 VMX 的调试技术，来自 PHDays 会议︰ https://t.co/PtdTkUTfzN  "
+[ Debug ]  one of my favorite resources/tutorials about debugging with lldb: "Dancing in the Debugger — A Waltz with LLDB" https://www.objc.io/issues/19-debugging/lldb-debugging/
+﻿" 调试器里的舞蹈之与 LLDB 的华尔兹，来自 OBJ-C Blog： https://t.co/nzNS3Uv9gD"
+[ Debug ]  x64dbg An open-source x64/x32 debugger for windows http://x64dbg.com https://t.co/Q96Zl9mcvx
+﻿"x64dbg - 之前推送过这个工具，这是个开源的 x64/x32 Windows 调试器： https://t.co/op5kUcR2X9 https://t.co/Q96Zl9mcvx"
+[ Debug ]  Debugging Node in Docker using Node Inspector: https://keylocation.sg/our-tech/debugging-nodejs-in-docker-using-node-inspector
+﻿" 用 Node Inspector 工具调试 Docker 内部的 Node 应用︰ https://t.co/vtyrHBKXxP"
+[ Debug ]  Debug Java via Python! Both pyspresso and JavaJournal are now available for download via https://github.com/CrowdStrike/pyspresso and https://pypi.python.org/pypi/pyspresso
+﻿" pyspresso - 基于 Python 的一个 Java 调试框架， GitHub Repo： https://t.co/q6FeQh7LUx   Python 库下载：  https://t.co/bawgL3czxe"
+[ Debug ]  Intro to kernel debugging (Part 1) : https://blogs.msdn.microsoft.com/meason/2016/06/17/intro-to-kernel-debugging-1/ ,Part 2 : https://blogs.msdn.microsoft.com/meason/2016/06/17/intro-to-kernel-debugging-2/
+﻿" MSDN Blog 一篇介绍内核调试的文章， Part 1︰ https://t.co/G9VuFeXCA3 Part 2: https://t.co/LcoBxNQBpY"
+[ Debug ]  Some interesting papers I didn't know on Heap viz work for debugging: http://research.microsoft.com/en-us/um/people/marron/selectpubs/HeapDebug.pdf / http://www.cs.tufts.edu/research/redline/papers/heapviz-softvis-2010.pdf
+﻿" 关于堆调试和可视化的两篇 Paper︰ https://t.co/MeOgPXONZe  https://t.co/RT7rZawdTa"
+[ Debug ]  How to get user-mode stacks of WOW64 processes in kernel-mode debugging mode #WinDbg #DbgKit #DbgTricks http://www.andreybazhan.com/how-to-get-user-mode-stacks-of-wow64-processes-in-kernel-mode-debugging-mode.html
+﻿" 如何在内核态调试时获取 WOW64 进程的用户态调用栈： https://t.co/B8QJOFTvVY"
+[ Debug ]  "Reverse debugging for Python" http://morepypy.blogspot.com/2016/07/reverse-debugging-for-python.html #python if you haven't heard about timeless / reverse debugging, check this out !!!
+﻿" RevPDB - 针对 Python 的反向调试器（类似于 RR 调试器）： https://t.co/bxGX3ShF2v "
+[ Debug ]  This is also a cool windbg extension. https://netext.codeplex.com/
+﻿" WinDbg 的 netext 扩展，可以通过类 select 的查询命令查询 .NET 对象： https://t.co/0ILLnZDS0c"
+[ Debug ]  Working MEX WinDbg extension download link https://www.microsoft.com/en-us/download/details.aspx?id=53304 http://fb.me/1eoJU3ZpA
+﻿" WinDbg 调试器托管代码（Managed-code）调试扩展 MEX 可以下载了： https://t.co/210AhR9gtR  微软 Blog： https://blogs.technet.microsoft.com/yongrhee/2016/07/15/the-managed-code-debugging-extension-mex-is-now-publicly-available-for-download/ "
+[ Debug ]  HatDBG A pure #Powershell win32 debugging abstraction class https://github.com/enddo/HatDBG
+﻿"HatDBG - 一个纯 PowerShell win32 调试抽象类，目的是构建一个 PowerShell 调试器： https://t.co/H5sQhCXVQ5"
+[ Debug ]  debugging stories: https://github.com/danluu/debugging-stories
+﻿"关于调试的一些小故事︰ https://t.co/x9q6V8VhZs"
+[ Debug ]  Tracing tricks with ptrace http://pramode.net/articles/lfy/ptrace/pramode.html
+﻿" Ptrace 进程跟踪技巧： https://t.co/ADlbMYmcgv"
+[ Debug ]  New blog post: Control flow graph http://x64dbg.com/blog/2016/07/27/Control-flow-graph.html #x64dbg #blog
+﻿" 基于 x64dbg 的控制流图分析： https://t.co/LVpKvEEslU "
+[ Debug ]  Introducing x64dbg and Pizzacrypts Ransomware Unpacking by @ ArnaudDlms http://adelmas.com/blog/x64dbg_pizzacrypts.php
+﻿" x64dbg 调试器与 Pizzacrypts 勒索软件的分析： https://t.co/NM4koRCNJ3"
+[ Debug ]  New blog post by @ fearless0: x64dbg plugin SDK http://x64dbg.com/blog/2016/07/30/x64dbg-plugin-sdk.html #x64dbg #blog
+﻿" x64dbg 调试器的插件 SDK 使用指南： https://t.co/jS4WXQZTIy "
+[ Debug ]  Explanation of how debuggers/tracers work and how to make one on your own http://researchcomplete.blogspot.com/2016/08/on-subject-of-debuggers-and-tracers_5.html
+﻿" Linux 调试器是如何工作的，以及如何写一个自己的调试器（基于 ptrace）： https://t.co/XjkyqSXdvA "
+[ Debug ]  Disable Single Step Debug in Windbg https://drive.google.com/file/d/0B1S_tnrAkUvsTnJuVVRDNmIzTDQ/view?pref=2&pli=1
+﻿" 通过 32/64 位模式切换的方法，禁用 Windbg 的单步调试： https://t.co/wicP3i0zZp "
+[ Debug ]  How does gdb work? http://jvns.ca/blog/2016/08/10/how-does-gdb-work/
+﻿" GDB 调试器是如何工作的： https://t.co/JFvzX84GaL  GDB 的各种使用案例： http://www.brendangregg.com/blog/2016-08-09/gdb-example-ncurses.html "
+[ Debug ]  The source code of x64_tracer (conditional tracer plugin) has been released! Star at https://github.com/KurapicaBS/x64_tracer
+﻿"X64_tracer - x64 代码分支跳转指令 Trace 工具： https://t.co/Ea6bstFqmY"
+[ Debug ]  Bypassing Application Whitelisting by using WinDbg/CDB as a Shellcode Runner http://www.exploit-monday.com/2016/08/windbg-cdb-shellcode-runner.html
+﻿" 在 WinDbg/CDB 调试器里运行 Shellcode： https://t.co/6QN1BQTHvV "
+[ Debug ]  Debugging a kernel crash found by syzkaller http://bit.ly/2bTKsNH #programming #fuzzing #debugging
+﻿"调试 syzkaller Fuzzer 发现的一个内核崩溃： https://t.co/gr5yZ9A4xe "
+[ Debug ]  WinAppDbg 1.6 is out! https://twitter.com/mario_vilas/status/774656786011983872
+﻿"WinAppDbg 调试器更新 1.6 版本，WinAppDbg 由 Python 语言编写，使用非常方便、灵活： https://github.com/MarioVilas/winappdbg "
+[ Debug ]  Tips for Productive Debugging with GDB https://metricpanda.com/tips-for-productive-debugging-with-gdb
+﻿" GDB 调试器使用的一些小建议： https://t.co/E1o1slkdUv "
+[ Debug ]  New version of #DbgKit 2.1 is out. Check out new Device Explorer command and new features in !mm command #WinDbg http://www.andreybazhan.com/dbgkit.html
+﻿" Windows 调试器的图形界面扩展 DbgKit 更新 2.1 版本： https://t.co/vWtnJvrYsZ  本次更新的新变化： http://www.andreybazhan.com/whats-new-in-dbgkit.txt "
+[ Debug ]  hack.lu agenda online https://2016.hack.lu/agenda/ @ hack_lu
+﻿"hack.lu 大会议程公布：  https://t.co/weTxzFQLgf "
+[ Debug ]  Web-PDB - web-interface for Python's built-in PDB debugger.It allows to debug Python scripts remotely in web-browser https://github.com/romanvm/python-web-pdb
+﻿"Web-PDB - 通过浏览器远程调试 Python 的工具： https://t.co/QWpgWCZVkz"
+[ Debug ]  Architecture of x64dbg : http://x64dbg.com/blog/2016/10/04/architecture-of-x64dbg.html
+﻿" x64dbg 调试器的架构设计: https://t.co/PejbzPHWwT"
+[ Debug ]  x64dbgida - Official x64dbg plugin for IDA Pro. https://github.com/x64dbg/x64dbgida #x64dbg #infosec
+﻿" IDA Pro 的 x64dbg 插件 :  https://t.co/vpflP36cbn "
+[ Debug ]  pwndbg - Makes debugging suck less： https://github.com/pwndbg/pwndbg
+[ Debug ]  DontBug, a reverse-execution PHP debugger based on rr and Xdebug. https://github.com/sidkshatriya/dontbug Some neat tricks!
+﻿" Dontbug Debugger - 一款反序（时间穿越） PHP 调试器： https://t.co/6KvRQlpDFp "
+[ Debug ]  GDB 调试方面的几个小建议： https://metricpanda.com/tips-for-productive-debugging-with-gdb
+[ Debug ]  I recently learned how does a debugger set breakpoints. I implemented it and wrote a blog post about it - https://t.co/7f9rQVwA8U
+﻿" 调试器中的断点设置是如何实现的： http://majantali.net/2016/10/how-breakpoints-are-set/"
+[ Debug ]  Debug Linux kernel from Visual Studio (VisualKernel) - http://sysprogs.com/VisualKernel/
+﻿" VisualKernel - 从 Visual Studio 中调试 Linux 内核： https://t.co/ihTx4lB6j4"
+[ Debug ]  Effective Performance Analysis and Debugging http://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1687&context=dissertations_2
+﻿"有效的性能分析和调试（Paper）： https://t.co/N3yVXo4I15"
+[ Debug ]  Introducing Fldbg, a Pykd script to debug FlashPlayer - http://offs.ec/2fMXgVT
+﻿"Fldbg -- 一个可用来调试 FlashPlayer 的 Pykd 脚本： https://t.co/Dmduzc6WaW"
+[ Debug ]  Yay, Microsoft made a JavaScript extension for Windbg before I've had a chance to kill myself with Python:… https://twitter.com/i/web/status/814411428257939456
+﻿"Microsoft JS Windbg 扩展： https://t.co/Jehk6kSWB3"
+[ Debug ]  Kernel Debugging 101 – (Part 1) : https://vvalien1.wordpress.com/2016/12/26/kernel-debugging-101/ ,Part 2 : https://vvalien1.wordpress.com/2017/01/01/kernel-debugging-101-part2/ , Part 3: https://vvalien1.wordpress.com/2017/01/01/kernel-debugging-101-part3/ cc @ vvalien1
+﻿"Kernel Debugging （Part 1）︰ https://t.co/iVPvCv2VYO  Part 2: https://t.co/yryKUnyoUx  Part 3: https://t.co/Mg1FlgUVlY "
+[ Debug ]  Really nice WinDBG reference http://expdev-kiuhnm.rhcloud.com/2015/05/17/windbg/
+﻿"WinDBG 精要命令汇总： https://t.co/qmZn2fRq6X"
+[ Debug ]  WinDbg 漏洞分析调试（一）： http://paper.seebug.org/179/
+[ Debug ]  The JTAG Interface : An attacker's perspective : https://optivstorage.blob.core.windows.net/web/file/55e86eae3f04450d9bafcbb3a94559ca/JTAG.Whitepaper.pdf (pdf)
+﻿"JTAG 之攻击者视角（PDF）︰ https://t.co/oTXosLOd0d "
+[ Debug ]  WinAppDbg v1.6 is out! https://github.com/MarioVilas/winappdbg/releases/tag/winappdbg_v1.6
+﻿"Python 代码编写的 WinAppDbg 调试器 v1.6 版本发布： https://t.co/wK6oFhgUlB"
+[ Debug ]  now , you can access dbghelp.dll and do some thing with pdb via js , enjoy it https://github.com/tinysec/dbghelp.js
+﻿" TinySec 为 dbghelp.dll 写的一个 JS Wrapper: https://t.co/6ZfW4riEGb"
+[ Debug ]  Linux内核开发与调试 - GDB基础: http://001001.org/gedu/06_LINUX_Raymond_GDB.pdf
+[ Debug ]  利用GDB、KGDB调试应用程序及内核驱动模块： http://blog.nsfocus.net/gdb-kgdb-debug-application/
+[ Debug ]  调试笔记之VTUNE崩溃： http://advdbg.org/blogs/advdbg_system/articles/7063.aspx
+[ Debug ]  分析静态编译加剥离的ELF文件的一些方法： http://www.freebuf.com/articles/terminal/134980.html
+[ Debug ]  关于反调试&反反调试那些事： http://www.alonemonkey.com/2017/05/25/antiantidebug/
+[ Debug ]  PhpStorm Xdebug远程调试环境搭建原理分析及问题排查: http://paper.seebug.org/308/
+[ Debug ]  Troll - 针对 ARM Cortex-M 系统的 C 语言源码级调试器： https://github.com/stoyan-shopov/troll#testing-the-troll
+[ Debug ]  反调试技术详解： https://t.co/GP2kfekf8w
+[ Debug ]   Hyper-V debugging for beginners - Hyper-V 调试入门： http://hvinternals.blogspot.com/2015/10/hyper-v-debugging-for-beginners.html
+[ Debug ]  反调试与绕过的奇淫技巧： http://iosre.com/t/topic/9351
+[ Debug ]  Windows 调试器 WinDBG 和 KD 学习系列 PPT: http://1drv.ms/1q2aPk6 https://www.youtube.com/watch?v=8zBpqc3HkSE&list=PLhx7-txsG6t6n_E2LgDGqgvJtCHPL7UFu https://www.youtube.com/user/TheSourceLens
+[ Debug ]    基于 Hypervisor 的高效远程调试技术，来自 AVTokyo 会议：  https://speakerdeck.com/rkx1209/more-efficient-remote-debugging-with-thin-hypervisor
+[ Debug ]   WinDbg 调试时调用栈中出现的 _invalid_parameter_noinfo_noreturn 是怎么回事儿？: https://randomascii.wordpress.com/2017/12/10/analyzing-a-confusing-crash/
+[ Debug ]  Kernel debugging 入门指南： http://www.alexlambert.com/2017/12/18/kernel-debugging-for-newbies.html
+[ Debug ]  从 VSCode 中调试 TypeScript： https://medium.com/spektrakel-blog/debugging-typescript-from-vscode-3cb3a182bf63
+[ Debug ]   Cisco IOS MIPS 设备系统的调试脚本：  https://github.com/artkond/ios_mips_gdb
+[ Debug ]  使用 native method 调试 Android 第三方 Java 应用程序： https://kov4l3nko.github.io/blog/2018-01-25-debugging-mixed-android-code/
+[ Debug ]  企业壳的反调试及Hook检测分析: http://www.freebuf.com/articles/es/160656.html
+[ Debug ]   AFL Fuzzer 的编译时插桩过程分析： https://tunnelshade.in/blog/2018/01/afl-internals-compile-time-instrumentation/
+[ Debug ]   JavaScript AntiDebugging Tricks： https://x-c3ll.github.io/posts/javascript-antidebugging/
+[ Debug ]   windbg中判断被调试进程的位数： http://scz.617.cn/windows/201803051810.txt
+[ Debug ]  使用 strace 调试管道与套接字之间的通信： https://github.com/nh2/strace-pipes-presentation/blob/master/presentation/Debugging%20across%20pipes%20and%20sockets%20with%20strace.pdf
+[ Debug ]  如何编译、分析和调试基于 MIPS 架构的二进制文件： https://www.ringzerolabs.com/2018/03/the-wonderful-world-of-mips.html
+[ Debug ]   C++ 调试相关优秀资源收集： https://github.com/MattPD/cpplinks/blob/master/debugging.md
+[ Debug ]  Solving Ad-hoc Problems with Hex-Rays API，编写脚本调用 IDA API 解决问题的示例： https://www.fireeye.com/blog/threat-research/2018/04/solving-ad-hoc-problems-with-hex-rays-api.html

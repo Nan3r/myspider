@@ -1,0 +1,42 @@
+[ ThreatIntelligence ]  Threat Intelligence Foundations: Crawl, Walk, Analyze (part 1) http://bit.ly/1P0n8UL Blog series by @ PDXbek
+﻿"威胁情报的等级划分和使用方式， 来自 Rapid 7 威胁情报系列文章里的第一篇：  https://t.co/NlOWg1LiSI "
+[ ThreatIntelligence ]  New Security Tool: MrLooquer - IPv6 Intelligence http://goo.gl/fb/cmkq6a #FullDisclosure
+﻿"MrLooquer - 结合开源情报技术和数据挖掘技术, 创建实时 IPv6 部署情况图: https://t.co/wRtFGunEMX "
+[ ThreatIntelligence ]  Part 2 of @ pdxbek's threat intel foundations blog series is now live — Threat Intelligence: Crawl, Walk, Analyze — https://community.rapid7.com/community/infosec/blog/2016/03/10/threat-intelligence-foundations-crawl-walk-analyze-part-2
+﻿"Rapid7 威胁情报系列文章第二篇: https://t.co/mQ0Thih2a2"
+[ ThreatIntelligence ]  Part 3 of 3 of #ThreatIntel Foundations with @ PDXbek is live—Intelligence Analysis in Security Operations— https://community.rapid7.com/community/infosec/blog/2016/03/11/threat-intelligence-foundations-crawl-walk-analyze-part-3
+﻿"Rapid7 威胁情报系列文章第 3 篇：  https://t.co/ZLylUUfUx2"
+[ ThreatIntelligence ]  Here’s the slides from my “Passive Intel Gathering and Analytics w/ Just-Metadata” talk at @ WEareTROOPERS #TR16 - http://www.slideshare.net/CTruncer/passive-intelligence-gathering-and-analytics-its-all-just-metadata
+﻿"被动地情报收集和分析 - 全是元数据， 来自 TROOPERS 会议： https://t.co/k0J3jsteym"
+[ ThreatIntelligence ]  @ JohnLaTwC @ MattT_Cyber @ 4Dgifts And 12 years later, we added the power of @ MSAdvAnalytics to it http://www.slideshare.net/RamShankarSivaKumar/transforming-incident-response-to-intelligent-response-using-graphs
+﻿"图表如何帮助你从事件响应转变到情报响应： https://t.co/RC6w3oHqYF"
+[ ThreatIntelligence ]  Only 42% of infosec pros use shared threat intelligence http://bit.ly/22C9HnF @ McAfee_Labs
+﻿"仅有 42% 的信息安全专业人员使用威胁情报： https://t.co/q2eg9CBNbb "
+[ ThreatIntelligence ]  Just-Metadata - Intel Gathering and Analysis of IP Metadata https://www.christophertruncer.com/just-metadata-intel-gathering-and-analysis-of-ip-metadata/?utm_content=buffer824e3&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+﻿"从 IP 地址中分析和提权情报数据，找出 IP 地址直接的联系（如 Whois 信息、Geo 信息、VirusTotal 信息、Shodan 引擎数据）：  https://t.co/b716U24sNs"
+[ ThreatIntelligence ]  The dangers of bad cyber threat intelligence programs - Help Net Security http://ow.ly/10g7Gm
+﻿"烂威胁情报程序的危险： https://t.co/GfOikYiyOB"
+[ ThreatIntelligence ]  Automated Reverse Image Search Part 2: Vimeo | Automating OSINT Blog http://bit.ly/1UVfsM4 #osint #python
+﻿"自动化地图像反向搜索 Part 2 ︰ 自动化地处理 Vimeo 的视频预览图片： https://t.co/0NCscno5Tp   Part 1: 自动化地处理 Youtube 的视频预览图片： http://www.automatingosint.com/blog/2015/11/osint-youtube-tineye-reverse-image-search/   关于图片反向搜索技术： http://www.automatingosint.com/blog/2015/05/osint-reverse-image-search/ "
+[ ThreatIntelligence ]  Beginners Guide to OSINT – Chapter 1 http://itgeekchronicles.co.uk/2016/04/15/beginners-guide-to-osint-chapter-1/
+﻿"OSINT（开源威胁情报）入门 第一章：  https://t.co/OU8WQUPxx9 "
+[ ThreatIntelligence ]  This is a great list of threat intel resources http://www.cyintanalysis.com/resources/
+﻿" 威胁情报资源收集： https://t.co/BjmNNYs7We   其中有一个 Github 项目整理了一个列表： https://github.com/hslatman/awesome-threat-intelligence "
+[ ThreatIntelligence ]  The Art of Searching for Open Source Intelligence http://resources.infosecinstitute.com/the-art-of-searching-for-open-source-intelligence/
+﻿"开源情报搜索的艺术， 来自 InfoSec Blog： https://t.co/XGGJo1vdi9 "
+[ ThreatIntelligence ]  Last week I released OSTrICa - #opensource #threat #intelligence collector on #github http://bit.ly/29hImG3 #malware #itsecurity
+﻿" OSTrICa - 一款开源的威胁情报收集工具： https://t.co/GqnuyMYI0q  "
+[ ThreatIntelligence ]  Open Source Threat Intelligence Tools & Techniques http://resources.infosecinstitute.com/open-source-threat-intelligence-tools-techniques/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+infosecResources+%28InfoSec+Resources%29
+﻿" 开源威胁情报相关的工具和技巧： https://t.co/Prutu1tLNQ"
+[ ThreatIntelligence ]  Great example of using PassiveTotal to capture domain shadowing in action! #infosec #shadowing #threatintel https://www.riskiq.com/blog/labs/shadowed-domains-lead-to-neutrino-exploit-kit/
+﻿" 用 PassiveTotal 发现 HillaryNixonClinton.com 跳转 Neutrino EK 的攻击事件： https://t.co/pIC98SibI6"
+[ ThreatIntelligence ]  A list of 'Awesome #ThreatIntelligence Resources' by @ hslatman, including #rastrea2r https://github.com/hslatman/awesome-threat-intelligence #DFIR #CTI #threathunting #SOC
+﻿" 威胁情报相关的资料收集整理： https://t.co/fl2IeuiyyY "
+[ ThreatIntelligence ]  In Q3 2016, our #mobile security products detected 37,150 mobile #ransomware Trojans #KLreport… https://t.co/mL76XtDCrQ
+﻿"2016 第 3 季度威胁态势报告，来自 Kaspersky Lab： https://t.co/mL76XtDCrQ"
+[ ThreatIntelligence ]  APT Group Mapping > malware mapping sheet > download as xlsx/ods > still looking for contributors… https://t.co/QkIKWOQvbQ
+﻿"APT Groups and Operations： https://t.co/QkIKWOQvbQ"
+[ ThreatIntelligence ]  Utilizing Memory & Network Forensics for scalable Threat Detection Response : https://player.vimeo.com/video/188841308 cc @ attrc
+﻿"利用内存和网络取证实现可扩展的威胁检测响应（video）︰ https://t.co/ngEXKC3dzS ;"
+[ ThreatIntelligence ]  盘点 RSA 2017展台上的那些威胁情报产品： http://www.freebuf.com/news/127067.html
+[ ThreatIntelligence ]    网络威胁防御中的情报分析策略： https://medium.com/@thegrugq/counterintelligence-for-cyber-defence-97d33503064d

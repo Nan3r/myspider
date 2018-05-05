@@ -1,0 +1,71 @@
+[ Obfuscation ]  Javascript Deobfuscator Updated: http://www.kahusecurity.com/?p=13482
+﻿"Javascript Deobfuscator 更新为 0.3 版本:  https://t.co/bp7NLEkyny"
+[ Obfuscation ]  Experiments In JS Obfuscation & Deobfuscation For Hacking Html5 Apps And Malware Analysis http://damilarefagbemi.com/experiments-in-js-obfuscation-deobfuscation-for-hacking-html5-apps-and-malware-analysis/ #malware
+﻿"几种常见的 JavaScript 混淆和反混淆工具分析实战， Blog：  https://t.co/RYUnCee0gt "
+[ Obfuscation ]  Binary code obfuscation through C++ template metaprogramming : https://eden.dei.uc.pt/~sneves/pubs/2012-snfa2.pdf (pdf)
+﻿"基于 C++ 模板元编程的二进制代码混淆技术， Paper ︰ https://t.co/rAyoR4U8qJ "
+[ Obfuscation ]  Combining learning with fuzzing for software deobfuscation [PDF, masters thesis] http://repository.tudelft.nl/assets/uuid:6282cd05-6ae3-4f39-adc7-1a45efe1ccce/thesis-combining-learning-with-fuzzing-for-software-deobfuscation.pdf
+﻿"软件 Fuzz 与代码混淆， 来自荷兰一所大学的 Paper: https://t.co/o20jEGufAk"
+[ Obfuscation ]  Symbolic Execution of Obfuscated Code https://www.cs.arizona.edu/people/debray/Publications/ccs2015-symbolic.pdf
+﻿"混淆后代码的符号执行： https://t.co/KaUKy1aVGo"
+[ Obfuscation ]  A study on obfuscation techniques for Android malware : http://midlab.diag.uniroma1.it/articoli/matteo_pomilia_master_thesis.pdf (pdf)
+﻿" Android 恶意软件混淆技术研究 ︰ https://t.co/nY0cWhhwIs "
+[ Obfuscation ]  X86 Shellcode Obfuscation (Part 2) : https://breakdev.org/x86-shellcode-obfuscation-part-2/ , Part 1 : https://breakdev.org/x86-shellcode-obfuscation-part-1/
+﻿"X86 Shellcode 混淆 Part 2: https://t.co/SLVDc1HGj1  Part 1: https://t.co/PUQOjsaBuQ"
+[ Obfuscation ]  Effectiveness of Synthesis in Concolic Deobfuscation https://hal.inria.fr/hal-01241356/document
+﻿" Effectiveness of Synthesis in Concolic Deobfuscation， Paper： https://t.co/2VKA6LMtP3  "
+[ Obfuscation ]  Breaking simple executable cryptor http://yurichev.com/blog/breaking_simple_exec_crypto/
+﻿" 对抗简单的可执行文件加密壳： https://t.co/oD18UkyYBP"
+[ Obfuscation ]  Seeing Through Darkleech Obfuscation: a Quick Hack to Iframes https://blogs.mcafee.com/mcafee-labs/seeing-darkleech-obfuscation-quick-hack-iframes/
+﻿" Darkleech 混淆技术分析 - 快速定位 iframe 和跳转 URL，来自 McAfee Blog： https://t.co/AgKyII7OjI"
+[ Obfuscation ]  Decoding Obfuscated Strings in Adwind http://blog.jpcert.or.jp/2016/05/decoding-obfuscated-strings-in-adwind.html
+﻿" 解码 Java 恶意软件 Adwind 混淆后的字符串，来自 JPCert Blog： https://t.co/IvhVh0WZQq "
+[ Obfuscation ]  Protecting Software through Obfuscation: Can It Keep Pace with Progress in Code Analysis? http://www.cs.rhul.ac.uk/home/kinder/papers/csur16-obfuscation.pdf
+﻿" 通过混淆的方式保护软件 - 这种方法能够跟上代码分析发展的步伐吗： https://t.co/DRxtN0LBen"
+[ Obfuscation ]  Partial Deobfuscation of an Angler EK SWF http://neonprimetime.blogspot.com/2016/06/partial-deobfuscation-of-angler-ek-swf.html
+﻿" Angler EK Flash 混淆样本的部分还原： https://t.co/1e7Q1aEzwe "
+[ Obfuscation ]  Obfuscator for the x86 assembler : https://www.pelock.com/products/obfuscator
+﻿" x86 汇编混淆器 ︰ https://t.co/tMg71CcCpr"
+[ Obfuscation ]  Deobfuscator - all-in-one Java deobfuscator which will deobfuscate code obfuscated by most Android obfuscators https://github.com/java-deobfuscator/deobfuscator
+﻿" Java 反混淆工具： https://t.co/C3oCAyuNE2"
+[ Obfuscation ]  FOPO-PHP-Deobfuscator : A simple script to deobfuscate PHP file obfuscated with FOPO Obfuscator : https://github.com/Antelox/FOPO-PHP-Deobfuscator cc @ Antelox
+﻿"FOPO-PHP-Deobfuscator - 用于还原 FOPO 混淆后的 PHP 文件的工具， GitHub Repo︰ https://t.co/rEThF1PjhX "
+[ Obfuscation ]  Locky JS and URL Revealer http://www.kahusecurity.com/2016/locky-js-and-url-revealer/
+﻿" 实现一个 Web Proxy（URL Revealer），就可以监控混淆后的 JS 所有请求的 URL： https://t.co/dWvWNyGgDU"
+[ Obfuscation ]  13 Awesome Deobfuscation Tools For Reverse Engineers : https://hackerlists.com/deobfuscation-tools/
+﻿" 13 个不错的代码反混淆工具︰ https://t.co/fN1yMmLDnA"
+[ Obfuscation ]  Exploiting Dynamic Scheduling for VM-Based Code Obfuscation : http://www.lancaster.ac.uk/staff/wangz3/publications/trustcom.pdf (pdf) https://t.co/iYi5WQ7lpg
+﻿" 基于虚拟机的代码混淆技术，可以对抗攻击者对虚拟机动态调度机制的攻击︰ https://t.co/U20T5AKPlT   https://t.co/iYi5WQ7lpg"
+[ Obfuscation ]  Automatic Deobfuscation and Reverse Engineering of Obfuscated Code (PhD thesis, PDF): http://arizona.openrepository.com/arizona/bitstream/10150/613135/1/azu_etd_14572_sip1_m.pdf
+﻿" 混淆后代码的自动反混淆和逆向，亚利桑那大学的一篇博士论文︰ https://t.co/XBa8JQCqyN"
+[ Obfuscation ]  Released dex-oracle v1.0.5, android deobfuscation tool - http://buff.ly/2afJo4L https://t.co/86rysK1p8N
+﻿" dex-oracle - 基于模式的 Android Dalvik 反混淆工具： https://t.co/BlTGNgTZQ9 "
+[ Obfuscation ]  Using NodeJS to deobfuscate JavaScript. That is useful ! http://bit.ly/2a8TWPU
+﻿" 利用 NodeJS 反混淆恶意 JavaScript： https://t.co/hXk9M22gNL"
+[ Obfuscation ]  A nice work on malware deobfuscation, in which Capstone disassembler + Z3 are used to remove opaque predicates: http://zubcic.re/blog/experimenting-with-z3-proving-opaque-predicates
+﻿" 用 Z3 工具实现对 Opaque predicates 混淆代码的检查，如果证明某个条件跳转指令可以忽略，那就可以提高代码分析的效率︰ https://t.co/RlTVGVy13x"
+[ Obfuscation ]  Protecting Software through Obfuscation: Can It Keep Pace with Progress in Code Analysis? http://www.cs.rhul.ac.uk/home/kinder/papers/csur16-obfuscation.pdf
+﻿" 代码混淆技术可以跟上代码分析技术的发展步伐吗，Paper： https://t.co/YXyChvQ3XV"
+[ Obfuscation ]  Anti-analysis techniques to weaken author classification accuracy in compiled executables https://kth.diva-portal.org/smash/get/diva2:927549/FULLTEXT01.pdf
+﻿" 分析对抗技术可以被用于削弱作者分类的精确性，Paper： https://t.co/oZFs3mNg1i"
+[ Obfuscation ]  Defeating the Latest Advances in Script Obfuscation https://www.endgame.com/blog/defeating-latest-advances-script-obfuscation
+﻿" 脚本混淆技术的新技巧与对抗： https://t.co/HKD78pueUM "
+[ Obfuscation ]  Deobfuscating a Malicious PHP Downloader: http://www.kahusecurity.com/?p=13577
+﻿" 一段恶意的 PHP Downloader 恶意代码的反混淆过程︰ https://t.co/ZTg7mMGmoc"
+[ Obfuscation ]  Neat post by @ Lee_Holmes on using #PowerShell to find obfuscated Powershell with math :) http://www.leeholmes.com/blog/2016/10/22/more-detecting-obfuscated-powershell/ https://t.co/ruLNL5lg8x
+﻿"利用 PowerShell 的 tokenizer 检测被混淆的 PowerShell : https://t.co/p3oV5KfSwb https://t.co/ruLNL5lg8x "
+[ Obfuscation ]  Tigress_protection : Playing w/ Tigress binary protection.Automatic deobfuscation using symbolic execution and LLVM: https://github.com/JonathanSalwan/Tigress_protection
+﻿"Tigress_protection︰ 基于符号执行和 LLVM 自动化实现代码反混淆︰ https://t.co/JTsqMxykt7"
+[ Obfuscation ]  Code Deobfuscation : Intertwining Dynamic, Static and Symbolic Approaches : https://www.blackhat.com/docs/eu-16/materials/eu-16-David-Code-Deobfuscation-Intertwining-Dynamic-Static-And-Symbolic-Approaches.pdf (Slides)
+﻿"Code Deobfuscation : Intertwining Dynamic, Static and Symbolic Approaches︰ https://t.co/mRj957sh4r"
+[ Obfuscation ]  Code Obfuscation Against Symbolic Execution Attacks : https://www.researchgate.net/profile/Sebastian_Banescu/publication/311491954_Code_obfuscation_against_symbolic_execution_attacks/links/5849b78708ae82313e7108bf.pdf?origin=publication_detail (pdf)
+﻿"利用代码混淆来对抗符号执行攻击（PDF）︰ https://t.co/0ir5vZfUY0"
+[ Obfuscation ]  利用符号执行去除控制流平坦化： https://security.tencent.com/index.php/blog/msg/112
+[ Obfuscation ]  Analyzing obfuscated scripts using nothing but a text editor http://blog.nviso.be/2017/03/07/analyzing-obfuscated-scripts-using-nothing-but-a-text-editor
+﻿"Analyzing obfuscated scripts using nothing but a text editor： https://t.co/hvn6rwjgDt "
+[ Obfuscation ]  obfusion - x86 汇编代码混淆工具： https://github.com/kgretzky/obfusion  作者还为此写了 3 篇 Blog： https://breakdev.org/x86-shellcode-obfuscation-part-1/  https://breakdev.org/x86-shellcode-obfuscation-part-2/  https://breakdev.org/x86-shellcode-obfuscation-part-3/
+[ Obfuscation ]    Revoke-Obfuscation - PowerShell 代码的混淆也开始出现了，来自 FireEye 在 BlackHat 会议的演讲： https://www.fireeye.com/blog/threat-research/2017/07/revoke-obfuscation-powershell.html  https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/revoke-obfuscation-report.pdf
+[ Obfuscation ]  LLVM混淆器剖析 Part 1: https://blog.rpis.ec/2017/12/dissection-llvm-obfuscator-p1.html
+[ Obfuscation ]   Google Play 市场中的应用对混淆技术使用情况的调查：  https://arxiv.org/pdf/1801.02742.pdf
+[ Obfuscation ]   基于 AST 和部分执行的方法实现 JavaScript 反混淆： http://blog.mindedsecurity.com/2015/10/advanced-js-deobfuscation-via-ast-and.html  https://github.com/mindedsecurity/JStillery
+[ Obfuscation ]  FireEye 发布的一篇关于 Cmd.exe 命令混淆与检测的白皮书： https://www.fireeye.com/content/dam/fireeye-www/blog/pdfs/dosfuscation-report.pdf相关工具实现： https://github.com/danielbohannon/Invoke-DOSfuscation

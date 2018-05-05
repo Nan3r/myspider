@@ -1,0 +1,76 @@
+[ Mitigation ]  My analysis of the lib injection mitigation of #Edge: http://www.sekoia.fr/blog/microsoft-edge-binary-injection-mitigation-overview/ & source code of the tools mentioned: https://github.com/SekoiaLab/BinaryInjectionMitigation
+﻿"Windows 10 TH2 (Build 10156)更新中，微软增加了一个新的缓解措施，用于限制向敏感进程注入二进制。这篇 Blog 介绍 Edge 如何应用这项缓解措施避免加载未授权的 DLL 到当前进程: https://t.co/pl7Ggs7KdD 提到的工具源码: https://t.co/sbKMvSSDDt"
+[ Mitigation ]  “untrusted font mitigations for Windows 10” https://www.microsoft.com/en-us/download/details.aspx?id=50766&WT.mc_id=rss_windows_allproducts https://t.co/ztE6qlKNyE
+﻿"EMET 5.5 漏洞利用缓解工具下载， 增加对 Windows 10 的支持，其中有个新特性 'Untrusted font mitigation for Windows 10'： https://t.co/NemGj4qAN0"
+[ Mitigation ]  Breaking KASLR with micro architecture Part 1: http://dreamsofastone.blogspot.com.ar/2016/02/breaking-kasrl-with-micro-architecture.html?m=1 by @ anders_fogh
+﻿"从 CPU 微体系架构的角度看 KASLR 的对抗， Blog： https://t.co/ETa3wwQCCq"
+[ Mitigation ]  Disabling EMET protection by calling EMET unload func. Triggered by calling emet.dll's DllMain w/DLL_PROCESS_DETACH https://www.fireeye.com/blog/threat-research/2016/02/using_emet_to_disabl.html
+﻿"FireEye 的文章 《用 EMET 禁用 EMET》，这篇文章介绍了通过调用 EMET 卸载函数来禁用 EMET 保护的方法，调用 DllMain (GetModuleHandleW("EMET.dll") , DLL_PROCESS_DETACH , NULL); 禁用保护：  https://t.co/4cbSNKKM3r "
+[ Mitigation ]  My exploit for the Flash Isolated Heap http://googleprojectzero.blogspot.com/2016/03/life-after-isolated-heap.html
+﻿" Flash 隔离堆出现以后的生活， 来自 Project Zero Natalie Silvanovich： https://t.co/XgWNOn2vOB"
+[ Mitigation ]  Code-Pointer Integrity http://dslab.epfl.ch/proj/cpi/
+﻿"CPI(代码指针完整性) - 快速、精确的控制流劫持保护： https://t.co/wDepG8B0PC  上海交大软件安全小组对该论文的翻译： http://securitygossip.com/blog/2016/03/30/2016-03-30/ "
+[ Mitigation ]  @ HaifeiLi That range check failure is documented here: https://media.blackhat.com/bh-us-12/Briefings/M_Miller/BH_US_12_Miller_Exploit_Mitigation_Slides.pdf - Catches null byte writes out of bounds of a stack array
+﻿"Windows 8 在漏洞利用缓解技术方面的改进， 来自 BlackHat USA 2012 会议: https://t.co/fKhSQSJdxM  "
+[ Mitigation ]  AMD Memory Encryption- http://amd-dev.wpengine.netdna-cdn.com/wordpress/media/2013/12/AMD_Memory_Encryption_Whitepaper_v7-Public.pdf #SEV #SME
+﻿"AMD 内存加密技术， 来自 2013 年的一篇 Paper： https://t.co/gb0xzHQCMv "
+[ Mitigation ]  Changes in CFG: 'Reserved2' field of LOAD_CONFIG_DIRECTORY now points to new func ntdll!LdrpDispatchUserCallTarget https://t.co/0y6PKLfNue
+﻿"CFG 的新变化︰ LOAD_CONFIG_DIRECTORY 结构体的 'Reserved2' 域指向了一个新函数： ntdll ！LdrpDispatchUserCallTarget  https://t.co/0y6PKLfNue"
+[ Mitigation ]  So adobe added memory protector to flash player to mitigate uaf bugs, analysis from 360 vulcan team: http://blogs.360.cn/360safe/2016/06/17/a-quick-look-at-the-flash-memory-protector/
+﻿" 360 研究员 guhe 对 Flash 的 Memory Protector UAF 利用缓解技术的分析 ︰ https://t.co/btdDcyx4Bi"
+[ Mitigation ]  #Microsoft's June patch kills potential CFG bypass. We provide a deep look into the code. http://intel.ly/1WSjDcH https://t.co/hqCqxphyAU
+﻿" 微软本月的补丁中修复了一个潜在的 CFG Bypass 漏洞，来自 McAfee Blog 的分析：  https://t.co/LOwcP5uYhH https://t.co/hqCqxphyAU"
+[ Mitigation ]  Mitigating Stagefright Attacks with the ARM Performance Monitoring Unit https://www.endgame.com/blog/mitigating-stagefright-attacks-arm-performance-monitoring-unit
+﻿" ARM 性能监控单元(PMU)可以被用于监控系统调用，缓解 Stagefright 攻击： https://t.co/svlu0W7xgM   作者在 RECon 会议关于这个议题的演讲： http://pages.endgame.com/rs/627-YBU-612/images/hardware-assisted-rootkits-ARM_spisak.pdf "
+[ Mitigation ]  Documenting the Undocumented: Adding Control Flow Guard Exceptions: http://breakingmalware.com/uncategorized/documenting-undocumented-adding-control-flow-guard-exceptions/ https://t.co/wfWXzJsdw7
+﻿" 通过一个未文档化的方法，在 CFG 合法 Bitmap 插入一个例外，以此绕过 CFG 的保护，来自 BreakingMalware Blog ︰ https://t.co/ipihu7Zmmu https://t.co/wfWXzJsdw7"
+[ Mitigation ]  From ROP to LOP bypassing Control FLow Enforcement http://marcoramilli.blogspot.com/2016/06/from-rop-to-lop-bypassing-control-flow.html
+﻿" 从 ROP 到绕过 Intel CFE（Control FLow Enforcement）：  https://t.co/sJbYqNjoU5"
+[ Mitigation ]  How to Make ASLR Win the Clone Wars: Runtime Re-Randomization http://www.cc.gatech.edu/~klu38/publications/runtimeaslr-ndss16.pdf
+﻿" ASLR 缓解措施的有效性在进程克隆时（fork）会大打折扣，这篇 Paper 提出了运行时再次随机化技术来解决这个问题： https://t.co/vqeza7xRjd"
+[ Mitigation ]  The EMET Serendipity: EMET's (In)Effectiveness Against Non-Exploitation Uses https://www.okta.com/blog/2016/07/the-emet-serendipity-emets-ineffectiveness-against-non-exploitation-uses/
+﻿" 一种绕过 EMET 的方法 - 写一段类似编译器生成的代码：  https://t.co/2yTAZLRdMW "
+[ Mitigation ]  A Control-Flow Integrity: Precision, Security, and Performance http://arxiv.org/pdf/1602.04056.pdf
+﻿" CFI（控制流完整性）的精确度、安全性和性能研究 Paper： https://t.co/yTElenbARQ"
+[ Mitigation ]  Interesting Friday's read "PaX: reference count overflow mitigation can be bypassed by racing" https://bugs.chromium.org/p/project-zero/issues/detail?id=856
+﻿" PaX 引用计数溢出缓解措施绕过漏洞，来自 Project Zero Issue 856： https://t.co/99BkZ2U7oj"
+[ Mitigation ]  ROP is Dying and Your Exploit Mitigations are on Life Support https://www.endgame.com/blog/rop-dying-and-your-exploit-mitigations-are-life-support
+﻿" ROP 快死了，而且 ROP 漏洞利用缓解并不是那么有效。防御目标是落后于攻击技术的： https://t.co/bcW8a0OOzA"
+[ Mitigation ]  ROP mitigations and Control Flow Guard - the end of code reuse attacks? - http://area41.io/downloads/slides/area41_16_ganz_xorlab.pdf https://www.youtube.com/watch?v=pqU9jsCmlYA
+﻿" ROP 利用缓解措施与 CFG - 代码重用攻击的末日吗： https://t.co/GGh9CUsd8m https://t.co/TUt6jofjQv "
+[ Mitigation ]  New Technique Checks Mitigation Bypasses Earlier: https://threatpost.com/new-technique-checks-mitigation-bypasses-earlier/119568/ via @ threatpost
+﻿" 本周的 BlackHat 会议上，Endgame 团队研究员将提出一种新的 ROP 防御方法，称为硬件辅助的 CFI︰ https://t.co/HSr7oFD8xI  关于 ROP 的检测，比较知名的有三个： http://securitygossip.com/blog/2016/08/01/2016-08-01/ "
+[ Mitigation ]  USING EMET TO DISABLE EMET: https://www.blackhat.com/docs/us-16/materials/us-16-Alsaheel-Using-EMET-To-Disable-EMET.pdf
+﻿" Using EMET to Disable EMET，来自 FireEye 研究员在 BlackHat 会议的演讲: https://t.co/AXDld68Hwb"
+[ Mitigation ]  DrK : Breaking Kernel Address Space Layout Randomization with IntelTSX : https://www.blackhat.com/docs/us-16/materials/us-16-Jang-Breaking-Kernel-Address-Space-Layout-Randomization-KASLR-With-Intel-TSX.pdf (Slides) #BlackHat2016
+﻿"DrK - 用 Intel TSX 突破内核 KASLR，TSX 指事务性同步扩展机制，来自 BlackHat 会议: https://t.co/63yQeERyYV  "
+[ Mitigation ]  Microsoft EMET 5.51 is out https://www.microsoft.com/en-us/download/details.aspx?id=53354 https://t.co/AZB5IY2leO
+﻿"微软漏洞利用缓解工具 EMET 5.51 版本下载： https://t.co/q8omg5AE1T "
+[ Mitigation ]  Our slides at HitCon2016 taking about flash exploit mitigation techniques: https://speakerdeck.com/yukichen/exploit-adobe-flash-under-the-latest-mitigation
+﻿" 《Exploit Adobe Flash Under the Latest Mitigation》，来自古河在 HitCon 会议的演讲，介绍的是 Flash 漏洞利用缓解措施的演进过程以及相应的攻击方法︰ https://t.co/YVeoMRmSYZ  这也是古河前天在 ISC 大会演讲的 PPT"
+[ Mitigation ]  ROP to LOP https://goo.gl/rjqERk
+﻿" 从 ROP 到 LOP（Loop Oriented Programming），Bypass Control-Flow Enforcement： https://t.co/8UhUKmubJM"
+[ Mitigation ]  Pretty cool stuff by my colleagues Bing & Chong to bypass CFG via JIT in WARP Shader, presented @ XCON 2016. https://sites.google.com/site/bingsunsec/WARPJIT/JIT%20Spraying%20Never%20Dies%20-%20Bypass%20CFG%20By%20Leveraging%20WARP%20Shader%20JIT%20Spraying.pdf.
+﻿" 利用 WARP Shader JIT Spray Bypass CFG，来自 Chong Xu 和 Bing Sun 在 XCON 2016 会议的演讲： https://t.co/AmsH9skUTf "
+[ Mitigation ]  New post: Control Flow Guard Improvements in Windows 10 Anniversary Update http://bit.ly/2eYdFn7 @ TrendMicro
+﻿" Windows 10 周年更新版本中 CFG 特性增强的技术细节，来自趋势科技： https://t.co/FjIahAwKYg "
+[ Mitigation ]  Microsoft introduced a new exploit mitigation "RFG" in Windows 10 Redstone 2 14942 to protect return address: http://xlab.tencent.com/en/2016/11/02/return-flow-guard/
+﻿" 微软在 Windows 10 Redstone 2 14942 版本中加入 'RFG' 缓解措施，用于在 CFG 的基础上加强对返回地址的防护︰ http://xlab.tencent.com/cn/2016/11/02/return-flow-guard/ "
+[ Mitigation ]  excellent post - Manual Control Flow Guard in C - http://nullprogram.com/blog/2017/01/21/ #programming
+﻿"用 C 语言实现一个 CFG： https://t.co/EsuyFkPbTT "
+[ Mitigation ]  Cool blog post "Harmful prefetch on Intel" http://blog.ioactive.com/2017/01/harmful-prefetch-on-intel.html by @ kiqueNissim @ IOActive #kernelhacking
+﻿" Harmful prefetch on Intel - Intel 的 Prefetch 指令可以被用于 Bypass ASLR： https://t.co/SqyaOFuNxZ  "
+[ Mitigation ]  关于 CFI 的一篇 Paper 《Control-Flow Integrity: Precision, Security, and Performance》： https://nebelwelt.net/publications/files/17CSUR.pdfhttps://nebelwelt.net/publications/files/17CSUR.pdf
+[ Mitigation ]  Four Ways to bypass Control Flow Guard (CFG) in Microsoft Edge + Source code: https://medium.com/@ mxatone/mitigation-bounty-4-techniques-to-bypass-mitigations-2d0970147f83
+﻿" Bypass CFG 缓解措施的 4 种方法，这几种方法被微软的 Bounty 计划拒绝了，所以作者放在了这里︰ https://t.co/Z3vmkcVND1"
+[ Mitigation ]  The Chakra Exploit and the Limitations of Modern Mitigation Techniques - https://www.endgame.com/blog/chakra-exploit-and-limitations-modern-mitigation-techniques
+﻿" Chakra 的漏洞利用及现代缓解技术的局限性： https://t.co/1LBluAGpmC"
+[ Mitigation ]  ROP CFI RAP XNR CPI WTF? – Navigating the Exploit Mitigation Jungle (@ f0rki) - https://bsidesljubljana.si/rop-cfi-rap-xnr-cpi-wtf-navigating-exploit-mitigation-djungle-michael-rodler/ #BSidesLjubljana #video
+﻿" BSides 会议上一篇针对 ASLR/CFI 等缓解措施的总结： https://t.co/NCarLKtGf4 "
+[ Mitigation ]  Architecting a Modern Defense using Device Guard，来自微软和 Mandiant 的两位研究员介绍 Device Guard 的攻与防： https://drive.google.com/file/d/0B-K55rLoulAfOGVteEllR0xnRnc/view
+[ Mitigation ]   恶意 Chrome 插件分析： https://blog.0day.rocks/malicious-chrome-extension-meddling-with-your-searches-581aa56ddc9c
+[ Mitigation ]  漏洞利用缓解技术之数据执行保护(DEP)： https://0x00sec.org/t/exploit-mitigation-techniques-data-execution-prevention-dep/4634
+[ Mitigation ]  Exploit Mitigation Techniques - Stack Canaries： https://0x00sec.org/t/exploit-mitigation-techniques-stack-canaries/5085
+[ Mitigation ]    CFI 攻击与防御的发展历程，来自 MSRC 团队在 2018 OffensiveCon 会议的演讲： https://github.com/Microsoft/MSRC-Security-Research/blob/master/presentations/2018_02_OffensiveCon/The%20Evolution%20of%20CFI%20Attacks%20and%20Defenses.pdf
+[ Mitigation ]   挖掘隐藏在堆栈中的宝藏—通过栈数据修改绕过控制流保护（CFG），作者为 SUN BING： https://sites.google.com/site/bingsunsec/stackdatacorruption
+[ Mitigation ]  绕过 ASLR+NX Part 1 : http://intx0x80.blogspot.com/2018/04/bypass-aslrnx-part-1.html

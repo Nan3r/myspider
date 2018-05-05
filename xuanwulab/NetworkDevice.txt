@@ -1,0 +1,126 @@
+[ NetworkDevice ]  Cisco Guide to Harden Cisco IOS Devices : http://www.cisco.com/c/en/us/support/docs/ip/access-lists/13608-21.html
+﻿"Cisco IOS 设备安全加固文档: https://t.co/oFvC6QfUpg"
+[ NetworkDevice ]  Cisco Unified Computing System Manager and Cisco Firepower 9000 Remote Command Execution Vulnerability http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160120-ucsm
+﻿"Cisco 统一计算系统管理器和 Cisco Firepower 9000 远程命令执行漏洞，来自 Cisco 安全公告： https://t.co/421VU6s2PZ"
+[ NetworkDevice ]  SEC Consult SA-20160121-0 :: Deliberately hidden backdoor account in AMX… http://goo.gl/fb/rVBzCQ #FullDisclosure
+﻿"AMX 中控主机设备里故意藏后门，而 AMX 又是美国军队、白宫以及一些其他敏感组织的设备提供商： https://t.co/SDJQryVseu "
+[ NetworkDevice ]  Remote shutdown vulnerability in Buffalo NAS (Linkstation 420) http://www.securityfocus.com/archive/1/537356
+﻿"Buffalo NAS 设备远程关机漏洞 (Linkstation 420)，来自 SecurityFocus： https://t.co/F5J6yHFug7"
+[ NetworkDevice ]  Netgear GS105Ev2 Authentication Bypass / XSS / CSRF : https://packetstormsecurity.com/files/135480/netgearGS105Ev2-xssbypassxsrf.txt
+﻿"Netgear GS105Ev2 以太网交换机存在多个漏洞，包括认证绕过、XSS、CSRF: https://t.co/k8ZFWrt80H"
+[ NetworkDevice ]  Technical writeup of CVE-2016-1287 [Cisco ASA Software IKEv1 & IKEv2 Buffer Overflow Vuln] : https://blog.exodusintel.com/2016/01/26/firewall-hacking/ https://t.co/nWpHzBigul
+﻿"CVE-2016-1287 Cisco ASA IKEv1 & IKEv2 缓冲区溢出漏洞利用 - Execute My Packet， 来自 ExodusIntel Blog: https://t.co/YZMkBxNcCm https://t.co/nWpHzBigul"
+[ NetworkDevice ]  All Ubiquiti devices except EdgeOS have the same key and cert https://www.shodan.io/report/MXTZWxf0
+﻿"除 EdgeOS 外， 所有的 Ubiquiti 设备都使用相同的密钥和证书， 来自 Shodan 的统计信息： https://t.co/UDyFFctvRz"
+[ NetworkDevice ]  Ubiquiti Networks disclosed a bug submitted by 93c08539: https://hackerone.com/reports/73480 - Bounty: $18,000 #hackerone https://t.co/ekShxczMjC
+﻿"Ubiquiti AirMax 产品任意文件上传漏洞: https://hackerone.com/reports/73480 "
+[ NetworkDevice ]  Synology NAS DSM 5.2 Remote Code Execution (RCE) http://rileykidd.com/2016/01/12/synology-nas-dsm-5-2-remote-code-execution-rce/
+﻿"Synology NAS DSM 5.2 （NAS 存储设备）远程代码执行漏洞：  https://t.co/BtABw6iuA2"
+[ NetworkDevice ]  Cisco Nexus 3000 Series and 3500 Platform Switches Insecure Default Credentials Vulnerability http://ow.ly/Z0pgV
+﻿"Cisco Nexus 3000 系列和 3500 平台交换机默认静态密码漏洞, 来自 Cisco 的公告:  https://t.co/G7lhO4nIwN"
+[ NetworkDevice ]  Netgear ReadyNAS Surveillance: Unauthenticated Remote Command Execution http://goo.gl/fb/BlUiS4 #FullDisclosure
+﻿"Netgear ReadyNAS 的视频监控组件存在未授权的远程代码执行漏洞， 来自 FullDisclosure 的公告： https://t.co/Ra1GsTtEMn "
+[ NetworkDevice ]  Netgear CG3000 modem/router set password vulnerability http://goo.gl/fb/rLtqlY #FullDisclosure
+﻿"Netgear CG3000 有线调制解调器密码修改漏洞(CSRF), 来自 FullDisclosure 的公告: https://t.co/JoPkIUUsaH "
+[ NetworkDevice ]  nice command injection on a Netgear router https://github.com/0x3d5157636b525761/bezeq_netgear_exploit_poc_2016/blob/master/bezeq_poc.html
+﻿"Netgear DGN2200  路由器 Exploit PoC， Github Repo： https://t.co/N2nxYSn6Zo"
+[ NetworkDevice ]  FortiOS (Fortinet) - Open Redirect and Cross Site Scripting http://goo.gl/fb/wIeNu6 #FullDisclosure
+﻿"FortiOS (Fortinet) 系统开放跳转漏洞+跨站漏洞， 来自 FullDisclosure 的公告： https://t.co/JrbZIU3ZCe "
+[ NetworkDevice ]  Netgear DGNv2200 multiple vulnerabilities (Bezeq firmware) http://goo.gl/fb/cDjuFt #FullDisclosure
+﻿"Netgear DGNv2200 路由器存在多个漏洞 （Bezeq 固件）： https://t.co/IBHzngAxDb "
+[ NetworkDevice ]  Cisco 'high severity' flaw lets #malware bypass FirePower firewall - http://ow.ly/10hdO7
+﻿"Cisco FirePower 防火墙存在高危漏洞，恶意软件可以利用该漏洞绕过防火墙， 来自 ThreatPost 的报道： https://t.co/Y9FGdJoXWp"
+[ NetworkDevice ]  Juniper removes Dual_EC from ScreenOS. https://threatpost.com/juniper-completes-removal-of-dual_ec/117297/ via @ threatpost
+﻿"Juniper 将从 ScreenOS 中移除 DUAL_EC_DRBG 和 ANSI X9.31 PRNG 两个有争议的随机数发生器组件， 来自 ThreatPost 的报道：   https://t.co/VbsPcq7ZVi"
+[ NetworkDevice ]  Over 135 million modems (ARRIS (Motorola)) vulnerable to denial-of-service flaw : http://www.securityforrealpeople.com/2016/04/arris-motorola-surfboard-modem.html ,More : http://seclists.org/fulldisclosure/2016/Apr/8
+﻿"ARRIS SURFboard 6141 有线 Modem 存在 CSRF 漏洞，未授权用户即可使路由器重启。1.35 亿设备受影响 ︰ https://t.co/gdqVGfVO6f    FullDisclosure 的公告 ︰ https://t.co/WBqd5Npo5Q"
+[ NetworkDevice ]  Cisco UCS servers can be hijacked with malicious HTTP request - Help Net Security http://ow.ly/4mIvbW
+﻿"发送一个恶意的 HTTP 请求就可以攻破思科 UCS 服务器（CVE-2016-1352）， 来自 Help Net Security 的报道：  https://t.co/qQcK3rtg2r"
+[ NetworkDevice ]  A Systematic Analysis of the Juniper Dual EC Incident : http://eprint.iacr.org/2016/376.pdf (pdf)
+﻿"Juniper ScreenOS Dual EC 伪随机数生成器漏洞整体分析， Paper ︰ https://t.co/VtP36BuHWn "
+[ NetworkDevice ]  Execute My Packet : http://www.slideshare.net/CanSecWest/csw2016-wheeler-barksdalegruskovnjakexecutemypacket (Slides)
+﻿"Execute My Packet -  Exodus 的研究员在 CanSecWest 2016 会议讲 Cisco 网络设备漏洞利用（CVE-2016-1287） ︰ https://t.co/RXAMa2aYgb  之前推送过 Exodus 在 Blog 上发表的一篇同名文章： https://blog.exodusintel.com/2016/01/26/firewall-hacking/ "
+[ NetworkDevice ]  routersploit : The Router Exploitation Framework : https://github.com/reverse-shell/routersploit
+﻿"RouterSploit - 路由器漏洞利用框架， Github Repo ︰ https://t.co/jkO7OCQoJJ"
+[ NetworkDevice ]  Here’s a CSRF PoC that levels up LAN-only vulns to WAN-exploitable on Netgear routers. https://github.com/zcutlip/exploit-poc/tree/master/netgear/r6200/addportmapping-csrf
+﻿" Netgear R6200 路由器端口映射 CSRF 漏洞： https://t.co/jHi6PliOHr"
+[ NetworkDevice ]  Cisco Guide to Harden IOS XR Devices http://www.cisco.com/c/en/us/about/security-center/increase-security-ios-xr-devices.html
+﻿"Cisco IOS XR 设备安全加固指南，来自 Cisco 官网： https://t.co/BZP31rX8Ws "
+[ NetworkDevice ]  Netgear Router Update Removes Hardcoded Crypto Keys https://threatpost.com/netgear-router-update-removes-hardcoded-crypto-keys/118606/
+﻿" Netgear 路由器更新，解决了硬编码加密密钥的问题，来自 ThreatPost 的报道： https://t.co/6S8caF3yh3"
+[ NetworkDevice ]  Cisco wireless kits are affected by a critical bug but no fix is available http://securityaffairs.co/wordpress/48436/hacking/cisco-wireless-kits-bug.html
+﻿" 思科无线套件存在一个严重的漏洞，可以通过特殊构造的 HTTP 请求远程攻击，以 ROOT 身份执行代码，而且可以盗用用户的 Cookie，目前没有可用的补丁： https://t.co/angZawJnsw"
+[ NetworkDevice ]  Second advisory from @ j0hn__f, default SSH keys on DDN's SFA products with the private keys publicly available :D https://labs.mwrinfosecurity.com/advisories/ddn-default-ssh-keys/
+﻿" DDN 存储设备存在默认 SSH 密钥，来自 MWR Labs 的公告︰ https://t.co/f3uT7gUqwz   还有一个固件更新过程存在的漏洞： https://labs.mwrinfosecurity.com/advisories/ddn-insecure-update-process/ "
+[ NetworkDevice ]  TP-LINK lost control of two domains used to configure its devices https://www.helpnetsecurity.com/2016/07/05/tp-link-config-domains/ via @ hardillb https://t.co/TfkxLsUq6n
+﻿" tplinklogin.net 域名不再被 TP-LINK 拥有，通过这个域名是可以配置 TP-LINK 路由器的： https://t.co/nNzM8UhbuU 除了这个域名，还有 tplinkextender.net 也不再属于 TP-LINK 公司"
+[ NetworkDevice ]  Belkin Router AC1200 Authentication Bypass https://packetstormsecurity.com/files/137857/Belkin-Router-AC1200-Authentication-Bypass.html
+﻿" Belkin AC1200 路由器身份验证绕过漏洞： https://t.co/3jGS1Gbws4"
+[ NetworkDevice ]  Juniper Crypto Bug Let Attackers Eavesdrop on Router, Switch Traffic https://threatpost.com/juniper-crypto-bug-lets-attackers-eavesdrop-on-router-switch-traffic/119319/
+﻿" Juniper 上周修复了一个加密方面的漏洞，成功利用该漏洞，黑客可以以中间人方式窃听路由器和交换机的加密流量，来自 ThreatPost 的报道： https://t.co/YvWBq5OuVq"
+[ NetworkDevice ]  HP LaserJet P2055 series printers are the most common printers connected directly to the Internet: http://buff.ly/29EI07s
+﻿"Shodan 引擎扫描发现，HP LaserJet P2055 系列是直连互联网最普遍的打印机︰ https://t.co/tlNYfV1JEl"
+[ NetworkDevice ]  New advisory (CVE-2015-1502): Post-auth command injection in the Engenius ESR9850 router found by Jeremy Soh https://labs.mwrinfosecurity.com/assets/BlogFiles/mwri-engenius-ESR9850-authenticated-remote-code-execution-2016-08-02.pdf
+﻿" Engenius ESR9850 无线路由器管理接口 RCE 漏洞（CVE-2015-1502），来自 MWR Labs： https://t.co/AWAZpEPf8d "
+[ NetworkDevice ]  Several 0 day RCE in Nuuo and Netgear NVR, including ARM ROP exploit http://seclists.org/bugtraq/2016/Aug/45
+﻿" Nuuo 网络视频监控设备和 Netgear 监控 APP 被曝多个远程漏洞，来自 FullDisclosure 的公告： https://t.co/QGZ7tgMwXs"
+[ NetworkDevice ]  Netis Router Backdoor UDP 53413 http://neonprimetime.blogspot.com/2016/08/netis-router-backdoor-udp-53413.html
+﻿"Netis 路由器的 UDP 53413 端口后门： https://t.co/EyjrMLGgpx"
+[ NetworkDevice ]  NTP bug gives IOS a wedgie http://www.theregister.co.uk/2016/08/08/ntp_bug_gives_ios_a_wedgie/
+﻿" 思科 IOS 系统的一个 NTP 拒绝服务漏洞，来自 TheRegister 的报道： https://t.co/FADLQ3draq  官方公告： http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160804-wedge "
+[ NetworkDevice ]  Juniper provides hotfixes for IPv6 DDoS flaw. https://threatpost.com/juniper-hotfixes-shut-down-ipv6-ddos-vulnerability/119812/
+﻿" Juniper 刚刚修复了一个 IPv6 DDoS 漏洞： https://t.co/kOQvN1uur9"
+[ NetworkDevice ]  Cisco ASA (Adaptive Security Appliance) SNMP Remote Code Execution Vulnerability - CVE-2016-6366 https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160817-asa-snmp
+﻿"思科修复了方程式压缩包中泄漏的 ASA 软件 SNMP 的远程代码执行漏洞（CVE-2016-6366）： https://t.co/NXJ6ieaKOW ; 对 Exploit 的分析： https://xorcatt.wordpress.com/2016/08/16/equationgroup-tool-leak-extrabacon-demo/  还有一篇《Equation Group（NSA合作黑客组织）的攻击工具分析》： http://wufeifei.com/eqgrp/ "
+[ NetworkDevice ]  Cookie Parser Buffer Overflow Vulnerability in FortiGate firmware (FOS) released before Aug 2012 http://fortiguard.com/advisory/cookie-parser-buffer-overflow-vulnerability
+﻿" Fortinet 修复了方程式组织压缩包中泄漏的 FortiGate 固件 0Day： https://t.co/EruOuiBJWu"
+[ NetworkDevice ]  EGREGIOUSBLUNDER Fortigate Remote Code Execution https://packetstormsecurity.com/files/138387/EGREGIOUSBUNDER.tgz
+﻿" EGREGIOUSBLUNDER Fortigate 防火墙 RCE Exploit，来自 Shadow Brokers 泄漏的方程式压缩包： https://packetstormsecurity.com/files/138387/EGREGIOUSBUNDER.tgz "
+[ NetworkDevice ]  ELIGIBLEBOMBSHELL TOPSEC Remote Code Execution https://packetstormsecurity.com/files/138389/ELIGIBLEBOMBSHELL.tgz
+﻿" ELIGIBLEBOMBSHELL TOPSEC 防火墙 RCE Exploit，来自 Shadow Brokers 泄漏的方程式压缩包： https://packetstormsecurity.com/files/138389/ELIGIBLEBOMBSHELL.tgz "
+[ NetworkDevice ]  ELIGIBLECANDIDATE TOPSEC Remote Code Execution https://packetstormsecurity.com/files/138390/ELIGIBLECANDIDATE.tgz
+﻿" ELIGIBLECANDIDATE TOPSEC 防火墙 RCE Exploit，来自 Shadow Brokers 泄漏的方程式压缩包： https://packetstormsecurity.com/files/138390/ELIGIBLECANDIDATE.tgz "
+[ NetworkDevice ]  ESCALATEPLOWMAN WatchGuard Privilege Escalation https://packetstormsecurity.com/files/138393/ESCALATEPLOWMAN.tgz
+﻿"ESCALATEPLOWMAN WatchGuard 防火墙提权 Exploit，来自 Shadow Brokers 泄漏的方程式压缩包： https://t.co/Ada0Tekpky"
+[ NetworkDevice ]  A Wonderful (and !Secure) Router from China http://blog.ioactive.com/2016/08/multiple-vulnerabilities-in-bhu-wifi.html
+﻿" 必虎 uRouter WiFi 路由器被曝多个漏洞，来自 IOActive： https://t.co/IHevO4itpT "
+[ NetworkDevice ]  Equation Group's BENIGNCERTAIN tool - a remote exploit to extract Cisco VPN private keys https://musalbas.com/2016/08/18/equation-group-benigncertain.html
+﻿" 方程式组织泄漏压缩包中被忽视的一个工具 - BENIGNCERTAIN，这是个思科 VPN 私钥远程提取工具，看描述有点像 HeartBleed： https://t.co/BFx1t3pFhb"
+[ NetworkDevice ]  A leaked #ShadowBrokers attack has been upgraded to target current versions of Cisco ASA - http://ow.ly/QwFS303ycv3 #EquationGroup
+﻿" ShadowBrokers 泄漏的思科 ASA 防火墙 Exploit 可通过升级攻击当前版本： https://t.co/p5Y5rbSl7H "
+[ NetworkDevice ]  Some Of Huawei Routers Exploits. http://bit.ly/2bIIbiO
+﻿" 华为 HG532X 路由器 Exploit： https://t.co/yYGtZZB8Fp"
+[ NetworkDevice ]  Aruba Networks / Alcatel-Lucent products Private key for browser-trusted certificate embedded https://cxsecurity.com/issue/WLB-2016090031
+﻿" Aruba Networks/阿尔卡特-朗讯 将证书私钥嵌入到了产品固件中： https://t.co/qVyqexkPFi"
+[ NetworkDevice ]  #KCON 2016 网络设备漏洞分析技术研究 by timo https://github.com/knownsec/KCon/raw/master/2016/%5BKCon%202016%5D0828_6_timo_%E7%BD%91%E7%BB%9C%E8%AE%BE%E5%A4%87%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6.pdf
+﻿" 网络设备漏洞分析技术研究，来自 KCon 2016 会议： https://t.co/FwniJJNGJs"
+[ NetworkDevice ]  CVE-2016-6399 – CISCO disclosed unpatched flaw in ACE products http://securityaffairs.co/wordpress/51147/security/cisco-cve-2016-6399-flaw.html
+﻿" 思科披露了 ACE 产品的一个高危拒绝服务漏洞（CVE-2016-6399）：  https://t.co/GdRy5eY3Pq"
+[ NetworkDevice ]  New NCC Group technical advisory: D-Link routers vulnerable to Remote Code Execution https://www.nccgroup.trust/uk/our-research/d-link-routers-vulnerable-to-remote-code-execution-rce/?research=Technical+advisories
+﻿" D-link 路由器多个版本存在远程代码执行漏洞（CVE-2016-5681）： https://t.co/9zN3XqXfYA"
+[ NetworkDevice ]  Porting an exploit to a Netgear Router : http://www.contextis.com/resources/blog/porting-exploits-netgear-wnr2200/ https://t.co/eXQJnGP7jo
+﻿" 将一个 x86 Exploit 移植到 Netgear 路由器上︰ https://t.co/99SwNJhnAF "
+[ NetworkDevice ]  The Equation Group's Firewall Exploit Chain : https://www.ixiacom.com/company/blog/equation-groups-firewall-exploit-chain https://t.co/DqnpoyRZYp
+﻿" 前段时间泄漏的方程式组织 Exploit Kit 是如何 Exploit 思科防火墙的︰ https://t.co/8RcfnDmVwa https://t.co/DqnpoyRZYp"
+[ NetworkDevice ]  The Network Capture Playbook ( Part 1 – Ethernet Basics) : https://blog.packet-foo.com/2016/10/the-network-capture-playbook-part-1-ethernet-basics/ cc @ PacketJay https://t.co/RFhGJ5IeUn
+﻿"Network Capture Playbook (第 1 部分 — — 以太网基础):  https://blog.packet-foo.com/2016/10/the-network-capture-playbook-part-1-ethernet-basics/"
+[ NetworkDevice ]  Cisco Patches Critical Bug In Video Conferencing Server Hardware: https://threatpost.com/cisco-patches-critical-bug-in-video-conferencing-server-hardware/121268/ via @ threatpost
+﻿"思科修复了视频会议服务器硬件设备的一个严重漏洞，来自 ThreatPost 的报道: https://t.co/bwiIxZSeow "
+[ NetworkDevice ]  天融信防火墙密码恢复手记： http://paper.seebug.org/71/
+[ NetworkDevice ]  DVRF：路由器漏洞实战模拟环境： https://github.com/praetorian-inc/DVRF
+[ NetworkDevice ]  CVE-2017-3792 – Cisco TelePresence MCU affected by a Remote Code Execution issue http://securityaffairs.co/wordpress/55763/hacking/cisco-telepresence-mcu-flaw.html
+﻿" 思科的 TelePresence MCU 会议平台存在一个 RCE 漏洞（CVE-2017-3792），3 款设备型号受影响： https://t.co/Vm9rq1xKZi"
+[ NetworkDevice ]  Bypassing Authentication on NETGEAR Routers : https://www.trustwave.com/Resources/SpiderLabs-Blog/CVE-2017-5521--Bypassing-Authentication-on-NETGEAR-Routers/ cc @ Simon_Kenin //CVE-2017-5521
+﻿"绕过 Netgear 路由器上的身份验证（CVE-2017-5521）︰ https://t.co/bnJQKapTYX "
+[ NetworkDevice ]  Cisco Prime Home Authentication Bypass Vulnerability https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170201-prime-home
+﻿"（CVE-2017-3791）Cisco Prime Home Web 系统身份验证绕过漏洞： https://t.co/A5jrirlJE3"
+[ NetworkDevice ]  Vuln in F5 TLS stack allowing an attacker to extract up to 31 bytes of uninitialized memory at a time https://blog.filippo.io/finding-ticketbleed/ #Ticketbleed
+﻿" Ticketbleed (CVE-2016-9244) 漏洞分析： https://t.co/8d0TV5QmF8 "
+[ NetworkDevice ]  NCC Group's @ foxit Blog on Detecting #Ticketbleed (CVE-2016-9244) - https://blog.fox-it.com/2017/02/13/detecting-ticketbleed-cve-2016-9244/ including @ Snort signatures
+﻿" F5 设备 Ticketbleed(CVE-2016-9244) 漏洞的检测： https://t.co/po5KLDk0Mw "
+[ NetworkDevice ]  D-link wireless router DI-524 – Multiple Cross-Site Request Forgery (CSRF… https://goo.gl/fb/vLDCtl #FullDisclosure
+﻿"D-link 无线路由器存在多个 CSRF 漏洞（CVE-2017-5633）： https://t.co/gTbRSWiK6p"
+[ NetworkDevice ]   2015 年 Juniper Dual EC 后门事件的系统性分析： https://www.ietf.org/proceedings/99/slides/slides-99-irtfopen-anrp-stephen-checkoway-a-systematic-analysis-of-the-juniper-dual-ec-incident-00.pdf
+[ NetworkDevice ]  油炸 Cisco - Cisco IOS 系统的 Exploit 开发，来自韩国 PoC 2017 会议： http://powerofcommunity.net/poc2017/george.pdf
+[ NetworkDevice ]  Cisco RV132W VPN 路由器被曝多个漏洞： https://blogs.securiteam.com/index.php/archives/3590
+[ NetworkDevice ]  西部数据 My Cloud Pro Series PR2100 认证用户远程任意代码执行漏洞： https://blogs.securiteam.com/index.php/archives/3679

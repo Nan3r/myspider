@@ -1,0 +1,459 @@
+[ Hardware ]  Retweeted Nicolas Krassas (@ Dinosn): Reverse engineering the ARM1, ancestor of the iPhone's processor... http://fb.me/YEobstWK
+﻿"逆向 ARM1，iPhone 的处理器的始祖 https://t.co/BwZYIUf3GP"
+[ Hardware ]  GunCon3 Reversing and Linux Driver https://beardypig.github.io/2016/01/06/guncon3/
+﻿"Play Station 3 GunCon3 枪逆向： https://t.co/h9rChcsL8v"
+[ Hardware ]  GSM-scanner : Spectrum monitoring system for GSM providers : https://github.com/yosriayed/GSM-scanner
+﻿"GSM-scanner: 为 GSM 提供商准备的频谱监控系统: https://t.co/gPIVscEMLT"
+[ Hardware ]  NCC Group Research Insights Vol 8 - Hardware Design: FPGA Security Risks - https://www.nccgroup.trust/uk/our-research/research-insights-vol-8-hardware-design-fpga-security-risks/?research=Whitepapers
+﻿"硬件设计之 FPGA 的安全风险，来自 NCC Group 的 Paper： https://t.co/rVCNhklbbu"
+[ Hardware ]  Counting bits in hardware: reverse engineering the silicon in the ARM1 processor http://www.righto.com/2016/01/counting-bits-in-hardware-reverse.html
+﻿"逆向 ARM1 处理器中的硅： https://t.co/5rXfPWgqwI "
+[ Hardware ]  Good overview: Security Attacks Against the Availability of LTE Mobility Networks http://web2-clone.research.att.com/export/sites/att_labs/techdocs/TD_101153.pdf #shmoocon https://t.co/i7uAvdilXb
+﻿"针对 LTE 移动网络可用性的安全攻击，来自美国 AT&T 安全研究中心的 Paper: https://t.co/i7uAvdilXb   https://t.co/gm022bDimF "
+[ Hardware ]  Insecure by Design: Using Human Interface Devices to exploit SCADA systems https://www.researchgate.net/profile/Leandros_Maglaras/publication/279178281_Insecure_by_Design_Using_Human_Interface_Devices_to_exploit_SCADA_systems/links/558c33ac08ae40781c204141.pdf
+﻿"设计上就不安全: 利用人机接口设备攻击 SCADA 系统，来自英格兰德蒙福特大学的 Paper： https://t.co/RNxN7zcVE2"
+[ Hardware ]  Chameleon : Emulates Contactless Smart Cards ,read RFID tags and sniff RF data : https://github.com/skuep/ChameleonMini https://t.co/5ghUJXADqr
+﻿"Chameleon - 非接触式智能卡模拟器： https://t.co/5ghUJXADqr  https://t.co/mdTdNeFp9C"
+[ Hardware ]  August Smart Lock Teardown https://medium.com/@ use_ruki/august-teardown-6274a7858338#.wpgqumxhr
+﻿"August/Lockitron/Goji 三款电子智能锁拆解，来自 Medium Blog： https://t.co/nCGA6ke14C"
+[ Hardware ]  一维条形码攻击技术(Badbarcode) http://drops.wooyun.org/tips/12183
+﻿"一维条形码攻击技术(Badbarcode)，来自 Wooyun Drops，作者为伏宸安全实验室的数据流  https://t.co/rPmtI2JujF"
+[ Hardware ]  Insecure by design: protocols for encrypted phone calls https://www.benthamsgaze.org/2016/01/19/insecure-by-design-protocols-for-encrypted-phone-calls/
+﻿"设计上就不安全：加密电话协议。这篇 Blog 提到英国政府将 MIKEY-SAKKE 作为加密电话协议，然而这个协议本身对安全的考虑就不够完善，可能会导致大规模的无察觉地监视，来自 Bentham's Gaze Blog: https://t.co/XCsnWlXisW "
+[ Hardware ]  Conditional instructions in the ARM1 processor, reverse engineered http://www.righto.com/2016/01/conditional-instructions-in-arm1.html
+﻿"ARM1 处理器条件指令的电路级实现逆向，来自 Ken Shirriff Blog： https://t.co/qEKF5dCDzc"
+[ Hardware ]  #DeepSec Video: Bridging the Air-Gap - Data #Exfiltration from Air-Gap Networks: … http://wp.me/p6PE4U-CJ #GSMem #Wireless
+﻿"从物理隔离的网络中通过手机频段窃取数据，来自 DeepSec 的演讲，作者还实现了一个原型工具 GSMem:  https://t.co/4lQwCKV71y"
+[ Hardware ]  Siemens OZW672 and OZW772 XSS Vulnerability https://ics-cert.us-cert.gov/advisories/ICSA-16-019-01
+﻿"西门子 OZW672 和 OZW772 楼宇控制设备 Web 服务器 XSS 漏洞，来自 ICS CERT 公告： https://t.co/q2HATz2Hbp"
+[ Hardware ]  Rockwell Automation MicroLogix 1100 PLC Overflow Vulnerability https://ics-cert.us-cert.gov/advisories/ICSA-16-026-02
+﻿"Rockwell Automation 公司的 MicroLogix 1100 PLC 产品存在溢出漏洞，来自 ICS CERT 公告： https://t.co/91MK6TLaAN"
+[ Hardware ]  Reverse engineering Google Nest Devices http://experimental-platform.tumblr.com/post/137835649425/reverse-engineering-google-nest-devices
+﻿"逆向 Google Nest 智能家具设备： https://t.co/wP7D2PHTBt"
+[ Hardware ]  Hacking the Zsun WiFi SD Card Reader : https://wiki.hackerspace.pl/projects:zsun-wifi-card-reader
+﻿"Hacking Zsun WiFi SD 卡读卡器，来自 Warsaw Hackerspace: https://t.co/mFYE0e4z2g"
+[ Hardware ]  arduino-canbus-monitor https://github.com/latonita/arduino-canbus-monitor https://t.co/tmhw77Sni2
+﻿"基于 Arduino 的 CAN BUS 监控工具， Github Repo： https://t.co/ct0PWXjkKN 还有一个 CAN BUS 相关的论坛： http://www.canhack.org/board/ "
+[ Hardware ]  LTE security and protocol Exploits : http://www.ee.columbia.edu/~roger/ShmooCon_talk_final_01162016.pdf (pdf)
+﻿"LTE 安全性和协议漏洞攻击 - 来自 Roger Piqueras Jover 在 ShmooCon 2016 会议上的演讲： https://t.co/9hrKb4oPXQ "
+[ Hardware ]  Don’t Trust Satellite Phones : A Security Analysis of Two Satphone Standards : http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6234409 (pdf)
+﻿"别信任卫星电话: 两个卫星电话标准的安全性分析， 来自 IEEE 2012 年的一篇 Paper: https://t.co/Xd20or7hug "
+[ Hardware ]  Checkout our paper published by the IEEE HPEC! DRAM Memory Failures http://www.ddrdetective.com/files/6014/5436/0253/DDR_Memory_Errors_caused_by_Row_Hammer.pdf
+﻿"RowHammer 引起的 DDR 内存错误， 来自 IEEE HPEC Paper： https://t.co/xbUW9Wk5nd"
+[ Hardware ]  Barcode recovery using a priori constraints : http://www.windytan.com/2016/02/barcode-recovery-using-priori.html cc: @ windyoona
+﻿"使用先验约束的方法还原条形码， Blog: https://t.co/qyBIoxRKq6 "
+[ Hardware ]  Hacking fixed key remotes with (only) RFCat : http://andrewmohawk.com/2015/08/31/hacking-fixed-key-remotes-with-only-rfcat/
+﻿"只用 RFCat Hacking 固定密钥， 来自 AndrewNohawk Blog: https://t.co/YN5YC0MDyr"
+[ Hardware ]  Bypassing Rolling Code Systems http://andrewmohawk.com/2016/02/05/bypassing-rolling-code-systems/
+﻿"绕过汽车的滚动码系统， 来自 AndrewNohawk Blog： https://t.co/b8kkbB32TH"
+[ Hardware ]  The micro architecture of Intel,AMD & VIA CPUs - Optimization guide for assembly programmers & compiler makers http://goo.gl/Tp4MEP (pdf)
+﻿"Intel、 AMD 和 VIA CPU 微体系架构与汇编、编译器开发者优化手册 (PDF)： https://t.co/64TqsJQLLm "
+[ Hardware ]  RE recent posts about GPU ISA reversing: I decided to put a post with links to open-source low-level GPU projects http://allsoftwaresucks.blogspot.ru/2016/01/on-gpu-isas-and-hacking.html
+﻿"与 GPU 有关的一些开源项目： https://t.co/g8wtzxeuCr"
+[ Hardware ]  Lenovo's, batteries & Hacking ~Three Part series By Matt : http://www.zmatt.net/unlocking-my-lenovo-laptop-part-1/
+﻿"联想笔记本和电池的故事 - 作者新买了一块电池，安装上之后，BIOS 提示电池未通过认证，无法充电。于是作者开始尝试破解， Part 1: https://t.co/vnueQMM2aR  Part 2: http://www.zmatt.net/unlocking-my-lenovo-laptop-part-2/  Part 3: http://www.zmatt.net/unlocking-my-lenovo-laptop-part-3/ "
+[ Hardware ]  How to steal a GPG key from the next room: http://eprint.iacr.org/2016/129 By Eran Tromer (https://z.cash/team.html#scientists) et al. https://t.co/x9C1aTVsmF
+﻿"如何从隔壁房间窃取 GPG 密钥 - 通过低频电磁攻击提取密钥， 来自 IACR 的 Paper: https://t.co/DI68b3CWPr "
+[ Hardware ]  Video of "Hacking the Wireless World: #sdr Exploits" from #shmoocon 2016 is online: https://archive.org/details/Hacking_The_Wireless_World Slides: http://spench.net/drupal/files/Balint_Seeber-ShmooCon_2016.pdf
+﻿"无线电世界的 Hacking - SDR Exploits， 来自 ShmooCon 2016 会议， 视频: https://t.co/MN6Niut6DP Slides: https://t.co/nKez0YnLS3"
+[ Hardware ]  SDR review: AirSpy - SdrPlay RSP - HackRF http://www.rtl-sdr.com/review-airspy-vs-sdrplay-rsp-vs-hackrf/ via @ dotMudge https://t.co/nF5W6xffAj
+﻿"SDR 横向比较 - AirSpy vs SdrPlay vs HackRF：  https://t.co/nF5W6xffAj   FreeBuf 昨天也有一篇相关的文章 《玩跨界？三款最优秀平价SDR对比》： http://www.freebuf.com/tools/96133.html "
+[ Hardware ]  SS7 MAP (pen-)testing toolkit code https://github.com/ernw/ss7MAPer post https://www.insinuator.net/2016/02/ss7maper-a-ss7-pen-testing-toolkit/ https://t.co/wcttfCdSHK
+﻿"SS7MAPer - SS7 MAP 协议渗透测试工具， Github Repo： https://t.co/WWOhjyASLV  Blog： https://t.co/wF50JmILRM  https://t.co/wcttfCdSHK"
+[ Hardware ]  Modern Microprocessors : http://www.lighterra.com/papers/modernmicroprocessors/
+﻿"现代微处理器设计架构: https://t.co/Jx1blejl3N"
+[ Hardware ]  NCC Group Whitepaper: Building WiMap the Wi-Fi Mapping Drone - https://www.nccgroup.trust/uk/our-research/building-wimap-the-wi-fi-mapping-drone/
+﻿"WiMap - NCC Group 构建的一款 Wi-Fi 测绘无人机： https://t.co/uuKjCyjnZM"
+[ Hardware ]  See Through Walls with Wi-Fi : http://people.csail.mit.edu/fadel/papers/wivi-paper.pdf (pdf)
+﻿"通过 Wi-Fi 看到墙后面的世界， WiFi 信号不仅可以作为信息传播的载体， 这篇 Paper 研究通过 WiFi 信号识别墙后面的人的数量和移动情况。 Paper: https://t.co/rjISCRoldR "
+[ Hardware ]  Semi-invasive attacks - A new approach to hardware security analysis - https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-630.pdf
+﻿"半侵入型攻击 - 硬件安全分析的新方法， 这篇 Paper 将硬件攻击分为 侵入型、非侵入型、半侵入型攻击： https://t.co/5hHUi8eti5"
+[ Hardware ]  Guide to Digital Signal Processing : http://www.dspguide.com/pdfbook.htm
+﻿"数字信号处理指南（在线图书）， 来自 DSP Guide: https://t.co/Gutwihht6Z"
+[ Hardware ]  GPS hacking (PART 1) http://en.wooyun.io/2016/02/04/41.html
+﻿"狗汪汪玩转无线电 -- GPS Hacking (上）， 来自 Wooyun Drops， 作者为 Kevin2600， 英文版： https://t.co/2FKSMKNQ5s  中文版： http://drops.wooyun.org/tips/11155 "
+[ Hardware ]  Wireless mice, keyboards vulnerable to injection attacks from 100 meters away. #mousejack https://threatpost.com/mousejack-attacks-abuse-vulnerable-wireless-keyboard-mouse-dongles/116402/ via @ threatpost
+﻿"包括罗技、戴尔、联想等 7 个厂商的无线键盘、鼠标存在注入攻击漏洞，可以在 100 米内向无线键盘、鼠标设备发起注入攻击， 来自 ThreatPost 的报道：  https://t.co/xiGtf9BOKi"
+[ Hardware ]  Ghost in the Machine: “MouseJack” Wireless Mouse and Keyboard Injection Vulnerability http://www.tenable.com/blog/ghost-in-the-machine-mousejack-wireless-mouse-and-keyboard-injection-vulnerability #infosec
+﻿"机器中的幽灵 - Tenable 对 'MouseJack' 无线鼠标和键盘注入漏洞的分析文章： https://t.co/Y7sWrJsDkS "
+[ Hardware ]  Introduction to Microcontrollers (Part 1 - 14) : http://www.embeddedrelated.com/showarticle/453.php
+﻿"了解微控制器 (Part 1 - 14): https://t.co/Ed3hYnczpq"
+[ Hardware ]  Controlling vehicle features of Nissan LEAFs across the globe via vulnerable APIs : http://www.troyhunt.com/2016/02/controlling-vehicle-features-of-nissan.html
+﻿"通过有漏洞的 API 跨越全球控制 Nissan LEAFs， Nissan LEAFs 是一款 Nissan 产的两厢纯电动汽车: https://t.co/gcK3cR0lu7"
+[ Hardware ]  Practical Attacks Against Privacy and Availability in 4G/LTE Mobile Communication Systems https://www.internetsociety.org/sites/default/files/blogs-media/practical-attacks-against-privacy-availability-4g-lte-mobile-communication-systems.pdf https://t.co/VczdmzAeWZ
+﻿"4G/LTE 移动通信系统的隐私性和可用性攻击实战， 来自德国柏林工业大学的 Paper： https://t.co/Q1pt05xVEr https://t.co/VczdmzAeWZ"
+[ Hardware ]  Intel CPU bugs http://danluu.com/cpu-bugs/
+﻿"2015 年我们看到了一些 Intel CPU 的 Bugs， 将来我们会看到更多：  https://t.co/3SG7qLFQNg"
+[ Hardware ]  Introducing the Raspberry Pi 3 http://wp.me/pk3lN-NJw
+﻿"树莓派 3: https://t.co/rSP07xwJFm"
+[ Hardware ]  Cellphone Surveillance: The Secret Arsenal http://goo.gl/vZS0SX #WirelessSecurity #AccessControl #MITM #Spyware
+﻿"手机窃听硬件武器库(包括 StingRay, Blackfin 等), 来自 InfoSec Blog: https://t.co/8usDCxMPgY "
+[ Hardware ]  PoC for radio transmissions from air-gapped computers: https://github.com/fulldecent/system-bus-radio
+﻿"在不借助额外无线电硬件的情况下,从物理隔绝的 PC 中发射无线电. PoC 代码: https://t.co/Fj9Qy6KMry"
+[ Hardware ]  I am giving a short talk tonight in Singapore (on lessons I learnt from Rowhammer). My slides are here: https://docs.google.com/presentation/d/1x7syhRv8Kxi78fpbcp4vSsslriGOj5cuHUgCUuZcZ3U/edit?usp=sharing
+﻿"Rowhammer 教会我的三件事儿(PDF): https://t.co/Wn3S1vlefg"
+[ Hardware ]  ECDSA Key Extraction from Mobile Devices via Nonintrusive Physical Side Channels : https://www.cs.tau.ac.il/~tromer/mobilesc/mobilesc.pdf (pdf)
+﻿"以非入侵性的方法（电磁和功率边信道分析）还原手机设备的 ECDSA（椭圆曲线数字签名算法） 密钥信息， Paper : https://t.co/J2cZTQhkhP "
+[ Hardware ]  Coping a 3D Model by recording the sounds of a 3D Printer with a smartphone http://securityaffairs.co/wordpress/45114/hacking/coping-3d-models-3d-printer-smartphone.html
+﻿"加州大学欧文学院的研究员表示,通过用智能手机记录 3D 打印机的声音, 可以还原 3D 打印的原始模型, 来自 SecurityAffairs 的报道:  https://t.co/PvO8MhLnjE "
+[ Hardware ]  Hacking industrial vehicles openly exposed on the internet (TGU) http://jcarlosnorte.com/security/2016/03/06/hacking-tachographs-from-the-internets.html
+﻿"从互联网上 Hacking 开放 TGU 的工业车辆， Blog： https://t.co/YnhClPHajC"
+[ Hardware ]  Looking for our car hacking tools / data / scripts? http://illmatics.com/content.zip
+﻿"Chris 和 Charlie 的 Car Hacking 工具/Slides/脚本, 压缩包下载: https://t.co/mGK9Gn3uNU"
+[ Hardware ]  we just released our formerly-customers-only manuals for #Osmocom #OpenBSC and related projects publicly under GFDL: https://www.sysmocom.de/news/sysmocom-publicly-releases-osmocom-user-manuals/
+﻿"德国 Sysmocom 公司开放了 Osmocom 项目的大量文档, Osmocom 项目的全称是开源移动通信, 主要是蜂窝网络方面的开源实现, 但之前这方面的文档很少: https://t.co/tfn2NFzHb3"
+[ Hardware ]  New blog post (technical): Anvil and next generation rowhammer attacks: http://dreamsofastone.blogspot.de/2016/03/anvil-next-generation-row-hammer-attacks.html
+﻿"Anvil 与下一代 Rowhammer 攻击, Anvil 指的是针对这一攻击的防御技术, Blog ︰ https://t.co/2mmA2fnYKC"
+[ Hardware ]  How Keyless Entry Lets Cybercriminals Hack Your Connected Car https://blogs.mcafee.com/consumer/keyless-entry-car-hacks/
+﻿"无钥匙进入功能是如何让犯罪份子 Hack 你的汽车的, 来自 McAfee Blog: https://t.co/mPC2q5bd6i"
+[ Hardware ]  How Rowhammer Could Be Used to Exploit Weaknesses in Computer Hardware - http://www.thirdio.com/rowhammer.pdf http://arstechnica.com/security/2016/03/once-thought-safe-ddr4-memory-shown-to-be-vulnerable-to-rowhammer/
+﻿"Rowhammer 是如何被用于攻击计算机硬件的： https://t.co/FcryYuePmv      曾经被认为安全的 DDR4 内存，现在看来也受 Rowhammer 的影响， 来自 ArsTechnica 的报道：   https://t.co/JHfk7Vcc70"
+[ Hardware ]  TSATool : 3D printed TSA keys in a pocketable "Swiss Army" style tool : http://tsatool.com/ cc: @ darksim905 https://t.co/AkJxxp21LL
+﻿"TSATool - 3D 打印的 TSA 钥匙, 能放进口袋里的 '瑞士军刀' 级工具 ︰ https://t.co/R9eYMXOT73   https://t.co/AkJxxp21LL"
+[ Hardware ]  Awesome framework for black-box CAN bus/network analysis https://github.com/eik00d/CANToolz
+﻿"CANToolz - CAN BUS 网络黑盒分析框架, Github Repo: https://t.co/A0kInLIWZA"
+[ Hardware ]  New blog post: 'Inside the IOActive #Silicon #Lab: Interpreting Images,' by @ azonenberg of @ IOActive http://ioac.tv/1UhTfIf #infosec
+﻿"走进 IOActive 硅实验室 - 通过电路图图片观察和理解电路的实际几何机构: https://t.co/lITV3FDWFp  "
+[ Hardware ]  BlackBox Testing CAN network with help of CANToolz (https://github.com/eik00d/CANToolz - beta) http://www.slideshare.net/AlexeySintsov/testing-can-network-with-help-of-cantoolz
+﻿"在 CANToolz 的帮助下黑盒测试 CAN 网络， Slides:  https://t.co/JbLebZKrf6  CANToolz Github Repo： https://t.co/UfdLnTeRvC "
+[ Hardware ]  @ GouWangwang working on embedded -- KACO Power Inverter System XP100U http://en.wooyun.io/2016/03/16/46.html
+﻿"狗汪汪玩转嵌入式 -- KACO 电源逆变器系统 XP100U， 来自乌云 Drops： http://drops.wooyun.org/tips/13578"
+[ Hardware ]  Cyber-attack on cars over CAN protocol : http://dn5.ljuska.org/cyber-attacks-on-vehicles-2.html ,vircar : https://github.com/dn5/vircar cc: @ dn5__
+﻿"通过 CAN 协议攻击汽车 ︰ https://t.co/PT9UPRoQYC  vircar 工具， vircar 可以虚拟一台汽车，模拟 CAN 网络: https://t.co/QEWdbkbDKZ  "
+[ Hardware ]  More engineering can be found here : http://hackaday.com/2016/02/18/guardbunny-active-rfid-protection-going-open-hardware/ :) /cc @ KristinPaget
+﻿"RFID 防护设备 GuardBunny 开源了， HackADay 的文章 ︰ https://t.co/TUOq64eSuF  Github Repo: https://github.com/kristinpaget/GuardBunny "
+[ Hardware ]  Yet Another Car Hacking Tool : http://asintsov.blogspot.in/2016/03/yet-another-car-hacking-tool.html ,Slides : http://www.slideshare.net/AlexeySintsov/testing-can-network-with-help-of-cantoolz , https://github.com/eik00d/CANToolz https://t.co/oSua0XewuQ
+﻿"推送过两次 CANToolz 这个 Car Hacking 工具了， 这次这篇 Blog 是 CANToolz 作者讲如何用这个工具 ︰ https://t.co/I2MDB7OLPt  Slides︰ https://t.co/5e2oQ5lZ7O Github Repo：  https://t.co/IeUgvQNdzO "
+[ Hardware ]  Oh my! Quad-core 64bit MIPS processors execute ARM and x86 instructions (HT: @ angealbertini) http://www.electronicsweekly.com/news/products/micros/quad-core-64bit-mips-processors-execute-arm-x86-instructions-2015-09/
+﻿"中国龙芯发布两款 4 核处理器，基于 MIPS 架构，通过二进制翻译，可以执行 ARM 和 x86 指令： https://t.co/PubdSz7sQh"
+[ Hardware ]  Let Me Get That Door for You: Remote Root Vulnerability in HID Door Controllers http://blog.trendmicro.com/let-get-door-remote-root-vulnerability-hid-door-controllers/
+﻿"我来为你开门 - HID 门禁系统远程 Root 漏洞， HID 是世界最大的门禁生产厂商之一： https://t.co/d9IDSqX591 "
+[ Hardware ]  1,400 vulnerabilities found in automated medical supply system https://www.helpnetsecurity.com/2016/03/30/1400-flaws-automated-medical-supply-system/
+﻿"CareFusion 的自动化医疗补给系统被发现了 1400+ 个漏洞，更糟糕的是，受影响的这些软件已经过了维护期，厂商不会再提供补丁更新： https://t.co/dpAVpLzWsb"
+[ Hardware ]  How To Build Your Own Rogue GSM BTS For Fun And Profit https://evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/
+﻿"如何构建一个属于自己的假基站： https://t.co/KTj6zji31t "
+[ Hardware ]  Hacking a Professional Drone : https://www.blackhat.com/docs/asia-16/materials/asia-16-Rodday-Hacking-A-Professional-Drone.pdf (Slides) https://t.co/gqrU3erQpl
+﻿"黑掉一架专业的无人机， 来自 BlackHat Asia 2016 会议的演讲︰ https://t.co/vn5zU8raEn  https://t.co/gqrU3erQpl"
+[ Hardware ]  Hacking Tesla Model S : http://www.su-tesla.space/2016/04/hack-s.html (obtain_root script ...? ) https://t.co/K3mW8JG4hS
+﻿"Hacking Tesla Model S - 获取触摸屏的 ROOT 权限: https://t.co/MCdhQfooHz   https://t.co/K3mW8JG4hS"
+[ Hardware ]  Cold-boot attacks on scrambled DDR3 memory : http://www.dfrws.org/2016eu/proceedings/DFRWS-EU-2016-7.pdf (pdf)
+﻿"针对杂乱 DDR3 内存的冷启动攻击， Paper ︰ https://t.co/ESTdpKj4PW "
+[ Hardware ]  Turns out you can run a USB device in "promiscuous" mode. Check out our new work http://static.securegoose.org/papers/uscramble_cr.pdf @ sictune https://t.co/B2mCpZDNnV
+﻿"USB 窃听攻击的透明防御技术： https://t.co/79uK58I85i   https://t.co/B2mCpZDNnV"
+[ Hardware ]  Neat find @ dklinedinst http://www.kb.cert.org/vuls/id/615456
+﻿"车辆监控设备 Lemur BlueDriver 在建立蓝牙连接时没有认证用户身份，汽车售后经常使用这种设备获取车辆信息，而这个漏洞可以允许周围人直接连上蓝牙，接入汽车 CAN Bus： https://t.co/7cKgEdgMxx"
+[ Hardware ]  Ethernet Connected Remote Wifi Sniffing Station with an ESP8266 Module : http://phasenoise.livejournal.com/4003.html , Github : https://github.com/cnlohr/espthernet
+﻿"以太网连接的远程 WiFi Sniffer 设备（基于 ESP8266 芯片） :   https://t.co/FRdLdp6PkU   Github Repo : https://t.co/E8JAtbJPHJ"
+[ Hardware ]  HARDSPLOIT : Framework for Hardware Security Audit - a bridge between hardware & a software pentester : http://www.slideshare.net/CanSecWest/csw2016-julien-moinardhardsploit (Slides)
+﻿"HARDSPLOIT - 硬件安全审计框架，连接软件渗透测试工程师和硬件之间的桥梁，来自 CanSecWest 2016 会议:  https://t.co/9YQ3jV6my8  "
+[ Hardware ]  #GSM "Hacking as Transgressive Infrastructuring": Interesting paper about #Osmocom and other GSM hacks around #CCC http://mkorn.binaervarianz.de/pub/korn-cscw2016.pdf
+﻿"一篇关于 GSM Hacking 的 Paper： 《移动手机网络与德国混沌计算机俱乐部》： https://t.co/nfPedDC9jE"
+[ Hardware ]  X1 Carbon 4th gen has a hidden new feature: a case intrusion detection switch with BIOS hooks to clear TPM keys. https://t.co/KnH9b0ydfT
+﻿"ThinkPad X1 Carbon 第 4 代笔记本有一个隐藏的新功能︰ 有一个入侵检测开关，可以清空 TPM 密钥： https://t.co/KnH9b0ydfT"
+[ Hardware ]  JTAGulator ($200) vs. JTAGenum ($3)... Hardware Hacking Tools for Identifying JTAG Pins in #IoT Devices https://www.praetorian.com/blog/jtagulator-vs-jtagenum-tools-for-identifying-jtag-pins-in-iot-devices
+﻿"JTAGulator vs JTAGenum  - 用于识别 JTAG 引脚的工具： https://t.co/Or1K4vj7Sf "
+[ Hardware ]  #rowhammer 3.0 w/o CLFLUSH via popular libraries like glibc http://arstechnica.com/security/2016/04/dram-bitflipping-exploits-that-hijack-computers-just-got-easier/ [see paper https://twitter.com/daniel_bilar/status/720897816453849088 ]
+﻿"rowhammer 3.0： 不依赖 CLFLUSH 在流行的代码库（如 glibc）中实现位反转， 来自 ArsTechnica 的报道： https://t.co/SzGalgtFi3  Paper： https://t.co/2r7b832PIE  https://t.co/lYl8eHrWlz http://t.co/2jfnJbTIZA "
+[ Hardware ]  Hardware Reverse Engineering : Access, Analyze, & Defeat : https://media.blackhat.com/bh-dc-11/Grand/BlackHat_DC_2011_Grand-Workshop.pdf (pdf) #b2b
+﻿"硬件逆向分析， 来自 BlackHat 2011 会议的一篇演讲︰ https://t.co/DvRUkJoH1V "
+[ Hardware ]  Talkng #SS7: hr's @ sidnext2none's cool @ WEareTROOPERS "The known unknowns of SS7 and beyond" https://www.ernw.de/download/TSD2016_Known_Unknowns_of_SS7.pdf https://t.co/u8sXd1apek
+﻿"关于 SS7，那些我们不知道的事儿： https://t.co/2BCGFGGkh6 https://t.co/u8sXd1apek"
+[ Hardware ]  Building a portable GSM BTS using Nuand BladeRF, Raspberry Pi and YatesBTS step by step tutorial - https://blog.strcpy.info/2016/04/21/building-a-portable-gsm-bts-using-bladerf-raspberry-and-yatebts-the-definitive-guide/
+﻿"用 Nuand BladeRF、树莓派、YatesBTS 一步步搭建一个便携式 GSM 基站：  https://t.co/eUfrDW9DMQ"
+[ Hardware ]  Malware and non-malware ways for #ATM #jackpotting https://securelist.com/analysis/publications/74533/malware-and-non-malware-ways-for-atm-jackpotting-extended-cut/
+﻿"1967 年， 第一台 ATM 机在伦敦开始使用，现在全世界每天都在使用 ATM 机存款、取款，但银行和厂商对 ATM 机的安全关注却不够。 Kaspersky 这篇 Blog 介绍 ATM 机到底是如何工作的： https://t.co/QN60hAxib2 的"
+[ Hardware ]  Roundup of community-backed x86 hacker SBCs http://hackerboards.com/roundup-of-x86-hacker-sbcs/
+﻿"第一个由社区支持的 x86 hacker SBCs（单板计算机）： https://t.co/TSIF4zrM5c"
+[ Hardware ]  LimeSDR is now open source hardware! https://myriadrf.org/blog/limesdr-now-open-source-hardware/ #OSHW #FOSS #OpenSource #SDR https://t.co/8qJBx2i8R3
+﻿"LimeSDR 开源了， LimeSDR 是一个低成本的 SDR 硬件实现： https://t.co/pC5XG40dnr  GitHub Repo： https://github.com/myriadrf/LimeSDR-USB  "
+[ Hardware ]  Source code to the @ UPSat_gr cube satellite: https://github.com/librespacefoundation?query=upsat
+﻿"Cubesat 卫星的源码 ︰ https://t.co/JAsRjIKTPV"
+[ Hardware ]  Reverse Engineering a Discovered #ATM #Skimmer ~ https://trustfoundry.net/reverse-engineering-a-discovered-atm-skimmer/
+﻿"逆向一个 ATM 提款机盗刷器：  https://t.co/4fAIvaVyLT"
+[ Hardware ]  New blog post (Technical): "Row hammer the short summary" http://dreamsofastone.blogspot.de/2016/05/row-hammer-short-summary.html
+﻿"对 Row Hammer 问题的总结： https://t.co/QB8VKOQ6rF"
+[ Hardware ]  AMD CPUs more susceptible to #rowhammer than Intel CPUs http://www.thirdio.com/rowhammera1.pdf (via @ mark_lanteigne) It's all about the access patterns.
+﻿"AMD CPU 比 Intel CPU 更容易受 Row Hammer 问题影响： https://t.co/TOALSUpT5h  "
+[ Hardware ]  10 Part Tutorial on Designing/Building a PCB (Using FOSS) : https://contextualelectronics.com/gtb-kicad-4-0/
+﻿" PCB 板设计与制作指南 ︰ https://t.co/NksaEQp3if"
+[ Hardware ]  Hacking Gesture-Based Security https://www.schneier.com/blog/archives/2016/05/hacking_gesture.html
+﻿"攻击触摸屏基于手势的认证： https://t.co/hrTIyH5pvP"
+[ Hardware ]  New blog post: Introduction of a new hardware guy https://www.insinuator.net/2016/05/introduction-of-a-new-hardware-guy/
+﻿" 硬件黑客的新玩具 VICTor：  https://t.co/l8xVqLRPZy"
+[ Hardware ]  Instructive: GSM/GPRS traffic interception for pen testers [OpenBSC/BTS] by @ NCCGroupInfosec https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/may/gsmgprs-traffic-interception-for-penetration-testing-engagements/ https://t.co/K00FazFIh1
+﻿" GSM/GPRS 流量劫持测试，来自 NCC Groups Blog： https://t.co/UpvGw5zaJo https://t.co/K00FazFIh1"
+[ Hardware ]  sysmoUSIM-SJS1 SIM/USIM card now has a user manual: https://www.sysmocom.de/news/sysmocom-releases-sysmousim-sjs1-user-manual/index.html / PDF at https://sysmocom.de/downloads/sysmousim-manual.pdf
+﻿"sysmocom 公开了 sysmoUSIM 卡用户手册 ︰ https://t.co/h7hcOABb67   PDF 手册下载： https://t.co/Tvru2RJCqz "
+[ Hardware ]  FBI: Wireless Keystroke Logger Disguised as USB Device Charger Targets Wireless Keyboards http://www.americanbar.org/content/dam/aba/administrative/cyberalert/keysweeper.authcheckdam.pdf https://t.co/DYvpOSRptw
+﻿" 伪装成 USB 充电器的无线键盘击键记录器： https://t.co/MTNh1UTYOO https://t.co/DYvpOSRptw"
+[ Hardware ]  One gate to rule them all. Fabrication-time hardware attack gets best paper award at IEEE S&P (PDF) http://ieee-security.org/TC/SP2016/papers/0824a018.pdf
+﻿" IEEE 安全与隐私研讨会最佳论文《生产过程中的硬件攻击》，讲述黑客如何向硬件植入一段模拟电路，通过特殊序列触发干扰芯片的功能： https://t.co/wLqrXPLmen"
+[ Hardware ]  The Secret Life of SIM Cards http://fb.me/7QfXEWESh
+﻿"SIM Hacks - 关于 SIM 卡的一些笔记： https://t.co/IIR4Faw9ol"
+[ Hardware ]  Pwning Windows 7 & AVG with USB Rubber Ducky https://www.informationsecurity.ws/2016/01/pwning-windows-7-with-avg-av/
+﻿" 用 USB Rubber Ducky 硬件渗透 Windows 7（装有 AVG 杀软），来自 2016 年 1 月份的一篇 Blog： https://t.co/OdYtfKrp3j"
+[ Hardware ]  Sniffing Data from an Implanted Heart Defibrillator http://www.rtl-sdr.com/sniffing-data-from-an-implanted-heart-defibrillator/
+﻿" 从植入式心脏除颤器窃听数据，来自 RTL-SDR 网站： https://t.co/6JsW1f1303 "
+[ Hardware ]  Warwalking WiFi networks with $4 ESP8266 IoT Module https://phasenoise.livejournal.com/2870.html
+﻿" Warwalking WiFi networks with ESP8266 IoT Module： https://t.co/eW5JBasl41  "
+[ Hardware ]  Automobile Intrusion Detection : http://conference.hitb.org/hitbsecconf2016ams/materials/D2T1%20-%20Jun%20Li%20-%20CANSsee%20-%20An%20Automobile%20Intrusion%20Detection%20System.pdf (Slides) #HITB2016AMS https://t.co/xxLmNlXFvO
+﻿" CANSsee - 汽车入侵检测系统，来自 HITB 阿姆斯特丹会议 ︰ https://t.co/8SMbp87x9g   https://t.co/xxLmNlXFvO"
+[ Hardware ]  Cache side channel attacks: CPU Design as a security problem : http://conference.hitb.org/hitbsecconf2016ams/materials/D2T1%20-%20Anders%20Fogh%20-%20Cache%20Side%20Channel%20Attacks.pdf (Slides) cc: @ anders_fogh
+﻿" 缓存边信道攻击 - CPU 设计上的安全问题，来自 HITB 阿姆斯特丹会议︰ https://t.co/kP9JfY5jja "
+[ Hardware ]  Create your own bad USB : http://conference.hitb.org/hitbsecconf2016ams/materials/D1T2%20-%20Seunghun%20Han%20-%20Create%20Your%20Own%20Bad%20USB%20Device.pdf (Slides) #HITB2016AMS
+﻿" 制作一个属于自己的 Bad USB， 来自 HITB 阿姆斯特丹会议: https://t.co/A0uQ3KtxzJ  "
+[ Hardware ]  Physical Key Extraction Attacks on PCs: http://m.cacm.acm.org/magazines/2016/6/202646-physical-key-extraction-attacks-on-pcs/fulltext
+﻿" 通过物理攻击的方法从 PC 中提取密钥︰ https://t.co/3i62nSKCWo"
+[ Hardware ]  Wi-Fi hack can disable Mitsubishi Outlander's anti-theft alarm http://www.theregister.co.uk/2016/06/06/mitsubishi_outlander_hack/
+﻿"通过 Wi-Fi 攻击的方法，黑客可以禁用三菱欧蓝德汽车的防盗报警器，来自 TheRegister 的报道： https://t.co/KeSiBDRtzR"
+[ Hardware ]  Turn Smartphone Vibration Motor into Microphone to Spy on You : http://synrg.csl.illinois.edu/vibraphone/paperdocs/VibraPhone_nirupam.pdf (pdf) https://t.co/SSGl6FXEKF
+﻿"把智能手机振动马达变成可以监听你的麦克风， Paper ︰ https://t.co/pivqvtiABK   https://t.co/SSGl6FXEKF"
+[ Hardware ]  Hijacking almost any toy drone or quadcopter with a $5 NRF24L01+ module : https://dronegarageblog.wordpress.com/2016/06/07/deviationtx-with-nrf24l01-module-the-universal-drone-remote/ https://t.co/AfoQXjfuMc
+﻿" 利用 5 美元的 NRF24L01+ 模块劫持任意玩具无人机: https://t.co/SxdWsVUZcI https://t.co/AfoQXjfuMc"
+[ Hardware ]  Drone Bypass : http://blog.ptsecurity.com/2016/06/phd-vi-how-they-stole-our-drone.html https://t.co/h77SUtqKF9
+﻿" 他们是如何偷走我们的无人机的，这篇 Blog 是对 PHDays 会议无人机劫持攻击的技术介绍 ︰ https://t.co/u3OM8n8XKh https://t.co/h77SUtqKF9"
+[ Hardware ]  How I hacked the Self Balancing Scooter : http://drewspewsmuse.blogspot.in/2016/06/how-i-hacked-self-balancing-scooter.html https://t.co/NR2MHlFTAL
+﻿"看我如何黑掉自平衡滑板车︰ https://t.co/tOD4nwtVjl https://t.co/NR2MHlFTAL"
+[ Hardware ]  Computer Engineering (A DEC View of Hardware Systems Design) : http://research.microsoft.com/en-us/um/people/gbell/Computer_Engineering/index.html #FYI #b2b
+﻿" 从 DEC 的角度看计算机硬件系统设计︰ https://t.co/nQB0tPoVQu   DEC 即 Digital Equipment Corporation，是美国一家老牌的电脑公司"
+[ Hardware ]  Hacking the CampCopter (@ ToorCamp) slides are up: http://greatscottgadgets.com/slides/ossmann-spill-toorcamp-2016.pdf
+﻿" Hacking CampCopter （无人机）︰ https://t.co/f0uzD4MMRN"
+[ Hardware ]  Cold Boot Attacks on Encryption Keys : http://citpsite.s3-website-us-east-1.amazonaws.com/oldsite-htdocs/pub/coldboot.pdf (pdf)
+﻿"针对加密密钥的冷启动（Cold Boot）攻击， Paper︰ https://t.co/r1Tq5zfbCa "
+[ Hardware ]  #Siemens SIMATIC S7-300 Denial-of-Service Vulnerability V3.2.12 Exploit causes device to go OOS reboot required https://ics-cert.us-cert.gov/advisories/ICSA-16-161-01 …
+﻿" 西门子 SIMATIC S7-300 拒绝服务漏洞，来自 US CERT： https://t.co/WUB4DE1Jhw..."
+[ Hardware ]  Intel x86s hide another CPU that can take over your machine (you can't audit it) http://boingboing.net/2016/06/15/intel-x86-processors-ship-with.html
+﻿" Intel x86 除了主 CPU 外，还隐藏着一个 CPU： https://t.co/P9yPmWJ6Vc"
+[ Hardware ]  CPU DB - An exhaustive database of microprocessor characteristics for researchers: http://cpudb.stanford.edu/
+﻿"CPU DB - 一份非常详细的 CPU 数据库，来自斯坦福大学 ︰ https://t.co/g1HMlXawJK"
+[ Hardware ]  Slides for our #Samsung baseband research presented @ reconmtl: https://comsecuris.com/slides/recon2016-breaking_band.pdf
+﻿" Samsung 基带实现中的安全漏洞及利用，来自 RECon 会议: https://t.co/eteRJQJ48W "
+[ Hardware ]  BadUSB 2.0 USB-HID MiTM POC : https://github.com/withdk/badusb2-mitm-poc h/t : @ drcruft
+﻿"BadUSB 2.0 USB-HID 中间人劫持 PoC， GitHub Repo: https://t.co/5PVJRIdZUC "
+[ Hardware ]  Our BadBarcode page: http://xlab.tencent.com/badbarcode/. No new domain name, no logo, just a page:-). #BadBarcode
+﻿" 玄武实验室专门为记录 BadBarcode 漏洞写的一个网页︰ https://t.co/ersjV1OSS7 "
+[ Hardware ]  Reverse Engineering Quadcopter Protocols http://hackaday.com/2016/06/28/reverse-engineering-quadcopter-protocols/
+﻿" 四轴飞行器协议逆向： https://t.co/G4MojYA8XY"
+[ Hardware ]  House intercoms: When frontdoors become backdoors http://www.synacktiv.ninja/ressources/NDH-Intercoms_presentation_Dudek.pdf
+﻿" 家用对讲机 - 当前门变成后门： https://t.co/WP95ciICj9"
+[ Hardware ]  Introducing OpenCellular: An open source wireless access platform. https://code.facebook.com/posts/1754757044806180/
+﻿" OpenCellular - Facebook 开源的一款无线接入平台： https://t.co/QBW9x7ZeOR"
+[ Hardware ]  Whisper in the wire, remote and silent voice command injection: https://www.researchgate.net/publication/304789264_20160630_Whisper_in_the_Wire-Voice_Command_Injection_Reloaded https://t.co/Y65oBxJFR7
+﻿" 电线上的私语 - 语音命令远程注入攻击︰ https://www.researchgate.net/publication/304789264_20160630_Whisper_in_the_Wire-Voice_Command_Injection_Reloaded "
+[ Hardware ]  Your Smart Watch Can Steal Your ATM PIN : http://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/your-smart-watch-can-spy-on-your-pin
+﻿"你的智能手表可以窃取你的银行卡密码︰ https://t.co/3cba8wzYAW"
+[ Hardware ]  I have released gpsnitch which is the GPS Spoofer Catcher I demoed at @ unrestcon. https://github.com/zxsecurity/gpsnitch (slides coming soon)
+﻿" GPSnitch - 专门检测 GPS 欺骗攻击的工具， GitHub Repo： https://t.co/wPJZSPzwGr "
+[ Hardware ]  so I reverse-engineered Silego's GreenPAK devboard & (with @ azonenberg) wrote a FOSS tool to program ICs, gp4prog https://github.com/azonenberg/openfpga/tree/master/src/gp4prog
+﻿" Open FPGA 开源项目： https://github.com/azonenberg/openfpga "
+[ Hardware ]  91 percent of public-facing #ICS components are remotely exploitable - http://ow.ly/HYUs3027CvN #SCADA
+﻿"91% 的面向公众的工控组件是可被远程攻击的，来自 ThreatPost 的报道： https://t.co/9sfoG0zZqf  来自 Kaspersky 的《工控威胁现状研究报告》： https://securelist.com/analysis/publications/75343/industrial-cybersecurity-threat-landscape/ "
+[ Hardware ]  NCC Group Blog:The Automotive Threat Modeling Template - https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/july/the-automotive-threat-modeling-template/ #cybersecurity #automotive #IoT
+﻿" 汽车威胁建模模板，来自 NCC Group： https://t.co/oWbWVNEv5O "
+[ Hardware ]  Curious case of Rowhammer: Flipping Secret Exponent Bits using Timing Analysis. https://eprint.iacr.org/2016/618
+﻿"Rowhammer 的一个奇特案例 - 用时序分析的方法以可控的方式在内存中的密钥中实现位反转： https://t.co/yT2cXbcIg5"
+[ Hardware ]  Airbus Is Making Drone Killers http://www.theregister.co.uk/2016/07/27/airbus_designs_drone_killers/
+﻿"空中客车公司正在制作 '无人机杀手'，可以检测 10 公里以内的一般商业无人机，并且可以干扰无人机的通信： https://t.co/cjtFXRXeQr"
+[ Hardware ]  A curated list of resources for learning about vehicle security and car hacking - https://github.com/jaredmichaelsmith/awesome-vehicle-security
+﻿" awesome-vehicle-security - 汽车安全研究资料收集： https://t.co/UC57f0lKyP"
+[ Hardware ]  #BHUSA2016 – Researcher explained how to hack any PC with a found USB drive http://securityaffairs.co/wordpress/49999/hacking/found-usb-drive-hack.html
+﻿" 用捡到的 U 盘黑掉任何 PC 机，来自 SecurityAffairs 的报道： https://t.co/X5CH0C3kZ4  作者在 BlackHat 会议的演讲 PPT： https://www.blackhat.com/docs/us-16/materials/us-16-Bursztein-Does-Dropping-USB-Drives-In-Parking-Lots-And-Other-Places-Really-Work.pdf "
+[ Hardware ]  Brute-Forcing Lockdown Harddrive PIN Codes : https://www.blackhat.com/docs/us-16/materials/us-16-OFlynn-Brute-Forcing-Lockdown-Harddrive-PIN-Codes.pdf (Slides) #BlackHat2016 https://t.co/gI3UuFEjFe
+﻿" 暴力破解 Lockdown 加密硬盘的 PIN 码，来自 BlackHat 2016 会议︰ https://t.co/GYwKFEKCW8 "
+[ Hardware ]  Drone attacks on Industrial Wireless: A new front in Cyber Security : https://www.blackhat.com/docs/us-16/materials/us-16-Melrose-Drone-Attacks-On-Industrial-Wireless-A-New-Front-In-Cyber-Security.pdf (Slides) #BlackHat2016
+﻿" 利用无人机攻击工业无线网络，来自 BlackHat 会议︰ https://t.co/m5liHrqVt1 "
+[ Hardware ]  #usenix2016 Flip Feng Shui: Breaking VM isolation w #Rowhammer + mem dedup [get eg RSA keys] https://www.vusec.net/projects/flip-feng-shui/ https://t.co/hpk5VW7zrD
+﻿" 利用 RowHammer Flip Feng Shui（位反转风水）突破虚拟机隔离： https://t.co/12jXtgOlYS "
+[ Hardware ]  Demonstrations of Attacks Against Implanted Cardiac Devices http://d.muddywatersresearch.com/wp-content/uploads/2016/08/MW_STJ_08252016.pdf
+﻿" 心脏植入设备的攻击面分析： https://t.co/RuuBST8Hs2  如果这个链接访问不了，还有一个： http://www.valuewalk.com/wp-content/uploads/2016/08/MW_STJ_08252016.pdf "
+[ Hardware ]  General Motors Recalls 4.3 Million Vehicles Over a Software Bug http://gizmodo.com/general-motors-recalls-4-3-million-vehicles-over-a-soft-1786453219
+﻿"通用因为安全气囊相关的一个软件问题，召回 430 万辆汽车： https://t.co/ZB1s3SPt4E"
+[ Hardware ]  The Hardware Hacker is now in Early Access! @ bunniestudios http://nostarch.com/hardwarehacker https://t.co/HRqmEFng9s
+﻿"一本关于硬件的新书《The Hardware Hacker: Adventures in Making and Breaking Hardware》： https://t.co/Nfftyr6rGs https://t.co/HRqmEFng9s"
+[ Hardware ]  Copy2GO: Low cost copy lab for simple remote controls using TI-Chronos platform [PDF] http://courses.cs.tau.ac.il/embedded/projects/fall2013/watch-garage-door-opener.pdf #SDR https://t.co/AlxWmn9O3c
+﻿"Copy2GO - 基于 TI-Chronos 硬件平台的低成本远程控制： https://t.co/E7CX3S580Q "
+[ Hardware ]  Remote Attack Tesla Motors: Video demonstration by Keen Security http://keenlab.tencent.com/en/2016/09/19/Keen-Security-Lab-of-Tencent-Car-Hacking-Research-Remote-Attack-to-Tesla-Cars/
+﻿" 腾讯科恩实验室最新研究成果：对特斯拉的无物理接触远程攻击（含视频演示）： http://keenlab.tencent.com/zh/2016/09/19/Keen-Security-Lab-of-Tencent-Car-Hacking-Research-Remote-Attack-to-Tesla-Cars/ ;  视频链接地址： http://v.qq.com/x/page/y0329yuyczc.html  关于特斯拉的破解， Lookout 的研究员曾经公开过一份很详细的技术文档： https://blog.lookout.com/blog/2015/08/07/hacking-a-tesla/   国内研究员 RAyH4c 也写过一篇文章谈特斯拉的破解： http://m.leiphone.com/news/201509/kt568ZkCEZNThbgZ.html "
+[ Hardware ]  Open source CANBadger for car hacking (but gee, what else has a CANBus ?) here: https://gutenshit.github.io/CANBadger/ https://twitter.com/k8em0/status/778911155154776064
+﻿" CANBadger - Car Hacking 工具︰ https://t.co/APmOSEvC8O "
+[ Hardware ]  Code signing check is now in place to protect critical firmware of Tesla vehicles https://twitter.com/a_greenberg/status/780762975137361920
+﻿"在科恩实验室发现了特斯拉汽车的漏洞之后，特斯拉在固件中增加了代码签名检查特性： https://t.co/q078AHabmo "
+[ Hardware ]  Hacking DJI Osmo http://www.g0l.ru/blog/n4101 https://t.co/C5pTobPqVT
+﻿" Hacking DJI（大疆） Osmo 云台相机： https://t.co/LR9cSVJG76 "
+[ Hardware ]  50,000,000,000 Instructions Per Second : Design and Implementation of a 256-Core BrainFuck Computer : http://people.csail.mit.edu/wjun/papers/sigtbd16.pdf (pdf)
+﻿" 256 核 BrainFuck 超级计算机的设计与实现，每秒执行 500 亿条指令︰ https://t.co/mY4eMPJPve "
+[ Hardware ]  【Electronic Warfare Payloads of UAVs】无人机电子战载荷的新发展： http://mp.weixin.qq.com/s?__biz=MzAwMDE3MzgxMQ==&mid=2654113135&idx=1&sn=ca97f2f7a1266217308650abac3ce48d&chksm=812adef3b65d57e5dc69ccade33475fccf45ecc3c20ba44a8d8ffaefd3b263203d98a4c3190c&mpshare=1&scene=1&srcid=1016YGQhMu5mAYVzrC4OnUnv#rd
+[ Hardware ]  Low-cost IMSI catcher for 4G/LTE networks tracks phones’ precise locations http://arstechnica.com/security/2015/10/low-cost-imsi-catcher-for-4glte-networks-track-phones-precise-locations/
+﻿"一种通过利用手机 LTE 通信标准实现低成本手机精确定位的方法： http://arstechnica.com/security/2015/10/low-cost-imsi-catcher-for-4glte-networks-track-phones-precise-locations/"
+[ Hardware ]  How to fool an ADC, part II or attacks against sigma-delta data converters by @ dark_k3y @ IOActive http://youtu.be/yzRJKzFl_ZA?a
+﻿" How to fool an ADC：  https://t.co/g9DhEM7VKM"
+[ Hardware ]  HydraBus/HydraFW Wiki https://github.com/bvernoux/hydrafw/wiki, by @ bvernoux https://t.co/YPfyVZXkmy
+﻿" HydraBus/HydraNFC 硬件的官方固件 HydraFW： https://t.co/4u7cVAXYYg "
+[ Hardware ]  Exposing high-end poker cheating devices : https://www.elie.net/blog/security/fuller-house-exposing-high-end-poker-cheating-devices
+﻿" 揭露一款高端的扑克牌作弊设备︰ https://t.co/nMimdYHFNT"
+[ Hardware ]  Towards a hardware-assisted information ow tracking ecosystem for ARM processors https://hal.archives-ouvertes.fr/hal-01337579/document
+﻿" ARM 处理器硬件辅助的信息流跟踪系统： https://t.co/5MFO0Tsq7T"
+[ Hardware ]  Researchers @ Percent_X & @ tatanus discovered #vulns in multiple bluetooth device trackers. Read this: http://r-7.co/2eE8v0T
+﻿" 多款蓝牙低功耗跟踪器被发现漏洞，来自 Rapid7 Blog︰ https://t.co/r0iYuztCfI"
+[ Hardware ]  Don't be a Dummy ! : A Crash Course in Automotive Security : https://speakerdeck.com/utkanos/dont-be-a-dummy-a-crash-course-in-automotive-security-ekoparty-2016 (Slides)
+﻿" 汽车安全速成教程︰ https://t.co/O0eIujdOVx "
+[ Hardware ]  Intel(R) HD Graphics 10 - Unquoted Path Privilege Escalation https://goo.gl/fb/2nRlS1 #FullDisclosure
+﻿"Intel(R) HD Graphics 10 -- 未用引号包裹路径导致的提权漏洞:  https://t.co/LJbwPRrAR9 "
+[ Hardware ]  针对ATM机的渗透测试： http://bobao.360.cn/learning/detail/3171.html
+[ Hardware ]  如何利用 Rowhammer 漏洞在共宿主的VM环境下攻击OpenSSH的身份验证或伪造Ubuntu软件包的GPG认证： http://securitygossip.com/blog/2016/11/10/2016-11-10/
+[ Hardware ]  Huawei Flybox B660 3G/4G Router - Auth Bypass Vulnerability https://goo.gl/fb/Ph7BRs #FullDisclosure
+﻿"Huawei Flybox B660 3G/4G Router 认证绕过漏洞： https://t.co/9Nl4wXnqU2 "
+[ Hardware ]  Tenda, Dlink & Tplink TD-W8961ND - DHCP XSS Vulnerability https://goo.gl/fb/8ygS5p #FullDisclosure
+﻿"Tenda, Dlink & Tplink TD-W8961ND - DHCP XSS 漏洞：  https://t.co/wOx57b9olu "
+[ Hardware ]  Intel GPU (micro)architecture summary & some detail https://software.intel.com/sites/default/files/managed/89/92/Intel-Graphics-Architecture-ISA-and-microarchitecture.pdf from slide 23 and on; h/t @ TheKanter
+﻿"Intel GPU 架构介绍（slides）： https://t.co/j1jK9gtJSJ"
+[ Hardware ]  Netgear R7000 - XSS : https://www.exploit-db.com/exploits/40898/
+﻿"Netgear R7000 路由器存在 XSS 漏洞: https://t.co/1SCaFrIusQ"
+[ Hardware ]  Routers under attack of an improved DNSChanger EK (via malvertising on Android and Windows) https://www.proofpoint.com/us/threat-insight/post/home-routers-under-attack-malvertising-windows-android-devices https://t.co/bkDfnwG5pj
+﻿"针对家用路由器的恶意广告攻击： https://t.co/tbRzNqCYI0 https://t.co/bkDfnwG5pj"
+[ Hardware ]  最新盗窃手法：ETC里的钱竟被POS机隔空刷光，专家已确认： http://www.leiphone.com/news/201612/MduSJvFZQpaGwo9N.html
+[ Hardware ]  New post: Home Routers: Mitigating Attacks that can Turn them to Zombies http://bit.ly/2h0oPsO @ TrendMicro
+﻿"缓解路由器的攻击面，避免成为僵尸路由器： https://t.co/FYW76xrGnj "
+[ Hardware ]  #DNSChanger exploit kit attack targets routers, not browsers - #malvertising http://bit.ly/2hBS7if
+﻿"研究人员发现一款针对路由器的漏洞利用攻击套件：DNSChanger：  https://t.co/qcrywKxF8n"
+[ Hardware ]  (1/6) The following is a list of all the car hacking papers written by me and @nudehaberdasher. In total 342 pages of info.
+﻿"car hacking papers： (part 1)： http://illmatics.com/car_hacking.pdf ;  (part 2)： http://illmatics.com/car_hacking_poories.pdf  (part 3)： http://illmatics.com/remote%20attack%20surfaces.pdf   (part 4)： http://illmatics.com/Remote%20Car%20Hacking.pdf  (part  5)： http://illmatics.com/can%20message%20injection.pdf"
+[ Hardware ]  JTAG Explained (finally!): Why "IoT" Software Security Engineers and Manufacturers Should Care,JTAG 调试入门文章： http://blog.senr.io/blog/jtag-explained
+[ Hardware ]  Two sw-only defenses against #Rowhammer https://arxiv.org/pdf/1611.08396v1 [x86, ARM; phys mem alloc part. into sec domains,… https://t.co/SarViYXiFl
+﻿"两种针对 Rowhammer 攻击的防御方法（Paper）： https://t.co/CiSCtdTzud"
+[ Hardware ]  Small-scale honeynet with Raspberry Pi https://www.redpill-linpro.com/sysadvent/2016/12/19/raspberry-pi-honeynet.html
+﻿"用树莓派搭建小型 honeynet： https://t.co/LSpxTwVWPm"
+[ Hardware ]  Stack buffer overflow vulnerability in NETGEAR WNR2000 router : https://raw.githubusercontent.com/pedrib/PoC/master/advisories/netgear-wnr2000.txt
+﻿"NETGEAR WNR2000 路由器 栈溢出漏洞︰ https://t.co/VxBE2RVZMY"
+[ Hardware ]  @ HackSysTeam Extreme Vulnerable Driver Python Solutions https://github.com/GradiusX/HEVD-Python-Solutions
+﻿"HEVD Python Solutions：  https://t.co/xHENBY7PyH"
+[ Hardware ]  Gateway Internals of Tesla Motors [PDF] https://2016.zeronights.ru/wp-content/uploads/2016/12/Gateway_Internals_of_Tesla_Motors_v6.pdf #IoT https://t.co/Wbuxhjo5pO
+﻿"特斯拉汽车之内部网关，来自 zeronights 2016 大会上 KEEN Lab 议题 （PDF）： https://t.co/cgPT1bSNaj "
+[ Hardware ]  Slides from "How Do I Crack Satellite and Cable Pay TV?" at #33c3: https://fahrplan.events.ccc.de/congress/2016/Fahrplan/system/event_attachments/attachments/000/003/101/original/33C3_-_How_Do_I_Crack_Satellite_and_Cable_Pay_TV_slides.pdf (29MB PDF) https://t.co/BN2jsEf2zI
+﻿"如何破解卫星和付费电视，来自 33c3 大会议题︰ https://t.co/WG67bJUKht "
+[ Hardware ]  Here's an interesting older vulnerable signed driver. https://github.com/subTee/DriveCrypt Allows you to load Unsigned Drivers.… https://twitter.com/i/web/status/814127098159919104
+﻿"借助 DriverCrypt 驱动的老漏洞，在 Win7 X64 系统加载未签名的驱动： https://t.co/5qVSUOY5IO"
+[ Hardware ]  Dissecting HDMI (33c3) http://cdn.media.ccc.de/congress/2016/h264-hd/33c3-8057-fra-Dissecting_HDMI.mp4
+﻿"剖析 HDMI ，来自 33c3 2016 大会议题，Video： https://t.co/JMbxxvhUCo"
+[ Hardware ]  Samy Kamkar's Crash Course in How to Be a Hardware Hacker https://www.youtube.com/watch?v=tlwXmNnXeSY
+﻿"如何成为硬件 hacker(Video): https://t.co/yPdHD25kjw "
+[ Hardware ]  汽车 ECU 升级初探： http://www.kanxue.com/?article-read-320.htm=
+[ Hardware ]  The Common Methods of Hardware Hacking https://www.sparkfun.com/news/1314 https://t.co/PdyQYSJB9d
+﻿"Hardware Hacking 的常用方法： https://t.co/GO7wf8lQ7R https://t.co/PdyQYSJB9d"
+[ Hardware ]  My version of the HEVD Arbitrary Overwrite exploit in C. @ HackSysTeam https://github.com/Cn33liz/HSEVD-ArbitraryOverwrite https://t.co/kFTy9ZxnPK
+﻿"HSEVD-ArbitraryOverwrite 漏洞利用代码： https://t.co/NppWTz2Xyy "
+[ Hardware ]  BR-PUF Analysis http://smrrd.de/br-puf-analysis.html
+﻿"BR PUF 分析： https://t.co/MyOC2U8fBP"
+[ Hardware ]  Hacking the DJI Phantom 3 http://dronesec.xyz/2017/01/25/hacking-the-dji-phantom-3/
+﻿"Hacking 大疆 Phantom 3 无人机： https://t.co/W0bCro2Jyw"
+[ Hardware ]  Credit Card skimming and PIN harvesting in an EMV world : https://media.blackhat.com/bh-us-11/Laurie/BH_US_11_Laurie_Chip_Pin-Slides.pdf (Slides /#bhusa11) cc @ AndreaBarisani
+﻿" Credit Card skimming and PIN harvesting in an EMV world，来自 BlackHat USA 2011 年的一篇演讲︰ https://t.co/JGoLlSTLRX  "
+[ Hardware ]  Printer security testing cheat sheet & results for 20 printers http://hacking-printers.net/wiki/index.php/Printer_Security_Testing_Cheat_Sheet by RUB_NDS [PRET toolkit… https://t.co/Sib1pE9Y3P
+﻿"打印机安全测试手册： https://t.co/AqhDnJKB9s  https://t.co/Sib1pE9Y3P"
+[ Hardware ]  [remote] - F5 BIG-IP SSL Virtual Server - Memory Disclosure https://www.exploit-db.com/exploits/41298/
+﻿"Ticketbleed 漏洞利用脚本： https://t.co/zz49vfBp4t"
+[ Hardware ]  Our paper on Exploiting Network Printers accepted at #SP17 :) A preprint version available here: https://t.co/6MGBCGMV6O
+﻿"打印机安全（PDF）： https://www.nds.rub.de/media/ei/veroeffentlichungen/2017/02/03/printer-security.pdf"
+[ Hardware ]  Inferring Your Mobile PhonePassword via WiFi Signals : http://fermatslibrary.com/s/when-csi-meets-public-wifi-inferring-your-mobile-phone-password-via-wifi-signals (pdf) https://t.co/3JMWUhJpc0
+﻿" 通过手势移动对 WiFi 信号的影响推断手机密码，Paper︰ https://t.co/Wz6nRQun4h   https://t.co/3JMWUhJpc0"
+[ Hardware ]  Leaking (a lot of) Data from Air-Gapped Computers via (small) Hard Drive LED : http://cyber.bgu.ac.il/advanced-cyber/system/files/LED-it-GO_0.pdf (pdf) Demo : https://www.youtube.com/watch?v=4vIu8ld68fc
+﻿" 利用硬盘指示灯，从物理隔离的计算机泄漏数据︰ https://t.co/jKg3GeGv6w   https://t.co/tFTA1IWGWb"
+[ Hardware ]  SGX Cache Attacks Are Practical - https://arxiv.org/pdf/1702.07521.pdf
+﻿" 针对 Intel SGX（软件防护扩展）的缓存攻击： https://t.co/UB4QMsvE46"
+[ Hardware ]  OverThruster - HID Attack Payload Generator For Arduinos http://www.kitploit.com/2017/02/overthruster-hid-attack-payload.html
+﻿"OverThruster - 运行在 Arduinos 平台的 HID 攻击 Payload 生成器： https://t.co/jDx08vdWnU"
+[ Hardware ]  OpenXR - Cross-Platform, Portable, Virtual Reality : https://www.khronos.org/openxr
+﻿"OpenXR - 跨平台、 便携、 虚拟现实技术标准︰ https://t.co/UUjKCZXB4a"
+[ Hardware ]  Car Hacker's Handbook 2016 (released under cc) : http://opengarages.org/handbook/
+﻿"汽车黑客手册 2016 ︰ https://t.co/jnTqk9uDDg"
+[ Hardware ]  D-Link DGS-1510 - Multiple Vulnerabilities : https://www.exploit-db.com/exploits/41662/
+﻿"D-Link DGS-1510 中存在多个漏洞（CVE-2017-6206）︰ https://t.co/y4LXoAE0aW"
+[ Hardware ]  Breaking Korea Transit Card with Side-Channel Attack - Unauthorized Recharging : https://www.blackhat.com/docs/asia-17/materials/asia-17-Kim-Breaking-Korea-Transit-Card-With-Side-Channel-Attack-Unauthorized-Recharging.pdf (Slides) #BHASIA2017
+﻿" 利用侧信道的方法攻击韩国交通卡，来自 BlackHat Asia 2017 会议︰ https://t.co/MYnGLzvmKK "
+[ Hardware ]  Exploiting smart TVs via terrestrial signal. This is the coolest thing I've seen in a while: https://arstechnica.com/security/2017/03/smart-tv-hack-embeds-attack-code-into-broadcast-signal-no-access-required/?amp=1
+﻿"利用地面无线电大范围地控制智能电视（Smart TV）︰ https://t.co/1eWdvuN8rn"
+[ Hardware ]  First In-Depth Look at Google’s TPU Architecture https://www.nextplatform.com/2017/04/05/first-depth-look-googles-tpu-architecture/
+﻿"4 年前，Google 为了支持各种新业务的发展开始开发新的硬件架构，这篇 Blog 介绍其 TPU 硬件架构：  https://t.co/a3JCrYwgsj"
+[ Hardware ]  Excellent whitepaper of Hacking the Belkin E-Series KVM Switch - including scripts - https://labs.portcullis.co.uk/whitepapers/hacking-the-belkin-e-series-omniview-2-port-kvm-switch/… https://t.co/9tGEgrjeoo
+﻿"对 Belkin E 系列的 Omniview 2-Port KVM Switch 进行修改使其变成按键记录器： https://t.co/hljYBBm0kD https://t.co/9tGEgrjeoo"
+[ Hardware ]  国产电纸书 Bambook 破解笔记（一）： http://weibo.com/ttarticle/p/show?id=2309404093965925266467
+[ Hardware ]  CVE-2017-3881 Cisco Catalyst RCE Proof-Of-Concept https://artkond.com/2017/04/10/cisco-catalyst-remote-code-execution/
+﻿"思科 Catalyst 2960 交换机 CVE-2017-3881 RCE Exploit，该漏洞是从 CIA 泄露文档库中发现的： https://t.co/4t1v9Cp72D"
+[ Hardware ]  [remote] - Huawei HG532n - Command Injection (Metasploit) https://www.exploit-db.com/exploits/41895/
+﻿"华为 HG532n 产品 命令注入漏洞的 MSF 利用脚本 ： https://t.co/RMCMKFByj9"
+[ Hardware ]  Great RE stuff "Intel ME: The Way of Static Analysis" by @ _Dmit #TR17 blog: http://blog.ptsecurity.com/2017/04/intel-me-way-of-static-analysis.html video: https://youtu.be/2_aokrfcoUk
+﻿"Intel ME（管理引擎）的静态分析，Intel ME 是采用 Intel CPU 芯片的计算机中一个独立的处理器，关机后它也一直在运行︰ https://t.co/sepXKfJhK4  video︰ https://t.co/3icdSKjK0K"
+[ Hardware ]  How to Set Up Kali Linux on the New $10 Raspberry Pi Zero W https://null-byte.wonderhowto.com/how-to/set-up-kali-linux-new-10-raspberry-pi-zero-w-0176819/?utm_source=dlvr.it&utm_medium=twitter <--Full Article https://t.co/hpueqkOVKO
+﻿"如何在树莓派 Zero W 上安装 kali Linux： https://t.co/2LLhNLMt0F "
+[ Hardware ]  #Rowhammer bitflips as PUF http://www.seceng.informatik.tu-darmstadt.de/people/schaller/rowhammer-puf [intrinsic DRAM, boot & rt; code http://caslab.csl.yale.edu/code/rowhammerpuf/RHPUFcode-2017-04-28.tar.gz ; see… https://t.co/XxTjJPNuWL
+" RowHammer 在物理设备识别、设备指纹方面的应用（paper）： http://www.seceng.informatik.tu-darmstadt.de/assets/schaller-2/rowhammer-puf/rowhammer-puf.pdf   code： http://caslab.csl.yale.edu/code/rowhammerpuf/RHPUFcode-2017-04-28.tar.gz "
+[ Hardware ]  SSD vulnerabilities could allow attackers to corrupt data, shorten device lifespan https://www.bleepingcomputer.com/news/hardware/ssd-drives-vulnerable-to-attacks-that-corrupt-user-data/
+"  攻击 SSD 硬盘的两种方式简介： https://t.co/ckYsQBaBJW "
+[ Hardware ]  An Analysis of Emission Defeat Devices in Modern Automobiles (viz Volkswagen) : https://www.ieee-security.org/TC/SP2017/papers/101.pdf (pdf) cc @ thorstenholz
+" 针对汽车厂商（大众、菲亚特）在尾气排放检测中使用的“作弊”设备 Defeat Device 的分析 ： https://t.co/Eyl6tCDn55 "
+[ Hardware ]   EPOXY - 前两天 IEEE 安全研讨会《Protecting Bare-metal Embedded Systems With Privilege Overlays》议题中提到的编译器源码： https://github.com/HexHive/EPOXY
+[ Hardware ]  CompuLab Intense PC 的 BIOS 没有写保护机制（CVE-2017-8083）： https://watchmysys.com/blog/2017/06/cve-2017-8083-compulab-intensepc-lacks-bios-wp/
+[ Hardware ]  ARM v8.3 中新增的指针验证功能 - 新安全指令的设计分析： https://www.qualcomm.com/media/documents/files/whitepaper-pointer-authentication-on-armv8-3.pdf
+[ Hardware ]  Intel、AMD & VIA CPU 的微架构手册，汇编语言开发者和编译器作者的优化指南： http://www.agner.org/optimize/microarchitecture.pdf
+[ Hardware ]   来自微软的一篇 Paper《Hardware is the new software》，介绍 CPU 不断扩充的指令集，尤其安全相关的：  https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/baumann-hotos17.pdf
+[ Hardware ]  操作系统的开发：以IA-32e 64位分页介绍： http://www.triplefault.io/2017/07/introduction-to-ia-32e-hardware-paging.html
+[ Hardware ]   CacheZoom - Intel SGX 保护机制放大了缓存攻击的威力： https://arxiv.org/abs/1703.06986
+[ Hardware ]   PCB 级的硬件逆向分析技术： http://blog.sec-consult.com/2017/07/reverse-engineering-hardware.html
+[ Hardware ]   Hacking Hardware With A $10 SDCard Reader: https://bh2017.exploitee.rs/
+[ Hardware ]  侧信道功耗分析的介绍（视频）： https://t.co/OMeu2lJeoc
+[ Hardware ]  BADFET - 利用二阶电磁错误注入的方式攻击现在操作系统的 Secure Boot 机制，来自 USENIX 2017 会议： https://www.usenix.org/system/files/conference/woot17/woot17-paper-cui.pdf
+[ Hardware ]  这两天的 USENIX 2017 会议上，有研究员演讲《x86 处理器微码的逆向》，议题的 PPT 暂时未公开： https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/koppe
+[ Hardware ]  从随机块的破坏到提权 - 文件系统的一种类 Row Hammer 的攻击面，来自 USENIX 2017 会议： https://www.usenix.org/system/files/conference/woot17/woot17-paper-kurmus.pdf
+[ Hardware ]   HackSysExtremeVulnerableDriver 驱动一个任意地址写漏洞的分析和利用： https://blahcat.github.io/2017/08/31/arbitrary-write-primitive-in-windows-kernel-hevd/
+[ Hardware ]  Hack.lu 2017 会议议题《Intel AMT: Using & Abusing the Ghost in the Machine》的视频： https://www.youtube.com/watch?v=aiMNbjzYMXo&feature=youtu.be
+[ Hardware ]   关于 Rowhammer 攻击技术的又一篇 Paper《Another Flip in the Wall of Rowhammer Defenses》，这篇 Paper 中作者提出了一种新的攻击技术- one-location hammering，可以不再依赖之前触发 Row Hammer Bug 的苛刻条件： https://github.com/IAIK/flipfloyd  https://arxiv.org/abs/1710.00551
+[ Hardware ]  结合声学和力学理论对硬盘进行声共振拒绝服务攻击（Paper）：  https://arxiv.org/pdf/1712.07816.pdf
+[ Hardware ]  在人工智能背景下解读GPU： http://001001.org/gedu/AI_via_GPU_Raymond.pdf
+[ Hardware ]   Samsung GT-I9300 手机 eMMC 芯片研究相关的一些工具和 sboot Exploit 代码： https://github.com/oranav/i9300_emmc_toolbox
+[ Hardware ]   利用 CPU 数据缓存侧信道漏洞实现任意虚拟内存读，这篇 Blog 来自 Project Zero，介绍的正是这两天爆出的 CPU 缓存侧信道漏洞的细节，受此漏洞影响的 CPU 包括 Intel、AMD 和 ARM： 1） https://googleprojectzero.blogspot.com/2018/01/reading-privileged-memory-with-side.html 2） https://security.googleblog.com/2018/01/todays-cpu-vulnerability-what-you-need.html   3） https://meltdownattack.com/  CPU 缓存侧信道漏洞 Meltdown/Spectre 的 PoC 代码： https://github.com/turbo/KPTI-PoC-Collection  漏洞的背景资料 - KPTI 是为了解决 KASLR bypass 问题而生基本上是个幌子，来自 hardenedlinux weibo： https://weibo.com/5654890146/FCIlssrxM?type=comment
+[ Hardware ]   这两天 CPU 处理器被发现了一个缓存侧信道漏洞，部分型号的 ARM 处理器也受此漏洞影响，来自 ARM 官方的公告： https://developer.arm.com/support/security-update
+[ Hardware ]   VMware 针对 CPU 预测执行侧信道漏洞发表公告： https://www.vmware.com/us/security/advisories/VMSA-2018-0002.html
+[ Hardware ]   Fedora 系统防御 Meltdown 漏洞利用的方法： https://fedoramagazine.org/protect-fedora-system-meltdown/
+[ Hardware ]   Edge 浏览器和 IE 对 CPU 预测执行侧信道漏洞的缓解措施 - 同 Firefox 一样，也是降低 performance.now() 的时间精度： https://blogs.windows.com/msedgedev/2018/01/03/speculative-execution-mitigations-microsoft-edge-internet-explorer/#LZ78zFv56B4EQcmi.97
+[ Hardware ]   了解 CPU Spectre & Meltdown 攻击之前有必要先了解一下之前的微架构（Micro-Architectural）侧信道攻击相关的 Papers，来自 peerlyst 的整理： https://www.peerlyst.com/posts/a-collection-of-links-to-pdfs-of-papers-on-micro-architectural-side-channel-attacks-sorted-by-date-paul-harvey
+[ Hardware ]   Linux 操作系统为解决 CPU 预测执行侧信道漏洞引入了补丁 Kernel Page Table Isolation，这个补丁在不支持 SMEP 的 CPU 上会模拟 SMEP 启用的状态： https://outflux.net/blog/archives/2018/01/04/smep-emulation-in-pti/
+[ Hardware ]   Google Security Blog 对 CPU 预测执行侧信道漏洞的跟踪，其中提到该漏洞有 3 种攻击方法，可以通过二进制热补丁 Retpoline 技术和 KPTI 机制来缓解： https://security.googleblog.com/2018/01/more-details-about-mitigations-for-cpu_4.html
+[ Hardware ]  据说是一段能在 JavaScript 中触发 CPU 预测执行侧信道漏洞的代码，来自新浪微博 ruanyf： https://weibo.com/1400854834/FCRfgz5RH?type=comment#_rnd1515122098724
+[ Hardware ]  性能VS安全？CPU芯片漏洞攻击实战(1) - 破解macOS KASLR篇： https://weibo.com/ttarticle/p/show?id=2309404192549521743410
+[ Hardware ]  针对 Windows 10 在 meltdown 漏洞补丁前后的性能对比： https://www.techspot.com/article/1554-meltdown-flaw-cpu-performance-windows/
+[ Hardware ]  处理器A级漏洞Meltdown(熔毁)和Spectre(幽灵)分析报告： http://mp.weixin.qq.com/s/2FvvFUT8taRPv6GOHzNW-g
+[ Hardware ]  CPU芯片级漏洞MeltDown（CVE-2017-5754）和 Spectre（CVE-2017-5715/5753）： http://threat.guanjia.qq.com/detail/26.html?_1515071677=
+[ Hardware ]  Cache Speculation Side-channels： https://twitter.com/Fox0x01/status/948863872148131840
+[ Hardware ]   苹果也发表针对 CPU 预测执行侧信道漏洞发表公告，所有的 mac/iOS 设备均受影响： https://support.apple.com/en-us/HT208394
+[ Hardware ]  Meltdown Exploit PoC： https://github.com/paboldin/meltdown-exploit
+[ Hardware ]  Intel 对预测执行侧信道的分析 ： https://newsroom.intel.com/wp-content/uploads/sites/11/2018/01/Intel-Analysis-of-Speculative-Execution-Side-Channels.pdf
+[ Hardware ]   Meltdown - 从 Google Chrome 读取密码的 Meltdown PoC： https://github.com/RealJTG/Meltdown
+[ Hardware ]  NVIDIA 针对 CPU 预测执行侧信道漏洞发布的安全公告： http://nvidia.custhelp.com/app/answers/detail/a_id/4611/
+[ Hardware ]  meltdown 漏洞的 arm 平台的 poc： https://github.com/lgeek/spec_poc_arm
+[ Hardware ]  性能VS安全？CPU芯片漏洞攻击实战(2) – Meltdown获取Linux内核数据： https://paper.seebug.org/499/
+[ Hardware ]  影响全球的CPU漏洞深度解读：熔断与幽灵： https://mp.weixin.qq.com/s/x_ny_KYSb6Wvp98AzI1B6Q
+[ Hardware ]  解密为何树莓派不受SPECTRE或MELTDOWN漏洞影响： https://www.anquanke.com/post/id/93879
+[ Hardware ]  Xbox 360 CPU 的一个设计问题，某个新加的指令可能带来风险： https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/
+[ Hardware ]  AMD-PSP：通过特殊制作的 EK 证书触发 fTPM 远程代码执行漏洞: http://seclists.org/fulldisclosure/2018/Jan/12    http://securityaffairs.co/wordpress/67448/hacking/67448.html
+[ Hardware ]  利用 0Day 漏洞破解 45 年前的 Xerox Alto 电脑的硬盘密码保护： http://www.righto.com/2018/01/xerox-alto-zero-day-cracking-disk.html
+[ Hardware ]   针对微软 Meltdown CPU 漏洞的补丁的分析以及这个补丁针对 AMD 处理器有什么作用：  https://malwaretips.com/threads/heres-how-the-new-meltdown-patch-for-windows-is-enforced-for-amd-systems.78728/
+[ Hardware ]  Intel 发布预测执行侧信道缓解（Speculative Execution Side Channel Mitigations）白皮书： https://software.intel.com/sites/default/files/managed/c5/63/336996-Speculative-Execution-Side-Channel-Mitigations.pdf
+[ Hardware ]  Analyzing the Security Implications of Speculative Execution in CPUs， 分析 CPU 预测执行的安全影响（papaer）： https://arxiv.org/pdf/1801.04084.pdf
+[ Hardware ]   Fortinet 团队对"幽灵" Spectre CPU 漏洞的分析： https://blog.fortinet.com/2018/01/17/into-the-implementation-of-spectre如果想快速检测自己是否受该漏洞影响，可以试试腾讯安全玄武实验室发布的在线检测工具： http://xlab.tencent.com/special/spectre/spectre_check.html
+[ Hardware ]   Intel 为了修复幽灵 Spectre CPU 漏洞而更新微码的说明文档：  https://newsroom.intel.com/wp-content/uploads/sites/11/2018/01/microcode-update-guidance.pdf
+[ Hardware ]  Meltdown and Spectre: What about drivers?： https://www.osr.com/blog/2018/01/23/meltdown-spectre-drivers/
+[ Hardware ]   微软为了修复“幽灵” Spectre CPU 漏洞，补丁中引入了一个新特性 - Kernel Virtual Address Shadow，来自 Fortinet 团队对该特性的深度分析： https://blog.fortinet.com/2018/01/25/a-deep-dive-analysis-of-microsoft-s-kernel-virtual-address-shadow-feature
+[ Hardware ]   微软推出了一个例外补丁 KB4078130，用于向用户推送 Intel 修复 Spectre 漏洞的微码补丁： https://support.microsoft.com/en-us/help/4078130/update-to-disable-mitigation-against-spectre-variant-2
+[ Hardware ]   攻击现代微处理器 - Meltdown, Spectre，来自 RedHat： http://people.redhat.com/jcm/talks/FOSDEM_2018.pdf
+[ Hardware ]   对 Linux 系统 CPU Meltdown 补丁（KPTI/KAISER）的性能的分析： http://www.brendangregg.com/blog/2018-02-09/kpti-kaiser-meltdown-performance.html
+[ Hardware ]    Retpoline - Intel 用于缓解 CPU 幽灵 Spectre 变种 2 分支目标注入攻击（Branch Target Injection）的措施： https://software.intel.com/sites/default/files/managed/1d/46/Retpoline-A-Branch-Target-Injection-Mitigation.pdf
+[ Hardware ]  英特尔为较新的处理器发布了 Spectre 固件修复程序： https://threatpost.com/intel-issues-updated-spectre-firmware-fixes-for-newer-processors/130025/
+[ Hardware ]   SGXPECTRE 攻击 - 通过最近的 CPU 推测执行的漏洞泄露 SGX enclaves 安全区保存的密码： https://arxiv.org/pdf/1802.09085.pdf
+[ Hardware ]  打造 GSM 基站： https://n0where.net/build-gsm-base-station
+[ Hardware ]  研究人员称 AMD 处理器存在严重的漏洞与后门,称影响最新的 AMD Zen,并发了一份技术文档: https://safefirmware.com/amdflaws_whitepaper.pdf
+[ Hardware ]  29 种 USB 攻击方法介绍： https://www.bleepingcomputer.com/news/security/heres-a-list-of-29-different-types-of-usb-attacks/
+[ Hardware ]  An accessible overview of Meltdown and Spectre Part 2，Meltdown 和 Spectre 漏洞的技术细节： https://blog.trailofbits.com/2018/03/22/an-accessible-overview-of-meltdown-and-spectre-part-2/
+[ Hardware ]  攻击 TPM 可信平台模块，来自 CanSecWest 2018： https://github.com/nccgroup/TPMGenie/blob/master/docs/CanSecWest_2018_-_TPM_Genie_-_Jeremy_Boone.pdf
+[ Hardware ]  一文读懂CPU漏洞“裂谷”TotalMeltdown： http://www.freebuf.com/vuls/167028.html
+[ Hardware ]  Exploiting Branch Target Injection： https://drive.google.com/file/d/1caH71xMYbkB3q-HCkzsMhVK1_mWjz0yw/view
+[ Hardware ]  在 Intel 8752 上绕过代码保护: https://blog.inach.is/8752/

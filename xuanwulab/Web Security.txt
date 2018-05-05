@@ -1,0 +1,798 @@
+[ Web Security ]  Retweeted Binni Shah (@ binitamshah): Hacking with Websockets : https://media.blackhat.com/bh-us-12/Briefings/Shekyan/BH_US_12_Shekyan_Toukharian_Hacking_Websocket_Slides.pdf (pdf) http://fb.me/4b9ATsIj6
+﻿"Hacking with Websockets，来自 Blackhat 2012 会议: (PDF) https://t.co/az5gdxhw86  https://t.co/64Nh1MdIe8"
+[ Web Security ]  Exploiting Server Side Request Forgery on a Node/Express Application (hosted on Amazon EC2) http://sethsec.blogspot.com/2015/12/exploiting-server-side-request-forgery.html
+﻿"Amazon EC2 Node/Express 应用服务端请求伪造漏洞利用 https://t.co/WMBp2aH24F"
+[ Web Security ]  On The Design and Implementation of a Stealth Backdoor for Web Applications https://paragonie.com/blog/2016/01/on-design-and-implementation-stealth-backdoor-for-web-applications
+﻿"Web 应用程序隐形后门的设计与实现， Blog：  https://t.co/jC52EfH1qR "
+[ Web Security ]  HTML5 Security Cheat Sheet http://feedproxy.google.com/~r/HelpNetSecurity/~3/uFVYxF2LLRA/secworld.php
+﻿"来自 OWASP 的 HTML5 Security Cheat Sheet: https://t.co/cHMafJvBky"
+[ Web Security ]  Web vulnerabilities to gain access to the system http://www.enye-sec.org/en/papers/web_vuln-en.txt
+﻿"从 Web 漏洞到获取系统访问权限，远程执行命令：  https://t.co/k5TJqM6WGg"
+[ Web Security ]  DOM XSS 101 Walk-Through : http://neonprimetime.blogspot.in/2016/01/dom-xss-101-walk-through.html
+﻿"DOM XSS 介绍: https://t.co/pNB2auzOj6"
+[ Web Security ]  All versions of @ Drupal vulnerable to code execution, credential theft via #MitM attack - http://ow.ly/WIUHo
+﻿"所有版本的 Drupal 都存在代码执行漏洞，密钥凭证可通过中间人攻击窃取， ThreatPost 的报道： https://t.co/6sJBMiMcjx  IOActive 对该漏洞的分析： http://blog.ioactive.com/2016/01/drupal-insecure-update-process.html "
+[ Web Security ]  Facebook Vulnerability Reflected File Download http://blog.infogen.al/2016/01/facebook-vulnerability-reflected-file.html #websec #vuln #bugbounty #hacking #infosec https://t.co/Ib0O1SoDJt
+﻿"Facebook 反射式文件下载漏洞 https://t.co/Ib0O1SoDJt   https://t.co/geG7bmbEEm"
+[ Web Security ]  http://pkav.net/XSS2.png 有用也好，无用也罢，愿 XSS 为你所用。
+﻿"一张图诠释 XSS，来自 PKAV 的 Jackmasa  https://t.co/ypISOUXTJe "
+[ Web Security ]  Formal sec analysis of OAuth 2.0 http://arxiv.org/pdf/1601.01229v2.pdf [Dolev-Yao model of web infrast.; 2 unknown attacks found] https://t.co/ruNUs1NVdi
+﻿"OAuth 2.0 安全性综合性分析， Paper： https://t.co/7EOEdCQtYW  https://t.co/ruNUs1NVdi"
+[ Web Security ]  Malicious Use of the HTML5 Vibrate API https://shkspr.mobi/blog/2014/01/malicious-use-of-the-html5-vibrate-api/
+﻿"HTML5 震动 API 的恶意使用： https://t.co/pw3m76BAii"
+[ Web Security ]  Hijacking Verizon FiOS Accounts http://randywestergren.com/hijacking-verizon-fios-accounts/
+﻿"Verizon FiOS 帐户劫持漏洞： https://t.co/pi586p92TX"
+[ Web Security ]  XSS Flaws lead to Keylogging,Webcams, & more http://neonprimetime.blogspot.com/2016/01/xss-flaws-lead-to-keyloggingwebcams-more.html
+﻿"通过 XSS 漏洞实现键盘记录、开启摄像头： https://t.co/GmLWojopyk"
+[ Web Security ]  A XSS may have exposed users of the eBay website to phishing attacks http://securityaffairs.co/wordpress/43521/hacking/ebay-website-to-phishing-attacks.html
+﻿"eBay 网站的一个 XSS 漏洞可能使用户受到钓鱼攻击： https://t.co/T5h8iplq4h "
+[ Web Security ]  web2attack : Web hacking framework with tools,exploits by python : https://github.com/santatic/web2attack
+﻿"web2attack - Web Hacking 框架，内嵌了多个 Web 漏洞的 Exploits，该框架用 Python 语言编写: https://t.co/AnZT17kt0e"
+[ Web Security ]  The Web Never Forgets : Persistent Tracking Mechanisms in the Wild : https://securehomes.esat.kuleuven.be/~gacar/persistent/the_web_never_forgets.pdf (pdf) cc: @ random_walker
+﻿"Web 网站忘不了你 - 3 种 Web 跟踪机制研究，包括 Canvas 指纹、evercookie 和 cookie syncing，来自比利时鲁汶大学的 Paper: https://t.co/d4FPfOpmQd "
+[ Web Security ]  Phishing attack against LastPass https://www.seancassidy.me/lostpass.html
+﻿"LostPass - 针对 LastPass 的钓鱼攻击 https://t.co/OhwA9O5FRF "
+[ Web Security ]  My Hash Is My Passport : Understanding Web and Mobile Authentication : http://www.darthnull.org/media/presentations/HashPassport-AuthMethods_ShmooCon_2016.pdf (Slides)
+﻿"我的 Hash 就是我的护照 - 了解 Web 和手机的身份验证技术，来自 ShmooCon 2016 会议， PDF： https://t.co/Ov0aGlbNBd"
+[ Web Security ]  Yahoo Mail stored XSS could compromise email accounts ($10k #bugbounty). Proof of concept JS virus https://klikki.fi/adv/yahoo.html
+﻿"雅虎邮箱存储型 XSS PoC，该漏洞获得了雅虎的 10K 美元奖励： https://t.co/LlQXEwYSzC "
+[ Web Security ]  Creating your Own Simple Exploit Module for a Remote Code Execution in Web Apps http://goo.gl/PxJjix #PenetrationTesting #AccessControl
+﻿"为你的 Web 远程代码执行漏洞写一个简单的 Exploit 模块，来自 InfoSec Blog： https://t.co/USGo4sdvOo "
+[ Web Security ]  A small case study on investigating webshell compromise: https://dfir.it/blog/2016/01/18/webshells-every-time-the-same-story-dot-dot-dot-part2/ #DFIR
+﻿"来自 DFIR 对 WebShell 的分析 - 《每次都是一样的故事》， Part 2: https://t.co/gIOFcEo78g Part 1: https://dfir.it/blog/2015/08/12/webshell-every-time-the-same-purpose/ "
+[ Web Security ]  How I Stole Plunker Session Tokens with an Angular Expression Injection https://royaljay.com/security/angular-expression-injections/
+﻿"我是如何通过 Angular 表达式注入偷取 Plunker 会话 Token 的， Plunker 是一个在线协作编辑平台： https://t.co/TctWsRxRad"
+[ Web Security ]  Telegram (API) - Cross Site Request Forgery Vulnerabilities : http://www.vulnerability-lab.com/get_content.php?id=1648
+﻿"即时通信服务 Telegram(API) 跨站请求伪造漏洞: https://t.co/khbXw76p2x"
+[ Web Security ]  Chrome extension for CSRF testing. http://yelgroup.github.io/Yel-CSRF-tool/
+﻿"用于测试 CSRF 漏洞的 Chrome 扩展： https://t.co/09X2TO70vZ"
+[ Web Security ]  OpenCart LFI mitigation bypass 0day http://www.openwall.com/lists/oss-security/2016/01/19/16
+﻿"开源电子商务系统 OpenCart（PHP）本地文件包含漏洞缓解绕过 0Day： https://t.co/ds3vEAJbfN"
+[ Web Security ]  GRR <= 3.0.0-RC1 (all versions) file upload filter bypass (authenficated) http://goo.gl/fb/a4iyTv #FullDisclosure
+﻿"开源的资源管理工具 GRR 文件上传过滤绕过漏洞，来自 FullDisclosure:  https://t.co/1whIyF8WY8"
+[ Web Security ]  A Reflected File Download flaw affects Google Finance http://securityaffairs.co/wordpress/43823/hacking/reflected-file-download-google-finance.html
+﻿"Google 财经反射式文件下载漏洞，来自 SecurityAffairs： https://t.co/MlApYD4Taj"
+[ Web Security ]  Covert Timing Channels based on HTTP Cache Headers : http://www.slideshare.net/dnkolegov/wh102014 (Slides*)
+﻿"基于 HTTP Cache Headers 的隐蔽时间信道: https://t.co/9Ce7TjrdDA "
+[ Web Security ]  [Blog] Some words on CSRF and cookies http://blog.dornea.nu/2016/01/26/some-words-on-csrf-and-cookies/ #infosec #security #appsec #owasp
+﻿"浅谈 CSRF 和 Cookie，来自 Dornea Blog： https://t.co/rIfVtBz7py "
+[ Web Security ]  SQL Injection Analysis http://goo.gl/uhsbgD #MalwareAnalysis #SQLInjecton
+﻿"来自 InfoSec Blog 的 SQL 注入攻击技术分析： https://t.co/DYjIOce5mg"
+[ Web Security ]  XSS without HTML: Client-Side Template Injection with AngularJS : http://blog.portswigger.net/2016/01/xss-without-html-client-side-template.html
+﻿"无 HTML 的 XSS - AngularJS 客户端模板注入，来自 PortSwigger Blog: https://t.co/XTAwlHu1rx"
+[ Web Security ]  New Post - "An XSS on Facebook via PNGs & Wonky Content Types" https://fin1te.net/articles/xss-on-facebook-via-png-content-types/ #bugbounty #facebook #xss
+﻿"Facebook PNG XSS 与靠不住的 Content Type， 来自 fin1te Blog： https://t.co/eczTSlgsRH"
+[ Web Security ]  Web Application Firewall 101: How to Prevent Web Hacking http://goo.gl/IvuU0x #Hacking
+﻿"Web 应用防火墙: 如何防止 Web Hacking，来自 InfoSec Blog： https://t.co/5boOdz8aNF "
+[ Web Security ]  bitdump : A tool to extract database data from a blind SQL injection vulnerability : https://github.com/nbshelton/bitdump
+﻿"bitdump - 用于从一个已知的 SQL 注入漏洞中导出数据库数据的工具: https://t.co/fqLWVAOjq1"
+[ Web Security ]  AngularJS - Escaping the Expression Sandbox for XSS https://spring.io/blog/2016/01/28/angularjs-escaping-the-expression-sandbox-for-xss #javascript #angularjs #security #xss
+﻿"AngularJS - 逃逸表达式沙箱： https://t.co/HuuKpOAxsP 这篇 Blog 是对之前《无 HTML 的 XSS - AngularJS 客户端模板注入》 的一个总结。"
+[ Web Security ]  Circumventing XSS filters http://www.sjoerdlangkemper.nl/2016/01/29/circumventing-xss-filters/
+﻿"以开源电商系统 Magento 的 Mage_Core_Model_Input_Filter_MaliciousCode 类为例，谈 XSS filters 的绕过问题， 来自 Sjoerd Langkemper Blog： https://t.co/wbfMoW99j5"
+[ Web Security ]  Blogged!! XSS using the Google Toolbar's command http://mksben.l0.cm/2016/01/google-toolbar-xss.html (English) http://masatokinugawa.l0.cm/2016/01/google-toolbar-xss.html (日本語)
+﻿"Google Toolbar（toolbar.google.com） 的两个 XSS 漏洞分析， 漏洞只能在安装 Google Toolbar 的 IE 上触发： https://t.co/DTUXBpvwYI "
+[ Web Security ]  Warm up: XSS vector in IE8-11 no user interaction: &lt;div onfocus=alert('xx') id=xss style=display:table&gt; (use #xss in url to trigger focus)
+﻿"热身: IE8-11 上一个 XSS 向量，参看上面代码"
+[ Web Security ]  Atlassian Jira 6.0.* <= 6.1.4 DOM XSS [Unauthenticated] . More: http://www.tinkode.com/2016/01/atlassian-jira-60-614-dom-xss.html
+﻿"项目与事务管理工具 Atlassian Jira 6.0.* <= 6.1.4 版本 DOM XSS : https://t.co/xhqn71I9HY"
+[ Web Security ]  Slightly Evil JavaScript for use in XSS pranks: http://codebox.org.uk/pages/monkeyshine-javascript-practical-jokes
+﻿"可以在 XSS 时搞恶作剧的几个 JavaScript 代码 Demo: https://t.co/wkwRuxAv8W"
+[ Web Security ]  CSP-Bypass : A Burp Plugin for Detecting Weaknesses in Content Security Policies : https://github.com/moloch--/CSP-Bypass
+﻿"CSP-Bypass: 用于检查 CSP 头缺陷的 Burp 插件， Github Repo: https://t.co/oBOCdC5h2S"
+[ Web Security ]  The Magic of Connecting The Dots : https://respectxss.blogspot.de/2016/01/the-magic-of-connecting-dots.html cc: @ soaj1664ashar
+﻿"连线的魔法（XSS）: https://t.co/V9a59zT3bJ "
+[ Web Security ]  The latest @ WordPress update fixes both a SSRF and Open Redirect vuln -http://ow.ly/XU2Ne https://t.co/m0FQjBQItP
+﻿"最新版 WordPress 4.4.2 修复了一个 SSRF 和重定向漏洞， 来自 ThreatPost 的报道： https://t.co/uG0lWxzljd https://t.co/m0FQjBQItP"
+[ Web Security ]  Yahoo RCE : https://seanmelia.files.wordpress.com/2016/02/yahoo-remote-code-execution-cms.pdf (pdf)
+﻿"通过雅虎收购的 MGO 公司的漏洞实现雅虎服务器远程代码执行， 漏洞分析报告: https://t.co/bsvtgSQkSh "
+[ Web Security ]  SQL Injection: Exploitation : http://www.gracefulsecurity.com/sql-injection-exploitation/
+﻿"SQL 注入漏洞利用， 来自 Graceful Security Blog: https://t.co/F6rNfzvb0f"
+[ Web Security ]  The Most Forgotten Web Vulnerabilities : https://www.exploit-db.com/docs/39434.pdf (pdf)
+﻿"那些最容易被遗忘的 Web 漏洞， 来自 Exploit-DB 的 Paper: https://t.co/3VJvgGskSK "
+[ Web Security ]  How I got a shell on one of the #Google Acquisitions ? | Blog - 0daylabs https://goo.gl/2XDjTN #bugbounty #infosec #0daylabs
+﻿"如何在 Google 收购的公司中获取一个 Shell： https://t.co/cYYLn1oZuV "
+[ Web Security ]  Compromising US Banks with Third-party JavaScript https://blog.gaborszathmari.me/2016/02/11/compromising-us-banks-third-party-code/
+﻿"通过第三方 JavaScript 脚本攻击银行用户： https://t.co/ncqWUJBlZg "
+[ Web Security ]  dvws : Damn Vulnerable Web Services (vulnerable testing environment) : https://github.com/snoopythesecuritydog/dvws https://t.co/yHtsrn6SIm
+﻿"dvws: Web 服务漏洞训练场， Github Repo: https://t.co/QK0eMniSLc "
+[ Web Security ]  An-Introduction-to-SQL-Injection-Attacks-for-Oracle-Developers : https://github.com/vinigomescunha/An-Introduction-to-SQL-Injection-Attacks-for-Oracle-Developers
+﻿"写给 Oracle 开发者的 SQL 注入攻击入门文章， 来自 Github: https://t.co/OoEYQ4Cw5u"
+[ Web Security ]  A few slides about my XSSmas15 solution: http://www.slideshare.net/cgvwzq/a-xssmas-carol
+﻿"XSSmas15 比赛题目的答案: https://t.co/0DWIEXG1S8"
+[ Web Security ]  Adobe - Multiple Client Side Cross Site Scripting Web Vulnerabilities http://goo.gl/fb/gsdxG3 #FullDisclosure
+﻿"Adobe Web 应用存在多个客户端跨站漏洞， 来自 FullDisclosure 的公告： https://t.co/YenQsUoxeP "
+[ Web Security ]  Refinery - The Ruby on Rail Open Source CMS Penetration testing report https://securelayer7.net/penetration-testing-reports/Penetration-testing-report--open-source-Ruby-on-rails-Refinery-CMS.pdf by @ cor3sm4sh3r #infosec
+﻿"Refinery 框架渗透测试报告， Refinery CMS 是一个 Ruby 语言写的内容管理系统： https://t.co/ciY8t8jfB1"
+[ Web Security ]  BlackBerry Enterprise Service 12 Self-Service - SQLi and Reflected XSS http://goo.gl/fb/OgdoK1 #FullDisclosure
+﻿"BlackBerry Enterprise Service 12 Self-Service - SQLi and Reflected XSS，  来自 FullDisclosure 的公告： https://t.co/8C8v2FmPhb "
+[ Web Security ]  Added #145 "XSS without User Interaction from passive Elements" to #H5SC. More variations welcome, it's a WIP. https://html5sec.org/#145
+﻿"HTML5 安全手册新添加了一个 '基于被动元素的无需用户交互的 XSS 测试用例'， 来自 HTML5Sec Blog：  https://t.co/UTFLLSnqVd"
+[ Web Security ]  21 0day XSS on yahoo - https://blog.sergeybelove.ru/2016/02/21-0day-xss-on-yahoo-after-1-year/ (just want to write someting to my blog again, lol)
+﻿"Yahoo XSS 0Day， 影响 21 个域名， 都两年了还没有修复： https://t.co/GEc2AuvURq "
+[ Web Security ]  Common Security Issues in Financially-Orientated Web Applications https://www.nccgroup.trust/uk/our-research/common-security-issues-in-financially-orientated-web-applications/
+﻿"金融 Web 应用的常见安全问题， 来自 NCC Group 写给渗透测试工程师的入门文档， 这篇 Paper 写于 2015 年 6 月：  https://t.co/fVwiUnrOky "
+[ Web Security ]  Finding a XSS in Microsoft OAuth Interface, a major risk for the security of the users' account http://ownsecurity.blogspot.com/2016/03/finding-xss-in-microsoft-oauth.html #infosec #bugbounty
+﻿"微软 OAuth 接口 XSS， Blog： https://t.co/tc3hBtsrXL "
+[ Web Security ]  Widespread XSS Vulnerabilities in Ad Network Code Affecting Top Tier Publishers, Retailers http://randywestergren.com/widespread-xss-vulnerabilities-ad-network-code-affecting-top-tier-publishers-retailers/
+﻿"嵌入第三方广告代码的同时，也可能嵌入了 XSS - 由于当前广告行业的碎片化比较严重，使广告网络的代码也比较混乱。作者分析几个案例，这几个案例影响一些顶级的出版商、零售商：  https://t.co/KWnaLVRvGf"
+[ Web Security ]  RSAC2016Presentation: DON'T Use Two-Factor Authentication...Unless You Need It! http://ow.ly/Z3zik
+﻿"RSA 2016 会议演讲:  除非确实需要，否则不要使用双因素认证： https://t.co/EqZiTBFbA4"
+[ Web Security ]  @ NSAGov #Security #CrossSiteScripting #XSS XSS on http://www.nsa.gov https://t.co/dTv59g93QJ
+﻿"美国国家安全局网站 NSA.gov 网站 XSS(查看原图可以看清): https://t.co/eNEmrOfXak https://t.co/dTv59g93QJ"
+[ Web Security ]  Remote Code Execution in Apache Jetspeed 2.3.0 and earlier http://haxx.ml/post/140552592371/remote-code-execution-in-apache-jetspeed-230-and
+﻿"Apache Jetspeed(企业门户实现) 2.3.0 以前版本远程代码执行漏洞, Blog: https://t.co/okao8HaNcD "
+[ Web Security ]  Fiddler 4.6.2.2 ~ web debugging , browser, HTTP/S traffic recording, proxy, web session manipulation http://www.telerik.com/fiddler @ TelerikFiddler
+﻿"Fiddler 4.6.22 - 跨平台、跨浏览器的 Web 调试代理，支持性能测试、HTTP(s)流量抓取等功能： https://t.co/x86XTKjYii "
+[ Web Security ]  ATutor SQLi / RCE ! http://sourceincite.com/research/src-2016-04/ http://sourceincite.com/research/src-2016-05/ http://sourceincite.com/research/src-2016-06/ http://sourceincite.com/research/src-2016-07/ http://sourceincite.com/research/src-2016-08/
+﻿"基于 Web 开源学习管理系统 ATutor 存在多个漏洞(SQL 注入/RCE): https://t.co/6hmXi01tKY https://t.co/bQkMDsg8at https://t.co/In6u924fS7 https://t.co/dX0FSpIWb7 https://t.co/0wJMlu6eXr"
+[ Web Security ]  One XSS vector to rule them all: https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot #infosec #xss
+﻿"一个 XSS Payload 实现 Rule Them All - 这篇文章介绍作者写的一个 XSS Payload，可以适应各种各样的上下文环境 ︰ https://t.co/gmpIgzJpeT "
+[ Web Security ]  Exploring Server-Side Template Injection in Flask/Jinja2 https://nvisium.com/blog/2016/03/09/exploring-ssti-in-flask-jinja2/
+﻿"Flask/Jinja2 中的服务端模板注入， 来自 Nvisium Blog：  https://t.co/ERMnMEBi9H"
+[ Web Security ]  Analysis on a remote code execution on SpagoBI https://remoteawesomethoughts.blogspot.com/2016/03/spagobi-remote-code-execution-by.html
+﻿"开源商务智能套件 SpagoBI 远程代码执行漏洞分析： https://t.co/b3QuzxGHsi "
+[ Web Security ]  Web application scanning with Htcap - Help Net Security http://ow.ly/ZkG33
+﻿"Web 应用扫描器 Htcap： https://t.co/XckCrebb1d "
+[ Web Security ]  Exploring SSTI in Flask/Jinja2 (Part 2) : https://nvisium.com/blog/2016/03/11/exploring-ssti-in-flask-jinja2-part-ii/ ,Part 1 : http://www.lanmaster53.com/2016/03/exploring-ssti-flask-jinja2/
+﻿"Flask/Jinja2 中的服务端模板注入 Part 2 :  https://t.co/aVwleEoiX7   Part 1（上周推送过） : https://t.co/wbujQ3Km9p"
+[ Web Security ]  Yahoo! Plugs Mail Spoofing Bug https://packetstormsecurity.com/news/view/26425/Yahoo-Plugs-Mail-Spoofing-Bug.html
+﻿"雅虎邮箱发件人欺骗 Bug, 来自 TheRegister 的报道: https://t.co/NdwwNesG4Y"
+[ Web Security ]  WordPress Bulletproof Security Plugin Multiple Cross Site Scripting… http://goo.gl/fb/y0jPDI #FullDisclosure
+﻿"WordPress BulletProof 插件多个跨站漏洞， 来自 FullDisclosure： https://t.co/gJEdqwUf8T "
+[ Web Security ]  i made a thing that helps people practice exploiting LFI, RFI and CMD injection vulns in web apps https://github.com/paralax/lfi-labs
+﻿"lfi-labs - 用于测试本地文件包含、远程文件包含、命令行注入的一些 Web PHP 代码： https://t.co/I5hGv6wATr"
+[ Web Security ]  XSS hijack browser HTTP request: https://github.com/jackmasa/captureXHR/
+﻿"通过 Hook XMLHttpRequest 劫持浏览器的 HTTP 请求， Github Repo︰ https://t.co/aFPx0jj62T"
+[ Web Security ]  Troy Hunt: Understanding CSRF, the video tutorial edition http://www.troyhunt.com/2016/03/understanding-csrf-video-tutorial.html
+﻿"理解 CSRF, 视频教程版: https://t.co/o8DQ8CsY6m"
+[ Web Security ]  Classic Web Vulns Found in Google Search Appliance 7.4 https://www.insinuator.net/2016/03/classical-web-vulns-found-in-google-search-appliance-7-4/
+﻿"GSA(Google Search Appliance) 7.4 版本被发现了几个经典的 Web 漏洞： https://t.co/U44e430jhE"
+[ Web Security ]  99 Problems but Two-Factor Ain’t One http://bddy.me/25m607O #FEYERedTeam #DFIR https://t.co/7H1QyCIzsz
+﻿"双因素认证对于远程访问权限的控制是个绝佳的实践。 但它真的绝对可靠吗？ 来自 FireEye 的这篇 Blog 站在攻击者的角度来看双因素认证，讨论了如何在不接触内部环境下绕过它的认证，以及如何获取认证后远程设备的控制权限： https://t.co/bSyG3tcsmT   https://t.co/7H1QyCIzsz"
+[ Web Security ]  Uber Bug Bounty: Turning Self-XSS into Good-XSS - https://fin1te.net/articles/uber-turning-self-xss-into-good-xss/ #bugbounty #xss #uber
+﻿"Uber Bug Bounty ： 将 Self-XSS 变成 Good-XSS： https://t.co/WN4IF6ZdiU "
+[ Web Security ]  Exfiltration at Lightspeed - Faster Blind SQL Injection https://drive.google.com/file/d/0B0tBYiOD2uG7MkpxaFRWTkhOTTA/view
+﻿"以光速偷数据 - 更快的 SQL 盲注， PDF： https://t.co/icjKtwDvk6 "
+[ Web Security ]  Dear XSSer, two XSS challenges are here. Can you solve it? :) http://shibuya.vulnerabledoma.in/jizen http://shibuya.vulnerabledoma.in/jizen2
+﻿"亲爱的 XSSer 们，这有两个 XSS 挑战题： https://t.co/xyi8qoyJBL   https://t.co/jhiZMDZh1l"
+[ Web Security ]  SQL Injection Cheat Sheet : https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/
+﻿"SQL 注入手册， 来自 NetSparker Blog ︰ https://t.co/sTid3I1Fkn"
+[ Web Security ]  Another full featured webshell with GIF header Sample on VT https://www.virustotal.com/en/file/34c929276d0376ba07bfaae1893c4a1211a50d2b766837dcc2fd292cd25b6284/analysis/ Source http://pastebin.com/FNruff4p https://t.co/LlYjZWCmNo
+﻿"一个全功能型的 WebShell 样本（带有 GIF 文件头）， VirusTotal 的分析结果： https://t.co/OwBro6QB94  Pastebin 上的源码： https://t.co/ZzSHfOicSH https://t.co/LlYjZWCmNo"
+[ Web Security ]  Send a Location Ping to Facebook Friends using only public_profile as a third party app http://philippeharewood.com/send-a-location-ping-to-facebook-friends-using-only-public_profile-as-a-third-party-app/ $5000 #bugbounty
+﻿"仅用 public_profile 权限， 向 Fackbook 朋友列表发送位置更新消息： https://t.co/0isRbns1WY "
+[ Web Security ]  XSSvectorMaker - Tool for making XSS vector under the specified conditions. https://int21h.jp/tools/XSSvectorMaker/
+﻿"XSSvectorMaker - XSS 攻击 Payload 生成、测试工具： https://t.co/PrxJV67dqt"
+[ Web Security ]  DOMXSScat - DOM based XSS passive scanner add-on for Fiddler4. https://int21h.jp/tools/DOMXSScat/
+﻿"DOMXSScat - DOM XSS 被动扫描工具， Fiddler4 的一个扩展：  https://t.co/9ZuZPoaXaJ"
+[ Web Security ]  Trend Micro (SSO) - (Backend) SSO Redirect & Session Vulnerability http://goo.gl/fb/QQ5GaV #FullDisclosure
+﻿"趋势科技单点登陆(SSO) Web 服务存在任意 URL 跳转漏洞， 来自 FullDisclosure 的公告： https://t.co/gK1P2SuEvk "
+[ Web Security ]  Breaking the Google reCAPTCHA : https://www.blackhat.com/docs/asia-16/materials/asia-16-Sivakorn-Im-Not-a-Human-Breaking-the-Google-reCAPTCHA.pdf (Slides) #BHASIA
+﻿"打败 Google 的验证码， 来自 BlackHat Asia 2016 会议的演讲︰ https://t.co/zr0tYN8l3F "
+[ Web Security ]  [POC-Writeup] Obtaining Login Tokens for an Outlook, Office or Azure Account – via @ fin1te http://bgcd.co/1S3XNLv
+﻿"获取 Outlook、Office、Azure 账户的登陆 Token: https://t.co/fIzTpuYWBR"
+[ Web Security ]  Pwncloud – bad crypto in the Owncloud encryption module https://blog.hboeck.de/archives/880-Pwncloud-bad-crypto-in-the-Owncloud-encryption-module.html
+﻿"Pwncloud - Owncloud Web 应用的加密模块存在缺陷： https://t.co/mIQYx0OanU"
+[ Web Security ]  XSS Attacks through PATH https://speakerdeck.com/masatokinugawa/xss-attacks-through-path
+﻿"基于路径的 XSS 攻击： https://t.co/79tA3RHy8e"
+[ Web Security ]  Operating System Based Redirection with Apache mod_rewrite https://bluescreenofjeff.com/2016-04-05-operating-system-based-redirection-with-apache-mod_rewrite/ (post #3 of Strengthening Your Phishing with mod_rewrite)
+﻿"通过 Apache mod_rewrite 实现为不同操作系统的用户定制 Payload，这可以帮助钓鱼： https://t.co/h220IaYWmq "
+[ Web Security ]  #Monstra 3.0.1 Privilege Escalation #CVE-2014-9257 http://security.szurek.pl/monstra-301-privilege-escalation.html They fix it after sarimkiani Full Disclosure on github
+﻿"Monstra CMS（内容管理系统）3.0.1 版本提权漏洞（CVE-2014-9257）， 附 PoC： https://t.co/43qRORyG4y"
+[ Web Security ]  [CVE-2016-3972]DotCMS Directory traversal vulnerability http://goo.gl/fb/3R71Tm #FullDisclosure
+﻿"DotCMS 3.5 Beta 版目录遍历漏洞（CVE-2016-3972）， 来自 FullDisclosure 公告： https://t.co/lNlwFFingD "
+[ Web Security ]  Google UI-Redressing Bug That Discloses The User's Email Address http://blog.mazinahmed.net/2016/03/google-ui-redressing-bug-that-discloses-email-addresses.html
+﻿"Google Blogger 存在 UI 矫正的 Bug，攻击者可以借此获取用户的邮箱地址： https://t.co/r8wV7ImZ8H"
+[ Web Security ]  Blogged! / Abusing docmode inheritance: EasyXDM 2.4.19 DOMXSS http://mksben.l0.cm/2016/04/easyxdm-xss-docmode-inheritance.html (English) http://masatokinugawa.l0.cm/2016/04/easyxdm-xss-docmode-inheritance.html (日本語)
+﻿"滥用 docmode 继承 ︰ EasyXDM 2.4.19 DOMXSS： （英文版）： https://t.co/yxrsSm9pmo  （日文版）：  https://t.co/XDlNX5AvoZ  "
+[ Web Security ]  My slides on "Web security" from last Ruxmon: https://s3.amazonaws.com/pentesterlab-others/web_security.pdf
+﻿"PentesterLab 在上届 Ruxmon 会议的演讲：《Web 应用安全》: https://t.co/oiLYxM1ziB"
+[ Web Security ]  and, likewise, Web NFC! https://w3c.github.io/web-nfc/
+﻿"W3C Web NFC API 社区草案：  https://t.co/2bOHLI8AoV"
+[ Web Security ]  Git All the Payloads! A collection of web attack payloads: https://github.com/foospidy/payloads
+﻿"Web 攻击 Payloads 收集, Github Repo︰ https://t.co/Y4Jf5ulHhB"
+[ Web Security ]  Google Account Recovery XSS (worth a bug bounty of $12.5k ) : https://sites.google.com/site/bughunteruniversity/best-reports/account-recovery-xss
+﻿"Google 账户找回功能 XSS（ Google 给了 12.5k 的 Bounty 奖金）: https://t.co/HlUXnU4UXD"
+[ Web Security ]  GitHub's CSP journey (Content Security Policy) http://githubengineering.com/githubs-csp-journey/
+﻿"GitHub 的 CSP 之旅（内容安全策略）： https://t.co/Cly2Yi2udF"
+[ Web Security ]  Brute-force short URLs to privately-shared files. #oops https://twitter.com/princetoncitp/status/720576680851542016
+﻿"通过暴力枚举短域名服务，可以发现一些云服务中分享的私有敏感文件， 如微软 OneDrive： https://t.co/CvmjbcK5Vd   去年还推送过另外一篇文章： http://shubh.am/exploiting-url-shortners-to-discover-sensitive-resources-2/ "
+[ Web Security ]  Cross-Site Script Inclusion - A Fameless but Widespread Web Vulnerability Class http://www.scip.ch/en/?labs.20160414
+﻿"跨站脚本执行 - 一个名气不大但传播广泛的 Web 漏洞类型： https://t.co/tqkRxdnL9e  "
+[ Web Security ]  As serious as #BadLock: https://sadlock.org, http://notoken.pl
+﻿"继 BadLock、 Sadlock 后， 又有人发现了一个 WordPress 的严重漏洞， 并将其命名为 'BadCSRF NoToken' Bug, 也专门建了一个网站， 这个漏洞将于今年 7 月 15 号披露︰ https://t.co/ovAeGodLBR   https://t.co/a34pXX4BPA"
+[ Web Security ]  Wordpress Plugins jQuery Html5 File Upload https://cxsecurity.com/issue/WLB-2016040121
+﻿"Wordpress 插件 jQuery Html5 文件上传漏洞：  https://t.co/LNXhmreC68"
+[ Web Security ]  Experts discovered a number of flaws in the Avactis PHP Shopping Cart http://securityaffairs.co/wordpress/46431/hacking/avactis-php-shopping-cart-flaws.html
+﻿"开源电商购物车组件 PHP Avactis 被发现多个漏洞， 来自 SecurityAffairs 的报道：  https://t.co/alqDsKPEA9"
+[ Web Security ]  Oooh. http://bugs.chromium.org has deployed Content Security Policy with an experimental 'unsafe-dynamic' expression. https://w3c.github.io/webappsec-csp/#unsafe-dynamic-usage
+﻿" bugs.chromium.org 网站已经部署了实验性的 'unsafe-dynamic' 表达式，  W3C 对该特性的介绍： https://t.co/4GoabLEMv6"
+[ Web Security ]  $5k for a bug that a scanner can easily find... https://hackerone.com/reports/122475
+﻿"Imgur 奖励一个路径穿越漏洞（../../） 5k 刀：  https://t.co/JwC5eCGe4H "
+[ Web Security ]  Adobe Patches DOM-XSS Flaw in Analytics AppMeasurement for Flash Library: https://threatpost.com/adobe-patches-dom-xss-flaw-in-analytics-appmeasurement-for-flash-library/117591/ via @ threatpost
+﻿"Adobe 修复了 Flash Analytics AppMeasurement 产品的一个 DOM-XSS 漏洞，来自 ThreatPost 的报道：  https://t.co/jJsKZZc4k6"
+[ Web Security ]  #NoScript, script context. &lt;script&gt;alert//.%0D(1)&lt;/script&gt; #fixed #bypass #XSS //cc @ma1
+﻿"NoScript 被修复的 XSS Bypass"
+[ Web Security ]  Wordpress iThemes Security (Better WP Security) Insecure Backup/Logfile… http://goo.gl/fb/K5ShOI #FullDisclosure
+﻿"Wordpress iThemes 插件存在漏洞，攻击者可以访问备份、日志文件， 来自 FullDisclosure 的公告： https://t.co/RXvUm4JssA "
+[ Web Security ]  Drag Drop XSS in Google ;) http://c0rni3sm.blogspot.com/2016/04/drag-drop-xss-in-google.html #bugbounty
+﻿"Google Mail 的拖拽 XSS：  https://t.co/3bCWiqp4UU "
+[ Web Security ]  原本丢掉的跨站漏洞 - JavaScript 特性利用 http://linux.im/2016/04/22/javascript_characteristic_utilization_xss.html
+﻿"原本丢掉的跨站漏洞 - JavaScript 特性利用 https://t.co/gvnbCfTxkJ"
+[ Web Security ]  Trend Micro (Account) - Email Spoofing Web Vulnerability http://goo.gl/fb/XK6mrK #FullDisclosure
+﻿"趋势科技邮件欺骗 Web 漏洞，来自 FullDisclosure 的公告： https://t.co/W5eX2np6rk "
+[ Web Security ]  Binary Webshell Through OPcache in PHP 7 http://blog.gosecure.ca/2016/04/27/binary-webshell-through-opcache-in-php-7/
+﻿"基于 PHP 7 OPcache 的二进制格式 Webshell： https://t.co/22Onmtt2A9 "
+[ Web Security ]  Office 365 authentication bypass disclosure and write-up: http://www.economyofmechanism.com/office365-authbypass.html #SAML https://t.co/mckGzrqBev
+﻿"Office 365 身份验证绕过漏洞披露， 来自 Blog 《通往地狱的路铺满了 SAML 断言》︰ https://t.co/8v39qznmyu   https://t.co/mckGzrqBev"
+[ Web Security ]  D2 Elliot 1.5 is available with new exploits and tools. Bonus for this release: #0day for #joomla 1.5.26 and #vBSEO. http://d2sec.com/updates/d2_elliot_1.5.html
+﻿"D2 Elliot Web 漏洞利用框架更新 1.5 版本，本次更新增加了 joomla 1.5.26 和 vBSEO 的 0Day。 这是个付费的工具： https://t.co/3DNIVnuMzt"
+[ Web Security ]  CORS Enabled XSS http://brutelogic.com.br/blog/cors-enabled-xss/
+﻿"CORS（跨域资源共享） Enabled XSS： https://t.co/QP7iOz799n"
+[ Web Security ]  GoDaddy Addresses Blind XSS Vulnerability Affecting Online Support: https://threatpost.com/godaddy-addresses-blind-xss-vulnerability-affecting-online-support/117950/ via @ threatpost
+﻿" 域名注册商 GoDaddy 修复了一个 XSS 漏洞，成功利用该漏洞可以登录、篡改、删除用户 ︰ https://t.co/k4FwWVDBdO"
+[ Web Security ]  WordPress 4.5.1 XSS & SOME: https://gist.github.com/cure53/df34ea68c26441f3ae98f821ba1feb9c https://gist.github.com/cure53/09a81530a44f6b8173f545accc9ed07e Issue was re-found and published, thus the early release.
+﻿"WordPress 4.5.1 Flash flashmediaelement.swf 中的 XSS︰ https://t.co/jhdpXGWARz         plupload.flash.swf 中的同源方法执行问题： https://t.co/4uzIclKrZu  国内 Seebug 平台关于该漏洞的分析： https://www.seebug.org/vuldb/ssvid-91515   MidZer0 Blog 对该漏洞的分析： https://midzer0.github.io/2016/wordpress-4.5.1-xss/ "
+[ Web Security ]  Blind XSS Code http://brutelogic.com.br/blog/blind-xss-code/
+﻿" Blind XSS Code：  https://t.co/2cL6XxzX3d"
+[ Web Security ]  CakePHP Framework <= 3.2.4 IP Spoofing Vulnerability http://goo.gl/fb/0eERKE #FullDisclosure
+﻿"CakePHP 框架 3.2.4 之前版本存在 IP 欺骗漏洞，来自 FullDisclosure 公告：  https://t.co/6n8PuQXZrB "
+[ Web Security ]  Webshell for IIS http://goo.gl/fb/HJ7FxP #FullDisclosure
+﻿" IIS 8 上可用的 Webshell： https://t.co/zKXZ0s9FLG "
+[ Web Security ]  Avoiding XSS Detection (payload generator + self-delete code) http://brutelogic.com.br/blog/avoiding-xss-detection/
+﻿"XSS 检测逃逸（Payload 生成器 + 自删除代码）： https://t.co/XjsLLPDlfe"
+[ Web Security ]  The Sleepy User Agent http://blog.cloudflare.com/the-sleepy-user-agent/
+﻿"时不时就有客户投诉，自己的 HTTP GET 请求被 CloudFlare WAF 阻断掉了，请求乍看起来很正常，但奇怪的是 User Agent， 来自 CloudFlare Blog： https://t.co/clrGH3mocI"
+[ Web Security ]  A great list of some awesome bug bounty writeups: https://forum.bugcrowd.com/t/researcher-resources-bounty-bug-write-ups/1137
+﻿" Bug Bounty Writeups 收集︰ https://t.co/Cbs92yezj2"
+[ Web Security ]  Sleeping stored Google XSS Awakens a $5000 Bounty https://blog.it-securityguard.com/bugbounty-sleeping-stored-google-xss-awakens-a-5000-bounty/
+﻿"  一个沉睡的 Google XSS 唤醒了 5000 美元奖金： https://t.co/BLjVkZ9vXu"
+[ Web Security ]  XSS Auditor Bypasses 05.2016 https://html5sec.org/xssauditor/bypasses-052016 (someone asked for PoC and test-case, here you are)
+﻿" XSS Auditor Bypass 05.2016，来自 HTML5Sec 网站： https://t.co/c9UcjpDZZM"
+[ Web Security ]  How I bypassed Facebook CSRF Protection again ;) http://pouyadarabi.blogspot.com/2016/05/how-i-bypassed-facebook-csrf-in-2016.html https://t.co/qV7LDZJ6pR
+﻿"我是如何再次绕过 Facebook CSRF 保护的： https://t.co/Ozly6qYl5u https://t.co/qV7LDZJ6pR"
+[ Web Security ]  AntiviruXSS : How We XSSed 8/9 Top AV Vendors : http://brutelogic.com.br/docs/antiviruxss.pdf (pdf) cc: @ brutelogic || @ strukt93
+﻿"AntiviruXSS - 我们是如何 XSS 掉 8/9 的顶级反病毒厂商的 ︰ https://t.co/whioUBej0s "
+[ Web Security ]  Blogged! / XSS Auditor bypass using Flash and base tag http://masatokinugawa.l0.cm/2016/05/xss8.html (日本語) http://mksben.l0.cm/2016/05/xssauditor-bypass-flash-basetag.html (English)
+﻿" 利用 Flash 和 base 标签 Bypass XSS Auditor： https://t.co/NfjXTTDjlR "
+[ Web Security ]  Backdoor in Fake Joomla! Core Files https://blog.sucuri.net/2016/05/unexpected-backdoor-fake-core-files.html
+﻿" Sucuri Labs 在一个被黑的网站中发现 Joomla database.php 文件中藏有后门： https://t.co/Vf2JK2BopM"
+[ Web Security ]  Slides from my #XSS Talk @ BsidesBoston http://brutelogic.com.br/docs/advanced-xss.pdf @ plaverty9 @ _larry0 @ danielcid @ perezbox https://t.co/8v8QtNdLMF
+﻿" 高级 XSS 向量，来自 BsidesBoston 会议： https://t.co/44zzEzP2wc   https://t.co/8v8QtNdLMF  "
+[ Web Security ]  My slides from @ BsidesBoston https://gitlab.com/lcashdol/slides/blob/master/wordpress-1352.pdf cc @ forced_request
+﻿" 如何在一小时内发现 WordPress 插件的 1352 个 XSS 0Day，来自 BisdesBoston 会议： https://t.co/11LAOMZncV "
+[ Web Security ]  wpDiscuz Supercharged native comments 3.1.4 Reflected #XSS http://security.szurek.pl/wpdiscuz-supercharged-native-comments-314-reflected-xss.html #WordPress
+﻿" WordPress wpDiscuz 插件 3.1.4 版本反射式 XSS 漏洞： https://t.co/t8Uy9eIMIy "
+[ Web Security ]  Web Storage: the lesser evil for session tokens? http://blog.portswigger.net/2016/05/web-storage-lesser-evil-for-session.html
+﻿" 都说 Web Storage 不适合存储会话 Token，作者却不这么认为，来自 PortSwigger Blog：  https://t.co/OwlOyuMpVZ"
+[ Web Security ]  Joomla SecurityCheck extension - Multiple vulnerabilities http://goo.gl/fb/n9WMSk #FullDisclosure
+﻿"Joomla SecurityCheck 扩展 2.8.9 版本存在存储型 XSS 和 SQL 注入漏洞，来自 FullDisclosure 的公告： https://t.co/mHTgbjOQ81 "
+[ Web Security ]  Over a million #WordPress sites at risk due to XSS #vulnerability: http://bit.ly/280PWcZ #cybersecurity
+﻿" 超过 100 万 WordPress 网站受 Jetpack 插件 XSS 漏洞的影响，来自 TrendMicro Blog ︰ https://t.co/CYHoMfG9pA "
+[ Web Security ]  Discuz X系列门户文章功能SSRF漏洞挖掘与分析 - http://bobao.360.cn/learning/detail/2889.html by 360's 0kee team
+﻿"Discuz X 系列门户文章功能 SSRF 漏洞挖掘与分析，来自 360 0kee 团队： https://t.co/Dw8FjevLsU "
+[ Web Security ]  Taking over Heroku accounts : http://esevece.github.io/2016/06/01/taking-over-heroku-accounts.html
+﻿" 接管 Heroku 帐户 ︰ https://t.co/Zh582d3pSf"
+[ Web Security ]  Web Application Firewall Bypassing : http://www.slideshare.net/phdays/ss-62570233 (Slides)
+﻿"Web 应用防火墙绕过技术，来自 PHDays 会议︰ https://t.co/sBeLUsdYT8 "
+[ Web Security ]  How to find #XSS vulnerabilities in flash files. https://olivierbeg.com/finding-xss-vulnerabilities-in-flash-files/
+﻿"如何在 Flash 文件中找 XSS 漏洞： https://t.co/TBUMIHa2w0"
+[ Web Security ]  WP Mobile Detector Vulnerability Being Exploited in the Wild https://blog.sucuri.net/2016/06/wp-mobile-detector-vulnerability-being-exploited-in-the-wild.html
+﻿" WordPress Mobile Detector 插件任意文件上传 0Day 正在被野外攻击，目前还没有可用的补丁： https://t.co/UHUDBLOKP3"
+[ Web Security ]  MongoDB security – Injection attacks with php : http://blog.securelayer7.net/mongodb-security-injection-attacks-with-php/ cc @ nikhilmittal641 || @ SandeepL337
+﻿" PHP MongoDB 数据库注入攻击: https://t.co/2EV4DxKDvq  "
+[ Web Security ]  Bait and Switch: The Failure of Facebook Advertising – An OSINT Investigation via @ bellingcat https://www.bellingcat.com/resources/2016/06/02/bait-and-switch-the-failure-of-facebook-advertising-an-osint-investigation/
+﻿" 页面偷换 - Facebook 广告失误案例的一次调查： https://t.co/53nda3dk95 "
+[ Web Security ]  The Shortest Reflected XSS Attack Possible http://brutelogic.com.br/blog/shortest-reflected-xss-possible/
+﻿" 这可能是长度最短的 XSS Payload： https://t.co/HvvwUpDGnA"
+[ Web Security ]  Old CVE-2014-3704 flaw in Drupal still exploited in attacks http://securityaffairs.co/wordpress/48036/hacking/cve-2014-3704-flaw-drupal.html
+﻿" 野外攻击中，Drupal CVE-2014-3704 这个老漏洞仍然存在： https://t.co/9TUnf9NbTk"
+[ Web Security ]  Double Opt-In for Download 2.0.9 Sql Injection http://security.szurek.pl/double-opt-in-for-download-209-sql-injection.html #WordPress #Exploit
+﻿" WordPress 'Double Opt-In for Download' 插件 2.0.9 版本 SQL 注入漏洞： https://t.co/vXW2d01P20 "
+[ Web Security ]  Starting to publish my WordPress XSS plugin research results https://gitlab.com/lcashdol/wpxssdb
+﻿"上周推送过一篇《如何在一小时内发现 1352 个 WordPress 插件 XSS 0Day》，昨天作者公开了存储相关研究成果的数据库： https://t.co/CTESdrLGMU"
+[ Web Security ]  Uber disclosed a bug submitted by @ klikkioy: https://hackerone.com/reports/136531 #hackerone #bugbounty https://t.co/pklY3lhJp8
+﻿" HackerOne 网站公开了 Uber 网站一个漏洞的细节（WordPress）: https://t.co/gcbnmw3WBL   还有一个登录认证绕过漏洞： https://hackerone.com/reports/136169   Uber 奖励了该绕过漏洞的发现者 1 万美金，来自 ThreatPost 的报道： https://threatpost.com/uber-pays-researcher-10k-for-login-bypass-exploit/118516/ "
+[ Web Security ]  Vulnerabilities in Facebook Chat and Messenger exploitable with basic HTML knowledge : http://blog.checkpoint.com/2016/06/07/facebook-maliciouschat/
+﻿" CheckPoint 发现了 Facebook 聊天工具的一个漏洞︰ https://t.co/U9rTE2rYGN  通过该漏洞可以查看聊天历史记录"
+[ Web Security ]  Wordpress Levo-Slideshow 2.3 - Arbitrary File Upload Vulnerability http://goo.gl/fb/P0BNPn #FullDisclosure
+﻿"WordPress 幻灯片放映插件 Levo-Slideshow 2.3 版本任意文件上传漏洞，来自 FullDisclosure 的公告： https://t.co/Rr2hC7QVlw "
+[ Web Security ]  PHDays VI: WAF Bypass Contest http://blog.ptsecurity.com/2016/06/phdays-vi-waf-bypass-contest.html
+﻿" PHDays 会议 WAF Bypass 比赛的结果： https://t.co/eAYHhMIS1K"
+[ Web Security ]  Testing Race Conditions in Web Applications https://blogs.mcafee.com/mcafee-labs/testing-race-conditions-web-applications/
+﻿" 挖掘 Web 应用程序中的竞争条件漏洞，来自 McAfee Blog： https://t.co/KAisjHlcQF "
+[ Web Security ]  My Google XSS ;) http://arsiadi.net/2016/06/11/stories-of-xss-in-google-april-may-2016/ #Google #XSS #BugBounty
+﻿" 我在 Google BugBounty 计划中发现的几个 XSS 漏洞：  https://t.co/nvrqxFaDYm "
+[ Web Security ]  CM Ad Changer 1.7.7 Wordpress Plugin - Cross Site Scripting Web Vulnerability http://goo.gl/fb/GaU0nE #FullDisclosure
+﻿" Wordpress 插件 CM Ad Changer 1.7.7 版本 XSS 漏洞，来自 FullDisclosure 的公告： https://t.co/IZnIijkJTr "
+[ Web Security ]  Cross-Site Content Hijacking PoC project has been updated to support CORS as well :) https://github.com/nccgroup/CrossSiteContentHijacking #XSCH
+﻿" CrossSiteContentHijacking - NCCGroup 开源的跨站数据劫持项目， GitHub Repo： https://t.co/WjPOlFiuES "
+[ Web Security ]  Online CSRF PoC Generator: A web alternative to the Burp Suite Pro and ZAP CSRF PoC generators https://security.love/CSRF-PoC-Genorator/
+﻿" CSRF PoC 生成器（在线工具）： https://t.co/Kg3lBJ6nad "
+[ Web Security ]  Revisiting XSS payloads in PNG IDAT chunks https://www.adamlogue.com/revisiting-xss-payloads-in-png-idat-chunks/
+﻿" 存在于 PNG 文件 IDAT Chunks 中的 XSS Payload： https://t.co/Y6LHoBNHig"
+[ Web Security ]  My slides from #securityfest and #area41 are online. https://speakerdeck.com/luh2/the-tale-of-a-fameless-but-widespread-vulnerability
+﻿" 名气不大，但是传播范围很广的一类漏洞 - Cross-Site Script Inclusion (XSSI)： https://t.co/tUDXy7z2wO"
+[ Web Security ]  The Genesis of an XSS Worm - Part I http://brutelogic.com.br/blog/genesis-xss-worm-part-i/
+﻿"XSS 蠕虫的成因，Part 1： https://t.co/sQnfONANeC"
+[ Web Security ]  Content Security Policy source expression 'unsafe-dynamic' has been renamed 'strict-dynamic' in the latest draft (https://w3c.github.io/webappsec-csp/#strict-dynamic-usage).
+﻿" CSP 安全策略中的 'unsafe-dynamic' 特性更名为 'strict-dynamic'： https://t.co/qd7tKrB4if "
+[ Web Security ]  XSS persistence using JSONP and serviceWorkers https://c0nradsc0rner.wordpress.com/2016/06/17/xss-persistence-using-jsonp-and-serviceworkers https://t.co/ruuXhkUtWC
+﻿" 基于 JSONP 和 serviceWorkers 的 XSS 持久攻击技术： https://t.co/hzMN47Zus0 https://t.co/ruuXhkUtWC"
+[ Web Security ]  Hacking Uber : https://labs.integrity.pt/articles/uber-hacking-how-we-found-out-who-you-are-where-you-are-and-where-you-went/
+﻿" Hacking Uber ︰ https://t.co/7VNTapU7W1"
+[ Web Security ]  XSS in Mobile Devices http://brutelogic.com.br/blog/xss-in-mobile-devices/
+﻿" 移动设备中的 XSS 漏洞，来自 BruteLogic： https://t.co/hM6AVCQuOK "
+[ Web Security ]  Delete any video from Facebook ... I was even able to delete Mark Zuck's videos. ? http://www.pranavhivarekar.in/2016/06/23/facebooks-bug-delete-any-video-from-facebook/ #bugbounty #facebook #infosec
+﻿" 可以从 Facebook 删除任意视频的一个 Bug： https://t.co/IucWTxwknc  "
+[ Web Security ]  PayPal fixed a flaw that allowed attackers to deliver malicious images http://securityaffairs.co/wordpress/48702/hacking/paypal.html
+﻿" Aditya K Sood 的研究员发现 Paypal 的支付页面可以通过 URL 的 'image_url' 参数嵌入一张图片， Paypal 目前已经修复了该漏洞，来自 SecurityAffairs 的报道： https://t.co/VJbkR9GvrZ"
+[ Web Security ]  Shadowd - Collection Of Tools To Detect, Record And Prevent Attacks On Web Applications -- http://www.kitploit.com/2016/06/shadowd-collection-of-tools-to-detect.html
+﻿"Shadowd - Web 应用漏洞攻击检测、记录和防护工具的集合： https://t.co/e7l1tPoHZU"
+[ Web Security ]  Utilizing Multi-byte Characters To Nullify SQL Injection Sanitizing http://howto.hackallthethings.com/2016/06/using-multi-byte-characters-to-nullify.html
+﻿"利用多字节字符使 SQL 注入检查失效： https://t.co/6nqtXDiaRd"
+[ Web Security ]  SSRF bible updated a little. Redis tricks with SLAVEOF and MIGRATE added https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM
+﻿" SSRF（服务端请求伪造）圣经： https://t.co/rBDoc31suF"
+[ Web Security ]  The Genesis of an XSS Worm – Part II : http://brutelogic.com.br/blog/genesis-xss-worm-part-ii/ ,Part I : http://brutelogic.com.br/blog/genesis-xss-worm-part-i/ cc @ brutelogic
+﻿"XSS 蠕虫的成因 Part 2 ︰ https://t.co/oDdLskIvaX  之前推送过的 Part 1︰ https://t.co/nyMfAb06JR "
+[ Web Security ]  My #AppSecEu slides for "From Facepalm to Brain Bender: Exploring Client-Side XSS" are available at https://ben-stock.de/wp-content/uploads/2016/06/owasp2016.pdf
+﻿" Ben Stock 在 AppSec 会议关于客户端 XSS 的演讲： https://t.co/dlUddvhZaC"
+[ Web Security ]  Slides of "Making CSP great again!" presented at #AppSecEU: https://speakerdeck.com/mikispag/making-csp-great-again-michele-spagnuolo-and-lukas-weichselbaum - introducing #strictdynamic and a new way of doing CSP.
+﻿" Making CSP great again，来自 AppSecEU 会议: https://t.co/4HbwhVqVEK "
+[ Web Security ]  Magento – Account Hijacking Vulnerabilities : http://netanelrub.in/2016/07/01/magento-re-installation-account-hijacking-vulnerabilities/
+﻿"Magento 电商系统重安装与帐户劫持漏洞︰ https://t.co/vACklzt3gN"
+[ Web Security ]  Identifying RPO : http://blog.innerht.ml/rpo-gadgets/
+﻿" 寻找 RPO（Relative Path Overwrite） Gadgets: https://t.co/TYAcOsKlNj"
+[ Web Security ]  Slides of my conference on Single Sign On, including lyrics of "Imagine SSOng" http://fr.slideshare.net/coudot/the-wonderful-story-of-web-authentication-and-singlesign-on #rmllsec16 https://t.co/P6M7wKzJA3
+﻿" Web 认证与单点登录的精彩故事： https://t.co/ADQsY4C3G4   https://t.co/P6M7wKzJA3  "
+[ Web Security ]  CSRF Worms https://c0nradsc0rner.wordpress.com/2016/07/04/csrf-worm/
+﻿" Twitter CSRF 蠕虫攻击： https://t.co/SnhcA6Pwjn"
+[ Web Security ]  Cookie Shadow Path Injection : https://c0nradsc0rner.wordpress.com/2016/07/06/cookie-shadow-path-injection/
+﻿" Cookie Shadow Path Injection︰ https://t.co/n9mmsmkVgs"
+[ Web Security ]  Zero-day flaw lets hackers tamper with your car through BMW portal http://goo.gl/fb/9mdTPk #FullDisclosure
+﻿" 宝马门户网站的漏洞可以让黑客篡改车辆信息，来自 ZDNet 的报道： http://www.zdnet.com/article/hackers-can-tamper-with-car-registration-through-bmw-connected-car-portal/ "
+[ Web Security ]  The Genesis of an XSS Worm - Part III (with video) http://brutelogic.com.br/blog/genesis-xss-worm-part-iii/
+﻿" XSS 蠕虫的起源 Part 3： https://t.co/Oqy2zelqS2"
+[ Web Security ]  Extracting Multiple Bits Per Request From Full-blind SQL Injection Vulnerabilities : http://howto.hackallthethings.com/2016/07/extracting-multiple-bits-per-request.html https://t.co/Lt7ZU76Gmy
+﻿" SQL 盲注时，如何在一个请求中提取更多的位信息︰ https://t.co/Sq4Edd22Yh https://t.co/Lt7ZU76Gmy"
+[ Web Security ]  Cross-Site Scripting vulnerability in Profile Builder WordPress Plugin http://goo.gl/fb/eqy64l #FullDisclosure
+﻿" WordPress Profile Builder 插件的 XSS 漏洞，来自 FullDisclosure 公告： https://t.co/n0QiV9VUF3  还有一个 Master Slider 插件的 XSS： http://seclists.org/fulldisclosure/2016/Jul/27 "
+[ Web Security ]  PrincesOfPaypal A security write-up about the Paypal API & data leakage https://github.com/d3f4ultt/PrincesOfPaypal
+﻿"PrincesOfPaypal - 从安全的角度看 Paypal API： https://t.co/ZQUk8JuOuB"
+[ Web Security ]  Drupal contrib - Highly Critical - Remote code execution PSA-2016-001 https://www.drupal.org/psa-2016-001
+﻿"Drupal contrib 远程代码执行漏洞（高危）： https://t.co/igCv83q6pJ  还有一个 REST 服务的高危漏洞： https://threatpost.com/drupal-patches-remote-code-execution-vulnerabilities-in-three-modules/119270/ "
+[ Web Security ]  Drupal Webform Multiple File Upload - Remote code execution https://cxsecurity.com/issue/WLB-2016070137
+﻿"Drupal Webform（表单）多文件上传 RCE 漏洞： https://t.co/C6iperpwOv"
+[ Web Security ]  Lessons learned from an SVG flaw that used JavaScript to serve a persistent XSS https://hackerone.com/blog/Hacktivity-Highlights:-XSS-via-SVG
+﻿" 借助 SVG 实现的 XSS： https://t.co/WFeLUb2eNr "
+[ Web Security ]  Paypal bug bounty: Updating the Paypal.me profile picture without consent (CSRF attack) https://hethical.io/paypal-bug-bounty-updating-the-paypal-me-profile-picture-without-consent-csrf-attack/
+﻿" Paypal Bug Bounty 中（Paypal.me 个人资料图片）的一个 CSRF 漏洞： https://t.co/SUWqGizmCW "
+[ Web Security ]  Stealing Facebook access_tokens using CSRF in device login flow https://www.josipfranjkovic.com/blog/hacking-facebook-csrf-device-login-flow
+﻿"通过设备登录过程中的 CSRF 漏洞窃取 Facebook access_tokens： https://t.co/0bobLfyTtT "
+[ Web Security ]  A practical security guide for web developers : https://github.com/FallibleInc/security-guide-for-developers
+﻿"Web 开发安全实践指南， GitHub Repo︰ https://t.co/woVUG2vW7I"
+[ Web Security ]  Drupal module Coder < 7.x-1.3, 7.x-2.6 RCE exploit (SA-CONTRIB-2016-039) https://gist.github.com/Raz0r/7b7501cb53db70e7d60819f8eb9fcef5
+﻿"Drupal Coder 模块的一个 RCE 漏洞(SA-CONTRIB-2016-039)： https://t.co/fkK9hEDbX9 "
+[ Web Security ]  Exploiting Google Clickjacking Vulnerability to steal user cookies : http://jasminderpalsingh.info/single.php?p=87#.V5LbaWR96tE
+﻿"利用 Google 的点击劫持漏洞，窃取用户 cookie: https://t.co/X18p8LYYGk"
+[ Web Security ]  Could finally publish our article about how we pwned Pornhub. Hint: it involved PHP 0day :) https://www.evonide.com/how-we-broke-php-hacked-pornhub-and-earned-20000-dollar/
+﻿" 我是如何发现 Pornhub 网站漏洞并获得 2 万刀奖励的： https://t.co/SpeU3HGVp6"
+[ Web Security ]  Reflected XSS in LinkedIn http://goo.gl/fb/neVBFK #FullDisclosure
+﻿" LinkedIn 网站反射式 XSS 漏洞，来自 FullDisclosure 公告： https://t.co/V910i0qgx0 "
+[ Web Security ]  Oracle Knowledge Management Forum Attachment Upload Remote Code Execution Vulnerability http://srcincite.io/advisories/src-2016-25/
+﻿"Oracle 知识管理论坛附件上传远程代码执行漏洞，漏洞公告： https://t.co/XeQtoevK20"
+[ Web Security ]  I found 120 bugs in 120 days within bug bounties and wrote a transparent blog post about it: https://shubs.io/high-frequency-security-bug-hunting-120-days-120-bugs/ #bugbounty
+﻿" 研究员 Shubham Shah 是如何在 120 天发现 120 个漏洞的︰ https://t.co/CVoJzJKoGG "
+[ Web Security ]  HSTS on http://www.google.com: https://security.googleblog.com/2016/07/bringing-hsts-to-wwwgooglecom.html
+﻿" www.google.com 站点启用 HSTS: https://t.co/HSZY2yhCOv"
+[ Web Security ]  QRLJacking — How to bypass QR Code Based Login System http://securityaffairs.co/wordpress/49800/hacking/qrljacking-attack.html
+﻿"QRLJacking — 绕过基于二维码的登录系统： https://t.co/uX1r7rtNce  Github Repo： https://github.com/OWASP/QRLJacking/wiki "
+[ Web Security ]  [webapps] - PhpMyAdmin 4.6.2 - Post-Auth Remote Code Execution https://www.exploit-db.com/exploits/40185/
+﻿" PhpMyAdmin 4.6.2 已认证用户远程代码执行漏洞（CVE-2016-5734）： https://t.co/aXVKFQUGaN"
+[ Web Security ]  Multiple vulnerabilities in All In One WP Security & Firewall plugin login… http://goo.gl/fb/qEUmLp #FullDisclosure
+﻿" WordPress 防火墙插件验证码登录存在多个漏洞，来自 FullDisclosure 公告： https://t.co/Q1kuO15K9T "
+[ Web Security ]  XML External Entity Injection Opens Door to Attacks, Theft https://blogs.mcafee.com/mcafee-labs/xml-external-entity-injection-opens-door-attacks-theft/
+﻿"最近 McAfee 监控到了几起 XML 外部实体注入攻击： https://t.co/5xd4blusxe"
+[ Web Security ]  Blind OOB XXE At UBER 26+ Domains Hacked. http://nerdint.blogspot.co.uk/2016/08/blind-oob-xxe-at-uber-26-domains-hacked.html
+﻿" Uber 网站的一个 XXE 漏洞： https://t.co/BvPwQkdv50"
+[ Web Security ]  phpCollab v2.5 CMS - SQL Injection Vulnerability http://goo.gl/fb/nak8x0 #FullDisclosure
+﻿"phpCollab v2.5 CMS SQL 注入漏洞，来自 FullDisclosure 公告： https://t.co/YFNOEPqti6 "
+[ Web Security ]  Found the paper on XS Search Timing Attack (BH 2016) http://u.cs.biu.ac.il/~herzbea/security/15-01-XSSearch.pdf / https://www.blackhat.com/docs/us-16/materials/us-16-Gelernter-Timing-Attacks-Have-Never-Been-So-Practical-Advanced-Cross-Site-Search-Attacks.pdf recommended by @ kiqueNissim
+﻿" 跨站搜索（Cross-Site Search）攻击，来自 BlackHat 会议的一篇演讲： https://t.co/wuXNebXTKk   作者在 2015 年曾经发表过一篇与此有关的 Paper： http://u.cs.biu.ac.il/~herzbea/security/15-01-XSSearch.pdf  "
+[ Web Security ]  Instagram Stored OAuth XSS - http://www.paulosyibelo.com/2016/08/instagram-stored-oauth-xss.html #bugbounty
+﻿"Instagram OAuth 认证 API 存储型 XSS： https://t.co/7h27KcdRpB "
+[ Web Security ]  State-Of-The-Art OAuth2 Homakov Edition - http://www.oauthsecurity.com/
+﻿" OAuth2 安全手册，一个专门关注 OAuth 安全的网站： https://t.co/RB4wTDqvV3"
+[ Web Security ]  Stored Cross-Site Scripting vulnerability in Photo Gallery WordPress Plugin http://goo.gl/fb/ek85ci #FullDisclosure
+﻿" WordPress Photo Gallery 插件的存储型 XSS 漏洞，来自 FullDisclosure 公告： https://t.co/M7E8Z90SBn "
+[ Web Security ]  RCE: Race to Code Execution - Finally wrote up details of the Drupal Coder RCE I found! http://blog.nickbloor.co.uk/2016/08/drupal-coder-module-unauthenticated.html CC @ mdisec
+﻿" Drupal Coder 模块一个未授权用户的 RCE 漏洞： https://t.co/uDianEigXV "
+[ Web Security ]  The Mozilla Observatory is handy for spot-checking common web server configuration issues: https://observatory.mozilla.org
+﻿" Mozilla Observatory - Web 服务器安全配置在线扫描工具︰ https://t.co/oPZXJ6HZBa"
+[ Web Security ]  New blog post: Floating Domains – Taking Over 20K DigitalOcean Domains via a Lax Domain Import System https://thehackerblog.com/floating-domains-taking-over-20k-digitalocean-domains-via-a-lax-domain-import-system/index.html
+﻿" 通过宽松的域名导入系统，搞定 20000 DigitalOcean 的域名： https://t.co/vmCXdhotNr"
+[ Web Security ]  The Easiest Way to Bypass XSS Mitigations http://brutelogic.com.br/blog/the-easiest-way-to-bypass-xss-mitigations/
+﻿" Bypass Sucuri 的 XSS 缓解防护： https://t.co/nIDK7thDrc"
+[ Web Security ]  Releasing long-awaited "Breaking Great Wall of Web - New XSS Evasion Cheatsheet" < RT Pls http://www.rafayhackingarticles.net/2016/09/breaking-great-wall-of-web-xss-waf.html #XSS #WAF
+﻿" WAF 的 XSS 防护逃逸手册： https://t.co/0uEwocChMs   http://sh3ifu.com/Breaking-The-Great-Wall-Of-Web-Rafay-Baloch.pdf "
+[ Web Security ]  OLX disclosed a bug submitted by exception: https://hackerone.com/reports/158872 #hackerone #bugbounty https://t.co/JBpf3sYm0M
+﻿" 最大的信息分类网站 OLX 被发现了一个任意账户删除漏洞 : https://t.co/2NdPzdyXto  "
+[ Web Security ]  Using Chrome's web-custom-data UTI to inject a stored XSS in Slack https://labs.detectify.com/2016/09/01/using-chromes-web-custom-data-uti-to-inject-a-stored-xss-in-slack/
+﻿" 利用 Chrome web-custom-data UTI 向 Slack 中注入存储型 XSS： https://t.co/fn51FuomFW "
+[ Web Security ]  Introducing ‘XSS Payloads’ repository: Cross Site Scripting doesn’t have to be boring - https://labs.nettitude.com/blog/cross-site-scripting-doesnt-have-to-be-boring/
+﻿" Nettitude 团队分享了一些 XSS Payloads： https://t.co/5NYw66M0pK   https://github.com/nettitude/xss_payloads "
+[ Web Security ]  G'day #HITBGSEC! We pay you $200,000 USD for a RCE on Microsoft Outlook web page. Details at https://www.zeronomi.com/campaigns.html #exploit #0day #CommSec
+﻿" Zeronomicon 愿意支付 20 万美元购买 Outlook Web 版本（OWA） 的 RCE 漏洞： https://t.co/IbG7rs50wt "
+[ Web Security ]  How I hacked your CFP http://haxx.ml/post/149975211631/how-i-hacked-your-cfp-and-probably-some-other
+﻿"我是如何黑掉你的 CFP（会议提交系统）的： https://t.co/oUXIIczBK5"
+[ Web Security ]  Hunting HTML5 postMessage Vulnerabilities : https://www.exploit-db.com/docs/40287.pdf (pdf)
+﻿"Hunting HTML5 postMessage Vulnerabilities，HTML 5 提供了两种跨站通信的方法：postMessage 和 CORS︰ https://t.co/sMddKMYI7k "
+[ Web Security ]  XSS found on http://www.google.fr http://goo.gl/fb/MCDeD3 #FullDisclosure
+﻿" www.google.fr 站点的一枚 XSS： https://t.co/Atle1o2gGM "
+[ Web Security ]  Facebook Page Takeover (0-Day Vulnerability worth 16,000$ bug bounty): http://arunsureshkumar.me/index.php/2016/09/16/facebook-page-takeover-zero-day-vulnerability/
+﻿"Facebook Page Takeover （值 16000 美刀的 0Day）︰ https://t.co/17xjNLn45R"
+[ Web Security ]  Combination of techniques lead to #DOM Based #XSS in #Google. http://sasi2103.blogspot.co.il/2016/09/combination-of-techniques-lead-to-dom.html #VRP #XSS #Google //cc:@ sirdarckcat
+﻿"几种技术组合在一起形成的 DOM XSS（Google）： https://t.co/tqt3nbRNJX "
+[ Web Security ]  The SSRF vulnerability. Port scanning, RFI and of course, a shell! http://resources.infosecinstitute.com/the-ssrf-vulnerability/ #ssrf
+﻿"关于 SSRF 攻击的介绍讲解： https://t.co/glXvYrQk5Z"
+[ Web Security ]  .@ Drupal Patches Three Vulnerabilities in Core Engine: https://threatpost.com/drupal-patches-three-vulnerabilities-in-core-engine/120816/ via @ threatpost
+﻿"Drupal 修复了其内核中的三个漏洞，其中两个为严重级别：  https://t.co/cqaozP0hHy"
+[ Web Security ]  A curated list of resources for learning about application security https://github.com/paragonie/awesome-appsec
+﻿" 应用安全相关的学习资料，包括书、网站：  https://t.co/KsBROXJvvb ;"
+[ Web Security ]  Drupal 8 配置文件下载漏洞分析： http://blog.knownsec.com/2016/09/drupal-8-config-download/
+[ Web Security ]  Wordpress <= 4.6.1 使用主题文件触发存储型XSS 漏洞分析： http://paper.seebug.org/62/
+[ Web Security ]  Javascript Leads to Browser Hijacking http://www.kahusecurity.com/2016/javascript-leads-to-browser-hijacking/
+﻿"Javascript 借助 wscript.exe 实现的浏览器首页劫持： https://t.co/UCmkSv0WFS"
+[ Web Security ]  Wordpress <= 4.6.1 使用语言文件任意代码执行 漏洞分析: http://paper.seebug.org/63/
+[ Web Security ]  细数那些鲜为人知的后缀名隐藏技巧： http://www.mottoin.com/90109.html
+[ Web Security ]  Whitelabel RCE insights: http://secalert.net/cve-2016-4977.html
+﻿" Pivotal Spring Security OAuth 组件的 RCE 漏洞（CVE-2016-4977）︰ https://t.co/hscdS2d28L"
+[ Web Security ]  Published the Net Cease tool to help admins to harden their environments against malicious net sessions scans… https://t.co/fineC6RNfw
+﻿"Net Cease -- 一个用于防止恶意网络会话扫描的工具:   https://gallery.technet.microsoft.com/Net-Cease-Blocking-Net-1e8dcb5b "
+[ Web Security ]  Wordpress Hardening Guide https://github.com/ernw/hardening/blob/master/web_application/wordpress/4.4.2/ERNW_Wordpress_Hardening.md
+﻿"Wordpress 安全性加固指南： https://github.com/ernw/hardening/blob/master/web_application/wordpress/4.4.2/ERNW_Wordpress_Hardening.md"
+[ Web Security ]  'DealersChoice’ is Sofacy’s Flash Player Exploit Platform - http://researchcenter.paloaltonetworks.com/2016/10/unit42-dealerschoice-sofacys-flash-player-exploit-platform/
+﻿"‘DealersChoice’ is Sofacy’s Flash Player Exploit Platform：  http://researchcenter.paloaltonetworks.com/2016/10/unit42-dealerschoice-sofacys-flash-player-exploit-platform"
+[ Web Security ]  Spring Security OAuth RCE (CVE-2016-4977) 漏洞分析： http://paper.seebug.org/70/
+[ Web Security ]  CSP 的今世与未来： http://weibo.com/ttarticle/p/show?id=2309404031917065427457
+[ Web Security ]  Slack Access Control Bypass ($9k) http://secalert.net/slack-security-bug-bounty.html
+﻿" Slack Bug Bounty 中一个 9000 刀的漏洞分析： https://t.co/NHm5zBZDsX"
+[ Web Security ]  https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter nice chained bug! #xss #openredirect #google #vrp #bugbounty
+﻿"  关于 Open redirects 的讨论，有人认为它不算漏洞，但它又可以辅助其他漏洞实现利用： https://t.co/ZwKjbuZxS0 "
+[ Web Security ]  Chaining queries to execute SQL as SYS from SQL injection in web apps built on eBusiness Suite http://www.davidlitchfield.com/oracle-apps-to-sys.pdf
+﻿"在甲骨文 eBusiness Suite 应用中以 sys 权限执行 SQL 语句的几种方法[paper]： http://www.davidlitchfield.com/oracle-apps-to-sys.pdf "
+[ Web Security ]  http://securityaffairs.co/wordpress/52468/hacking/jja-k2-filter-search-joomla.html
+﻿" Joomla ja-k2-filter-and-search 组件的 SQL 注入漏洞： https://t.co/vjn6sTBUyj"
+[ Web Security ]  Everything You Need to Know About Certificate Pinning : https://2016.appsec.eu/wp-content/uploads/2016/07/AppSecEU2016-John-Kozyrakis-Certificate-Pinning.pdf by @ ikoz
+﻿"来自2016 AppSecEU 大会议题： 关于证书锁定你需要知道的方方面面： https://t.co/Et3slZyTa2"
+[ Web Security ]  How I bypassed Paypal Two Factor Auth in less than 5 minutes: https://henryhoggard.co.uk/blog/Paypal-2FA-Bypass
+﻿"我是如何在 5 分钟内绕过 Paypal 的双因素身份验证的︰ https://t.co/eoqulgwj33"
+[ Web Security ]  Combining host header injection and lax host parsing serving malicious data : https://labs.detectify.com/2016/10/24/combining-host-header-injection-and-lax-host-parsing-serving-malicious-data/
+﻿"通过修改Header中host的地址可绕过IE、Edge 浏览器的 SOP︰ https://t.co/KICYN5qVAt"
+[ Web Security ]  Joomla Vuls analysis by p0wd3r of Knownsec 404 Security Team CVE-2016-8869 http://paper.seebug.org/88/ CVE-2016-8870 https://t.co/aUKS3nX1NH
+﻿" Joomla 未授权创建特权用户漏洞（CVE-2016-8869）分析： https://t.co/Gka9xorm2q   Joomla 未授权创建用户漏洞（CVE-2016-8870）分析： https://t.co/aUKS3nX1NH "
+[ Web Security ]  Google Spreadsheet Vuln - CSRF and JSON Hijacking allows data theft : https://www.rodneybeede.com/Google_Spreadsheet_Vuln_-_CSRF_and_JSON_Hijacking_allows_data_theft.html
+﻿"Google 的在线电子表格存在 CSRF 和 JSON 劫持漏洞，利用该漏洞可以窃取数据︰ https://t.co/GrjLHLG64G"
+[ Web Security ]  Joomla exploit, drops PHP shell too https://github.com/XiphosResearch/exploits/tree/master/Joomraa (cc @ danielcid @ showthread )
+﻿" 近两天公开的 Joomla 3.4.4 - 3.6.4 (CVE-2016-8869/8870) 漏洞的 Exploit： https://t.co/4dzPEHTgHV "
+[ Web Security ]  Joomla – From No One to the Highest Privilege https://blog.fortinet.com/2016/10/27/joomla-from-no-one-to-the-highest-privilege
+﻿"Joomla — 从啥也不是到最高特权，来自 Fortinet： https://t.co/fnJ7IMQobo  来自 Sucuri 对野外 Joomla Exploits 攻击的情况的监测： https://blog.sucuri.net/2016/10/joomla-mass-exploits-privilege-vulnerability.html "
+[ Web Security ]  Web application for detecting server-side request forgery : https://ssrfdetector.com/
+﻿" SSRF Detector︰ https://t.co/i9OGfw8TW3"
+[ Web Security ]  XSS dynamic detection using PhantomJs（利用 PhantomJs 动态检测 XSS）： http://paper.seebug.org/93/?from=groupmessage&isappinstalled=0
+[ Web Security ]  解析create_function() && 复现wp: http://paper.seebug.org/94/
+[ Web Security ]  Sparkjava Framework - Arbitrary File Read Vulnerability https://goo.gl/fb/rjCn3y #FullDisclosure
+﻿"Java web 框架 Spark 存在任意文件读漏洞： https://t.co/TNoJb3Sycn "
+[ Web Security ]  从XSSer的角度测试上传文件功能： https://xianzhi.aliyun.com/forum/read/224.html
+[ Web Security ]  Bypass Imperva by confusing HTTP Pollution Normalization Engine https://goo.gl/fb/7eZvQY #FullDisclosure
+﻿"可通过特殊的 HTTP 参数绕过 Imperva： https://t.co/A8RCGG1gkf "
+[ Web Security ]  Introducing FlyWeb https://flyweb.github.io/posts/2016/11/01/introducing-flyweb.html
+﻿" FlyWeb - 将本地的文件和服务暴露给附近浏览器的一个库： https://t.co/z8vor5gLGU"
+[ Web Security ]  Gmail Account Hijacking Vulnerability http://blog.securityfuse.com/2016/11/gmail-account-hijacking-vulnerability.html
+﻿"Gmail 帐户劫持漏洞： https://t.co/krVgL8M0wi"
+[ Web Security ]  HeadlessBrowsers : A list of (almost) all headless web browsers in existence : https://github.com/dhamaniasad/HeadlessBrowsers
+﻿"HeadlessBrowsers : A list of (almost) all headless web browsers in existenc ︰ https://t.co/ciujN858dh"
+[ Web Security ]  OAuth2.0部署不当，数十亿Android App账户存泄露风险 : http://www.freebuf.com/news/119308.html
+[ Web Security ]  Exploiting Python Code Injection in Web Applications http://sethsec.blogspot.com/2016/11/exploiting-python-code-injection-in-web.html
+﻿"利用 Python 代码实现 web 应用的注入： https://t.co/nEwL7ZsvUA"
+[ Web Security ]  利用服务端请求伪造（SSRF）攻击进入内网： http://www.mottoin.com/91641.html
+[ Web Security ]  SQLite as a Shell Script : https://www.invincealabs.com/blog/2016/11/sqlite-shell-script/ , SQLite3 Injection Cheat Sheet : http://atta.cked.me/home/sqlite3injectioncheatsheet
+﻿"将 SQLite 作为一个 Shell 脚本︰ https://t.co/XnfKd8Uxn3  SQLite3 注入速查表︰ https://t.co/zKyyWdU06j"
+[ Web Security ]  Sparkjava Framework 文件遍历漏洞(CVE-2016-9177)分析与探究： http://paper.seebug.org/115/
+[ Web Security ]  我的WafBypass之道（SQL注入篇）： https://xianzhi.aliyun.com/forum/read/349.html
+[ Web Security ]  Winmail最新直达webshell 0day漏洞挖掘实录： http://www.91ri.org/16519.html
+[ Web Security ]  同源方法执行漏洞挖掘： http://www.mottoin.com/91299.html
+[ Web Security ]  Nginx权限提升漏洞（CVE-2016-1247 ）分析： http://paper.seebug.org/122/
+[ Web Security ]  Ultimate Xss Payload https://84692bb0df6f30fc0687-25dde2f20b8e8c1bda75aeb96f737eae.ssl.cf1.rackcdn.com/--xss.html
+﻿"XSS 攻击向量收集列表： https://t.co/Cz5pfn26zB"
+[ Web Security ]  Feigong -- 针对各种情况自由变化的mysql注入脚本： https://github.com/LoRexxar/Feigong
+[ Web Security ]  php一句话后门过狗姿势万千之后门构造与隐藏： http://wiki.ioin.in/post/group/WJ1
+[ Web Security ]  当代 Web 的 JSON 劫持技巧：http://paper.seebug.org/130/
+[ Web Security ]  我的WafBypass之道（upload篇）： https://xianzhi.aliyun.com/forum/read/458.html
+[ Web Security ]  HTTP/2 : In-depth analysis of the top four flaws of the next generation web protocol : https://www.imperva.com/docs/Imperva_HII_HTTP2.pdf (pdf)
+﻿"HTTP/2︰ 深入分析下一代 web 协议的四大缺陷（PDF）︰ https://t.co/XlAYkdQFs6 "
+[ Web Security ]  Bypassing CSP using polyglot JPEGs : http://blog.portswigger.net/2016/12/bypassing-csp-using-polyglot-jpegs.html cc: @ garethheyes
+﻿"利用精心构造的 JPEG 绕过 CSP: https://t.co/YbcFrWXwpU"
+[ Web Security ]  CVE-2016-8740, Server memory can be exhausted and service denied when HTTP… https://goo.gl/fb/medG1g #FullDisclosure
+﻿"CVE-2016-8740 Apache HTTPD web server： https://t.co/UZQSxA0NmV "
+[ Web Security ]  [终端安全]某云pc客户端命令执行挖掘过程: https://xianzhi.aliyun.com/forum/read/505.html
+[ Web Security ]  webshell研究文章汇总 ： https://dfir.it/
+[ Web Security ]  postMessage XSS on a million sites https://labs.detectify.com/2016/12/15/postmessage-xss-on-a-million-sites/
+﻿"AddThis widget 因调用 postMessage API 而导致上百万网站存在 XSS 漏洞： https://t.co/pXooYm8N5X"
+[ Web Security ]  浅谈json参数解析对waf绕过的影响： https://xianzhi.aliyun.com/forum/read/553.html
+[ Web Security ]  Covert persistence in Express.js applications https://medium.com/@ micaksica/covert-persistence-in-express-js-applications-1054f8e55e61
+﻿"在 Express.js 应用中实现持久化控制： https://t.co/WFlcOZqaEL"
+[ Web Security ]  SQL Attack (Constraint-based) : https://dhavalkapil.com/blogs/SQL-Attack-Constraint-Based/
+﻿"SQL 注入攻击技巧：对数据长度限制加以利用︰ https://t.co/CxYLqAhUT2"
+[ Web Security ]  Exploiting difficult SQL injection vulnerabilities using sqlmap (Part 1) : http://www.thegreycorner.com/2017/01/exploiting-difficult-sql-injection.html
+﻿"使用 sqlmap 对复杂的 SQL 漏洞进行利用(Part 1): https://t.co/JRObxeTiuV"
+[ Web Security ]  Remote Exploit - Shellcode without Sockets : https://0x00sec.org/t/remote-exploit-shellcode-without-sockets/1440
+﻿"Remote Exploit - Shellcode without Sockets︰ https://t.co/XfrXY5XjR7"
+[ Web Security ]  Web Application Penetration Testing : Local File Inclusion (LFI) Testing Techniques : https://www.exploit-db.com/docs/40992.pdf (pdf) https://t.co/DPkJm8hLg1
+﻿"PHP 本地包含漏洞测试技巧︰ https://t.co/u2GNTQVH0n "
+[ Web Security ]  Damn Vulnerable Web Sockets - vulnerable web application which works on web sockets for client-server communication: https://github.com/interference-security/DVWS
+﻿" DVWS --针对 Web Sockets 的 web 应用安全测试实验环境︰ https://t.co/agF4QSgg3I"
+[ Web Security ]  [LABS] New write-up by @ avlidienbrunn: CSP Flaws: cookie fixation http://labs.detectify.com/2017/01/12/csp-flaws-cookie-fixation/ https://t.co/OQqzNr5mGh
+﻿" CSP 缺陷：cookie fixation： https://t.co/hG6wd8SUWx"
+[ Web Security ]  Stealing passwords from McDonald's users through an AngularJS sandbox escape. https://finnwea.com/blog/stealing-passwords-from-mcdonalds-users https://t.co/oiNYP86A6r
+﻿"McDonald 网站 AngularJS 沙箱被绕过，导致用户数据被窃 ： https://t.co/googLE2Ez5 https://t.co/oiNYP86A6r"
+[ Web Security ]  Finally, my research on "Evading All Web-Application Firewalls XSS Filters" is released. http://blog.mazinahmed.net/2015/09/evading-all-web-application-firewalls.html
+﻿"绕过所有 WAF 的 XSS 过滤器： http://t.co/fenknveq0V"
+[ Web Security ]  Destoon 6.0 guestbook.php 通用SQL注入漏洞： https://www.leavesongs.com/PENETRATION/destoon-v6-0-sql-injection.html
+[ Web Security ]  Practical JSONP Injection https://securitycafe.ro/2017/01/18/practical-jsonp-injection/
+﻿"JSONP 注入实战： https://t.co/QqFLCFnhbG"
+[ Web Security ]  eval长度限制绕过 && PHP5.6新特性： https://www.leavesongs.com/PHP/bypass-eval-length-restrict.html
+[ Web Security ]  用SQL注入穿IE沙箱： http://xlab.tencent.com/cn/2017/01/19/ie-sandbox-escape-with-sql-injection/
+[ Web Security ]  DNS data exfiltration from sql injection http://goo.gl/VL1mlU
+﻿"利用 DNS 在 SQL 注入中传输数据： https://t.co/1nQINr2lDi"
+[ Web Security ]  CVE-2016-9838 - Joomla! Account Takeover and RCE writeup https://www.ambionics.io/blog/cve-2016-9838-joomla-account-takeover-and-remote-code-execution
+﻿"Joomla CVE-2016-9838 用户提权漏洞的分析： https://t.co/9zjcCXaSRj"
+[ Web Security ]  Google to Block .js Attachments in Gmail https://threatpost.com/google-to-block-js-attachments-in-gmail/123367/
+﻿"Google 将禁止在 Gmail 中添加 .js 附件： https://t.co/FLK7tkxp56"
+[ Web Security ]  0day writeup : XXE in http://uber.com : https://httpsonly.blogspot.in/2017/01/0day-writeup-xxe-in-ubercom.html?m=1 https://t.co/QQB9tL2Qou
+﻿" uber.com 的 XXE 0day Writeup: https://t.co/OeapZzxe1q https://t.co/QQB9tL2Qou"
+[ Web Security ]  Blocking online password guessing attacks when faced with a 13,000 node botnet https://blogs.akamai.com/2017/01/improving-credential-abuse-threat-mitigation.html
+﻿" 如何应对在线系统中的密码猜测行为，尤其是当面对的是 13,000 个僵尸网络节点时： https://t.co/NzdEgW7t3T"
+[ Web Security ]  5 ways to File upload vulnerability Exploitation http://www.hackingarticles.in/5-ways-file-upload-vulnerability-exploitation/
+﻿"文件上传漏洞的 5 种利用方法： https://t.co/Sh9YefxaVO"
+[ Web Security ]  Time to patch your Jenkins again: https://wiki.jenkins-ci.org/display/SECURITY/Jenkins+Security+Advisory+2017-02-01
+﻿"Java jenkins 2 月份的安全公告︰ https://t.co/hDPLRlL32s"
+[ Web Security ]  Silent fix to REST API content injection vuln #WordPress: https://threatpost.com/wordpress-silently-fixed-privilege-escalation-vulnerability-in-4-72-update/123533/ via @ threatpost
+﻿" 上周 WordPress 发布 4.7.2 版本，该版本悄悄地修复了一个 REST API 内容注入漏洞： https://t.co/bDSagMjI4c ; 有研究员写了一个简单的 Exploit： http://www.vapidlabs.com/exploits/wordpress_exploit.sh.txt  还有一篇相关文章： https://blogs.akamai.com/2017/02/wordpress-web-api-vulnerability.html "
+[ Web Security ]  New blogpost by @ jstnkndy on abusing Type Juggling and PHP Object Injection to gain SQLi https://foxglovesecurity.com/2017/02/07/type-juggling-and-php-object-injection-and-sqli-oh-my/
+﻿"PHP 测试：弱类型利用+对象注入=SQL注入: https://t.co/1Sb11WvvCU "
+[ Web Security ]  Remote Command Execution via Apache Struts OGNL Expression Injection https://techblog.mediaservice.net/2016/10/exploiting-ognl-injection/
+﻿"Apache Struts OGNL 表达式注入实现远程命令执行: https://t.co/X4oYi5LZzj"
+[ Web Security ]  Nice ! Turning self-XSS into good-XSS part 2 by @ emgeekboy http://bit.ly/2k65bRK
+﻿"AirBnb Bug Bounty：将 self-XSS 转化为 XSS Part 2： https://t.co/Y6CoVJMY6G"
+[ Web Security ]  Attacking JavaScript Web Service Proxies with Burp - https://blog.netspi.com/attacking-javascript-web-service-proxies-burp/
+﻿"使用 BurpSuite 攻击 JS Web Service ： https://t.co/7KMtWJ6rmc"
+[ Web Security ]  5 ways to Exploit LFi Vulnerability http://www.hackingarticles.in/5-ways-exploit-lfi-vulnerability/
+﻿"LFi（本地文件包含）漏洞利用的五种方法： https://t.co/g3upf78P73 "
+[ Web Security ]  How SSL affects search rankings https://blog.detectify.com/2017/02/15/ssl-search-rankings/
+﻿"网站启用 SSL 会提高在 Google 中的搜索排名： https://t.co/Q5600Ub0r6"
+[ Web Security ]  Exploiting SQL Injection when database is SQLIte : https://www.exploit-db.com/docs/41397.pdf (pdf)
+﻿"SQLite 注入手册︰ https://t.co/Dy0qFOD10p "
+[ Web Security ]  来自小密圈里的那些奇技淫巧 : https://drive.google.com/file/d/0B4uxE69uafD5RHF5Z2U3dmRsaU0/view
+[ Web Security ]  MySQL Out-of-Band Hacking : https://osandamalith.com/2017/02/03/mysql-out-of-band-hacking/ , Pdf : https://www.exploit-db.com/docs/41273.pdf cc @ OsandaMalith https://t.co/YKoCiY8uz7
+﻿"MySQL Out-of-Band 注入攻击︰ Pdf https://t.co/T2hRZHt1DP"
+[ Web Security ]  SQL injection in an UPDATE query - a bug bounty story! http://zombiehelp54.blogspot.ro/2017/02/sql-injection-in-update-query-bug.html
+﻿"UPDATE 查询中的 SQL 注入 - Bug Bounty 故事： https://t.co/CqkTdRjEmp"
+[ Web Security ]  Same-Origin Policy, CSRF and Cross-Origin Resource Sharing (CORS) https://mo.github.io/2017/02/20/cross-origin-resource-sharing.html
+﻿"同源策略、 CSRF 和跨域资源共享 (CORS)： https://t.co/8rrKeo5wdD"
+[ Web Security ]  Privilege Escalation in Amazon Web Services. https://blog.cloudsploit.com/privilege-escalation-in-amazon-web-services-cb4837365958#.6y1uzyxlq
+﻿" 亚马逊 Web 服务中的提权： https://t.co/xrj4x90kpJ"
+[ Web Security ]  How I could Steal Your Google Bug Hunter Account with Two Clicks in IE : http://ngailong.com/how-i-could-steal-your-google-bug-hunter-account-with-two-clicks-in-ie/ cc @ ngalongc
+﻿"通过 IE 浏览器的两次点击，我就可以偷到你 Google Bug Hunter 的账户信息︰ https://t.co/MWwMPuKePX "
+[ Web Security ]  Web Service Hacking https://www.soapui.org/soap-and-wsdl/tips---tricks/web-service-hacking.html
+﻿"10 个测试 Web Service 登录的技巧： https://t.co/OFfokrqlKE"
+[ Web Security ]  Using Burp Macros and Sqlmap to exploit SQL injection with CSRF protection https://www.cyberis.co.uk/burp_macros.html
+﻿"为 BurpSuite 创建宏的教程，结合 BurpSuite 宏与 Sqlmap 来对存在 CSRF 防御的 SQL 注入漏洞进行利用： https://t.co/Xeoc4bnsOG"
+[ Web Security ]  Mastering HTTP Caching - from request to response and everything : https://blog.fortrabbit.com/mastering-http-caching
+﻿"掌握 HTTP 缓存技术-从请求到响应 ︰ https://t.co/YnO6Di4ofW"
+[ Web Security ]  Web客户端追踪（上）—Cookie追踪: http://paper.seebug.org/227/ Web客户端追踪（下）—浏览器指纹追踪: http://paper.seebug.org/229/
+[ Web Security ]  HTML5 Security Cheatsheet ： https://github.com/cure53/H5SC
+[ Web Security ]  Web Cache Deception attack: A new web attack vector, PayPal and others are vulnerable http://omergil.blogspot.co.il/2017/02/web-cache-deception-attack.html https://t.co/WjM6HIaEXf
+﻿"Web 缓存欺骗攻击： https://t.co/wEmMur6t1u https://t.co/WjM6HIaEXf"
+[ Web Security ]  Children’s Voice Messages Leaked in #CloudPets Database Breach: https://threatpost.com/childrens-voice-messages-leaked-in-cloudpets-database-breach/123956/ via @ threatpost
+﻿"CloudPets 数据库泄漏用户数据： https://t.co/TNWAdbCjTH"
+[ Web Security ]  隐匿的攻击之-Domain Fronting： http://www.4hou.com/technology/3515.html
+[ Web Security ]  Hacking Slack using postMessage and WebSocket-reconnect to steal your precious token : https://labs.detectify.com/2017/02/28/hacking-slack-using-postmessage-and-websocket-reconnect-to-steal-your-precious-token/ cc… https://twitter.com/i/web/status/836779481532616704
+﻿"利用 postMessage 和 WebSocket 重连窃取 Slack 的 token︰ https://t.co/xy4EqQeMiU "
+[ Web Security ]  OWASP 发布的 XSS Filter 逃逸手册，每种方法都附有示例代码： https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
+[ Web Security ]  When Bypassing JSON Encoding, XSS Filter, WAF, CSP, and Auditor turns into 8 Vulnerabilities on @Airbnb w/@bbuerhaus https://t.co/A9H7lDbG2J
+﻿"研究员 Brett Buerhaus 发现了 Airbnb 的一个跨站脚本漏洞，而且最后利用该漏洞实现了 Bypass JSON encoding, XSS filter, WAF, CSP ，同时可以 Bypass Chrome 的 XSS Auditor ： https://t.co/A9H7lDbG2J"
+[ Web Security ]  CSRF Tutorial For Begineers in DVWA http://www.hackingarticles.in/csrf-tutorial-begineers-dvwa/
+﻿"针对新手的 DVWA CSRF漏洞利用教程： https://t.co/axgj82Etez "
+[ Web Security ]  Rails SQL injection cheat sheet - https://rorsecurity.info/portfolio/ruby-on-rails-sql-injection-cheat-sheet
+﻿"Rails SQL 注入备忘： https://t.co/HdgJO5HzRm"
+[ Web Security ]  XSSJacking : Abusing Self-XSS and Clickjacking to trigger XSS : https://github.com/dxa4481/XSSJacking
+﻿"XSSJacking 之结合点击劫持与 Self-XSS 以触发 XSS 攻击示例： https://t.co/hlggFj81V4"
+[ Web Security ]  SOP bypass/ UXSS on IE – More Adventures in a Domainless World - about:blank： https://www.brokenbrowser.com/uxss-ie-domainless-world/
+[ Web Security ]  本屌的web漏洞扫描器思路 技巧总结（域名信息收集篇）： http://weibo.com/ttarticle/p/show?id=2309404088584863883789
+[ Web Security ]  CORS — a guided tour : Cross-origin resource sharing : https://medium.com/statuscode/cors-a-guided-tour-4e72230a8739#.mswz0ka0u cc @ g33konaut
+﻿" CORS 跨源资源共享教程︰ https://t.co/OqaeNBNZii "
+[ Web Security ]  WAF 是时候和正则表达式： http://weibo.com/5261507198/EBQCjyBHa
+[ Web Security ]  Apache struts 2（CVE-2017-5638）的'贡献' - 从 DDoS 到服务器勒索软件： https://f5.com/labs/articles/threat-intelligence/malware/from-ddos-to-server-ransomware-apache-struts-2-cve-2017-5638-campaign-25922
+[ Web Security ]  An In-Depth Analysis (code review, alt. attack vector) of the Struts RCE Vulnerability CVE-2017-5638 https://blog.gdssecurity.com/labs/2017/3/27/an-analysis-of-cve-2017-5638.html
+﻿"struts S2-045 漏洞的深度分析（CVE-2017-5638）： https://t.co/T277FZseFv "
+[ Web Security ]  A large XSS payloads set. #infosec #Pentesting ⬇⬇⬇ https://sql--injection.blogspot.com.tr/p/blog-page_80.html?m=1
+﻿" XSS Payload 收集（约有 1500 左右）： https://t.co/a5jJ64FiBr"
+[ Web Security ]  WordPress Security – Unwanted Redirects via Infected JavaScript Files https://blog.sucuri.net/2017/04/wordpress-security-unwanted-redirects-via-infected-javascript-files.html
+﻿"详细分析 WordPress 网站 JS 文件恶意代码的植入流程： https://t.co/1GF1Oo6Hri"
+[ Web Security ]  Owasp top 10 2017 Release - The top 10 Most critical web application Security Risks : https://github.com/OWASP/Top10/raw/master/2017/OWASP%20Top%2010%20-%202017%20RC1-English.pdf (pdf)
+﻿"OWASP Top 10 2017 发布︰ https://t.co/zce5kSyfSx "
+[ Web Security ]  Cross-site (and cross-device!!) side channel to identify Netflix/Youtube videos using deep learning: https://t.co/AgKLkRszZ2 @RoeiSchuster
+﻿"不接触用户，远程泄露用户在看的视频信息，比如 Netflix、 Youtube。只要求用户（甚至是局域网其他用户）访问过攻击者特殊构造的网站︰ https://t.co/AgKLkRszZ2 "
+[ Web Security ]  Pwning PHP mail() function For Fun And RCE : https://exploitbox.io/paper/Pwning-PHP-Mail-Function-For-Fun-And-RCE.html
+针对 PHP mail() 函数的攻击方式与利用案例： https://exploitbox.io/paper/Pwning-PHP-Mail-Function-For-Fun-And-RCE.html
+[ Web Security ]  The slides for our (@kkotowicz, @sirdarckcat and my) talk about breaking XSS mitigations from @AppSecEU: https://t.co/qonErsWFMM #ROPXSS
+" 通过 Script Gadgets 绕过常用 XSS 缓解技术，来自 AppSecEU 2017： http://sebastian-lekies.de/slides/appsec2017.pdf "
+[ Web Security ]  I just published “How to bypass libinjection in many WAF/NGWAF” https://medium.com/p/how-to-bypass-libinjection-in-many-waf-ngwaf-1e2513453c0f
+"  绕过 libinjection 对 SQL 注入的检测： https://medium.com/@d0znpp/how-to-bypass-libinjection-in-many-waf-ngwaf-1e2513453c0f "
+[ Web Security ]  The 5k Error Page, Google bug bounty https://slashcrypto.org/2017/05/17/5k_Error_Page/
+" 价值 5000 刀的 404 错误页面 - 一不小心开启了调试输出模式，来自 Google Bug Bounty 项目： https://t.co/AE9SRD8bFz "
+[ Web Security ]  From Serialized to Shell :: Exploiting Google Web Toolkit with EL Injection http://srcincite.io/blog/2017/05/22/from-serialized-to-shell-auditing-google-web-toolkit-with-el-injection.html #MotivationMondays
+" 从序列化漏洞到弹计算器 - 利用 EL 表达式注入漏洞攻击 Google Web Toolkit。 Google Web Toolkit 是一个前端使用JavaScript，后端使用 Java 的 Web AJAX 框架： http://srcincite.io/blog/2017/05/22/from-serialized-to-shell-auditing-google-web-toolkit-with-el-injection.html #MotivationMondays "
+[ Web Security ]  Identifier based XSSI attacks : http://www.mbsd.jp/Whitepaper/xssi.pdf (wp/pdf)
+" XSSI 攻击技术白皮书： https://t.co/neE3tW2WIP "
+[ Web Security ]  Beginner Guide of SQL Injection (Part 1) http://www.hackingarticles.in/beginner-guide-sql-injection-part-1/
+" SQL注入新手教程 第1部分： https://t.co/yYy9RcwGaU "
+[ Web Security ]  Joomla 3.x 版本，滥用管理员功能上传 Shell 的 PoC： https://packetstormsecurity.com/files/142731/shell-joomla.py.txt
+[ Web Security ]  Shopify shop 电商平台 postMessage listener XSS 漏洞，该漏洞被奖励了 3000 美金： https://hackerone.com/reports/231053
+[ Web Security ]  WAF Bypass at PHDays VII: Results and Answers： http://blog.ptsecurity.com/2017/06/waf-bypass-at-phdays-vii-results-and.html
+[ Web Security ]   以 Wordpress、Joomla、Drupal 为例演示了从 XSS 到 RCE ： https://t.co/zmCiGtgMtx
+[ Web Security ]  利用 dashboard 页面的一个 js 文件绕过认证： https://t.co/zYa52L3omU
+[ Web Security ]  三个案例看Nginx配置安全： https://www.leavesongs.com/PENETRATION/nginx-insecure-configuration.html
+[ Web Security ]   PayloadsAllTheThings - Web 安全中常用的资源列表，主要包含 Payload、Bypass 方法等： https://t.co/v01FKMhPXG
+[ Web Security ]   A Look at CVE-2017-8514 --- SharePoint's `Follow` Feature XSS：   https://respectxss.blogspot.com.br/2017/06/a-look-at-cve-2017-8514-sharepoints.html  https://twitter.com/i/web/status/875021417405964289
+[ Web Security ]   Google CTF The X Sanitizer Web 挑战题的 Writeup： https://kitctf.de/writeups/googlectf/x-sanitizer
+[ Web Security ]   使用 Python 检测与绕过 Web 应用防火墙的教程： http://www.kalitutorials.net/2016/12/python-detect-and-bypass-web-application-firewall.html
+[ Web Security ]  Web 中的跨域 Json 劫持： http://blog.portswigger.net/2016/11/json-hijacking-for-modern-web.html
+[ Web Security ]   挖掘 Atmail XSS漏洞并构建蠕虫： https://www.bishopfox.com/blog/2017/06/how-i-built-an-xss-worm-on-atmail/
+[ Web Security ]  如何判断目标站点是否为 Django 开发： http://paper.seebug.org/336/
+[ Web Security ]  Python 安全 - 从 SSRF 到命令执行惨案，这篇文章利用思路非常巧妙： http://paper.seebug.org/337/
+[ Web Security ]  Web 是个永恒的攻击向量(PDF)： https://www.first.org/resources/papers/conf2017/Web-as-ongoing-threat-vector-case-studies-from-Europe-and-Asia-Pacific.pdf
+[ Web Security ]  从 PhantomJS 图片渲染中的 XSS 到 SSRF/本地文件读取： http://buer.haus/2017/06/29/escalating-xss-in-phantomjs-image-rendering-to-ssrflocal-file-read/
+[ Web Security ]   Sucuri 的安全研究员发现 WordPress 的插件 WP Statistics 中存在 SQL 注入漏洞影响 30 万+网站： http://securityaffairs.co/wordpress/60596/hacking/wordpress-wp-statistics-flaw.html
+[ Web Security ]  雅虎小企业服务平台 Luminate 身份认证漏洞： http://www.freebuf.com/vuls/138710.html
+[ Web Security ]  看我如何把 PhantomJS 图片的 XSS 升级成 SSRF/LFR： http://paper.seebug.org/344/
+[ Web Security ]   通过搞定子域名窃取全局共享的 Cookie，间接绕过 Uber 的单点登录认证： https://www.arneswinnen.net/2017/06/authentication-bypass-on-ubers-sso-via-subdomain-takeover/
+[ Web Security ]   Web 应用中最常出现的 5 个安全问题： https://medium.com/@d0znpp/top-5-stupid-security-mistakes-in-web-apps-2f26f52ebfaa
+[ Web Security ]   找到可以用于实现 Domain Fronting 的 Azure 域名： https://theobsidiantower.com/2017/07/24/d0a7cfceedc42bdf3a36f2926bd52863ef28befc.html
+[ Web Security ]   构造畸形 HTTP Request 和 Headers 攻击 Web 服务中那些看不见的系统，并以此获得美国 DoD 的 3 万 Bounty 奖励： https://portswigger.net/knowledgebase/papers/CrackingTheLens-whitepaper.pdf
+[ Web Security ]  Electron hack —— 跨平台 XSS： https://mp.weixin.qq.com/s/DgjJ6uKtuUPFQhgztL69RQ
+[ Web Security ]  看我如何从54G日志中溯源web应用攻击路径: https://secvul.com/topics/715.html
+[ Web Security ]  科普 XSS 与 CSRF ，来自 余弦's weibo： http://weibo.com/1652595727/Fgk2z09M4?ref=collection&type=comment#_rnd1502329997985
+[ Web Security ]   由于错将 /admin 敲成了 /Admin，不小心绕过了网站管理页面的访问限制： https://c0rni3sm.blogspot.com/2017/08/accidentally-typo-to-bypass.html
+[ Web Security ]  Web 应用中将 LFI 漏洞转换为 RFI 漏洞的技巧： https://l.avala.mp/?p=241
+[ Web Security ]    被遗忘的 HTTP 隐形斗篷 - 很多被忽视的 HTTP 特性与请求构造技巧： https://www.slideshare.net/SoroushDalili/a-forgotten-http-invisibility-cloak
+[ Web Security ]  白帽子挖洞——前传之洞悉常见漏洞： http://www.freebuf.com/column/144521.html
+[ Web Security ]  利用 HTTP 请求的编码绕过 WAF 防御： https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/august/request-encoding-to-bypass-web-application-firewalls/
+[ Web Security ]  滥用爬虫进行间接的 Web 攻击（Paper）： https://pdfs.semanticscholar.org/548d/afd83563bf49d1042fb47f052a680cfaed05.pdf
+[ Web Security ]   Jinja2 模版注入过滤器绕过： https://0day.work/jinja2-template-injection-filter-bypasses/
+[ Web Security ]  【知识库】模板引擎的相关漏洞利用： https://mp.weixin.qq.com/s/HfLANNFDHL-rTvA3vZQyDA
+[ Web Security ]  Web 中的代码重用攻击：通过脚本小工具绕过跨站脚本防御措施： http://sebastian-lekies.de/papers/ccs_gadgets.pdf
+[ Web Security ]    Pre-domain wildcard CORS Exploitation： https://medium.com/@arbazhussain/pre-domain-wildcard-cors-exploitation-2d6ac1d4bd30
+[ Web Security ]  滥用 .htaccess 实现 Web 漏洞的利用： https://medium.com/@insecurity_92477/utilizing-htaccess-for-exploitation-purposes-part-1-5733dd7fc8eb
+[ Web Security ]  CORS（跨域资源共享） 是否过时？： https://www.bishopfox.com/blog/2017/09/is-cors-becoming-obsolete/
+[ Web Security ]  滥用 JavaScript 框架以绕过 XSS 漏洞缓解机制： http://blog.portswigger.net/2017/09/abusing-javascript-frameworks-to-bypass
+[ Web Security ]   利用 request encoding 的方法 Bypass ASP.NET 的请求验证保护，成功利用可以实现存储型 XSS： https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/rare-asp.net-request-validation-bypass-using-request-encoding/
+[ Web Security ]  Web 安全方向上的资料整理： https://github.com/CHYbeta/Web-Security-Learning
+[ Web Security ]  The Road To HSTS(HTTP Strict Transport Security)： https://engineeringblog.yelp.com/2017/09/the-road-to-hsts.html
+[ Web Security ]  利用 PHP Sessions 文件将 LFI 漏洞升级为 RCE： https://www.rcesecurity.com/2017/08/from-lfi-to-rce-via-php-sessions
+[ Web Security ]  Use DNS Rebinding to Bypass SSRF in Java： https://paper.seebug.org/390/
+[ Web Security ]   Metasploitable 3: HTTP PUT 漏洞利用教程： http://www.hackingtutorials.org/exploit-tutorials/metasploitable-3-exploiting-http-put/
+[ Web Security ]  Optionsbleed - HTTP OPTIONS 方法可以泄露 Apache Server 的内存： https://blog.fuzzing-project.org/60-Optionsbleed-HTTP-OPTIONS-method-can-leak-Apaches-server-memory.html
+[ Web Security ]  XSS 到底能干什么： https://docs.google.com/presentation/d/1v3Me8IWDuvSb1k96UB5RNyXE-hLHk0i6cf5MDJMaxuY/pub#slide=id.p
+[ Web Security ]  Django debug page XSS漏洞（CVE-2017-12794）分析： https://paper.seebug.org/402/
+[ Web Security ]  在 https://finance.yahoo.com (手机版) 绕过 XSS 过滤器实现反射型 XSS： https://medium.com/@saamux/filter-bypass-to-reflected-xss-on-https-finance-yahoo-com-mobile-version-22b854327b27
+[ Web Security ]    Google 一直致力于推动浏览器的 HTTPS 加密连接。Chrome 等几大浏览器将全部支持  HSTS preload list，列表内的域名将自动启用 HTTPS： https://security.googleblog.com/2017/09/broadening-hsts-to-secure-more-of-web.html
+[ Web Security ]  Progressive Web 应用攻击方式介绍： https://shhnjk.blogspot.com/2017/10/pwa-progressive-web-attack.html
+[ Web Security ]  WebUSB：一个网页是如何从你的手机中盗窃数据的（含PoC）： http://www.freebuf.com/articles/web/150335.html
+[ Web Security ]  XSLT 服务端注入攻击介绍： https://www.contextis.com/blog/xslt-server-side-injection-attacks
+[ Web Security ]  IoT_reaper 情况更新： http://blog.netlab.360.com/iot_reaper-a-few-updates/
+[ Web Security ]  前端防御从入门到弃坑--CSP变迁： https://paper.seebug.org/423/
+[ Web Security ]  通过 XSS 漏洞盗取 Amazon EC2 Keys： https://ionize.com.au/stealing-amazon-ec2-keys-via-xss-vulnerability/
+[ Web Security ]   使用 XSS 绕过 CSRF 防御： https://dl.packetstormsecurity.net/papers/attack/Using_XSS_to_bypass_CSRF_protection.pdf
+[ Web Security ]  blockchain.info 中的 CRLF injection： http://blog.shashank.co/2017/11/crlf-injection-in-bockchaininfo.html
+[ Web Security ]  node.js + postgres 从注入到Getshell： https://paper.seebug.org/438/
+[ Web Security ]  auth.uber.com 网站的 DOM XSS 漏洞分析：http://stamone-bug-bounty.blogspot.com.es/2017/10/dom-xss-auth_14.html
+[ Web Security ]  滥用 Ruby 本地解析器中的漏洞绕过 SSRF 过滤器： https://edoverflow.com/2017/ruby-resolv-bug/
+[ Web Security ]  浅谈Node.js Web的安全问题： http://www.freebuf.com/articles/web/152891.html
+[ Web Security ]  一类 PHP RASP 实现，RASP 是一种在运行时检测攻击并且进行自我保护的一种技术： https://paper.seebug.org/449/
+[ Web Security ]  XSS过滤绕过速查表： www.freebuf.com/articles/web/153055.html
+[ Web Security ]  Passive Fingerprinting of HTTP/2 Clients： https://www.akamai.com/uk/en/multimedia/documents/white-paper/passive-fingerprinting-of-http2-clients-white-paper.pdf
+[ Web Security ]   Android 5.0 版本引入了 MediaProjection Service。基于 MediaProjection 开发者可以实现对屏幕内容和系统音频的抓取，为保护用户，MediaProjection 使用时需要弹框得到用户允许。 MWR Labs 这篇 Paper 介绍如何用 UI 重叠的技巧欺骗用户点击确认：  https://labs.mwrinfosecurity.com/assets/BlogFiles/mwri-android-MediaProjection-tapjacking-advisory-2017-11-13.pdf
+[ Web Security ]   如何部署 CSP、Hashes、Nonces 和 Report URI，充分保护自己的网站: https://www.troyhunt.com/locking-down-your-website-scripts-with-csp-hashes-nonces-and-report-uri/
+[ Web Security ]  真实网站劫持案例分析： http://www.freebuf.com/articles/web/153788.html
+[ Web Security ]  国外媒体 Freedom to Tinker 报道，某些网站使用的第三方脚本竟然包含[会话重放]功能，这些脚本可以收集用户的个人隐私数据，包括击键信息、鼠标移动数据： https://freedom-to-tinker.com/2017/11/15/no-boundaries-exfiltration-of-personal-data-by-session-replay-scripts/
+[ Web Security ]   Bypass 跨域策略（Crossdomain），搞定了 100 多个 Top Alexa Sites： https://medium.com/@know.0nix/bypassing-crossdomain-policy-and-hit-hundreds-of-top-alexa-sites-af1944f6bbf5
+[ Web Security ]   使用 XSS 窃取 CSRF Token： https://digi.ninja/blog/xss_steal_csrf_token.php
+[ Web Security ]  Tomcat 源代码调试笔记 - 看不见的 Shell 第一式： https://paper.seebug.org/457/
+[ Web Security ]  Tomcat 源代码调试 - 看不见的 Shell 第二式之隐藏任意 Jsp 文件： https://paper.seebug.org/458/
+[ Web Security ]  Tomcat 源代码调试 - 看不见的 Shell 第三式增强之无痕： https://paper.seebug.org/459/
+[ Web Security ]   OWASP 发布了 2017 年的《最严重的 10 种 Web 安全威胁》： https://www.owasp.org/images/7/72/OWASP_Top_10-2017_%28en%29.pdf.pdf
+[ Web Security ]   测试主流 Web 服务器（IIS、Apache、Nginx）在处理文件上传时的文件类型黑白名单问题： https://mike-n1.github.io/ExtensionsOverview
+[ Web Security ]   CRLF 头注入与任意 URL 跳转漏洞利用技巧： https://speakerdeck.com/shikarisenpai/crlf-and-openredirect-for-dummies
+[ Web Security ]  各大 CDN 背后的真实域名收集： https://github.com/vysec/DomainFrontingLists
+[ Web Security ]   如何在7分钟黑掉40个网站： https://hackernoon.com/how-i-hacked-40-websites-in-7-minutes-5b4c28bc8824
+[ Web Security ]   Bypassing SAML 2.0 SSO with XML Signature Attacks：  http://research.aurainfosec.io/bypassing-saml20-SSO/
+[ Web Security ]  NCC Group 对 CakePHP MVC Web 框架的审计报告： https://www.nccgroup.trust/us/our-research/cakephp-security-assessment/?research=Public+Reports
+[ Web Security ]   巧妙的绕过 Yahoo! View 的 CORS 策略： http://www.sxcurity.pro/2017/11/27/tricky-CORS/
+[ Web Security ]    Google Caja 平台的 XSS 漏洞，这个是去年作者报告漏洞修复之后的 Bypass： http://blog.bentkowski.info/2017/11/yet-another-google-caja-bypasses-hat.html
+[ Web Security ]  XXE OOB extracting via HTTP+FTP using single opened port ： https://skavans.ru/en/2017/12/02/xxe-oob-extracting-via-httpftp-using-single-opened-port/
+[ Web Security ]  机器学习和web安全交叉的一些脑洞: https://zhuanlan.zhihu.com/p/31963829
+[ Web Security ]  Exploiting a tricky XSS in Zendesk： https://medium.com/@shinkurt/exploiting-a-tricky-xss-in-zendesk-80bdeaea4dad
+[ Web Security ]  利用 Web 应用程序漏洞窃取 NTLM Hash： https://blog.blazeinfosec.com/leveraging-web-application-vulnerabilities-to-steal-ntlm-hashes-2/
+[ Web Security ]  Safari 客户端反射型 XSS 攻击： https://lab.wallarm.com/the-good-the-bad-and-the-ugly-of-safari-in-client-side-attacks-56d0cb61275a?nocache=122124543
+[ Web Security ]  深入了解 SSRF 漏洞并实现自动化攻击工具: https://medium.com/@auxy233/the-design-and-implementation-of-ssrf-attack-framework-550e9fda16ea
+[ Web Security ]   使用 Burp Suite 完成复杂的 Intruder Attacks 操作： https://www.trustedsec.com/2017/12/complex-intruder-attacks-burp/
+[ Web Security ]  Ode To Blind XSS: https://lewisardern.github.io/2017/12/10/blind-xss/
+[ Web Security ]  如何利用Web漏洞窃取NTLM哈希： https://zhuanlan.zhihu.com/p/32350465?group_id=928937862830059520
+[ Web Security ]    有第三方网站脚本利用浏览器内置的密码管理器的漏洞跟踪用户： https://freedom-to-tinker.com/2017/12/27/no-boundaries-for-user-identities-web-trackers-exploit-browser-login-managers/
+[ Web Security ]  JUMPING TO THE HELL WITH 10 ATTEMPTS TO BYPASS DEVIL’S WAF： https://medium.com/@know.0nix/jumping-to-the-hell-with-10-attempts-to-bypass-devils-waf-4275bfe679dd
+[ Web Security ]  通过 Flash 实现 JSON CSRF： https://exploitstube.com/json-csrf-with-flash-swf-file.html
+[ Web Security ]  攻击者利用 Google Apps Script 的漏洞通过 SaaS 平台传播恶意软件： https://www.trendmicro.com/vinfo/us/security/news/virtualization-and-cloud/security-flaw-in-google-apps-script-can-let-hackers-deliver-malware-via-saas-platform?utm_source=trendlabs-smk&utm_medium=smk&utm_campaign=01-18-google-apps-security-flaw
+[ Web Security ]  Wapiti Web 应用漏洞扫描器： https://www.kitploit.com/2018/01/wapiti-300-web-application.html?utm_source=dlvr.it&utm_medium=twitter
+[ Web Security ]  Bypass CSRF 保护的技巧： https://zhuanlan.zhihu.com/p/32716181
+[ Web Security ]   WAF Evasion Techniques， Part 1： https://medium.com/secjuice/waf-evasion-techniques-718026d693d8  Part 2： https://medium.com/secjuice/web-application-firewall-waf-evasion-techniques-2-125995f3e7b0
+[ Web Security ]  【技术分析】RPO攻击技术浅析： http://blog.nsfocus.net/rpo-attack/
+[ Web Security ]  滥用 JSONP 绕过 CSP 防御： https://medium.com/@mazin.ahmed/bypassing-csp-by-abusing-jsonp-endpoints-47cf453624d5
+[ Web Security ]  通过印象笔记的 WebClipper 浏览器扩展实现对任意网站的 XSS 攻击： https://blog.xpnsec.com/evernote-webclipper-uxss/
+[ Web Security ]  检测 Chrome Headless 模式的新方式: https://antoinevastel.github.io/bot%20detection/2018/01/17/detect-chrome-headless-v2.html
+[ Web Security ]  CentOS Web Panel v0.9.8.12 SQL 注入漏洞披露： http://seclists.org/fulldisclosure/2018/Jan/75
+[ Web Security ]  SSRF To RCE in MySQL： https://paper.seebug.org/510/
+[ Web Security ]  Google Endpoint for CSP Bypass： https://twitter.com/brutelogic/status/955911040721674241
+[ Web Security ]   结合 Flash 和 307 跳转实现对 JSON  端的 CSRF 漏洞利用： https://blog.appsecco.com/exploiting-csrf-on-json-endpoints-with-flash-and-redirects-681d4ad6b31b
+[ Web Security ]  任意用户密码重置（二）：重置凭证接收端可篡改: http://www.freebuf.com/articles/database/161495.html
+[ Web Security ]   利用基于 Attribute Selectors 的 CSS 注入偷 CSRF Token： https://github.com/dxa4481/cssInjection
+[ Web Security ]   在 XML 中使用两种编码以绕过 WAF 检测： https://mohemiv.com/all/evil-xml/
+[ Web Security ]   XSS 漏洞介绍： http://brutelogic.com.br/docs/XSS-FTW.pdf
+[ Web Security ]   Hidden Values as XSS PoC： https://twitter.com/i/web/status/960910303448961025
+[ Web Security ]    2015 年的一篇 Paper，介绍的是 Server-side Browsing 带来的威胁，SSRF 的延伸： http://www.agarri.fr/docs/AppSecEU15-Server_side_browsing_considered_harmful.pdf
+[ Web Security ]   通过 Facebook 的第三方合作伙伴门户网站可以泄露任意 Facebook 的用户邮箱： https://www.josipfranjkovic.com/blog/facebook-partners-portal-account-takeover
+[ Web Security ]  Snapchat 存储型 XSS 漏洞挖掘： https://medium.com/@mrityunjoy/stored-xss-on-snapchat-5d704131d8fd
+[ Web Security ]  来分析 WOT 服务中的逻辑缺陷： https://edoverflow.com/2018/logic-flaws-in-wot-services
+[ Web Security ]  利用 Google Analytics 绕过 CSP 策略： https://labs.detectify.com/2018/01/19/google-analytics-data-extraction/
+[ Web Security ]  通过 CSS 窃取数据： https://www.mike-gualtieri.com/posts/stealing-data-with-css-attack-and-defense
+[ Web Security ]   CSS-Keylogging - 巧妙利用 CSS Selector，通过 CSS 偷用户输入的密码：  https://github.com/maxchehab/CSS-Keylogging
+[ Web Security ]  SQL 注入之 9 种绕过 waf 的方法：  https://www.digitalmunition.me/2018/02/sql-injection-9-ways-bypass-web-application-firewall/
+[ Web Security ]    OWASP 发布的一份《Web 应用自动化威胁手册（Automated Threat Handbook）》： https://www.owasp.org/images/3/33/Automated-threat-handbook.pdf
+[ Web Security ]   WebKit 为跨站认证用户提出新的解决方案 -  Storage Access API： https://webkit.org/blog/8124/introducing-storage-access-api/
+[ Web Security ]  <script> 标签的 src 可以通过 data:;base64,xxxx 的方式内联脚本。<audio> 也可以通过这种方式内联 mp3 文件： https://twitter.com/itscachemoney/status/966480136802525185
+[ Web Security ]  挖掘 help.twitter.com 上持久化 DOM XSS 漏洞的详情： https://hackerone.com/reports/297968
+[ Web Security ]  路由器 XSS 漏洞挖掘实例： https://mthbernardes.github.io/persistence/2018/03/02/hacking-into-NET-router-for-fun-and-profit.html
+[ Web Security ]   利用网站千千万万用户的 Web 浏览器做分布式的计算节点，譬如 Crackzor.js 可以利用访客浏览器分布式地破解密码： http://ben.akrin.com/?p=5997
+[ Web Security ]  漏洞分析与实践之基于SAML实现的单点登录系统： http://avfisher.win/archives/906
+[ Web Security ]  提升 self-xss 攻击效果的方法介绍： https://silentbreaksecurity.com/weaponizing-self-xss/
+[ Web Security ]  PHP SSRF 技巧之如何绕过filter_var()，preg_match() 以及 parse_url() ： https://medium.com/secjuice/php-ssrf-techniques-9d422cb28d51
+[ Web Security ]  利用 DSPL 在 Google 中插入存储型 XSS，同时也可用于 SSRF 访问内网： https://s1gnalcha0s.github.io/dspl/2018/03/07/Stored-XSS-and-SSRF-Google.html
+[ Web Security ]  危险的 target="_blank" 与 “opener”： https://paper.seebug.org/538/
+[ Web Security ]   Fastly 公司构建其 WAF 产品测试套件的方法： https://www.fastly.com/blog/building-waf-test-harness
+[ Web Security ]   Facebook 任意用户好友列表泄露以及支付卡信息泄露漏洞挖掘过程： https://www.josipfranjkovic.com/blog/facebook-friendlist-paymentcard-leak
+[ Web Security ]  前端黑魔法之远程控制地址栏： http://www.freebuf.com/articles/web/164711.html
+[ Web Security ]  Chrome XSS Auditor – SVG 绕过： https://brutelogic.com.br/blog/
+[ Web Security ]  如何预防 XSS 漏洞： http://www.friendsglobal.com/xss/preventing-xss-in-your-application/
+[ Web Security ]  如何在三天内挖到 Facebook  3 个存储型 XSS 漏洞： https://opnsec.com/2018/03/stored-xss-on-facebook/
+[ Web Security ]  CVE-2017-0135漏洞分析：利用Edge浏览器的XSS过滤器绕过CSP： http://www.freebuf.com/articles/web/164871.html
+[ Web Security ]   Web 应用渗透测试手册（PDF）： https://www.exploit-db.com/docs/english/44319-web-application-security-testing.pdf
+[ Web Security ]  价值 3133.7 美元的 Google adwords 存储型 XSS 漏洞详情： https://medium.com/@Alra3ees/google-adwords-3133-7-stored-xss-27bb083b8d27
+[ Web Security ]  JSON Web Token 安全性研究： https://www.slideshare.net/snyff/jwt-insecurity
+[ Web Security ]  通过 BLIND OOB XXE 获取文件系统访问权限： https://hawkinsecurity.com/2018/03/24/gaining-filesystem-access-via-blind-oob-xxe/
+[ Web Security ]   SSRF 漏洞的新时代 - 针对 URL 解析器的利用，来自 BlackHat Asia 2018： https://www.blackhat.com/docs/asia-18/asia-18-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages_update_Thursday.pdf
+[ Web Security ]  客户端 session 导致的安全问题： https://www.leavesongs.com/PENETRATION/client-session-security.html
+[ Web Security ]  Web 认证标准(webauthn)介绍，一种用以弥补密码认证缺陷的更安全的认证方式： https://www.imperialviolet.org/2018/03/27/webauthn.html
+[ Web Security ]  通过浏览器扩展和上下文菜单的点击劫持泄露敏感信息： https://harleo.me/blog/exploiting-browser-extensions-context-menus
+[ Web Security ]  利用恶意页面攻击本地Xdebug： https://xlab.tencent.com/cn/2018/03/30/pwn-local-xdebug/
+[ Web Security ]  使用 ESI 注入滥用缓存服务实现 SSRF 和 XSS ： http://gosecure.net/2018/04/03/beyond-xss-edge-side-include-injection/
+[ Web Security ]  CORS 漏洞原理分析： https://www.trustedsec.com/2018/04/cors-findings/
+[ Web Security ]  使用不可见的零宽度字符追查信息泄密的应用场景： https://medium.com/@umpox/be-careful-what-you-copy-invisibly-inserting-usernames-into-text-with-zero-width-characters-18b4e6f17b66
+[ Web Security ]  CPRF 跨协议请求伪造技术白皮书： https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/2018/cprf.pdf
+[ Web Security ]  滥用 Microsoft 的 XSS 过滤器绕过 CSP 防御： https://medium.com/bugbountywriteup/bypass-csp-by-abusing-xss-filter-in-edge-43e9106a9754
+[ Web Security ]  第三方跟踪器是如何利用 Facebook 登录页面跟踪用户的： https://freedom-to-tinker.com/2018/04/18/no-boundaries-for-facebook-data-third-party-trackers-abuse-facebook-login/
+[ Web Security ]  基于 HTTP 协议的交互式 bindshell 实现: http://blog.secu.dk/blog/Tunnels_in_a_hard_filtered_network/
+[ Web Security ]  Hacker101 - 用来学习 web 安全的网站 ： https://www.hacker101.com/
+[ Web Security ]  PHP escapeshellarg / escapeshellcmd 函数绕过技巧: https://security.szurek.pl/exploit-bypass-php-escapeshellarg-escapeshellcmd.html
+[ Web Security ]  企业未修复Apache Struts 2漏洞致Web服务器被批量入侵： http://www.freebuf.com/vuls/170068.html

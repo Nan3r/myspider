@@ -1,0 +1,297 @@
+[ Detect ]  Applying machine learning to malware analysis slowly being demystified, see clustering 101: http://blog.deepviz.com/2016/01/04/the-basics-of-clustering-behind-deepviz-part-2/ http://blog.deepviz.com/2015/12/23/the-basics-of-clustering-behind-deepviz-part-1/
+﻿"机器学习在恶意软件分析中的应用， Part 2 聚类算法： https://t.co/DMyMRhinTI  Part 1: https://t.co/FoeBXtf0bn  "
+[ Detect ]  Malicious PDF Analysis : http://blog.didierstevens.com/2010/09/26/free-malicious-pdf-analysis-e-book/ cc: @ DidierStevens #b2b (E-book/pdf)
+﻿"恶意 PDF 文档分析，Didier Stevens 2010 年写的一篇文档: https://t.co/KcXOooaPCQ "
+[ Detect ]  New in the BApp Store: Java Deserialization Scanner - scans for Java deserialization vulnerabilities https://portswigger.net/bappstore/ShowBappDetails.aspx?uuid=228336544ebe4e68824b5146dbbd93ae
+﻿"Burp BApp 扩展 - Java 反序列化漏洞扫描工具 https://t.co/0IZTcXk53k "
+[ Detect ]  A Hybrid Real-time Zero-day Attack Detection and Analysis System http://www.mecs-press.org/ijcnis/ijcnis-v7-n9/IJCNIS-V7-N9-3.pdf
+﻿"混合实时 0Day 攻击检测和分析系统，来自印度 Thapar Patiala 大学， Paper： https://t.co/8RO6gwCIeH"
+[ Detect ]  A simple example of creating an event log entry upon detecting WMI lateral movement. https://gist.github.com/mattifestation/aff0cb8bf66c7f6ef44a This could be easily extended.
+﻿"一旦检测到攻击者横向渗透行为，创建告警日志， 代码 Demo: https://t.co/FdnJYzL2BJ "
+[ Detect ]  Automatically Evading Classifiers. A Case Study on PDF Malware Classifiers http://www.cs.virginia.edu/~evans/pubs/ndss2016/evademl.pdf [PDF] https://t.co/47klU9yxMT
+﻿"自动化地逃逸分类器 - PDF 恶意样本分类器案例研究，来自美国弗吉尼亚大学的 Paper： https://t.co/47klU9yxMT   https://t.co/5U5aVFoot6 "
+[ Detect ]  Beyond IDS - Practical Network Hunting : https://github.com/bsidesnyc/BSidesNYC2016/blob/master/Presentations/Josh%20Liburdi%20-%20Beyond%20IDS.%20Practical%20Network%20Hunting.pdf (pdf)
+﻿"Beyond IDS - 网络检测技术实践，来自 Bsides NYC 2016 会议:  https://t.co/STz3pw4tk8"
+[ Detect ]  Zero-Day Attack Detection Using Collaborative and Transduction-Based Anomaly Detectors http://digilib.gmu.edu/dspace/bitstream/handle/1920/9882/Hiremagalore_gmu_0883E_10953.pdf?sequence=1&isAllowed=y
+﻿"基于协作和 TCM 异常探测器实现的 0Day 攻击检测技术， 来自乔治梅森大学的 Paper： https://t.co/WCdNvUdC6s"
+[ Detect ]  Infrastructure Tracking with Passive Monitoring and Active Probing : http://www.slideshare.net/OpenDNS/shmoocon-2015-presentation (Slides) cc: @ DhiaLite
+﻿"通过被动监控和主动探测收集网络情报， 来自 Shmoocon 2015 会议: https://t.co/eqEcYKy3UR "
+[ Detect ]  Major updates of CIRCL AIL - Analysis Information Leak framework https://github.com/CIRCL/AIL-framework including a simpler way to create new modules
+﻿"AIL-Framework -  信息泄露分析框架，主要是用于监控企业在类似 Pastebin 网站的信息泄露： https://t.co/dTLEwEuaG5"
+[ Detect ]  Dealing with Linux Malware, the blog post (insights by the author of rkhunter). http://linux-audit.com/dealing-with-linux-malware-insights-by-the-author-of-rkhunter/ #malware #linux CC @ MalwareMustDie
+﻿"rkhunter 作者谈如何检测和防护 Linux 恶意软件： https://t.co/LR1qR9Ms5M "
+[ Detect ]  Greater Visibility Through PowerShell Logging http://www.fireeye.com/blog/threat-research/2016/02/greater_visibilityt.html
+﻿"如何启用更详细的 PowerShell 日志功能，便于观察恶意 PowerShell 脚本的行为， 来自 FireEye Blog： https://t.co/hM2CyoheC7"
+[ Detect ]  Detecting Offensive PowerShell Attack Tools : https://adsecurity.org/?p=2604
+﻿"从 Windows 7 开始 PowerShell 开始系统内置，同时它功能强大又灵活，深受攻击者的喜爱。 来自 AD Security 的这篇 Blog 谈 PowerShell 相关攻击工具的检测: https://t.co/kI4XAobsSO"
+[ Detect ]  Hunting through RDP Data : https://speakerdeck.com/jshlbrd/hunting-through-rdp-data cc: @ jshlbrd (Slides)
+﻿"基于 RDP 数据的网络威胁检测， 来自 BroCon 2015 会议上的演讲: https://t.co/eK5XC8fhNg "
+[ Detect ]  "Creating Your Own Threat Intel Through Hunting & Visualization" by @ raffaelmarty http://www.slideshare.net/zrlram/creating-your-own-threat-intel-through-hunting-visualization
+﻿"通过对内部威胁的捕获和可视化构建自己的威胁情报， 来自 Slideshare： https://t.co/2KRJawYv1p"
+[ Detect ]  Unleashing Yara (Part 2) : http://countuponsecurity.com/2016/02/18/unleashing-yara-part-2/ , Part 1 : http://countuponsecurity.com/2016/02/10/unleashing-yara-part-1/
+﻿"解读 Yara， Part 2 Yara 规则的创建: https://t.co/Bv3XI22kjp  Part 1 应急响应处理生命周期中 Yara 规则的使用: https://t.co/mebFAqMUvv"
+[ Detect ]  Threat Detection Techniques – ATM Malware http://blogs.rsa.com/threat-detection-techniques-atm-malware/
+﻿"来自 RSA 的 ATM 恶意代码威胁检测技术报告： https://t.co/u6oj0okNLX"
+[ Detect ]  Cool powershell script to automatically scan your system and report VirusTotal positives: http://blogs.technet.com/b/pfesweplat/archive/2016/02/20/powershell-malware-detection-and-tracking-of-new-autoruns.aspx
+﻿"Verify-Autoruns.ps1 - 恶意代码检测 PowerShell 脚本，可以扫描系统开机启动程序、验证签名、自动关联 VirusTotal 扫描结果，最终可以生成检测报告。 来自微软 TechNet Blog: https://t.co/jsmOawav9n"
+[ Detect ]  [/dev/random] Incident Handling with Docker Containers https://blog.rootshell.be/?p=30083
+﻿"应急响应中常用的几个恶意代码检测 Docker 容器，  来自 RootShell Blog： https://t.co/QfGw6bMmSG"
+[ Detect ]  Bro plugin to detect Meterpreter traffic, including XOR-encoded traffic https://github.com/ncsa/bro_meterpreter?platform=hootsuite #DFIR #infosec
+﻿"用于检测 Meterpreter 流量的 Bro 插件，也支持检测 XOR 编码的流量， Github Repo：  https://t.co/KSiPfLuSwv "
+[ Detect ]  Detecting Advanced Threats with Sysmon, WEF and ElasticSearch http://joshuadlewis.blogspot.com/2014/10/advanced-threat-detection-with-sysmon_74.html
+﻿"基于 Sysmon、 WEF 和 ElasticSearch 工具的高级威胁检测方案， 2014 年的一篇 Blog： https://t.co/8KzxbA5qAO "
+[ Detect ]  Use your infrastructure as a sensor. How to use Windows Event Forwarding to help with intrusion detection: https://technet.microsoft.com/en-us/library/mt684618(v=vs.85).aspx
+﻿"如何用 Windows 事件转发来帮助进行入侵检测，  来自 TechNet Blog:  https://t.co/oV7BwJqRFx"
+[ Detect ]  Updated 'Using Passive DNS for Incident Response’ with remark on sensor placement #ir https://www.vanimpe.eu/2016/02/27/passive-dns-for-incident-response/
+﻿" 被动 (Passive) DNS 在事件响应调查方面的应用： https://t.co/oTOZs7K0ho"
+[ Detect ]  Slides from my @ RSAConference session "Tracking Hackers on Your Network with Sysinternals Sysmon" https://onedrive.live.com/redir?resid=D026B4699190F1E6!2575&authkey=!AGFBok7JLkOZSgE&ithint=file%2cpptx
+﻿"利用 Sysinternals Sysmon 工具追踪内网中的黑客，黑客是怎么攻击进来的？横向渗透了吗？  来自 RSA 2016 会议（Slides）： https://t.co/vDxc5Dp0uO "
+[ Detect ]  Advanced techniques for real-time detection of polymorphic malware Ajit Thyagarajan fpr @ bsidessf http://ig2.me/bv
+﻿"多态恶意软件的实时检测技术， 来自 Ajit Thyagarajan 在 BsidesSF 2016 会议的演讲（视频）：  https://t.co/y6ZY0Rp3K0"
+[ Detect ]  The Ransomware Threat: Tracking the Digital Footprints Kevin Bottomley for @ bsidessf http://ig2.me/bq
+﻿"跟踪勒索软件的数字指纹信息, 来自 Bsides 2016 会议(视频): https://t.co/Rr80KeNene "
+[ Detect ]  The Underhanded #PowerShell Contest just launched! Be evil and help move malicious PS detection forward! https://blogs.msdn.microsoft.com/powershell/2016/03/07/announcing-the-underhanded-powershell-contest/
+﻿"微软发起了一个称作 'Underhanded PowerShell' 的比赛, 用于帮助 PowerShell 脚本分析工具检测那些鬼鬼祟祟的代码:  https://t.co/3hZNewmz5b"
+[ Detect ]  Hypro - VMI on BitVisor to detect hidden rootkits. http://ow.ly/ZgVNB
+﻿"Hypro - 基于 BitVisor 的 VMI 检测 Rootkits, BitVisor 是个轻量级的 Hypervisor, Github Repo: https://t.co/8kaBJOMTDH"
+[ Detect ]  Counting the Frequency of Indirect Branches to Detect Return-Oriented Programming Attacks http://www.lbd.dcc.ufmg.br/colecoes/dsn/2015/020.pdf
+﻿"通过统计间接跳转的频率, 检测 ROP 攻击, Paper: https://t.co/PADr50J2uf"
+[ Detect ]  Abusing File Processing in Malware Detectors for Fun and Profit : http://www.cs.cornell.edu/~shmat/shmat_oak12av.pdf (pdf)
+﻿"这篇 Paper 分析了两种逃逸恶意软件检测的方法。第一种是通过混淆检测工具的文件类型处理， 第二种是利用真实应用和检测工具在文件格式解析上的差异︰  https://t.co/UhhbsHie9q "
+[ Detect ]  We sponsored an ESG survey on Incident Response Automation and Orchestration: http://blog.phantom.us/2016/03/15/new-research-finds-companies-ignore-majority-of-security-alerts/ #phantom
+﻿"Phantom 发布的企业安全应急响应调查报告︰ https://t.co/eta8vKMyMW  其中指出,大部分安全告警都被企业忽视掉了, 直接下载报告: https://drive.google.com/file/d/0B76__3ub6mzdM3V5UzBvSS1ZMVFmdTBoNFZfNEtKMVJQMmc0/view?pref=2&pli=1 "
+[ Detect ]  Wondering if adversaries are scanning and abusing TR-069, here is a TR-069 honeypot https://github.com/omererdem/honeything
+﻿" TR-069 协议蜜罐工具， TR-069 提供了对下一代网络中家庭网络设备进行管理配置的通用框架、消息规范、管理方法和数据模型.  Github Repo： https://t.co/MWJxHJkhOy"
+[ Detect ]  YARA Rule To Detect VBE Scripts by @ DidierStevens http://blog.didierstevens.com/2016/03/22/yara-rule-to-detect-vbe-scripts/
+﻿"用于检测 VBE 脚本的 YARA 规则: https://t.co/luryO7kcM4"
+[ Detect ]  Great #ClamAV tutorial from @ malwareforme! http://malwarefor.me/writing-signatures-for-clam-av-0-99-a-tutorial/
+﻿"为 ClamAV 反病毒引擎写规则特征：  https://t.co/sX8rjXWiWX"
+[ Detect ]  How to Detect and Automatically Revoke Unintended IAM Access with Amazon CloudWatch Events http://blogs.aws.amazon.com/security/post/Tx2XGINRKCK9XNS/How-to-Detect-and-Automatically-Revoke-Unintended-IAM-Access-with-Amazon-CloudWa
+﻿"如何在 AWS 云上实现对意外 API 调用的检测和权限的撤回： https://t.co/9X9kHE8cJq"
+[ Detect ]  Save time & identify security alerts that matter. Read our eBook: http://bddy.me/1UEHVpC #DFIR #cybersecurity https://t.co/3z1OFxhpBt
+﻿"节省时间， 只关注重要的告警， 来自 FireEye 的报告 ︰ https://t.co/ihwPUiR7Rm   https://t.co/3z1OFxhpBt"
+[ Detect ]  Slides of "Robots against robots: How a Machine Learning IDS detected a novel Linux Botnet" are here http://slides.com/eldraco/robots-vs-robots.
+﻿"机器人对抗机器人 - 机器学习 IDS 是如何检测到一个新奇的 Linux Botnet 的： https://t.co/teN7KnxOVH。"
+[ Detect ]  How to Detect Ransomware with FileAudit http://www.isdecisions.com/blog/it-security/how-to-detect-ransomware-with-fileaudit/
+﻿"如何用 FileAudit 工具检测勒索软件： https://t.co/zNLHPgM5xu"
+[ Detect ]  I've open-sourced all the code for what Summit Route originally was supposed to be (an end-point protection product) https://summitroute.com/blog/2016/04/10/SREPP_code_dump/
+﻿"Summit Route 公司的终端防护产品开源了： https://t.co/SbEg3ZTkbE   客户端： https://github.com/SummitRoute/srepp_client   服务端： https://github.com/SummitRoute/srepp_server "
+[ Detect ]  Nice set of posts on a threat hunting reference model proposal http://blog.sqrrl.com/the-cyber-hunting-maturity-model http://blog.sqrrl.com/the-threat-hunting-reference-model-part-2-the-hunting-loop http://blog.sqrrl.com/the-threat-hunting-reference-model-part-3-the-hunt-matrix
+﻿"来自 Sqrrl 的威胁检测参考模型， Part 1: https://t.co/8e5zcPnGNA   Part 2: https://t.co/O62oLdQj6c   Part 3: https://t.co/CXUzCLcsTR"
+[ Detect ]  MIT builds Artificial Intelligence system that can detect 85% of Cyber Attacks ~ http://thehackernews.com/2016/04/artificial-intelligence-cyber-security.html #Security
+﻿"MIT 开发了一套人工智能系统，该系统可以检测到 85% 的网络攻击： https://t.co/Nfj7C2K9ZZ "
+[ Detect ]  Another interesting #malware tracker: http://tracker.h3x.eu/
+﻿"Malware Tracker - 一个跟踪恶意软件的网站︰ https://t.co/uYsNMZdHhh"
+[ Detect ]  Blocking #ransomware POC using mini-filter driver & honeyTokens https://github.com/ofercas/ransomware_begone
+﻿"ransomware_begone - 勒索软件阻断工具，基于 Mini-filter 和 honeyTokens，在勒索软件尝试加密文件的早期阶段阻断它， Github Repo： https://t.co/h2qggNyJZI"
+[ Detect ]  The problem with conflating #APT indicators of compromise with observables - new @ threatpost Op-Ed: https://threatpost.com/misunderstanding-indicators-of-compromise/117560/ via
+﻿"对 IOC 的误解， 来自 ThreatPost Blog： https://t.co/76lialxOs4"
+[ Detect ]  Hunting Threats - [Blog Post] http://subt0x10.blogspot.com/2016/04/hunting-threats-regsvr32exe-example.html Feedback Welcome.
+﻿"以 regsvr32.exe 为例谈威胁检测： https://t.co/pL4NaKxulu  作者在 ThreatHunting 峰会上的演讲 《像实战一样训练》： http://files.sans.org/summit/Threat_Hunting_Incident_Response_Summit_2016/PDFs/Train-Like-You-Fight-Casey-Smith-FirstBank.pdf "
+[ Detect ]  Great series of blog posts on using Sysmon: http://securitylogsanalysis.blogspot.com/
+﻿" 基于 Splunk 的终端日志分析和威胁检测: http://securitylogsanalysis.blogspot.com/2016/04/analysis-of-endpoint-logs-with-splunk.html   基于 Sysmon 的威胁检测： http://securitylogsanalysis.blogspot.com/2016/04/sysmon-playbook-v1.html "
+[ Detect ]  Great BSides presentation by @ markpars0ns on hunting threats by pivoting off of TLS certs: http://mpars0ns.github.io/bsidescharm-2016slides/ #DFIR
+﻿"基于 TLS 证书信息的威胁检测， 来自 Bsides 会议，在线 Slides: https://t.co/FB6LQYO73Y  "
+[ Detect ]  Building a Home Lab to Become a Malware Hunter - A Beginner’s Guide https://www.alienvault.com/blogs/security-essentials/building-a-home-lab-to-become-a-malware-hunter-a-beginners-guide
+﻿"自己搭建一个实验环境，成为 Malware Hunter： https://t.co/hRGfbQR1GE"
+[ Detect ]  Passive DNS for Threat Hunting on the network https://www.endgame.com/blog/hunting-cheap-part-1-architecture
+﻿"低成本的威胁检测 Part 1：基于被动 DNS 的威胁检测架构： https://t.co/UieAM8s1rF"
+[ Detect ]  using pDNS logs to spot malicious activity on your networks: what to look for for low FPs http://buff.ly/1Ob7rez https://t.co/QxMTK7WxyJ
+﻿"低成本的威胁检测 Part 2： 高阶模型 - 如何使用采集到的被动 DNS 数据： https://t.co/PRchGfaCft https://t.co/QxMTK7WxyJ"
+[ Detect ]  MSR has an automated signature generation system for exploit kits informed by attacker sw engineering practices http://research.microsoft.com/apps/pubs/default.aspx?id=240495
+﻿"Kizzle - 微软有一套 Exploit Kits 签名自动生成工具： https://t.co/X9B3PRtCDt "
+[ Detect ]  How You Can Set up Honeytokens Using Canarytokens to Detect Intrusions : https://zeltser.com/honeytokens-canarytokens-setup/
+﻿"我是如何搭建 Honeytokens 蜜罐，检测入侵行为的: https://t.co/NuxuO5h5sa"
+[ Detect ]  How to tell if you’re infected with malware http://ow.ly/mh7P1000GJh
+﻿" 如何判断自己感染了恶意软件， 来自 MalwareBytes Blog： https://t.co/0UvWvbMRSn"
+[ Detect ]  Proactive threat detection on Windows machines https://github.com/devonakerr/Presentations/blob/master/Proactive%20Threat%20Detection%20-%20Windows.pdf
+﻿" Windows 主动威胁检测技术，作者来自 FireEye，这是他在 NorCERT 和 BSides Nola 会议的演讲：  https://t.co/4bZa4cpfaD"
+[ Detect ]  Detecting ImageTragick with Burp Suite Pro https://blog.silentsignal.eu/2016/05/13/detecting-imagetragick-with-burp-suite-pro/
+﻿" 用 BurpSuite Pro 检测 ImageTragick 漏洞： https://t.co/BNj3EeYxEv "
+[ Detect ]  Here are the "Hunting: Discovering Hidden Threats" slides from today https://docs.google.com/presentation/d/13Pnnn9yrKF5aZjTdRVVcGOUV7JMc1Yj3x1eHG1y-sL8/edit?usp=sharing
+﻿" 挖掘、捕获隐藏的威胁，来自 FireEye 的首席顾问谈威胁检测的问题： https://t.co/9CGVRWgnd3 "
+[ Detect ]  Live botnet tracker v3 https://intel.malwaretech.com/pewpew.html (Works best on Firefox & Chrome)
+﻿" Botnet 在线追踪，来自 MalwareTech： https://t.co/VH1JItl3am "
+[ Detect ]  I just released CimSweep 0.4.0. CimSweep is used for IR/hunt over WMI. https://github.com/PowerShellMafia/CimSweep https://www.powershellgallery.com/packages/CimSweep/0.4.0.0 #PowerShell #DFIR
+﻿" CimSweep - 基于 CIM/WMI 的应急响应和威胁检测工具，该工具可以远程在 Windows 全版本使用， GitHub Repo： https://t.co/ndj0CeNYNk https://t.co/zfZnTxJDjf  "
+[ Detect ]  Finding Advanced Malware Using Volatility : https://eforensicsmag.com/finding-advanced-malware-using-volatility/ cc: @ JPoForens || @ monnappa22 #b2b
+﻿" 用 Volatility 内存分析框架检测高级恶意软件，来自电子取证杂志 2014 年的一篇 Blog ︰ https://t.co/IBwf1EzmuX "
+[ Detect ]  Control Flow Graph Based Multiclass Malware Detection Using Bi-normal Separation https://tuts4you.com/download.php?view.3668
+﻿"基于控制流图、使用 Bi-normal 分离算法实现多种类恶意软件检测： https://t.co/rE6eVXfnNT  解压密码： tuts4you "
+[ Detect ]  Function Call Graph Score for Malware Detection http://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1438&context=etd_projects
+﻿"基于函数调用图评分机制的恶意代码检测： https://t.co/JeZ1nUVohu "
+[ Detect ]  Introducing Falco: open source, behavioral security from Sysdig http://www.sysdig.org/falco/
+﻿" Sysdig Falco - 一个开源的基于行为的检测工具，可以检测容器、主机、网络的异常活动： https://t.co/ZoHexmIwMJ"
+[ Detect ]  Hunting rootkits with Windbg v1.1 : http://www.reconstructer.org/papers/Hunting%20rootkits%20with%20Windbg.pdf (pdf) #b2b
+﻿"用 Windbg 找 Rootkit: https://t.co/9RO1cy2DAP "
+[ Detect ]  How RTF malware evades static signature-based detection http://www.fireeye.com/blog/threat-research/2016/05/how_rtf_malware_evad.html
+﻿"RTF 恶意样本是如何逃逸基于签名的静态检测的，来自 FireEye Blog： https://t.co/d4cuR8f6Rz"
+[ Detect ]  CapTipper is a Python tool to explore malicious HTTP traffic, also review sessions from PCAP ~ http://www.darknet.org.uk/2016/05/captipper-explore-malicious-http-traffic/
+﻿"CapTipper - HTTP 异常流量检测工具， Python 语言编写，也支持从 PCAP 文件中检测： https://t.co/MLguJN2JZS"
+[ Detect ]  Ransomware Steals your Phone. Formal Methods Rescue it. https://www.researchgate.net/profile/Antonella_Santone/publication/301564057_Ransomware_Steals_your_Phone_Formal_Methods_Rescue_it/links/571f0ddc08aefa648899ab23.pdf [Paper - 6/2016]
+﻿" 这篇 Paper 提出了一种新的检测手机勒索软件的方法：  https://t.co/Td27mHHJff  "
+[ Detect ]  Identifying VM Checking and Detecting in Malware http://www.morphick.com/blog/2014/12/3/vm-checking-and-detecting
+﻿" 识别恶意软件对虚拟机的检查行为，来自 Morphick 2014 年的一篇 Blog： https://t.co/LpszrSTRoB "
+[ Detect ]  .NET GUIDs to help hunt for malware https://www.virusbulletin.com/virusbulletin/2015/06/using-net-guids-help-hunt-malware used to determine whether multiple malware samples are from the same VS Project
+﻿" 凭借 .NET GUIDs 检测恶意软件，来自 VirusBulletin Blog： https://t.co/qCVwbMIDFI"
+[ Detect ]  ROPDetect: Detection of Code Reuse Attacks http://cs229.stanford.edu/proj2015/237_report.pdf
+﻿"ROPDetect - 利用无监督学习的方法检测 ROP 攻击，来自斯坦福大学的 Paper： https://t.co/xwZc5HSeHZ"
+[ Detect ]  Detecting hidden backdoors analyze malware hidden inside an OPcache file ~ http://blog.gosecure.ca/2016/05/26/detecting-hidden-backdoors-in-php-opcache/
+﻿" 检测 PHP OPcache 文件中隐藏的后门，来自 GoSecure Blog： https://t.co/B9s0VITwMm"
+[ Detect ]  Exploit Kits : Hunting the Hunters : http://conference.hitb.org/hitbsecconf2016ams/materials/D1T1%20-%20Nick%20Biasini%20-%20Exploit%20Kits%20-%20Hunting%20the%20Hunters%20.pdf (Slides) #HITB2016AMS
+﻿" Exploit Kits : Hunting the Hunters，来自 HITB 阿姆斯特丹会议 ︰ https://t.co/3a2c6ci0wa "
+[ Detect ]  Exploiting Redundancy Properties of Malicious Infrastructure for Incident Detection : http://www.slideshare.net/phdays/exploiting-redundancy-properties-of-malicious-infrastructure-for-incident-detection (Slides)
+﻿" 攻击恶意软件基础设施的冗余特性，来自 PHDays 会议︰ https://t.co/vQOJkl60Ni "
+[ Detect ]  漏洞检测的那些事儿 - http://drops.wooyun.org/tips/16431
+﻿"漏洞检测的那些事儿，来自乌云 Drops： https://t.co/GjlCI9Y0N9"
+[ Detect ]  Our blog post on signature-free #malware C2 detection has been updated with a #Kovter signature by @ networktotal ;) http://netres.ec/?b=165BF7D
+﻿" 数据包处理工具 CapLoader 1.4 版本加入对 C&C 流量的识别，而且不依赖黑名单和特征： https://t.co/GsIW2EC84w "
+[ Detect ]  As promised, blog post: Threat Actors Employ COM Technology in Shellcode to Evade Detection https://blogs.mcafee.com/mcafee-labs/threat-actors-employ-com-technology-shellcode-evade-detection.
+﻿" 攻击者在 Shellcode 中采用 COM 技术逃逸检测： https://t.co/wSpEEPFFxm "
+[ Detect ]  We release a snort x509 certificate reputation plugin http://seclists.org/snort/2016/q2/324 source: https://github.com/CERT-Polska/snort3-x509-reputation-plugin
+﻿"Snort x509 证书信誉评估插件： https://t.co/lflK8hunhv  GitHub Repo︰ https://t.co/GaGXfygq8M"
+[ Detect ]  FUNNY HONEY – TRACKING HACKERS IN CYBERSPACE : DFIR BLOG https://dfir-blog.com/2016/05/17/funny-honey-tracking-hackers-in-cyberspace-part1/
+﻿" 这篇 Blog 讲通过蜜罐监控网络攻击活动。作者听说蜜罐捕获的攻击活动很多都来自中国，于是他在 Google 云上搭建了 6 个蜜罐，看看是不是这么回事： https://t.co/ooDT0YeqaY"
+[ Detect ]  Identifying DNS sinkholes is important when tracking threat actors, here are some tips on finding them http://blog.passivetotal.org/kyf-if-might-be-a-sinkhole-if/ #FIRSTCON16
+﻿" 识别 DNS Sinkhole，追踪攻击者： https://t.co/tt3a70B7PY  "
+[ Detect ]  Advanced Malware Evasion Techniques HTTP-Evader http://blogs.cisco.com/security/advanced-malware-evasion-techniques-http-evader
+﻿" 检测逃逸工具 HTTP-Evader 所用的逃逸技术： https://t.co/y1oYwzc9Pe"
+[ Detect ]  Detecting Lateral Movement in APTs ～Analysis Approach on Windows Event Logs~ https://www.first.org/resources/papers/conf2016/FIRST-2016-105.pdf [PDF] #DFIR https://t.co/mvFcomDf7I
+﻿" 通过分析 Windows 事件日志的方法检测 APT 攻击中的横向渗透，来自 FIRST 会议： https://t.co/y04wM2cADT   https://t.co/mvFcomDf7I"
+[ Detect ]  Smart detection of passive TOR sniffing https://goo.gl/ZWtS5o
+﻿" Tor 网络被动方式嗅探的智能检测： https://t.co/4lqBFVL7y1"
+[ Detect ]  w0w, a nice plugin for Bro IDS using Unicorn emulator to detect shellcode! https://github.com/Mipu94/BroIDS_Unicorn
+﻿" Bro IDS 用于检测 Shellcode 的插件，基于 Unicorn 模拟器： https://t.co/npUgGqXAeb"
+[ Detect ]  Remote detection of a user's AV via Flash http://agrrrdog.blogspot.com/2016/06/remote-detection-of-users-av-via-flash.html
+﻿" 利用 Flash 远程探测反病毒软件的存在： https://t.co/bGcyKlMzy9  "
+[ Detect ]  Acceleration of Statistical Detection of 0day Malware in the Memory Dump Using CUDA-enabled GPU HW HT: @ semibogan http://arxiv.org/abs/1606.04662
+﻿" 基于启用 CUDA 的 GPU，从内存 DUMP 中检测 0Day 恶意软件， Paper： https://t.co/0GmVHlTeiL"
+[ Detect ]  malspider : A web spidering framework that detects characteristics of web compromises : https://github.com/ciscocsirt/malspider
+﻿"malspider - 一个用于检测网站是否被黑的 Web 爬虫框架︰ https://t.co/Fl7zi0pZYD"
+[ Detect ]  Use #MicrosoftATA or write an IDS rule based on the #MS14068 exploit traffic. https://adsecurity.org/?p=763 https://twitter.com/TalBeerySec/status/747565789243379713
+﻿" 检测 MS14-068 PyKEK 攻击数据包： https://t.co/07jWpHuj69 https://t.co/Ag5RELr1mr"
+[ Detect ]  Auditing CSP headers with Burp and ZAP http://blog.gosecure.ca/2016/06/28/auditing-csp-headers-with-burp-and-zap/
+﻿" 利用 Burp 和 ZAP 工具审计 CSP Headers 的安全性： https://t.co/PiPrsL92bA"
+[ Detect ]  How to detect most malicious macros without an antivirus (part 1): http://decalage.info/mraptor https://t.co/BeIGUgdIEz
+﻿" 不依赖杀软，检测大部分的恶意宏代码（利用 mraptor 工具）︰ https://t.co/bOI7jeuRx0 https://t.co/BeIGUgdIEz"
+[ Detect ]  DOUBLETAKE: Fast and Precise Error Detection via Evidence-Based Dynamic Analysis http://arxiv.org/pdf/1601.07962.pdf
+﻿"DOUBLETAKE - 以线索为基础的动态分析，实现快速精确的异常检测： https://t.co/8InkBTFzNq"
+[ Detect ]  Pretty cool: researchers identify flows of encrypted traffic related to malware families https://motherboard.vice.com/read/researchers-figure-out-how-to-detect-malware-in-encrypted-traffic https://t.co/VfToVAcyXa
+﻿"安全研究人员找到了在加密流量中检测恶意软件家族的方法： https://t.co/kKwH1av2tT https://t.co/VfToVAcyXa "
+[ Detect ]  Anti Ransom: Detect and stop ransomware via honeypot, dumping memory for key extraction http://www.security-projects.com/?Anti_Ransom
+﻿" Anti Ransom - 通过蜜罐检测和阻断勒索软件的开源工具： https://t.co/pnhsN4ioTT "
+[ Detect ]  CryptoLock (and Drop It) : Stopping Ransomware Attacks on User Data : http://www.cise.ufl.edu/~traynor/papers/scaife-icdcs16.pdf (pdf)
+﻿" CryptoDrop - 勒索软件检测和阻断工具，Paper︰ https://t.co/ddeY54HXp9 "
+[ Detect ]  Now available: Duo Insight, a tool to help organizations identify phishing risks. http://duo.sc/insight_bl https://t.co/RgjFoDl1Mq
+﻿" Duo Insight - 一个帮助企业发现钓鱼攻击的工具： https://t.co/2VUncLdEQi https://t.co/RgjFoDl1Mq"
+[ Detect ]  How to track actors behind keyloggers using embedded credentials http://bit.ly/29NXKb3
+﻿" 通过 Keylogger 二进制文件中内嵌的凭据信息追踪背后的攻击者，来自 Palo Alto Blog： https://t.co/ES4azW5YMt "
+[ Detect ]  Towards Efficient Dynamic Integer Overflow Detection on ARM Processors http://wurster.ca/glenn/publications/BlackBerry-Integer_Overflow-2016.pdf
+﻿" ARM 处理器整数溢出运行时动态检测技术， Paper： https://t.co/UUtQuzlrDJ"
+[ Detect ]  Detecting malicious behaviour using system calls : http://repository.tudelft.nl/islandora/object/uuid:c71c85bc-d742-449b-88e7-33e172392ec2?collection=education
+﻿" 通过监控系统调用检测 OS X 软件的恶意行为︰ https://t.co/plIxakclp1"
+[ Detect ]  Bypassing Gmail’s Malicious Macro Signatures https://warroom.securestate.com/bypassing-gmails-malicious-macro-signatures/
+﻿"绕过 Gmail 的恶意宏特征检测： https://t.co/cQP3OM2kFB"
+[ Detect ]  Detecting the Neutrino exploit kit based on its network behaviour http://capstarforensics.com/?p=713
+﻿" 基于网络行为检测 Neutrino EK： https://t.co/AsL8KSUwkC "
+[ Detect ]  Detecting Spoofed Messages Using Clock Skew https://www.schneier.com/blog/archives/2016/07/detecting_spoof_1.html
+﻿" 利用时钟偏差检测发往汽车 ECU 的欺骗消息： https://t.co/BVvCiC0ipA"
+[ Detect ]  We just published a paper by FireEye's Ankit Anubhav on some recent evasion tricks used by malware. https://www.virusbulletin.com/virusbulletin/2016/07/journey-evasion-enters-behavioural-phase/
+﻿" VirusBulletin 对最近的恶意软件检测逃逸技巧的总结： https://t.co/dEvfZH0Eie"
+[ Detect ]  Our #Whitepaper explains why a global aerospace giant, Dell SonicWALL & more use VMRay http://bit.ly/1SZJewH https://t.co/ZTQVxKwsxp
+﻿" VMRay 技术白皮书， VMRay 是一种基于 Hypervisor 的恶意软件分析和威胁检测技术： https://t.co/TGPDaClv2O https://t.co/ZTQVxKwsxp"
+[ Detect ]  Extracting C&C from Android Malware: http://cerbero-blog.com/?p=1633 https://t.co/SPsgulzLLq
+﻿"利用 Cerbero 工具从 Android 恶意软件中提取 C&C 服务器地址: https://t.co/CSvhtuDNwx "
+[ Detect ]  Our USENIX Security paper "Micro-Virtualization Memory Tracing to Detect and Prevent Spraying Attacks" is up: http://goo.gl/d7g3nT 1/2
+﻿" 利用微虚拟化内存跟踪技术检测 Heap Spray︰ https://t.co/f7QV3TgFFi "
+[ Detect ]  Membrane : A Posteriori Detection of Malicious Code Loading by Memory Paging Analysis : http://www.crysys.hu/~pek/pubs/Pek+16ESORICS.pdf (pdf)
+﻿" Membrane - 通过分析内存页，检测恶意代码的加载行为︰ https://t.co/SduZde6mAn "
+[ Detect ]  Making your Shellcode Undetectable using .NET https://osandamalith.com/2016/08/01/making-your-shellcode-undetectable-using-net/ via @ OsandaMalith
+﻿" 基于 .NET 工具，实现 Shellcode 的免杀： https://t.co/l6KgtHRsv9 "
+[ Detect ]  New @ volatility blog post: Automating Detection of Known Malware through Memory Forensics http://volatility-labs.blogspot.com/2016/08/automating-detection-of-known-malware.html #DFIR #infosec
+﻿" 基于 Volatility 取证分析框架，自动化地检测已知恶意软件： https://t.co/0mmH1AkNLM "
+[ Detect ]  CAPTURING 0DAY EXPLOITS WITH PERFECTLY PLACED HARDWARE TRAPS: https://www.blackhat.com/docs/us-16/materials/us-16-Pierce-Capturing-0days-With-PERFectly-Placed-Hardware-Traps.pdf
+﻿" 用预设的完美硬件断点抓 0Day Exploits， 作者在 BlackHat 演讲的 PPT︰ https://t.co/s5Yt8Ayyk2   Paper: https://www.blackhat.com/docs/us-16/materials/us-16-Pierce-Capturing-0days-With-PERFectly-Placed-Hardware-Traps-wp.pdf "
+[ Detect ]  Certificate Bypass : Hiding and Executing Malware from a Digitally Signed Executable : https://www.blackhat.com/docs/us-16/materials/us-16-Nipravsky-Certificate-Bypass-Hiding-And-Executing-Malware-From-A-Digitally-Signed-Executable-wp.pdf (wp) #BlackHat2016
+﻿" 在有有效数字签名的可执行程序中藏恶意代码，来自 BlackHat 2016 会议︰ https://t.co/GkVy0uEFG2 "
+[ Detect ]  Using WMI to monitor malicious activity https://www.fireeye.com/blog/threat-research/2016/08/wmi_vs_wmi_monitor.html #DFIR #windows #WMI #ThreatHunting (source: https://github.com/realparisi/WMI_Monitor)
+﻿" 基于 WMI 的恶意行为监控，来自 FireEye： https://t.co/cjrmPHDSK7  FireEye 还公开了一个监控脚本： https://t.co/uG4Sdy4hot "
+[ Detect ]  An Analysis on the Impact and Detection of Kernel Stack Infoleaks https://www.researchgate.net/profile/Salva_Peiro/publication/298313650_An_Analysis_on_the_Impact_and_Detection_of_Kernel_Stack_Infoleaks/links/56e7e5d208aea51e7f3aece7.pdf
+﻿" 内核栈信息泄漏漏洞的影响和检测： https://t.co/RWfLV1MQ7A"
+[ Detect ]  COFI Break - breaking exploits with practical control flow integrity - http://gsec.hitb.org/materials/sg2016/D2%20-%20Shlomi%20Oberman%20and%20Ron%20Shina%20-%20Breaking%20Exploits%20with%20Practical%20Control%20Flow%20Integrity.pdf wp http://gsec.hitb.org/materials/sg2016/whitepapers/Breaking%20Exploits%20with%20Practical%20Control%20Flow%20Integrity%20-%20Shlomi%20Oberman%20and%20Ron%20Shina.pdf
+﻿"  通过有效的 CFI 特性检测 Exploit，PPT： https://t.co/xhK3aoZSi2   Paper： https://t.co/Up7HCwqZTQ"
+[ Detect ]  Need more examples to get started with SSL certificate hunting? @ markpars0ns has 5 of them! https://mpars0ns.github.io/archc0n-2016-tls-slides/#/ #malware #infosec #hunt
+﻿" 从 SSL 证书的角度检测攻击者： https://t.co/s9mfNXBRnT "
+[ Detect ]  Posted the first version of Conveigh, a #PowerShell LLMNR/NBNS spoofer detection tool. https://github.com/Kevin-Robertson/Conveigh
+﻿" Conveigh - PowerShell 写的一个 LLMNR/NBNS 欺骗检测工具： https://t.co/l4Zs6zfrB8"
+[ Detect ]  Best paper I've ever read for Intrusion detection with Windows Events! https://cyber-ir.com/2016/08/27/intrusion-detection-with-windows-event-ids/ #dfir #ThreatHunting
+﻿" 基于 Windows 事件日志的入侵检测： https://t.co/P9beVnc0HU "
+[ Detect ]  Detect botnet spikes using recurrent neural networks with LSTM in our latest blog post by @ dvidrdgz! https://blog.opendns.com/2016/09/06/dominos-botnets-little-lstm/
+﻿" 使用递归神经网络的方法检测 Botnet 的峰值： https://t.co/VYbysnkg7b"
+[ Detect ]  How to Hunt: Detecting Persistence & Evasion with the COM https://www.endgame.com/blog/how-hunt-detecting-persistence-evasion-com
+﻿" Windows 系统从 COM 的角度检测攻击维持和逃逸技术： https://t.co/6ZhPZ5K3YC"
+[ Detect ]  Approximating Attack Surfaces with Stack Traces https://www.microsoft.com/en-us/research/wp-content/uploads/2015/05/Aproximating-Attack-Surfaces-with-Stack-Traces.pdf
+﻿" 从栈回溯信息中识别攻击界面，来自微软 2015 年公开的一篇 Paper： https://t.co/roVgiZQF70 "
+[ Detect ]  Detecting lateral movement in APT's by Japan CERT. http://goo.gl/tJ6ccc #ThreatHunting https://t.co/otncpHdy3P
+﻿" 通过分析 Windows 事件日志的方法检测 APT 攻击中的横向移动： https://cyber-ir.com/2016/09/23/detecting-lateral-movement-in-apts-by-japan-cert/ "
+[ Detect ]  Introducing DeepBlue CLI : A PowerShell module for Hunt Teaming via Windows Event Logs : https://drive.google.com/file/d/0ByeHgv6rpa3gNU4wLVZKNjd4cTA/edit
+﻿" DeepBlue CLI - 基于 Windows 事件日志检测威胁的工具，PowerShell 编写： https://t.co/ggk03K7nsL"
+[ Detect ]  Detecting malicious code in a web server http://dione.lib.unipi.gr/xmlui/bitstream/handle/unipi/8831/Soleas_Agisilaos.pdf
+﻿" Web 服务器中的恶意代码检测： https://t.co/jfuijVvJei "
+[ Detect ]  MITMCanary #VB2016 slides are uploaded :) https://www.virusbulletin.com/uploads/pdf/conference_slides/2016/Wallace-vb-2016-detecting-mitm-canary.pdf
+﻿"MITMCanary - 检测中间人攻击： https://t.co/eNpXTCukXn   作者还公开了一个工具： https://github.com/CylanceSPEAR/mitmcanary "
+[ Detect ]  [Blog] Increased use of WMI for environment detection & evasion http://bddy.me/2dtmhBG #infosec https://t.co/Ze8DJyPKJG
+﻿"恶意软件在环境检测和逃逸方面更多的开始使用 WMI ：  https://t.co/gl6YdDPUvo "
+[ Detect ]  Code Relatives: Detecting Similarly Behaving Software（相似行为软件的检测）： https://loccs.sjtu.edu.cn//gossip/blog/2016/10/11/2016-10-11/
+[ Detect ]  New blog from @ HackingDave: Reliability Detecting PtH through Event Log Analysis. https://www.binarydefense.com/bds/reliably-detecting-pass-the-hash-through-event-log-analysis/ #BinaryDefense
+﻿"通过事件日志分析来可靠的进行 PtH 检测 ：  https://t.co/9aLjljloIR "
+[ Detect ]  通过计算 indirect branches 的密度来检测 ROP 攻击的方法： https://loccs.sjtu.edu.cn//gossip/blog/2016/10/18/2016-10-18/
+[ Detect ]  A simple way for detection the remote user's antivirus : https://vah13.github.io/AVDetection/
+﻿"用一个简单的方法来远程检测用户的反病毒软件︰ https://t.co/oYxZocmV6T"
+[ Detect ]  TypeSan: Practical Type Confusion Detection（实用型的类型混淆检测）： https://loccs.sjtu.edu.cn//gossip/blog/2016/11/08/2016-11-08/
+[ Detect ]  从Nginx Access日志中挖掘有价值的漏洞： http://mp.weixin.qq.com/s?__biz=MzI5ODE0ODA5MQ==&mid=2652277631&idx=1&sn=49f5aa92ba552df0aa43804c191a90fa&chksm=f74862ebc03febfd5b5866dfb1785319cf1a79cc026322624c0803cb65986ec6f2a2e9bc45b9#rd
+[ Detect ]  Detecting crypto ransomware based on HTTP traffic characteristics (Cryptowall & Locky tested) https://arxiv.org/pdf/1611.08294v1.pdf (by @ wmazurczyk)
+﻿"基于 HTTP 流量特征来检测加密勒索软件： https://t.co/Mr1G2iYdfu"
+[ Detect ]  Detecting In-Memory Mimikatz https://securityriskadvisors.com/blog/post/detecting-in-memory-mimikatz/
+﻿"检测内存中的 Mimikatz： https://t.co/ara4U7IRb5"
+[ Detect ]  Attackers crack #ActiveDirectory service account pw offline for privilege esc. Detect #Kerberoasting Activity:… https://t.co/PTQsYa9PqD
+﻿"检测 Kerberoasting 攻击行为： https://adsecurity.org/?p=3458"
+[ Detect ]  You can detect Mimikatz stealing passwords by configuring Sysmon to watch Lsass.exe for process access: https://t.co/KSv9G9T21y
+﻿"通过配置 Sysmon 观察 Lsass.exe 进程，可以发现 Mimikatz 偷密码的行为︰ https://t.co/KSv9G9T21y"
+[ Detect ]  我的ELK搭建笔记（Windows 日志收集）： http://mp.weixin.qq.com/s?__biz=MzI5ODE0ODA5MQ==&mid=2652277948&idx=1&sn=96ceb072aeda6cb94d64d9feff98393a&scene=0#wechat_redirect
+[ Detect ]  Here are the slides from the Sysmon presentation I just delivered at @ RSAConference https://1drv.ms/p/s!AubxkJFptCbQlhvLwkUygf1dSeaM
+﻿" 从应急响应到威胁检测 - 基于 Sysinternals 的 Sysmon 工具实现： https://t.co/jeS1gbU5gu "
+[ Detect ]  Defeating Dynamic Data Kernel Rootkit Attacks via VMM-based Guest-Transparent Monitoring : https://www.csc2.ncsu.edu/faculty/xjiang4/pubs/ARES09.pdf (pdf)
+﻿"通过虚拟机监控（VMM）实现对 Dynamic Data Kernel Rootkit 的检测︰ https://t.co/9pIvH544wr "
+[ Detect ]  New post: Smart Whitelisting Using Locality Sensitive Hashing http://bit.ly/2obyyUe @ TrendMicro
+﻿" 基于局部敏感哈希算法的智能白名单： https://t.co/1MMF2Zue9c "
+[ Detect ]  ossec-hids : Open Source Host-based Intrusion Detection Sys(log analysis, file integrity, rootkit detection & more): https://github.com/ossec/ossec-hids
+﻿" ossec-hids - 一款主机端的开源入侵检测系统，支持日志分析、文件完整性检查、策略监控等功能： https://t.co/POL7peuXjJ"
+[ Detect ]  Patch-related Vulnerability Detection Based on Symbolic Execution http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7867765 /cc @ Laughing_Mantis
+﻿"基于符号执行的思路，从 Patch 补丁代码中检测新漏洞的引入： https://t.co/21bScHeWBw "
+[ Detect ]  Network-based Ransomware Detection : http://conference.hitb.org/hitbsecconf2017ams/materials/D1T4%20-%20Paulus%20Meesen%20and%20Don%20Mulders%20-%20A%20Passive%20Listing%20Ransomware%20Detector.pdf (Slides)
+﻿"基于网络的勒索软件检测︰ https://t.co/cJgD7Q4m78 "
+[ Detect ]  PCRE 正则在被动网络防御方面的应用： http://ropgadget.com/posts/defensive_pcres.html
+[ Detect ]    在内存中检测恶意软件： https://www.endgame.com/blog/technical-blog/hunting-memory
+[ Detect ]  使用 Sysmon 与 Splunk 进行高级事件检测与威胁捕获： http://security-research.dyndns.org/pub/slides/FIRST2017/FIRST-2017_Tom-Ueltschi_Sysmon_FINAL.pdf
+[ Detect ]   使用 Sysmon 与 Powershell Logs 检测攻击行为： https://securitylogsdotorg.files.wordpress.com/2017/06/bsides-athens-sysmon-final.pdf
+[ Detect ]   如何检测来自 Malicious Hypervisor 的威胁，Paper： http://www.sicherheitsforschung-magdeburg.de/uploads/journal/MJS_051_Utin_Hypervisor.pdf
+[ Detect ]  Stuxnet 攻击中，USB 设备被用于建立了一个隐身网络，这篇 Paper 作者研究如何检测此类看不见的网络： https://www.exploit-db.com/docs/42318.pdf
+[ Detect ]  如何检测使用USB设备创建的隐藏网络： http://bobao.360.cn/learning/detail/4115.html
+[ Detect ]   The ThreatHunter Playbook - 专注威胁检测一个 GitHub 项目： https://github.com/Cyb3rWard0g/ThreatHunter-Playbook
+[ Detect ]  DerbyCon 2017 会议一篇关于威胁检测的议题《Purpose Driven Hunt》： https://www.slideshare.net/JaredAtkinson/purpose-driven-hunt-derbycon-2017/1
+[ Detect ]   Deception-as-Detection - 基于欺骗的检测技术： https://github.com/0x4D31/deception-as-detection
+[ Detect ]  异常检测事例： https://www.nominum.com/tech-blog/many-security-usages-anomaly-detection/
+[ Detect ]  Amazon Guard Duty，一款托管式的威胁检测服务： https://aws.amazon.com/cn/guardduty/
+[ Detect ]  通过静态分析检测二进制代码中的 Use-After-Free 漏洞： http://blog.amossys.fr/intro-to-use-after-free-detection.html
+[ Detect ]   追查黑客行为：发现与检测横向渗透的方法： https://www.botconf.eu/wp-content/uploads/2017/12/2017_tomonaga-muda-Hunting-Attacker-Activities.pdf
+[ Detect ]   使用 Sysmon 和 ELK 检测 mimikatz 的执行： https://jordanpotti.com/2018/01/03/automating-the-detection-of-mimikatz-with-elk/
+[ Detect ]  利用 ELK 自动化检测 Mimikatz: https://jordanpotti.com/2018/01/03/automating-the-detection-of-mimikatz-with-elk/
+[ Detect ]  通过监测 Last-Level Cache 的使用检测 Meltdown 和 Spectre 漏洞攻击的工具，来自 Capsule8 团队： https://capsule8.com/blog/detecting-meltdown-spectre-detecting-cache-side-channels/  https://github.com/capsule8/capsule8/blob/master/examples/cache-side-channel/main.go
+[ Detect ]  HeNet - 基于 Intel Processor Trace，利用深度学习的方法实现高效 Exploit 检测： https://arxiv.org/abs/1801.02318
+[ Detect ]  针对移动类恶意软件的检测技术（paper）： https://arxiv.org/ftp/arxiv/papers/1801/1801.02837.pdf
+[ Detect ]  Java RASP浅析——以百度OpenRASP为例： https://paper.seebug.org/513/
+[ Detect ]   编写 Yara 规则检测嵌入在 OLE 对象中的 EXE 文件： https://www.nextron-systems.com/2018/01/22/write-yara-rules-detect-embedded-exe-files-ole-objects/
+[ Detect ]  检测 PE 文件 RICH 头的异常: https://blog.kwiatkowski.fr/?q=en/rich-header
+[ Detect ]   使用统计文本分析在社交媒体上识别被黑的帐户（Paper）： https://arxiv.org/abs/1804.07247
+[ Detect ]  作者利用约 200 行 JS 代码实现面部识别： https://github.com/tehnokv/picojs

@@ -1,0 +1,100 @@
+[ Forensics ]  NTFS Forensics : A Programmers View of Raw Filesystem Data Extraction : http://grayscale-research.org/new/pdfs/NTFS%20forensics.pdf
+﻿"NTFS 取证: 从程序员的角度看原始文件系统数据提权: https://t.co/EeudpEmQma"
+[ Forensics ]  File system forensic Analysis : http://www.campus64.com/digital_learning/data/cyber_forensics_essentials/info_file_system_forensic_analysis.pdf (pdf) #b2b
+﻿"[图书] 文件系统取证分析，来自 Addison-Wesley Professional 2015 年 3 月份出版的一本书，作者为 Brian Carrier: (pdf)  https://t.co/Mz8YFXuknM"
+[ Forensics ]  Windows Registry Auditing Logging Cheat Sheet : http://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/568e98f1c21b869cfadbf3e7/1452185841782/Windows+Registry+Auditing+Cheat+Sheet+ver+1.1+Jan+2016.pdf (pdf)
+﻿"Windows 注册表审计备忘单: (PDF) https://t.co/1H3Xdg6EgV"
+[ Forensics ]  Computer Forensics, Malware Analysis & Digital Investigations: Understanding a Hyper-V server when ... | @ scoopit http://sco.lt/6a6rJp
+﻿"在取证分析时如何处理 Hyper-V Server https://t.co/uR7AwTQPwW "
+[ Forensics ]  Introduction to DFIR: http://sroberts.github.io/2016/01/11/introduction-to-dfir-the-beginning/ #DFIR @ sroberts
+﻿"DFIR（数字取证和应急响应）入门，介绍了一些应急相应、取证方面的工具和技巧，来自 sroberts 的 Blog： https://t.co/of0Tb9iDS8"
+[ Forensics ]  Infected Memory Dumps to Practice Memory Forensics With : https://code.google.com/p/volatility/wiki/PublicMemoryImages
+﻿"一些公开的恶意软件的内存镜像，可以用于练习内存取证: https://t.co/9VBhHJU9zp"
+[ Forensics ]  Windows Logging for PCI-DSS http://goo.gl/zARzG2 #MalwareAnalysis #Vulnerabilities
+﻿"为支持 PCI-DSS 标准， 都需要收集哪些 Windows 日志？ 来自 InfoSec Blog：  https://t.co/RVfIQNE4Kx "
+[ Forensics ]  #TR14 Advanced Smartphone Forensics, by @ vkatalov from @ ElcomSoft: https://www.troopers.de/media/filer_public/48/4e/484ec809-8c6c-413b-a538-abb3e24231fd/troopers14-advanced_smartphone_forensics-vladimir_katalov.pdf [PDF] https://t.co/Wu6WWgS12J
+﻿"高级智能手机取证技术， 来自 TR14 会议: https://t.co/GLf4z3LDfc  https://t.co/Wu6WWgS12J"
+[ Forensics ]  IR_Tool : A simple BASH script for digital forensic on Linux/UNIX system : https://github.com/pwnagentsmith/IR_Tool
+﻿"IR_Tool - 用于 Linux/UNIX 系统数字取证的一个 BASH 脚本， Github Repo: https://t.co/xz0GAxqvMI"
+[ Forensics ]  OS X Yosemite vs El Capitan: Forensic Artifacts Differences #DFIR http://buff.ly/1PxYb8e
+﻿"OS X Yosemite 和 El Capitan 在数字取证方面的一些差异， 来自 Champlain 大学的 Mac OS X 数字取证分析报告： https://t.co/OXGGl4iF7u"
+[ Forensics ]  Volume Shadow Copy and Registry Forensics https://montcs.bloomu.edu/~bobmon/DigFor/2012.HTCIA-conference/Talks/HTCIA%202012%20-%20VSC%20and%20Registry.pdf #DFIR
+﻿"卷影拷贝和注册表取证， 来自 HTCIA 2012 会议的演讲： https://t.co/HGTZ8cnISQ "
+[ Forensics ]  Hunting for Executable Code in Windows Environments, (Thu, Feb 18th) https://isc.sans.edu/diary.html?storyid=20745&rss
+﻿"通过 PE Capture 工具发现系统中正在运行的可执行程序，用于取证分析： https://t.co/cY2Ja9yFZk"
+[ Forensics ]  Forensic Challenges : http://www.amanhardikar.com/mindmaps/ForensicChallenges.html
+﻿"取证分析挑战题资料收集(脑图)︰ https://t.co/oB02WGF4Ag"
+[ Forensics ]  How to parse Windows Eventlog http://dfir-blog.com/2016/03/13/how-to-parse-windows-eventlog/
+﻿"如何解析 Windows 事件日志， 来自 DFIR Blog： https://t.co/XVfSOQdKWg"
+[ Forensics ]  Ineluctable Modality of Linux Audit(d) https://strcpy.net/audit.pdf
+﻿"Linux 审计不可避免的形态, Slides: https://t.co/Xf6kvE72NC"
+[ Forensics ]  SDN Forensics Challenge, 2016 - https://www.cmand.org/sdn/sdnf.html
+﻿"SDN 取证分析比赛 2016：  https://t.co/P3Bb4IN8Fq"
+[ Forensics ]  Generic RAID Reassembly using Block-Level Entropy https://www.insinuator.net/2016/03/generic-raid-reassembly-using-block-level-entropy/
+﻿"通过计算磁盘 Block 级熵，实现 RAID 取证还原： https://t.co/LARMbrImNt "
+[ Forensics ]  Automatic profile generation for live Linux Memory analysis : http://www.dfrws.org/2016eu/proceedings/DFRWS-EU-2016-2.pdf (pdf)
+﻿"自动生成用于实时 Linux 内存分析的 Profile 文件， 来自 DFRWS 2016 会议 ︰ https://t.co/7B4ScbL6fm "
+[ Forensics ]  Smartphone Forensics to Detect Distraction https://www.schneier.com/blog/archives/2016/04/smartphone_fore.html
+﻿"Cellebrite 公司正在开发一款智能手机取证设备，这个设备可以判断用户在某个时间点是否在使用手机。这个可用于判断交通事故中驾驶员当时是否在玩手机： https://t.co/9oXJU4z9Bf"
+[ Forensics ]  Google Rapid Response (GRR ) – Remote Live Forensics For Incident Response http://www.darknet.org.uk/2016/04/google-rapid-response-grr-remote-live-forensics-for-incident-response/
+﻿"GRR - Google 应急响应远程实时取证分析框架： https://t.co/0eq5MJoXcE"
+[ Forensics ]  Expanding Skype Forensics with OSINT: Email Accounts via @ bellingcat https://www.bellingcat.com/resources/2016/05/02/expanding-skype-forensics-with-osint-email-accounts/
+﻿"Skype 取证分析之提取邮件账户：  https://t.co/lggSOLPAGf "
+[ Forensics ]  Memory Forensics http://resources.infosecinstitute.com/memory-forensics/
+﻿"内存取证技术综述， 来自 InfoSec Blog： https://t.co/DHmz7xqMh1"
+[ Forensics ]  Powershell #DFIR must-reads: 1. https://p0w3rsh3ll.files.wordpress.com/2014/08/fireeye-lazanciyan-investigating-powershell-attacks.pdf 2. https://www.fireeye.com/blog/threat-research/2016/02/greater_visibilityt.html 3. https://blogs.msdn.microsoft.com/powershell/2015/06/09/powershell-the-blue-team/ 4. http://www.asd.gov.au/publications/protect/Securing_PowerShell.pdf
+﻿"关于 Powershell 取证技术与应急事件响应的几篇必读文章︰ 1：  https://t.co/DKUgh9FPXh  2：  https://t.co/X7KaXOJaAy   3：  https://t.co/YgvKECO5Ji   4：  https://t.co/1zuf2Ruib7"
+[ Forensics ]  Grabbing key artifacts 1 by 1 off a mounted filesystem is tedious - this script's been useful for others https://github.com/hiddenillusion/IR/blob/master/Triage/WindowsTriage.py #DFIR
+﻿" Windows 取证分析时，在文件系统中一个个的找文件太耗时，这个脚本可以帮助我们：  https://t.co/K9wflKll21  "
+[ Forensics ]  Radically improved Volatility Framework plugin for recovering BitLocker encryption keys (FVEK): https://github.com/elceef/bitlocker #DFIR
+﻿" Volatility 框架的一个 BitLocker 插件，用于还原 BitLocker 卷加密密钥: https://t.co/H2P8OFqGyT "
+[ Forensics ]  All your BLOBs are belong to us. http://goo.gl/x02NnF interests forensics source in the OSX QuickLook DB
+﻿" OS X 系统取证，All your BLOBs are belong to us： https://t.co/Rsx3vmhYg1 "
+[ Forensics ]  The Art of Defiling: Defeating Forensic Analysis on Unix File Systems - by @ thegrugq https://archive.org/details/hitb2004-grugq
+﻿" Defiling 的艺术 - 对抗 Unix 文件系统的取证分析：  https://t.co/qpcCm9Q8q3  "
+[ Forensics ]  The 4th annual @ volatility plugin contest: http://volatility-labs.blogspot.com/2016/04/the-2016-volatility-plugin-contest-is.html #DFIR #Malware
+﻿" 高级内存取证分析框架 Volatility 插件比赛的最终结果（2016）︰ https://t.co/MnGA1qwGEj  "
+[ Forensics ]  New Blog Post: Expanding Skype Forensics With OSINT: IP Addresses | Automating OSINT Blog http://bit.ly/1VwiMwY #osint #dfir
+﻿" Skype 取证分析 - 提取 IP 地址和地理位置信息，在地图上展示呼叫的位置：  https://t.co/YGGmtPvKDt  "
+[ Forensics ]  Understanding Critical Windows Artifacts and Their Relevance During Investigation http://resources.infosecinstitute.com/understanding-critical-windows-artifacts-and-their-relevance-during-investigation/
+﻿" Windows 应急响应调查与 NTFS 时间戳，来自 InfoSec Blog： https://t.co/puRNeH4zCF"
+[ Forensics ]  A collection of Digital Forensics and Incident Response tools by @ dfirtv http://dfir.training/index.php/tools/ #DFIR #Forensic https://t.co/OnnyUdgrub
+﻿" 数字取证与应急响应工具列表： https://t.co/9GrC54GPLO  https://t.co/OnnyUdgrub"
+[ Forensics ]  ssd forensics http://goo.gl/0WSn66
+﻿" SSD 硬盘取证分析： https://t.co/InBijtq2bh"
+[ Forensics ]  Writeup on extracting LastPass Site Credentials and LastPassPrivateKey from Memory with… https://techanarchy.net/2016/10/extracting-lastpass-site-credentials-from-memory/ https://t.co/qej0KfO0DT
+﻿"从内存中获取密码管理软件 LastPass 的凭据及其私钥的方法： https://techanarchy.net/2016/10/extracting-lastpass-site-credentials-from-memory "
+[ Forensics ]  CDQR Cold Disk Quick Response &gt; uses Plaso to parse disk images w/ specific parsers &amp; create CSVs by @AlanOrlikoski… https://t.co/0LeaTQXdDz
+﻿" CDQR（Cold Disk Quick Response）-- 可在 Windows, Linux 和 MacOS 上使用的取证分析工具： https://t.co/0LeaTQXdDz"
+[ Forensics ]  如何通过自动化重用程序代码，从内存镜像中恢复出属于该程序的可以被人理解的数据（图片、pdf、文档文件等）：http://securitygossip.com/blog/2017/01/03/2017-01-03/
+[ Forensics ]  #DFIR Cheat Sheets http://www.dfir.training/index.php/lists/dfir-infographics
+﻿"DFIR cheat Sheets： https://t.co/8W6ncCQRLu"
+[ Forensics ]  Windows 10 PE for Digital Forensics http://ow.ly/ZVl5307KIQN #dfir #digitalforensics
+﻿"Windows 10 PE for Digital Forensics： https://t.co/a04KC8oKPZ "
+[ Forensics ]  AFAIK there are at least two KLEE forks with built-in taint analysis: http://repository.cmu.edu/cgi/viewcontent.cgi?article=1242&context=ece&sei-redir=1&referer=https%3A%2F%2Fscholar.google.com%2Fscholar%3Fq%3DKLEE%2B%2522taint%2Banalysis%2522%26btnG%3D%26hl%3Den%26as_sdt%3D0%252C33#search=%22KLEE%20taint%20analysis%22 and https://cs.famaf.unc.edu.ar/~rcorin/kleecrypto/icics.pdf : any others?
+﻿"KLEE 在污点分析中的实际应用： https://t.co/tp1ufhGmkl"
+[ Forensics ]  Followup blog to the CCM_RecentlyUsedApps tools. Property values, meanings, and analysis tips. #DFIR #infosec https://t.co/iqP07KjSPe
+﻿"WMI 数据库 CCM_RecentlyUsedApps Records 数据解析与取证分析： https://t.co/iqP07KjSPe"
+[ Forensics ]  New Presentation: Logs Unite! - Forensic Analysis of Apple Unified Logs http://www.mac4n6.com/blog/2017/4/1/new-presentation-logs-unite-forensic-analysis-of-apple-unified-logs #DFIR #mac4n6 #logs #macadmin
+﻿"基于 Apple 产品日志数据的取证分析手册： https://github.com/mac4n6/Presentations/blob/master/Logs%20Unite!%20-%20Forensic%20Analysis%20of%20Apple%20Unified%20Logs/LogsUnite.pdf"
+[ Forensics ]  DFIR 网站收集的安全工具列表，以取证为主，也有一些其他方向的工具： http://www.dfir.training/index.php/tools/malware-analysis/371-cuckoo-sandbox
+[ Forensics ]   Apple FSEvents（文件系统事件）相关的取证问题总结： http://nicoleibrahim.com/apple-fsevents-forensics/
+[ Forensics ]   内存取证分析示例 ： https://articles.forensicfocus.com/2017/06/26/ram-forensic-analysis/
+[ Forensics ]  利用 Volatility 取证分析框架分析内存中的 Windows 注册表储藏信息： https://andreafortuna.org/volatility-my-own-cheatsheet-part-6-windows-registry-ddbea0e15ff5
+[ Forensics ]   Linux 取证技术介绍： https://countuponsecurity.com/2017/04/12/intro-to-linux-forensics/
+[ Forensics ]  反取证技术 - 将进程隐藏在内核模式中： https://www.cert-devoteam.fr/publications/en/antiforensics-techniques-process-hiding-in-kernel-mode/
+[ Forensics ]  自动化实现大范围计算机内存取证的方法介绍： https://medium.com/@henrikjohansen/automating-large-scale-memory-forensics-fdc302dc3383
+[ Forensics ]    Android 版本社交 APP Telegram Messenger 的取证分析： http://people.unipmn.it/sguazt/pubs/Anglano-2017-Telegram.pdf
+[ Forensics ]   iOS 与 iCloud 取证的艺术：  https://blog.elcomsoft.com/2017/11/the-art-of-ios-and-icloud-forensics/
+[ Forensics ]  SANS 内存取证分析秘籍： http://forensicmethods.com/sans-memory-forensics
+[ Forensics ]   InfoSecInstitute 公开了一份详细的数字取证相关的系列教程：  http://resources.infosecinstitute.com/category/computerforensics/introduction/areas-of-study/digital-forensics/
+[ Forensics ]   SLEUTH - 从 COTS 审计框架的数据重塑真实攻击的现场，Paper： https://arxiv.org/abs/1801.02062
+[ Forensics ]  Apple iBoot 源码是如何被泄漏到 GitHub 上的？ 来自 Motherboard 的报道：   https://motherboard.vice.com/en_us/article/xw5yd7/how-iphone-iboot-source-code-leaked-on-github
+[ Forensics ]   WhatsApp 取证分析：在非 root 的安卓设备上解密加密的数据库并提取删除的信息： https://blog.salvationdata.com/2018/02/08/whatsapp-forensics-decryption-of-encrypted-databases-and-extraction-of-deleted-messages-on-non-rooted-android-devices/
+[ Forensics ]  Docker 环境中的事件分析与取证： https://static.ernw.de/whitepaper/ERNW_Whitepaper64_IncidentForensicDocker_signed.pdf
+[ Forensics ]  Regaxor 正则表达式模糊测试工具介绍： https://github.com/0xSobky/HackVault/wiki/Regaxor:-Fuzzing-Regexes-for-Fun-and-Not%E2%80%90So%E2%80%90Much-Profit
+[ Forensics ]  数字取证调查中如何获取网络连接的时间戳： https://blog.illusivenetworks.com/tech/why-and-how-to-extract-network-connection-timestamps-for-dfir-investigations
+[ Forensics ]  使用内存取证技术寻找 Meterpreter 的踪迹： https://articles.forensicfocus.com/2018/04/03/finding-metasploits-meterpreter-traces-with-memory-forensics/
+[ Forensics ]  Powershell Download Cradles 攻击手法的检测： https://mgreen27.github.io/posts/2018/04/02/DownloadCradle.html
+[ Forensics ]  mac4n6 - Mac OS X 与 iOS 数字取证分析中的重点路径收集： https://github.com/pstirparo/mac4n6
+[ Forensics ]  APFS 文件系统的深入理解与取证分析： https://static.ernw.de/whitepaper/ERNW_Whitepaper65_APFS-forensics_signed.pdf

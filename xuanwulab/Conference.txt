@@ -1,0 +1,274 @@
+[ Conference ]  YouTube videos of security conferences in 2015: https://www.tunnelsup.com/online-security-conferences/
+﻿"2015 年多个安全会议的 YouTube 视频: https://t.co/9sOG2RsG6V"
+[ Conference ]  Videos and slides of #PrivacyCon: https://www.ftc.gov/news-events/events-calendar/2016/01/privacycon
+﻿"PrivacyCon 会议视频和演讲 Slides: https://t.co/So55wnZGDi"
+[ Conference ]  Major changes in Pwn2Own 2016: http://pastebin.com/Yt387wEn #Pwn2Own
+﻿"Pwn2Own 2016 的主要变化: https://t.co/3dy9sN2iPz #Pwn2Own"
+[ Conference ]  Pwn2Own 2016 Rules http://zerodayinitiative.com/Pwn2Own2016Rules.html
+﻿"Pwn2Own 2016 比赛规则， 来自 ZDI： https://t.co/jXItAHks8e"
+[ Conference ]  This year at #RSAC we'll have seven great breakout sessions. Here’s the list: http://symc.ly/1XQ82rO https://t.co/GgHFTlmB8O
+﻿"Symantec 在今年 RSA 会议的演讲名单 : https://t.co/6nDDnUdh75   今年 RSA 会议的 PPT 和视频资料： http://www.rsaconference.com/events/us16/downloads-and-media "
+[ Conference ]  [Slides] Bug Bounty Hunter Methodology - Nullcon 2016 http://bgcd.co/1pijLn7 @ Nullcon #Nullcon https://t.co/yYF6KBxXd9
+﻿"Bug Bounty Hunter 的方法论， 来自 Nullcon 2016 会议： https://t.co/VkYP5RXXdu   https://t.co/yYF6KBxXd9"
+[ Conference ]  Day 1 Briefings presentation materials for #BHASIA 2016 are now posted and available online here: https://www.blackhat.com/asia-16/briefings.html
+﻿"BlackHat Asia 2016 会议所有的 Slides︰ https://t.co/UxLGIvnM1x"
+[ Conference ]  CanSecWest 2016 Slides Download: http://www.slideshare.net/CanSecWest/presentations https://t.co/YDlINExbml
+﻿"CanSecWest 2016 会议 Slides 下载 ︰ https://t.co/15kauNxCT4 https://t.co/YDlINExbml"
+[ Conference ]  INFILTRATE 2016 speaker presentation slide decks are available online at http://infiltratecon.com/archives.html.
+﻿"INFILTRATE  2016 会议的所有 PPT 和视频： https://t.co/bL1FlBif0s。"
+[ Conference ]  Here's the slides (with speaker notes) from my #gocon talk. #golang http://dave.cheney.net/paste/gocon-spring-2016.pdf https://t.co/IwITZaapuW
+﻿"如何正确地处理 Go 程序中的错误， 来自 GoCon 会议： https://t.co/GGPr7HJZYR https://t.co/IwITZaapuW"
+[ Conference ]  The slides for xKungFoo 2016 https://drive.google.com/folderview?id=0B_thUFNIy8TdZjhNczBxNEl3MkU&usp=sharing
+﻿"xKungFoo 2016 会议 Slides:  https://t.co/XdCTvrJWDP "
+[ Conference ]  The slides for 0Con 2016 https://drive.google.com/folderview?id=0B_thUFNIy8TdcnhrMVJmREowU3M&usp=sharing
+﻿"0Con 2016 会议 Slides： https://t.co/v476okwji5 "
+[ Conference ]  The slides for 2016京·聚沙龙 is out. https://drive.google.com/folderview?id=0B_thUFNIy8TdX3F6NUFCYnlZbU0&usp=sharing
+﻿"2016 京·聚沙龙会议 Slides： https://t.co/6NXW6rsc7x"
+[ Conference ]  #HITB2016AMS Conference Agenda (PDF) - http://conference.hitb.org/hitbsecconf2016ams/wp-content/uploads/2014/06/HITB2016AMS-Conference-Agenda.pdf
+﻿"5 月底的 HITB 2016(阿姆斯特丹) 会议的日程： https://t.co/xAqLvEOK6s"
+[ Conference ]  Slides from Andrew Hay's Bootstrapping a Security Research Project talk at Hackmiami Conference 2016 https://speakerdeck.com/andrewsmhay/hack-miami-2016-bootstrapping-a-security-research-project #hackmiami
+﻿" 如何启动一个安全研究项目，来自 Hackmiami 2016 会议： https://t.co/G31nhhepE1 "
+[ Conference ]  All #PHDays video is now online http://www.phdays.com/broadcast/
+﻿" 上周 PHDays 会议的所有视频： https://t.co/6TTHtKwuZ5"
+[ Conference ]  SSTIC keynote slides by spender: https://grsecurity.net/SSTIC2016.pdf
+﻿"SSTIC 2016 会议 Keynote，来自 GrSecurity ︰ https://t.co/8QYa7D5M2P"
+[ Conference ]  Recon schedule is online https://recon.cx/2016/schedule/
+﻿" RECon 会议（本月 17 号）的日程安排： https://t.co/ypTjqdr2v2"
+[ Conference ]  Slides from my NDC Oslo talk "Coding to fight online abuse" are now at https://www.slideshare.net/secret/jWlrJQ7UbipRjy #ndcoslo
+﻿" NDC Oslo 会议的一篇演讲《Coding to fight online abuse》： https://t.co/LKiFPIMlil "
+[ Conference ]  EnFuse 2016 Slides Open #enfuse2016, https://www.guidancesoftware.com/enfuse-conference/2016/presentations
+﻿" Enfuse 2016 会议 PPT 下载： https://t.co/r2eSDu5pYE"
+[ Conference ]  Videos from the #HITB2016AMS #CommSec track are now online! More videos coming soon - https://www.youtube.com/playlist?list=PLmv8T5-GONwR_nTZuUyHN3AhIAOchFbU0 (RTs greatly appreciated)
+﻿" HITB 2016 阿姆斯特丹会议的视频上线了： https://t.co/iJ3zEuOy02 "
+[ Conference ]  Slides from Digital Investigations Conference are available here http://www.digitalinvestigationsconference.com/downloads/Presentations_DIC_2016_Zurich.zip, included what's new in #EnCase v8 ! #forensics
+﻿" 数字取证调查会议的所有 PPT 下载： https://t.co/f7fq95UhMl"
+[ Conference ]  2016 Kcon西部 - https://drive.google.com/folderview?id=0B_thUFNIy8TdYmYyWFFqbzBua0U&usp=sharing
+﻿"2016 Kcon 西部会议的 PPT 下载： https://t.co/W83jrRnale"
+[ Conference ]  乌云2016年白帽子大会 - https://drive.google.com/folderview?id=0B_thUFNIy8TdWVA4c0tEdl8zQTg&usp=sharing
+﻿"乌云 2016 白帽大会的 PPT 下载： https://t.co/9Bfp6vulez"
+[ Conference ]  Our OWASP AppSec EU16 presentation about "Static Code Analysis of Complex PHP Application Vulnerabilities" is online http://2016.appsec.eu/?page_id=914
+﻿" OWASP AppSec Europe 2016 会议的所有 PPT 下载： https://t.co/iWZB4eSYn6"
+[ Conference ]  2016阿里安全峰会 - https://drive.google.com/folderview?id=0B_thUFNIy8Tdd0JUNzZwYW1rcHM&usp=sharing
+﻿"2016 阿里安全峰会 PPT 下载： https://t.co/6doX9oFXba"
+[ Conference ]  2016JSRC乌托邦沙龙 - https://drive.google.com/folderview?id=0B_thUFNIy8TdeElDaTMwdVFJTkE&usp=sharing
+﻿"2016 JSRC 乌托邦沙龙 PPT 下载： https://t.co/53I9Nj0poy"
+[ Conference ]  All #defcon2016 slides: https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/ https://t.co/3Wyatv66yH
+﻿" DefCon 2016 会议所有的 PPT 下载︰ https://t.co/0SG9QGKmP6 "
+[ Conference ]  CCS'16 accepted papers posted: https://www.sigsac.org/ccs/CCS2016/accepted-papers/ Interesting there are multiple order-revealing/order-preserving crypto papers
+﻿"ACM CCS 2016 会议已审核通过的议题列表︰ https://t.co/YUDcHiyI14 "
+[ Conference ]  If you want to identify vulns in SWF files in your next pentest or bug bounty, read this! http://www.bsidesmcr.org.uk/#!slides/sajdc https://t.co/eq1Ulq2hHz
+﻿" BSides 曼彻斯特会议 PPT 下载： http://www.bsidesmcr.org.uk/#!slides/sajdc  其中还有个 Exploit P2P 协议的议题"
+[ Conference ]  #HITBGSEC #CommSec LIVE STREAM: https://www.youtube.com/watch?v=EODWYP0z58g - Slides are here: http://gsec.hitb.org/materials/sg2016/ (RTs greatly appreciated)
+﻿" HITB GSEC 会议的 PPT 可以下载了： http://gsec.hitb.org/materials/sg2016/ "
+[ Conference ]  “Breaking BHAD: Abusing Belkin Home Automation Devices” heap overflow, SQL injection, & code injection 0-days #BHEU http://ow.ly/EcWg303Oem0
+﻿" BlackHat Europe 会议将于 11 月 3 ～ 4 号在伦敦举办，会议的大部分议题已经公布了： https://www.blackhat.com/eu-16/briefings.html "
+[ Conference ]  Announcing #Mobile #Pwn2Own 2016! Details and info now available. http://bit.ly/2cxJoLX. Complete rules at http://bit.ly/2c1hpVb #MP2O
+﻿" Mobile Pwn2Own 2016 将于 10 月底（26、27 日）举办： http://blog.trendmicro.com/presenting-mobile-pwn2own-2016/   详细的比赛规则： http://zerodayinitiative.com/MobilePwn2Own2016Rules.html "
+[ Conference ]  REcon 2016 Presentation Videos https://recon.cx/2016/recordings/
+﻿" RECon 2016 会议的演讲视频下载： https://t.co/XnY7AiiBDT"
+[ Conference ]  BlackHat USA 2016 议题分析： http://riusksk.me/2016/09/25/BlackHat-USA-2016-%E8%AE%AE%E9%A2%98%E5%88%86%E6%9E%90/
+[ Conference ]  Derbycon 2016 Videos: http://www.irongeek.com/i.php?page=videos/derbycon6/mainlist
+﻿"Derbycon 2016 会议的所有视频︰ https://t.co/x85yaxTZFf"
+[ Conference ]  #PacSec 2016 Tokyo Oct26-27 12 speakers announced http://pacsec.jp/speakers.html new attendee fee 2days: CAD$650~ 1day: CAD$400~ register by Oct20
+﻿" PacSec 2016 会议的议题名单公布了，会议将于 10.26 ～ 10.27 在东京举办： https://t.co/Du2OrD5Ivn "
+[ Conference ]  #PacSec 2016 Tokyo Oct26-27 13 talks announced http://pacsec.jp/speakers.html 2days:CAD$650 1day:CAD$400 until Oct20 http://pacsec.jp/register.html
+﻿"2016年东京 PacSec 大会发布议题：  https://t.co/Du2OrD5Ivn  大会具体安排： https://t.co/H6XUYARCos"
+[ Conference ]  Black Hat USA 2016 videos - https://www.youtube.com/playlist?list=PLbHqJuIbKd_6jPpl9pnXGUmUj8gtlWony
+﻿" BlackHat USA 2016 会议的所有视频： https://t.co/mL1ser6ba0"
+[ Conference ]  Another Microsoft bug found - this time on BlueHat schedule https://blogs.technet.microsoft.com/bluehat/2016/09/01/bluehat-v16-schedule-announced (talks conflicted in same track… https://twitter.com/i/web/status/786262972951691264
+﻿" 2016 微软 BlueHat 会议的日程安排： https://blogs.technet.microsoft.com/bluehat/2016/09/01/bluehat-v16-schedule-announced/ "
+[ Conference ]  the speakers' list for SyScan360 in Shanghai is out. go check out https://www.syscan360.org/en/speakers/ http://fb.me/7QGGFHoQv
+﻿"SyScan360 2016 上海会议的演讲者及议题名单，会议将于 11 月 24-25 日举办： https://t.co/KIwdK6ddUE https://t.co/0fiu5tZOq4"
+[ Conference ]  Use-After-Use-After-Free (UAUAF), a novel & relatively universal exploit technique for UAF vulns in Flash #BHEU http://ow.ly/moaK305lMDs
+﻿" 下个月 4 号的 BlackHat Europe 会议上，有研究员会讲 UAUAF - 针对 Flash 的通用利用技术： https://t.co/zfIWn4khRt"
+[ Conference ]  Slides from @ xorrior and I presented at BSidesDC on emulating adversarial post exploitation techniques https://goo.gl/SQ01hX
+﻿" 来自 BSidesDC 会议的一篇演讲：《Adversarial Post-Ex: Lessons From The Pros》： https://t.co/lSZSv1wgDT"
+[ Conference ]  QCon 上海 2016 会议的幻灯片： https://github.com/QConChina/QConShanghai2016
+[ Conference ]  Hack.lu 2016 会议的 PPT： http://archive.hack.lu/2016/
+[ Conference ]  PacSec 2016 会议的 PPT： http://www.slideshare.net/PacSecJP/presentations
+[ Conference ]  ISC2016 中国互联网安全大会资料开放下载： http://security.360.cn/News/news/id/89.html
+[ Conference ]  Ruxcon 2016 slides: https://ruxcon.org.au/slides
+﻿"2016 Ruxcon 大会议题幻灯片现可下载︰ https://t.co/TQcccWQMc0"
+[ Conference ]  11 月 24~25 号，SyScan 360 2016 上海会议的议题公布： https://www.syscan360.org/zh/schedule/
+[ Conference ]  All submitted presentation materials, slides, & whitepapers from #BHEU 2016 Briefings are now available online: http://ow.ly/fpTj305MFlW
+﻿"BlackHat EU 2016 已放出所有议题PPT ︰ https://www.blackhat.com/eu-16/briefings.html"
+[ Conference ]  第二届互联网安全领袖峰会今日召开： http://www.thecss.cn/agenda.html 来自 FreeBuf 的直播（视频和图文）： http://www.freebuf.com/live?id=119355
+[ Conference ]  AWS re:Invent security talks: https://www.youtube.com/playlist?list=PLhr1KZpdzukfYBoBNGKS3axyHW9-JClQb
+﻿"AWS re:Invent 安全会谈的视频︰ https://t.co/LvvLB9NgVi"
+[ Conference ]  Retrieve passwords, execute shellcode, or attack the MS kernel using MS's own PowerShell and Signed Debugger #BHASIA http://ow.ly/IF6F306ZvI1
+﻿"BlackHat ASIA 2017 议题推荐：Hack Microsoft Using Microsoft Signed Binaries： https://t.co/TVSSas7ocK"
+[ Conference ]  【PPT下载】SyScan360上海站精彩演讲内容汇总： http://bobao.360.cn/news/detail/3818.html
+[ Conference ]  Now Available: Videos from re:Invent 2016 Security and Compliance Sessions https://aws.amazon.com/blogs/security/now-available-videos-and-slide-decks-from-reinvent-2016-security-and-compliance-sessions/
+﻿"AWS re:Invent 2016 会议视频发出： https://t.co/ukOaRF22BE"
+[ Conference ]  Material used for the 2016 #MISP training in Zurich (Switch-CERT) & #BotConf workshop (inc. virtual image) https://www.circl.lu/services/misp-training-materials/#switch-misp-training-2016-and-botconf-workshop-2016 #DFIR
+﻿"SWITCH MISP Training 2016 (and BotConf workshop 2016) PDF： https://t.co/yGcDzxZrev"
+[ Conference ]  Slides #ZeroNights 2016 https://2016.zeronights.org/conference-materials/presentations/
+﻿"ZeroNights 2016 大会PPT： https://t.co/aozWeupWbv"
+[ Conference ]  CB16 slides are released! Cb16資料公開！ https://twitter.com/codeblue_jp/status/813302478322200576
+﻿"CODE BLUE 2016 大会 ppt 放出： https://t.co/puSgzqjJTB"
+[ Conference ]  Recon Brussels 2017 talks list has been released https://recon.cx/2017/brussels/
+﻿"Recon Brussels 2017 大会入选议题公布： https://t.co/5n6vgC4PA7"
+[ Conference ]  Great talks about UEFI security from #33c3: "Bootstraping a slightly more secure laptop" and "Tapping into the core" https://media.ccc.de/c/33c3
+﻿"33C3 2016 大会议题视频集： https://t.co/1Bp6IkfCsV"
+[ Conference ]  Drone Hijacking and other IoT hacking with GNU Radio and SDR by ARTHUR GARIPOV, http://bit.ly/2izXfDM https://t.co/vRvlMLfrKQ
+﻿"nullcon 2017 大会议题放出： http://nullcon.net/website/goa-2017/about-speakers.php"
+[ Conference ]  Slides of some RWC talks are already online: https://www.realworldcrypto.com/rwc2017/program. Here are my slides on FourQ: https://t.co/p9ZUQRdsOA #realworldcrypto
+﻿"Real World Cryptography 2017 大会一些议题 PPT 已公布︰ https://t.co/HLjh7Bw77s"
+[ Conference ]  The Call for Papers for #HITBGSEC Singapore is now open! http://gsec.hitb.org/cfp/ Submissions due by April 30th (Event is Aug 21st - 25th)
+﻿"HITBGSEC Singapore 大会现已公开征集议题，议题提交截止时间： 4 月 30 日，大会将于今年 8 月 21-25 日期间进行： https://t.co/wW4PMDBqbo ; "
+[ Conference ]  Pwn2Own 2017 rules http://zerodayinitiative.com/Pwn2Own2017Rules.html
+﻿"Pwn2Own 2017 大赛规则： https://t.co/XYmw5Guzq8"
+[ Conference ]  ShmooCon 2017 Videos are up at @ internetarchive https://archive.org/details/ShmooCon2017
+﻿"ShmooCon 2017 会议的视频可以在线观看和下载了： https://t.co/MFDGPrgBTd"
+[ Conference ]  Security conferences – Survival guide 2017 Q2 “May the odds be ever in your favor”! https://blogs.securiteam.com/index.php/archives/2968 https://t.co/YMpBJdiojp
+﻿"2017 年第二季度安全会议参会指南： https://t.co/RVbBCROO82 https://t.co/YMpBJdiojp"
+[ Conference ]  Talks from BlueHat Israel are now posted: http://www.microsoftrnd.co.il/bluehat/Pages/Presentations.aspx
+﻿"BlueHat IL 议题公开︰ https://t.co/suFBUjYl2L"
+[ Conference ]  The list of (conditionally) accepted papers is available on the website: http://eurosys2017.org/
+﻿" EuroSys 会议已接受的 Papers 列表公开了（点击右上角的 Program）︰ https://t.co/810CNLG9sC"
+[ Conference ]  Our very own @RCS will be at @owasp @AppSecEU 2017 to deliver a Secure Coding in Java training course https://t.co/A21bEv5rZQ
+﻿"OWASP AppSec EU Belfast 2017 大会将于 5 月 11-12 日举行 https://2017.appsec.eu/"
+[ Conference ]  Recon 2017 Slides https://recon.cx/2017/brussels/slides/
+﻿"Recon 2017 大会议题 Slides： https://t.co/Uz5RRKAJs3"
+[ Conference ]  Looking for the slides to our talks at #RSAC2017 in the IoT Sandbox? Look no further, they are all linked here!… https://t.co/kzZuzgBVgp
+﻿"IoT Village 团队整理的 RSA 2017 大会关于 IoT 议题的 PPT： https://www.iotvillage.org"
+[ Conference ]  RSA 2017 Videos Playlist https://www.youtube.com/playlist?list=PLeUGLKUYzh_j1Q75yeae8upX-T1FLmZWf
+﻿"RSA 2017 会议的视频集： https://t.co/LcWGbW4qHK"
+[ Conference ]  Satellite Based IP Content Delivery Network : https://recon.cx/2017/brussels/resources/slides/RECON-BRX-2017-Reverse_Engineering_Satellite_Based_IP_Content_Distribution.pdf (Slides)
+﻿"基于卫星的 IP 内容传输网络，来自 RECON BRX 2017 大会︰ https://t.co/H0Ghu1U2Gb "
+[ Conference ]  The schedule for #nullcon Goa 2017 is posted! Get a preview before the conference http://nullcon.net/website/goa-2017/schedule.php
+﻿"nullcon Goa 2017 大会日程表：  https://t.co/0vt59RH6MC "
+[ Conference ]  CanSecWest 2017 speakers list revealed http://bit.ly/2lmgwtO
+﻿"CanSecWest 2017 入选议题公布： https://t.co/uSHMgqvYyP"
+[ Conference ]  CanSecWest 2017 slides https://www.slideshare.net/mobile/CanSecWest
+﻿"CanSecWest 2017 大会议题幻灯片发出： https://t.co/4qTd4ht9ub"
+[ Conference ]  USENIX Enigma 2017 videos are online: https://www.youtube.com/channel/UCIdV7bE97mSPTH1mOi_yUrw
+﻿"USENIX Enigma 2017 大会视频︰ https://t.co/nWnocB2gzb"
+[ Conference ]  2017 高通移动安全峰会的议题公布： https://qct-qualcomm.secure.force.com/QCTConference/GenericSitePage?eventname=2017Security&page=Summit%20Information
+[ Conference ]  Antivirus Evasion Reconstructed - Veil 3.0 by Christopher Truncer @ christruncer. Presentation available here: http://nullcon.net/website/archives/goa-2017.php
+﻿" Veil 杀软逃逸框架 3.0 发布，来自作者在 NULLCON 会议的演讲，另外 NullCon GOA 2017 会议的议题资料公开了︰ https://t.co/mvxAmXQjPB"
+[ Conference ]  All available slides and materials from today’s #BHASIA Briefings presentations are now posted online here: http://ow.ly/KQhN30aotH6
+﻿" BlackHat  Aisa 会议的部分 PPT 公开了︰ https://t.co/Rrf3fYu6Wd"
+[ Conference ]  HITB AMS 2017 阿姆斯特丹会议的大部分议题资料公开了： http://conference.hitb.org/hitbsecconf2017ams/materials/
+[ Conference ]  Android Security Symposium 2017 会议的视频和 PPT： https://usmile.at/symposium/program https://www.youtube.com/playlist?list=PL61IkVbNYniXoAXEFtftfElcSDNZoCLpe
+[ Conference ]   他山之石可以攻御，主要讲的是一些常见的绕过漏洞的原因和解决方案。来自呆子不开口在 QCon 的演讲： https://pan.baidu.com/s/1boUehKr
+[ Conference ]   BlackHat 官方开始陆续公布今年 7 月份会议的演讲议题，本次公开了 10 个： https://www.blackhat.com/us-17/briefings.html
+[ Conference ]  Ruxcon 2017 Call For Presentations released: https://ruxcon.org.au/cfp
+﻿"Ruxcon 2017 大会开始公开征集议题︰ https://t.co/lxp7R1YQFv"
+[ Conference ]  Ruxcon (21-22 October, Australia) Call For Presentations released: https://ruxcon.org.au/cfp
+﻿"Ruxcon 大会（10月 21-22 日） 开始公开征集议题︰ https://t.co/lxp7R1HfNX"
+[ Conference ]  BlackHat USA 2017 - on SHA1 collision https://www.blackhat.com/us-17/briefings.html#how-we-created-the-first-sha-1-collision-and-what-it-means-for-hash-security https://t.co/iMHjjmK14l
+﻿" 在今年 7 月份的 BlackHat USA 会议上，Google 的研究员将要谈他们是怎么发现第一个 SHA1 碰撞的，以及这对 Hash 安全性的影响： https://t.co/6Mqp6hqTGh "
+[ Conference ]  OPCDE slides + materials will be continuously uploaded on our GitHub repository. https://github.com/comaeio/OPCDE
+﻿"OPCDE  2017 大会 Materials ： https://t.co/pqeOC2Yv3w"
+[ Conference ]  Presentations of BlueHat IL https://microsoftrnd.co.il/bluehat/Pages/Presentations.aspx
+﻿"微软公开了 Blue Hat 2017 会议的 PPT 和视频： https://t.co/B4tRPqC65L"
+[ Conference ]  BSidesCharm 2017 Videos http://www.irongeek.com/i.php?page=videos/bsidescharm2017/mainlist, via @ irongeek_adc
+﻿"2017 BSidesCharm 安全会议视频：  https://t.co/O2hMK8iWNi"
+[ Conference ]  The call for papers for @ hack_lu 2017 is now open https://2017.hack.lu/blog/Call-for-Papers/ https://2017.hack.lu/cfp/ #callforpapers #infosec #luxembourg
+﻿" hack.lu 2017 大会将于 10月 17-19 日期间举行，大会现已开始公开征集议题： https://t.co/kOaDsN5OLB"
+[ Conference ]  5 月 30 号举办的 Syscan360 西雅图会议的议题列表公开了： http://www.syscan360.org/en/schedule/
+[ Conference ]  Powershell Conference Europe 2017 Material #PSConfEU https://github.com/psconfeu/2017
+" Powershell Conference Europe 2017 Material ： https://github.com/psconfeu/2017 "
+[ Conference ]  Blackhat Asia Slides: https://www.blackhat.com/asia-17/briefings.html
+" Blackhat Asia Slides： https://www.blackhat.com/asia-17/briefings.html "
+[ Conference ]  Awesome, IEEE Security & Privacy @ IEEESSP #SP17 papers are publicly available during the event. http://www.ieee-security.org/TC/SP2017/program.html …
+" 第 38 届 IEEE 隐私与安全研讨会的日程表，其中部分议题资料已经公开： https://t.co/FYVeA3q8OT "
+[ Conference ]  At last ! Here is the list of selected talks for REcon Montreal 2017: https://recon.cx/2017/montreal/news/2017/05/24/Talks-Announced.html
+" RECON 2017 会议的议题列表公布了： https://t.co/yChklQV1X1 "
+[ Conference ]  Slides available here, https://qct-qualcomm.secure.force.com/QCTConference/servlet/servlet.FileDownload?file=015a0000002ncVu
+" 高通 2017 移动安全峰会的几个议题资料公开了：公开议题总览： https://qct-qualcomm.secure.force.com/QCTConference/GenericSitePage?eventname=2017Security&page=Presentations   《亲爱的，你的攻击面被我砍掉了 - Android 安全加固实战》： https://qct-qualcomm.secure.force.com/QCTConference/servlet/servlet.FileDownload?file=015a0000002ncVu   《Hardware Root of Mistrust》： https://qct-qualcomm.secure.force.com/QCTConference/servlet/servlet.FileDownload?file=015a0000002ncVk ;  《syzkaller - 下一代内核 Fuzzer》： https://qct-qualcomm.secure.force.com/QCTConference/servlet/servlet.FileDownload?file=015a0000002ncW9 "
+[ Conference ]  Libabigail: How semantic analysis of C and C++ ELF binaries can be used to analyze ABI changes (osc17) http://cdn.media.ccc.de/events/osc/2017/h264-sd/osc17-1234-eng-Libabigail_How_semantic_analysis_of_C_and_C_ELF_binaries_can_be_used_to_analyze_ABI_changes_sd.mp4
+"  Libabigail - C/C++ EFI 二进制文件的语义分析可以被用于分析 ABI 的变化：来自 CCC 会议的视频： https://t.co/RfkZtaQSnl "
+[ Conference ]  CFPTime - A website to index open CFPs for infosec conferences around the world https://cfptime.org/
+" 一些安全会议的 CFP Deadline： https://t.co/0Qymt2cU2S "
+[ Conference ]  AppSecEU 2017 会议的视频公开了： https://www.youtube.com/playlist?list=PLpr-xdpM8wG8RHOguwOZhUHkKiDeWpvFp
+[ Conference ]  Pwnie Awards 2017 提名申请开始了： http://pwnies.com/
+[ Conference ]  security fest 2017 安全会议视频： https://t.co/E0kVMOtWBs
+[ Conference ]  #今日小彩蛋#为防止你错失 3 万元的获得机会，重点已替你画出： 1.参与腾讯安全探索论坛（TSec）议题投稿，投一篇首发的原创安全议题 2.参与腾讯安全探索论坛（TSec）议题投稿，投一篇首发的原创安全议题 3.参与腾讯安全探索论坛（TSec）议题投稿，投一篇首发的原创安全议题 详情传送门： http://www.thecss.cn/topic_c.html
+[ Conference ]  第三届 MOSEC 移动安全技术峰会PPT下载：  https://github.com/aozhimin/MOSEC-2017
+[ Conference ]  2017先知白帽子大会议题PPT： https://drive.google.com/drive/folders/0B_thUFNIy8TdYTdKZEkwSFowZzQ
+[ Conference ]  Pwnie Awards 2017 提名申请已结束： http://pwnies.com/
+[ Conference ]   2017 Linux 安全峰会的日程安排和议题列已公开： http://blog.namei.org/2017/07/11/linux-security-summit-2017-schedule-published/
+[ Conference ]  REcon Montreal 2017 议题 Slides： https://recon.cx/2017/montreal/slides/
+[ Conference ]  8 月 30 ~ 31 号将要举办的【2017腾讯安全国际技术峰会】的议题公开了： http://weibo.com/5857723369/FdssJj39g
+[ Conference ]  2017黑帽大会兵工厂工具列表，来自 SecWiki： https://mp.weixin.qq.com/s/ygh2JE69FRRdLJEOXYTcUg
+[ Conference ]   DerbyCon 2017 议题公布： https://www.derbycon.com/blog/derbycon-speaker-announcements/
+[ Conference ]   8 月份将要举办的 USENIX Security '17 会议的议程安排： https://www.usenix.org/conference/usenixsecurity17/technical-sessions
+[ Conference ]  BlackHat 2017 美国黑帽大会今日召开，来自 FreeBuf 的图文直播： http://www.freebuf.com/live?id=141559
+[ Conference ]  Blackhat us 2017 的部分议题资源已经放出： https://www.blackhat.com/us-17/briefings.html
+[ Conference ]   DEFCON 25 会议的 PPT 资料公开了： https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/
+[ Conference ]  BlackHat USA 2017 会议的大部分资料公开了： https://www.blackhat.com/us-17/briefings.html
+[ Conference ]   CCC SHA2017 会议的视频资料公开了： https://berlin.ftp.media.ccc.de/events/SHA2017/h264-sd/
+[ Conference ]  【CSS2017】腾讯安全探索论坛十大前沿科技先睹为快！ ： https://mp.weixin.qq.com/s/P4-OfCs387mY-Vf27j_H3Q
+[ Conference ]  Usenix WOOT 17 和 FOCI 17 会议 Workshop 的部分议题资料公开了： https://www.usenix.org/conference/foci17/workshop-program https://www.usenix.org/conference/woot17/workshop-program
+[ Conference ]  中国互联网安全领袖峰会今日召开： http://mp.weixin.qq.com/s/2itIkLAvfM4hnF_M6J3M2g http://www.freebuf.com/live?id=144033
+[ Conference ]   USENIX 2017 学术安全会议的大部分议题资料都公开了，之前推送过 Workshop 部分资料公开的信息： https://www.usenix.org/conference/usenixsecurity17/technical-sessions
+[ Conference ]  awesome-sec-talks： https://github.com/PaulSec/awesome-sec-talks
+[ Conference ]   HITB GSEC 2017 大会部分演讲议题 PPT 已公开： https://gsec.hitb.org/materials/sg2017/
+[ Conference ]  9 月 13 号在英国举办的 44CON 会议的日程和议题列表公开了： https://44con2017.sched.com/
+[ Conference ]  2017 腾讯安全国际技术峰会图文直播： http://www.freebuf.com/live?id=145854
+[ Conference ]  AI时代信息安全的未来，2017腾讯安全国际技术峰会首日议题全记录： http://www.freebuf.com/fevents/146073.html
+[ Conference ]  sha2017camp 上 12 个值得一看的演讲： http://blog.ptsecurity.com/2017/08/12-great-technical-talks-at-sha2017.html
+[ Conference ]   BlackHat 官方陆续在 Youtube 上公开 BlackHat USA 2017 会议的视频： https://www.youtube.com/channel/UCJ6q9Ie29ajGqKApbLqfBOg
+[ Conference ]  Microsoft Edge Web Summit 2017 议程： https://summit.microsoftedge.com/#schedule
+[ Conference ]  微软 2017 BlueHat 大会议程公布： https://blogs.technet.microsoft.com/bluehat/2017/09/01/announcing-the-bluehat-v17-schedule/
+[ Conference ]  BSidesAMS 2017 大会演讲视频集： https://www.youtube.com/playlist?list=PLwZycuzv10iLBFwRIWNAR-s4iuuUMRuEB
+[ Conference ]  KCon 议题 PPT 大放送！: https://paper.seebug.org/382/
+[ Conference ]  2017 SyScan360 大会议程： https://www.syscan360.org/zh/schedule/
+[ Conference ]   r2con 2017 会议的大部分议题公开了： https://github.com/radareorg/r2con-2017/tree/master/talks
+[ Conference ]  Linux 安全峰会（北美） 2017 的议程： https://lss2017.sched.com/
+[ Conference ]  USENIX 2017 会议的大部分演讲视频都已经公开了： https://www.usenix.org/conference/usenixsecurity17/technical-sessions
+[ Conference ]  Hardware.io 2017 会议的日程安排和议题列表： http://hardwear.io/schedule.php
+[ Conference ]   2017 年 12 月份将要举办的 BlackHat EU（欧洲）会议开始陆续公开议题和日程了：  https://www.blackhat.com/eu-17/briefings/schedule/index.html
+[ Conference ]  Bsides 2017 会议的一篇演讲《Repeated vs. single-round games in security》： https://docs.google.com/presentation/d/1y_R6Lkby-10LIIzFMnF4wqzqPWD-eh5RemWy31y4UjE/edit#slide=id.g26af5e9965_0_7
+[ Conference ]  USENIX 2017 会议 x86 处理器微码逆向的视频： https://www.youtube.com/watch?v=I6dQfnb3y0I
+[ Conference ]   PowerShell 亚洲 2017 会议将于 本月 27~28 号在新加坡举办： http://psconf.asia/
+[ Conference ]  Pacsec 2017 放出 11 个入选议题介绍： https://pacsec.jp/speakers.html
+[ Conference ]  CppCon 2017 会议所有的议题资料和视频： https://github.com/CppCon/CppCon2017 https://www.youtube.com/user/CppCon
+[ Conference ]  Hack.lu 2017 会议的所有演讲视频： https://t.co/X5rDHqEpTh
+[ Conference ]  ISC 2017 会议漏洞挖掘与源代码安全论坛的演讲 PPT 下载，来自安全客： http://bobao.360.cn/news/detail/4316.html
+[ Conference ]  GeekPwn 2017 解构行动 黑客大赛今日举办，比赛直播链接： https://mp.weixin.qq.com/s/UhcOooTdb3YQNa8-TmouEg
+[ Conference ]  GeekPwn 2017 黑客大赛上海站“解构行动”圆满收官，硅谷站 11 月见： https://mp.weixin.qq.com/s/xQJsJvbthycqcPrMZJ6L0w
+[ Conference ]  HITBSecConf2018 Amsterdam 将于 2018 年 4 月9-13 日召开： https://conference.hitb.org/hitbsecconf2018ams/
+[ Conference ]  ekoparty security conference 视频： https://www.youtube.com/channel/UCiVNwNkoMapaeyr9o6XEonA
+[ Conference ]    第 24 届 CCS 2017 会议公开了 Accepted Papers： https://acmccs.github.io/papers/
+[ Conference ]   10 月份举办的 Ruxcon 2017 会议的 PPT 公开了：  https://ruxcon.org.au/slides/
+[ Conference ]  前两周举办的 PacSec 2017 会议的 PPT 公开了： https://www.slideshare.net/pacsecjp
+[ Conference ]  2017 看雪安全开发者峰会 圆满结束： https://mp.weixin.qq.com/s/4ZHY2JmJtMY7EMUMHliClw
+[ Conference ]  2017 先知创新大会现场盘点： https://mp.weixin.qq.com/s/Kptnq2muTMHduH_kDk4e_g
+[ Conference ]   RECon 2017 会议的演讲视频公开了：  https://recon.cx/2017/montreal/recordings/
+[ Conference ]  H2HC 2017 Slides/Materials/Presentations： https://github.com/h2hconference/2017
+[ Conference ]  H2HC 2017 Slides/Materials/Presentations: https://github.com/h2hconference/2017
+[ Conference ]  Windows 10新子系统*新挑战（看雪2017安全开发者峰会演讲回顾0x9）: https://mp.weixin.qq.com/s/CLw5LVg_Gq1qLW8TSKcYYw
+[ Conference ]  botconf 2017 大会议程表：https://botconf2017.sched.com/
+[ Conference ]  hardwear.io 2017 会议的一篇演讲视频 - Shaking trust in hardware： https://www.youtube.com/watch?v=CWXL3tX00aU https://www.youtube.com/channel/UChwYb9xc9tZXquQxu4G0l_g/videos
+[ Conference ]  《安全智能 情报驱动》网络安全分析与情报大会资料下载： https://threatbook.cn/event/#agenda
+[ Conference ]  这两天举办的 BlackHat Europe 2017 会议的部分议题资料已经公开了： https://www.blackhat.com/eu-17/briefings.html
+[ Conference ]  微软 BlueHat 2017 会议的大部分议题资料公开了： https://www.slideshare.net/MSbluehat/presentations
+[ Conference ]  ZeroNights 2017 大会资料： https://2017.zeronights.org/materials/
+[ Conference ]   BlueHat IL 2018 将于明年 1 月 23 - 24 日举行，大会议题公布： http://www.bluehatil.com/abstracts.html
+[ Conference ]  Botconf 2017 大部分议题材料已经放出： https://www.botconf.eu/botconf-2017/programme/botconf-2017-talks/
+[ Conference ]  第 34 届 CCC（Chaos Communication Congress） 大会议程： https://events.ccc.de/congress/2017/Fahrplan/index.html
+[ Conference ]  德国 CCC 2017 会议第一天的视频公开了： https://media.ccc.de/c/34c3
+[ Conference ]  CCS 2017 大会所有 paper 放出： https://acmccs.github.io/fullsessions/
+[ Conference ]  将于 2018 年 3 月 22 号举办的 BlackHat Asia 亚洲会议公开了部分入选的议题： https://www.blackhat.com/asia-18/briefings.html
+[ Conference ]  DEFCAMP 2017 大会演讲内容公布： https://def.camp/archives/2017/#
+[ Conference ]  HITB SECCONF 2018 大会议程发布 ： https://conference.hitb.org/hitbsecconf2018ams/agenda/
+[ Conference ]  PPT分享 | 2017滴滴安全大会： https://www.anquanke.com/post/id/91789
+[ Conference ]   微软 BlueHat IL 2018 会议的演讲 PPT 和视频公开了： http://www.bluehatil.com/schedulde.html
+[ Conference ]  BAR2018 paper 下载：  http://ruoyuwang.me/files/BAR_2018_papers_without_DOI.7z
+[ Conference ]   lpeworkshop - Windows / Linux 本地提权 Workshop：  https://github.com/sagishahar/lpeworkshop
+[ Conference ]  Black Hat Asia 2018 议程： https://www.blackhat.com/asia-18/briefings/schedule/
+[ Conference ]  CanSecWest创始人宣布：携手腾讯在中国香港落地AsiaSecWest 2018： http://tech.chinadaily.com.cn/2018-03/16/content_35865695.htm
+[ Conference ]  TROOPERScon18 大会视频放出： https://www.youtube.com/channel/UCPY5aUREHmbDO4PtR6AYLfQ
+[ Conference ]   OffensiveCon18 大会视频： https://www.youtube.com/channel/UCMNvAtT4ak2azKNk6UlB1QQ
+[ Conference ]  Blackhat Asia 2018 所有议题放出: https://www.blackhat.com/asia-18/briefings.html 链接：https://pan.baidu.com/s/1XpyHK4l69vuVU0SsaFDyOg 密码：bvze
+[ Conference ]  CanSecWest 2018 大部分议题材料已放出： https://cansecwest.com/csw18archive.html
+[ Conference ]  OPCDE 2018 大会议题材料已公开： https://github.com/comaeio/OPCDE/tree/master/2018
+[ Conference ]  ACM ASIACCS 2018 大会中稿 paper 列表： http://asiaccs2018.org/?page_id=632
+[ Conference ]  2018 Qualcomm 移动安全峰会议程发布： https://qct-qualcomm.secure.force.com/QCTConference/GenericSitePage?eventname=2018Security&;page=Summit+Schedule
+[ Conference ]  HITB2018AMS Day 1 大会议题放出： https://conference.hitb.org/files/hitbsecconf2018ams/materials/
+[ Conference ]  HitbSecConf 2018 AMS 大会议题： https://conference.hitb.org/hitbsecconf2018ams/materials/
+[ Conference ]  创新沙盒初探 (1) - RSAC2018之一： https://mp.weixin.qq.com/s/aiVCRboVeWXwope4zcho5A 创新沙盒初探 (2) - RSAC2018之二： https://mp.weixin.qq.com/s/KEF458q-88jzrpRq6JpCUA
+[ Conference ]  TCTF/0CTF2018 XSS Writeup: https://paper.seebug.org/574/

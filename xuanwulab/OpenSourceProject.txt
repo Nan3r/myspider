@@ -1,0 +1,218 @@
+[ OpenSourceProject ]  ZDI-16-243: Google Chrome Pdfium JPEG2000 Out-Of-Bounds Read Information Disclosure Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-243/
+﻿" Google Chrome Pdfium JPEG2000 越界读信息泄露漏洞， ZDI-16-243 公告： https://t.co/xSnv0GM65h"
+[ OpenSourceProject ]  [SuggestedReading] Bypassing password authentication of users that have 2FA enabled http://ift.tt/1NxBXz6
+﻿"Gitlab 双因素认证用户的密码认证绕过 PoC： https://t.co/UW6VpW5vmA"
+[ OpenSourceProject ]  CVE-2016-3074: libgd: signedness vulnerability http://goo.gl/fb/rGtkwc #FullDisclosure
+﻿"CVE-2016-3074: 开源图像库 libgd 整数符号处理时存在漏洞： https://t.co/9lYmbrtFyr "
+[ OpenSourceProject ]  Re: CVE Request: Out-of-bands write issue found in qemu: +-- On Wed, 27 Apr 2016, 李强 wrote --+ | The qemu has... http://bit.ly/235peL7
+﻿"Qemu uart_write（） 内存越界写： https://t.co/gr89Epr7IZ"
+[ OpenSourceProject ]  Vulnerability Spotlight: Further NTPD Vulnerabilities http://feedproxy.google.com/~r/Vrt/~3/YoDCJSvJV-Y/vulnerability-spotlight-further-ntpd_27.html
+﻿"Cisco 在 NTPD 中发现了 6 个漏洞： http://blog.talosintel.com/2016/04/vulnerability-spotlight-further-ntpd_27.html "
+[ OpenSourceProject ]  Lavabit code opensourced - https://github.com/lavabit
+﻿"加密电子邮件服务 Lavabit 开源：  https://t.co/3PYQnsvXdc"
+[ OpenSourceProject ]  Slack users expose corporate credentials while creating new 'bot' tools http://www.scmagazine.com/slack-users-expose-corporate-credentials-while-creating-new-bot-tools/article/493375/
+﻿"企业通讯工具 Slack API 存在漏洞，泄露用户 Token： https://t.co/w5BFocez0e "
+[ OpenSourceProject ]  CVE-2016-3627 CVE-2016-3705: libxml2: stack overflow in xml validator (parser) http://seclists.org/fulldisclosure/2016/May/10
+﻿"libxml2 2.9.3 版本 xml 验证器栈溢出漏洞（CVE-2016-3627 CVE-2016-3705）：  https://t.co/RoE7I7SH6U"
+[ OpenSourceProject ]  . #OpenSSL patches padding oracle attack bug. https://threatpost.com/openssl-patches-two-high-severity-vulnerabilities/117792/ via @ threatpost
+﻿"OpenSSL 昨天发布补丁更新，其中修复了两个严重级别漏洞，一个 ASN.1 encoder 内存破坏漏洞，一个 AES-NI CBC MAC 检查时的 Padding Oracle Bug： https://t.co/2Y3KsKrPXn    有人做了一个检测这个 Padding Oracle Bug 的网站： https://filippo.io/CVE-2016-2107/ "
+[ OpenSourceProject ]  Full analysis of the OpenSSL CBC padding oracle (CVE-2016-2107) : https://blog.cloudflare.com/yet-another-padding-oracle-in-openssl-cbc-ciphersuites/ cc: @ FiloSottile https://t.co/8rVPEBBTH0
+﻿"CloudFlare 对 OpenSSL 最新 CBC Padding Oracle 漏洞(CVE-2016-2107) 的分析 ︰ https://t.co/xZxAnzkBnV   附 PoC： https://github.com/FiloSottile/CVE-2016-2107   https://t.co/8rVPEBBTH0"
+[ OpenSourceProject ]  LIBARCHIVE ZIP ZIP_READ_MAC_METADATA CODE EXECUTION VULNERABILITY http://www.talosintel.com/reports/TALOS-2016-0155/ .Having collision on it with @ ada95ftw, congrats
+﻿"libarchive 在处理 ZIP 解压缩时存在堆溢出漏洞（CVE-2016-1541）， 来自 Talos 的公告： https://t.co/6UEVztN9Rd "
+[ OpenSourceProject ]  My OpenSSL bug (CVE-2016-2107) provides a direct padding oracle, not a timing oracle as many claim. Updated my post: http://web-in-security.blogspot.de/2016/05/curious-padding-oracle-in-openssl-cve.html
+﻿"OpenSSL Padding Oracle Bug (CVE-2016-2107)的作者写了一篇分析 Blog︰ https://t.co/QhIJmtYJOL"
+[ OpenSourceProject ]  There are some Samsung source codes at http://opensource.samsung.com/popup/gitRepository.do ! Why am I just now finding out? Too bad it's not the primary method!
+﻿"三星的开源代码库，含多款手机、电视的源码： https://t.co/QwTFiuTGCc "
+[ OpenSourceProject ]  Heads up: I'm implementing context aware auto-escaping in Angular 2 to protect your apps from XSS bugs. See https://github.com/angular/angular/issues/8511
+﻿" Angular 框架正在实现上下文感知的 Auto-Escape 功能，用于解决 APP XSS 的问题： https://t.co/SjYbr8und0"
+[ OpenSourceProject ]  So arbitrarily wddx packet injection via PHP’s wddx_serialize_value() is not security issue. LOL https://bugs.php.net/bug.php?id=72142
+﻿" PHP 5.6.21 wddx_serialize_value() WDDX 数据包注入漏洞： https://t.co/yekka3kij8"
+[ OpenSourceProject ]  Talos Blog: Multiple 7-Zip Vulnerabilities Discovered by Talos http://bit.ly/1ZFySmR
+﻿"Talos 团队发现了 7-Zip 工具的多个漏洞： https://t.co/BOH7PWPRGz"
+[ OpenSourceProject ]  Open sourcing our NGINX HTTP/2 + SPDY code https://blog.cloudflare.com/open-sourcing-our-nginx-http-2-spdy-code/
+﻿" CloudFlare 开源了自己的 NGINX HTTP/2 + SPDY 代码： https://t.co/JHZ2qDTUBU"
+[ OpenSourceProject ]  A brand new #Magento 0-day! http://netanelrub.in/2016/05/17/magento-unauthenticated-remote-code-execution/
+﻿" 开源电商系统 Magento 未授权远程代码执行漏洞（CVE-2016-4010）：  https://t.co/NSekDrIzLF"
+[ OpenSourceProject ]  Graphite2 heap-based buffer overflow in GlyphCache::GlyphCache https://bugs.chromium.org/p/project-zero/issues/detail?id=749#c_ts1464261060
+﻿"字体渲染引擎 Graphite2 GlyphCache::GlyphCache 堆缓冲区溢出，来自 Project Zero Issue 749： https://t.co/nsUnVe13tW "
+[ OpenSourceProject ]  Looking for XSS in PHP Source Code http://brutelogic.com.br/blog/looking-xss-php-source/
+﻿" 在 PHP 源码中找 XSS 漏洞： https://t.co/3h8HOzH1WQ "
+[ OpenSourceProject ]  If you've ever wondered how WebKit engineers diagnose and fix a crash bug in JavaScriptCore: https://webkit.org/blog/6411/javascriptcore-csi-a-crash-site-investigation-story/ https://t.co/z0jKhESMJ8
+﻿" WebKit 工程师是如何分析并修复 JavaScriptCore 中的 Crash Bug 的，来自 WebKit Blog: https://t.co/8W4IjB3QA5 https://t.co/z0jKhESMJ8"
+[ OpenSourceProject ]  NTP Patches Flaws That Enable DDoS https://threatpost.com/ntp-patches-flaws-that-enable-ddos/118470/
+﻿"NTP 上周发布更新，修复了几个可以被用于 DDoS 攻击的漏洞，来自 ThreatPost 的报道： https://t.co/ynYnZKv1wZ"
+[ OpenSourceProject ]  A Little on V8 and WebAssembly : https://ia601503.us.archive.org/32/items/vmss16/titzer.pdf (pdf)
+﻿" 关于 V8 和 WebAssembly 的一篇 Slides，为何 JavaScript 如此独特， V8 到底哪里好， WebAssembly 究竟是什么: https://t.co/VGsSg2N7yc "
+[ OpenSourceProject ]  Try billm's new Firefox code search tool, Searchfox. It understands C++ code better, and has good builtin blame. https://billmccloskey.wordpress.com/2016/06/07/searchfox/
+﻿" Searchfox - Mozilla Firefox 源码搜索工具（在线）：  https://t.co/wsz7ubAcJ2"
+[ OpenSourceProject ]  Nice list on #firmware #reversing projects with walkthroughs: https://github.com/devttys0/binwalk/wiki/Projects-Using-Binwalk
+﻿" Projects Using Binwalk︰ https://t.co/uV60k8g4MX"
+[ OpenSourceProject ]  Two fresh penetration reports of ours were published via MOSS. Tested were PCRE and libjpeg-turbo - enjoy: https://wiki.mozilla.org/MOSS/Secure_Open_Source/Completed
+﻿" PCRE 和 libjpeg-turbo 库安全审计报告，来自 Mozilla MOSS 计划︰ https://t.co/meh2xK97Wn"
+[ OpenSourceProject ]  Talos Blog: Vulnerability Spotlight: PDFium Vulnerability in Google Chrome Web Browser http://tinyurl.com/j3ase9g
+﻿" Cisco Talos 团队研究员在 Chrome 浏览器的 PDFium 组件中发现了一个堆溢出漏洞（CVE-2016-1681）：  https://t.co/XOo2Aapsos "
+[ OpenSourceProject ]  Published my Hacking Mattermost slides, if anyone's interested. https://speakerdeck.com/addelindh/hacking-mattermost-an-assessment-of-an-open-source-messaging-platform-for-hipsters-security-fest-2016
+﻿" 开源消息传输平台 Mattermost 安全评估报告： https://t.co/4HvWZEhXW1"
+[ OpenSourceProject ]  drop the bugz #2 - [CVE-2016-????] expat xml parser heap overflow vulnerability - #android #chromium #etcetc - https://marcograss.github.io/security/android/chromium/2016/06/17/expat-xml-heap-overflow.html
+﻿" xml 解析库 expat 堆溢出漏洞（影响 Android 和 Chrome）：  https://t.co/drGTGdCJtP"
+[ OpenSourceProject ]  At some point last year I started fuzzing libarchive. Found a huge number of issues, most are fixed in ver 3.2.0 https://blog.fuzzing-project.org/47-Many-invalid-memory-access-issues-in-libarchive.html
+﻿" libarchive 库多个内存破坏漏洞： https://t.co/7w9F6KWNfr"
+[ OpenSourceProject ]  New OpenSSL Bug, CVE-2016-2177 https://bugzilla.redhat.com/show_bug.cgi?id=1341705
+﻿" OpenSSL 的一个整数溢出漏洞（CVE-2016-2177），Bugzilla： https://t.co/ESGuoLaO6R"
+[ OpenSourceProject ]  More compression bugs discovered by @ _Icewall http://blog.talosintel.com/2016/06/the-poisoned-archives.html ! Test them on your favorite security device today!
+﻿" Talos 团队发现了 libarchive 库的多个漏洞：  https://t.co/sv3FSvbzd8  "
+[ OpenSourceProject ]  VULNERABILITY SPOTLIGHT: PIDGIN VULNERABILITIES -http://blog.talosintel.com/2016/06/vulnerability-spotlight-pidgin.html by @ TalosSecurity
+﻿" Talos 团队研究员发现了 Pidgin 聊天客户端的 16 个漏洞： https://t.co/qd5so363ES"
+[ OpenSourceProject ]  Unpatched Remote Code Execution Flaw Exists in Swagger https://threatpost.com/unpatched-remote-code-execution-flaw-exists-in-swagger/118867/
+﻿" 开源 API 框架 Swagger 存在一个未修复的远程代码执行漏洞，来自 ThreatPost 的报道： https://t.co/RRcmzsr6vI   Rapid7 Blog 的一篇漏洞分析文章： https://community.rapid7.com/community/infosec/blog/2016/06/23/r7-2016-06-remote-code-execution-via-swagger-parameter-injection-cve-2016-5641 "
+[ OpenSourceProject ]  AsteroidOS : An open-source operating system for smartwatches: http://asteroidos.org/
+﻿"AsteroidOS - 一个开源的智能手表操作系统: https://t.co/jVSgEnTgQa"
+[ OpenSourceProject ]  Undefined Pointer Arithmetic - OpenSSL Blog https://www.openssl.org/blog/blog/2016/06/27/undefined-pointer-arithmetic/
+﻿" OpenSSL 的指针运算编码风格： https://t.co/FdDAfQyUPl  前两周就有个漏洞属于这种风格（CVE-2016-2177）"
+[ OpenSourceProject ]  new post - Apache Xerces XML parser Use-After-Free (fix pending) - https://marcograss.github.io/security/2016/06/29/xerces-xml-uaf.html kudos to Gustavo Grieco who found it first!
+﻿" Apache Xerces-C++ XML 解析库的 UAF 漏洞： https://t.co/CzxVo0AiGc "
+[ OpenSourceProject ]  All Github repos (commits and code, 3TB, 145M commits, 162M files) are now queryable using BigQuery in seconds: https://github.com/blog/2201-making-open-source-data-more-available
+﻿" GitHub 官方 Blog 表示，280 万的代码库、超过 3TB 的数据集现在支持秒级搜索了: https://t.co/DEe8qsxZC9"
+[ OpenSourceProject ]  A nice uptodate ptmalloc reference by @ SpamAndHex teammate GyM: https://github.com/gymgit/glibc-2.23-tmp/blob/master/slides/heap_going.pdf - very handy for CTF!
+﻿" glibc 库中的内存分配的实现︰ https://t.co/oqN65TfulI "
+[ OpenSourceProject ]  OpenLTE : An open source 3GPP LTE implementation : https://sourceforge.net/projects/openlte/ https://t.co/c9RBFlJaYh
+﻿"OpenLTE - 一个开源的 3GPP LTE 实现︰ https://t.co/Q2HeAEqwt8 https://t.co/c9RBFlJaYh"
+[ OpenSourceProject ]  Pushed my libical fuzzing results to github. Mozilla either can’t or won’t repro, marked as low sev. https://github.com/brandonprry/ical-fuzz
+﻿"Brandon Perry 对 libical 开源库的 Fuzz 结果： https://t.co/ToSQ9vHrHY"
+[ OpenSourceProject ]  2 new programs! CSRFGuard http://bgcd.co/29CnEje & Java HTML Sanitizer Project http://bgcd.co/29CnBUE by @ owasp https://t.co/Zs6ZVERGML
+﻿" OWASP 的两个项目 CSRFGuard 和 Java Sanitizer 正在参加 Bugcrowd 的 Bug Bounty 计划： https://bugcrowd.com/owaspcrsfguard  https://bugcrowd.com/owaspjavasanitizer "
+[ OpenSourceProject ]  Dropbox releases Lepton - A new streaming image compression format, under the Apache license https://github.com/dropbox/lepton https://blogs.dropbox.com/tech/2016/07/lepton-image-compression-saving-22-losslessly-from-images-at-15mbs/
+﻿"Dropbox 开源了 Lepton - 一个流式图片压缩格式，GitHub Repo： https://t.co/zoZZYHO0d5  Blog： https://t.co/78M3q0aM3a"
+[ OpenSourceProject ]  Checking the Source Code of #FlashDevelop with PVS-Studio. http://www.viva64.com/en/b/0412/ #csharp #dotnet #pvsstudio #tools https://t.co/i1dAJ7W3AK
+﻿"用 PVS-Studio 分析 FlashDevelop 的源码： https://t.co/UYLIHzAp0j  https://t.co/i1dAJ7W3AK"
+[ OpenSourceProject ]  Basic internals of malloc https://sourceware.org/glibc/wiki/MallocInternals
+﻿" Glibc 库内存分配的细节： https://t.co/REJ6qPQRq5"
+[ OpenSourceProject ]  7-Zip fuzzing https://blog.fuzzing-project.org/49-Multiple-issues-in-p7zip.html one wonders if the appliance vendors ever test the code they integrate
+﻿" 安全研究员用 AFL Fuzz p7zip 压缩工具的成果： https://t.co/jDwqKOwHfb "
+[ OpenSourceProject ]  new blogpost - [CVE-2016-6234 to 6238] multiple memory corruption problems in Dropbox lepton - https://marcograss.github.io/security/cve/2016/07/16/cve-2016-6234-to-6238-multiple-dropbox-lepton-memory-corruptions.html
+﻿" Dropbox lepton(流式压缩格式)项目多个内存破坏漏洞（从 CVE-2016-6234 到 CVE-2016-6238）： https://t.co/idQifa7s5p"
+[ OpenSourceProject ]  if you're using matrixssl you want to update http://www.matrixssl.org/blog/releases/matrixssl_3_8_4 can be remotely crashed, maybe exploitable (probably double free)
+﻿" MatrixSSL 更新 3.8.4 版本，本次更新修复了多个漏洞： https://t.co/mek0r4kG7h "
+[ OpenSourceProject ]  Let's recheck Blender. http://www.viva64.com/en/b/0413/ (#blender, #pvsstudio, #devtools, #cpp, #opensource, #spoiler) https://t.co/FHqfV3vrUQ
+﻿" 用 PVS-Studio 工具对 Blender 3D 建模开源库的静态分析：  https://t.co/gitxcQLTeo  "
+[ OpenSourceProject ]  [CVE-2016-6265] MuPDF library use after free - https://marcograss.github.io/security/cve/2016/07/21/cve-2016-6265-mupdf-uaf.html
+﻿" MuPDF PDF 文件处理库的一个 UAF 漏洞（CVE-2016-6265），marcograss 说这是 Fuzz 其他库时顺便发现的： https://t.co/iNWYf78ra5"
+[ OpenSourceProject ]  CVE-2016-5399: php: out-of-bounds write in bzread() http://goo.gl/fb/b4pXWa #FullDisclosure
+﻿"CVE-2016-5399: PHP bzread() 越界写漏洞，来自 FullDisclosure 公告：  https://t.co/1zXuEYPdlK "
+[ OpenSourceProject ]  Breaking PHP’s Garbage Collection and Unserialize : https://www.evonide.com/breaking-phps-garbage-collection-and-unserialize/
+﻿" Breaking PHP’s Garbage Collection and Unserialize︰ https://t.co/th0SDDoZCV"
+[ OpenSourceProject ]  Vuln: PHP '_gdContributionsAlloc()' Function Integer Overflow Vulnerability http://www.securityfocus.com/bid/92080
+﻿" PHP '_gdContributionsAlloc()' 函数整数溢出漏洞，来自 SecurityFocus 的公告： https://t.co/1OkhxYpHOS"
+[ OpenSourceProject ]  Beame.io SDK provides you with easy-to-use tools access a device without a public ipaddress, with SSL. https://github.com/beameio/beame-sdk
+﻿"Beame.io SDK 提供了一种轻松访问远程设备的能力，无需公有 IP 地址：  https://t.co/n86AmIWsPg"
+[ OpenSourceProject ]  WebKit: Memory Corruption in TypedArray.copyWithin https://bugs.chromium.org/p/project-zero/issues/detail?id=862
+﻿" WebKit TypedArray.copyWithin 内存破坏漏洞，来自 Project Zero Issue 862： https://t.co/8fZ7rEjJnX "
+[ OpenSourceProject ]  WebKit: Memory Corruption in TypedArray.fill https://bugs.chromium.org/p/project-zero/issues/detail?id=863
+﻿" WebKit TypedArray.fill 内存破坏漏洞，来自 Project Zero Issue 863： https://t.co/EOrkoDhkMv "
+[ OpenSourceProject ]  Fun with Bignums: Crashing MatrixSSL and more https://blog.fuzzing-project.org/51-Fun-with-Bignums-Crashing-MatrixSSL-and-more.html
+﻿" Fuzzing Project 对 MatrixSSL 库的 Fuzz 结果： https://t.co/PPkgTdMbtn"
+[ OpenSourceProject ]  OpenSSH 7.3 released http://www.openssh.com/txt/release-7.3 minor security fixes, a few small features & bugfixes. Final release with SSH1 server support!
+﻿"OpenSSH 7.3 版本发布，本次更新修复了多个漏洞： https://t.co/yK4g5UE4oE "
+[ OpenSourceProject ]  A flaw related to how Intel’s Crosswalk handles SSL certificates exposes mobile apps to MitM attacks http://www.securityweek.com/ssl-flaw-intel-crosswalk-exposes-apps-mitm-attacks
+﻿" Intel 开源组件 Crosswalk 在处理 SSL 证书时存在漏洞，多款手机 APP 可被中间人劫持攻击： https://t.co/mum1cs9rRI "
+[ OpenSourceProject ]  PHP 7's notes look like a litany of horrors. http://php.net/manual/en/migration70.incompatible.php
+﻿"PHP 7 不再向后兼容的特性汇总： https://t.co/OpvzlceyuG"
+[ OpenSourceProject ]  LibreSSL 2.4.2 is now the stable version. support for 2.2.x ends. http://ftp.openbsd.org/pub/OpenBSD/LibreSSL/libressl-2.4.2-relnotes.txt
+﻿"LibreSSL 库发布 2.4.2 稳定版： https://t.co/pil4DqvlPw"
+[ OpenSourceProject ]  [CVE-2016-6583] libtidy global buffer overflow - https://marcograss.github.io/bug/2016/08/03/libtidy-global-bof.html
+﻿" HTML 解析库 libtidy 全局变量缓冲区溢出漏洞（CVE-2016-6583），来自 Marcograss Blog： https://t.co/ZHcK69CD7G"
+[ OpenSourceProject ]  https://github.com/d0lph1n98/Defeating-PHP-GD-imagecreatefromgif Exploiting PHP-GD imagecreatefromgif()
+﻿" Exploiting PHP-GD imagecreatefromgif()：  https://t.co/PV0C9JmIwa "
+[ OpenSourceProject ]  GNU Bash 4.3 Out of bounds http://www.openwall.com/lists/oss-security/2016/08/05/2 #infosec #linux #kernel #bash
+﻿"GNU Bash 4.3 在解析 Shell 时存在越界访问漏洞： https://t.co/vSwtJzrr1l "
+[ OpenSourceProject ]  Analysis of PHP's CVE-2016-6289 and CVE-2016-6297 http://blog.fortinet.com/2016/08/10/analysis-of-php-s-cve-2016-6289-and-cve-2016-6297
+﻿"PHP 内核（CVE-2016-6289）和 PHP ZIP（CVE-2016-6297）的两个漏洞分析，来自 Fortinet Blog： https://t.co/xr7Zq0v2rO "
+[ OpenSourceProject ]  php 5.6.24 one liner fixed null pointer memory access https://marcograss.github.io/bug/2016/08/10/php-5-nptr.html
+﻿" PHP 5.6.24 的一个空指针引用 Bug，这个触发的 PoC 可以看看： https://t.co/P7eb6KIroB"
+[ OpenSourceProject ]  Vulnerability Spotlight: Multiple Remote Code Execution Vulnerabilities Within Lexmark Perceptive Document Filters. http://blog.talosintel.com/2016/08/vulnerability-spotlight-multiple-remote.html
+﻿" Talos 团队发现了 Lexmark 文档过滤器库的多个漏洞： https://t.co/p7cJadATzH"
+[ OpenSourceProject ]  .#GPG Patches 18-Year-Old #Libgcrypt RNG Bug: https://threatpost.com/gpg-patches-18-year-old-libgcrypt-rng-bug/119984/ via @ threatpost
+﻿" GPG 修复了 Libgcrypt 随机数生成器存在 18 年的一个 Bug，来自 ThreatPost 的报道： https://t.co/KL8eFfXEoa"
+[ OpenSourceProject ]  FFMpeg 3.1.2 发布 修复来自360GearTeam的一个高危漏洞 - http://bobao.360.cn/news/detail/3465.html
+﻿" FFMpeg 3.1.2 发布 修复来自 360GearTeam 的一个高危漏洞： https://t.co/KdG9CrfRVv"
+[ OpenSourceProject ]  Implementing DNS client and server in @ rustlang http://bluejekyll.github.io/blog/rust/dns/2016/08/21/a-year-of-rust-and-dns.html
+﻿" 用 Rust 语言自己写一个 DNS 客户端和服务器： https://t.co/Zec2UcVuax"
+[ OpenSourceProject ]  Analysis of multiple vulnerabilities in different open source BTS products: https://blog.zimperium.com/analysis-of-multiple-vulnerabilities-in-different-open-source-bts-products/ #GSM #security
+﻿" 多个开源 BTS（基站）项目被发现漏洞，来自 Zimperium Labs︰ https://t.co/dsZzIyCbhJ "
+[ OpenSourceProject ]  V8 JavaScript Engine: V8 Release 5.4 http://v8project.blogspot.com/2016/09/v8-release-54.html
+﻿"V8 JavaScript 引擎更新 5.4 版本，性能方面有所提高： https://t.co/hhE80BzBey"
+[ OpenSourceProject ]  OpenSSL Security Advisory [22 Sep 2016] : https://www.openssl.org/news/secadv/20160922.txt
+﻿"OpenSSL 昨天发布漏洞公告，修复多个漏洞: https://t.co/njvnRxLm1i"
+[ OpenSourceProject ]  Django CSRF Bypass (CVE-2016-7401) 漏洞分析： http://paper.seebug.org/58/
+[ OpenSourceProject ]  emterpreter - 基于 asm.js 的一个解释器： https://github.com/kripken/emscripten/wiki/Emterpreter
+[ OpenSourceProject ]  Making Chromium’s PDFium greater ： https://blogs.igalia.com/tonikitoo/2016/09/29/making-chromiums-pdfium-greater/
+[ OpenSourceProject ]  Noto : Google Releases An Open Source Font That Supports 800 Languages : https://opensource.googleblog.com/2016/10/an-open-source-font-system-for-everyone.html , Download Noto : https://www.google.com/get/noto/
+﻿" Google 开源了一套新的字体系统 Noto，涵盖 800 种语言和 11 万个符号︰ https://t.co/OjOuEvpt4Q   下载︰ https://t.co/vCbeQA5TAG"
+[ OpenSourceProject ]  New OpenSSL double-free and invalid free vulnerabilities in X509 parsing https://github.com/guidovranken/openssl-x509-vulnerabilities
+﻿"openssl-x509-vulnerabilities（double-free and invalid free vulnerabilities ）   https://t.co/y5KCNik5eJ"
+[ OpenSourceProject ]  Analysis of OpenSSL Large Message Size Handling Use After Free (CVE-2016-6309) http://blog.fortinet.com/2016/10/12/analysis-of-openssl-large-message-size-handling-use-after-free-cve-2016-6309
+﻿"针对 OpenSSL 因发布补丁而引入的 UAF 漏洞分析（CVE-2016-6309）： https://blog.fortinet.com/2016/10/12/analysis-of-openssl-large-message-size-handling-use-after-free-cve-2016-6309"
+[ OpenSourceProject ]  PHP 7.0.0 格式化字符串漏洞与 EIP 劫持分析： http://www.freebuf.com/vuls/116398.html
+[ OpenSourceProject ]  Foxit PDF Reader JBIG2 Parser 信息泄漏漏洞： http://blog.talosintel.com/2016/10/foxit-pdf-jbig2.html
+[ OpenSourceProject ]  OpenSSL 1.1.0 remote client memory corruption https://goo.gl/fb/eFgszQ #FullDisclosure
+﻿"OpenSSL 1.1.0 remote client memory corruption： http://seclists.org/fulldisclosure/2016/Oct/66?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29 "
+[ OpenSourceProject ]  OpenSSH : Memory exhaustion issue http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.bin/ssh/kex.c?rev=1.127&content-type=text/x-cvsweb-markup #infosec #openssh #vulnerability
+﻿"OpenSSH 内存耗尽 Bug： https://t.co/CuZ4nMAjPg "
+[ OpenSourceProject ]  iPhone 6 VoLTE with Unified Core Network https://www.youtube.com/watch?v=ReMZCIt_nK8&feature=share http://docs.yate.ro/wiki/Download #SDR https://t.co/GYwZYLlGQT
+﻿"基于开源电话引擎 Yate 实现的 iPhone 6 VoLTE： https://www.youtube.com/watch?v=ReMZCIt_nK8& ; Yate 官网：  https://t.co/zB26vNIBPE "
+[ OpenSourceProject ]  Vulnerability Spotlight: LibTIFF Issues Lead To Code Execution http://blogs.cisco.com/security/talos/libtiff-code-execution
+﻿"LibTIFF 库被发现存在多个漏洞： https://t.co/crejaseBvw"
+[ OpenSourceProject ]  SSL Death Alert: OpenSSL (CVE-2016-8610) : http://seclists.org/oss-sec/2016/q4/224
+﻿"OpenSSL SSL/TLS SSL3_AL_WARNING undefined alert Remote DoS: https://t.co/suaU4O8Iet"
+[ OpenSourceProject ]  Baidu Tera is a structured distributed database which is designed to manage trillions of links and webpages https://t.co/REl6A9OXci
+﻿"百度开源的 Tera 是一个结构化的分布式的数据库，旨在管理链接和 web 网页： https://t.co/REl6A9OXci"
+[ OpenSourceProject ]  GNU tar extract pathname bypass : https://sintonen.fi/advisories/tar-extract-pathname-bypass.proper.txt
+﻿"GNU 解压缩工具 tar 存在路径名绕过漏洞︰ https://t.co/jmHl7kjZd4"
+[ OpenSourceProject ]  MySQL / MariaDB / PerconaDB 提权/条件竞争漏洞（CVE-2016-6663）： https://www.seebug.org/vuldb/ssvid-92510 MySQL / MariaDB / PerconaDB 权限提升漏洞（CVE-2016-6664） ： https://www.seebug.org/vuldb/ssvid-92513
+[ OpenSourceProject ]  Exploiting WebKit on Vita 3.60，本篇 PSV 的 Writeup 介绍了一个 Webkit 漏洞的利用思路，同理我们可以将思路发散到其他终端设备上，比如之前的 PS4 1.76版本 Webkit 堆溢出漏洞，Kindle 的越狱 等： http://paper.seebug.org/98/
+[ OpenSourceProject ]  Analysis of ISC BIND DNAME Answer Handling DoS (CVE-2016-8864) http://blog.fortinet.com/2016/11/08/analysis-of-isc-bind-dname-answer-handling-dos-cve-2016-8864
+﻿" BIND 服务在处理 DNAME 响应时存在拒绝服务漏洞(CVE-2016-8864)： https://t.co/5mkMdukRjO  "
+[ OpenSourceProject ]  GNU tar 解压路径绕过漏洞(CVE-2016-6321) 分析： http://paper.seebug.org/103/
+[ OpenSourceProject ]  GitLab 任意文件读取漏洞 (CVE-2016-9086) 和任意用户 token 泄露漏洞： http://paper.seebug.org/104/
+[ OpenSourceProject ]  github-trending - 跟踪 GitHub 每天最流行的 Repos： https://github.com/josephyzhou/github-trending
+[ OpenSourceProject ]  挖掘PHP禁用函数绕过利用姿势： http://blog.th3s3v3n.xyz/2016/11/20/web/%E6%8C%96%E6%8E%98PHP%E7%A6%81%E7%94%A8%E5%87%BD%E6%95%B0%E7%BB%95%E8%BF%87%E5%88%A9%E7%94%A8%E5%A7%BF%E5%8A%BF/
+[ OpenSourceProject ]  FreeBSD/Apple libc link_ntoa() buffer overflow https://cxsecurity.com/issue/WLB-2016120046
+﻿"FreeBSD/Apple libc link_ntoa() 缓冲区溢出漏洞（CVE-2016-6559）： https://t.co/6ASBNDMdfA"
+[ OpenSourceProject ]  （CVE-2016-1247）Nginx Local Privilege Escalation Vulnerability Technical Analysis and Solution： http://blog.nsfocus.net/nginx-local-privilege-escalation-vulnerability-technical-analysis-solution/
+[ OpenSourceProject ]  Chrome 的开发者工具可以调试 Node.js 了： http://v8project.blogspot.com/2016/12/v8-nodejs.html
+[ OpenSourceProject ]  Microsoft.VisualStudio.Threading is now OSS under the MIT license. https://github.com/microsoft/vs-threading
+﻿"跨平台库 Microsoft.VisualStudio.Threading 开源了： https://t.co/TLxwASPCsh"
+[ OpenSourceProject ]  The GNU C Library version 2.25 is now available https://sourceware.org/ml/libc-alpha/2017-02/msg00079.html
+﻿"GNU C Library 2.25 版本发布： https://t.co/SCFcx3zBB6"
+[ OpenSourceProject ]  Advisory X41-2017-002: Multiple Vulnerabilities in ytnef - https://www.x41-dsec.de/lab/advisories/x41-2017-002-ytnef/
+﻿"Outlook winmail.dat 文件解析库 ytnef 被发现多个漏洞： https://t.co/QLYKD5Xe9i"
+[ OpenSourceProject ]  QEMU: virtfs permits guest to access entire host filesystem https://bugs.chromium.org/p/project-zero/issues/detail?id=1035
+﻿"QEMU virtfs 文件系统允许 Guest 机访问 Host 机的整个文件系统（通过符号链接实现）： https://t.co/inDPjb0EjW"
+[ OpenSourceProject ]  The source code of Telegram for iOS and Android is open and free. Enjoy! https://github.com/DrKLO/Telegram https://github.com/peter-iakovlev/Telegram
+﻿" 即时通讯应用 Telegram 的 iOS APP 和 Android APP 开源了： https://t.co/1h3Leprobj https://t.co/bTS1nZPL6e"
+[ OpenSourceProject ]  17 年没有更新的 bc 项目突然发布了新版本 bc-1.07.tar.gz，bc 是一个用于处理高精度数字的开源库： https://ftp.gnu.org/gnu/bc/
+[ OpenSourceProject ]  [blog] [0day] Proving http://Box.com fixed ASLR via ImageMagick uninitialized zlib stream buffer: https://scarybeastsecurity.blogspot.com/2017/05/0day-proving-boxcom-fixed-aslr-via.html
+" 利用 ImageMagick PSD 文件 Decoder 的一个 0Day 验证 Box.com 服务器修复了之前他报告的 ASLR 问题： https://scarybeastsecurity.blogspot.com/2017/05/0day-proving-boxcom-fixed-aslr-via.html "
+[ OpenSourceProject ]  An epic survey of #javadeser RCE vulns/exploits across 13 different Java serialization technologies by Moritz Bechl… https://t.co/4hk94oSCnG
+"  Java Unmarshaller Security - Java 多个开源 marshalling 库中存在的对象序列化漏洞研究： http://seclists.org/oss-sec/2017/q2/307?utm_source=dlvr.it&utm_medium=twitter  Github： https://github.com/mbechler/marshalsec/ "
+[ OpenSourceProject ]  Slides for OAuth Nightmares https://cloud.app.box.com/s/9xgb9yzfcgla5hsd7bdltl78k74dzot7 presentation at #hackmiamiCon
+"  OAuth 安全性研究： https://t.co/mwY5fuEKJ9 "
+[ OpenSourceProject ]   libtiff 更新 4.0.8 版本，修复多个漏洞： http://www.simplesystems.org/libtiff/v4.0.8.html
+[ OpenSourceProject ]  OAuth 2 实现库 Doorkeeper 没有正确实现 RFC 7009 关于 token 吊销的请求，吊销客户端 access token 时会失败（CVE-2016-6582）： https://blog.justinbull.ca/cve-2016-6582-doorkeeper-fails-to-revoke-access-token-in-revocation-request/
+[ OpenSourceProject ]   NSA 也在 GitHub 上注册了账号，而且一次开源了多个项目：  https://nationalsecurityagency.github.io/
+[ OpenSourceProject ]  昨天推送过 NSA 在 GitHub 上开源了多个项目，其中一个项目是 CFG（Control-Flow-Integrity）的实现： https://github.com/iadgov/Control-Flow-Integrity/
+[ OpenSourceProject ]  Apache Struts 远程代码执行漏洞分析(CVE-2017-9791)： https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-cve-2017-9791-apache-struts-vulnerability-can-lead-remote-code-execution/
+[ OpenSourceProject ]   Vellvm: Verifying the LLVM，关于 LLVM 的一个项目： http://www.cis.upenn.edu/~stevez/vellvm/ https://deepspec.org/event/dsss17/lecture_zdancewic.html
+[ OpenSourceProject ]  An overview of GnuTLS 3.6.0：http://nmav.gnutls.org/2017/08/gnutls-3-6-0.html?m=1
+[ OpenSourceProject ]  libgcrypt CVE-2017-0379 漏洞的补丁： https://git.gnupg.org/cgi-bin/gitweb.cgi?p=libgcrypt.git;a=commit;h=da780c8183cccc8f533c8ace8211ac2cb2bdee7b
+[ OpenSourceProject ]  FreeXL Library 中被发现存在两个远程代码执行漏洞（CVE-2017-2923、CVE-2017-2924）： http://blog.talosintelligence.com/2017/09/vulnerability-spotlight-talos-2017.html
+[ OpenSourceProject ]  CVE-2016-10191 FFmpeg RTMP Heap Buffer Overflow 漏洞分析及利用，来自 蚂蚁金服巴斯光年安全实验室： http://jaq.alibaba.com/community/art/show?articleid=1074
+[ OpenSourceProject ]   Cisco Talos 团队发现 Google PDFium 的 Tiff 图片解码功能存在代码执行漏洞： http://blog.talosintelligence.com/2017/10/GooglePDFium-Vulnerabilitiy.html?utm_source=dlvr.it&utm_medium=twitter&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos+Blog%29
+[ OpenSourceProject ]  Unicode 国际化开源项目 libicu Double Free 漏洞（CVE-2017-14952）。该漏洞是完全通过机器学习自动发现的： https://zhuanlan.zhihu.com/p/30187654 http://www.sourcebrella.com/blog/double-free-vulnerability-international-components-unicode-icu/
+[ OpenSourceProject ]   基于 Git 开源框架Electron 的应用存在自定义协议处理漏洞（ CVE-2018-1000006），可导致RCE： https://electronjs.org/blog/protocol-handler-fix
+[ OpenSourceProject ]   ISC 开源 DHCP 服务端 dhcpd 和客户端 dhclient 被发现两个溢出漏洞（CVE-2018-5732/CVE-2018-5733）：1）： https://lists.isc.org/pipermail/dhcp-announce/2018-February/000415.html2）： https://lists.isc.org/pipermail/dhcp-announce/2018-February/000414.html
+[ OpenSourceProject ]  Rocket.Chat 存在 NoSQL 注入导致管理员账户密码泄露或被重置（影响0.57.3，0.58.3及以下版本）： http://blog.sbarbeau.fr/2018/03/nosql-injection-leading-to.html
+[ OpenSourceProject ]  游戏引擎 Unity 开放了一部分 C# 的源码 : https://blogs.unity3d.com/cn/2018/03/26/releasing-the-unity-c-source-code/https://github.com/Unity-Technologies/UnityCsReference
+[ OpenSourceProject ]  MesaLink开源，由百度安全实验室开发的一个内存安全并兼容OpenSSL的传输层安全(TLS)协议栈： https://mp.weixin.qq.com/s/_AHeStAzWx0xftYISTlk6g
+[ OpenSourceProject ]  关于 React 库防御 XSS 攻击的思考与加固： https://medium.com/javascript-security/avoiding-xss-in-react-is-still-hard-d2b5c7ad9412

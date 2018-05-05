@@ -1,0 +1,175 @@
+[ Virtualization ]  How Malware Detects Virtualized Environment, and its Countermeasures –An Overview http://resources.infosecinstitute.com/how-malware-detects-virtualized-environment-and-its-countermeasures-an-overview/
+﻿"恶意软件对虚拟化环境的检测以及相应的对策， 来自 InfoSec Blog： https://t.co/RKtkL4bH7o"
+[ Virtualization ]  Xen XSA 155: Double fetches in paravirtualized devices https://www.insinuator.net/2015/12/xen-xsa-155-double-fetches-in-paravirtualized-devices/ < @ _fel1x to provide demo & PoC at @ SyScan & @ InfiltrateCon
+﻿"Xen XSA 155 - XEN 半虚拟化设备 Double Fetch 漏洞： https://t.co/Ne9KquDSYt "
+[ Virtualization ]  Wrote a hypervisor as a platform on Windows. Let me know if you find any issues. https://github.com/tandasat/HyperPlatform
+﻿"HyperPlatform - 为 Windows 写的一个基于 Intel VT-x 的 hypervisor, Github Repo:   https://t.co/qeR1hQnXb3"
+[ Virtualization ]  Introducing SimpleVisor: an Intel x64 Windows-specific hypervisor with less than 10 lines of assembly. Learn more at http://ionescu007.github.io/SimpleVisor/
+﻿"SimpleVisor: Intel x64 Windows Hypervisor, 这个 Hypervisor 有两个目标: 只用最少量的汇编代码和最少量的 VMX(虚拟机扩展)相关的代码, Blog: https://t.co/76tVnTiJlH  Github Repo: https://github.com/ionescu007/SimpleVisor "
+[ Virtualization ]  HyperBone - Minimalistic VT-X hypervisor with hooks https://github.com/DarthTon/HyperBone
+﻿"HyperBone - 简约型 VT-X Hypervisor，支持内核 Inline Hooks，MSR Hooks，IDT Hooks 等， Github Repo： https://t.co/AXJK9MbggK"
+[ Virtualization ]  Stealthy monitoring with Xen altp2m https://blog.xenproject.org/2016/04/13/stealthy-monitoring-with-xen-altp2m/
+﻿"基于 Xen Hypervisor altp2m 实现对 Guest 机隐蔽的监控， 来自 Xen Blog： https://t.co/y3VFvvjXhW"
+[ Virtualization ]  Slides for my Xenpwn talk from @ InfiltrateCon and @ SyScan: https://www.ernw.de/download/xenpwn.pdf, code + WP will be published soon™
+﻿"Xenpwn  - 攻击半虚拟化（Paravirtualized）的设备，来自作者在 InfiltrateCon 和 SyScan 会议上的演讲：: https://t.co/2x1OvQ8e6i "
+[ Virtualization ]  Hypervisor Top Level Functional Specification v4.0 on github - https://github.com/Microsoft/Virtualization-Documentation/blob/master/tlfs/Hypervisor%20Top%20Level%20Functional%20Specification%20v4.0.pdf read as hyper-v top-level internals documented
+﻿"微软 Windows Server 2012 R2 Hypervisor 顶层功能性规范： https://t.co/veLgywwvD6 "
+[ Virtualization ]  @ standa_t collection of Hypervisor related stuff -> http://hypervsir.blogspot.nl
+﻿" 一个 Hypervisor 相关的博客： https://t.co/9vOgxT3T2Z"
+[ Virtualization ]  A closer look at shielded VMs in Windows Server 2016 - https://blogs.technet.microsoft.com/windowsserver/2016/05/10/a-closer-look-at-shielded-vms-in-windows-server-2016/ https://gallery.technet.microsoft.com/shielded-vms-and-guarded-98d2b045
+﻿" Windows Server 2016 新添加了一种虚拟机防护技术 - Shielded VMs： https://t.co/7PprFaLRYI  https://t.co/8cMLEbs7qs"
+[ Virtualization ]  360 Marvel Team虚拟化漏洞第五弹 - CVE-2016-3710 Dark Portal漏洞分析 http://bobao.360.cn/learning/detail/2867.html
+﻿"360 Marvel Team 虚拟化漏洞第五弹 - CVE-2016-3710 Dark Portal 漏洞分析，来自 360 播报： https://t.co/HXiLd5ChVP"
+[ Virtualization ]  #Docker for Mac and Windows introduces new #opensource components: #HyperKit, #DataKit and #VPNKit https://blog.docker.com/2016/05/docker-unikernels-open-source/ via @ docker
+﻿" Docker for Mac and Windows 引入了新的开源组件︰ HyperKit、DataKit、VPNKit：  https://t.co/dSziaVh7Iq"
+[ Virtualization ]  [BLOG] Xen exploitation part 1: XSA-105, from nobody to root http://blog.quarkslab.com/xen-exploitation-part-1-xsa-105-from-nobody-to-root.html
+﻿" Xen 漏洞利用 Part 1 - 从啥也不是到 Root(CVE-2014-7155)， 来自 QuarksLab Blog：  https://t.co/ToE2cygo49"
+[ Virtualization ]  Virtualization System Vulnerability Discovery Framework : http://conference.hitb.org/hitbsecconf2016ams/materials/D1T1%20-%20Tang%20Qing%20Hao%20-%20Virtualization%20System%20Vulnerability%20Discovery%20Framework.pdf (Slides) #HITB2016AMS
+﻿"虚拟化系统漏洞发现框架，来自 HITB 阿姆斯特丹会议︰ https://t.co/ixlVlUTGi3 "
+[ Virtualization ]  Spot on slides by @ hikerell: "Advanced Exploitation: Xen Hypervisor VM escape" : https://conference.hitb.org/hitbsecconf2016ams/materials/D2T2%20-%20Shangcong%20Luan%20-%20Xen%20Hypervisor%20VM%20Escape.pdf
+﻿" Xen Hypervisor 虚拟机逃逸技术，来自 HITB 2016 阿姆斯特丹会议: https://t.co/P4THerMum6"
+[ Virtualization ]  Abusing Privileged and Unprivileged Linux Containers https://www.nccgroup.trust/us/our-research/abusing-privileged-and-unprivileged-linux-containers/
+﻿"特权级和非特权级 Linux 容器的滥用，来自 NCC Group： https://t.co/hTdkTPl7HF"
+[ Virtualization ]  Vagga — a userspace container engine for development envs inspired by Vagrant & Docker, written in @ rustlang https://github.com/tailhook/vagga
+﻿"Vagga — 一个纯用户态实现的容器引擎，Rust 语言编写， GitHub Repo： https://t.co/PdvnJ71HJw "
+[ Virtualization ]  CVE-2016-3642 - Java Deserialization in Solarwinds Virtualization Manager 6… http://goo.gl/fb/aHPuMo #FullDisclosure
+﻿" Solarwinds Virtualization Manager 6.3.1 Java 反序列化漏洞（CVE-2016-3642），来自 FullDisclosure 公告： https://t.co/vyRuSNhVo9 "
+[ Virtualization ]  Monitoring & Controlling Kernel-mode Events by HyperPlatform : http://tandasat.github.io/HyperPlatform/recon2016/REcon2016_presentation.pdf (pdf) https://t.co/dzZBsqmeVX
+﻿" 通过 HyperPlatform 虚拟化工具监控和控制内核态事件，来自 RECon 2016 会议︰ https://t.co/lmDgMO1Jwz   https://t.co/dzZBsqmeVX"
+[ Virtualization ]  Docker for Mac/Windows is now out! http://docker.com/getdocker #DockerCon
+﻿" Docker for Mac/Windows 可以下载了： https://t.co/vXMfjX2Iy5"
+[ Virtualization ]  Comparison of container schedulers: Docker Swarm, Google Kubernetes, Apache Meso w Marathon https://medium.com/@ ArmandGrillet/comparison-of-container-schedulers-c427f4f7421#.rf58a9w2a https://t.co/BYDy8rY1Mv
+﻿" 各容器调度器的比较：Docker Swarm, Google Kubernetes, Apache Meso： https://t.co/TnuVwpPsOu https://t.co/BYDy8rY1Mv"
+[ Virtualization ]  RT @ justinvincent: Kum – a lightweight hypervisor for Windows (eptp vmfunc+idt shadow) http://bit.ly/29YFvlz
+﻿" Kum - 一个非常轻量级的 Windows x64 Hypervisor，C 语言编写：  https://t.co/6OrUrRndTu"
+[ Virtualization ]  CVE-2016-6258 / XSA-182, PV Privilege Escalation in x86, break out of VM vulnerability now public: http://xenbits.xen.org/xsa/advisory-182.html Happy reboots!
+﻿"Xen PV Guest 提权漏洞（CVE-2016-6258）︰ https://t.co/y5XyxN9X1u  还有一个拒绝服务漏洞： https://xenbits.xen.org/xsa/advisory-183.html "
+[ Virtualization ]  [BLOG] Xen exploitation part 2: XSA-148, from guest to host http://blog.quarkslab.com/xen-exploitation-part-2-xsa-148-from-guest-to-host.html by @ tlk___ #teasing before part 3 about XSA-182
+﻿" Xen 漏洞利用之 XSA-148 From Guest to Host，来自 QuarksLab Blog： https://t.co/j55Tu75OcN"
+[ Virtualization ]  vmmfuzzer - A hypervisor or virtual machine monitor (VMM) fuzzer. http://vmmfuzzer.com/
+﻿"vmmfuzzer - Hypervisor/VMM fuzzer： https://t.co/ZMNjyU7CWu"
+[ Virtualization ]  [BLOG] Xen exploitation part 3: XSA-182, Qubes escape: http://blog.quarkslab.com/xen-exploitation-part-3-xsa-182-qubes-escape.html Final notes on finding Xen vm escape and exploitation
+﻿" Xen 漏洞利用之 XSA-182 Qubes 操作系统的逃逸，来自 QuarksLab Blog︰ https://t.co/Ki7xXS7ROE "
+[ Virtualization ]  Xenpwn Breaking Paravirtualized Devices - https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices.pdf https://www.blackhat.com/docs/us-16/materials/us-16-Wilhelm-Xenpwn-Breaking-Paravirtualized-Devices-wp.pdf by @ _fel1x
+﻿" 利用 Xenpwn 工具攻破半虚拟化的设备，作者在 BlackHat 会议演讲的 PPT： https://t.co/btdB6yYL9I   Paper： https://t.co/DbX39AjAZs  Xenpwn 项目地址： https://github.com/felixwilhelm/xenpwn "
+[ Virtualization ]  1.2.4 also added simple/dumb hypervisor agnostic hypercall fuzzer & initial release of Xen specific hypercall tool: https://github.com/chipsec/chipsec/tree/master/source/tool/chipsec/modules/tools/vmm
+﻿" CHIPSEC 框架中的一个子工具 vmm - HyperCall Fuzzer︰ https://t.co/7DHjWHxUeK"
+[ Virtualization ]  VMware reveals vulns http://www.theregister.co.uk/2016/08/24/vmware_reveals_vulns/
+﻿"VMware 刚刚修复了一个 '重要级别' 的漏洞： https://t.co/wyISr6yXxd"
+[ Virtualization ]  Another great presentation at #xen summit http://www.slideshare.net/xen_com_mgr/xpds16-hypervisor-enforced-data-loss-prevention-neil-sikka-a1logic #cybersecurity stop #DataBreach
+﻿" XEN 峰会上的一篇演讲《Hypervisor Enforced Data Loss Prevention》： https://t.co/HeGUC4Xky9 "
+[ Virtualization ]  PV Calls: a new paravirtualized protocol for POSIX syscalls - https://blog.xenproject.org/2016/08/30/pv-calls-a-new-paravirtualized-protocol-for-posix-syscalls/
+﻿"PV Calls - 从 DOMU 到 DOM0 转发 Syscall 的协议： https://t.co/EsvRaDzPhR"
+[ Virtualization ]  Cappsule : Open Source hypervisor to sandbox apps : https://cappsule.github.io/ , Video : https://cappsule.github.io/data/cappsule-desktop.webm
+﻿"Cappsule - 为应用程序提供一个轻量级的虚拟机执行环境︰ https://t.co/TVbaAUVOi2   演示视频︰ https://t.co/o4p1spenal"
+[ Virtualization ]  Weekend Project: Write your own Hypervisor in a couple easy steps. http://lwn.net/Articles/658511/ https://t.co/WbbVOTbTzy
+﻿" 基于 KVM API，自己写一个 Hypervisor： https://t.co/YAmK7i8nwz "
+[ Virtualization ]  cadvisor - 分析运行状态容器的资源占用和性能数据的工具： https://github.com/google/cadvisor
+[ Virtualization ]  Added significantly enhanced Xen hypercall fuzzer https://github.com/chipsec/chipsec/blob/master/source/tool/chipsec/modules/tools/vmm/xen/hypercallfuzz.py
+﻿" Xen hypercall fuzzer： https://t.co/HhzryJaeMj"
+[ Virtualization ]  TinyVM - 纯 C 语言写的一个轻量级虚拟机： https://github.com/jakogut/tinyvm
+[ Virtualization ]  [CVE-2016-5328/5329] Multiple VMWare Fusion kernel infoleaks (1 in the OS X Host and 1 in the OS X Guest) - https://marcograss.github.io/security/vmware/cve/2016/10/27/cve-2016-5328-5329-vmware-fusion-infoleaks.html
+﻿" VMWare Fusion 内核信息泄漏漏洞（CVE-2016-5328/5329）： https://t.co/kPVvgQ0HgY"
+[ Virtualization ]  QEMU+KVM & XEN Pwn: virtual machine escape from “Dark Portal” - http://powerofcommunity.net/poc2016/wei.pdf
+﻿"QEMU+KVM & XEN Pwn: virtual machine escape from “Dark Portal”，来自 POC 2016 上 360 Marvel Team（PDF）： https://t.co/yHXJarVJna"
+[ Virtualization ]  Symantec/Norton Antivirus ASPack Remote Heap/Pool memory corruption Vulnerability CVE-2016-2208 https://bugs.chromium.org/p/project-zero/issues/detail?id=820
+﻿"赛门铁克公司/诺顿防病毒软件 ASPack 远程堆/池 的内存破坏漏洞（ CVE-2016-2208）： https://t.co/XDJiXeFX6N"
+[ Virtualization ]  KLEE 1.3.0 Symbolic Virtual Machine released https://github.com/klee/klee/releases/tag/v1.3.0
+﻿"符号执行虚拟机 KLEE 1.3.0 发布： https://t.co/yhsVLoPUU5"
+[ Virtualization ]  Security Analysis of Encrypted Virtual Machines : https://arxiv.org/pdf/1612.01119v1.pdf (pdf) https://t.co/OZfPDNJpfL
+﻿"加密的虚拟机安全性分析（PDF）︰ https://t.co/m28ZJ7UpgV"
+[ Virtualization ]  Architecting Virtualization Labs for fun,Profit & learning : https://blindseeker.com/AVATAR/AVATAR-12-3-16.pdf (pdf) cc @ da_667
+﻿"利用虚拟机搭建网络攻防实验环境教程（PDF）︰ https://t.co/CCPTqZ4D52"
+[ Virtualization ]  XSA-204 - Xen "x86: Mishandling of SYSCALL singlestep during emulation", oops… http://xenbits.xen.org/xsa/advisory-204.html
+﻿"由于 Xen 不正确处理 SYSCALL 单步执行存在的漏洞（CVE-2016-10013）： https://t.co/K3SI5Jtzkn"
+[ Virtualization ]  Linux Container Internals : http://docker-saigon.github.io/post/Docker-Internals/
+﻿"Docker Internals︰ https://t.co/fY7OwsUla4"
+[ Virtualization ]  科普 VT(Intel 硬件虚拟化) EPT： http://mp.weixin.qq.com/s/3h_kPaHzkRu9_xDJvCtCUg VT 调试器 X64 原码分享： http://mp.weixin.qq.com/s/L3bj0rs1tkYkn1xL9pOwgQ
+[ Virtualization ]  Docker for Automating Honeypots or Malware Sandboxes https://dadario.com.br/docker-for-automating-honeypots-or-malware-sandboxes/
+﻿"docker diff 在蜜罐和恶意软件沙箱中的应用： https://t.co/nGrilf18Rb "
+[ Virtualization ]  VirtualBox Privilege Escalation https://packetstormsecurity.com/files/140791/virtualbox-escalate.txt
+﻿" VirtualBox 5.1.14 提权漏洞(CVE-2017-3316)，附 PoC： https://t.co/9GV2fzJgAi"
+[ Virtualization ]  [blog post] Hardening Win7 x64 on VirtualBox for Malware Analysis https://byte-atlas.blogspot.com/2017/02/hardening-vbox-win7x64.html https://t.co/hH03DARSAC
+﻿"加固 VirtualBox 上的 Win7 x64 来进行恶意软件分析： https://t.co/FHWjbf1qD3 https://t.co/hH03DARSAC"
+[ Virtualization ]  Script to create templates to use with VirtualBox to make vm detection harder https://github.com/nsmfoo/antivmdetection #malware
+﻿"面向 VirtualBox 的反虚拟机检测脚本： https://t.co/7VdbLkzseb "
+[ Virtualization ]  QEMU的VGA设备CirrusCLGD 54xx VGA（XSA-208/CVE-2017-2615）： http://www.mottoin.com/96036.html
+[ Virtualization ]  Virtualization Based Security (Part 2) kernel communications : http://blog.amossys.fr/virtualization-based-security-part2.html, Part 1 - The boot process : http://blog.amossys.fr/virtualization-based-security-part1.html
+﻿"虚拟化安全 part 2: http://blog.amossys.fr/virtualization-based-security-part2.html  part 1: http://blog.amossys.fr/virtualization-based-security-part1.html"
+[ Virtualization ]  粗谈Intel GPU虚拟化的实现（GVT）： http://www.yiiyee.cn/Blog/vgpu-1/
+[ Virtualization ]  Hyper-V Top Level Functional Specification v5.0 - docs on Virtual Secure Mode VTL and Nested Virtualization - https://github.com/Microsoft/Virtualization-Documentation/blob/live/tlfs/Hypervisor%20Top%20Level%20Functional%20Specification%20v5.0.pdf
+﻿"微软公开的《虚拟机监控程序规范》： https://t.co/SYMLDOclbP"
+[ Virtualization ]  Path traversal to escape guest&lt;-&gt;host VM shared folder. Vmware 2008? No Virtualbox 2017. ?cooperating VMs trick https://t.co/yEhu2XSb6p
+﻿"VirtualBox: cooperating VMs can escape from shared folder，两个 VirtualBox Guest 虚拟机可以合作，通过共享文件夹实现对 Host 机的逃逸，获得 Host 机整个文件系统的访问权限。主要是通过条件竞争实现的： https://t.co/yEhu2XSb6p"
+[ Virtualization ]  #ndss Nexen: Sandbox Xen into least-priv internal domains by @ adriancolyer https://blog.acolyer.org/2017/03/16/deconstructing-xen/ [74% vul mit.; 1… https://t.co/BykA8x8NkQ
+﻿"Deconstructing Xen，作者研究了 Xen 公告列表中的 191 个漏洞，发现其中高达 144 个都影响核心 Hypervisor，于是作者从架构设计角度考虑如何避免这种大多数漏洞都影响内核(Core)的情况： https://t.co/iUTUP8J3wP "
+[ Virtualization ]  Hack The Virtual Memory : C strings & /proc : https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/ cc @ julienbarbier42
+﻿"hacking 虚拟内存: C 字符串与 proc 文件系统: https://t.co/Rphb5aCCqn "
+[ Virtualization ]  QEMU cache block 翻译过程存在一个漏洞，Guest 机中 ring3 进程可以向另一个 ring3 进程注入代码，包括向拥有 root 权限的 ring3 进程： https://bugs.chromium.org/p/project-zero/issues/detail?id=1122
+[ Virtualization ]  虚拟仪器工程平台 LabVIEW 被发现了一个远程代码执行漏洞： http://blog.talosintelligence.com/2017/03/vulnerability-spotlight-code-execution.html
+[ Virtualization ]  如何从 Android 的 Native 代码中直接创建 Java 虚拟机： https://calebfenton.github.io/2017/04/05/creating_java_vm_from_android_native_code/
+[ Virtualization ]  Project Zero blog: "Pandavirtualization: Exploiting the Xen hypervisor" by @ tehjh - https://googleprojectzero.blogspot.com/2017/04/pandavirtualization-exploiting-xen.html
+﻿"Xen hypervisor 的跨虚拟机代码执行漏洞，64-bit PV guest ROOT 权限用户可以在其他 PV guest 执行 ROOT Shell（CVE-2017-7228）： https://t.co/KNBa8qpypD"
+[ Virtualization ]  Our @ WEareTROOPERS slides from #TR17 with @ mikhailgorobets @ c7zero: Attacking hypervisors through hardware emulation https://www.troopers.de/downloads/troopers17/TR17_Attacking_hypervisor_through_hardwear_emulation.pdf
+﻿"通过硬件模拟接口攻击 Hypervisor： https://t.co/baMxyj141P "
+[ Virtualization ]  An overview of the PHP7 virtual machine https://nikic.github.io/2017/04/14/PHP-7-Virtual-machine.html
+﻿"PHP 7 Zend 虚拟机的技术概览：  https://t.co/3aNs6ihSTC"
+[ Virtualization ]   Xen 官方 WiKi 新公开了一本书《Hello Xen Project》： https://wiki.xenproject.org/wiki/Category:HelloXenProjectBook
+[ Virtualization ]  Hyundai Patches Leaky Blue Link Mobile App https://threatpost.com/hyundai-patches-leaky-blue-link-mobile-app/125182/
+﻿"现代汽车的手机应用 Blue Link 修复了一个隐私数据泄露的漏洞： https://t.co/zbPQLQ4OKx"
+[ Virtualization ]  Xen 发布漏洞公告，修复了 3 个漏洞： PV guest 逃逸漏洞： https://xenbits.xen.org/xsa/advisory-213.html System 内存访问、提权、信息泄露漏洞： https://xenbits.xen.org/xsa/advisory-214.html 物理内存页改写提权漏洞： https://xenbits.xen.org/xsa/advisory-215.html
+[ Virtualization ]  https://4sysops.com/archives/how-to-run-hyper-v-under-vmware-workstation/ Quite helpful for trying out amazing features of #Windows10 like #VBS #DG #CG
+如何在 VMware 内部嵌套安装并运行 Hyper-V: https://4sysops.com/archives/how-to-run-hyper-v-under-vmware-workstation/
+[ Virtualization ]  Try Deep Learning in Python now with a fully pre-configured VM - https://medium.com/@ ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b
+" 基于 Python 进行深度学习的 VM 虚拟机 ： https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b "
+[ Virtualization ]  Xen: 64bit PV guest breakout via pagetable use-after-type-change(XSA-213)： https://bugs.chromium.org/p/project-zero/issues/detail?id=1231
+[ Virtualization ]  Hack the Virtual Memory: malloc, the heap & the program break https://blog.holbertonschool.com/hack-the-virtual-memory-malloc-the-heap-the-program-break/ #infosec #malloc #Virtual
+" Hack the Virtual Memory: malloc, the heap & the program break，了解虚拟内存、内存的申请过程： https://t.co/bhWT0GfgxX "
+[ Virtualization ]  图解VMware内存机制： http://delxu.blog.51cto.com/975660/288682
+[ Virtualization ]  微软 Hyper-V Bug Bounty 项目，最高奖励 15 万美元： https://technet.microsoft.com/en-us/security/mt784431
+[ Virtualization ]  虚拟机逃逸——QEMU的案例分析,来自看雪学院: （一）： https://mp.weixin.qq.com/s/i8StsVvyhCf2uTWqpuMSRg （二）： http://mp.weixin.qq.com/s/5Sg3c1E9a7y5EO5FqTVBxw （三）： http://mp.weixin.qq.com/s/Rk742u6-GzzLfiQuIUpJfA
+[ Virtualization ]   基于虚拟机的软件保护（加壳）方案的自动化反混淆技术（Deobfuscation）： http://shell-storm.org/talks/SSTIC2017_Deobfuscation_of_VM_based_software_protection.pdf
+[ Virtualization ]  VMware vSphere Data Protection 5.x/6.x - Java 反序列化远程代码执行漏洞利用脚本（CVE-2017-4914）： https://www.exploit-db.com/exploits/42152/
+[ Virtualization ]   HyperV and its Memory Manager，来自 Meysam Firouzi 在 RECon 会议的演讲： http://www.andrea-allievi.com/files/Recon_2017_Montreal_HyperV_public.pptx
+[ Virtualization ]  Docker 安全部署手册： https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines
+[ Virtualization ]   今年 CanSecWest 会议上 Marvel Team 关于 VMware 逃逸的演讲《Escape from VMware Workstation by using "Hearthstone"》:  https://cansecwest.com/slides/2017/CSW2017_QinghaoTang_XinleiYing_vmware_escape.pdf
+[ Virtualization ]  利用一个堆溢出漏洞实现 VMware 虚拟机逃逸，长亭科技研究员利用 VMware 拖拽和粘贴实现中的一个包长度检查不完善造成的堆溢出漏洞，通过 Backdoor RPCI 机制实现稳定内存对象布局，最终实现 HOST 机信息泄露和代码执行： https://zhuanlan.zhihu.com/p/27733895
+[ Virtualization ]   基于 VMware GDB stub 和 IDA Pro 的虚拟机调试之加载 Windows 内核调试符号： http://www.triplefault.io/2017/07/loading-kernel-symbols-vmm-debugging.html
+[ Virtualization ]   探索QEMU-KVM中PIO处理的奥秘，来自安全客： http://bobao.360.cn/learning/detail/4079.html
+[ Virtualization ]   VMware Horizon macOS 客户端的代码注入漏洞（CVE-2017-4918）： https://bogner.sh/2017/07/cve-2017-4918-code-injection-in-vmware-horizons-macos-client/
+[ Virtualization ]  两周前推送了一篇长亭科技的 VMware 拖拽和粘贴实现中的堆溢出漏洞，是由于包长度检查不完善引起的，成功利用这个漏洞可以实现虚拟机逃逸。McAfee 昨天发了一篇 Blog 分析官方修复这个漏洞的补丁： https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-patch-of-a-virtual-machine-escape-on-vmware/
+[ Virtualization ]  Project Zero 昨天公开了两个 VirtualBox 的 DLL UNC 路径检查绕过导致的本地提权漏洞，VirtualBox: Windows Process DLL UNC Path Signature Bypass EoP： https://bugs.chromium.org/p/project-zero/issues/detail?id=1296 https://bugs.chromium.org/p/project-zero/issues/detail?id=1257
+[ Virtualization ]   Hyper-V sockets internals： https://xakep.ru/2017/08/09/hyper-v-internals/
+[ Virtualization ]   如何利用虚拟化嵌套特性在 Hyper-V 虚拟机中运行 Hyper-V： https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/user-guide/nested-virtualization
+[ Virtualization ]  QEMU 的安全内幕与攻击界面分析，来自 Qiang Li 和 Zhibin Hu 在 HITB 会议的演讲： http://gsec.hitb.org/materials/sg2017/D2%20-%20Qiang%20Li%20and%20ZhiBin%20Hu%20-%20QEMU%20Attack%20Surface%20and%20Security%20Internals.pdf
+[ Virtualization ]  探索虚拟化技术在漏洞检测中的应用，来自 Kcon 2017： https://github.com/knownsec/KCon/blob/master/2017/%5BKCon%202017%5D0827_4_%E4%BB%99%E6%9E%9C_%E6%8E%A2%E7%B4%A2%E8%99%9A%E6%8B%9F%E5%8C%96%E6%8A%80%E6%9C%AF%E5%9C%A8%E6%BC%8F%E6%B4%9E%E6%A3%80%E6%B5%8B%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.pdf
+[ Virtualization ]  上个月推送过一份俄文版的《Hyper-V sockets internals》，昨天 Hyper-V Internals 网站公开了一份英文版本： http://hvinternals.blogspot.com/2017/09/hyperv-socket-internals.html
+[ Virtualization ]   VMware 修复了 3 个漏洞，分别为：1. SVGA 设备的一个越界写漏洞（CVE-2017-4924），该漏洞可以实现 Guest 到 Host 的逃逸；2. Guest RPC 空指针引用漏洞（CVE-2017-4925）；3. H5 客户端的存储型 XSS（CVE-2017-4926）： https://www.vmware.com/security/advisories/VMSA-2017-0015.html
+[ Virtualization ]  Wandering through the Shady Corners of VMware Workstation/Fusion： https://comsecuris.com/blog/posts/vmware_vgpu_shader_vulnerabilities/
+[ Virtualization ]    Xen: unbounded recursion in pagetable de-typing（XSA-240）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1359
+[ Virtualization ]  利用 Row Hammer 攻击共享宿主的两台虚拟机：黑客、锤子与两个内存模块： https://thisissecurity.stormshield.com/2017/10/19/attacking-co-hosted-vm-hacker-hammer-two-memory-modules/
+[ Virtualization ]   VMware Escapology - ZDI 研究员对 VMware 架构的简单剖析以及对 HGFS 和 Pwn2Own 2017 DnD 拖放逃逸漏洞的分析。来自 DerbyCon 2017 会议： https://github.com/thezdi/derbycon2017/blob/master/VMware-Escapology.pdf
+[ Virtualization ]   Hyper-V安全从0到1(1)： https://bbs.pediy.com/thread-222626.htm (2)： https://bbs.pediy.com/thread-222641.htm
+[ Virtualization ]   VMware Workstation NAT IP 分片重组中存在堆缓冲区溢出漏洞（CVE-2017-4934）： http://www.zerodayinitiative.com/advisories/ZDI-17-921/
+[ Virtualization ]  Docker for Windows 17.11 版本优化了在 Windows 10 最新版上安装 Linux 容器的体验： https://blog.docker.com/2017/11/docker-for-windows-17-11/
+[ Virtualization ]  如何在 Azeria Labs 的 ARM 逆向虚拟机实验环境中测试栈溢出： https://azeria-labs.com/part-3-stack-overflow-challenges/
+[ Virtualization ]  云计算环境 AWS EC2 虚拟化的发展历程： http://www.brendangregg.com/blog/2017-11-29/aws-ec2-virtualization-2017.html
+[ Virtualization ]  AWS EC2 Virtualization 2017： http://www.brendangregg.com/blog/2017-11-29/aws-ec2-virtualization-2017.html
+[ Virtualization ]  当虚拟机重启时 KVM 定时器中断造成的 0x5c 蓝屏死机问题分析: http://terenceli.github.io/%E6%8A%80%E6%9C%AF/2017/11/27/clock-init-failed-bsod
+[ Virtualization ]  Windows 8.1 加密内存空间 CI!g_pStore 的 Warbird 虚拟机保护机制逆向分析： https://github.com/airbus-seclab/warbirdvm
+[ Virtualization ]  剖析虚拟内存：堆栈，寄存器和汇编代码: https://blog.holbertonschool.com/hack-virtual-memory-stack-registers-assembly-code/
+[ Virtualization ]    VMware Guest->Host 虚拟机逃逸漏洞案例的总结报告，来自 BlackHat Europe 2017 会议：  https://www.blackhat.com/docs/eu-17/materials/eu-17-Mandal-The-Great-Escapes-Of-Vmware-A-Retrospective-Case-Study-Of-Vmware-G2H-Escape-Vulnerabilities.pdf
+[ Virtualization ]   利用 radare2 框架逆向分析以太坊虚拟机(Ethereum Virtual Machine)的字节码： https://blog.positive.com/reversing-evm-bytecode-with-radare2-ab77247e5e53
+[ Virtualization ]  ZDI 分析 2017 Top 5 漏洞案例的第四篇：利用 VMware NAT Service (vmnat.exe) 服务实现虚拟机逃逸，在 HOST 机上以 SYSTEM 权限执行代码（ZDI-17-921/CVE-2017-4934）： https://www.zerodayinitiative.com/blog/2017/12/21/vmwares-launch-escape-system
+[ Virtualization ]  虚拟化漏洞专题之寻找VMware Workstation渲染器中的漏洞： https://mp.weixin.qq.com/s/jo_-o7S2gmdXLDXcO5dmWw
+[ Virtualization ]  用于测试虚拟化系统的神奇工具，来自唐青昊在韩国 PoC 2017 会议的演讲： http://powerofcommunity.net/poc2017/qinghao.pdf
+[ Virtualization ]   VMware Horizo n（V4H / V4PA）桌面代理提权漏洞详情及利用（CVE-2017-4946）： http://gosecure.net/2018/01/10/vmware-horizon-v4h-v4pa-desktop-agent-privilege-escalation-vulnerability-cve-2017-4946/
+[ Virtualization ]  Oracle VirtualBox 多个虚拟机逃逸漏洞披露： https://blogs.securiteam.com/index.php/archives/3649
+[ Virtualization ]  深入理解虚拟化 第1部分- 虚拟化介绍： https://saferwall.com/blog/virtualization-internals-part-1-intro-to-virtualization
+[ Virtualization ]  Devirtualizing FinSpy 1-4： 1）： http://www.msreverseengineering.com/blog/2018/2/21/wsbjxrs1jjw7qi4trk9t3qy6hr7dye 2）： http://www.msreverseengineering.com/blog/2018/2/21/devirtualizing-finspy-phase-2-first-attempt-at-devirtualization 3）： http://www.msreverseengineering.com/blog/2018/2/21/devirtualizing-finspy-phase-3-fixing-the-function-related-issues 4）： http://www.msreverseengineering.com/blog/2018/2/21/devirtualizing-finspy-phase-4-second-attempt-at-devirtualization
+[ Virtualization ]   利用 VMware Workstation 一个 Buffer/变量未初始化漏洞实现虚拟机逃逸，来自 ZDI：  https://www.thezdi.com/blog/2018/3/1/vmware-exploitation-through-uninitialized-buffers
+[ Virtualization ]    Docker 容器构建过程的安全性分析： https://blog.heroku.com/exploration-of-security-when-building-docker-containers
+[ Virtualization ]  VMware Workstation and Fusion 拒绝服务攻击漏洞披露（CVE-2018-6957）： https://www.vmware.com/security/advisories/VMSA-2018-0008.html
+[ Virtualization ]  Pwn2Own 上的 VirtualBox 虚拟机逃逸漏洞演示： https://twitter.com/i/web/status/975059099716001792
+[ Virtualization ]  最近在 Pwn2Own 中发布的 VirtualBox 逃逸漏洞的详细分析报告： https://twitter.com/_niklasb/status/977141034059747328
+[ Virtualization ]  A bunch of Red Pills: VMware Escapes ，来自 科恩实验室： https://keenlab.tencent.com/en/2018/04/23/A-bunch-of-Red-Pills-VMware-Escapes/

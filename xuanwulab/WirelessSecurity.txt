@@ -1,0 +1,352 @@
+[ WirelessSecurity ]  Receiving C-Band AERO Signals http://www.rtl-sdr.com/c-band-aero-signals/
+﻿"接收 C 波段航空信号， 来自 RTL-SDR Blog: https://t.co/MAm1DTZzlj"
+[ WirelessSecurity ]  When Whales Fly – Building a Wireless Pentest Environment using Docker http://foxglovesecurity.com/2016/02/24/when-whales-fly-building-a-wireless-pentest-environment-using-docker/
+﻿"当鲸鱼飞起来的时候 — 搭建一个基于 Docker 的无线渗透测试环境，  Blog： https://t.co/PXQlibCqyy"
+[ WirelessSecurity ]  MouseJack : Injecting Keystrokes into Wireless mouse : https://github.com/RFStorm/mousejack/blob/master/doc/pdf/MouseJack-whitepaper-v1.1.pdf (pdf)
+﻿"MouseJack - 昨天推送过一篇 ThreatPost 关于无线键盘鼠标注入攻击的报道，今天作者放入了一篇 Paper 《无线鼠标击键注入攻击》， PDF:   https://t.co/7DPaaCjVyV  Github Repo：  https://github.com/RFStorm/mousejack/ "
+[ WirelessSecurity ]  I wrote the modern version of the "Poor man's Spectrum Analyzer" for Airspy: http://airspy.com/download https://t.co/biG09fi8rv
+﻿"穷人的频谱分析仪 - Airspy 下载: https://t.co/q200lJ0wdh https://t.co/biG09fi8rv"
+[ WirelessSecurity ]  OpenCellID is a collaborative project to create a free worldwide database of #GSM Cell IDs http://opencellid.org/ https://t.co/6MINGHqFHn
+﻿"OpenCellID  - 一个免费的全球 GSM Cell ID 数据库， 可以具体查看一个 Cell ID 的坐标、MCC、MNC、LAC、Cell ID 信息：  https://t.co/aAlZV3jvJ6   能看到北京大约有 3000 多个 Cell ID"
+[ WirelessSecurity ]  SDR Radio Academy: Reverse engineering a wireless car key fob. http://phasenoise.livejournal.com/3822.html
+﻿"SDR 无线电学院  - 逆向无线车钥匙， Youtube 视频： https://t.co/wZUM769Rqr"
+[ WirelessSecurity ]  EN| Awesome Learn Wifi Security https://canyoupwn.me/en-awesome-learn-wifi-security/ ( a listing with several tools and tutorials )
+﻿"WiFi 安全相关的资料收集， 包括一些工具、图书、Blog 列表： https://t.co/lHYm7Gozeb "
+[ WirelessSecurity ]  Rapid Radio Reversing : https://www.blackhat.com/docs/asia-16/materials/asia-16-Ossmann-Rapid-Radio-Reversing-wp.pdf (wp/pdf*) #BHASIA
+﻿"快速地无线电逆向， Paper︰ https://t.co/rRsAfoFinE  Slides: https://www.blackhat.com/docs/asia-16/materials/asia-16-Ossmann-Rapid-Radio-Reversing-wp.pdf "
+[ WirelessSecurity ]  Reverse Engineering Digital Signals : https://www.fleark.de/keyfob.pdf (Slides*)
+﻿"数字信号逆向， Slides ︰ https://t.co/kSOOlkIilZ "
+[ WirelessSecurity ]  Reverse engineering a Digital Two way Radio : https://www.youtube.com/watch?v=cE4f6JaBfSI cc: @ travisgoodspeed
+﻿"逆向数字双向无线电， 来自 Troopers 会议，Youtube 视频 ︰ https://t.co/dakeibaohV  "
+[ WirelessSecurity ]  #BSidesCbr slide handouts are here https://drive.google.com/open?id=0BzKQjeC0jfmDaEhrUTQzc2JYdTg (warning nearly 30MB).
+﻿"来自 Stingrays 的威胁， Stingrays 是一种手机信号拦截器， 来自 BSidesCbr 会议： https://t.co/iBu7PetrpA。"
+[ WirelessSecurity ]  WiFi-Pumpkin v0.7.5 - Framework for Rogue Wi-Fi Access Point Attack -- http://www.kitploit.com/2016/05/wifi-pumpkin-v075-framework-for-rogue.html
+﻿"WiFi-Pumpkin - 无线 Wi-Fi 接入点攻击框架更新 0.7.5 版本： https://t.co/C8QMu6l1bb   FreeBuf 关于该工具的文章： http://www.freebuf.com/sectool/104233.html "
+[ WirelessSecurity ]  Forging Wireless Timing Signals to Attack the NTP Server : http://conference.hitb.org/hitbsecconf2016ams/materials/D2T1%20-%20Yuwei%20Zheng%20and%20Haoqi%20Shan%20-%20Forging%20a%20Wireless%20Time%20Signal%20to%20Attack%20NTP%20Servers.pdf (Slides) #HITB2016AMS
+﻿"伪造无线授时信号，攻击 NTP 服务器，来自 HITB 阿姆斯特丹会议 ︰ https://t.co/0Sox2QhQZy "
+[ WirelessSecurity ]  Hamnet - A large scale high speed radio network : https://www.tapr.org/pdf/DCC2014-TheEuropeanHAMNET-DG8NGN.pdf (pdf) https://t.co/zXeW0WVUU6
+﻿" Hamnet - 大型高速无线电网络︰ https://t.co/V94vMtFmAo   https://t.co/zXeW0WVUU6"
+[ WirelessSecurity ]  Notes on Hijacking GSM/GPRS Connections https://www.insinuator.net/2016/07/notes-on-high-jacking-gsmgprs-connections/
+﻿" GSM/GPRS 连接劫持： https://t.co/r5V82keqtu "
+[ WirelessSecurity ]  Just released tech report with results from my #LTE #security and #exploit research and @ shmoocon talk. #infosec http://arxiv.org/abs/1607.05171
+﻿" 基于低成本无线电设备的 LTE 协议漏洞利用和位置跟踪实验，Paper： https://t.co/sZqVllSG0j"
+[ WirelessSecurity ]  #KeySniffer vulnerability opens wireless keyboards to remote snooping http://ow.ly/i9CE302CjHG
+﻿"KeySniffer - 无线键盘窃听漏洞，影响 8 个厂商，来自 ThreatPost 的报道： https://t.co/m3Cyzae8nx  技术细节： http://www.keysniffer.net/technical-details/ "
+[ WirelessSecurity ]  Building an SDR from scratch http://electronics.kitchen/misc/freesrp/ https://t.co/VlPmgHaNQO
+﻿" 从零开始构建 SDR： https://t.co/8DjoQxjBA9 "
+[ WirelessSecurity ]  Excited to announce the brand new release of SILICA v7.26! Includes Malicious AP Detection and several improvements https://vimeo.com/177231337
+﻿" Immunity 开发的一个恶意 AP 接入点检测工具 - SILICA，视频演示： https://t.co/qjSiJ95jdu  官方介绍： https://www.immunityinc.com/products/silica/ "
+[ WirelessSecurity ]  Slides of my talk @ defcon about Bluetooth Smart Man in the Middle is now online https://speakerdeck.com/virtualabs/btlejuice-the-bluetooth-smart-mitm-framework#
+﻿" 智能蓝牙中间人攻击框架，来自 DefCon 会议的演讲： https://t.co/BBN2E8wJbx"
+[ WirelessSecurity ]  Putting LTE Security Functions to the Test: A Framework to Evaluate Implementat. Correctness https://www.usenix.org/system/files/conference/woot16/woot16-paper-rupprecht.pdf https://t.co/llfWHsxq60
+﻿" 让 LTE 安全功能变得可测 - 一个评估 LTE 实现正确性的框架，Paper： https://t.co/z5OTJY4lHW "
+[ WirelessSecurity ]  (PDF slides) - MouseJack: Injecting Keystrokes into Wireless Mice: https://lnkd.in/eTEHvbu
+﻿" MouseJack - 将击键记录器注入到无线鼠标中，来自 DefCon 会议的演讲︰ https://t.co/assPwxYfG6"
+[ WirelessSecurity ]  #KCON 2016 无线 Fuzzing 之旅 by Kevin2600 https://github.com/knownsec/KCon/raw/master/2016/%5BKCon%202016%5D0828_2_Kevin2600_%E6%97%A0%E7%BA%BF%20Fuzzing%20%E4%B9%8B%E6%97%85.pdf
+﻿" 无线 Fuzzing 之旅，来自 KCon 2016 会议： https://t.co/Ed8qCXWcIe"
+[ WirelessSecurity ]  New blogpost - Piotr Osuch on using H-field Electromagnetic analysis to capture data transmitted over serial https://labs.mwrinfosecurity.com/blog/h-field-electromagnetic-sniffing/
+﻿" H-field 电磁 Sniffer，来自 MWR Labs： https://t.co/DpBpZNbAcK"
+[ WirelessSecurity ]  使用 RTL-SDR 與 TI eZ430 運動手錶 ( eZ430-Chronos Watch ) 破解停車場閘門遙控器訊號 http://ruten-proteus.blogspot.jp/2014/07/rtl-sdr-ti-ez430-chronos-watch.html #SDR https://t.co/ueAjltB7aG
+﻿"使用 RTL-SDR 与 TI 的 eZ430 运动手表（EZ430-Chronos 手表）破解停车场闸门遥控器讯号： https://t.co/42mNKsd45E "
+[ WirelessSecurity ]  Bluetooth Penetration Testing Framework http://bluetooth-pentest.narod.ru/ #bluetooth #Pentest
+﻿"蓝牙渗透测试框架： https://t.co/qWhwasqDXV "
+[ WirelessSecurity ]  LTE MOBILITY SECURITY AND VIRTUALIZATION [PDF] http://www.ee.columbia.edu/~roger/LTE_security_tutorial_ICC_May_2016.pdf #LTE #SDR https://t.co/xXmCcuuORJ
+﻿"LTE 移动安全与虚拟化： https://t.co/U4gJy6OCmP "
+[ WirelessSecurity ]  srsUE:Open source software radio 3GPP LTE UE https://github.com/srslte/srsue #bladeRF #SDR #LTE
+﻿"srsUE - 一套开源的 3GPP LTE 用户设备实现： https://t.co/eKfDgDwtpn "
+[ WirelessSecurity ]  MANA Toolkit – Rogue Access Point (evilAP) And MiTM Attack Tool http://www.darknet.org.uk/2016/09/mana-toolkit-rogue-access-point-evilap-mitm-attack-tool/
+﻿"MANA Toolkit — WiFi AP 欺骗和中间人攻击工具： https://t.co/L8McESqYzv"
+[ WirelessSecurity ]  Spooftooph - Automated Tool for Spoofing or Cloning Bluetooth Device http://ethicalhackingnews.blogspot.jp/2013/02/spooftooph-automated-tool-for-spoofing.html https://t.co/kimQUvU1S1
+﻿"Spooftooph - 能够实现蓝牙设备克隆和欺骗的自动化工具： https://t.co/wg01jnxxUH "
+[ WirelessSecurity ]  Guide to Bluetooth Security [PDF] http://large.stanford.edu/courses/2012/ph250/roth1/docs/890066.pdf #Bluetooth #Checklist #IoT https://t.co/qNzsHvCScE
+﻿"蓝牙安全研究入门指南，来自 2008 年的一篇文档： http://large.stanford.edu/courses/2012/ph250/roth1/docs/890066.pdf "
+[ WirelessSecurity ]  Replay Attack – Doorbell http://drwxr.org/2016/09/replay-attack-doorbell/ #SDR #Hacking https://t.co/YemRcOlKXS
+﻿"针对无线门铃的重放攻击：  https://t.co/gy1gkpynwv "
+[ WirelessSecurity ]  Digital Ding Dong Ditch – Hacking wireless doorbells with Arduino and RTL-SDR http://samy.pl/dingdong/ #SDR #Hacking https://t.co/a256jLz3kv
+﻿" 利用 Arduino 和 SDR 破解无线门铃： https://t.co/9qTLEw9dmY "
+[ WirelessSecurity ]  树莓派打造无线电扫描仪： http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458279754&idx=1&sn=7141dc9240c7d0b7f66a53286fd41fde&scene=1&srcid=0922W2glKvKoB0WUlmxPLcwV
+[ WirelessSecurity ]  RF Signals - Automating the #Reverse Engineering Process https://github.com/tresacton/dspectrum http://ethicalhacker.io/post/150536211195/rf-signals-automating-the-reverse-engineering #SDR https://t.co/z4uKoWCJg9
+﻿"RF Signals 的自动化逆向分析：【video】:  https://t.co/igUF9uMB0S ;【paper】:  https://t.co/IECnaGZsTg "
+[ WirelessSecurity ]  Android platform WIFI Pentest tool zANTI v2.5 Release http://www.freebuf.com/sectool/115051.html #WIFI #Hacking https://t.co/K40p6e259n
+﻿"Android WiFi 渗透测试客户端 zANTI 2.5 版本下载： https://t.co/BCRURAWxUZ "
+[ WirelessSecurity ]  GNU Radio tutorials Part1 http://www.white-alone.com/GNURadio%E6%95%99%E7%A8%8B_1/ Part3 http://www.white-alone.com/GNURadio%E6%95%99%E7%A8%8B_3/ #SDR
+﻿"GNU Radio 教程 Part 1： https://t.co/MjMvDRP90r    Part 3： https://t.co/lnAn5j2p4r "
+[ WirelessSecurity ]  气象卫星云图观测接收 MeteorologicalSatellite Observation And Receiving #SDR #HackRF #BladeRF http://blog.csdn.net/xdyegong/article/details/49851507 https://t.co/CnHdPzJlFn
+﻿" 气象卫星云图观测接收，来自 CSDN： https://t.co/LiPMciZ8UG "
+[ WirelessSecurity ]  Snagging Active Directory credentials over WiFi (Part 1) : https://zone13.io/post/Snagging-credentials-over-WiFi-Part1/
+﻿" 利用 WiFi 盗取活动目录（Active Directory）的认证凭据信息 Part 1︰ https://t.co/nHzCiJ8kxJ"
+[ WirelessSecurity ]  Reverse Engineering static key remotes with gnuradio and rfcat : https://leonjza.github.io/blog/2016/10/02/reverse-engineering-static-key-remotes-with-gnuradio-and-rfcat/
+﻿" 利用 gnuradio 与 rfcat 逆向出静态明文密钥: https://t.co/GqqEPmQysV"
+[ WirelessSecurity ]  CTCSS fingerprinting: a method for transmitter identification (new blog post) http://www.windytan.com/2016/10/ctcss-fingerprinting-method-for.html
+﻿"CTCSS 指印：发射机识别方法   https://t.co/BWplVhDofG 的方法"
+[ WirelessSecurity ]  ooktools: on-off keying tools for your sdr， GitHub： https://github.com/leonjza/ooktools Blog： https://leonjza.github.io/blog/2016/10/08/ooktools-on-off-keying-tools-for-your-sdr/
+[ WirelessSecurity ]  Going Deeper Into GNURadio Companion http://www.hak5.org/episodes/hak5-1601 Decoding Digital Subcarriers with a $20 SDR http://www.hak5.org/episodes/hak5-1602 #SDR
+﻿"利用神器 GNURadio 探索 RTL-SDR 【vedio】：  https://t.co/HAXFzuoANd ；仅用价值20刀的 SDR 解码数字载波 【vedio】: https://t.co/wAx5Z9dzh2 "
+[ WirelessSecurity ]  Hacking the Drones ( GPS Spoofing over DJI Phantom ) [PDF] https://www.owasp.org/images/5/5e/OWASP201604_Drones.pdf
+﻿" 通过 GPS 欺骗的方式 Hacking 大疆无人机： https://t.co/FbvXV8HNU9"
+[ WirelessSecurity ]  Drones Hijacking multi - dimensional attack vectors and countermeasure https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEFCON-24-Aaron-Luo-Drones-Hijacking-Multi-Dimensional-Attack-Vectors-And-Countermeasures-UPDATED.pdf https://www.youtube.com/watch?v=bahJxY3fEI4
+﻿" Defcon 24 会议上的一篇演讲《劫持无人机》： https://t.co/LueUNR5IoH    视频： https://t.co/FDmZGBmLsH"
+[ WirelessSecurity ]  Code is up! Transmit your own HD Radio signal with a HackRF or USRP. https://github.com/argilo/nrsc-5 #GnuRadio #SDR https://t.co/m3TgRwYJ6q
+﻿" HD Radio (NRSC-5-C) 的软件实现版本： https://t.co/RiwLfOeV6S "
+[ WirelessSecurity ]  Hands-on GSM Analysis with GNU Radio and AirProbe [PDF] http://static1.1.sqspcdn.com/static/f/679473/25461571/1411158642820/Sep15_09_Otterbach_GSM.pdf #SDR #GnuRadio https://t.co/Vck3dV3eOU
+﻿"使用 GNU Radio 和 AirProbe 分析 GSM： https://t.co/5TLgspoLk1"
+[ WirelessSecurity ]  RTL-SDR Tutorial: Receiving and Decoding Data from the Outernet http://www.rtl-sdr.com/rtl-sdr-tutorial-receiving-and-decoding-data-from-the-outernet/ https://t.co/kmOHyuP7sI
+﻿"RTL-SDR 教程︰从 Outernet 接收和解码数据： http://www.rtl-sdr.com/rtl-sdr-tutorial-receiving-and-decoding-data-from-the-outernet/"
+[ WirelessSecurity ]  [remote] - Hak5 WiFi Pineapple - Preconfiguration Command Injection (Metasploit) https://www.exploit-db.com/exploits/40609/?rss
+﻿"Hak5 WiFi Pineapple - Preconfiguration Command Injection：  https://t.co/7dkuTDs4Rt"
+[ WirelessSecurity ]  LTE security downright ridiculous: every call, text, can be intercepted, blacked out... http://www.theregister.co.uk/2016/10/23/every_lte_call_text_can_be_intercepted_blacked_out_hacker_finds/
+﻿"LTE 每一次电话呼叫和文本信息都可被劫持： https://t.co/XiIWXqiH4Y"
+[ WirelessSecurity ]  GNU Radio Tutorials [pdf] http://files.ettus.com/tutorials/labs/Lab_1-5.pdf video https://www.youtube.com/playlist?list=PL618122BD66C8B3C4&feature=view_all
+﻿"GNU Radio 教程 [pdf]： https://t.co/XibPzi6WlE   视频:  https://t.co/Qk2ttLq9YV"
+[ WirelessSecurity ]  GSMem:通过GSM频率从被物理隔离的计算机上窃取数据： http://bobao.360.cn/learning/detail/3134.html
+[ WirelessSecurity ]  #PacSec 2016 "You Can Hijack Nearly Any Drone Mid-flight Using This Tiny Gadget - http://thehackernews.com/2016/10/how-to-hack-drone.html"
+﻿" 利用 SDR 攻击 DSMx 无人机，来自 PacSec 会议： https://t.co/z2PrZ7pNEp""
+[ WirelessSecurity ]  Reversing LoRa. Exploring Next-Generation Wireless ：https://static1.squarespace.com/static/54cecce7e4b054df1848b5f9/t/57489e6e07eaa0105215dc6c/1464376943218/Reversing-Lora-Knight.pdf
+[ WirelessSecurity ]  Wireless Security Testing/Hacking/Research cc @ grymoire http://www.grymoire.com/Security/Hardware.html #HardWare #SDR https://t.co/rxGyC2B8Fm
+﻿"无线安全测试介绍： http://www.grymoire.com/Security/Hardware.html "
+[ WirelessSecurity ]  Decoding Lora https://revspace.nl/DecodingLora Reversing LoRa. Exploring Next-Generation Wireless [PDF] https://static1.squarespace.com/static/54cecce7e4b054df1848b5f9/t/57489e6e07eaa0105215dc6c/1464376943218/Reversing-Lora-Knight.pdf #Lora #SDR
+﻿"LoRa 射频调制格式介绍： https://revspace.nl/DecodingLora 探讨下一代无线 [PDF]： https://t.co/x28sL8nFMt "
+[ WirelessSecurity ]  Interesting stuff: Wi-Fi-Based IMSI Catcher https://www.blackhat.com/docs/eu-16/materials/eu-16-OHanlon-WiFi-IMSI-Catcher.pdf [PDF], by @ raviborgaonkar & Piers O'Hanlon #BHEU https://t.co/lTGTADnS5N
+﻿"来自 BlackHat EU 上的议题：WiFi-Based IMSI Catcher： https://t.co/hTritRfRZA"
+[ WirelessSecurity ]  LTE Redirection : Forcing Targeted LTE Cellphone into Unsafe Network : https://ruxcon.org.au/assets/2016/slides/LTE_Redirection_Ruxcon.pdf (Slides) #ruxcon
+﻿"LTE Redirection : Forcing Targeted LTE Cellphone into Unsafe Network，来自 RuxCon 大会上 360 UnicornTeam 的议题（Slides）︰ https://t.co/JllbD7ddTC "
+[ WirelessSecurity ]  wifi 渗透流程整理: http://www.mottoin.com/91376.html
+[ WirelessSecurity ]  SoDaRadio :SoDaRadio is a VHF/UHF all mode transceiver for the USRP https://sourceforge.net/projects/sodaradio/ #USRP #SDR https://t.co/EXORXpU48K
+﻿"SoDaRadio: 一个基于 USRP 的 VHF/UHF 全模式收发器： https://sourceforge.net/projects/sodaradio/"
+[ WirelessSecurity ]  Attacking Vessel Tracking Systems for Fun and Profit #SDR #AIS https://conference.hitb.org/hitbsecconf2013kul/materials/D1T1%20-%20Marco%20Balduzzi,%20Kyle%20Wilhoit%20Alessandro%20Pasta%20-%20Attacking%20Vessel%20Tracking%20Systems%20for%20Fun%20and%20Profit.pdf https://t.co/V4tdIh3ugk
+﻿"Attacking Vessel Tracking（船舶跟踪） Systems forFun and Profit（pdf）: https://conference.hitb.org/hitbsecconf2013kul/materials/D1T1%20-%20Marco%20Balduzzi,%20Kyle%20Wilhoit%20Alessandro%20Pasta%20-%20Attacking%20Vessel%20Tracking%20Systems%20for%20Fun%20and%20Profit.pdf"
+[ WirelessSecurity ]  如何黑掉一个无人机？已知无人机漏洞&利用工具汇总（附演示视频）： http://bobao.360.cn/learning/detail/3172.html
+[ WirelessSecurity ]  infernal twin Automated Evil Twin Attack http://www.kalitut.com/2016/01/infernal-twin-automated-evil-twin-attack.html #EvilTwin #WiFiSecurity #wifi #kalilinux https://t.co/eIpkbWa92y
+﻿" infernal-twin -- 一个自动化的 wifi hacking 工具，文章对此工具进行了介绍，同时提出了防御方法： https://t.co/UnDsRFYKqY "
+[ WirelessSecurity ]  Inferring your mobile phone password via wifi signals https://blog.acolyer.org/2016/11/10/when-csi-meets-public-wifi-inferring-your-mobile-phone-password-via-wifi-signals/
+﻿"通过 wifi 信号推断你的手机密码： https://t.co/tslEehn6WB"
+[ WirelessSecurity ]  SDRuno Updated to V1.1: Now supports up to 2.4 MSPS for the RTL-SDR http://www.rtl-sdr.com/sdruno-updated-to-v1-1-now-supports-up-to-2-4-msps-for-the-rtl-sdr/
+﻿"SDRuno  V1.1 发布，同时增加了新特性： https://t.co/xvR37Tja3T"
+[ WirelessSecurity ]  A new GNU Radio OOT module. https://github.com/drmpeg/gr-ule Allows DVB-T2 or DVB-S2 links to be used for IP network interlinks. #gnuradio #dvbt2
+﻿"一个新的 GNU Radio OOT 模块： https://t.co/6GgSJTnWB8 "
+[ WirelessSecurity ]  WiFi-Pumpkin, Framework for Rogue Wi-Fi Access Point Attack: https://github.com/P0cL4bs/WiFi-Pumpkin
+﻿"WiFi-Pumpkin --  一个 wifi 攻击框架︰ https://t.co/6FQbIUNyD7"
+[ WirelessSecurity ]  fuzzing & exploiting wireless device drivers (2007) https://fuzzinginfo.files.wordpress.com/2012/05/deepsec__keil_kolbitsch-presentation-virtual_fuzzing.pdf
+﻿"fuzzing & exploitingwireless device drivers （2007 年）： https://t.co/d6rygB91ey"
+[ WirelessSecurity ]  针对Outernet卫星信号的逆向工程： http://bobao.360.cn/learning/detail/3181.html
+[ WirelessSecurity ]  .@ IBM opens attack simulation test center - https://threatpost.com/ibm-opens-attack-simulation-test-center/122004/
+﻿"IBM 开设了攻击模拟测试中心： https://t.co/VCWisBHzkk"
+[ WirelessSecurity ]  Researcher hacks city's WiFi service using buffer-overflow exploit https://www.scmagazine.com/researcher-hacks-citys-wifi-service-using-buffer-overflow-exploit/article/573203/
+﻿"安全人员利用负载均衡器中的缓冲区溢出漏洞黑掉了其城市的 wifi 服务：  https://t.co/hnZzDQkgtp "
+[ WirelessSecurity ]  New Comparison Videos from Leif SM5BSZ: Airspy vs SDRplay vs Several Other SDRs http://www.rtl-sdr.com/new-comparison-videos-from-leif-sm5bsz-airspy-vs-sdrplay/
+﻿"Airspy 、SDRplay 及其它几个 SDR 的对比视频： https://t.co/rvMIPu5UuT"
+[ WirelessSecurity ]  无线安全测试指南： http://www.grymoire.com/Security/Hardware.html
+[ WirelessSecurity ]  使用USRP探索无线世界 Part 1：USRP从入门到追踪飞机飞行轨迹： http://www.freebuf.com/articles/wireless/119950.html
+[ WirelessSecurity ]  每个无线路由器都是窃听神器：房间里的一举一动它都能感应： http://www.freebuf.com/news/119120.html
+[ WirelessSecurity ]  New blog post: A journey into the depths of VoWiFi Security https://insinuator.net/2016/10/a-journey-into-the-depths-of-vowifi-security/
+﻿"深入了解 VoWiFi 安全性： https://t.co/FIq6RsuO2w"
+[ WirelessSecurity ]  nrf24-arsenal Hacking tools and scripts for nRF24LU1+ Author: @090h #hardware #Transceiver #hacking #scripts https://t.co/aPjJxxQin3
+﻿"Hacking tools and scripts for nRF24LU1+： https://t.co/aPjJxxQin3"
+[ WirelessSecurity ]  Exfiltration of User Credentials using WLAN SSID http://www.labofapenetrationtester.com/2016/11/exfiltration-of-user-credentials-using-wlan-ssid.html
+﻿"借助 WLAN SSID 泄露用户凭证： https://t.co/WepLDZxme7"
+[ WirelessSecurity ]  Practicing a Record-and-Replay System on USRP [PDF] http://conferences.sigcomm.org/sigcomm/2013/papers/srif/p61.pdf #SDR #USRP https://t.co/OW3sBroOoj
+﻿"Practicing a Record-and-Replay System on USRP（PDF）： http://conferences.sigcomm.org/sigcomm/2013/papers/srif/p61.pdf"
+[ WirelessSecurity ]  OpenBTS Application Suite Release 4.0 User Manual [PDF] http://openbts.org/site/wp-content/uploads/2014/07/OpenBTS-4.0-Manual.pdf #GnuRadio #SDR #GSM https://t.co/rVpOiQvOko
+﻿"OpenBTS 应用套件 4.0 版用户手册（PDF）： https://t.co/xeLveIN8k3"
+[ WirelessSecurity ]  Reversing Mobile Traffic Lights: https://www.bastibl.net/traffic-lights/ https://www.bastibl.net/traffic-lights-2/ #sdr #wireless #security
+﻿"逆向移动交通信号灯︰ https://t.co/iIIj1aoBaB https://t.co/1x0asdi3D4 "
+[ WirelessSecurity ]  Reversing Bus Telemetry https://www.bastibl.net/reversing-bus-telemetry/ cc @ bastibl #SDR #GnuRadio https://t.co/NJnoSMCotl
+﻿"Reversing Bus Telemetry： https://t.co/ovQsioj94Q"
+[ WirelessSecurity ]  How To Building a SDR Server With OpenWrt And RTL http://www.spriteking.com/archives/1622 #RTL #SDR #GnuRadio https://t.co/ZpizOQ5w1h
+﻿"如何用极路由+OpenWrt+RTL电视棒搭建一台SDR服务器，并隐秘地捕获和传输数据： https://t.co/4cHywHeMbO "
+[ WirelessSecurity ]  New blog post: Research Diary: Bluetooth. Part 2 https://insinuator.net/2016/12/research-diary-bluetooth-part-2/
+﻿"研究日记︰ 蓝牙 part 2 : https://t.co/JHRXz2EVOg"
+[ WirelessSecurity ]  Microsoft Windows 10 x86/x64 WLAN AutoConfig Named Pipe Proof Of Concept https://cxsecurity.com/issue/WLB-2016120041
+﻿"Microsoft Windows 10 x86/x64 WLAN AutoConfig Named Pipe PoC: https://t.co/LcgGQhkbgb"
+[ WirelessSecurity ]  GSM Hacking：The application of Silent SMS in technical investigation https://cn0xroot.wordpress.com/2016/12/09/gsm-hacking%ef%bc%9athe-application-of-silent-sms-in-technical-investigation/ from @ xdzou #SDR… https://twitter.com/i/web/status/807249268083859457
+﻿"GSM Hacking：静默短信（Silent SMS）在技术侦查中的应用： https://t.co/Fi3lIAvMcr "
+[ WirelessSecurity ]  My wireless mouse hijacking NES controller is now open source. Build guide + firmware are on GitHub. Happy hacking! https://t.co/3jtagz7ZVs
+﻿"无线鼠标劫持 NES controller 开源： https://t.co/3jtagz7ZVs"
+[ WirelessSecurity ]  GreedyBTS – Hacking Adventures in GSM : https://repo.t0x0sh.org/Papers/Network/2014_hacking_gsm.pdf (pdf/Slides) cc @ hackerfantastic
+﻿" GSM hacking 大冒险（pdf）︰ https://t.co/6SIVWZS8ep "
+[ WirelessSecurity ]  New Linux RTL-SDR Driver with Fully Exposed Controls http://www.rtl-sdr.com/new-linux-rtl-sdr-driver-with-fully-exposed-controls/
+﻿"新的 Linux RTL-SDR 驱动程序发布： https://t.co/7Iryte9dDt"
+[ WirelessSecurity ]  Nice idea from @ NCCGroupplc ：GSM/GPRS Traffic Interception for Penetration Testing Engagements… https://twitter.com/i/web/status/808236195553550336
+﻿"渗透测试中的 GSM/GPRS 流量拦截： https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/may/gsmgprs-traffic-interception-for-penetration-testing-engagements/"
+[ WirelessSecurity ]  Bluetooth Attacks on Commercial-Grade Electronic Locks : http://www.somersetrecon.com/blog/2016/10/14/electronic-safe-lock-analysis-part-2- , Demo : https://www.youtube.com/watch?v=4lkJsRkwGXY
+﻿"针对商业级电子锁的蓝牙攻击（paper）︰ https://static1.squarespace.com/static/543effd8e4b095fba39dfe59/t/584f572a2994ca1083f4aba3/1481594669596/BluetoothAttacksonHighSecurityElectronicLocksWhitepaper.pdf     演示︰ https://t.co/klNXje3eAl"
+[ WirelessSecurity ]  BLE-Security #Hacking #Bluetooth Low Energy Locks #BTLE #IoT #Security https://github.com/merculite/BLE-Security
+﻿"针对 BLE（低功耗蓝牙） 锁的攻击脚本： https://t.co/0PmAyL1MAt"
+[ WirelessSecurity ]  Design and Implementation of Open BTS on Software Defined Radio [PDF] http://www.irdindia.in/journal_itsi/pdf/vol4_iss3/6.pdf #GSM #SDR
+﻿"基于 SDR 的 Open BTS 的设计与实现（PDF）： https://t.co/7JbYqKpXXl "
+[ WirelessSecurity ]  Demonstration of Vulnerabilities in GSM Security with USRP B200 and Open-Source Penetration Tools https://www.researchgate.net/publication/307544953_Demonstration_of_Vulnerabilities_in_GSM_Security_with_USRP_B200_and_Open-Source_Penetration_Tools #GSM #SDR #OpenBTS
+﻿"使用 USRP B200 和开源的渗透测试工具来挖掘 GSM 安全架构中的漏洞： https://t.co/VHdNhRkKdk "
+[ WirelessSecurity ]  Bluetooth Attacks on Commercial-Grade Electronic Locks - http://www.somersetrecon.com/blog/2016/10/14/electronic-safe-lock-analysis-part-2-
+﻿"电子安全锁分析 （Part 2）： https://t.co/6NUZvDwJ4w  Part 1： http://www.somersetrecon.com/blog/2016/6/7/electronic-safe-lock-analysis-part-1-teardown"
+[ WirelessSecurity ]  How to get 3G working on the UmTRX https://fairwaves.co/blog/openbts-umts-3g-umtrx/ #3G #SDR #OpenBTS https://t.co/H0HXjZToWt
+﻿"How to get 3G working on the UmTRX： https://t.co/GsFWZVfogF "
+[ WirelessSecurity ]  On the Security of Modern Wireless Desktop Sets Of Mice and Keyboards [PDF] https://2016.zeronights.ru/wp-content/uploads/2016/12/Of-Mice-and-Keyboards-On-the-Security-of-Modern-Wireless-Deskto-Sets-ZeroNights-2016.pdf #HackRF #SDR… https://twitter.com/i/web/status/813012474387578884
+﻿" 无线键鼠套装安全性（PDF），来自 ZeroNights 2016 大会议题： https://t.co/96ayUoZiKe"
+[ WirelessSecurity ]  SDR calibration via GSM FCCH using Kalibrate and LTE-Cell-Scanner on RTL-SDR and HackRF #SDR #HackRF #BladeRF https://medium.com/@ rxseger/sdr-calibration-via-gsm-fcch-using-kalibrate-and-lte-cell-scanner-on-rtl-sdr-and-hackrf-193a7fb8a3eb#.ycc5td48q
+﻿"SDR calibration via GSM FCCH using Kalibrate and LTE-Cell-Scanner on RTL-SDR and HackRF： https://t.co/Vtn9NIw895 "
+[ WirelessSecurity ]  Recording processing and playback of LTE signals using USRP devices. [PDF] #SDR #USRP http://web.eng.fiu.edu/~iguvenc/projects/LTE_Signal_Record_and_Playback%20(Nadisanka).pdf https://t.co/ZqqXhM4JdA
+﻿" 使用 USRP 设备来对 LTE 信号进行记录、处理和回放（PDF）： https://t.co/rJxbQc6r0i"
+[ WirelessSecurity ]  OpenBTS is not super obvious how to setup. Maybe this post will help someone. https://blog.strcpy.info/2016/11/16/running-openbts-with-the-nuand-bladerf-on-ubuntu-the-definitive-guide/ #BladeRF #HackRF #SDR @ strcpy_
+﻿"OpenBTS 安装运行指南： https://t.co/Srx4DYUGft"
+[ WirelessSecurity ]  Slides of my #33c3 talk "Predicting and Abusing WPA2/802.11 Group Keys" http://www.slideshare.net/vanhoefm/predicting-and-abusing-wpa280211-group-keys PDF slides at https://t.co/Wtn3XVyCBB
+﻿"预测和滥用 WPA2 / 802.11 组密钥： https://t.co/Wtn3XVyCBB"
+[ WirelessSecurity ]  Keyspace List for WPA on Default Routers http://hashcat.net/forum/thread-6170.html
+﻿"各类路由器的默认 WPA Keygen 收集： https://t.co/HZpuDk67ZE"
+[ WirelessSecurity ]  Dissecting modern (3G/4G) cellular modems : http://git.gnumonks.org/laforge-slides/plain/2016/cellular_modems_33c3/33c3-modems.html#(1) (Slides) ,Video : https://media.ccc.de/v/33c3-8151-dissecting_modern_3g_4g_cellular_modems https://t.co/0zv8Qa32Qr
+﻿"解剖现代 (3g/4g) 蜂窝调制解调器，来自 33c3 2016 大会议题︰ https://t.co/3zdn4cTBTB  Video︰ https://t.co/GNvgP6NF4g "
+[ WirelessSecurity ]  Hacking and Cloning a Garage Door Opener using SDR Radio #SDR #GnuRadio #Hacking https://www.youtube.com/watch?v=LE1CvGWqSsw
+﻿"使用 SDR Radio Hacking 车库门开启装置： https://t.co/yS9CxtF3CJ "
+[ WirelessSecurity ]  How we broke into your house:Hacking alarm systems with rtl-sdr and rfcat #SDR #RTL #rfcat http://boredhackerblog.blogspot.hk/2016/02/how-we-broke-into-your-house.html https://t.co/EaxbjFHzou
+﻿"利用 rtl-sdr和 rfcat 黑掉报警系统，闯进你的家： https://t.co/T44Uw4GdSH https://t.co/EaxbjFHzou"
+[ WirelessSecurity ]  Very good talk about reverse engineering digital radio, here: the #Outernet http://bit.ly/2hu2FUn #satcom #hamradio #33c3 #hackrf #rtlsdr
+﻿"Reverse engineering Outernet，来自 33c3 2016 大会： https://t.co/a9BDYRZN5C "
+[ WirelessSecurity ]  OpenAirinterface - Towards Truly Open-Source Solutions for 5G #IoT #SDR [PDF]http://www.openairinterface.org/docs/workshop/1_OAI_Workshop_20160122/OAI-obj2016.pdf https://t.co/IVUOJQY0mM
+﻿"OpenAirinterface - 5G开源实现方案： https://t.co/FdrMyN075H https://t.co/IVUOJQY0mM"
+[ WirelessSecurity ]  GSM sniffer Part1： https://cn0xroot.com/2016/08/01/gsm-hacking-part-%E2%91%A0-scan-and-sniffer-gsm-with-sdr/ Part2：https://cn0xroot.com/2016/08/10/gsm-hacking-part-%E2%91%A1-%EF%BC%9Asniffer-and-decode-gsm-with-sdr/ #SDR #BladeRF https://t.co/zLmM8RTpHC
+﻿"GSM Hacking Part1 使用SDR扫描嗅探GSM网络︰ https://t.co/Yq0pR4qG8G Part2 使用SDR捕获GSM网络数据并解密 : https://t.co/RaX9i7rKT1 "
+[ WirelessSecurity ]  A practical guide to RFID badge copying https://blog.nviso.be/2017/01/11/a-practical-guide-to-rfid-badge-copying/
+﻿"RFID badge copying 实践指南： https://t.co/wuJhZ0ezQc "
+[ WirelessSecurity ]  ESP8266 WiFi Garage Door Opener from any Web Browser : http://www.whiskeytangohotel.com/2017/01/esp8266-wifi-garage-door-opener-from.html https://t.co/BHOs5pZtc6
+﻿"基于 ESP8266 开发的一款由浏览器控制的 wifi 车库门开启工具︰ https://t.co/kldRi2yp6J https://t.co/BHOs5pZtc6"
+[ WirelessSecurity ]  A Peek at GNU Radio’s Buffer Architecture : http://gnuradio.org/blog/buffers/ https://t.co/d0gpjYe4vc
+﻿"深入了解 GNU Radio 缓冲区架构︰ https://t.co/68ZLVwXhZ2 https://t.co/d0gpjYe4vc"
+[ WirelessSecurity ]  FakeUSRP working on matlab2016a,using LimeSDR to simulate USRP B210 Device,replace the file to uhd.dll file… https://t.co/ZjLYyQqXnW
+﻿"FakeUSRP 可以使用 LimeSDR 来模拟 USRP B210 设备 ： https://github.com/jocover/FakeUSRP"
+[ WirelessSecurity ]  Hacking a Danfoss Wireless Thermostat with an RTL-SDR http://www.rtl-sdr.com/hacking-a-danfoss-wireless-thermostat-with-an-rtl-sdr/
+﻿"Hacking Danfoss 无线温控器： https://hackingathome.wordpress.com/2017/01/14/danfoss-wireless-thermostat-hacking-part-one/"
+[ WirelessSecurity ]  gr-keyfob. GNU Radio module to receive and reencode signals of (some) wireless car key fobs https://github.com/bastibl/gr-keyfob https://t.co/AMO2JnqnBH
+﻿" gr-keyfob -- Hella 无线车钥匙收发器的信号处理工具： https://t.co/qOyNs6cgTu https://t.co/AMO2JnqnBH"
+[ WirelessSecurity ]  Somebody's been looking for integer overflows in QCOM drivers. F.e CVE-2016-8476: EoP in Qualcomm WiFi driver https://t.co/ScGA6mCNEQ
+﻿"高通 wifi 驱动整数溢出漏洞的补丁代码： https://t.co/ScGA6mCNEQ "
+[ WirelessSecurity ]  Web Bluetooth Samples https://googlechrome.github.io/samples/web-bluetooth/
+﻿"Web 蓝牙样本集： https://t.co/wSbiUjxgUd"
+[ WirelessSecurity ]  802.11s Security and Google Wifi https://security.googleblog.com/2017/02/80211s-security-and-google-wifi.html
+﻿"802.11s Security and Google Wifi：  https://t.co/6sLEpWOXRM"
+[ WirelessSecurity ]  渗透测试某大型互联网公司的思路与收获： https://zhuanlan.zhihu.com/c_76081452
+[ WirelessSecurity ]  TP-Link C2 and C20i multiple vulnerabilities https://pierrekim.github.io/blog/2017-02-09-tplink-c2-and-c20i-vulnerable.html #IoT #routers #RCE #DoS #PoC
+﻿"TP-Link C2 及 C20i 中存在多个漏洞 ： https://t.co/G0OGwfXP0i "
+[ WirelessSecurity ]  Predicting and Abusing WPA2/802.11 Group Keys : http://papers.mathyvanhoef.com/33c3-broadkey-slides.pdf (Slides) cc @ vanhoefm
+﻿" WPA2/802.11 Group Keys 的预测和滥用︰ https://t.co/ZEnkVsdVIx "
+[ WirelessSecurity ]  Advanced WiFi Attacks + Jamming Using Commodity Hardware : http://www.mathyvanhoef.com/2015/10/advanced-wifi-attacks-using-commodity.html , Slides : https://people.cs.kuleuven.be/~mathy.vanhoef/papers/brucon2015_slides.pdf cc @ vanhoefm
+﻿" 使用廉价的主流硬件攻击 WiFi︰ https://t.co/QdRXaVf6RB  Slides︰ https://t.co/WEb1dxZDNg "
+[ WirelessSecurity ]  Easy 4G/LTE IMSI Catchers for Non-Programmers https://arxiv.org/pdf/1702.04434.pdf [PDF] https://t.co/hUpDGXXd5W
+﻿"Easy 4G/LTE IMSI Catchers for Non-Programmers： https://t.co/ugRih7fadP "
+[ WirelessSecurity ]  Flipping Bits and Opening Doors reverse engineering a wireless security device by @ sirus https://duo.com/blog/flipping-bits-and-opening-doors-reverse-engineering-the-linear-wireless-security-dx-protocol
+﻿" Linear DX 电子门卡系统的无线控制协议逆向: https://t.co/SWHzKfO73K"
+[ WirelessSecurity ]  Hacking exposed wireless：Wireless security secrets & solution second edition （PDF） http://dl.finebook.ir/book/4b/14104.pdf https://t.co/uYkbSoQRrx
+﻿"黑客大曝光-无线渗透 (PDF)： https://t.co/fKtYgNDzTW "
+[ WirelessSecurity ]  RFSec-ToolKit： https://github.com/cn0xroot/RFSec-ToolKit
+[ WirelessSecurity ]  Summary of my experience with cloning RFID: http://xakcop.com/post/cloning-rfid/
+﻿"克隆 RFID 卡的经验总结︰ https://t.co/jgH3nvyeVb"
+[ WirelessSecurity ]  Universal Radio Hacker:通用型无线黑客工具箱教程视频： https://www.youtube.com/channel/UCqIWuCQfX00XHFiwTENI79A
+[ WirelessSecurity ]  Smart Socket Hack Tutorial http://souliss.net/media/smart-socket-hack/ 来自 @ soulissteam
+﻿"Hacking Smart Sockets WiFi 智能插座： https://t.co/dE62hF8scP "
+[ WirelessSecurity ]  DVB-T implementation in GNUradio part 1 http://yo3iiu.ro/blog/?p=1191 part 2 http://yo3iiu.ro/blog/?p=1220 part 3… https://twitter.com/i/web/status/841175641747726336
+﻿"GNUradio 中 DVB-T 的实现 part 1： https://t.co/E04qtYEpij  part 2： https://t.co/TFRGr8K3pT part 3： https://t.co/56lXlApAYf"
+[ WirelessSecurity ]  Updating #HackRF Firmware https://github.com/mossmann/hackrf/wiki/Updating-Firmware and install Spectrum Analyzer GUI for hackrf_sweep on Windows… https://twitter.com/i/web/status/841200425651044352
+﻿"HackRF 设备固件更新教程： https://t.co/JJdTz8nIO4 "
+[ WirelessSecurity ]  Getting Started with RTL-SDR and SDR-Sharp #SDR #RTL [PDF] https://cdn-learn.adafruit.com/downloads/pdf/getting-started-with-rtl-sdr-and-sdr-sharp.pdf https://t.co/Xka3hChqnH
+﻿"入门 RTL-SDR 及 SDR-Sharp ： https://t.co/3e1qCw8SyB "
+[ WirelessSecurity ]  YouTube Talk: Hunting Rogue WiFi Devices using the HackRF SDR http://www.rtl-sdr.com/youtube-talk-hunting-rogue-wifi-devices-using-hackrf-sdr/
+﻿"利用 HackRF SDR 狩猎 Rogue WiFi 设备（video）： https://t.co/fb84OTETEo"
+[ WirelessSecurity ]  A Rolling Code 4-channel UHF Remote Control [PDF] http://www.kitsrus.com/pdf/k180_article.pdf https://t.co/GCWVOaHyMa
+﻿"A Rolling Code 4-channel UHF Remote Control： https://t.co/Utn56g3lwH "
+[ WirelessSecurity ]  SYSTEM-level Persistence via Intel PROSet Wireless RpcRtRemote.dll Backdoor http://x42.obscurechannel.com/?p=378
+﻿"Intel PROSet Wireless 软件包存在一个 DLL 劫持漏洞，通过 RpcRtRemote.dll 可以实现一个 SYSTEM 权限的常驻攻击： https://t.co/hO0zOGLNQF "
+[ WirelessSecurity ]  Enterprise WIFI Hacking with Hostapd-WPE https://goo.gl/gC3tk4 #WiFi #Hacking #Hostapd-wpe
+﻿" 利用 Hostapd-WPE 渗透企业无线网络: https://t.co/mKs3na9IBE"
+[ WirelessSecurity ]  Bundled GNURadio + GrOsmoSDR For Windows Machine https://github.com/pothosware/PothosSDR/wiki/GNURadio #SDR #GNURadio https://t.co/yUenKDKPxg
+﻿"Bundled GNURadio + GrOsmoSDR： https://t.co/A8ZkS3Myt5 "
+[ WirelessSecurity ]  Metasploit的射频收发器功能 | Metasploit's RF Transceiver Capabilities https://cn0xroot.com/2017/03/25/metasploits-rf-transceiver-capabilities/ from @ cn0xroot
+﻿"Metasploit的射频收发器功能： https://t.co/kcMo4f1dx9 "
+[ WirelessSecurity ]  My slides discussing GPS Spoofing to attack NTPd & consequences from @ BSidesCbr are up https://zxsecurity.co.nz/presentations/201703_BSidesCBR-ZXSecurity_Practical_GPS_Spoofing.pdf code: https://t.co/a1Aaapqmhc
+﻿"《GPS 欺骗实战手册》，此为新西兰安全公司 ZX Security 在 BSIdesCBR 2017 会议的演讲： https://t.co/wKYNIQZ99o  代码︰ https://t.co/a1Aaapqmhc"
+[ WirelessSecurity ]  WiFi Phishing for Credentials with a Captive Portal on OpenWrt: http://www.smeegesec.com/2017/03/captive-portal-wifi-phishing-with.html
+﻿" 使用 OpenWrt 实现无线强制登录门户页面进行钓鱼︰ https://t.co/5LTMBMulrV"
+[ WirelessSecurity ]  Slides of my ASIA CCS paper on discovering logical vulnerabilites in the Wi-Fi handshake are now online!… https://t.co/f6BXM8MJgU
+﻿"应用基于模型的测试方法发现 WiFi 握手连接过程中的逻辑漏洞： http://papers.mathyvanhoef.com/asiaccs2017-slides.pdf"
+[ WirelessSecurity ]  Project Zero blog: "Over The Air: Exploiting Broadcom’s Wi-Fi Stack (Part 2)" by @ laginimaineb - https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_11.html
+﻿"实现 Broadcom Wi-Fi SoC 的代码执行之后，Project Zero 发表第二篇 Blog，研究如何从 Wi-Fi SoC 进一步获得内核的代码执行权限： https://t.co/eukSaSdm1M"
+[ WirelessSecurity ]  LimeSDR Getting Started Quickly | LimeSDR上手指南 @ LimeSDR_org #LimeSDR #SDR #GNURadio 、 http://bobao.360.cn/learning/detail/3721.html… https://twitter.com/i/web/status/852131783697190912
+﻿"LimeSDR Getting Started Quickly LimeSDR 上手指南： http://bobao.360.cn/learning/detail/3721.html"
+[ WirelessSecurity ]  Lure10 : Exploiting Windows Automatic Wireless Association Algorithm : http://conference.hitb.org/hitbsecconf2017ams/materials/D1T4%20-%20George%20Chatzisofroniou%20-%20Exploiting%20Windows%20Automatic%20Wireless%20Association%20Algorithm.pdf (Slides) #HITB2017AMS cc @ _sophron
+﻿"攻击 Windows 10 中的 Wi-Fi Sense 自动连接功能，这个功能是通过 '众包' 模式实现的，来自 HITB 2017 AMS 大会︰ https://t.co/iG37ph80Bu "
+[ WirelessSecurity ]  So You Want to Hack Radios - A Primer on Wireless Reverse Engineering : http://conference.hitb.org/hitbsecconf2017ams/materials/D1T4%20-%20Marc%20Newlin%20and%20Matt%20Knight%20-%20So%20You%20Want%20to%20Hack%20Radios.pdf (Slides) #HITB2017AMS cc @ marcnewlin
+﻿"想要破解 Radios？ -- 无线逆向入门教程，来自 HITB 2017 AMS : https://t.co/NWBe8sYUMX "
+[ WirelessSecurity ]  Tracking Rockets with GNSS-SDR https://www.gnuradio.org/blog/tracking-rockets-gnss-sdr/ #GNURadio #SDR cc @ gnuradio https://t.co/aSgvR4y9uD
+﻿"利用 GNSS-SDR 追踪火箭： https://www.gnuradio.org/blog/tracking-rockets-gnss-sdr/"
+[ WirelessSecurity ]  Just finished uploading all past publications, including code and demo videos. now available at https://github.com/HackingThings/Publications
+专注硬件和无线方向的研究员 Mickey Shkatov 整理的他近几年的演讲资料： https://github.com/HackingThings/Publications
+[ WirelessSecurity ]  蓝牙 App 漏洞系列分析之一 CVE-2017-0601 提权中危漏洞： https://xianzhi.aliyun.com/forum/read/1570.html
+[ WirelessSecurity ]  IEEE802.11w无线安全协议剖析: http://www.freebuf.com/articles/wireless/134349.html
+[ WirelessSecurity ]  Reverse-Engineering-Bluetooth-Protocols (Reverse-Engineering a Bluetooth-Enabled Radar Detector) : https://github.com/brandonasuncion/Reverse-Engineering-Bluetooth-Protocols
+" Reverse-Engineering-Bluetooth-Protocols： https://t.co/tLaEfsh4uq "
+[ WirelessSecurity ]  用于数字射频信号频谱分析的工具 DSpectrum 升级为 DSpectrumGUI 了： http://www.rtl-sdr.com/signal-reverse-engineering-tool-dspectrum-upgraded-to-dspectrumgui/
+[ WirelessSecurity ]  基于 Proxmark 3 的 RFID Hacking： https://blog.kchung.co/rfid-hacking-with-the-proxmark-3/
+[ WirelessSecurity ]  probesniffer - 无线设备未加密探测请求 Sniffer： http://www.kitploit.com/2017/06/probesniffer-tool-for-sniffing.html
+[ WirelessSecurity ]  基于 SDR 实现的被动 GSM 嗅探： http://payatu.com/passive-gsm-sniffing-software-defined-radio/
+[ WirelessSecurity ]  华盛顿大学检测 IMSI-catcher （伪基站）的一个研究项目- SeaGlass： https://seaglass.cs.washington.edu/
+[ WirelessSecurity ]   使用 HackRF 分析无线电信号：  https://t.co/I84JnomQmb
+[ WirelessSecurity ]  蓝牙 App 漏洞系列分析之二 CVE-2017-0639，该蓝牙 App信息泄露漏洞允许攻击者获取 bluetooth用户所拥有的私有文件，绕过了将应用数据与其他应用隔离的操作系统防护功能，来自阿里先知社区： https://xianzhi.aliyun.com/forum/read/1713.html
+[ WirelessSecurity ]  exploiting 802.11 wireless driver vulnerabilities on windows ，2007 年的一篇 Paper ： http://uninformed.org/?v=6&a=2&t=sumry
+[ WirelessSecurity ]  蓝牙App漏洞系列分析之一CVE-2017-0601： http://paper.seebug.org/339/ 蓝牙App漏洞系列分析之二CVE-2017-0639： http://paper.seebug.org/340/ 蓝牙App漏洞系列分析之三CVE-2017-0645 http://paper.seebug.org/341/
+[ WirelessSecurity ]   蓝牙 BLE 4.0 通讯过程的逆向和攻击： http://payatu.com/reversing-exploiting-ble-4-0-communication/
+[ WirelessSecurity ]   Broadpwn - Broadcom Wi-Fi 芯片中的堆溢出漏洞，实现芯片中的代码执行（CVE-2017-9417）： 1)： http://boosterok.com/blog/broadpwn/  2）： http://boosterok.com/blog/broadpwn2/
+[ WirelessSecurity ]  Reverse Engineering a 433MHz Motorised Blind RF Protocol： https://nickwhyte.com/post/2017/reversing-433mhz-raex-motorised-rf-blinds/
+[ WirelessSecurity ]  Wireless Research Handbook:利用软件无线电构建5G无线通信平台： http://download.ni.com/pub/branches/china/Wireless_Research_Handbook_zhs.pdf
+[ WirelessSecurity ]  Pineapple 101: Modules’ Review and Testing (part 1)： https://medium.com/@edelpeon_33472/pineapple-101-modules-review-and-testing-part-1-c2afebba6ba0  Pineapple 101: Modules’ Review and Testing (part 2)： https://medium.com/@maxpowersii/pineapple-101-modules-review-and-testing-part-2-600538b492aa
+[ WirelessSecurity ]  wifi-cracking - 使用 Airodump-ng 和 Aircrack-ng/Hashcat 破解 WPA/WPA2 Wi-Fi 路由的学习教程： https://github.com/brannondorsey/wifi-cracking
+[ WirelessSecurity ]   NRSC-5-C 无线电报文的接收和解码： http://theori.io/research/nrsc-5-c
+[ WirelessSecurity ]    BROADPWN - 利用 BROADCOM WiFi 芯片的漏洞远程攻破 Android 和 iOS 设备，来自 ExodusIntel： https://blog.exodusintel.com/2017/07/26/broadpwn/
+[ WirelessSecurity ]   Ghost Telephonist - 来自 360 Unicorn Team 在 BlackHat 会议关于 4G LTE 链路劫持的演讲： https://www.blackhat.com/docs/us-17/thursday/us-17-Yuwei-Ghost-Telephonist-Link-Hijack-Exploitations-In-4G-LTE-CS-Fallback.pdf
+[ WirelessSecurity ]   利用 GPS 欺骗的方式控制时间（NTP），来自 DEFCON 会议的演讲： https://zxsecurity.co.nz/presentations/201707_Defcon-ZXSecurity-GPSSpoofing.pdf
+[ WirelessSecurity ]   劫持无线鼠标并攻击目标计算机： https://www.toshellandback.com/2017/08/16/mousejack/
+[ WirelessSecurity ]  用动画特效演示 WiFi 的工作原理： http://www.verizoninternet.com/bookmark/how-wifi-works/
+[ WirelessSecurity ]  无线后渗透的艺术：利用间接无线转发绕过基于端口的访问控制策略 ： https://github.com/GDSSecurity/Whitepapers/blob/master/GDS%20Labs%20-%20The%20Black%20Art%20of%20Wireless%20Post%20Exploitation%20-%20Bypassing%20Port%20Based%20Access%20Controls%20Using%20Indirect%20Wireless%20Pivots.pdf
+[ WirelessSecurity ]  如何远程控制别人的无线鼠标：深度揭露鼠标劫持内幕： http://bobao.360.cn/learning/detail/4366.html
+[ WirelessSecurity ]   BlueBorne - Armis Labs 公开的一个新攻击面，通过蓝牙攻击 PC、手机（Android/iOS）、IoT 等几乎所有的设备。攻击也不需要蓝牙配对： https://www.armis.com/blueborne/ https://threatpost.com/wireless-blueborne-attacks-target-billions-of-bluetooth-devices/127921/
+[ WirelessSecurity ]  SniffAir - 无线渗透测试框架： https://github.com/Tylous/SniffAir
+[ WirelessSecurity ]  利用 KaLi Linux 的 MACChanger 工具 Bypass MAC Filtering： http://www.hackingtutorials.org/wifi-hacking-tutorials/bypass-mac-filtering-on-wireless-networks/
+[ WirelessSecurity ]   BLE 应用攻击手法一览（PDF）： https://www.owasp.org/images/6/6f/OWASP2017_HackingBLEApplications_TalMelamed.pdf
+[ WirelessSecurity ]   Broadcom: Denial of service and OOB read in TCP KeepAlive Offloading(CVE-2017-7066): https://bugs.chromium.org/p/project-zero/issues/detail?id=1294
+[ WirelessSecurity ]   Over The Air - Vol. 2, Pt. 1: Exploiting The Wi-Fi Stack on Apple Devices。昨天推送的 iPhone 7 博通 Wi-Fi 固件 RCE 漏洞，Project Zero 专门写了一篇 Blog： https://googleprojectzero.blogspot.com/2017/09/over-air-vol-2-pt-1-exploiting-wi-fi.html
+[ WirelessSecurity ]  BlueBorne 蓝牙漏洞深入分析与PoC，来自 huahuaisadog@360VulpeckerTeam： https://paper.seebug.org/408/
+[ WirelessSecurity ]   BLE 设备安全研究方向资源整理： https://www.davidsopas.com/my-notes-on-hacking-ble-list-of-resources/
+[ WirelessSecurity ]   NFC 支付方式与非接触式卡介绍： https://salmg.net/2017/09/12/intro-to-analyze-nfc-contactless-cards/    https://salmg.net/2017/09/29/nfc-contactless-cards-brute-forcing-processing-options/
+[ WirelessSecurity ]   利用树莓派在 Windows 上实现对 WiFi 数据包的嗅探：  https://zone13.io/post/wifi-monitoring-using-raspberry-pi/
+[ WirelessSecurity ]  BlueBorne 蓝牙漏洞的 PoC（CVE-2017-0781/CVE-2017-0782/CVE-2017-0785/CVE-2017-1000250/CVE-2017-1000251）： https://github.com/marsyy/littl_tools/tree/master/bluetooth
+[ WirelessSecurity ]   Over The Air - Vol. 2, Pt. 3: Exploiting The Wi-Fi Stack on Apple Devices。这是 Project Zero 关于博通 Wi-Fi 固件 RCE 漏洞利用文章的第三篇。第一篇介绍 Wi-Fi stack 本身的技术背景和相关的研究工具。第二篇介绍 Wi-Fi 固件漏洞的挖掘和基于漏洞实现固件芯片内的代码执行。本篇文章中将研究如何实现基于 Wi-Fi 漏洞实现 iPhone 7 内核层的 RCE： http://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-3-exploiting-wi-fi.html  http://googleprojectzero.blogspot.com/2017/10/over-air-vol-2-pt-2-exploiting-wi-fi.html  https://googleprojectzero.blogspot.com/2017/09/over-air-vol-2-pt-1-exploiting-wi-fi.html
+[ WirelessSecurity ]   WiFi WPA2/802.11 Group Keys 的预测、解密和滥用：  https://lirias.kuleuven.be/bitstream/123456789/547640/1/usenix2016-wifi.pdf
+[ WirelessSecurity ]   Wi-Fi WPA2 协议被曝安全漏洞。Clients 加入 WPA2 网络的 Four-way 握手过程中攻击者可以发起 Key Reinstallation 攻击，成功之后可以实现数据包被解密、数据包重放、TCP 链路劫持等： https://threatpost.com/krack-attack-devastates-wi-fi-security/128461/  https://www.krackattacks.com/  https://papers.mathyvanhoef.com/ccs2017.pdf
+[ WirelessSecurity ]  思科官网公开了 WiFi WPA KRACK 攻击相关的多个漏洞的介绍： https://blogs.cisco.com/security/wpa-vulns
+[ WirelessSecurity ]  “WPA2被破解”是啥意思？连个WiFi，我的账号密码丑照就全泄露了？！： https://mp.weixin.qq.com/s/nJj57YsvGMZj3egw_zLrlg
+[ WirelessSecurity ]  WEBee: Physical-Layer Cross-Technology Communication via Emulation（物理层跨协议无线通信与模拟）： https://www.researchgate.net/publication/320221121_WEBee_Physical-Layer_Cross-Technology_Communication_via_Emulation
+[ WirelessSecurity ]  WPA2密钥重装攻击原理分析： http://www.freebuf.com/news/150991.html
+[ WirelessSecurity ]   使用手机攻击蓝牙智能锁设备： https://smartlockpicking.com/tutorial/how-to-pick-a-ble-smart-lock-and-cause-cancer/
+[ WirelessSecurity ]  Android蓝牙远程命令执行漏洞利用实践:从PoC到Exploit： https://paper.seebug.org/430/
+[ WirelessSecurity ]   Armis 团队分享的 BlueBorne 蓝牙漏洞 Exploit PoC：  https://github.com/ArmisSecurity/blueborne
+[ WirelessSecurity ]    研究员 ScottyBauer 在其 GitHub Repo Android_Kernel_CVE_POCs 中新添加了几个远程 WiFi 漏洞的 PoC：  https://github.com/ScottyBauer/Android_Kernel_CVE_POCs/tree/master/wifi
+[ WirelessSecurity ]  Coredy CX-E120 Repeater 被发现存在两处安全漏洞： https://blogs.securiteam.com/index.php/archives/3556
+[ WirelessSecurity ]   BlueSteal - 利用蓝牙漏洞远程解锁 Vaultek VT20i 枪柜（Gun Safes）（CVE-2017-17435、CVE-2017-17436）：  https://www.twosixlabs.com/bluesteal-popping-gatt-safes/#top
+[ WirelessSecurity ]  利用 SDR 来接受气象卫星信号： http://www.bay-net.org/docs/baycon2016/sdr_for_wefax.pdf
+[ WirelessSecurity ]  在调试里看NV驱动栈溢出导致的连环死锁: https://mp.weixin.qq.com/s?__biz=MzA3NTk5MDIzNw==&mid=2647665555&idx=1&sn=dff5d31416dc7dde8d9870066d436ab0&chksm=874c9e21b03b1737982326f7d9741c2a6f799d898dc568d84fd8d012fe7b9c9b07429bf3e7ee&mpshare=1&scene=24&srcid=12147TDlEG1IdeQukHwbTlQp#rd
+[ WirelessSecurity ]  Guide to LTE Security,来自 NIST : http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-187.pdf
+[ WirelessSecurity ]  基于软件无线电(SDR)对无线领域进行探索，来自 DefconGroup010 大会雪碧 0xroot： https://drive.google.com/file/d/1vB2AWF_wtGm9YPy9SCkddUqmWDjXHQ2k/view
+[ WirelessSecurity ]  KRACKing WPA2 by Forcing Nonce Reuse，来自德国 CCC 大会： https://media.ccc.de/v/34c3-9273-kracking_wpa2_by_forcing_nonce_reuse
+[ WirelessSecurity ]  解码非接触式付款：探索 NFC 交易，介绍 Apple Pay 与 Android Pay 的运作机制： https://media.ccc.de/v/34c3-8965-decoding_contactless_card_payments
+[ WirelessSecurity ]  使用 aircrack-ng 和 hashcat 破解 WPA 和 WPA2 无线路由密码： https://medium.com/@brannondorsey/crack-wpa-wpa2-wi-fi-routers-with-aircrack-ng-and-hashcat-a5a5d3ffea46
+[ WirelessSecurity ]    Hackmelock - 用于实践蓝牙 BLE hacking 的一套漏洞模拟环境，由漏洞 BLE 模拟器以及一个 APP 构成： https://smartlockpicking.com/hackmelock/
+[ WirelessSecurity ]  拒绝成为免费劳动力：检测含有挖矿脚本的WiFi热点： https://www.anquanke.com/post/id/95697
+[ WirelessSecurity ]  WPA2 “KRACK”漏洞简介与重现： https://paper.seebug.org/512/
+[ WirelessSecurity ]   利用 NFC 技术从 EMV 卡中导出数据：  https://insinuator.net/2018/02/extracting-data-from-an-emv-chip-and-pin-card-with-nfc-technology/
+[ WirelessSecurity ]  BLE 4.0 通信的逆向与利用：  https://payatu.com/reversing-exploiting-ble-4-0-communication/
+[ WirelessSecurity ]  DIY ARM Debugger for Wi-Fi Chips： https://recon.cx/2018/brussels/resources/slides/RECON-BRX-2018-DIY-ARM-Debugger-for-Wi-Fi-Chips.pdf
+[ WirelessSecurity ]  Turning Broadcom Wi-Fi chips into SDRs：  https://github.com/seemoo-lab/mobisys2018_nexmon_software_defined_radio
+[ WirelessSecurity ]  攻击企业无线网络的 5 种方法： https://medium.com/@adam.toscher/top-5-ways-i-gained-access-to-your-corporate-wireless-network-lo0tbo0ty-karma-edition-f72e7995aef2
+[ WirelessSecurity ]  如何搭配USRP在安卓设备上搭建GNU Radio： http://www.freebuf.com/geek/164835.html
+[ WirelessSecurity ]  AES 无线键盘的窃听攻击，来自 BlackHat Asia 2018： https://www.blackhat.com/docs/asia-18/asia-18-Kim-AES-Wireless-Keyboard-Template-Attack-for-Eavesdropping.pdf
+[ WirelessSecurity ]  FUZE Card 蓝牙传输协议存在漏洞，可窃取信用卡敏感信息甚至篡改数据： https://blog.ice9.us/2018/04/stealing-credit-cards-from-fuze-bluetooth.htmlVideo： https://www.youtube.com/watch?v=VGMwxSqZczE
+[ WirelessSecurity ]  借助 Gattacker 来 Hackjing 蓝牙低功耗（Bluetooth Low Energy）： https://blog.attify.com/hacking-bluetooth-low-energy/
+[ WirelessSecurity ]  OpenAirInterface LTE 项目指南: https://wiki.myriadrf.org/OpenAirInterface_LTE
+[ WirelessSecurity ]  利用 USB 转 VGA 适配器欺骗蜂窝网络（Sildes）： http://people.osmocom.org/steve-m/fl2k_slides/osmo-fl2k.html  https://osmocom.org/projects/osmo-fl2k/wiki/Wiki
+[ WirelessSecurity ]  针对 SDR 与 Rf 信号分析介绍: https://www.elttam.com.au/blog/intro-sdr-and-rf-analysis/

@@ -1,0 +1,184 @@
+[ Defend ]  NCC Group Blog: Phishing Mitigations: Configuring Microsoft Exchange to Clearly Identify External Emails - https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/january/phishing-mitigations-configuring-microsoft-exchange-to-clearly-identify-external-emails/
+﻿"NCC Group Blog: 网络钓鱼缓解方法: 如何配置 Microsoft Exchange，清晰地识别外部邮件  https://t.co/x2bCqmul5W"
+[ Defend ]  Protecting Windows Networks - Applocker : http://dfir-blog.com/2016/01/03/protecting-windows-networks-applocker/
+﻿"在对抗未知恶意软件方面，应用白名单一直是一个很有效的技术。然而由于配置不方便以及绕过方法层出不穷，所以效果也不是特别好。本篇 Blog 介绍一款 Windows 原生的一项应用白名单技术 - Applocker:  https://t.co/X67xooz4gB"
+[ Defend ]  Intel's SGX Memory Encryption Engine https://drive.google.com/file/d/0Bzm_4XrWnl5zOXdTcUlEMmdZem8 #realworldcrypto https://t.co/NPKTIcKAlU
+﻿"Intel 的 SGX MEE(内存加密引擎)， 来自 RWC（Real World Cryptography） 2016 会议： https://t.co/NPKTIcKAlU https://t.co/FpYlHx6phw "
+[ Defend ]  Intel® Software Guard Extensions (SGX): A Researcher’s Primer https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2015/january/intel-software-guard-extensions-sgx-a-researchers-primer/
+﻿"Intel SGX（软件防护扩展）入门: https://t.co/fYoiY2Z8P9 "
+[ Defend ]  What are the challenges and solutions of protecting sensitive #data? Find out: http://symc.ly/1UN0Zhr https://t.co/LybpDNUadX
+﻿"保护敏感数据的挑战和解决方案： https://t.co/LybpDNUadX https://t.co/viDEKLupkM"
+[ Defend ]  Section 7.4 of the ".trust Technical Policy" is flawed & leverages XSS - affecting even @ NCCGroupplc's own services https://whodoyou.trust/globalassets/documents/dot-trust-technical-policy.pdf
+﻿"来自 NCC Group 的 '.trust Technical Policy' 白皮书， 这篇 Paper 介绍了 NCC Group 在网络安全加固方面总结的实践经验，涵盖的内容很广，包括网络、Web 应用、邮件、DNS 等： https://t.co/Z5FZI9yfS7"
+[ Defend ]  New blog post: Using Intel SGX to harden password hashing https://jbp.io/2016/01/17/using-sgx-to-hash-passwords/
+﻿"通过 Intel SGX 加固密码 Hash，Hash 运算时引入硬件相关策略，使离线攻击变的不可能： https://t.co/RkQRrHfpK7"
+[ Defend ]  Intel Memory Protection Extensions Enabling Guide : https://software.intel.com/sites/default/files/managed/9d/f6/Intel_MPX_EnablingGuide.pdf (pdf)
+﻿"Intel 内存保护扩展启用指南，来自 Intel 的 Paper: https://t.co/ydyLBmn7v6"
+[ Defend ]  Intel® Memory Protection Extensions (Intel® MPX) support in Microsoft Visual Studio 2015 Update 1 #awesome http://blogs.msdn.com/b/vcblog/archive/2016/01/20/visual-studio-2015-update-1-new-experimental-feature-mpx.aspx
+﻿"Microsoft Visual Studio 2015 Update 1 开始支持 Intel MPX（内存保护扩展），该特性可以在运行时检查内存指针的越界访问情况，利用该特性可以检测缓冲区溢出。来自 MSDN Visual Studio Blog： https://t.co/vTO2I0TIeB"
+[ Defend ]  Defending your organization from macro #malware is easier than you think. Learn how: http://intel.ly/20hUJly
+﻿"对抗宏恶意软件: https://t.co/YYCdK6uhzy"
+[ Defend ]  Chronomorphic Programs: Using Runtime Diversity to Prevent Code Reuse Attacks http://www.sift.net/sites/default/files/publications/icds_2015_4_40_10108%20(2).pdf
+﻿"Chronomorphic 程序: 通过运行时库多样性对抗代码重用攻击，Paper： https://t.co/Uw0yJb2pv7"
+[ Defend ]  New VB2015 paper and video: Effectively testing APT defences https://www.virusbtn.com/blog/2016/01_27.xml https://www.youtube.com/watch?v=KmaoAMkg7Ik https://t.co/vRld2Ytamu
+﻿"如何有效地测试 APT 防御技术或产品： https://t.co/zpeWh0KsLj https://t.co/GVxhbzYZao https://t.co/vRld2Ytamu"
+[ Defend ]  Observations on Intel's MPX by @ kayseesee https://github.com/google/sanitizers/wiki/AddressSanitizerIntelMemoryProtectionExtensions (h/t to Skape)
+﻿"关于 Intel MPX 适用范围、性能、误报率的讨论， 来自 Google sanitizers 的 Github Wiki： https://t.co/51DHOPlnUG "
+[ Defend ]  Hardware and Firmware Attacks: Defending, Detecting, and Responding - https://code.facebook.com/posts/182707188759117 #firmware
+﻿"硬件和固件攻击: 防御、 检测和响应， 来自 Facebook Blog： https://t.co/qlu3mMn3vT "
+[ Defend ]  very detailed explanation on how Intel Software Guard Extension SGX works - https://eprint.iacr.org/2016/086 - https://eprint.iacr.org/2016/086.pdf by @ pwnall
+﻿"详细了解 Intel SGX 是如何工作的， 来自 IACR 的 Paper： https://eprint.iacr.org/2016/086.pdf  "
+[ Defend ]  Thoughts on Intel's upcoming Software Guard Extensions (Part 2) : http://blog.invisiblethings.org/2013/09/23/thoughts-on-intels-upcoming-software.html cc: @ rootkovska
+﻿"对 Intel SGX 保护机制的一些思考， 作者为 Joanna Rutkowska， 这篇 Blog 写于 2013 年， Part 2: https://t.co/NvJrRA4lh3 Part 1: http://theinvisiblethings.blogspot.com/2013/08/thoughts-on-intels-upcoming-software.html "
+[ Defend ]  Ironclad: end-to-end sec w automated verification [priv/intgr; annotation & Floyd-Hoare; Z3] http://research.microsoft.com/pubs/230123/final-osdi-2014.pdf https://t.co/zJdlvMxHrT
+﻿"通过自动化地全系统验证实现端到端安全， 来自微软的 Paper： https://t.co/riYRey5XgC https://t.co/zJdlvMxHrT"
+[ Defend ]  Simple, reasonable advice in this one: http://schd.ws/hosted_files/appseccalifornia2016/61/AppSec-PreventingSecurityBugsThroughSoftwareDesign-ChristophKern.pdf https://t.co/HyscRfTOMh
+﻿"通过软件设计减少安全漏洞， 来自 Google 的 Christoph Kern 的演讲: https://t.co/OgMUjRCSM8 https://t.co/HyscRfTOMh"
+[ Defend ]  Here are the slides http://bit.ly/1mbklBd for anyone interested in Domain Driven Security that missed @ danbjson and my talk at #DDDEU
+﻿"域驱动的安全， 来自 Omegapoint DanielDeogun 的演讲： https://t.co/SHme5OiIki"
+[ Defend ]  KeePassLogger - KeePass Two-Channel Auto-Type Obfuscation (TCATO) Bypass http://www.sinfocol.org/2016/02/keepasslogger-keepass-two-channel-auto-type-obfuscation-bypass/ Source code https://github.com/sinfocol/KeePassLogger
+﻿"KeePassLogger - 双通道自动键入混淆保护技术。 这种技术用于防止 Keylogger 截获密码，通过剪贴板和一个键盘模拟机制配合实现保护： https://t.co/ZBYzIp25Ib Github Repo： https://t.co/AvhbOf8f6a"
+[ Defend ]  Intel Tamper Protection Toolkit - Beta https://software.intel.com/en-us/tamper-protection/details
+﻿"Intel 篡改保护工具 Beta 版： https://t.co/HFaCCPnA4q  支持逆向保护和数据篡改保护，相关的文档： https://software.intel.com/en-us/tamper-protection/documentation "
+[ Defend ]  Monitoring Control Flow History To Detect Code Reuse Attacks http://www.wseas.us/e-library/conferences/2015/Seoul/ACE/ACE-14.pdf
+﻿"监控控制流历史信息，检测代码重用攻击， Paper： https://t.co/4czTroWDku"
+[ Defend ]  [White Paper] Learn how to rank your readiness in each of your core capabilities http://bddy.me/1QtUTix #DFIR https://t.co/M9guuQRnoO
+﻿"FireEye Mandiant 的报告 - 如何为应急响应做准备： https://t.co/AXLvFin6QC #DFIR https://t.co/M9guuQRnoO "
+[ Defend ]  Just saw a PANW blog post talking about #BadWinmail http://researchcenter.paloaltonetworks.com/2016/01/use-traps-to-protect-against-badwinmail-cve-2015-6172, remember: Flash is just 1 of the vulnerable OLE objects.
+﻿"Palo Alto 介绍如何通过自己的下一代防火墙组件 Traps 对抗 BadWinmail 攻击： https://t.co/m1MmbDJQ6A  Haifei Li 表示： Flash 只是受影响的 OLE 对象中的一个"
+[ Defend ]  Users can now access tracker codes using the web, API or our custom command line tools to instantly surface bad. http://blog.passivetotal.org/surfacing-infrastructure-with-trackers/
+﻿"PassiveTotal 网站提供了一个 API 服务，用于发现钓鱼站点， 来自 PassiveTotal Blog: https://t.co/8Gy1GTl4hs"
+[ Defend ]  Tracing privileged memory accesses to discover software vulnerabilities - https://os.itec.kit.edu/downloads/ma_2015_wilhelm_felix__discover_software_vulnerabilities.pdf
+﻿"通过追踪特权内存的访问来发现软件漏洞， 当共享内存的一端比另一端拥有更高的特权，那么共享内存就是一个信任边界。 来自 卡尔斯鲁厄理工学院的 Paper： https://t.co/P5QGGyrlRI"
+[ Defend ]  Suhosin for PHP7 progress: transparent cookie encryption, some input filtering and disable display_errors #suhosin7 https://github.com/sektioneins/suhosin7
+﻿"Suhosin - PHP 安全防护扩展组件，现在更新对 PHP7 的支持，支持透明 cookie 加密、输入过滤和错误回显禁用等功能， Github Repo：  https://t.co/PGayek1Wr1"
+[ Defend ]  Counteracting Data-only Malware with Code Pointer Examination : https://www.sec.in.tum.de/assets/Uploads/kittelraid2015.pdf (pdf)
+﻿"通过代码指针检查打击纯数据型恶意软件， Paper:   https://t.co/J0Yg68MUtW "
+[ Defend ]  The Intel SGX Memory Encryption Engine: http://intel.ly/1Qjs24H #IntelSoftware
+﻿"Intel SGX 内存加密引擎（含 PPT 和 Paper）:  https://t.co/fKumhLx7mf "
+[ Defend ]  Announcing Windows Defender Advanced Threat Protection http://blogs.windows.com/windowsexperience/?p=110553 https://t.co/FNFr4MY1W5
+﻿"微软宣布推出面向企业用户的 Windows Defender 高级威胁保护服务: https://t.co/EqFDoD15kY https://t.co/FNFr4MY1W5"
+[ Defend ]  Learn how #gov is protecting systems from #cyberattacks http://bddy.me/1Rj2pxl #RSAC https://t.co/HOwWliNXvU
+﻿"在威胁日益增长的时代，如何构建国家级网络安全计划， 来自 FireEye 的 Paper：  https://t.co/z61a7E5MXh   https://t.co/HOwWliNXvU"
+[ Defend ]  Google's DLP for Gmail Adds Optical Character Recognition | http://SecurityWeek.Com http://ow.ly/YXQiB
+﻿"Google 为 Gmail DLP 防御加入了光学字符识别特性: https://t.co/73Ity5M10n https://t.co/NyMdsTpqyu"
+[ Defend ]  Slides from my @ RSAConference session, "Machine Learning and the Cloud: Disrupting Threat Detection and Prevention" https://onedrive.live.com/redir?resid=D026B4699190F1E6!2574&authkey=!AP2orZJTO6RhYiM&ithint=file%2cpptx
+﻿"基于机器学习和云的威胁检测、防护技术， 来自微软在 RSA 2016 会议的演讲（Slides）：  https://t.co/BntSOeTP7z "
+[ Defend ]  Sucker-punching Malware: A Case Study in Using Bad Malware Design Against Attackers Bambenek, Modi for @ bsidessf http://ig2.me/bm
+﻿" 利用恶意软件设计上的错误反击攻击者， 来自 Bsides 会议（视频）：  https://t.co/AHxBl6EXq7 "
+[ Defend ]  My #RSAC presentation on emulating attackers to be more effective defenders, titled Intelligent Application Security http://www.rsaconference.com/writable/presentations/file_upload/asd-w02-intelligent-application-security-rsa.pdf
+﻿"以往我们都是通过渗透测试来评估安全性，但渗透测试与真实的攻击毕竟存在着很多差异，解决的方法就是：像攻击者一样思考， 来自 RSA 2016 的 Slides：   https://t.co/abE5UOfd1n"
+[ Defend ]  RSA2016: Securing the "Weakest Link" http://ow.ly/Z3u6P
+﻿"RSA 2016 会议演讲:  加固"最弱的那一环"：  https://t.co/ZMY06bNgwm"
+[ Defend ]  "Using Formal Methods to Eliminate Exploitable Bugs" is the most up-to-date summary of this topic and a must watch https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/fisher
+﻿""使用形式化的方法消除可以利用的 Bugs， 来自 USENIX 2015 会议的 Paper： https://t.co/0paNINjKJV"
+[ Defend ]  McAfee Uses Web Beacons That Can Be Used To Track Users,Serve Advertising : https://duo.com/assets/pdf/bring-your-own-dilemma.pdf (pdf)
+﻿"BYOD 场景为企业带来了安全风险, 来自 DUO Security 的这篇报告探讨几个 OEM 厂商的笔记本为企业网带来的安全问题︰ https://t.co/OCQHKsK8rX "
+[ Defend ]  Guidance to avoiding vulnerabilities in programming languages http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2018.pdf
+﻿" 这篇 Paper 谈如何从编程语言的角度避免漏洞, 类似安全编码指南:   https://t.co/OkkYrLluPO "
+[ Defend ]  Protecting targeted individuals and populations at scale is critically important: https://security.googleblog.com/2016/03/more-encryption-more-notifications-more.html
+﻿"Google 为 Gmail 增加了一个新的安全特性：提示用户接收/发送的邮件是否是加密传输 ︰ https://t.co/O6HprJs1xj"
+[ Defend ]  Microsoft is hoping to curb malware with a new macro blocking feature in Office - http://ow.ly/ZTXSW
+﻿"为了阻断宏恶意代码攻击，微软在 Office 上启用了新的保护特性， 来自 ThreatPost 的报道： https://t.co/xqek5JAsiz    微软的 Blog： https://blogs.technet.microsoft.com/mmpc/2016/03/22/new-feature-in-office-2016-can-block-macros-and-help-prevent-infection/ "
+[ Defend ]  Abusing bugs in the Locky ransomware to create a vaccine. https://www.lexsi.com/securityhub/abusing-bugs-in-the-locky-ransomware-to-create-a-vaccine/?lang=en
+﻿"滥用 Locky 勒索软件的 Bug，造个'疫苗'： https://t.co/KSiXPCiMtx"
+[ Defend ]  Avoid getting owned by malicious ads and websites by following my secure browsing guide: http://gist.github.com/atcuno/3425484ac5cce5298932 #DFIR #infosec
+﻿"上网时如何避免自己遭到恶意广告、网站的攻击，同时保护好自己的隐私 ︰ https://t.co/XfrKf3loOQ "
+[ Defend ]  Blaze's Blog: Ransomware Prevention https://packetstormsecurity.com/news/view/26463/Blazes-Blog-Ransomware-Prevention.html
+﻿"从用户和公司两个角度谈如何预防勒索软件， 来自 Blaze Blog： https://t.co/3FbHvVfiT6"
+[ Defend ]  Defending against persistent attackers: What we’ve learned http://blogs.microsoft.com/cybertrust/2016/03/28/defending-against-persistent-attackers-what-weve-learned/
+﻿"在与持续攻击者的对抗中我们学到了什么， 来自微软 Blog：  https://t.co/HLBkHDvsjD"
+[ Defend ]  Why doesn't traditional static endpoint #cyber protection work? Find out: http://bddy.me/1UC4VFN #endpoint https://t.co/Ie17Wr0SYG
+﻿"加强终端防护，对抗现代威胁， 来自 FireEye 的报告︰ https://t.co/dNzYJ5WrSz  https://t.co/Ie17Wr0SYG"
+[ Defend ]  How will banking enforce #cybersecurity in the future? Learn how strategy can help prepare: http://symc.ly/1MRqOc6 https://t.co/MA8T6LVTdU
+﻿"金融机构如何为网络安全做好战略准备， 来自 Symantec Blog ︰ https://t.co/WyszJY7j9T  Paper: http://www.symantec.com/content/en/us/enterprise/white_papers/cybersecurity-whitepaper-financial-wp-21352892.pdf  "
+[ Defend ]  Disrupt the Attack Chain: @ Rapid7's Approach to Incident Detection & Response [INFOGRAPHIC] https://www.rapid7.com/resources/infographics/rapid7-insightidr-disrupt-the-attack-chain.jsp https://t.co/HYxvAfOsYi
+﻿"破坏攻击链 - Rapid7 的应急响应和检测方法（一张图）： https://t.co/Az6pnq6QM3 https://t.co/HYxvAfOsYi "
+[ Defend ]  Security Rules for Email: https://matt.sh/security-rules-for-email
+﻿"电子邮件安全法则 - 如何评估电子邮件的安全性 ︰ https://t.co/1GmGCqMPix"
+[ Defend ]  Very cool talk & results. Similar approach (2009): https://www.ernw.de/wp-content/uploads/ERNW_Newsletter_29_Data_Leakage_Prevention_signed_en.pdf https://twitter.com/quine/status/719197831597268997
+﻿"数据泄露保护 - 评估实践， 来自 ERNW 2009 年的一份文档 ︰ https://t.co/aAf8yg1WfF https://t.co/mCgPRzQUUd"
+[ Defend ]  Intel® Software Guard Extensions SDK for Linux* Availability Update: Whenever I talk with developers about Int... http://intel.ly/23qiOMa
+﻿"Intel SGX 保护扩展 Linux 平台 SDK 可以下载了：  https://t.co/sKelYKJxXs"
+[ Defend ]  Preventing malicious attacks by diversifying Linux shell commands http://ceur-ws.org/Vol-1525/paper-15.pdf
+﻿"通过使 Linux shell 命令多样化，对抗恶意软件攻击， Paper： https://t.co/vldkD4Z9pN"
+[ Defend ]  DynaGuard : Armoring Canary-based Protections against Brute-force Attacks : https://www3.cs.stonybrook.edu/~mikepo/papers/dynaguard.acsac15.pdf (pdf)
+﻿"DynaGuard - 基于 Canary 的 Stack Cookie 保护技术被广泛部署在现代操作系统中，但对于进程 Fork 型程序（如 Ngnix），却可以通过逐字节穷举的方法猜出 Cookie 的值，使保护方法失效。这篇 Paper 作者提出了 DynaGuard，是对现有 Canary 保护的增强 ︰ https://t.co/XQely6MS4W  "
+[ Defend ]  Readactor: Practical Code Randomization Resilient to Memory Disclosure https://www.ics.uci.edu/~sjcrane/papers/sjcrane15_readactor.pdf
+﻿"Readactor︰ 目前的内存缓解措施都不能对抗信息泄露+ROP， 这篇 Paper 尝试提出一种能够对抗信息泄露的代码随机化技术： https://t.co/NBMsQxiCw0"
+[ Defend ]  [@ Gartner_inc Report] Gain tactics that'll help your org's prevention, detection & response http://bddy.me/1VsqPM8 https://t.co/SwYsLsEQMf
+﻿" 保护中端企业市场免遭高级威胁攻击的安全战略， 来自 Gartner 报告： https://t.co/r4MgJN7B2F https://t.co/SwYsLsEQMf"
+[ Defend ]  Intel Tamper Protection Toolkit Helps Protect the Scrypt Encryption Utility against Reverse Engineering - https://software.intel.com/en-us/articles/intel-tamper-protection-toolkit-helps-protect-the-scrypt-encryption-utility-against-reverse
+﻿"Intel 防篡改套件包可以为关键代码和数据区提供防逆向和防篡改功能： https://t.co/s3Er8yKqLx    关于防篡改套件的其他文档： https://software.intel.com/en-us/tamper-protection/documentation "
+[ Defend ]  Cheaply blocking APT & #malware like a boss: just spawn fake process that they fear... https://gist.github.com/x0rz/e8b36fee33b87aa7e4e5dfd4c0cfc1a6 https://t.co/uy5ccagQdD
+﻿"对抗 APT 和恶意软件最廉价的方式 - 起一个他们害怕的假进程名字，如 idag.exe，ollydbg.exe 等：   https://t.co/deQXApAFft https://t.co/uy5ccagQdD"
+[ Defend ]  Short post on my PowerShell talk @ BSidesCharm w/ overview, slides, & some info on PS Remoting. Slides updated. https://adsecurity.org/?p=2843
+﻿" PowerShell 安全之企业如何防御最新攻击平台的攻击： https://t.co/4vOSS1cvoX"
+[ Defend ]  Defend against @ subTee's AppLocker Bypass technique using EMET's ASR https://github.com/iadgov/Secure-Host-Baseline/tree/master/EMET#blocking-the-regsvr32-application-whitelisting-bypass-technique … #squiblydoo
+﻿" 用 EMET ASR 防御技术检测 subTee 的 AppLocker Bypass： https://t.co/Bufu7ttkiX   来自 GitHub Repo ： https://github.com/iadgov/Secure-Host-Baseline  该项目用于实现 Windows 10 自动化部署"
+[ Defend ]  How control of the PE Format, C Compiler and OS Kernel allowed Microsoft to randomize PTE_BASE in Windows 10 Update: http://www.alex-ionescu.com/?p=323
+﻿"如何控制 PE 格式、 C 编译器和操作系统内核，使 PTE_BASE 随机化: https://t.co/efQqSulmI1"
+[ Defend ]  Slides from Defending the indefensible by Rev Least Priviledge at HackmiamiCon 2016 https://www.dropbox.com/s/sfqulj6uhpb5yn7/defending-indefensible.pdf?dl=0 #hackmiami #hackmiamicon
+﻿" Defending the indefensible， 来自 HackmiamiCon 2016 会议： https://t.co/B1jGD8Y7oi  "
+[ Defend ]  Designing secure digital services: It is essential that public sector can build systems that are robust to attack https://www.cesg.gov.uk/news/designing-secure-digital-services
+﻿" 如何设计一个安全的数字服务系统，来自 CESG（英国通信电子安全小组，隶属 GCHQ）： https://t.co/EgKYSc9m4D "
+[ Defend ]  Waf.js: How to Protect Web Applications using JavaScript @ ru_raz0r and my slides from our talk at @ phdays: http://www.slideshare.net/DenisKolegov/wafjs-how-to-protect-web-applications-using-javascript
+﻿"Waf.js - 用 JavaScript 写的 DOM 级防火墙 : https://t.co/b1Lh6ycJVO"
+[ Defend ]  Kevin Snow just presented at @ IEEESSP how to undermine destructive code reads via code inference attacks https://www3.cs.stonybrook.edu/~mikepo/papers/heisenbite.sp16.pdf
+﻿" 通过细粒度的地址随机化对抗代码重用攻击， Paper 《how to undermine destructive code reads via code inference attacks》：  https://t.co/7lwke7hdab"
+[ Defend ]  Enforcing Kernel Security Invariants with Data Flow Integrity http://www.cc.gatech.edu/~blee303/paper/kenali.pdf
+﻿" 通过数据流完整性校验，对抗内核中基于内存破坏漏洞的提权攻击， 来自美国佐治亚理工大学的 Paper： https://t.co/QhW5cLjAgV"
+[ Defend ]  XnR No-Execute-After-Read,Preventing Code Disclosure in Commodity Software - http://cs.unc.edu/~jjwerner/near-asiaccs.pdf code https://github.com/UNCSecLab/VMXXNR #VMM #XnR
+﻿" 这篇 Paper 中作者提出 XnR（Execute-no-Read）技术并不能有效地防御代码重用攻击，作者提出了一种新的 No-Execute-After-Read 技术解决这个问题： https://t.co/ti7jjLaNzq   GitHub Repo: https://t.co/8EpIRcYDzB "
+[ Defend ]  Inference of Peak Density of Indirect Branches to Detect ROP Attacks http://homepages.dcc.ufmg.br/~fernando/publications/papers/CGO16_mateus.pdf
+﻿" 通过检测间接分支跳转指令的密度，识别 ROP 攻击， Paper： https://t.co/l63b4RaLpA "
+[ Defend ]  IARPA exploring deceptive cyber defenses http://bit.ly/1U7lkPJ RFI PDF: http://1.usa.gov/1U7mbzS
+﻿"IARPA 提出的《欺骗性网络防御解决方案》： https://t.co/qglNIdQkL1  PDF: https://t.co/nSfSJPnlKC"
+[ Defend ]  Intel Release New Tech Specifications to Protect Against ROP Attacks : https://blogs.intel.com/evangelists/2016/06/09/intel-release-new-technology-specifications-protect-rop-attacks/ ,CET Details: https://software.intel.com/sites/default/files/managed/4d/2a/control-flow-enforcement-technology-preview.pdf (pdf)
+﻿" Intel 公开了一种用于对抗 ROP 攻击的新技术，称为 CET︰ https://t.co/ygIH1QWnc3   关于 CET 的技术细节︰ https://t.co/FBWAKrlpJi "
+[ Defend ]  On the Effectiveness of Intel's CET Against Code Reuse Attacks https://forums.grsecurity.net/viewtopic.php?f=7&t=4490
+﻿" grsecurity 论坛关于 Intel CET 有效性的讨论：  https://t.co/279eqoC6da"
+[ Defend ]  ROPdefender: A Detection Tool to Defend Against Return-Oriented Programming Attacks : https://www.trust.informatik.tu-darmstadt.de/fileadmin/user_upload/Group_TRUST/PubsPDF/ropdefender.pdf (pdf)
+﻿"ROPdefender - 检测 ROP 的工具， Paper ︰ https://t.co/gYqfOBFnxf "
+[ Defend ]  Practical Control-Flow Integrity http://www.cse.psu.edu/~gxt29/paper/BEN_NIU_Dissertation.pdf
+﻿" Practical Control-Flow Integrity，来自美国里海大学的 Paper： https://t.co/XvIqOp9Vgh"
+[ Defend ]  Intel® Software Guard Extensions Tutorial Series: Part 1, Intel® SGX Foundation http://ift.tt/29EgmKy #tech #IamIntel #intel
+﻿"Intel SGX 防护技术指南，Part 1： https://t.co/qRVWMjVvcT "
+[ Defend ]  YARRA,- Modular Protections against Non-control Data Attacks - https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/paper-60.pdf #dataisolation
+﻿" YARRA - 为 C 语言提供非控制流型的数据攻击保护，来自微软的 Paper： https://t.co/6IrPdPA49R "
+[ Defend ]  Intel CPU security features https://github.com/huku-/research/wiki/Intel-CPU-security-features
+﻿" Intel CPU 的安全特性总结： https://t.co/HY5gSEmpmf"
+[ Defend ]  slides of our #BHUSA talk on SGX https://aumasson.jp/data/talks/sgx_bh16.pdf CLI tools + paper https://github.com/kudelskisecurity/sgxfun Reencryption PoC https://github.com/kudelskisecurity/sgx-reencrypt
+﻿" Intel SGX 防护扩展 Review 及其 SDK 的使用实践，来自 BlackHat 2016 会议： https://t.co/06wZn9S685  工具 sgxfun： https://t.co/yugxK5ZX1r  基于 SGX 加密的 App PoC： https://t.co/MKfmvQbfa0"
+[ Defend ]  ELFbac (2016): ELF ABI metadata for run-time policy enforcement @ sergeybratus @ mlocasto https://www.blackhat.com/docs/us-16/materials/us-16-Bratus-Intra-Process-Memory-Protection-For-Applications-On-ARM-And-x86-wp.pdf https://t.co/jWyVXBos5p
+﻿" 从 ELF ABI 的角度加固 ARM/X86 的进程内存保护，来自 BlackHat 会议： https://www.blackhat.com/docs/us-16/materials/us-16-Bratus-Intra-Process-Memory-Protection-For-Applications-On-ARM-And-x86.pdf   https://www.blackhat.com/docs/us-16/materials/us-16-Bratus-Intra-Process-Memory-Protection-For-Applications-On-ARM-And-x86-wp.pdf "
+[ Defend ]  AMD memory encryption: http://events.linuxfoundation.org/sites/events/files/slides/AMD%20x86%20Memory%20Encryption%20Technology%20LSS%20Slides.pdf
+﻿"AMD 的内存加密防护技术︰ https://t.co/87EW4Btfpr"
+[ Defend ]  [NEW White paper] The Adaptive Defense Model for #CyberSecurity http://bddy.me/2cy4uwj https://t.co/jgBsmksDVh
+﻿" FireEye 公开了一篇 Paper，谈《自适应性防御模型》： https://t.co/dvfrFr11w5 "
+[ Defend ]  利用微虚拟化内存跟踪技术检测和防御 Heap Spray： https://loccs.sjtu.edu.cn//gossip/blog/2016/09/21/2016-09-21/
+[ Defend ]  A Minimalist's Guide to Window's Defense : https://drive.google.com/file/d/0B-K55rLoulAfMzgxQUVQYWFnb3c/view cc @ jaredcatkinson || @ mattifestation
+﻿"极简主义者的 Windows 系统防御指南︰ https://t.co/EVIfi5Yrjf "
+[ Defend ]  利用硬件防御ROP：HA-CFI技术浅析： http://bobao.360.cn/learning/detail/3105.html
+[ Defend ]  Slides from my #hacklu talk on moving from reactive to proactive defense. https://www.slideshare.net/mobile/saumilshah/hacklu-the-infosec-crossroads @ hack_lu
+﻿" 从被动防御到主动防御，来自 Hack.lu 会议： https://t.co/uJ6E7QfDyW "
+[ Defend ]  HeapSentry - 内核辅助的堆溢出保护： https://loccs.sjtu.edu.cn//gossip/blog/2016/10/19/2016-10-19/
+[ Defend ]  Secure Application Programming in the Presence of Side Channel Attacks - https://www.riscure.com/benzine/documents/Paper_Side_Channel_Patterns.pdf
+﻿" 侧信道攻击的各种模型以及如何在软件开发过程中防御： https://t.co/mJYmtGrFLK"
+[ Defend ]  ARMv8.3-A中的安全特性：用于防御ROP/JOP攻击的指针验证（Pointer authentication）。这个特性会对寄存器的内容在间接分支和数据引用作为地址使用前进行验证，64位地址的一些最高有效位会作为Pointer Authentication Code (PAC)和地址本身一起存在，验证失败的地址会造成一个异常： http://www.solidot.org/story?sid=50237
+[ Defend ]  UniSan：防止操作系统内核中由未初始化导致的信息泄漏： http://mp.weixin.qq.com/s?__biz=MzA4ODYzMjU0NQ==&mid=2652306968&idx=1&sn=5620c54ad8308217b9e6f82f46208bfd&chksm=8bc56396bcb2ea80425ed67d489e38760d0601009633245236bf1d1e55c61518a707cb3a9e54&mpshare=1&scene=23&srcid=1108auyQu9znBtCsmtVXFnNN#rd
+[ Defend ]  Microsoft Incident Response Guide just out https://info.microsoft.com/INCIDENT-RESPONSE-REFERENCE-GUIDE.html
+﻿" 微软发布《安全事件应急响应处理指南》： https://t.co/HxkOIz05Xa "
+[ Defend ]  Hardware Supported Process Isolation – An introduction - http://www.kerneldrivers.com/hardware-supported-process-isolation-introduction/
+﻿"硬件支持的进程隔离方法介绍： https://t.co/eHHcdwoWZm"
+[ Defend ]  Many good points in @carnal0wnage's &amp; @cktricky's "DevOOPS: Attacks And Defenses For DevOps Toolchains"… https://t.co/fi1KgSuXUy
+﻿"企业开发运维工具链中的攻与防，150 页的 PPT： https://insomnihack.ch/wp-content/uploads/2017/04/CG-KJ-devoops-2017_22Mar-insomnia.pdf"
+[ Defend ]   ASLR、DEP、Cookie、CFI、CFG 等针对 Memory Corruption 漏洞利用的缓解措施极大的提高了攻击门槛和成本。但 Chris Evans 认为这些缓解措施都是从内存破坏漏洞触发后的副作用(side effect)角度出发的，并不是内存破坏本身，他这篇 Blog 介绍的就是他关于如何对抗内存破坏漏洞本身的思考： https://scarybeastsecurity.blogspot.com/2017/05/are-we-doing-memory-corruption.html
+[ Defend ]  来自内部员工的威胁以及如何防御，来自 NCC Group 的 Paper： https://www.nccgroup.trust/uk/our-research/understanding-the-insider-threat-and-how-to-mitigate-it/
+[ Defend ]  LLVM 编译器中新增了对指针溢出的检查： https://reviews.llvm.org/D33305  https://wdtz.org/catching-pointer-overflow-bugs.html
+[ Defend ]   Java look-ahead object input streams (LAOIS) 是一项用于缓解 Java 序列化漏洞攻击的措施，NCC Group 发表了一篇 Paper，测试 LAOIS 的有效性： https://www.nccgroup.trust/us/our-research/combating-java-deserialization-vulnerabilities-with-look-ahead-object-input-streams-laois/?research=Whitepapers
+[ Defend ]   Intel 公开了一份《控制流强制保护技术预览报告》： https://software.intel.com/sites/default/files/managed/4d/2a/control-flow-enforcement-technology-preview.pdf
+[ Defend ]    Cloak - 利用基于硬件的事务型内存方法，实现对基于缓存的侧信道攻击的防护： https://gruss.cc/files/cloak.pdf
+[ Defend ]  DerbyCon 2016 会议的一篇演讲《Better Network Defense Through Threat Injection and Hunting》： https://zachgrace.com/public/presentations/DerbyCon_2016_ZG_BG.pdf
+[ Defend ]    从削减攻击界面的角度实现内核的自保护，来自德国布伦瑞克工业大学 2014 年的一篇 Paper： https://publikationsserver.tu-braunschweig.de/servlets/MCRFileNodeServlet/digibib_derivate_00036154/Diss_Kurmus_Anil.pdf
+[ Defend ]  FlashGuard: 利用固态存储的硬件特性对抗勒索软件： https://mp.weixin.qq.com/s/qt2d1WQpTk2IYm_D3ufBGg

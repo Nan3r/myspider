@@ -1,0 +1,511 @@
+[ Industry News ]  Tech Support Scammers Lure Users With Fake Norton Warnings, Turn Out To Be Symantec Reseller http://blog.malwarebytes.org/fraud-scam/2016/01/tech-support-scammers-lure-users-with-fake-norton-warnings-turn-out-to-be-symantec-reseller/
+﻿"技术支持骗子用假 Norton 警告诱惑用户，最终证明是 Symantec 代理商： https://t.co/VRJvNFvk4I"
+[ Industry News ]  iSIGHT and FireEye: Ushering in a New Era of Intelligence-Led Security http://bddy.me/1lzJaGA #infosec #threatintel https://t.co/iHtTRr30qV
+﻿"FireEye 收购 iSIGHT Partners，开始情报主导的安全： https://t.co/uRzBwCO5Y2  https://t.co/iHtTRr30qV"
+[ Industry News ]  New post: Windows-as-a-Service – Good For Security, But IT Challenges Loom http://bit.ly/2033rlH @ TrendMicro
+﻿"Windows-as-a-Service — 对于安全来说是个好事儿， 但对于 IT 维护可能就是个挑战了。 来自 TrendMicro Blog：  https://t.co/iucGhGJcBZ "
+[ Industry News ]  This report lists >$10M VC investments in security from 2014-2015: http://momentum.partners/docs/Cybersecurity_Market_Review_Q4_2015.pdf I only recognize 3 that I know are useful.
+﻿"2014 ~ 2015 安全市场的一些变化，包括投资和收购， 来自 Partners 的报告： https://t.co/mzkE79bztG "
+[ Industry News ]  #XamarinJoinsMicrosoft to delight developers everywhere: http://xmn.io/21rpOUp https://t.co/EkQpDCJAmd
+﻿"微软收购了 Xamarin， Xamarin 是一家从事手机应用开发的公司: https://t.co/4sDK0wMpnJ https://t.co/EkQpDCJAmd"
+[ Industry News ]  Trend Micro welcomes TippingPoint, DVLabs and the Zero Day Initiative. http://bit.ly/1Tstowt https://t.co/FWNVj8ycYQ
+﻿"趋势科技收购了惠普的 TippingPoint,包括旗下的 ZDI:  https://t.co/PkTZdPCUog https://t.co/FWNVj8ycYQ"
+[ Industry News ]  Harman acquires TowerSec for embedded automotive software security. http://news.harman.com/releases/harman-completes-acquisition-of-towersec-automotive-cyber-security
+﻿"哈曼国际收购了 TowerSec， 哈曼国际是一家家用和车载音响制造商，收购 Towersec，拓展嵌入式汽车软件安全产品：  https://t.co/1bh6OFUotN"
+[ Industry News ]  [White Paper] If you don’t have cyber insurance, here’s why you should http://bddy.me/2571udi #infosec https://t.co/yTmjt2AkFr
+﻿"FireEye 关于网络安全保险发展趋势的报告,认为势在必行: https://t.co/ZbMbZRtYZh #infosec https://t.co/yTmjt2AkFr"
+[ Industry News ]  Exploit derivatives: a way towards decentralized security rewards http://sirdarckcat.blogspot.com/2016/03/creating-decentralized-security-rewards.html
+﻿"构建一个去中心化的安全奖励市场： https://t.co/ZvGWs39Bq8"
+[ Industry News ]  Hacking Team In Trouble Again -- Banned From Selling Outside Of Europe @ Forbes http://www.forbes.com/sites/thomasbrewster/2016/04/06/hacking-team-in-trouble-again-banned-from-selling-outside-of-europe/
+﻿"Hacking Team 又遇到麻烦了，不能再向欧洲以外的国家销售恶意软件， 来自 Forbes Blog：  https://t.co/mPKtbaedYv"
+[ Industry News ]  Govt Bug Bounty program - Peter Cook http://www.defense.gov/News/News-Releases/News-Release-View/Article/709818/statement-by-pentagon-press-secretary-peter-cook-on-dods-partnership-with-hacke#.VwdUVG-c3gU.twitter
+﻿"美国国防部(DOD) 与  HackerOne 合作举办 Bug Bounty 项目： https://t.co/XI134OAdqO"
+[ Industry News ]  FireEye extends Threat Analytics Platform capabilities to @ awscloud Lambda service http://bddy.me/1XGo5Z2 #cloudsecurity #infosec
+﻿"FireEye 与 亚马逊云 Lambda 服务平台合作，提供公有云上的高级威胁检测分析： https://t.co/cd9Tsbo4nS "
+[ Industry News ]  #SpyEye creators sentenced to 24 years in prison: http://bit.ly/1r8OZi2 #infosec #malware https://t.co/DmzW0F76mD
+﻿"SpyEye 的作者被判处有期徒刑 24 年︰ https://t.co/qIic0KfFx1   https://t.co/DmzW0F76mD"
+[ Industry News ]  Author of the Gozi Banking Trojan ordered to pay $7 Million http://securityaffairs.co/wordpress/46961/cyber-crime/gozi-banking-trojan-author-sentence.html
+﻿"28 岁的俄罗斯籍的 Gozi 银行木马的作者被判赔 700 万弥补银行损失： https://t.co/5qL2JHVw7B"
+[ Industry News ]  IBM’s Watson Supercomputer Takes On Security, being used to profile and thwart viruses and ransomware ! https://threatpost.com/ibms-watson-supercomputer-takes-on-security/117999/
+﻿"IBM 的沃森超级计算机准备为安全做点贡献，将被用来对抗病毒、勒索软件和 DDoS 攻击： https://t.co/9ItF08r7EJ"
+[ Industry News ]  Kaspersky Lab Assists in Russia’s Largest Cybercriminal Arrest: The Hackers Who Stole $45 Million http://www.kaspersky.com/about/news/virus/2016/The-Hackers-Who-Stole-45-Million-Dollars via @ kaspersky
+﻿" 卡巴斯基协助俄罗斯警方逮捕罪犯 - 那个盗取银行 4500 万美元的黑客： https://t.co/hzn7FNK9fL"
+[ Industry News ]  Morgan Stanley to Pay $1 Million Penalty Over Customer Data Theft | http://SecurityWeek.Com http://ow.ly/kUZh3019D8h
+﻿"摩根斯坦利银行因客户数据被窃被罚款 100 万美元： https://t.co/73Ity5M10n https://t.co/MpYDfb13pS"
+[ Industry News ]  Cisco to Acquire Waltham Cybersecurity Firm CloudLock for $293M http://bostinno.streetwise.co/2016/06/28/cisco-announces-plans-to-acquire-cloudlock-for-293m/ via @ BostInno
+﻿"思科以 2.93 亿美元收购了英国的一家安全公司 CloudLock： https://t.co/ixdMGKPZHc "
+[ Industry News ]  Opera browser sold to a Chinese consortium for $600 million (May be a good time to stop using Opera) : https://www.engadget.com/2016/07/18/opera-browser-sold-to-a-chinese-consortium-for-600-million/
+﻿"Opera 浏览器以 6 亿美元的价格卖给了奇虎 360︰ https://t.co/mG57kZ3OJp"
+[ Industry News ]  I just published “InfoSec: Top acquirers and top start-ups” https://medium.com/p/infosec-top-acquirers-and-top-start-ups-cabc0ea7f74a
+﻿" 信息安全行业的顶级收购公司和创业公司： https://t.co/bGmNB54FNn"
+[ Industry News ]  RSA now under DELL , http://blogs.rsa.com/a-new-beginning/
+﻿" 从今天开始，RSA 成了戴尔团队的一部分： https://t.co/UjVwtSciGk"
+[ Industry News ]  MS16-135 fixes Win32k LPE vuln CVE-2016-7255 that has been exploited ITW by Sednit/STRONTIUM for sandbox bypass https://t.co/gTOGOcx3Hq
+﻿"Microsoft 发布了安全更新，此更新中修复了多个漏洞，包括之前被 Sednit/STRONTIUM 利用的  Win32k LPE 漏洞（CVE-2016-7255）： https://technet.microsoft.com/library/security/MS16-135   本月的补丁摘要： https://technet.microsoft.com/en-us/library/security/ms16-nov.aspx ;  漏洞致谢信息： https://technet.microsoft.com/library/security/mt674627.aspx "
+[ Industry News ]  We expand our Android #0day acquisitions (RCE or LPE) from the usual Samsung/Google/Sony to other devices: Huawei, Lenovo, Xiaomi, Oppo, HTC
+﻿"Zerodium 开始收购国产 Android 手机 0day，包括：  华为、 联想、 小米、 Oppo、 HTC"
+[ Industry News ]  Good news for governments around the world: Firefox for XP will continue to receive updates until September 2017. https://t.co/Djav2n7Trd
+﻿"Mozilla 将继续对 Windows XP 和 Vista 上的 Firefox 提供更新： https://t.co/Djav2n7Trd"
+[ Industry News ]  27k MongoDB Instances Have Now Been Hacked http://www.zdnet.com/article/mongodb-ransacked-now-27000-databases-hit-in-mass-ransom-attacks/
+﻿"上万 MongoDB 数据库被黑，数据库所有者遭遇勒索 ： https://t.co/BGcHgPR4VC"
+[ Industry News ]  .@ HelloKitty database of 3.3M breached credentials surfaces - http://bit.ly/2jvYKqK
+﻿"HelloKitty 母公司 Sanrio 数据库泄漏，330 万用户凭证受影响： https://t.co/weeHEdeIc2"
+[ Industry News ]  Godaddy has issued at least 8850 SSL certificates without validating anything : https://groups.google.com/forum/?hl=en#!msg/mozilla.dev.security.policy/Htujoyq-pO8/uRBcS2TmBQAJ
+﻿"Godaddy 在没有对域名做充分验证的情况下，颁布了至少 8850 份 SSL 证书︰ https://t.co/0jkacfjN77"
+[ Industry News ]  Scoop: Israeli mobile phone forensics firm Cellebrite hacked. 900GB of data. Hacker passed the data to Motherboard… https://t.co/UM7bxaTF8g
+﻿"曾帮 FBI 解锁 Apple 手机的 Cellebrite 公司被黑，900 GB 用户信息、技术数据遭窃： https://t.co/UM7bxaTF8g"
+[ Industry News ]  Carbanak Group uses Google for #Malware Command-and-Control http://fc-pt.com/2jtAQLU https://t.co/QKv9pB9lvp
+﻿"Carbanak 犯罪团伙利用 Google 作为 C&C 服务器： https://t.co/vHMfdJ8UhR https://t.co/QKv9pB9lvp"
+[ Industry News ]  Elasticsearch Ransomware Attacks Now Number In The Thousands http://www.zdnet.com/article/elasticsearch-ransomware-attacks-now-number-in-the-thousands/
+﻿"Elasticsearch 勒索攻击数量快速上升： https://t.co/RterM1GLbk"
+[ Industry News ]  Oracle to Block JAR Files Signed with MD5 Starting with April 2017 // About time. https://www.bleepingcomputer.com/news/security/oracle-to-block-jar-files-signed-with-md5-starting-with-april-2017/
+﻿"从 2017 年 4 月开始，Oracle 将所有使用 MD5 签名的 JAR 文件视为不安全的并将阻止其运行： https://t.co/PWzXlHbbbb"
+[ Industry News ]  Hacker hijacks thousands of publicly exposed printers to warn owners, by @ lconstantin - http://bit.ly/2kzvblT #infosec
+﻿"数以千计的打印机被黑客劫持，受迫打印出劫持消息： https://t.co/aNr6gOoAM5 "
+[ Industry News ]  OpenSSL will add TLS 1.3 support on April 5th https://www.thesslstore.com/blog/openssl-tls-1-3-april-5/
+﻿"OpenSSL TLS 1.3 将于今年4月5日发布： https://t.co/qqqkBh9bpb"
+[ Industry News ]  MS Patch Tuesday postponed https://blogs.technet.microsoft.com/msrc/2017/02/14/february-2017-security-update-release/
+﻿"Microsoft 宣布推迟本月安全公告： https://t.co/AHH0WhHxJ9"
+[ Industry News ]  Google launches Cloud Spanner in beta, a globally distributed relational database service http://techcrunch.com/2017/02/14/google-launches-cloud-spanner-a-new-globally-distributed-database-service/ https://t.co/dBUQ53mnQM
+﻿"Google 发布了一个全球的分布式关系型数据库服务 Cloud Spanner ： https://t.co/6ObhD0zQPQ "
+[ Industry News ]  New wave of #cyberattacks against global banks linked to Lazarus cybercrime group http://zd.net/2l6Epsn via… https://t.co/CIwPjwsFC7
+﻿"针对全球数家银行的网络攻击被认定与 Lazarus 网络犯罪团伙有关： https://t.co/yjDWJoxUF9 "
+[ Industry News ]  【RSA最前线】10家企业激烈角逐“创新沙盒” UnifyID夺得第一: http://bobao.360.cn/interref/detail/6.html
+[ Industry News ]  百度旗下网站暗藏恶意代码——劫持用户电脑疯狂“收割”流量： http://mp.weixin.qq.com/s/574W1LRAp2AghaJlrcUyNg
+[ Industry News ]  Docker Enterprise Edition https://blog.docker.com/2017/03/docker-enterprise-edition/
+﻿"Docker 有企业版了： https://t.co/D623Se8qQT"
+[ Industry News ]  #Dharma #ransomware decryption keys added to http://bit.ly/2aFvRkm - http://bit.ly/2mebH8V https://t.co/xdao1vgcwx
+﻿"Kaspersky Lab 发布了 Dharma 勒索软件的解密密钥： https://threatpost.com/keys-for-dharma-ransomware-released/124024/ "
+[ Industry News ]  132 Google Play Apps Booted For Malicious IFrames: https://threatpost.com/132-google-play-apps-booted-for-malicious-iframes/124038/ via @ threatpost
+﻿"Google 应用商店移除了 132 个受恶意 IFrames 影响的应用： https://t.co/QXymi5jGcV"
+[ Industry News ]  32 Million Yahoo Accounts Affected by Forged Cookies, Investigation Finds http://feedproxy.google.com/~r/tripwire-state-of-security/~3/zyeO_rArzWk/
+﻿"调查发现 3200 万雅虎帐户受伪造 Cookie 的影响： https://t.co/BSstH8fP4S"
+[ Industry News ]  Spammer’s Leaky Backup Exposes Massive Empire: https://threatpost.com/spammers-leaky-backup-exposes-massive-empire/124092/ via @ threatpost
+﻿"14亿数据泄露，垃圾邮件发送者泄露的备份文件间接曝光了一个大规模的垃圾邮件帝国，其中包含用户真名、email 地址等信息： https://t.co/usUY6XvBx1  https://mackeeper.com/blog/post/339-spammergate-the-fall-of-an-empire"
+[ Industry News ]  信息泄露，那些央视没报的“内鬼"： http://mp.weixin.qq.com/s?__biz=MzA4ODUxNjIwMg==&mid=2654324482&idx=1&sn=b982448b9246c8339f714480b104639c
+[ Industry News ]  GitLab acquires Gitter, will open-source the code http://venturebeat.com/2017/03/15/gitlab-acquires-software-chat-startup-gitter-will-open-source-the-code/
+﻿"GitLab 收购了 Gitter，并打算将其开源： https://t.co/nBRWMT3tFw"
+[ Industry News ]  当地时间 2017 年 3 月 15 日在加拿大温哥华举办的 Pwn2Own 2017 上，腾讯玄武实验室的 Ether 战队仅用 10 秒成功攻破微软 Edge 浏览器，也是整场比赛第一个攻破浏览器的队伍： http://www.chinanews.com/it/2017/03-16/8175167.shtml
+[ Industry News ]  美国52GB个人身份信息泄露：国防部、沃尔玛、花旗集团等都未能幸免： http://www.freebuf.com/news/129553.html
+[ Industry News ]  McDonalds India is leaking 2.2 million users data https://hackernoon.com/mcdonalds-india-is-leaking-2-2-million-users-data-d5758b2eb3f8#.waev8il90
+﻿"麦当劳印度区域网上订餐 app 泄漏 220 万用户数据，包括用户名、手机号、地址等个人信息： https://t.co/7UQWF03woP"
+[ Industry News ]  英国最大旅游度假协会网站被黑，4.3万人信息遭泄露： http://www.zdnet.com/article/abta-website-hacked-43000-people-affected-by-breach/
+[ Industry News ]  Over 20 million Gmail and 5 million Yahoo accounts available for sale on the Dark Web http://securityaffairs.co/wordpress/57300/deep-web/gmail-yahoo-accounts-dark-web.html
+﻿"超过 2000 万 Gmail 和 500 万雅虎帐户在暗网上叫卖： https://t.co/EhReFejYsl"
+[ Industry News ]  New post: Winnti Abuses GitHub for C&C Communications http://bit.ly/2msnFx8 @ TrendMicro
+﻿"Trend Micro 发现  Winnti 团伙利用 Github 进行C&C通信： https://t.co/P9Prts1ljr "
+[ Industry News ]  Jigsaw 和 Google 合作，将提供一套免费的工具，用于保障政治选举过程的安全性： https://threatpost.com/google-jigsaw-partner-on-free-tools-to-secure-elections/124501/
+[ Industry News ]  Threatpost | APT29 Used Domain Fronting, Tor to Execute Backdoor http://bit.ly/2oavG76
+﻿"APT29 组织被发现利用 Domain Fronting 和 TOR 技术，将后门成功隐藏了 2 年： https://t.co/Xs4bDfAKA7"
+[ Industry News ]  #Symantec API Flaws reportedly let attackers quietly steal Private #SSL Keys and Certificates… https://t.co/nTTGVId22d
+﻿"有研究员称由于赛门铁克的证书分发过程和代理商存在漏洞，攻击者可以窃取其他人的证书私钥信息，研究员称赛门铁克 2015 年就知道这个问题了。但赛门铁克表示不能复现该漏洞： http://thehackernews.com/2017/03/symantec-ssl-certificates.html"
+[ Industry News ]  微软推出 Project Sopris 计划，与 HackerOne 合作，选出 150 位报名的专家，测试低功耗互联设备的安全性： https://hackerone.com/project-sopris
+[ Industry News ]  IIS4\IIS5 CGI环境块伪造0day漏洞，目前仍处于 0Day 状态，IIS4\IIS5 比较老了，微软不打算修复了： http://www.freebuf.com/vuls/31444.html
+[ Industry News ]  Tools used by #Lamberts APT found in #Vault7 dumps - http://bit.ly/2omvX7i https://t.co/poYGRJsmjw
+﻿" Vault 7 中曝光的工具正在被 Lamberts 组织的 APT 行动所使用： https://t.co/GvEVL80Uuw ，同时 Kaspersky Lab 对 Lamberts Toolkit 进行了分析： https://securelist.com/blog/research/77990/unraveling-the-lamberts-toolkit/"
+[ Industry News ]  微软发布本月的漏洞公告信息： https://portal.msrc.microsoft.com/en-us/security-guidance 致谢信息： https://portal.msrc.microsoft.com/en-us/security-guidance/acknowledgments
+[ Industry News ]  Vendors who have patched #Pwn2Own bugs: Ubuntu, Google, VMware, Adobe Vendors who haven't: Apple and Microsoft #waiting
+﻿"PWN2OWN 比赛中涉及到的各厂商的漏洞，大部分已经修复了，就剩 Apple 和微软了..."
+[ Industry News ]  The Mirai botnet is back and includes a Bitcoin Mining component http://securityaffairs.co/wordpress/57942/malware/mirai-botnet-bitcoin.html
+﻿"Mirai 僵尸网络也准备挖比特币了： https://t.co/rZc2n5z4oJ"
+[ Industry News ]  Microsoft 宣布结束对 Windows Vista 的支持： https://www.tripwire.com/state-of-security/latest-security-news/microsoft-says-long-windows-vista/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+tripwire-state-of-security+%28The+State+of+Security+%7C+Tripwire%2C+Inc.%29
+[ Industry News ]  Intel and Lenovo have restricted access to debugging interface of CPUs after Positive Technologies' revelations http://blog.ptsecurity.com/2017/04/intel-and-lenovo-have-restricted-access.html
+﻿"2016 年年底 Positive 团队爆出攻击者可以滥用 CPU JTAG 调试接口，通过 USB 3.0 可以访问 JTAG 接口，完全控制系统。最近，Intel 和联想表示已经开始限制对该调试接口的访问： https://t.co/TNDNif2cdq"
+[ Industry News ]  移动安全厂商 Trustlook 表示，38% 的勒索软件受害者付过款： https://blog.trustlook.com/2017/04/13/38-of-consumers-affected-by-ransomware-pay-up/
+[ Industry News ]   VMware VCenter 也受 Apache Struts2 S2-045 RCE 漏洞的影响： http://blog.gdssecurity.com/labs/2017/4/13/vmware-vcenter-unauthenticated-rce-using-cve-2017-5638-apach.html
+[ Industry News ]   因为 StartCom 的证书已经不被信任，StartCom 一元 (1.5 美元) 贱卖所有证书，包括 EV 证书： http://www.solidot.org/story?sid=52033
+[ Industry News ]  .@ VMware fixes critical RCE in vCenter Server - http://bit.ly/2oijCAt https://t.co/PnJ5lg2F1m
+﻿"VMware 修复 vCenter Server 的 RCE 漏洞(CVE-2017-5641)， 来自ThreatPost ： https://t.co/hZmD0mXjRH "
+[ Industry News ]  This trend holds for all heap boundary violation CVEs (read & write). Historically, heap out-of-bound reads have be… https://twitter.com/i/web/status/854026092738338816
+﻿"一张图了解近几年微软修补的堆破坏漏洞趋势： https://t.co/326BnfkZkA"
+[ Industry News ]  Wave of Java-Based RATs Target Tax Filers: https://threatpost.com/wave-of-java-based-rats-target-tax-filers/125006/ via @ threatpost
+﻿"针对税务员（Tax Filer）的 JAVA 后门攻击波来袭： https://t.co/CqU4Ls5lZT"
+[ Industry News ]  有安全专家在 Shadow Broker 泄露的 NSA 攻击工具中找到了与 Stuxnet 病毒之间的关联： http://securityaffairs.co/wordpress/58098/cyber-warfare-2/shadow-brokers-link-stuxnet.html
+[ Industry News ]  just pwned PS4 4.5x
+﻿"研究员 qwertyoruiopz 表示他搞定了 PS4 4.5x"
+[ Industry News ]  Microsoft Touts New Phone-Based Login Mechanism: https://threatpost.com/microsoft-touts-new-phone-based-login-mechanism/125065/ via @ threatpost
+﻿"微软从本周开始启用基于手机的双因素认证服务，用户登录无需再输入繁琐的密码︰ https://t.co/KCzaCSnyF6"
+[ Industry News ]  #Stuxnet LNK exploits still widely circulated - http://bit.ly/2oUoQ6C
+﻿"据卡巴斯基报告，震网病毒发现 8 年后的今天，其中著名的 LNK 漏洞 Exploits 依然在广泛传播： https://t.co/Ugqn49COpE"
+[ Industry News ]  Input validation, XSS, Java deserialization bugs patched in #ColdFusion. https://threatpost.com/coldfusion-hotfix-resolves-xss-java-deserialization-bugs/125196/ via @ threatpost
+﻿"Adobe 昨日发布的 ColdFusion 重要安全补丁修复了其输入验证漏洞(CVE-2017-3008）与 Java 反序列化洞(CVE-2017-2066）： https://t.co/XAMnFKdhbi"
+[ Industry News ]  Air Force hopes to attract hackers w/ #bugbounty program - http://bit.ly/2q8JuTH https://t.co/fbOFnoTL5P
+﻿"美国空军也发布了其漏洞奖励计划： https://t.co/f9nynk14iC "
+[ Industry News ]  Hackers exploited Word flaw for months while Microsoft investigated : http://www.reuters.com/article/us-microsoft-cyber-idUSKBN17S32G
+﻿"前几周刚刚修复的 Office Word CVE-2017-0199 高危漏洞，从爱达荷州立大学一名毕业生报告到修复花了 6 个月时间，而攻击者在微软 "修复中" 的过程中就开始发起攻击了︰ https://t.co/MY11xdp2JS"
+[ Industry News ]  German car industry plans to close OBD interface http://www.eenewsautomotive.com/news/german-car-industry-plans-close-obd-interface
+﻿"德国汽车行业计划一步步地禁用汽车的 OBD 调试接口：  https://t.co/77khjlTpis"
+[ Industry News ]  OpenSSH Security Testing Kick-Off: https://blogs.msdn.microsoft.com/powershell/2017/05/01/openssh-security-testing-kick-off/ https://t.co/bfU2KKAgeA
+﻿" 微软一直在致力于将 OpenSSH 移植到 Win32 平台，微软昨天宣布开始针对 OpenSSH 的安全测试项目，鼓励大家报告漏洞︰ https://t.co/HJS8V7YRZY https://t.co/bfU2KKAgeA"
+[ Industry News ]  OpenSSH Removes SSHv1 Support : http://undeadly.org/cgi?action=article&sid=20170501005206
+﻿"OpenSSH 将不再支持 SSHv1︰ https://t.co/Q7kdfRywGz"
+[ Industry News ]  .@ Apple Revokes Certificate Used By #OSX/Dok Malware: https://threatpost.com/apple-revokes-certificate-used-by-osxdok-malware/125322/ via @ threatpost
+﻿"Apple 吊销了被恶意软件 OSX/DoK 所使用的开发者证书 ： https://t.co/afpeSTeES8"
+[ Industry News ]  印度移动运营商 Airtel 一直在嗅探 CloudFlare 的流量： https://medium.com/@karthikb351/airtel-is-sniffing-and-censoring-cloudflares-traffic-in-india-and-they-don-t-even-know-it-90935f7f6d98
+[ Industry News ]  Stealthy RAT Targeting North Korea Since 2014 #Konni https://threatpost.com/stealthy-rat-targeting-north-korea-since-2014/125450/ via @ threatpost
+自2014年起便开始攻击朝鲜的远程控制软件 Konni 被 Cisco Talos 团队曝光： https://threatpost.com/stealthy-rat-targeting-north-korea-since-2014/125450/
+[ Industry News ]  Good to see more research on ultrasound-based tracking technology! https://www.bleepingcomputer.com/news/security/234-android-applications-are-currently-using-ultrasonic-beacons-to-track-users/ http://christian.wressnegger.info/content/projects/sidechannels/2017-eurosp.pdf by @ mlsec @ chwress et al.
+234款安卓应用正在使用 uXDT 技术追踪用户： https://www.bleepingcomputer.com/news/security/234-android-applications-are-currently-using-ultrasonic-beacons-to-track-users/
+[ Industry News ]  Trend Micro 称近期的法国大选期间，攻击 Macron(马克龙) 选举团队背后的组织是 Pawn Storm，Pawn Storm 被认为与俄罗斯有关： https://www.theguardian.com/world/2017/apr/25/hackers-have-targeted-election-campaign-of-macron-says-cyber-firm https://documents.trendmicro.com/assets/wp/wp-two-years-of-pawn-storm.pdf
+[ Industry News ]  Shodan can now find malware command and control servers http://zd.net/2pWlJvm https://t.co/3OUDChsv7f
+"  Shodan 开始提供 C&C 服务器搜索的服务： http://www.zdnet.com/article/shodan-can-now-find-malware-command-and-control-servers/?ftag=COS-05-10aaa0g&utm_campaign=trueAnthem:+Trending+Content&utm_content=590fd95604d3017a68c5d489&utm_medium=trueAnthem&utm_source=twitter "
+[ Industry News ]  Fuzz 工具 OSS-Fuzz 开源的 5 个月中，被用于测试了 47 个开源项目，发现了超过 1000 个 Bug(264 个潜在漏洞)： https://opensource.googleblog.com/2017/05/oss-fuzz-five-months-later-and.html
+[ Industry News ]  Google正秘密开发第三款操作系统 Fuchsia： http://www.cnbeta.com/articles/tech/610387.htm
+[ Industry News ]   比特币开源项目 Bitcoin 鼓励开发者尽快支持 libFuzzer，尽早发现安全漏洞： https://github.com/bitcoin/bitcoin/issues/10364
+[ Industry News ]  Here's a better article on how Microsoft refuses to allow third-party browsers on Windows 10 S. http://www.zdnet.com/article/google-chrome-wont-be-allowed-on-windows-10-s/
+" 微软为教育市场推出的 Windows 10 S 版本，将限制用户只能安装运行来自 Windows Store 的应用，其他来源应用，比如桌面版 Chrome 浏览器将无法再运行： http://www.zdnet.com/article/google-chrome-wont-be-allowed-on-windows-10-s/ "
+[ Industry News ]  微软在昨天的更新中去掉了 IE/Edge 浏览器对 SHA-1 的支持： https://threatpost.com/microsoft-makes-it-official-cuts-off-sha-1-support-in-ie-edge/125579/
+[ Industry News ]  We discovered a keylogger in a recent HP audio driver package. https://www.modzero.ch/modlog/archives/2017/05/11/en_keylogger_in_hewlett-packard_audio_driver/index.html - CVE-2017-8360
+" 惠普(HP)预装的 Audio Driver 驱动套件中被发现了一个 Keylogger 键盘记录程序，至少从 2015 年底就存在了。这个 Keylogger 携带音频芯片厂商 Conexant 的签名。用户可以自己检查一下这个文件是否存在： C:\Windows\System32\MicTray.exe： https://www.modzero.ch/modlog/archives/2017/05/11/en_keylogger_in_hewlett-packard_audio_driver/index.html "
+[ Industry News ]  惠普(HP)发布驱动更新，移除上周推送中提到的 Keylogger，此更新将会通过 Windows Update 渠道分发给用户： https://www.bleepingcomputer.com/news/hardware/hp-releases-driver-update-to-remove-accidental-keylogger/
+[ Industry News ]  WordPress Now on HackerOne https://wordpress.org/news/2017/05/wordpress-now-on-hackerone/
+"  WordPress 现已入驻 HackerOne 平台 ： https://wordpress.org/news/2017/05/wordpress-now-on-hackerone/ "
+[ Industry News ]  United Airlines cockpit codes released to the public http://www.zdnet.com/article/united-airlines-cockpit-codes-released-to-the-public/#ftag=RSSbaffb68
+"  美联航的驾驶舱机密代码（cockpit codes）意外泄露： http://www.zdnet.com/article/united-airlines-cockpit-codes-released-to-the-public/#ftag=RSSbaffb68 "
+[ Industry News ]  Disney Hackers Threaten to Release Upcoming Movie: Report https://www.infosecurity-magazine.com/news/disney-hackers-threaten-to-release/
+" 据BBC报道，黑客威胁迪士尼，称如不交赎金，将提前公布即将上映的加勒比海盗五的部分片段： http://www.bbc.com/news/entertainment-arts-39933406 "
+[ Industry News ]  Dumps could include exploits, SWIFT data or nuclear/missile data stolen from US adversaries. https://threatpost.com/shadowbrokers-planning-monthly-exploit-data-dump-service/125710/ via @ threatpost
+" ShadowBrokers 组织昨天发了一篇文章，这篇文章介绍了他们 "拍卖方程式军火库" 的从商经历，鉴于 "业绩"不佳，他们决定从 6 月份开始开启全新的会员付费按月订阅模式。这次他们将放出浏览器、路由器、手机、支持 Windows 10 系统等新 Exploits： https://steemit.com/shadowbrokers/@theshadowbrokers/oh-lordy-comey-wanna-cry-edition "
+[ Industry News ]  1.9 million Bell customer email addresses and' 1,700 names and phone numbers stolen in data breach... oops http://www.cbc.ca/beta/news/technology/bell-data-breach-customer-names-phone-numbers-emails-leak-1.4116608
+" 加拿大电信巨头 Bell 公司 190 万用户 eamil 及 1700 用户姓名、电话信息泄露： https://t.co/qqta2cavs9 "
+[ Industry News ]  "New Pirates of the Caribbean movie leaked online after hackers fail to extort money" https://www.grahamcluley.com/new-pirates-caribbean-movie-leaked-online-hackers-fail-extort-money/
+" 昨天推送了黑客威胁迪士尼为加勒比海盗五交勒索金的事件。而昨天晚些时候，黑客因为没有收到钱，直接将电影公开了，放到了海盗湾 BT 站上： https://www.grahamcluley.com/new-pirates-caribbean-movie-leaked-online-hackers-fail-extort-money/ "
+[ Industry News ]  Stegano Exploit Kit now uses the Diffie-Hellman Algorithm http://securityaffairs.co/wordpress/59284/malware/stegano-exploit-kit-diffie-hellman.html
+"  Stegano Exploit Kit 现已使用 Diffie-Hellman 算法进行CC通信： https://t.co/SHrVvkWaK4 "
+[ Industry News ]  Hacked in Translation – from Subtitles to Complete Takeover - http://blog.checkpoint.com/2017/05/23/hacked-in-translation/
+"  Check Point 的研究员发现了一个新的攻击界面 - 视频字幕文件，通过构造畸形的字幕文件，可以成功触发播放器 RCE，攻破用户系统。VLC, Kodi (XBMC), Popcorn-Time 等都存在该漏洞，2 亿用户受影响： https://t.co/ID29BnPmd9 "
+[ Industry News ]  NSA EsteemAudit exploit could trigger a new WannaCry-like attack http://securityaffairs.co/wordpress/59450/hacking/nsa-esteemaudit-exploit-patch.html
+" enSilo 公司研究员认为 NSA 泄露的针对 3389 端口的 EsteemAudit Exploit 也可能触发类似 WannaCry 的攻击： https://t.co/k69ygTJBEd "
+[ Industry News ]  TheShadowBrokers Monthly Dump Service – June 2017 — Steemit https://steemit.com/shadowbrokers/@ theshadowbrokers/theshadowbrokers-monthly-dump-service-june-2017 #shadowbrokers #equationgroup
+" ShadowBrokers 组织的付费订阅模式开始了： https://t.co/jrAFZu8ieu "
+[ Industry News ]  ShadowFall - RSA 研究团队最近对 RIG Exploit Kit 的追踪过程中发现了大量通过 Domain Shadowing 技术窃取的二级域名： https://blogs.rsa.com/shadowfall/
+[ Industry News ]   前天的 NSA 选举活动文件被泄露给了 The Intercept 媒体网站，而 NSA 通过打印机的不可见黄斑标记找到了内部泄密者： http://blog.erratasec.com/2017/06/how-intercept-outed-reality-winner.html#.WTdc8JCGOUm
+[ Industry News ]   来自 Turla 组织的水坑攻击活动：通过安装 Firefox 扩展滥用 Instagram 以获取 C&C 服务器 URL： https://t.co/cVpx2LpLAd
+[ Industry News ]   据Threatpost报道，VMware 在本周修复了 vSphere 数据保护解决方案中的两个严重漏洞： https://t.co/PLYjTqTA4n
+[ Industry News ]   Shopify 的一款 iOS APP 的某个内嵌文件泄露了 Shopify 的 GitHub 账号密码信息： https://hackerone.com/reports/124100
+[ Industry News ]  黑客开始使用 "SambaCry" 漏洞入侵 Linux 系统： https://t.co/Gq25ACNfxN
+[ Industry News ]  Nmap: Network Exploration and Security Auditing Cookbook 第二版 已出： http://calderonpale.com/nmap-network-exploration-and-security-auditing-cookbook-2nd-edition-is-now-available/
+[ Industry News ]  攻击者利用最近的 Samba 远程代码执行漏洞获取 Linux 主机权限并用于挖矿： https://t.co/HrbJG6vOj5
+[ Industry News ]   据媒体报道，俄罗斯开发了一款专门攻击美国电网系统的恶意软件，这款软件也与乌克兰电网攻击事件有关： https://www.washingtonpost.com/world/national-security/russia-has-developed-a-cyber-weapon-that-can-disrupt-power-grids-according-to-new-research/2017/06/11/b91b773e-4eed-11e7-91eb-9611861a988f_story.html?tid=ss_tw&utm_term=.977ab3d8d6e3
+[ Industry News ]  苹果 WWDC 2017 对 App Store 审查策略的调整细节（Diff）： http://www.appstorereviewguidelineshistory.com/articles/2017-06-08-new-rules-following-wwdc-2017/
+[ Industry News ]   微软将在今年秋季的 Windows 10 RS3 中开始禁用 SMBv1 文件共享协议：  https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-smbv1-in-windows-starting-this-fall/
+[ Industry News ]  微软本月的补丁更新中，开始封杀一款流氓软件捆绑器 - Xiazai，Xiazai 会捆绑安装第三方软件、强制绑定主页，看它的界面和来源，可能来自国内： https://blogs.technet.microsoft.com/mmpc/2017/06/13/msrt-june-2017-removing-sneaky-xiazai/
+[ Industry News ]    App Store 的搜索广告功能被发现用于诈骗： https://threatpost.com/abuse-of-apple-search-ads-feature-leading-to-fraud/126265/
+[ Industry News ]    WANNACRY 勒索事件之后的今天，仍有 550 万的设备暴露着 SMB 端口： https://threatpost.com/post-wannacry-5-5-million-devices-still-expose-smb-port/126249/
+[ Industry News ]    Citizen Lab 发了一份报告，攻击组织 NSO Group 盯上了墨西哥的记者、律师还有未成年的小孩：  https://citizenlab.org/2017/06/reckless-exploit-mexico-nso/
+[ Industry News ]   安全公司 UpGuard 的研究员发现，共和党的数据代理商 Deep Root 在亚马逊云上泄露了 1.98 亿选民的个人详细信息： https://threatpost.com/republican-data-broker-exposes-198m-voter-records/126357/
+[ Industry News ]   有用户发现，mac 版本的 Sky's NOW TV 播放器安装后，某个可执行文件携带思科多个站点的证书的私钥，包括主站 cisco.com：  https://groups.google.com/forum/m/#!topic/mozilla.dev.security.policy/T6emeoE-lCU
+[ Industry News ]  韩国Web主机提供商 NAYANA 被 Linux 勒索软件攻击后同意支付100万美元勒索费用： https://arstechnica.com/security/2017/06/web-host-agrees-to-pay-1m-after-its-hit-by-linux-targeting-ransomware/
+[ Industry News ]  加密邮件服务 ProtonMail 背后公司 Proton Technologies AG 宣布推出免费 VPN 服务 ProtonVPN，甚至支持与 Tor 匿名网络的互联： https://threatpost.com/protonmail-launches-free-vpn-service/126400/
+[ Industry News ]   微软发布 Azure AD Connect 的"重要"安全修复补丁，在 Password writeback 功能配置错误的情况下 Azure AD 管理员有权重置内部域管理员密码： https://threatpost.com/microsoft-issues-important-security-fix-for-azure-ad-connect/126596/
+[ Industry News ]  黑产大数据：手机黑卡调查： http://www.freebuf.com/articles/others-articles/135317.html
+[ Industry News ]   TheShadowBrokers 从 6 月份的 "Exploit 月度付费订阅" 中预计收入 6.6 万美元：  https://steemit.com/shadowbrokers/@wh1sks/theshadowbrokers-may-have-received-up-to-1500-monero-usd66-000-from-their-june-monthly-dump-service
+[ Industry News ]    今天 2 月份开始，一家加利福尼亚的中文新闻站点【中国数字时代】遭到钓鱼和远控木马攻击，来自多伦多大学 Citizen Lab 的分析报告： https://threatpost.com/threat-actors-target-chinese-language-news-sites/126679/  https://citizenlab.org/2017/07/insider-information-an-intrusion-campaign-targeting-chinese-language-news-sites/
+[ Industry News ]   第四大加密货币交易所 Bithumb 被黑，导致一些用户丢失 ETH 及 BTC： https://www.bleepingcomputer.com/news/security/fourth-largest-cryptocurrency-exchange-was-hacked-users-lose-ethereum-and-bitcoin/
+[ Industry News ]   Let’s Encrypt 将会在 2018 年提供通配符证书（Wildcard certificates）： https://threatpost.com/lets-encrypt-to-offer-wildcard-certificates-in-2018/126700/
+[ Industry News ]    国际调查组织也是某些政府间谍软件的攻击目标： https://threatpost.com/international-investigatory-group-also-target-of-government-spyware/126723/
+[ Industry News ]   《Windows 内存 Dump 分析》第三版： https://www.safaribooksonline.com/library/view/advanced-windows-memory/9781908043849/
+[ Industry News ]  趋势科技发现 ProMediads 开始使用 Sundown-Pirate 漏洞利用工具包进行勒索软件传播等恶意活动： http://blog.trendmicro.com/trendlabs-security-intelligence/promediads-malvertising-sundown-pirate-exploit-kit/
+[ Industry News ]  Ethereum 加密货币交易平台 CoinDash 被黑客攻击，2000 位投资者价值约 700 万美元的 3.7 万 Ethereum 币被直接划走： https://www.scmagazine.com/hacker-steals-7-million-in-ethereum-cryptocurrency-after-compromising-start-ups-token-sale/article/675846/
+[ Industry News ]    Adobe 发布公告称，2020 年 Adobe Flash 将停止开发和更新： https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html  WebKit 的回应：  https://webkit.org/blog/7839/adobe-announces-flash-distribution-and-updates-to-end/  Edge 浏览器的回应：  https://blogs.windows.com/msedgedev/2017/07/25/flash-on-windows-timeline/#i9gEbvpbhLu7B8iL.97  Chrome 浏览器的回应：  https://blog.chromium.org/2017/07/so-long-and-thanks-for-all-flash.html
+[ Industry News ]   TheShadowBrokers 对 8 月份的订阅服务发表声明，因为 7 月份的 "生意" 太好了，所以决定即日起涨价，之前价格是 100 ZEC，现在涨到 500 ZEC： https://steemit.com/shadowbrokers/@theshadowbrokers/theshadowbrokers-monthly-dump-service-august-2017
+[ Industry News ]  黑客窃取了意大利最大的银行 UniCredit 的 40 万条用户数据： https://hotforsecurity.bitdefender.com/blog/hackers-steal-information-on-400000-customers-of-italys-biggest-bank-18562.html
+[ Industry News ]   HBO 遭受黑客攻击，权力的游戏即将播放的剧集已被泄露到网上： http://ew.com/tv/2017/07/31/hbo-hacked-game-of-thrones/
+[ Industry News ]  一位前 NSA 员工被美国政府调查，怀疑其与 Shadow Brokers 组织有关联： https://www.cyberscoop.com/shadow-brokers-investigation-nsa-former-insider-fbi-q-group/
+[ Industry News ]  阻击 WannaCry 病毒拯救了世界，他却被抓了: https://view.inews.qq.com/a/TEC2017080400832505
+[ Industry News ]   Debian 最新版将禁用对 OpenSSL TLS 1.0、1.1 协议的支持，只支持 TLS 1.2： https://lists.debian.org/debian-devel-announce/2017/08/msg00004.html
+[ Industry News ]   Visual Studio 2017 新添加了一个警告框，打开网络上下载的自定义的 .sln 工程文件时，如果存在潜在的 RCE，VS2017 将会弹框警告： https://twitter.com/fdfalcon/status/894713581811503104
+[ Industry News ]  微软表示从 9 月份开始将不再信任 WoSign 的 StartCom 证书： https://blogs.technet.microsoft.com/mmpc/2017/08/08/microsoft-to-remove-wosign-and-startcom-certificates-in-windows-10/
+[ Industry News ]  GitHub 的代码库中有用户直接将密码放到了自己的代码库中： http://www.freebuf.com/column/143633.html
+[ Industry News ]  生物黑客，人工篡改基因序列的数据，有可能触发基于测序仪的栈溢出漏洞： https://www.wired.com/story/malware-dna-hack/ http://tech.sina.com.cn/it/2017-08-10/doc-ifyixtyk9729675.shtml
+[ Industry News ]  带你走进二进制-一次APT攻击分析： http://www.freebuf.com/column/143836.html
+[ Industry News ]  TK 教主携徒弟揭秘新型“手机僵尸”： http://mp.weixin.qq.com/s/-0yThAnFpNVz4NekSP1tlQ
+[ Industry News ]  肯尼亚反对派称大选系统遭黑客入侵，可能造成大规模冲突： https://mp.weixin.qq.com/s/RBx_Q9JjrYTgnCwztfehrw
+[ Industry News ]  APT28/Sofacy 使用永恒之蓝攻击欧洲以及中东的酒店行业： https://threatpost.com/apt28-using-eternalblue-to-attack-hotels-in-europe-middle-east/127419/
+[ Industry News ]   微软发布 .NET Core 2.0 版本： https://blogs.msdn.microsoft.com/dotnet/2017/08/14/announcing-net-core-2-0/
+[ Industry News ]   智能门锁厂商 LockState 错误推送固件更新包，500 家用户的锁被刷成了"砖"： https://threatpost.com/smart-locks-bricked-by-bad-update/127427/
+[ Industry News ]   近期的 Windows Search 组件的高危漏洞也有蠕虫式大范围传播的可能，要警惕： https://threatpost.com/windows-search-bug-worth-watching-and-squashing/127434/
+[ Industry News ]  上周末暴雪娱乐公司（Blizzard）遭到大规模的 DDoS 攻击： https://threatpost.com/blizzard-entertainment-hit-with-weekend-ddos-attack/127440/
+[ Industry News ]   谷歌移除了银行欺诈中使用的 Chrome 浏览器扩展： https://threatpost.com/google-removes-chrome-extension-used-in-banking-fraud/127469/
+[ Industry News ]   思科修复了应用策略基础架构控制器（APIC）的两个高危漏洞： https://threatpost.com/cisco-patches-privilege-escalation-bugs-in-apic/127516/
+[ Industry News ]   NetSarang 公司多个产品被安装后门，影响数百家银行与能源公司： https://arstechnica.com/information-technology/2017/08/powerful-backdoor-found-in-software-used-by-100-banks-and-energy-cos/
+[ Industry News ]  OpenBSD 内核中将引入一个新的利用缓解措施 RETGUARD，用于加强对函数返回地址的保护： http://undeadly.org/cgi?action=article&sid=20170819230157
+[ Industry News ]  Google 将于今天（8 月 21 日）发布 Android 8.0 正式版： http://www.cnbeta.com/articles/soft/643299.htm
+[ Industry News ]   专门挖掘加密货币的组织开始利用 WMI 和 EternalBlue Exploit 实现传播和常驻： http://blog.trendmicro.com/trendlabs-security-intelligence/cryptocurrency-miner-uses-wmi-eternalblue-spread-filelessly/
+[ Industry News ]   LLVM 官方表示：终于可以在 Windows 平台上利用 LLVM 工具链生成兼容的 PDB 调试信息了： http://blog.llvm.org/2017/08/llvm-on-windows-now-supports-pdb-debug.html
+[ Industry News ]  来自美国几所大学的研究员在 USENIX 会议上介绍了一种实时检测企业网环境中密钥钓鱼攻击的方法，Facebook 为此奖励了他们 10万美金： https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-ho.pdf https://threatpost.com/facebook-awards-100k-to-researchers-for-credential-spearphishing-detection-method/127559/
+[ Industry News ]  iOS AccuWeather 会发送用户的位置和 WiFi 信息到第三方公司 revealmobile.com，研究员之前发现超过 40 款 APP 有类似行为： https://medium.com/@chronic_9612/advisory-accuweather-ios-app-sends-location-information-to-data-monetization-firm-83327c6a4870
+[ Industry News ]  LG 公司因受 WANNACRY 勒索软件攻击而不得不关闭部分系统： http://www.zdnet.com/article/wannacry-ransomware-attack-at-lg-electronics-takes-systems-offline/
+[ Industry News ]  上周推送了 ZDI 公开了 Foxit 阅读器的两个 0Day，当时厂商表示因 Safe Reading Mode 存在而拒绝修复。昨天 Foxit 官方表示这周五会修复： https://threatpost.com/foxit-to-fix-pdf-reader-zero-days-by-friday/127576/
+[ Industry News ]  专门收购漏洞和利用的公司 ZERODIUM 昨天宣布，开始以 50 万美金价格开始收购加密通讯类 APP 的 0Day，比如 Signal 和 WhatsApp： https://threatpost.com/zerodium-offers-500k-for-secure-messaging-app-zero-days/127610/https://zerodium.com/program.html
+[ Industry News ]    恶意 Chrome 扩展窃取 Roblox 的游戏币并通过 Discord 发送 Cookie： http://blog.trendmicro.com/trendlabs-security-intelligence/malicous-chrome-extensions-stealing-roblox-game-currency-sending-cookies-via-discord/
+[ Industry News ]  FBI逮捕一名上海黑客 指控其为OPM黑客事件关键成员： http://mp.weixin.qq.com/s/4TX7DoR7Z-lWQ6HsiRBUQA
+[ Industry News ]  iOS 系统中的视频解码内核扩展 - AppleAVEDriver 缺少安全防御，存在多处漏洞： https://threatpost.com/security-lacking-in-previous-appleavedriver-ios-kernel-extension/127624/
+[ Industry News ]  Hacking SAP POS 支付系统，也许可以一美元买台 MacBook： https://erpscan.com/research/hacking-sap-pos/
+[ Industry News ]  Aetna 通过信封窗口泄露了 12,000 个客户的艾滋病毒状况： https://www.grahamcluley.com/oops-aetna-exposed-12000-customers-hiv-statuses-envelope-window/
+[ Industry News ]   以太币平台 Enigma 被攻击，近500万美元被盗： https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/ethereum-platform-enigma-attacked-nearly-500k-stolen?utm_source=trendlabs-social&utm_medium=smk&utm_campaign=08-2017-enigma
+[ Industry News ]   10 月份开始，Google将会在 Chrome 浏览器中标记 HTTP 网站为 "不安全" 状态： https://threatpost.com/google-reminding-admins-http-pages-will-be-marked-not-secure-in-october/127709/
+[ Industry News ]    西门子修复了其 LOGO! 8 BM 设备的会话劫持漏洞： https://threatpost.com/siemens-fixes-session-hijacking-bug-in-logo-warns-of-man-in-the-middle-attacks/127728/
+[ Industry News ]    前天推送过 Positive Technologies 研究员发现 Intel ME 引擎有个未文档化的隐蔽开关，可以禁用 Intel ME。目前 Intel 已经确认了这个开关的存在： https://threatpost.com/intel-confirms-its-much-loathed-me-feature-has-a-kill-switch/127739/
+[ Industry News ]  NSA 如何识别中本聪的身份： http://www.solidot.org/story?sid=53639
+[ Industry News ]  “国家重点研发计划”正式启动 腾讯安全联合实验室承担两大课题： https://mp.weixin.qq.com/s/3sAJNrvOWcziqqVhndZ-ug
+[ Industry News ]  2016 年 10 月，Mozilla 从 Firefox 51 版本开始不再信任 WoSign 和 StartCom 签发的新证书。昨天 Mozilla 进一步声明，从 Firefox 58 开始，将完全移除 WoSign 和 StartCom 根证书： https://blog.mozilla.org/security/2017/08/30/removing-disabled-wosign-startcom-certificates-firefox-58/
+[ Industry News ]    澳大利亚的维多利亚洲去年被盗汽车 1.6 万辆，损失 1.7 亿美金。有位研究员打算写一个车载车牌扫描器，车辆被盗时会自动报警通知： https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9
+[ Industry News ]  DFRLab 用户在 Twitter 上遭到大量机器人（Bots）的骚扰，DFRLab 对该事件的调查：https://medium.com/dfrlab/botspot-the-intimidators-135244bfe46b
+[ Industry News ]  托管了数十个文件转换站点的服务器被黑，大量用户上传的原始文件恐遭窃取： http://www.zdnet.com/article/dozens-of-online-file-converter-sites-are-unsafe-to-use-warns-researcher/
+[ Industry News ]    8 月 30 号，WikiLeaks 遭到黑客攻击，网站被替换成 "OurMine" 的声明。这篇 Blog 分析这起事件的经过： http://www.bortzmeyer.org/observations-wikileaks.html
+[ Industry News ]   26000 台 MongoDB 服务器遭受了新一轮的勒索攻击： http://securityaffairs.co/wordpress/62717/cyber-crime/mongodb-ransom-attacks.html
+[ Industry News ]   恶意的 Chrome 扩展程序窃取 Roblox 游戏币，通过 Discord 发送窃取的 Cookie： http://blog.trendmicro.com/trendlabs-security-intelligence/malicous-chrome-extensions-stealing-roblox-game-currency-sending-cookies-via-discord/
+[ Industry News ]   域名同型字攻击（IDN homograph）被用于传播 BETABOT 后门： https://threatpost.com/idn-homograph-attack-spreading-betabot-backdoor/127839/
+[ Industry News ]  ShadowBrokers 又搞事！每月支付 400 万美元，多获得两份新泄露的文件，你会买吗？： https://mp.weixin.qq.com/s/8cVaqoSLy733-sEqK01zhg
+[ Industry News ]  不法分子利用 Facebook 的 CDN 服务器绕过安全解决方案： http://securityaffairs.co/wordpress/62909/malware/facebook-cdn-abuse.html
+[ Industry News ]   维基解密是如何遭到黑客攻击的: https://zhuanlan.zhihu.com/p/29162387
+[ Industry News ]  为何朝鲜对 Bitcoin 如此感兴趣？来自 FireEye： https://www.fireeye.com/blog/threat-research/2017/09/north-korea-interested-in-bitcoin.html
+[ Industry News ]  Chrome 计划不再信任赛门铁克证书： https://security.googleblog.com/2017/09/chromes-plan-to-distrust-symantec.html
+[ Industry News ]  据 Check Point 安全人员说 Windows 10 内置的 Linux Shell 可以被利用来隐藏恶意软件： https://motherboard.vice.com/en_us/article/xwwexa/windows-10s-built-in-linux-shell-could-be-abused-to-hide-malware-researchers-say
+[ Industry News ]  Kromtech 安全中心的人发现 超过 4000 个 ElasticSearch 服务器托管着 PoS 恶意软件(AlinaPOS、 JackPOS)： https://www.bleepingcomputer.com/news/security/over-4-000-elasticsearch-servers-found-hosting-pos-malware-files/
+[ Industry News ]   被黑的 LinkedIn 账户被利用其私信和 InMail 功能发送钓鱼链接： https://blog.malwarebytes.com/threat-analysis/2017/09/compromised-linkedin-accounts-used-to-send-phishing-links-via-private-message-and-inmail/
+[ Industry News ]   漏洞收购平台 ZERODIUM 昨天提高了 Tor Browser Bounty 的奖金额度，总共 100 万美金。在禁用 JavaScript 的条件下实现 Windows x64 和 Tails 3.x (64bit) 通杀最高可以获得 25 万美金： https://zerodium.com/tor.html
+[ Industry News ]  全球至少 165 万台电脑被黑客用来挖矿： https://motherboard.vice.com/en_us/article/vb74j3/at-least-165-million-computers-are-mining-cryptocurrency-for-hackers-so-far-this-year
+[ Industry News ]  软件开发环境被感染 导致“锋彩直播”app携带病毒： https://mp.weixin.qq.com/s/BbFS8dgWwjAGIxCEA1TOAQ
+[ Industry News ]  针对医疗机构的安全诊断： https://securelist.com/connected-medicine-and-its-diagnosis/81857/
+[ Industry News ]  湖南某科技公司疑似利用Struts 2漏洞传毒挖矿： http://www.freebuf.com/articles/network/147336.html
+[ Industry News ]  DDoS黑产全链条遭斩断，腾讯云协助警方抓捕58人： http://www.freebuf.com/news/147595.html
+[ Industry News ]  WordPress 插件 Display Widgets 存在后门并在网站上插入垃圾广告： https://threatpost.com/200k-wordpress-sites-exposed-to-rogue-version-of-display-widgets/127994/
+[ Industry News ]   垃圾邮件行动将 Locky 勒索软件与 FakeGlobe 一起进行推送： http://blog.trendmicro.com/trendlabs-security-intelligence/locky-ransomware-pushed-alongside-fakeglobe-upgraded-spam-campaigns/
+[ Industry News ]  黑客 Kuroi’SH 黑掉了谷歌巴西的网站并挂了黑页： http://securityaffairs.co/wordpress/63138/hacking/google-brazil-domain-defacement.html
+[ Industry News ]  海盗湾测试用 JS 挖矿替代广告： http://www.solidot.org/story?sid=53865
+[ Industry News ]  系统清理工具 CCleaner 8月15日上线的 5.33 版本被植入后门： http://www.piriform.com/news/blog/2017/9/18/security-notification-for-ccleaner-v5336162-and-ccleaner-cloud-v1073191-for-32-bit-windows-users http://blog.talosintelligence.com/2017/09/avast-distributes-malware.html http://www.freebuf.com/news/148119.html
+[ Industry News ]  网页上的污染源：“PM2.5报告”插件实为恶意广告注射器： http://www.freebuf.com/articles/terminal/147797.html
+[ Industry News ]  游戏辅助背后的黑产流水线：年劫持攻击千万次牟利数百万： http://www.freebuf.com/articles/network/147652.html
+[ Industry News ]  CNNVD关于WordPress的Display Widgets插件存在恶意代码情况的通报： www.freebuf.com/news/147887.html
+[ Industry News ]    EQUIFAX 官方表示，除了这次大规模的信息泄露之外，早在今年 3 月份就发生过一次小的泄露事件：  https://threatpost.com/equifax-suffered-earlier-breach-in-march/128019/
+[ Industry News ]  来自 CheckPoint 的报道称：中国的手机软件 DU Antivirus Security 窃取用户数据。原文标题《你手机上装的杀软到底是不是在保护你？DU Antivirus 背后的真相》： https://research.checkpoint.com/mobile-anti-virus-app-protect-infect-truth-behind-du-antivirus-security/
+[ Industry News ]  PassGAN 工具利用深度学习提高密码猜测成功率： https://threatpost.com/deep-learning-passgan-tool-improve-password-guessing/128039/
+[ Industry News ]   Joomla 修复了潜藏在系统8年的 LDAP 注入：  https://threatpost.com/joomla-patches-eight-year-old-ldap-injection-vulnerability/128069/
+[ Industry News ]  伊朗 APT33 使用破坏性恶意软件攻击美国公司： https://threatpost.com/iranian-apt33-targets-us-firms-with-destructive-malware/128074/
+[ Industry News ]  Wikileaks 新公布了一系列文件，其声称本次揭漏的文件与俄罗斯大规模监控计划有关： http://securityaffairs.co/wordpress/63189/intelligence/wikileaks-russia-peter-service.html
+[ Industry News ]  亚马逊/微软云服务上的客户由于数据库错误配置导致超过十亿条数据暴露： https://securityintelligence.com/leaking-cloud-databases-and-servers-expose-over-1-billion-records/
+[ Industry News ]  适用于 Linux 的 SQL Server 2017 发布： https://arstechnica.com/gadgets/2017/09/microsoft-ignite-2017-azure-sql/
+[ Industry News ]  四大会计事务所之一的德勒承认遭受网络攻击，但表示仅有少数客户受影响： https://threatpost.com/deloitte-very-few-clients-impacted-by-cyber-attack/128129/
+[ Industry News ]  雅虎开源其搜索引擎 Vespa： http://www.solidot.org/story?sid=53993
+[ Industry News ]  昨天推送的 "Broadcom: OOB write when handling 802.11k Neighbor Report Response（CVE-2017-11120）" 就是可以远程在 iPhone 7 Wi-Fi 固件中实现代码执行并插入后门的漏洞。这个漏洞也影响 Android，Android 也在本月的补丁中修复了这个漏洞： https://threatpost.com/remote-wi-fi-attack-backdoors-iphone-7/128163/
+[ Industry News ]  Google 表示将在它可控的 45 个顶级域（TLD）强制开启 HSTS： https://threatpost.com/google-to-enforce-hsts-on-tlds-it-operates/128204/
+[ Industry News ]  中国电信全国IDC机房网络安全加固通知：屏蔽部分端口： https://mp.weixin.qq.com/s?__biz=MjM5MzM3NjM4MA==&mid=2654685143&idx=5&sn=ffa22994b18e5f426da585c53cc71e34&chksm=bd5816c48a2f9fd2f6b4c178f3426a897295d1a35ce980ccd1027de9423bf29d42fb88785398&mpshare=1&scene=23&srcid=0928toTH25r5oy4zd94lrEUe#rd
+[ Industry News ]   ICANN 宣布通过加密密钥保护 DNS 的计划要推迟了： https://threatpost.com/icann-postpones-scheduled-dns-crypto-key-rollover/128212/
+[ Industry News ]   经过一年的发展，Windows Store 应用市场上已经出现了多款 Edge 浏览器的扩展： https://blogs.windows.com/msedgedev/2017/09/29/microsoft-edge-extensions-one-year-later/#OEllWl7OVqOlAp6x.97
+[ Industry News ]  美国最高执法机构将高强度加密称为一个"严重的问题"： https://threatpost.com/us-top-law-enforcement-calls-strong-encryption-a-serious-problem/128302/
+[ Industry News ]  微软将推出 iOS 和 Android 版本的 Edge 浏览器： https://blogs.windows.com/windowsexperience/2017/10/05/announcing-microsoft-edge-for-ios-and-android-microsoft-launcher/#ozugADRciU1brA8z.97 https://blogs.windows.com/msedgedev/2017/10/05/microsoft-edge-ios-android-developer/#seOZXozj3eDhH8au.97
+[ Industry News ]  嵌入式版本 Windows XP POSReady 2009 开始支持 TLS 1.1 和 TLS 1.2： https://cloudblogs.microsoft.com/microsoftsecure/2017/10/05/announcing-support-for-tls-1-1-and-tls-1-2-in-xp-posready-2009/
+[ Industry News ]  雅虎承认其30亿用户信息全部被黑： http://www.freebuf.com/news/149894.html
+[ Industry News ]  Netgear 最近修复了包括其下路由器、交换机等产品的 50 个漏洞： https://threatpost.com/netgear-fixes-50-vulnerabilities-in-routers-switches-nas-devices/128230/
+[ Industry News ]  SYSCON 后门利用 FTP 作为 C&C 信道： http://blog.trendmicro.com/trendlabs-security-intelligence/syscon-backdoor-uses-ftp-as-a-cc-channel/
+[ Industry News ]    Google 应用市场中出现了一款假冒的 AdBlock Plus 扩展，3.7 万用户受影响： https://twitter.com/i/web/status/917446126382526464
+[ Industry News ]   存储 NFL 球员和代理人信息的数据库遭黑客攻击并用于勒索赎金： https://threatpost.com/nfl-players-agents-targeted-in-database-extortion-attempt/128320/
+[ Industry News ]   一加手机 OnePlus OxygenOS 被曝收集用户的使用情况信息：   https://www.chrisdcmoore.co.uk/post/oneplus-analytics/
+[ Industry News ]   色情网站已经成为恶意广告攻击活动的集散地：  https://threatpost.com/porn-site-becomes-hub-for-malvertising-campaigns/128353/
+[ Industry News ]  WannaCry 勒索软件在中东和北非被售卖：   http://blog.trendmicro.com/trendlabs-security-intelligence/wannacry-ransomware-middle-eastern-north-african-underground/
+[ Industry News ]   以色列是怎么抓住到处找美国情报局秘密的俄罗斯黑客的：  https://www.nytimes.com/2017/10/10/technology/kaspersky-lab-israel-russia-hacking.html?_r=0
+[ Industry News ]  10 月 17 号将要发布的 Windows 10 Fall Creators 大版本更新中，EdgeHTML 16 将支持 WebVR： https://blogs.windows.com/msedgedev/2017/10/10/bringing-webvr-everyone-windows-10-fall-creators-update/#rr8ceiKaIZcu4bGT.97
+[ Industry News ]  BPC Banking 公司在一直未修复 SmartVista 电子商务软件的 SQL 注入漏洞：  https://threatpost.com/vendor-bpc-banking-silent-on-patching-sql-injection-in-smartvista-ecommerce-software/128386/
+[ Industry News ]  BLU 手机固件被感染，大量用户受到影响：  https://threatpost.com/down-the-rabbit-hole-with-a-blu-phone-infection/128390/
+[ Industry News ]   美国知名征信机构 Equifax 表示周四下午网站没有被攻击，是站点上的第三方合作伙伴的代码嵌入了广告导致了跳转：  https://threatpost.com/equifax-takes-down-compromised-page-redirecting-to-adware-download/128406/
+[ Industry News ]  Hyatt 酒店再次受到信用卡攻击，黑客未授权访问到支付卡信息：  https://www.theregister.co.uk/2017/10/12/hyatt_falls_to_credit_card_skimmers_for_second_time_in_two_years
+[ Industry News ]  Cyber espionage 团伙加强针对日本企业的攻击活动：   https://threatpost.com/cyberespionage-group-steps-up-campaigns-against-japanese-firms/128447/
+[ Industry News ]   qwertyoruiopz 贴出了一张 PS4 5.00 Exploit 的图片： https://twitter.com/qwertyoruiopz/status/919627519539675138
+[ Industry News ]  Adobe 修复了在 Black Oasis APT 行动中使用的 Flash 0day： https://threatpost.com/adobe-patches-flash-zero-day-exploited-by-black-oasis-apt/128467/
+[ Industry News ]   网络安全监控工具 Bro 昨天修复了其 ContentLine 组件的一个越界写漏洞： http://blog.bro.org/2017/10/bro-252-242-release-security-update.html
+[ Industry News ]  Chrome 官方最近从三个方面着手解决 Windows 版 Chrome 用户被 Unwanted Software 影响用户体验的问题： https://www.blog.google/products/chrome/cleaner-safer-web-chrome-cleanup/
+[ Industry News ]  Oracle 在本次的季度重要更新中修补了 250 个漏洞： https://threatpost.com/oracle-patches-250-bugs-in-quarterly-critical-patch-update/128484/
+[ Industry News ]  lenovo 修复了其下 Android tablet、 Vibe 系列及 Zuk 系列手机中的多个漏洞： https://threatpost.com/lenovo-quietly-patches-massive-bug-impacting-its-android-tablets-and-zuk-vibe-phones/128489/
+[ Industry News ]    据前员工透露，微软用于跟踪 Bugs 的内部秘密数据库四年前（2013）被黑了： http://www.reuters.com/article/us-microsoft-cyber-insight/exclusive-microsoft-responded-quietly-after-detecting-secret-database-hack-in-2013-idUSKBN1CM0D0
+[ Industry News ]   台湾商业银行 FEIB 被抢劫事件调查中发现了多个 Lazarus 组织的攻击工具： https://baesystemsai.blogspot.com/2017/10/taiwan-heist-lazarus-tools.html
+[ Industry News ]  Linus Torvalds 表示定向 Fuzzing 正在帮助 Linux 操作系统提升安全性： http://www.zdnet.com/article/linus-torvalds-says-targeted-fuzzing-is-improving-linux-security/
+[ Industry News ]   BoundHook 攻击利用了英特尔 Skylake 处理器的 MPX 功能，该技术可以让攻击者在别的进程中执行代码而不被反病毒软件察觉： https://threatpost.com/boundhook-attack-exploits-intel-skylake-mpx-feature/128517/
+[ Industry News ]   攻击者使用 Magnitude 漏洞利用包对韩国发起 Magniber 勒索软件攻击： http://blog.trendmicro.com/trendlabs-security-intelligence/magnitude-exploit-kit-now-targeting-korea-with-magniber-ransomware/
+[ Industry News ]  Google Chrome 加入杀毒软件功能： http://www.solidot.org/story?sid=54154
+[ Industry News ]   IOTroop 僵尸网络正在快速传播，其影响程度很可能超过 Mirai：  https://threatpost.com/iotroop-botnet-could-dwarf-mirai-in-size-and-devastation-says-researcher/128560/
+[ Industry News ]   最近的 Sofacy 行动将安全研究人员定为攻击目标：  https://threatpost.com/latest-sofacy-campaign-targeting-security-researchers/128576/
+[ Industry News ]   Twitter 上有研究员称 WannaLocker 仍然活跃在国内。而且还贴出了疑似开发者的个人贴吧主页： https://twitter.com/virqdroid/status/922369333300547584
+[ Industry News ]   coinhive.com 域名被劫持 ；coinhive.com 在 DNS 提供商 Cloudflare 的账户被黑，黑客篡改了 DNS Records，所有的 coinhive.min.js 请求都会被重定向到一个第三方的服务器上。攻击者可以偷到用户的 Hash https://coinhive.com/blog/dns-breach
+[ Industry News ]   Saying Goodbye to Firebug，12 年了： https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/
+[ Industry News ]  Recorded Future 通过对比 NVD 和 CNNVD 的漏洞情况，称美国在漏洞报告方面落后中国：《The Dragon Is Winning：Lags Behind Chinese Vulnerability Reporting》： https://go.recordedfuture.com/hubfs/reports/cta-2017-1019.pdf
+[ Industry News ]  微软的调试符号服务器将从 https://msdl.microsoft.com/download/symbols/ 切换到 Azure 云上以便更灵活地适应新的发布周期： https://blogs.msdn.microsoft.com/windbg/2017/10/18/update-on-microsofts-symbol-server/
+[ Industry News ]  Whois 维护者意外地泄漏了 Whois 数据库，数据库中同时存储着用户密码Hash： https://threatpost.com/whois-maintainer-accidentally-makes-password-hashes-available-for-download/128586/
+[ Industry News ]  黑客们利用漏洞开始构建下一个 IOTroop 僵尸网络： https://threatpost.com/hackers-prepping-iotroop-botnet-with-exploits/128608/
+[ Industry News ]  前段时间 NSA 怀疑卡巴斯基与俄罗斯政府合作窃取机密信息。昨天卡巴斯基澄清：是 NSA 的员工装了一个带有后门的微软 Office 破解工具（key-gen），该 key-gen 会窃取 NSA 的武器库(Exploits)，而卡巴斯基只是通过云查杀功能检测到了该 key-gen 并作为病毒上传而已： https://www.theregister.co.uk/2017/10/25/kaspersky_nsa_keygen_backdoor_office
+[ Industry News ]   Slack 企业聊天工具的 SAML 用户认证存在漏洞，允许过期的用户再次获取访问权限： https://threatpost.com/slack-plugs-severe-saml-user-authentication-hole/128655/
+[ Industry News ]   Google Bug Tracker 存在漏洞可越权查看未修复漏洞的报告： https://threatpost.com/flaw-in-google-bug-tracker-exposed-reports-about-unpatched-vulnerabilities/128687 技术分析： https://medium.com/@alex.birsan/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5
+[ Industry News ]  Google reCaptcha 验证服务再次被攻破： https://threatpost.com/googles-recaptcha-cracked-again/128690/
+[ Industry News ]  T-Mobile API 错误导致用户账户信息泄漏：https://www.scmagazine.com/hackers-may-have-exploited-t-mobile-api-to-steal-customer-data/article/703493/
+[ Industry News ]  Apple 在最新 iOS 11.1 中修复了 KRACK 漏洞：  https://threatpost.com/apple-patches-krack-vulnerability-in-ios-11-1/128707/
+[ Industry News ]  CA DigiCert 准备收购赛门铁克的 CA 证书签发业务，Mozilla 对此相关信任问题的声明： https://blog.mozilla.org/security/2017/10/31/statement-digicerts-proposed-purchase-symantec/
+[ Industry News ]   Bug bounty 高级技巧：在挖掘 XSS 漏洞时最好通过网络代理禁用浏览器的自动上报功能： https://twitter.com/albinowax/status/925743148600647680/photo/1
+[ Industry News ]   把一个恶意样本 PE 文件头部的 "This program cannot be run in DOS mode" 中的 "This" 改为 "That"，可以 Bypass 11 款杀软：  https://twitter.com/zerosum0x0/status/925486850399019009/photo/1
+[ Industry News ]  CLDAP反射放大攻击超过SSDP和CharGen成为第三大反射型DDoS攻击： http://blog.netlab.360.com/cldap-is-now-the-3rd-reflection-amplified-ddos-attack-vector-surpassing-ssdp-and-chargen/
+[ Industry News ]  Energetic Bear 组织对土耳其关键基础设施的水坑攻击的深度分析： https://www.riskiq.com/blog/labs/energetic-bear/
+[ Industry News ]    有公司（ShopCity.com ）为了避免 HTTP 登陆页面被 Chrome 浏览器显示 "Not Secure" 标志，竟然弄个假登陆页面： https://threatpost.com/taking-https-denial-to-an-absurd-level/128737/
+[ Industry News ]  漏洞报告的分析（triaging）将成为厂商的瓶颈： https://snyk.io/blog/why-triaging-might-be-going-away/
+[ Industry News ]  银行木马使用 SEO 以实现针对性的感染用户： http://blog.talosintelligence.com/2017/11/zeus-panda-campaign.html
+[ Industry News ]    7 月底，有黑客曾入侵 FireEye 资深研究员电脑，并泄露该研究员的 337MB 的文件。上周四，这名黑客被逮捕了：  http://securityaffairs.co/wordpress/65116/cyber-crime/leaktheanalyst-arrest.html
+[ Industry News ]   西门子更新修复了 SIMATIC PCS 7 的漏洞：  https://threatpost.com/siemens-update-patches-simatic-pcs-7-bug-in-some-versions/128753/ via @threatpost
+[ Industry News ]   GooglePlay 应用市场上一款假 WhatsAPP 下载量达到了 100 万，而这款假 WhatsAPP 的作者与真实作者只差一个 Unicode 空格： https://twitter.com/virqdroid/status/926437790140772362 https://www.reddit.com/r/Android/comments/7ahujw/psa_two_different_developers_under_the_same_name/
+[ Industry News ]  记一次网络诈骗追踪过程： http://www.freebuf.com/articles/others-articles/153079.html
+[ Industry News ]  现在漏洞发现者都希望给漏洞命名。这篇 Blog 作者介绍了 6 个之前没有名字的内核漏洞，影响 Android 和一些路由器设备，作者表示："Please Stop Naming Vulnerabilities"（CVE-2017-11013/CVE-2017-9714/CVE-2017-11014/CVE-2017-11015/）： https://pleasestopnamingvulnerabilities.com/
+[ Industry News ]  Kotlin/Native 开始支持 iOS 了，实现了 Android/iOS 的跨平台： https://blog.kotlin-academy.com/multiplatform-native-development-in-kotlin-now-with-ios-a8546f436eec https://blog.kotliner.cn/2017/04/15/Kotlin%20Native%20%E8%AF%A6%E7%BB%86%E4%BD%93%E9%AA%8C%EF%BC%8C%E4%BD%A0%E6%83%B3%E8%A6%81%E7%9A%84%E9%83%BD%E5%9C%A8%E8%BF%99%E5%84%BF/
+[ Industry News ]  Cisco 修复了其IOE XE 软件 BGP over Ethernet VPN 实现中的拒绝服务漏洞： https://threatpost.com/cisco-patches-dos-flaw-in-bgp-over-ethernet-vpn-implementation/128780/
+[ Industry News ]   US-CERT 提醒大家要警惕 IEEE P1735 最近修复的几个加密漏洞：  https://threatpost.com/us-cert-warns-of-crypto-bugs-in-ieee-standard/128784/
+[ Industry News ]   以太区块链平台（Ethereum ）的 Bug 造成 2.8 亿美金被冻结：  https://blog.comae.io/the-280m-ethereums-bug-f28e5de43513
+[ Industry News ]   Sowbug 网络间谍团伙现将目标锁定南美和东南亚政府： https://www.symantec.com/connect/blogs/sowbug-cyber-espionage-group-targets-south-american-and-southeast-asian-governments?om_ext_cid=biz_social_NAM_twitter_Asset%20Type%20%20-%20Blog,Campaign%20-%20Sowbug
+[ Industry News ]  谷歌修复了安卓中的 KRACK 漏洞： https://threatpost.com/google-patches-krack-vulnerability-in-android/128818/
+[ Industry News ]  MantisTek GK2键盘内置键盘记录器，数据被传到中国： http://www.freebuf.com/news/153398.html
+[ Industry News ]   维基解密新公开了一个项目 - Vault 8，这个是对已公开 CIA 项目 Vault 7 中涉及到的攻击软件的分析： https://wikileaks.org/vault8/
+[ Industry News ]  美国国土安全部承认曾远程 hack 了一架波音 757：https://www.csoonline.com/article/3236721/security/homeland-security-team-remotely-hacked-a-boeing-757.html
+[ Industry News ]  Adobe 修复了 Flash Player、Reader 和 Acrobat 等软件中共 56 个漏洞： https://threatpost.com/adobe-patches-flash-player-56-bugs-in-reader-and-acrobat/128876/
+[ Industry News ]    GitHub 社区对已经启用依赖图谱（Dependency Graph）功能的用户会推送已知漏洞预警： https://github.com/blog/2470-introducing-security-alerts-on-github
+[ Industry News ]  . IBM、PCH、GCA 联合发布 Quad9 带隐私和安全防护黑名单的免费 DNS 服务（9.9.9.9 ）： https://www.globalcyberalliance.org/ibm-packet-clearing-house-global-cyber-alliance-collaborate-protect-businesses-consumers-internet-threats.html
+[ Industry News ]   Mozilla 向 CA 组织发送了一封关于 Mozilla Root Store Policy 的交流请愿： https://blog.mozilla.org/security/2017/11/16/november-2017-ca-communication/
+[ Industry News ]  快消时尚品牌 FOREVER 21 顾客支付卡信息恐遭泄漏： https://www.prnewswire.com/news-releases/notice-of-payment-card-security-incident-300555878.html
+[ Industry News ]  Why I walked away from $30,000 of DJI bounty money ： http://www.digitalmunition.com/WhyIWalkedFrom3k.pdf
+[ Industry News ]  亚马逊Amazon Key服务遭破解 小偷任意进出房间： http://www.cnbeta.com/articles/tech/671083.htm
+[ Industry News ]  黑客利用 McAfee 站点的跳转漏洞伪装成 McAfee 官方发送钓鱼邮件： http://www.zdnet.com/article/mcafees-own-anti-hacking-service-exposed-users-to-banking-malware/
+[ Industry News ]    Intel 将于 2020 年结束对古老 BIOS 的支持：  http://www.uefi.org/sites/default/files/resources/Brian_Richardson_Intel_Final.pdf
+[ Industry News ]  德国联邦网络管理局宣布将禁止儿童GPS追踪设备：https://www.pentestpartners.com/security-blog/destroy-kids-gps-watches-says-german-federal-network-agency/
+[ Industry News ]   Cobalt 团伙再次来袭：利用宏和 CVE -2017-8759 制作恶意文档结合钓鱼手段攻击俄罗斯银行： http://blog.trendmicro.com/trendlabs-security-intelligence/cobalt-spam-runs-use-macros-cve-2017-8759-exploit/
+[ Industry News ]  Lazarus 犯罪团伙开始瞄准移动平台： https://securingtomorrow.mcafee.com/mcafee-labs/lazarus-cybercrime-group-moves-to-mobile/
+[ Industry News ]  OpenRASP v0.20 发布 | 性能提升与零规则漏洞检测： https://mp.weixin.qq.com/s/50AFAVp8dSwuc1ACY5kRKw
+[ Industry News ]  英特尔修复了影响数百万台个人电脑和服务器的 CPU 漏洞： https://threatpost.com/intel-patches-cpu-bugs-impacting-millions-of-pcs-servers/128962/
+[ Industry News ]  据报道，Uber 支付给黑客 10 万美元'封口费'，用来掩盖 5700 万用户数据被泄露的秘密：  https://motherboard.vice.com/en_us/article/ne3pqm/uber-data-breach-57-million-customers
+[ Industry News ]  当禁用位置服务时，Google 依然在收集Android 用户信息：https://qz.com/1131515/google-collects-android-users-locations-even-when-location-services-are-disabled/
+[ Industry News ]  据作者统计 433,000 个站点中有 77％ 使用了存在已知安全漏洞的 JavaScript 库：https://snyk.io/blog/77-percent-of-sites-still-vulnerable/
+[ Industry News ]  Newly Discovered attack Technique Forges Authentication to cloud APPS： https://www.cyberark.com/threat-research-blog/golden-saml-newly-discovered-attack-technique-forges-authentication-cloud-apps/
+[ Industry News ]  加拿大商业银行客户遭受针对性的钓鱼邮件攻击： https://securityintelligence.com/canadian-business-banking-customers-hit-with-targeted-phishing-account-takeover-attacks/
+[ Industry News ]  Firefox开测新功能：可警示某网站是否遭遇黑客攻击和数据泄露: http://www.cnbeta.com/articles/soft/673395.htm
+[ Industry News ]   CyberArk Labs 研究员称利用一种称为 Golden SAML 的技术可以伪造企业内部任意用户访问云上的资源：  https://threatpost.com/saml-post-intrusion-attack-mirrors-golden-ticket/128993/  https://www.cyberark.com/threat-research-blog/golden-saml-newly-discovered-attack-technique-forges-authentication-cloud-apps/
+[ Industry News ]   LLVM 编译器将要支持 Intel 的 Control-Flow Enforcement Technology - Shadow Stack：  https://reviews.llvm.org/rL318996
+[ Industry News ]  火绒安全警报：“Win10之家”首页被植入病毒 与多家知名网站互为友链： https://mp.weixin.qq.com/s/vJsd3F1nn5HMCByuTCMzFw
+[ Industry News ]  那位泄露了 NSA Hacking Tools 的人究竟是谁？： https://krebsonsecurity.com/2017/11/who-was-the-nsa-contractor-arrested-for-leaking-the-shadow-brokers-hacking-tools/
+[ Industry News ]  报道称，HP 在个人电脑上偷偷预装间谍软件: https://www.engadget.com/2017/11/28/hp-quietly-installs-system-slowing-spyware-on-its-pcs/
+[ Industry News ]  报道称HP在个人电脑上偷偷安装间谍软件: https://www.engadget.com/2017/11/28/hp-quietly-installs-system-slowing-spyware-on-its-pcs/
+[ Industry News ]  CISCO 修补了 WebEx players 中的多个严重漏洞： https://threatpost.com/cisco-patches-critical-playback-bugs-in-webex-players/129057/
+[ Industry News ]   Pastebin 网站有人贴出了 100 多个比特币地址，这些地址的私钥是其他一些公开地址的 Sha256：  https://twitter.com/i/web/status/936223487986946048
+[ Industry News ]  “2345联盟”通过流氓软件推挖矿工具 用户电脑沦为肉鸡： https://mp.weixin.qq.com/s/MZlXjw-shFNO0yWh1sozlA
+[ Industry News ]  Android 上的 Keybase 应用存在 bug，可能致使用户的私钥自动备份到 google 的服务器上： https://www.bleepingcomputer.com/news/security/keybase-bug-might-have-backed-up-your-private-encryption-key-on-googles-servers/
+[ Industry News ]  个性化虚拟键盘开发者泄露了 3100 万个客户端注册文件： https://mackeepersecurity.com/post/virtual-keyboard-developer-leaked-31-million-of-client-records
+[ Industry News ]  惠普和华硕发布第一款 Windows 10 ARM PC： http://arstechnica.com/gadgets/2017/12/hp-asus-announce-first-windows-10-arm-pcs-20-hour-battery-life-gigabit-lte/
+[ Industry News ]  Steam 游戏平台的安装目录 %APPDATA%\Steam， BUILTIN\Users 用户组具有完全控制权限 ： https://twitter.com/taviso/status/938210266520489984
+[ Industry News ]  在约 5500 个被感染的 WordPress 站点上发现后台登录页存在键盘记录： https://www.bleepingcomputer.com/news/security/keylogger-found-on-nearly-5-500-infected-wordpress-sites/
+[ Industry News ]  NiceHash 被入侵，6600 万美元比特币失窃: http://www.solidot.org/story?sid=54767
+[ Industry News ]  Google 研究员称安全社区一直在呼吁 Google 能够发布一个 iPhone 越狱 Exploit： https://motherboard.vice.com/en_us/article/d3xpyz/google-iphone-ios-jailbreak
+[ Industry News ]  诸多银行 APP 存在中间人攻击漏洞： https://threatpost.com/banking-apps-found-vulnerable-to-mitm-attacks/129105/
+[ Industry News ]   惠普笔记本的 SynTP.sys 驱动被发现内置 keylogger 功能，默认关闭，但是可以通过注册表键启用： https://zwclose.github.io/HP-keylogger/
+[ Industry News ]  OilRig Performs Tests on the TwoFace Webshell： https://researchcenter.paloaltonetworks.com/2017/12/unit42-oilrig-performs-tests-twoface-webshell/
+[ Industry News ]  Cobalt Strike 3.10 发布，Beacon Payload 开始支持 Unicode： https://blog.cobaltstrike.com/2017/12/11/cobalt-strike-3-10-%D1%85%D0%B0%D0%BA%D0%B5%D1%80-vs-%E8%82%89%E9%9B%9E/
+[ Industry News ]  网友发现星巴克Wi-Fi藏挖矿代码： http://www.cnbeta.com/articles/tech/679679.htm
+[ Industry News ]  Mirai botnet 的三位攻击者近日认罪： http://www.zdnet.com/article/justice-dept-indicts-mirai-botnet-attackers/
+[ Industry News ]  Synaptics 宣称 HP 笔记本中存在 Keylogger 的报道是错误的，只是软件被误认为 Keylogger ： https://threatpost.com/synaptics-says-claims-of-a-keylogger-in-hp-laptops-are-false/129175/
+[ Industry News ]  12 月 13 日的凌晨 04:43（UTC），BGPmon 监控到 Global BGP 路由表中将多个主流网站的流量引向了俄罗斯的一家 ISP 运营商，一共持续了 6 分钟，研究员称这可能是某种攻击的前兆： https://blog.vectra.ai/blog/bgp-hijackers-this-traffic-is-going-to-russia
+[ Industry News ]  Zealot 活动利用 NSA exploits 向 Windows 和 Linux 服务器植入 Monero 挖矿程序： http://securityaffairs.co/wordpress/66829/cyber-crime/zealot-campaign-nsa-exploits.html
+[ Industry News ]  安全人员发现上千台 Lexmark 打印机存在错误配置问题： https://threatpost.com/user-gross-negligence-leaves-hundreds-of-lexmark-printers-open-to-attack/129187/
+[ Industry News ]  微软宣布 Windows Insider 版中的 Edge 浏览器 将默认启用 Service Workers ： https://blogs.windows.com/msedgedev/2017/12/19/service-workers-going-beyond-page/#7EbThle0TrsYvSJ1.97
+[ Industry News ]  美国政府称朝鲜是 WannaCry 事件的幕后主使：https://techcrunch.com/2017/12/18/us-government-north-korea-wannacry/
+[ Industry News ]  Nissan Canada Finance 110万用户数据泄漏事件披露：  https://threatpost.com/nissan-canada-finance-notifies-1-1-million-of-data-breach/129233/
+[ Industry News ]  研究人员发现华为路由器漏洞被用于传播 Mirai 变种： https://threatpost.com/huawei-router-vulnerability-used-to-spread-mirai-variant/129238/
+[ Industry News ]  Mozilla 修补了 Thunderbird email 客户端中的严重漏洞：  https://threatpost.com/mozilla-patches-critical-bug-in-thunderbird/129244/
+[ Industry News ]   昨天推送了一篇《金山杀软 kavfm.sys/KWatch3.sys 驱动在处理 IOCTL 0x80030004 时存在本地提权漏洞》，经过金金山毒霸官方确认，文章中涉及的漏洞所在毒霸版本比较旧，而国内用户当前使用的金山毒霸11并不存在该问题： https://weibo.com/1642668915/FBHXVs1uD?type=comment
+[ Industry News ]   安全人员发出警告称被用来攻击 Huawei 路由器的 Mirai 恶意软件变种 Satori ，或将被用于更大规模的攻击： https://threatpost.com/code-used-in-zero-day-huawei-router-attack-made-public/129260/
+[ Industry News ]  Metasploit 将支持使用 Python 编写模块： https://blog.rapid7.com/2017/12/28/regifting-python-in-metasploit/
+[ Industry News ]   由于 AMD 处理器不允许 Memory References，所以新加入的 Page Table Isolation 保护机制默认在 AMD 处理器上被禁用了：  https://lkml.org/lkml/2017/12/27/2
+[ Industry News ]   PoC||GTFO 杂志第 0x17 期发布了：  https://www.alchemistowl.org/pocorgtfo/
+[ Industry News ]  phpMyAdmin 被爆存在 CSRF 漏洞，可允许攻击者‘帮’你删表删数据： http://securityaffairs.co/wordpress/67243/hacking/phpmyadmin-csrf-vulnerability.html
+[ Industry News ]  Inter 处理器芯片设计缺陷迫使 Windows 和 Linux 重新设计内核以解决此芯片级安全问题： https://www.theregister.co.uk/2018/01/02/intel_cpu_design_flaw/
+[ Industry News ]  PowerShell Core 6.0 发布： https://blogs.msdn.microsoft.com/powershell/2018/01/10/powershell-core-6-0-generally-available-ga-and-supported/
+[ Industry News ]  Node 9.4.0 发布：   https://nodejs.org/en/blog/release/v9.4.0/
+[ Industry News ]  微软企业安全团队首席安全经理接受 DarkReading 采访表示，2017 年的主要威胁是勒索软件和定向攻击，预计 2018 年的主要威胁是供应链和加密货币攻击： https://www.darkreading.com/endpoint/microsoft-how-the-threat-landscape-will-shift-this-year/d/d-id/1330782
+[ Industry News ]  一加手机终于承认错误！约4 万名用户信用卡信息受影响： http://www.4hou.com/info/news/10044.html
+[ Industry News ]  近日俄罗斯联邦安全局查获几家加油站员工利用问题软件篡改加油量，让顾客多买单： https://threatpost.com/hacker-infects-gas-pumps-with-code-to-cheat-customers/129599/
+[ Industry News ]  谷歌宣布将在2018年10月1日正式关闭Google Safe Browsing API 的 v2/v3 版本，呼予开发者使用最新的 v4 版本： https://security.googleblog.com/2018/01/announcing-turndown-of-deprecated.html
+[ Industry News ]  暴雪游戏存在严重远程控制漏洞，数亿用户受影响： http://www.4hou.com/info/news/10096.html
+[ Industry News ]  谷歌新成立Chronicle公司 专注网络安全： https://mp.weixin.qq.com/s/it4FqfZfYUEFX0VDKijksg
+[ Industry News ]  橘皮秒破手机指纹锁 工信部、质检总局介入调查： https://view.inews.qq.com/a/TEC2018012502331700
+[ Industry News ]  联想承认Fingerprint Manager存在漏洞 推荐尽快升级: http://www.cnbeta.com/articles/soft/693451.htm
+[ Industry News ]    利用恶意种子生成网站 iotaseed.io 从 IOTA 加密货币网站偷 400 万美金： https://thatoddmailbox.github.io/2018/01/28/iotaseed.html
+[ Industry News ]  "百度外卖"系统遭入侵，账户被篡改4900余万元: http://www.cnbeta.com/articles/tech/694133.htm
+[ Industry News ]  运动应用Strava公开十亿用户位置热力图，意外泄漏秘密军事基地的信息: http://www.freebuf.com/news/161499.html
+[ Industry News ]  利用 Meltdown 与 Specter 漏洞的恶意软件已出现： https://thehackernews.com/2018/02/meltdown-spectre-malware-hacking.html
+[ Industry News ]  据一位以色列安全人员介绍，大部分 WordPress 网站可能受 CVE-2018-6389 DOS 漏洞影响而宕机： http://securityaffairs.co/wordpress/68709/hacking/cve-2018-6389-wordpress-dos-flaw.html
+[ Industry News ]  Cisco, Apple, Aon 及 Allianz 联手推出面向企业的网络风险管理解决方案 ： https://www.apple.com/newsroom/2018/02/cisco-apple-aon-allianz-introduce-a-first-in-cyber-risk-management/
+[ Industry News ]   美国运营商 T-Mobile 短信提醒用户警惕 "SIM hijacking" 攻击（补卡攻击）： https://motherboard.vice.com/en_us/article/gy8bxy/t-mobile-text-warning-phone-hijacking-number-port-out-scam
+[ Industry News ]   虚假 Adobe Flash 更新站点推送 CPU 挖矿恶意软件： https://www.bleepingcomputer.com/news/security/fake-adobe-flash-update-sites-pushing-cpu-miners/
+[ Industry News ]  TrendLabs 发布通过基于语境信息和信誉度评分的新型威胁检测系统： https://blog.trendmicro.com/trendlabs-security-intelligence/xgen-detection-new-threats/
+[ Industry News ]   Apache HTTPD 在源码中增加对 HonggFuzz 的支持： https://github.com/apache/httpd/commit/3bf3cbb9d4a8e142774d25cbad5cee5181fbbed4
+[ Industry News ]  研究人员发现多款 Netgear 路由器存在远程认证绕过漏洞： http://securityaffairs.co/wordpress/68883/hacking/netgear-router-flaws.html
+[ Industry News ]  联想警告其顾客数十种 ThinkPad 产品存在严重的 WiFi 漏洞： https://threatpost.com/lenovo-warns-critical-wifi-vulnerability-impacts-dozens-of-thinkpad-models/129860/
+[ Industry News ]   Dell EMC 修补了 VMAX 企业存储系统中的两个严重漏洞： https://threatpost.com/dell-emc-patches-critical-flaws-in-vmax-enterprise-storage-systems/129952/
+[ Industry News ]   Proofpoint 研究员发现 Turla APT 团伙对其 KopiLuwak JavaScript 后门改进后用于以 G20 为主题的鱼叉式攻击： https://www.proofpoint.com/us/threat-insight/post/turla-apt-actor-refreshes-kopiluwak-javascript-backdoor-use-g20-themed-attack
+[ Industry News ]   加密货币的挖矿团队开始考虑攻击不安全部署的 Docker 容器挖矿： https://blog.aquasec.com/cryptocurrency-miners-abusing-containers-anatomy-of-an-attempted-attack
+[ Industry News ]  Github 宣布移除匿名用户创建 gist 的功能： https://github.com/blog/2503-deprecation-notice-removing-anonymous-gist-creation
+[ Industry News ]  据 Imperva 调查发现，多达90%的远程代码执行漏洞被利用于加密货币挖矿： https://www.imperva.com/blog/2018/02/new-research-crypto-mining-drives-almost-90-remote-code-execution-attacks/
+[ Industry News ]   Avast 发现有攻击者诱骗 Facebook 用户点击链接下载伪装成 Kik Messenger 的间谍软件：  https://blog.avast.com/avast-tracks-down-tempting-cedar-spyware
+[ Industry News ]  一波针对财富 500 强公司的垃圾邮件袭来: https://threatpost.com/new-bec-spam-campaign-target-fortune-500-businesses/130012/
+[ Industry News ]   洛杉矶时报网站被嵌入门罗币挖矿脚本: https://threatpost.com/cryptojacking-attack-found-on-los-angeles-times-website/130041/
+[ Industry News ]  Drupal 修复两个严重漏洞，一个评论越权访问，一个 XSS： http://blog.talosintelligence.com/2018/02/vulnerability-spotlight-adobe-acrobat.html
+[ Industry News ]  Flash 漏洞 CVE-2018-4878 被发现在野利用： https://blog.morphisec.com/flash-exploit-cve-2018-4878-spotted-in-the-wild-massive-malspam-campaign
+[ Industry News ]  苹果承认其使用了谷歌云存储 iCloud 数据： https://www.cnbc.com/2018/02/26/apple-confirms-it-uses-google-cloud-for-icloud.html
+[ Industry News ]  为美国政府提供解锁服务的 Cellebrite 公司宣称其能解锁运行 iOS 11 的 iphone 设备： https://www.forbes.com/sites/thomasbrewster/2018/02/26/government-can-access-any-apple-iphone-cellebrite/#5aa1d77e667a
+[ Industry News ]  NET Core 2.1 Preview 1 发布： https://blogs.msdn.microsoft.com/dotnet/2018/02/27/announcing-net-core-2-1-preview-1/
+[ Industry News ]  错误配置的 memcached 服务器正被不法分子滥用于 DDoS 攻击 ： https://threatpost.com/misconfigured-memcached-servers-abused-to-amplify-ddos-attacks/130150/
+[ Industry News ]  德国政府网络遭入侵，疑 Fancy Bear 所为： http://www.dailymail.co.uk/news/article-5446587/Germany-says-government-computers-secure-isolated-hack.html
+[ Industry News ]  GitHub 遭受来自基于 memcached 发起的 DDOS 攻击，峰值流量达 1.35Tbps： http://www.zdnet.com/article/github-was-hit-with-the-largest-ddos-attack-ever-seen/
+[ Industry News ]  研究人员通过对大约一百万个以太坊智能合约扫描，发现有 34200 个存在问题： https://www.bleepingcomputer.com/news/cryptocurrency/researchers-find-34-200-vulnerable-ethereum-smart-contracts/
+[ Industry News ]   Windows 版本的 Chrome 64 开始启用 clang 编译器编译： http://blog.llvm.org/2018/03/clang-is-now-used-to-build-chrome-for.html
+[ Industry News ]    Windows 应用市场上出现了 UWP 应用形式的 Kali Linux： https://twitter.com/TinkerSec/status/970774059452633093/photo/1https://blogs.msdn.microsoft.com/commandline/2018/03/05/kali-linux-for-wsl/
+[ Industry News ]   惠普的多功能打印机仍然在使用将要被废弃的 SMBv1 协议： https://blog.rootshell.be/2018/03/06/smbv1-phoenix-protocols/
+[ Industry News ]   VirusTotal 的 macOS 沙盒分析环境升级到了 OSX 10.11 El Capitan，且功能有所增强： http://blog.virustotal.com/2018/03/additional-crispiness-on-macos-box-of.html
+[ Industry News ]  Shadow Brokers 泄露的文件表明 NSA 一直在跟踪其他国家的 APT 组织： https://theintercept.com/2018/03/06/leaked-files-show-how-nsa-tracks-other-countries-hackers/
+[ Industry News ]  以色列两个独立研究员发现可借助 Cortana 语音命令绕过 Windows 锁屏，安装恶意软件： https://motherboard.vice.com/en_us/article/xw53jk/researchers-bypassed-windows-password-locks-with-cortana-voice-commands
+[ Industry News ]  Google Chrome 将不再信任赛门铁克签发的旧版SSL证书，网站运营者需要及时更新证书： http://security.googleblog.com/2018/03/distrust-of-symantec-pki-immediate.html
+[ Industry News ]  细思极恐！苹果技术顾问私自窃取用户信息并恐吓威胁： http://www.freebuf.com/articles/terminal/164447.html
+[ Industry News ]   ProtonMail 发布 OpenPGPjs v3.0： https://protonmail.com/blog/openpgpjs-3-release/
+[ Industry News ]  Apache SOLR 服务器成为加密货币矿工攻击的新目标： https://isc.sans.edu/diary/23425
+[ Industry News ]   Let's Encrypt 宣布 ACME v2 和通配证书（wildcard）支持现已上线： https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579
+[ Industry News ]  有研究人员发现多款流行 Andriod 手机上预装了恶意软件： https://thehackernews.com/2018/03/android-botnet-malware.html
+[ Industry News ]  据外媒报告，Cambridge Analytica 公司通过 facebook 收集了 5000万个人信息，为特朗普竞选信息的精准投放所用： https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html
+[ Industry News ]  gRPC 开始支持 NGINX： https://www.nginx.com/blog/nginx-1-13-10-grpc/
+[ Industry News ]  Drupal 宣布将在 3 月 28 日发布高危漏洞补丁： https://www.drupal.org/psa-2018-001
+[ Industry News ]  据 Symantec 威胁报告统计，2017年供应链攻击突升了 200%： https://www.darkreading.com/attacks-breaches/supply-chain-cyberattacks-surged-200--in-2017/d/d-id/1331337
+[ Industry News ]  攻击金融机构的 Carbanak 犯罪团伙背后一名疑似主谋的人员被捕，该团伙袭击了100多家金融机构获利超10亿美元： https://threatpost.com/alleged-mastermind-behind-carbanak-crime-gang-arrested/130831/
+[ Industry News ]  VPN Leak，商业 VPN 安全问题统计 - 作者发现在 70 个 VPN 提供商中有 23 个存在 WebRTC 泄漏 IP： https://voidsec.com/vpn-leak/
+[ Industry News ]  测试放行端口或协议的网站 LetMeOutOfYour.Net 回归：  https://twitter.com/mubix/status/977617545711767552
+[ Industry News ]  CloudFlare 宣布在 1.1.1.1 上提供最优的 DNS 解析服务： https://blog.cloudflare.com/announcing-1111/
+[ Industry News ]  苹果正开发Mac定制芯片 2020年抛弃英特尔: https://www.feng.com/iPhone/news/2018-04-03/_696772.shtml
+[ Industry News ]  据报道，拥有 360 万日活的同性交友应用 Grindr '分享'用户地理位置及用户 HIV 信息给第三方公司： https://www.buzzfeed.com/azeenghorayshi/grindr-hiv-status-privacy?utm_term=.is0VR6xB8#.hqQ93MOEp
+[ Industry News ]  Cisco 发布基础设施风险提示：高级攻击者将目标转向 Cisco Smart Install Client： http://blog.talosintelligence.com/2018/04/critical-infrastructure-at-risk.html
+[ Industry News ]   Mirai 变种将目标锁定金融部门： https://threatpost.com/mirai-variant-targets-financial-sector-with-iot-ddos-attacks/131056/
+[ Industry News ]  根据微码更新显示，Intel 停止了对其一系列较老芯片的 Spectre 及 Meltdown 漏洞补丁： https://threatpost.com/intel-halts-spectre-fixes-on-older-chips-citing-limited-ecosystem-support/130965/
+[ Industry News ]   Intel Remote Keyboard 存在高危漏洞，允许攻击者注入击键指令，Intel 官方建议用户将其卸载： https://threatpost.com/intel-tells-remote-keyboard-users-to-delete-app-after-critical-bug-found/130974/
+[ Industry News ]  Facebook 推出 Data Abuse Bounty ，奖金最高达 4 万美金： https://newsroom.fb.com/news/2018/04/data-abuse-bounty/
+[ Industry News ]  NCSC UK 发布新的网络攻击分类系统以提高对事件的反应速度: https://www.ncsc.gov.uk/news/new-cyber-attack-categorisation-system-improve-uk-response-incidents
+[ Industry News ]  以色列白帽子通过调节风扇速度而建立一条数据泄露的音频通道: https://www.theregister.co.uk/2016/06/24/israeli_researcher_fans_fears_heres_another_way_to_cross_the_airgap/
+[ Industry News ]  专家发现一个由超过 65000 个通过 UPnP 协议暴露的路由器组成的代理僵尸网络： https://securityaffairs.co/wordpress/71338/breaking-news/proxy-botnet-upnp.html
+[ Industry News ]  黑客通过赌场大厅鱼缸内的温度计偷到了在赌场中豪赌人的信息：  http://www.businessinsider.de/hackers-stole-a-casinos-database-through-a-thermometer-in-the-lobby-fish-tank-2018-4
+[ Industry News ]  攻击者大规模利用 Drupalgeddon 2 漏洞以挖矿获利： https://www.volexity.com/blog/2018/04/16/drupalgeddon-2-profiting-from-mass-exploitation/
+[ Industry News ]  Intel SPI 闪存漏洞使得攻击者可以改变或删除 BIOS / UEFI 固件： https://www.bleepingcomputer.com/news/security/intel-spi-flash-flaw-lets-attackers-alter-or-delete-bios-uefi-firmware/
+[ Industry News ]  BigID斩获RSAC2018创新沙盒冠军： https://www.secrss.com/articles/2055
+[ Industry News ]  英特尔允许反病毒引擎使用集成GPU进行恶意软件扫描： https://www.bleepingcomputer.com/news/security/intel-to-allow-antivirus-engines-to-use-integrated-gpus-for-malware-scanning/
+[ Industry News ]  微软为其新的 IoT 服务自行定制了 Linux 内核： https://techcrunch.com/2018/04/16/microsoft-built-its-own-custom-linux-kernel-for-its-new-iot-service/
+[ Industry News ]  研究人员发现超过 2000 万用户从 Chrome 商店安装了恶意 Ad Blockers： https://thehackernews.com/2018/04/adblocker-chrome-extention.html
+[ Industry News ]  Zerodium 将收 MS Outlook RCE 0day 的价格提升至 20 万美元，前提是在 5 月 31 日前提交： https://twitter.com/i/web/status/987353930853072896
+[ Industry News ]  Microsoft 公布 Q3 季度 Top 5 赏金猎人名单： https://blogs.technet.microsoft.com/msrc/2018/04/20/recognizing-q3-top-5-bounty-hunters/
+[ Industry News ]  Drupal 将于本月25号发布 CVE-2018-7602/SA-CORE-2018-004 的安全补丁: https://www.drupal.org/psa-2018-003
+[ Industry News ]  Ubuntu 18.04 LTS正式发布: http://www.sohu.com/a/229627675_114760
+[ Industry News ]   QEMU 2.12.0 发布，QEMU 第一个包含 RISC-V port 的官方版本： https://www.sifive.com/blog/2018/04/25/risc-v-qemu-part-2-the-risc-v-qemu-port-is-upstream/
+[ Industry News ]   微软发布适用于 Linux，macOS和Windows的C++库管理器 Vcpkg : https://blogs.msdn.microsoft.com/vcblog/2018/04/24/announcing-a-single-c-library-manager-for-linux-macos-and-windows-vcpkg/
+[ Industry News ]  黑客盯上了茅台的防伪电子标签 伪造数量达几十万枚： https://www.cnbeta.com/articles/tech/720943.htm
+[ Industry News ]  NIST（美国国家标准技术研究所） 升级网络安全框架以应对供应链威胁  : https://threatpost.com/nist-updates-cybersecurity-framework-to-tackle-supply-chain-threats-vulnerability-disclosure-and-more/131534/
+[ Industry News ]  GitHub 宣布其 Pages 服务对自定义域名提供 HTTPS 支持： https://blog.github.com/2018-05-01-github-pages-custom-domains-https/
+[ Industry News ]  施耐德电气修复其工控相关产品中远程代码执行漏洞： https://threatpost.com/schneider-electric-patches-critical-rce-vulnerability/131610/
+[ Industry News ]  Twitter 表示因系统故障导致帐户密码以纯文本形式存储在内部日志中，目前并未发现任何滥用迹象，不过建议用户及时修改密码： https://blog.twitter.com/official/en_us/topics/company/2018/keeping-your-account-secure.html
+[ Industry News ]  GLitch-利用JS脚本攻击GPU实现远程控制 Android 手机： https://arstechnica.com/information-technology/2018/05/drive-by-rowhammer-attack-uses-gpu-to-compromise-an-android-phone/https://www.vusec.net/projects/glitch/
+[ Industry News ]  Google 宣布其高级防护项目（Advanced Protection Program）正式支持 iOS 用户： https://blog.google/topics/safety-security/improving-advanced-protection-program-ios-users/
+[ Industry News ]  研究者又发现8个CPU新漏洞 英特尔、ARM等芯片受影响： https://www.cnbeta.com/articles/tech/722805.htm

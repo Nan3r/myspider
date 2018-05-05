@@ -1,0 +1,22 @@
+[ Device ]  UPC Router WPA2 pass recovery tool : http://haxx.in/upc_keys.c
+﻿"UPC 路由器 WPA2 密码恢复工具， .c 文件下载: https://t.co/Bz9W3O4vNu"
+[ Device ]  EZCast dongle wifi key can be guessed and RCE vulns used to compromise device remotely. No vendor response. https://blog.checkpoint.com/wp-content/uploads/2015/12/EZCast_Report_Check_Point.pdf #IoT
+﻿"EZCast 同屏器远程代码执行漏洞： https://t.co/Z6a0bsq3wV"
+[ Device ]  [RT-SA-2015-001] AVM FRITZ!Box: Remote Code Execution via Buffer Overflow http://goo.gl/fb/DxK8ik #FullDisclosure
+﻿"AVM FRITZ!Box 路由器缓冲区溢出漏洞(附 RCE PoC): https://t.co/JeybjWEFSM "
+[ Device ]  [RT-SA-2014-014] AVM FRITZ!Box: Arbitrary Code Execution Through Manipulated… http://goo.gl/fb/GUOQvK #FullDisclosure
+﻿"AVM FRITZ!Box 路由器的固件升级过程存在漏洞，通过篡改固件可以实现任意代码执行 https://t.co/nqmHOjFhsS "
+[ Device ]  New post: Android-based Smart TVs Hit By Backdoor Spread Via Malicious App http://bit.ly/1TGFqyQ @ TrendMicro
+﻿"基于 Android 的智能电视遭到后门应用攻击 https://t.co/2cU4KbC3x9"
+[ Device ]  Turning a webcam into a backdoor http://blog.vectranetworks.com/blog/turning-a-webcam-into-a-backdoor via @ revskills
+﻿"给 D-Link WiFi 摄像头装一个后门： https://t.co/ehLEMOwoLI "
+[ Device ]  SSH Backdoor for FortiGate OS Version 4.x up to 5.0.7 http://seclists.org/fulldisclosure/2016/Jan/26
+﻿"FortiGate 系统 4.0~5.0.7 版本存在 SSH 后门， PoC： https://t.co/5OjXynsHDJ  来自 Security ToolKit 的《飞塔 SSH 后门 4900 台机器样本测试报告》： http://tools.pwn.ren/2016/01/12/%E9%9A%8F%E6%9C%BA4900%E5%8F%B0%E6%9C%BA%E5%99%A8%E6%A0%B7%E6%9C%AC%E6%B5%8B%E8%AF%95%E6%8A%A5%E5%91%8A.html  《飞塔SSH后门 进一步利用方法》： http://tools.pwn.ren/2016/01/12/ssh-backdoor-for-fortigate-os-version-4-x-up-to-5-0-7%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%88%A9%E7%94%A8-html.html  来自 Sebug 的后门在线检测： https://www.sebug.net/monster/?vul_id=90378  ZoomEye 对飞塔设备的扫描结果： https://www.zoomeye.org/search?q=FortiGate "
+[ Device ]  Some vulns affecting Samsung "Security" cameras(hint: trivial arbitrary file read with clear-text pwds) cc @ joystick http://blog.emaze.net/2016/01/multiple-vulnerabilities-samsung-srn.html
+﻿"三星网络摄像机存在多个漏洞，包括任意文件读取漏洞（CVE-2015-8279）、固件弱加密漏洞（CVE-2015-8281）、用户可枚举漏洞（CVE-2015-8280）： https://t.co/WWrFkwUIF7 "
+[ Device ]  Cisco Aironet 1800 Series Access Point Default Static Account Credentials Vulnerability http://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20160113-air #staticcredentialssurewhynot
+﻿"Cisco Aironet 1800 系列接入点设备存在默认账户密码漏洞，攻击者可以远程登陆设备： https://t.co/sIf4jlncVz "
+[ Device ]  Ingenious ideas (II): Devil in a Box. Installing Backdoors in Electronic Door Locks http://seclab.skku.edu/wp-content/uploads/2015/07/Devil_PST2015_IEEE_express.pdf [PDF] https://t.co/XElbeq2ggo
+﻿"在电子门锁中装后门，来自韩国成均馆大学的 Paper：  https://t.co/9GrzMOos7n "
+[ Device ]  Cisco Patches Hardcoded Password, DoS Vulnerabilities in Software, Devices: https://threatpost.com/cisco-patches-hardcoded-password-dos-vulnerabilities-in-software-devices/115881/ via @ threatpost
+﻿"Cisco 修复了软件、设备中的硬编码密码问题和拒绝服务漏洞，来自 ThreatPost：  https://t.co/evZ0kenytL"

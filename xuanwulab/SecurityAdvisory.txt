@@ -1,0 +1,43 @@
+[ SecurityAdvisory ]    Xen hypervisor 发布公告，修复多个重要安全漏洞（XSA 216-224）： https://github.com/QubesOS/qubes-secpack/blob/master/QSBs/qsb-031-2017.txt
+[ SecurityAdvisory ]  Android 发布 7 月安全公告：  https://source.android.com/security/bulletin/2017-07-01
+[ SecurityAdvisory ]  Foxit Reader 8.3.1 版本的漏洞公告： https://www.foxitsoftware.com/support/security-bulletins.php
+[ SecurityAdvisory ]   微软发布 7 月份漏洞补丁，共修复了 19 个严重漏洞： https://portal.msrc.microsoft.com/en-us/security-guidance/acknowledgments https://threatpost.com/microsoft-patch-tuesday-update-fixes-19-critical-vulnerabilities/126758/ http://blog.talosintelligence.com/2017/07/ms-tuesday.html
+[ SecurityAdvisory ]   Node.js 发布漏洞公告，修复了一个 Hash Table 常量种子造成的 Hash Flooding 远程拒绝服务漏洞： https://nodejs.org/en/blog/vulnerability/july-2017-security-releases/
+[ SecurityAdvisory ]  Apache httpd 2.4 版本漏洞修复一览表： https://httpd.apache.org/security/vulnerabilities_24.html
+[ SecurityAdvisory ]   Microsoft 发布 8 月漏洞公告： https://portal.msrc.microsoft.com/en-us/security-guidance
+[ SecurityAdvisory ]  Google 发布 Android 8 月漏洞公告： https://source.android.com/security/bulletin/2017-08-01
+[ SecurityAdvisory ]    Adobe 昨天发布补丁更新（APSB17-24），修复了 Adobe Acrobat Reader 的多个漏洞： https://helpx.adobe.com/security/products/acrobat/apsb17-24.html
+[ SecurityAdvisory ]    Xen 发布漏洞公告，修复了 XSA-231、XSA-232、XSA-233、XSA-234 4 个漏洞，从拒绝服务到系统提权： https://github.com/QubesOS/qubes-secpack/blob/master/QSBs/qsb-033-2017.txt
+[ SecurityAdvisory ]   Adobe 发布本月漏洞公告，修复 RoboHelp、Adobe Flash Player、ColdFusion 3 款产品的多个漏洞： https://helpx.adobe.com/security.html
+[ SecurityAdvisory ]  微软发布 9 月份漏洞补丁： http://blog.talosintelligence.com/2017/09/ms-tuesday.html ZDI 对补丁日的总结： https://www.thezdi.com/blog/2017/9/12/the-september-2017-security-update-review
+[ SecurityAdvisory ]    Intel 发布 NUC 主板的系统固件更新，修复了多个高危漏洞（CVE-2017-5700/CVE-2017-5701/CVE-2017-5721/CVE-2017-5722）： https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00084&languageid=en-fr
+[ SecurityAdvisory ]  微软发布 10 月安全公告： https://portal.msrc.microsoft.com/en-us/security-guidance http://blog.talosintelligence.com/2017/10/ms-tuesday.html
+[ SecurityAdvisory ]  Adobe Flash Player 远程代码执行漏洞补丁发布( CVE-2017-10952 ) ： https://helpx.adobe.com/security/products/flash-player/apsb17-32.html
+[ SecurityAdvisory ]  Android 11 月安全公告： https://source.android.com/security/bulletin/2017-11-01
+[ SecurityAdvisory ]  微软发布 2017 年 11 月安全公告： https://portal.msrc.microsoft.com/en-us/security-guidance http://blog.talosintelligence.com/2017/11/ms-tuesday.html
+[ SecurityAdvisory ]  Android 12月安全公告发布：  https://source.android.com/security/bulletin/2017-12-01  Pixel / Nexus 12月安全公告：  https://source.android.com/security/bulletin/pixel/2017-12-01
+[ SecurityAdvisory ]  Adobe 发布 12月安全公告： https://helpx.adobe.com/security/products/flash-player/apsb17-42.html
+[ SecurityAdvisory ]  微软发布 12 月份漏洞公告：1） https://portal.msrc.microsoft.com/en-us/security-guidance 2） https://threatpost.com/microsoft-december-patch-tuesday-update-fixes-34-bugs/129154/ 3） http://blog.talosintelligence.com/2017/12/ms-tuesday.html
+[ SecurityAdvisory ]  Android 2018 年 1 月安全公告发布： https://source.android.com/security/bulletin/2018-01-01
+[ SecurityAdvisory ]  Xen 发布安全公告（CVE-2017-5753,CVE-2017-5715,CVE-2017-5754）： https://xenbits.xen.org/xsa/advisory-254.html
+[ SecurityAdvisory ]  微软关于 CPU 缓存侧信道漏洞的缓解补丁及公告： https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/adv180002
+[ SecurityAdvisory ]  Qubes 安全公告： https://github.com/QubesOS/qubes-secpack/blob/master/QSBs/qsb-037-2018.txt
+[ SecurityAdvisory ]  Oracle全系产品2018年1月关键补丁更新： http://blog.nsfocus.net/oracle-201801/
+[ SecurityAdvisory ]  Mozilla 发布安全公告： https://www.mozilla.org/en-US/security/advisories/mfsa2018-02/
+[ SecurityAdvisory ]   VMware 发布安全公告，公布 vRealize Automation，vSphere Integrated Containers 等多个安全漏洞（CVE-2017-4947, CVE-2017-4951）： https://www.vmware.com/security/advisories/VMSA-2018-0006.html
+[ SecurityAdvisory ]    Adobe Flash 2 月份的补丁，修复了野外利用的 CVE-2018-4878 漏洞： https://helpx.adobe.com/security/products/flash-player/apsb18-03.html
+[ SecurityAdvisory ]  Microsoft 发布 2 月安全更新： https://portal.msrc.microsoft.com/en-us/security-guidance/acknowledgments
+[ SecurityAdvisory ]    Red Hat 产品安全公告索引： https://access.redhat.com/errata/#/
+[ SecurityAdvisory ]  ZDI  对微软、Adobe 发布的 3 月安全补丁的概览： https://www.zerodayinitiative.com/blog/2018/3/13/the-march-2018-security-update-review
+[ SecurityAdvisory ]  微软发布 3 月安全更新，本次补丁共计 75 个： https://portal.msrc.microsoft.com/en-us/security-guidance
+[ SecurityAdvisory ]  Apache httpd 2.4 漏洞一览： https://httpd.apache.org/security/vulnerabilities_24.html
+[ SecurityAdvisory ]  node.js 2018 年 3 月的安全更新公告: https://nodejs.org/en/blog/vulnerability/march-2018-security-releases/
+[ SecurityAdvisory ]  Microsoft 发布 4 月安全更新： https://portal.msrc.microsoft.com/en-us/security-guidance
+[ SecurityAdvisory ]  Adobe 发布 4 月安全更新： https://helpx.adobe.com/security.html
+[ SecurityAdvisory ]  ZDI 对 Microsoft、Adobe 4 月发布的安全更新的总览： https://www.thezdi.com/blog/2018/4/10/the-april-2018-security-update-review
+[ SecurityAdvisory ]  Oracle 发布 4 月重要安全更新，其中修复了一个 Oracle WebLogic Server 远程代码执行漏洞： http://www.oracle.com/technetwork/security-advisory/cpuapr2018-3678067.html
+[ SecurityAdvisory ]  Foxit 发布 4 月安全更新： https://www.foxitsoftware.com/support/security-bulletins.php
+[ SecurityAdvisory ]  Red Hat Enterprise Linux 4 月安全更新： https://access.redhat.com/errata/RHSA-2018:1129
+[ SecurityAdvisory ]  Red Hat 发布系列产品安全公告： https://access.redhat.com/errata/#/
+[ SecurityAdvisory ]  Apple 对 iOS, Safari 及 MacOS 放出更新，修复了四个漏洞 （CVE 2018-4200、CVE 2018-4204、CVE 2018-4206、CVE 2018-4187）： https://isc.sans.edu/diary/23587
+[ SecurityAdvisory ]  IBM 产品安全公告： https://www.ibm.com/blogs/psirt/

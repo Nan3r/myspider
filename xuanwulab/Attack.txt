@@ -1,0 +1,819 @@
+[ Attack ]  EMEA #CyberPredictions - Leadership become cyber security conscious. Full Report here: http://bddy.me/22Y3J1B https://t.co/Frlpo6mYk0
+﻿"FireEye 2016 中东和非洲地区安全趋势预测报告:  https://t.co/Frlpo6mYk0 https://t.co/xHvHb5d391"
+[ Attack ]  In Brazil, anyone can be an overnight sensation in #cybercrime: http://bit.ly/1RzHzit #deepweb https://t.co/dLqQHq1KgV
+﻿"巴西地下网络犯罪调查报告，来自 TrendMicro： https://t.co/dLqQHq1KgV https://t.co/Oe0GfaV6el #deepweb"
+[ Attack ]  The Canadian underground is vastly different from its neighbor: http://bit.ly/1Z4qnR2 #deepweb
+﻿"加拿大的网络威胁现状，来自 TrendMicro Blog: https://t.co/CUxSRiPWrk "
+[ Attack ]  New RAT Trochilus Skilled at Espionage, Evading Detection https://asert.arbornetworks.com/wp-content/uploads/2016/01/ASERT-Threat-Intelligence-Brief-Uncovering-the-Seven-Pointed-Dagger.pdf
+﻿"Seven Pointed Dagger - 新 APT 远控工具 Trochilus 以及其他定向威胁的发现，来自 Arbor 的分析报告： https://t.co/x0QCICfW8U"
+[ Attack ]  BlackEnergy and the Ukraine: Signals vs. Noise http://blog.cylance.com/blackenergy-and-the-ukraine-signals-vs.-noise
+﻿"BlackEnergy 和乌克兰: 信号与噪声，来自 Cylance Blog： https://t.co/SSUnPCXk8O"
+[ Attack ]  We're sharing key findings from our Incident Detection & Response survey [BLOG]: http://bit.ly/1OqR913 #DFIR https://t.co/hnTsLJeJcR
+﻿"来自 Rapid7 的《2015 年应急事件检测、响应调查报告》 https://t.co/hnTsLJeJcR https://t.co/ElFLFvplmi #DFIR"
+[ Attack ]  #Unit42 takes a closer look at recent holiday season-themed attacks http://bit.ly/1P8NaFV
+﻿"Palo Alto 带大家看看最近一些假期主题的攻击，尽管是假期，但攻击者没有停歇： https://t.co/xfePnF3pRS"
+[ Attack ]  Endpoint Exploitation Trends 2015 http://blogs.bromium.com/2016/01/14/endpoint-exploitation-trends-2015 https://t.co/gkLJAMO08k
+﻿"2015 年软件漏洞利用攻击趋势报告， 来自 Bromium Labs： https://t.co/gkLJAMO08k https://t.co/VFSRYk1OzH "
+[ Attack ]  64% of Angler #ExploitKit attacks blocked by #Symantec IPS in 2015 targeted #Windows7 http://symc.ly/1mQhYo7 https://t.co/kjKcxkatvU
+﻿"2015 年 Symantec IPS 阻断的 Angler Exploit Kit 攻击中，针对 Windows 7 的攻击占 64%： https://t.co/hPmorjWDmS https://t.co/kjKcxkatvU"
+[ Attack ]  #Hyatt discovers POS #malware at 250 hotels http://www.scmagazine.com/hyatt-discovers-malware-at-250-hotels/article/465560/ via @ TeriRnNY
+﻿"凯悦旗下 250 家酒店被发现 POS 恶意软件，可能泄露客户的支付卡信息： https://t.co/I1hOKBBEv5 "
+[ Attack ]  Malicious Code Analysis on Ukraine's Power Grid Incident : http://blog.knownsec.com/wp-content/uploads/2016/01/Malicious-Code-Analysis-on-Ukraines-Power-Grid-Incident-L150113.pdf (pdf)
+﻿"乌克兰电力中断事件的恶意代码分析，来自知道创宇: (PDF)  https://t.co/uq1DMsjk5c  关于此事件，还有一篇绿盟科技的 Blog 参考阅读： http://blog.nsfocus.net/ukraine-power-plant-attack-analysis-protection-programs/ "
+[ Attack ]  Attack against Ukrainian airport's network may be linked to power grid malware, say authorities http://www.reuters.com/article/us-ukraine-cybersecurity-malware-idUSKCN0UW0R0
+﻿"乌克兰当局声明：乌克兰机场的攻击事件与电力攻击事件有关，而攻击乌克兰机场的服务器来自俄罗斯：  https://t.co/YMEW4GmKx5"
+[ Attack ]  New blog post: Angler Exploit Kit's January Vacation http://wp.me/p6xdcg-fy
+﻿"Angler Exploit Kit 一月份休假了？活跃程度陡降，来自 FSecure Blog： https://t.co/Ymw7CvYrex"
+[ Attack ]  Music-themed Malvertising Lead to Angler http://research.zscaler.com/2016/01/music-themed-malvertising-lead-to-angler.html
+﻿"音乐主题恶意广告站点将用户引向 Angler Exploit Kit，来自 Zscaler Blog： https://t.co/C6ZnjdD3yX"
+[ Attack ]  A Guidance Template for Attack Sequence Specification in Cyber Attack Simulation http://scholarworks.rit.edu/cgi/viewcontent.cgi?article=9941&context=theses
+﻿"模拟网络攻击序列用的模板规范，来自罗彻斯特理工学院的 Paper: https://t.co/XaPrQ80Ao3 "
+[ Attack ]  Attackers Seek to Hack Hardware for Ultimate Control https://blogs.mcafee.com/mcafee-labs/attackers-seek-to-hack-hardware-for-ultimate-control/
+﻿"攻击者开始将焦点放到硬件上，通过 Hack 硬件获得终极控制权，来自 McAfee Blog: https://t.co/14YUoVeEFB"
+[ Attack ]  MSN Home Page Drops More Malware Via Malvertising http://blog.malwarebytes.org/malvertising-2/2016/01/msn-home-page-drops-more-malware-via-malvertising/
+﻿"MSN 主页被植入恶意广告： https://t.co/DFRJj04m8B"
+[ Attack ]  New wave of attacks against Ukrainian power industry http://www.welivesecurity.com/2016/01/20/new-wave-attacks-ukrainian-power-industry/
+﻿"乌克兰电力遭受新一轮攻击，来自 WeLiveSecurity Blog： https://t.co/4yrRmP7Jdt"
+[ Attack ]  A look at notable incidents involving Operation #PawnStorm: http://bit.ly/1JW0Ojn #targetedattack
+﻿"PawnStorm 行动的最新进展，来自 TrendMicro Blog： https://t.co/ezN9hM5Jvy "
+[ Attack ]  Attackers typically redesign C2 infrastructure and deploy entirely new / updated malware after being exposed : http://blog.cylance.com/puttering-into-the-future
+﻿"在被曝光后，攻击者通常会重新设计 C&C 基础架构、部署全新的恶意软件，来自 Cylance Blog 《Puttering into the Future》: https://t.co/vfxMq2y4VF"
+[ Attack ]  #ICYMI @ Unit42_Intel discovered new attacks linked to C0d0s0 group http://bit.ly/1UjI3af #Unit42
+﻿"Palo Alto 发现了一个新攻击活动，并且认为与 C0d0s0 组织有关，而 C0d0s0 曾经攻击了 Forbes.com。另外这个攻击活动中所用的域名的注册邮箱为中国的 163 邮箱，解析的 IP 为香港 IP。来自 Palo Alto Blog: https://t.co/ccFaRFyJwf "
+[ Attack ]  #Unit42 investigates a series of attacks they attributed to a group they code named Scarlet Mimic http://bit.ly/1PdGcDV
+﻿"Scarlet Mimic - 近 7 个月，Palo Alto 一直在跟踪调查 Scarlet Mimic 组织，该组织 4 年前开始攻击活动，首要目标是收集少数民族积极分子的有关信息，目前还没有证据表明与哪个政府有关， Palo Alto Blog：  https://t.co/XZkOuvlpeK 另外，关于其中的 FakeM RAT 远控工具， TrendMicro 2013 年发过一个报告： http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-fakem-rat.pdf "
+[ Attack ]  FireEye Labs has collected data on the 6 most prominent #malware families delivered during the holiday season http://bddy.me/1lK8daa
+﻿"来自 FireEye 的 2015 年假期期间的邮件攻击分析报告 - 虽然是假期，但是邮件攻击者却没有停歇。 FireEye 实验室收集 6 个突出的邮件攻击行动组织的信息：  https://t.co/YuYRfix6ww "
+[ Attack ]  Our research team has released its annual @ Windows Exploitation in 2015 report: http://www.welivesecurity.com/2016/01/26/windows-exploitation-in-2015/?utm_source=twitter.com&utm_medium=social&utm_campaign=fanpage https://t.co/riDgcbQ3iW
+﻿"ESET 发布 2015 年 Windows 漏洞利用总结报告： https://t.co/riDgcbQ3iW https://t.co/casBMmRGDD"
+[ Attack ]  Government Agencies Audit for Juniper Backdoor: https://threatpost.com/government-agencies-audit-for-juniper-backdoor/116021/ via @ threatpost
+﻿"美国政府机构开始审查 IT 设施中的 Juniper 后门: https://t.co/deurMwE9zM"
+[ Attack ]  Cyber Criminals Gain in Sophistication With Integrity Attacks https://blogs.mcafee.com/mcafee-labs/cyber-criminals-gain-sophistication/
+﻿"随着完整性攻击数量的上升，网络罪犯的复杂度也在升高，来自 McAfee Blog： https://t.co/gDjfIcAJLP"
+[ Attack ]  Israel’s Electric Authority slammed with ‘severe’ cyberattack http://feedproxy.google.com/~r/SecurityBloggersNetwork/~3/HnxSgKs8H1o/story01.htm
+﻿"以色列电力遭到黑客攻击： https://t.co/NKKqvAYfPS"
+[ Attack ]  Global mass injection affects thousands of websites. Take action to avoid a future attack: http://symc.ly/1JFDS8s https://t.co/wjgvgUWJCM
+﻿"攻击者在全球攻击了超过 3500 个服务器， Symantec 认为这是攻击者为未来攻击做的前期侦查： https://t.co/wjgvgUWJCM https://t.co/QApcbiFUlF"
+[ Attack ]  Popular Site Leads To Angler EK & CVE-2015-8651 Flash Player Exploit http://blogs.forcepoint.com/security-labs/popular-site-leads-angler-ek-cve-2015-8651-flash-player-exploit
+﻿"ForcePoint 实验室监测到一些热门网站受到攻击，会将用户重定向到 Angler EK 站点， Angler EK 之后会用 CVE-2015-8651 漏洞攻击用户： https://t.co/PqaTHXfU2b"
+[ Attack ]  IoT-based botnets and other attacks on our DDoS Intelligence Report for Q4 2015 https://securelist.com/analysis/quarterly-malware-reports/73414/kaspersky-ddos-intelligence-report-for-q4-2015/
+﻿"Kaspersky 2015 第 4 季度 DDoS 情报报告， 来自 Kaspersky Blog： https://t.co/qXN8nOwHoD"
+[ Attack ]  Dridex Botnet Resumes Spam Operations After the Holidays http://www.fireeye.com/blog/threat-research/2016/01/dridex_botnet_resume.html
+﻿"Dridex 僵尸网络在圣诞节期间短暂休息后，近期又开始活跃起来了， 来自 FireEye 的 Blog： https://t.co/uoAuKMl2Sr"
+[ Attack ]  Top 20 Airline Travel Site http://Yatra.com Victim to Malvertizing - Redirects to Angler EK & Bedep Malware http://blogs.forcepoint.com/security-labs/top-20-airline-travel-site-yatracom-victim-malvertizing-attack-redirects-users-angler
+﻿"Top 20 中的航空旅行网站 Yatra.com 受恶意广告影响。 会将用户重定向至 Angler EK 和 Bedep 站点： https://t.co/1YATP1ztqi "
+[ Attack ]  URLZone Back, Targeting Banks in Japan: https://threatpost.com/urlzone-back-targeting-banks-in-japan/116107/ via @ threatpost
+﻿"URLZone 组织向日本银行发起攻击活动， IBM X-Force 文章提到， 在 Shifu 组织攻击日本之前，多年内都没有其他组织攻击过日本，分析一部分原因是来自日本语言的障碍。而在 Shifu 攻击之后，各大组织纷纷来袭，都想分一杯羹。而且各个组织的攻击手法都模仿 Shifu。 来自 ThreatPost 的报道： https://t.co/BoFtGn3zb9 IBM X-Force 的原文： https://securityintelligence.com/organized-cybercrime-big-in-japan-urlzone-now-on-the-scene/ "
+[ Attack ]  Where will #cyber criminals strike in 2016? Read our predictions http://bddy.me/1QX2LOa https://t.co/GAyxWVVnON
+﻿"FireEye 展望 2016 安全形势预测报告：  https://t.co/3enMqxHZxW https://t.co/GAyxWVVnON"
+[ Attack ]  The 2015 Global Threat Report is live! Download it to discover the latest trends and intelligence to stop breaches: http://ow.ly/XTrLW
+﻿"来自 CrowdStrike 的 2015 全球威胁报告: https://t.co/YbCeoKrtYb"
+[ Attack ]  Nuclear EK Leveraged In Large WordPress Compromise Campaign http://blog.malwarebytes.org/exploits-2/2016/02/nuclear-ek-leveraged-in-large-wordpress-compromise-campaign/
+﻿"大规模的 WordPress 攻击行动中发现了 Nuclear EK， 来自 MalwareBytes Blog： https://t.co/mFlXqbg5Sh  Securi 的原始分析文章： https://blog.sucuri.net/2016/02/massive-admedia-iframe-javascript-infection.html "
+[ Attack ]  The #Phishing Breakthrough Point @ KnowBe4 phishing experiment http://cdn2.hubspot.net/hubfs/241394/Phishing-Breakthrough-Point.pdf #awareness #training #infosec https://t.co/Kxq4vdpFyi
+﻿"网络钓鱼测试能否有效的降低钓鱼带来威胁吗， 来自 KnowBe4 的报告： https://t.co/2QpPy1rZku   https://t.co/Kxq4vdpFyi"
+[ Attack ]  [Ebook] What makes APT groups so persistent? #infosec http://bddy.me/1RlSo6L https://t.co/stWvQRa5Ce
+﻿"是什么让 APT 攻击者们如此执着? - 了解网络攻击以及他们的动机。 来自 FireEye 的报告： https://t.co/BDMrEtpMFt https://t.co/stWvQRa5Ce"
+[ Attack ]  Poseidon Group: a Targeted Attack Boutique specializing in global cyber-espionage https://securelist.com/blog/research/73673/poseidon-group-a-targeted-attack-boutique-specializing-in-global-cyber-espionage/
+﻿"Poseidon - 一个专门从事全球网络间谍定向攻击行动的组织， 来自 Kaspersky Blog： https://t.co/Ivtj0axqcF"
+[ Attack ]  How I hacked my hospital https://kas.pr/g3in by @ 61ack1ynx #TheSAS2016
+﻿"我是如何黑掉我的医院的 - Youtube 视频： https://t.co/rTbhRS88Xw "
+[ Attack ]  BlackEnergy infected also Ukrainian Mining and Railway Systems http://securityaffairs.co/wordpress/44452/hacking/blackenergy-mining-and-railway-systems.html
+﻿"TrendMicro 发现 BlackEnergy 与最近的乌克兰矿业和铁路系统攻击事件有关， 来自 SecurityAffairs 的报道： https://t.co/gOPNK1nv8F TrendMicro 对样本 KillDisk 的分析： http://blog.trendmicro.com/trendlabs-security-intelligence/killdisk-and-blackenergy-are-not-just-energy-sector-threats/ "
+[ Attack ]  DeepEnd Research blog post: "Jan-Feb 2016 domains associated with "Admedia" Wordpress compromises (WP plugins)" http://www.deependresearch.org/2016/02/jan-feb-2016-domains-associated-with.html
+﻿"与 'Admedia' WordPress 攻击有关的域名， 来自 DeepEnd Research Blog： https://t.co/ipK5yziriY"
+[ Attack ]  #YARA rules for #Sofacy Fysbis ELF malware: https://github.com/Neo23x0/Loki/blob/master/signatures/apt_sofacy_fysbis.yar in addition to IOCs: http://researchcenter.paloaltonetworks.com/2016/02/a-look-into-fysbis-sofacys-linux-backdoor/ https://t.co/WYx2HW67GQ
+﻿"攻击组织 Sofacy 的 Linux 后门样本 Fysbis 分析：   https://t.co/XnFSsQfxZo  YARA 规则： https://t.co/WXwpJBJeA0 "
+[ Attack ]  The Latest Intelligence for January 2016 sees a rise in fake offer #SocialMedia #scams http://symc.ly/20XyDVK https://t.co/W1PsM10Mbn
+﻿"Symantec 2016 年 1 月份的威胁情报报告： https://t.co/B70PcEzxo5 "
+[ Attack ]  New #phishing attacks exploit Gmail's open-source code. What to look for: http://bit.ly/1Qkt3F8
+﻿"新的钓鱼攻击伪装成 Gmail 的登陆页面， 来自 McAfee Blog: https://t.co/k3j93g8nP0"
+[ Attack ]  Admedia attacks now rely also on Joomla to serve ransomware http://securityaffairs.co/wordpress/44693/cyber-crime/admedia-attacks-joomla.html
+﻿"Admedia 攻击者现在正在将宿主目标转移至 Joomla， 来自 SecurityAffairs 的报道： https://t.co/ioGZZX5nz5"
+[ Attack ]  Japan targeted with regionalized malicious spam campaigns http://www.symantec.com/connect/ko/blogs/japan-targeted-regionalized-malicious-spam-campaigns
+﻿"最近，日本被区域化的恶意邮件行动盯上了，  来自 Symantec Blog： https://t.co/Nv1y8Pn3a7"
+[ Attack ]  Angler EK is now exploiting Silverlight up to 5.1.41105.0 (CVE-2016-0034 ? ) http://malware.dontneedcoffee.com/2016/02/cve-2016-0034.html https://t.co/zAaNRaAPeX
+﻿"Angler Exploit Kit 开始攻击 Silverlight 5.1.41105.0 CVE-2016-0034 漏洞， 该漏洞由 Kaspersky 研究员发现，最早在 HackingTeam 泄露的邮件中被提及： https://t.co/yPoYYku9Ny https://t.co/zAaNRaAPeX"
+[ Attack ]  Ratopak Trojan – Russian banks under attack http://securityaffairs.co/wordpress/44706/cyber-crime/ratopak-trojan-russian-banks.html
+﻿"Ratopak 木马攻击俄罗斯银行， 来自 SecurityAffairs 的报道： https://t.co/ON6sfR2bpi"
+[ Attack ]  Operation Dust Storm : https://www.cylance.com/hubfs/2015_cylance_website/assets/operation-dust-storm/Op_Dust_Storm_Report.pdf?t=1456259131512 (pdf) #backdoor
+﻿"Cylance 揭露 Dust Storm（沙尘暴）攻击行动， 该攻击行动针对多个行业， 涉及日本、美国、韩国、欧洲、南亚部分国家: https://t.co/RnyIPmOQKa "
+[ Attack ]  Behind the Malware – Botnet Analysis https://blog.sucuri.net/2016/02/behind-the-malware-botnet-analysis.html
+﻿"在分析防火墙日志时，Sucuri Labs 发现了一个针对 WordPress 幻灯片插件 RevSlider 历史漏洞的攻击行为， 这篇 Blog 分析这次攻击过程中的 Botnet： https://t.co/P2gsjyO1o0"
+[ Attack ]  Operation Blockbuster revealed: A glimpse at the spider web of the Lazarus Group APT campaigns https://securelist.com/blog/incidents/73914/operation-blockbuster-revealed/
+﻿"Blockbuster 攻击行动揭秘 - 瞟一眼 Lazarus 组织的 APT 攻击行动蜘蛛网， 来自 Kaspersky Blog：  https://t.co/DQDJfHwyrw"
+[ Attack ]  From Seoul To Sony https://www.bluecoat.com/security-blog/2016-02-24/seoul-sony
+﻿"从首尔到索尼， BlueCoat Blog 讨论索尼被黑事件与一些恶意软件家族的关联： https://t.co/1DRInH1FUI"
+[ Attack ]  [Report] The 7th edition of #MTrends is now available! http://bddy.me/1R4yoRP #DFIR #infosec https://t.co/vn5SNwWpSA
+﻿"FireEye M-Trends 2016 报告， 该报告总结回顾了 2015 年高级威胁的发展变化情况： https://t.co/8tp2qVHjDe  https://t.co/vn5SNwWpSA"
+[ Attack ]  Attacks on social media, cloud apps exploit trust in popular free services http://phishme.com/attacks-on-social-media-cloud-apps-exploit-trust-in-popular-free-services/
+﻿"越来越多的钓鱼攻击开始转向社交媒体（如 Facebook、Twiiter） 和一些免费的云应用（如 Office 365、Dropbox）：   https://t.co/JjXNARzjzx"
+[ Attack ]  Thanks to @ Cyb3rOps for his work on APT groups, I started a JSON with threat actors https://github.com/MISP/misp-galaxy/blob/master/elements/adversary-groups.json to be included soon in MISP
+﻿"多个 APT 组织的信息收集整理，JSON 版本， 来自 MISP Github Repo:  https://t.co/OuzSv1AlwY "
+[ Attack ]  New post: Netflix and Uber Users: Cybercriminals’ Latest Favored Hacking Targets? http://bit.ly/1pmASo0 @ TrendMicro
+﻿"Netflix 和 Uber 用户是目前网络犯罪分子最喜欢的攻击目标, 来自 TrendMicro Blog: https://t.co/lp1IzgyepT"
+[ Attack ]  Chinese Threat Intel Start-up Finds DarkHotel Exploiting Chinese Telecom http://www.darkreading.com/threat-intelligence/chinese-threat-intel-start-up-finds-darkhotel-exploiting-chinese-telecom/d/d-id/1324496 @ sarapeters
+﻿"据国内威胁情报公司 ThreatBook(微步在线)透露, DarkHotel 攻击组织正在攻击中国和朝鲜的电信运营商, 而且至少已经攻陷了一个: https://t.co/eMnv0GwVe3 "
+[ Attack ]  Take a trip to the various cybercriminal underground economies all over the world: http://bit.ly/1OLuSKl #DeepWeb
+﻿"TrendMicro 的<暗网与网络犯罪调查报告>, 探寻地下网络经济: https://t.co/3Vpk3lXPHB "
+[ Attack ]  Operation Transparent Tribe - APT Targeting Indian Diplomatic & Military Interests: http://buff.ly/1L6E1SX #InfoSec https://t.co/Zlgfqdx1Ti
+﻿"透明部落 APT 攻击行动 - 针对印度外交及军事目标， 来自 ProofPoint 的报告:  https://t.co/lma58nnMRk   https://t.co/Zlgfqdx1Ti"
+[ Attack ]  Attackers compromised Burrp to redirect to Angler #exploit kit & drop Teslacrypt ransomware http://symc.ly/1T9tWHI https://t.co/mORnTmFfUS
+﻿"印度一家酒店推荐网站 Burrp 遭到攻击，网站用户被重定向到 Angler EK 并且感染 Teslacrypt 勒索软件：  https://t.co/tYrye7m4AZ https://t.co/mORnTmFfUS "
+[ Attack ]  Shifting Tactics: Tracking changes in years-long espionage campaign against Tibetans https://citizenlab.org/2016/03/shifting-tactics/ #malware #china #APT
+﻿"策略转移 - 一个针对西.藏的长达多年的网络间谍行动， 来自 CitizenLab： https://t.co/XnuhVAY1wR "
+[ Attack ]  Discover the state of the threat landscape with our Latest Intelligence for February 2016 http://symc.ly/221SGmx https://t.co/Yo33aFo1vU
+﻿"Symantec 的月度威胁情报报告(二月份): https://t.co/eqKd9cmnoc https://t.co/Yo33aFo1vU"
+[ Attack ]  Massive Volume of Ransomware Downloaders being Spammed https://www.trustwave.com/Resources/SpiderLabs-Blog/Massive-Volume-of-Ransomware-Downloaders-being-Spammed
+﻿"TrustWave 发现最近以 JavaScript 附件作为勒索软件下载器的攻击数量猛增: https://t.co/ezLfhVgq4I "
+[ Attack ]  Chinese ISP's traffic injection based ads platform was abused for Trojan's drive-by downloading: http://drops.wooyun.org/papers/13595
+﻿"国内基于运营商流量注入的广告平台被木马滥用, 来自乌云 Drops 的文章: 网络暗黑世界的“域影”攻击：运营商劫持LOL等客户端海量级挂马︰ https://t.co/h1loXuOflw"
+[ Attack ]  New post: Exploit Kits in 2015: Flash Bugs, Compromised Sites, Malvertising Dominate http://bit.ly/1YB2ZMd @ TrendMicro
+﻿"威胁不会停止， Exploit Kits 也不例外。 Trend Micro 这篇 Blog 总结 Exploit Kit  在 2015 年发生的新变化，包括所用的 Flash 漏洞和攻击的网站： https://t.co/W4jbKw3uNK "
+[ Attack ]  Lessons from Operation RussianDoll http://www.fireeye.com/blog/threat-research/2016/03/lessons-from-operation-russian-doll.html
+﻿"俄罗斯套娃(RussianDoll)攻击行动中学到的经验, 来自 FireEye Blog: https://t.co/RexrzrYtI4 "
+[ Attack ]  Hackers Breach DDoS Protection Firm Staminus, Leak Sensitive Data Online http://feedproxy.google.com/~r/tripwire-state-of-security/~3/C1LdKsPZZI0/
+﻿"黑客攻击了 DDoS 防护公司 Staminus，泄露了很多敏感信息： https://t.co/VfVm4IlngT   TrendMicro 也发表了一篇文章谈这个攻击： http://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/ddos-protection-provider-gets-hacked?utm_source=trendlabs-social&utm_medium=twitter&utm_campaign=2016-03-staminus-hack "
+[ Attack ]  #Seagate is latest org targeted by #phishing attack: http://bit.ly/1TrD5uZ
+﻿"Seagate 员工收到钓鱼税收欺诈攻击︰ https://t.co/IQRlPkEvzo"
+[ Attack ]  How a Hacker's Typo Foiled a Billion-Dollar Bank Heist http://nbcnews.to/1XhFpmx
+﻿"因为一个单词拼写错误,黑客的亿元银行盗窃行动暴露了: https://t.co/JtH8eHN8vG"
+[ Attack ]  #Unit42 finds Digital Quartermaster scenario demonstrated in attacks against the Mongolian Government http://bit.ly/1TJhU7U
+﻿"数字军需官与针对蒙古政府的攻击, Palo Alto 监测发现 2015 年 8 月至 2016 年 2 月期间,攻击者发送了大量的地缘政治主题的钓鱼邮件、文档攻击蒙古政府: https://t.co/7BdxvJHMTh "
+[ Attack ]  Malvertising Campaign in US Leads to Angler Exploit Kit/BEDEP http://blog.trendmicro.com/trendlabs-security-intelligence/malvertising-campaign-in-us-leads-to-angler-exploit-kitbedep/
+﻿"美国顶级新闻网站、娱乐门户、政治评论网站的用户受到恶意广告行动的攻击，跳转到 Angler Exploit Kit/BEDEP：  https://t.co/qFuFpOZxG2 "
+[ Attack ]  All your creds are belong to us The evolution of malware targeting Steam accounts https://securelist.com/blog/research/74137/all-your-creds-are-belong-to-us/ https://t.co/Tm5fL7pK5N
+﻿"所有账号信息都归我们了 - 针对 Steam 游戏平台的攻击行动, 来自 Kaspersky 的分析报告: https://t.co/ABPhMUDgQC https://t.co/Tm5fL7pK5N "
+[ Attack ]  Chrome Extension Caught Stealing Bitcoin from Users - UPDATE http://ow.ly/ZsBMj
+﻿"Chrome 扩展 BitcoinWisdom Ads Remover 在用户交易的时候会盗取用户的比特币, 来自 SoftPedia 的报道: https://t.co/DcXTvaJcqy"
+[ Attack ]  Ottawa Hospital computers infected by Ransomware virus http://ow.ly/ZsKVc
+﻿"加拿大渥太华医院的计算机感染勒索软件: https://t.co/jOzzeX4XSz"
+[ Attack ]  More Details on APT Ransomware http://carnal0wnage.attackresearch.com/2016/03/apt-ransomware.html
+﻿"APT 勒索软件攻击: https://t.co/w9YWprGQhZ 文章中引用了 Reuters 的一篇文章<美国勒索软件攻击背后的中国黑客>: http://www.reuters.com/article/us-china-ransomware-idUSKCN0WG2L5 "
+[ Attack ]  New post: Exploit Kits in 2015: Scale and Distribution http://bit.ly/1TMCKTV @ TrendMicro
+﻿"2015 年 Exploit Kits 的规模和分布情况， 来自 TrendMicro Blog： https://t.co/hhozwz2lgC "
+[ Attack ]  Targeted social engineering attack sees blueprints stolen and used http://www.itgovernance.co.uk/blog/targeted-social-engineering-attack-sees-blueprints-stolen-and-used/
+﻿"某制造业公司的设备蓝图遭窃取和售卖, Blog: https://t.co/zP5CRRotnc  这篇 Blog 来源于 Verizon 发布的数据泄露报告: http://www.verizonenterprise.com/resources/reports/rp_data-breach-digest_xg_en.pdf "
+[ Attack ]  To bypass code-signing checks, SuckFly malware gang steals lots of certificates http://arstechnica.com/security/2016/03/to-bypass-code-signing-checks-malware-gang-steals-lots-of-certificates/
+﻿"为了绕过代码签名检查， SuckFly 恶意软件团伙窃取了大量证书: https://t.co/1JtCkYCkp7"
+[ Attack ]  DDoSing with Other People's Botnets : http://www.malwaretech.com/2016/03/ddosing-with-other-peoples-botnets.html cc: @ MalwareTechBlog
+﻿"用别人的 Botnet 发动 DDoS 攻击, 作者在分析 ZeroAccess 的 C&C 架构后发现,完全有可能让 ZeroAccess 的 C&C 架构'为我所用': https://t.co/FZKaTyve2w "
+[ Attack ]  Suckfly: Revealing the secret life of your code signing certificates http://www.symantec.com/connect/ko/blogs/suckfly-revealing-secret-life-your-code-signing-certificates
+﻿"Suckfly - 一个中国的 APT 组织, 贪婪无比,盗取了大量的代码签名证书, 来自 Symantec Blog: https://t.co/MYEC1Uq8Qn "
+[ Attack ]  Korean news site redirected to the #GongDaExploitKit, potentially exposing them to #malware infection http://bddy.me/1R8hQJ7
+﻿"1 月 27 号， FireEye 观察到，Korean news 网站的用户会被重定向到 GongDa Exploit Kit 网站： https://t.co/omstTocHnf"
+[ Attack ]  How to access full addresses for Western Digital RMA customers. http://pastebin.com/7HkMXLQV
+﻿"如何获取西部数据 RMA 用户的街道地址（数据泄漏）， 来自 Pastebin：  https://t.co/6c3t5fAzbc"
+[ Attack ]  Cyber criminals are snapping up expired domains to serve malicious ads... http://www.brainerddispatch.com/lifestyles/tech/3989216-cyber-criminals-snap-expired-domains-serve-malicious-ads-websites
+﻿"黑产们正在抢购过期域名，为恶意广告攻击做准备：  https://t.co/Tb6LB0L4rn"
+[ Attack ]  A VAST malvertising attack https://www.proofpoint.com/us/threat-insight/post/vast-malvertising-attack https://t.co/XNc9nfKK7h
+﻿"ProofPoint 最近观察到一个大型的恶意广告攻击，受攻击的网站包括 MSN.com Foxnews.com，ProofPoint 表示，这是第一个利用视频传播恶意广告的攻击：  https://t.co/5OPPkaN99i https://t.co/XNc9nfKK7h"
+[ Attack ]  Phishers are using #YouTube channels to document and reveal their attacks. Learn more: http://symc.ly/1nMnxnG https://t.co/nvAoPQhmeD
+﻿"钓鱼攻击者创建 Youtube 视频频道，记录他们的攻击 ︰ https://t.co/bgZIPrsdbC https://t.co/nvAoPQhmeD"
+[ Attack ]  Uh-oh Lenovo. PC maker pushes out malicious Angler exploit kit https://www.grahamcluley.com/2016/03/lenovo-angler-exploit-kit/
+﻿"攻击者攻破联想网站 startpage.lenovo.com，网站用户将被重定向至 Angler Exploit Kit：  https://t.co/BpMzYzIPQu"
+[ Attack ]  Taiwan Presidential Election: A Case Study on Thematic Targeting http://pwc.blogs.com/cyber_security_updates/2016/03/taiwant-election-targetting.html
+﻿"台湾大选定向攻击案例研究: https://t.co/vClPNAjvnD  "
+[ Attack ]  China-based ad giant serves malicious code through ad slots http://bddy.me/25iHW5J #infosec
+﻿"攻击者利用百度广告平台 API 跳转至恶意站点, 下发恶意代码至用户计算机, 来自 FireEye Blog: https://t.co/es2sftmgL3 "
+[ Attack ]  In our March Threats Report, we uncovered a rise in new #malware in Q4, after 3 quarters of decline: http://intel.ly/1LBYoI1
+﻿"McAfee 发布的 3 月份的威胁报告 ︰ https://t.co/W3P7CTCvUT"
+[ Attack ]  Attacking like a professional http://bddy.me/1RkAc9Y #FEYERedTeam #DFIR https://t.co/LYk9Fz9yQL
+﻿"Attacking like a professional， 来自 FireEye Blog: https://t.co/9KDd1qZZeP   https://t.co/LYk9Fz9yQL"
+[ Attack ]  New post: Indian Military Personnel Targeted by “Operation C-Major” Information Theft Campaign http://bit.ly/1o6aiOK @ TrendMicro
+﻿"针对印度的 'C-Major' 定向攻击行动中， 160 位军事官员的纳税信息、证件照、护照扫描件遭到窃取。 Trend Micro 怀疑这次行动背后的攻击者在巴基斯坦：  https://t.co/oZvpWDStRJ "
+[ Attack ]  Finnish defense ministry website targeted by cyber attack | Reuters http://ow.ly/ZTrWS
+﻿"芬兰国防部网站遭到黑客攻击， 来自路透社报道： https://t.co/NFE6KsPjsk"
+[ Attack ]  Read this free report on Operation Blockbuster, the Lazarus Group takedown: http://symc.ly/1RoS03U https://t.co/sKXG0zVUSR
+﻿"Blockbuster 攻击行动调查报告，这次攻击背后的组织是 Lazarus，2014 年索尼被攻击背后的组织就是它 ︰ https://t.co/37tnITLJ5g https://t.co/sKXG0zVUSR"
+[ Attack ]  #ProjectM: Link found between Pakistani actor and Operation Transparent Tribe http://bit.ly/25owbLe #Unit42
+﻿"ProjectM  - 巴基斯坦分子与透明部落攻击行动之间的联系， 来自 Palo Alto Blog： https://t.co/Jn3gZSq1yd "
+[ Attack ]  Hackers stole records of 1.5 million customers of Verizon Enterprise http://securityaffairs.co/wordpress/45629/data-breach/verizon-enterprise-portal-hacked.html
+﻿"黑客偷走了 Verizon 150 万客户数据，在地下市场交易： https://t.co/qJbfTxuUTL "
+[ Attack ]  Btw, a year later @ bsdaemon provided a nice analysis of the initial vector at #TR12: https://www.troopers.de/media/filer_public/30/40/30403bef-bfbd-403d-9525-00272e67a22b/tr12_day01_branco_into_the_darkness.pdf [PDF]
+﻿"走进黑暗世界 - 剖析定向攻击， 来自 Troopers 会议演讲︰ https://t.co/bmKMHWYPlF "
+[ Attack ]  Worth a re-read: https://securelist.com/files/2015/02/Equation_group_questions_and_answers.pdf
+﻿"Kaspersky 2015 年 2 月发布的关于 Equation（方程式） 的问答形式的分析报告︰ https://t.co/qJS2CySP4J"
+[ Attack ]  #Medicaid management information systems are increasingly vulnerable http://bddy.me/1MMETYf #infosec https://t.co/eccfBOZ12l
+﻿"医疗管理信息系统正面临越来越多的漏洞威胁， 来自 FireEye Blog： https://t.co/nrIc4rCkhF   https://t.co/eccfBOZ12l"
+[ Attack ]  New strains of server-side #ransomware, like #SamSam and #Maktub, are hitting hospitals - http://ow.ly/103t6y
+﻿"威胁预警： 新类型的服务端勒索软件正向医院袭来： https://t.co/Pb5KyO4QFl  来自 CheckPoint 的分析： http://blog.checkpoint.com/2016/03/28/check-point-threat-alert-samsam-and-maktub-ransomware-evolution/ "
+[ Attack ]  Really enjoyed reading this post: "Playing games with an attacker". Detailed and entertaining! http://blog.0x3a.com/post/141950176719/playing-games-with-an-attacker-how-i-messed-with via @ _remixed
+﻿"与攻击者玩游戏： https://t.co/1TtflQsknZ  作者于今年 2 月份公开了一个网站， 用于追踪 CryptoWall 勒索软件， 从那时候开始，这个网站就被攻击者盯上了， 这篇 Blog 讲述作者与攻击者博弈的过程"
+[ Attack ]  Taiwan targeted with new cyberespionage back door Trojan | Symantec Connect Community http://ow.ly/104NDR
+﻿"Symantec 发现了一款定向攻击台湾的后门木马 Dripion： https://t.co/RDLxXUtWQB"
+[ Attack ]  Two more healthcare networks caught up in outbreak of hospital ransomware http://arstechnica.com/security/2016/03/two-more-healthcare-networks-caught-up-in-outbreak-of-hospital-ransomware/ #ransomware
+﻿"又有两家医疗机构网络爆发了勒索软件攻击： https://t.co/8rRM09w2Pa "
+[ Attack ]  The Anatomy Of A Nation-State Hack Attack https://packetstormsecurity.com/news/view/26476/The-Anatomy-Of-A-Nation-State-Hack-Attack.html
+﻿"剖析一次国家级黑客攻击， 来自 BBC 的报道： https://t.co/xW7A4TWouw"
+[ Attack ]  #Unit42 analyst @ malware_traffic explains how the #ElTest campaign's path to Angler EK evolved over time http://bit.ly/25z9qnT
+﻿"Palo Alto 对 EITest 攻击行动的追踪进展，该行动最早活跃于 2014 年 10 月： https://t.co/4CnwzekCyT"
+[ Attack ]  Why Hospitals Are the Perfect Targets for Ransomware http://www.wired.com/2016/03/ransomware-why-hospitals-are-the-perfect-targets/ via @ WIRED
+﻿"为什么医院是勒索软件的最佳攻击目标： https://t.co/0tsmK5yS9o "
+[ Attack ]  WordPress and Joomla users get hacked with fake jQuery https://blog.avast.com/wordpress-and-joomla-users-get-hacked-be-aware-of-fake-jquery
+﻿"大量的 WordPress 和 Joomla 网站被注入假 jQuery 库， 450 万用户受影响， 来自 Avast Blog： https://t.co/CwGIQG5iN0"
+[ Attack ]  Analysts from @ PassiveTotal discover a multi-year operation connecting over 7 different nation-state actors. http://blog.passivetotal.org/passivetotal-discovers-multi-actor-infrastructure-nexus/ #threat
+﻿"PassiveTotal 发现了一个长达多年的、至少 7 个国家参与的攻击行动： https://t.co/TtVa2udlP6"
+[ Attack ]  the #panama papers: massive leak. Exposing offshore accounts and corruption evidence of top global power players: http://panamapapers.sueddeutsche.de/articles/56febff0a1bb8d3c3495adf4/
+﻿"2.6 TB 的 Panama 文件泄露 ︰ https://t.co/wcAHw7e66p   Wired 对这件事儿的报道： http://www.wired.com/2016/04/reporters-pulled-off-panama-papers-biggest-leak-whistleblower-history/   Github 上保存的 CSV 格式的泄露的文件： https://github.com/amaboura/panama-papers-dataset-2016 "
+[ Attack ]  Don’t be an April Fool: Inside a common phone scam http://bit.ly/1ToWagK @ r0bf4lc #Unit42 #AprilFools
+﻿"不作 'April Fool' - 剖析一次电话诈骗： https://t.co/5jgffmygPM  "
+[ Attack ]  New NCC Group blog post: Can breach impact be measured? https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/april/can-breach-impact-be-measured/
+﻿"黑客攻击产生的影响可以衡量吗？ 来自 NCC Group Blog： https://t.co/9a1gJADpqx"
+[ Attack ]  Turkey's Entire Citizenship Database May Have Been Leaked https://packetstormsecurity.com/news/view/26497/Turkeys-Entire-Citizenship-Database-May-Have-Been-Leaked.html
+﻿"土耳其的公民身份数据库可能已经被泄漏： https://t.co/9lv2lIsjSC"
+[ Attack ]  A list of compromised databases, http://vigilante.pw/
+﻿"被拖过的数据库列表： https://t.co/wjK0CEfp0m"
+[ Attack ]  Take a trip around the #cybecriminal world with our latest research: http://bit.ly/25gA1pI https://t.co/PlcRQpZDPA
+﻿"网络犯罪与暗网（Deep Web） - TrendMicro 对多个国家的分析报告 ︰ https://t.co/1tn7RD7ufO https://t.co/PlcRQpZDPA"
+[ Attack ]  APT6 compromised the US government networks for years http://securityaffairs.co/wordpress/46013/cyber-warfare-2/apt6-state-sponsored-hackers.html
+﻿"APT6 攻击组织多年前就已经攻破美国政府网络： https://t.co/bW5hrVB7Zu "
+[ Attack ]  Financial Trojan detection has dropped, but the #malware family upped their game. Read on: http://symc.ly/1UVKgws https://t.co/noAyR75yOI
+﻿"2015 年金融类木马感染量有 73% 的下降 ︰ https://t.co/8Lc7SeLFgC https://t.co/noAyR75yOI"
+[ Attack ]  Hack on Ukranian power grid highlights the urgency for accelerated threat intelligence in industrial control systems http://bit.ly/1MVboZr
+﻿"乌克兰电网攻击凸显出威胁情报在工业控制系统中的重要性和紧迫性， 来自 Palo Alto Blog： https://t.co/KBfvZu0PKd "
+[ Attack ]  New Blog Post - PHP Files in CMS, Targeted for Alteration ^AF http://blog.jpcert.or.jp/2016/04/php-files-in-cms-targeted-for-alteration.html
+﻿"JPCERT 最近监测到一些网站的 PHP 文件遭到篡改并且注入了恶意代码： https://t.co/VHa2y1W3gC"
+[ Attack ]  Mumblehard spam-spewing botnet floored German CERT contacting admins of infected linux servers ~ http://m.theregister.co.uk/2016/04/07/mumblehard_spam_botnet_takedown/
+﻿"ESET 与 CyS-CERT、乌克兰网警合作，成功结束掉了 Mumblehard Botnet 的所有的攻击活动： https://t.co/vyvf3wCj5F  ESET 的分析报告： http://www.welivesecurity.com/2016/04/07/mumblehard-takedown-ends-army-of-linux-servers-from-spamming/ "
+[ Attack ]  Taiwan targeted with back door #Trojan disguised as antivirus company websites. Learn more: http://symc.ly/1XpoRta https://t.co/7LdD9HaR8V
+﻿"台湾遭到 Dripion 后门攻击， Dripion 的 C&C 服务器伪装成反病毒公司的网站 ︰ https://t.co/2wFOmDWTVH https://t.co/7LdD9HaR8V"
+[ Attack ]  Just released! The 2016 Symantec Internet Security Threat Report. The details: http://symc.ly/1XsTQVc #SymantecISTR https://t.co/fpg8MeO7AV
+﻿"赛门铁克发布 《2016 年互联网安全威胁报告》 ︰ https://t.co/lFtwX2AFxZ   https://t.co/fpg8MeO7AV"
+[ Attack ]  2013 DDoS Attacks on US Banking Sector Used Sweden's Military Servers http://ow.ly/10z8QZ
+﻿"据瑞典的《每日新闻》报道，瑞典军队的一批 Web 服务器遭劫持和攻击，参与了 2013 年针对美国银行的 DDoS 攻击：  https://t.co/Nle8pAdsDi"
+[ Attack ]  New @ DeepEndResearch post: "JBoss exploits - View from a Victim" - http://www.deependresearch.org/2016/04/jboss-exploits-view-from-victim.html
+﻿"从被攻击者的角度看 JBoss Exploits： https://t.co/cecP7enlPT"
+[ Attack ]  [White Paper] Learn why cyber attackers are targeting higher education. http://bddy.me/1XvfU1v #highereducation https://t.co/RJN1Xtnffm
+﻿"为什么攻击者如此青睐高等教育机构， FireEye 评估了 100 所高校的网络，发现全部存在漏洞：  https://t.co/Rgg7EdI78o   https://t.co/RJN1Xtnffm"
+[ Attack ]  New post: US and European companies Top Targets of CEO Fraud http://bit.ly/263mlPg @ TrendMicro
+﻿"FBI 发布警告称： CEO 邮件诈骗攻击的数量在上升， 来自 TrendMicro Blog： https://t.co/UAAcpdWAjl "
+[ Attack ]  Estonia’s intelligence services report for 2015 is a must read if you’re interested in espionage, Russia or policy. https://www.kapo.ee/sites/default/files/public/content_page/Annual%20Review%202015.pdf
+﻿"爱沙尼亚的 2015 情报服务报告： https://t.co/7ZkCeFdTC8"
+[ Attack ]  Join us for this webcast: The Attacker's Dictionary: Auditing Criminal Attacks #Rapid7 https://information.rapid7.com/the-attackers-dictionary-auditing-criminal-attacks-apac.html#.VxB90PGMeoU.twitter via @ rapid7
+﻿" 攻击者的字典  - Rapid7 通过蜜罐收集了 22 万条日志，包含攻击者使用过的密码信息，报告下载：  https://t.co/bXchcqmLbS"
+[ Attack ]  RCMP obtained key to hack BlackBerry communications: report http://www.huffingtonpost.ca/2016/04/14/blackberry-decryption-key-rcp_n_9692680.html
+﻿"加拿大警察拥有 BlackBerry 手机的主加密 Key，可以解密 BlackBerry 的通信消息：  https://t.co/ONej8ADBtS"
+[ Attack ]  w3c suffered a data breach: https://www.w3.org/wiki/AdvisoryCommittee/2016-04-data-breach
+﻿"w3c 遭到攻击，成员信息、部分邮件信息泄漏 ︰ https://t.co/2muenQBVnJ"
+[ Attack ]  Very interesting writeup (spanish) describing how HackingTeam was hacked (opsec tips included): http://pastebin.com/raw/GPSHF04A
+﻿"Hacking Team 是如何被黑的，西班牙语版 ︰ https://t.co/Dm9WRsKLBn   英文版： https://ghostbin.com/paste/2w26u   还有一篇 MotherBoard 的报道文章： https://motherboard.vice.com/read/the-vigilante-who-hacked-hacking-team-explains-how-he-did-it "
+[ Attack ]  New post: “Operation C-Major” Actors Also Used Android, BlackBerry Mobile Spyware Against Targets http://bit.ly/1Wb4EbY @ TrendMicro
+﻿" 在针对印度的 'C-Major' 信息窃取行动中，攻击者也会通过手机端窃密，包括使用 Android 和 BlackBerry 间谍软件：  https://t.co/fr0hdIdw8y  "
+[ Attack ]  Over the last year Google detected nearly 800,000 compromised websites. #big #number https://security.googleblog.com/2016/04/helping-webmasters-re-secure-their-sites.html
+﻿"在过去一年中，Google 检测到了 80 万个被入侵的网站： https://t.co/49GjP68oV3"
+[ Attack ]  How I hacked my local ISP and some general advice/learnings. https://blog.harshillodhi.co.in/how-i-hacked-into-my-isp-and-what-i-learnt-in-the-process/
+﻿"我是如何黑掉我的 ISP 的： https://t.co/JO95mVdFGf"
+[ Attack ]  Between Hong Kong and Burma: Tracking UP007 and SLServer Espionage Campaigns https://citizenlab.org/2016/04/between-hong-kong-and-burma/
+﻿"攻击香港民主人士的两大恶意软件家族： UP007 和 SLServer, 来自 CitizenLab 的分析文章： https://t.co/0EkX3w0quZ"
+[ Attack ]  IBM warns a spike in the number of PHP C99 Webshell Attacks http://securityaffairs.co/wordpress/46449/hacking/c99-webshell-attacks.html
+﻿"IBM 警告称 PHP C99 Webshell 变种攻击数量出现顶峰：  https://t.co/duai93RkPU "
+[ Attack ]  APT Targeting Tibetans Packs Four Vulnerabilities in One Compromise: https://threatpost.com/apt-targeting-tibetans-packs-four-vulnerabilities-in-one-compromise/117493/ via @ threatpost
+﻿"据 Arbor Networks 发现， 在针对藏._族的 APT 攻击行动中， 攻击者一次使用了 4 个 RTF 的漏洞（CVE-2012-0158, CVE-2012-1856, CVE-2015-1641, CVE-2015-1770）, 来自 ThreatPost 的报道： https://t.co/SsIFwAwcYk   来自 Arbor 的报告： https://www.arbornetworks.com/blog/asert/wp-content/uploads/2016/04/ASERT-Threat-Intelligence-Report-2016-03-The-Four-Element-Sword-Engagement.pdf "
+[ Attack ]  Lottery security director hacked random-number generator to rig lotteries http://securityaffairs.co/wordpress/46400/cyber-crime/security-director-hacked-lottery.html
+﻿"彩票安全主管黑掉随机数生成器操纵彩票： https://t.co/VpuVxyMFDq"
+[ Attack ]  Fake Social Button Plugin Redirects to Angler EK | Malwarebytes Labs http://ow.ly/4mWn7Q
+﻿"假社交网络插件会将用户重定向到 Angler EK 网站， 来自 Malwarebytes Blog： https://t.co/8Gp5iQGmVq"
+[ Attack ]  #Unit42 finds new Poison Ivy RAT dubbed #SPIVY targeting Hong Kong pro-Democracy activists http://bit.ly/1NngT3t
+﻿" Poison Ivy 远控工具的新变种攻击香港民主人士， 来自 Palo Alto Blog： https://t.co/a6mqXGxsTP"
+[ Attack ]  Nuclear Exploit Kit Service Cashes In With Ransomware https://packetstormsecurity.com/news/view/26563/Nuclear-Exploit-Kit-Service-Cashes-In-With-Ransomware.html
+﻿"Nuclear Exploit Kit 服务通过勒索软件套现， 来自 ArsTechnica 的报道： https://t.co/k2kriLFWTG"
+[ Attack ]  The Ghost Dragon (APT group) https://blog.cylance.com/the-ghost-dragon
+﻿"Ghost Dragon APT 组织，主要攻击目标为中国和俄罗斯。来自 Cylance 的分析： https://t.co/tAJiJLMdCE"
+[ Attack ]  Possible Jenkins Project Infrastructure Compromise https://jenkins.io/blog/2016/04/22/possible-infra-compromise/
+﻿"Jenkins 项目基础设施可能被黑， 官方 Blog： https://t.co/y1wzndcVuT"
+[ Attack ]  Personal info of 93.4 million Mexicans exposed on AWS through unpassworded MongoDB https://www.databreaches.net/personal-info-of-93-4-million-mexicans-exposed-on-amazon/ https://t.co/YYFfwgnsUP
+﻿" 9340 万墨西哥人的个人信息暴露在了 AWS 上： https://t.co/A8Df2YMoR3 https://t.co/YYFfwgnsUP"
+[ Attack ]  Two bytes to $951M : http://baesystemsai.blogspot.in/2016/04/two-bytes-to-951m.html https://t.co/YUh2Y7iyU1
+﻿"两字节与 9.51 亿的孟加拉国银行盗窃案: https://t.co/qLV5CPQW4x https://t.co/YUh2Y7iyU1"
+[ Attack ]  The hacker group Armada Collective, is threatening VPN providers with DDOS attacks http://www.digitaltrends.com/computing/blackvpn-armada-collective-ddos-threats-ransom-demands/ via @ DigitalTrends
+﻿"V.P.N 提供商 BlackV.P.N 因为拒绝 Armada 黑客组织的勒索请求，遭到 DDoS 攻击威胁：  https://t.co/M3c8R5O0kg"
+[ Attack ]  Our latest blog digs deep into the PLATINUM APT group: http://ow.ly/4n5SNc
+﻿"深度挖掘 Platinum（白金） APT 组织， 来自微软 Blog ︰ https://t.co/etQzAdOd6x"
+[ Attack ]  Forcepoint Security Labs Publishes 2016 Global Threat Report: Forcepoint™ Security Labs™… http://j.mp/1SHopFF https://t.co/zl4z4ERFwt
+﻿"Forcepoint 发布 《2016 年全球威胁报告》，报告分为 5 章节：内部威胁、高级威胁、Web 和邮件威胁、云上的威胁、专家访谈： https://t.co/NFeos8CqeH https://t.co/zl4z4ERFwt"
+[ Attack ]  2016 VZN data breach report is out. Top hits: old bugs, outdated Flash, unpatched Joomla/Wordpress 3rd party plugins http://www.verizonenterprise.com/resources/reports/rp_DBIR_2016_Report_Insiders_en_xg.pdf
+﻿"Verizon 发布 2016 年数据泄露调查报告（如果无法访问，请用 Prox.y）： https://t.co/cUyMeYb0sH  上个月发过另一篇报告： http://www.verizonenterprise.com/resources/reports/rp_data-breach-digest_xg_en.pdf "
+[ Attack ]  Time Is Money: GozNym Launches Redirection Attacks in Poland http://ow.ly/4n7cF6
+﻿"时间就是金钱︰ GozNym 在攻击完北美的银行之后，立即开始投入新目标 - 波兰的银行：  https://t.co/3i0R0wZuQU"
+[ Attack ]  Massive security breach at German Nuclear power plant ~ http://www.express.co.uk/news/world/664868/German-nuclear-plant-security-breach-fears-cyber-hackers-gain-access-atomic-site
+﻿"德国核电站的计算机中发现了大量的病毒， 这些病毒可以让攻击者控制移动放射性燃料棒的设备： https://t.co/DkMj8RFWiQ"
+[ Attack ]  冒充最高检网络电信诈骗之追溯 - http://bobao.360.cn/learning/detail/2851.html
+﻿"冒充最高检网络电信诈骗之追溯 - https://t.co/99wmcVYM3G"
+[ Attack ]  Oh man: vulnerability in huge dark web marketplace leaves private messages exposed; containing orders, addresses etc https://motherboard.vice.com/read/vulnerability-in-huge-dark-web-marketplace-exposes-private-messages-alphabay-reddit
+﻿"AlphaBay，当前最大的黑市，本周被爆出其 API 中存在 Bug，可以泄露订单和地址信息： https://t.co/jco0GwBbBo"
+[ Attack ]  Repackaging Open Source #BeEF Browser Exploitation Framework for #APT campaigns https://securelist.com/blog/software/74503/freezer-paper-around-free-meat/
+﻿"伊朗的一家网站被攻击者嵌入了 BeEF（浏览器漏洞利用框架）： https://t.co/lxtShWXTDx "
+[ Attack ]  Qatar National Bank 1.5 Gb archive leaked online http://securityaffairs.co/wordpress/46764/data-breach/qatar-national-bank-data-leak.html
+﻿"卡塔尔国家银行 1.5 GB 文档泄露： https://t.co/mEzM35Ob5S"
+[ Attack ]  Pwnedlist vulnerability exposed 866M accounts http://www.scmagazine.com/pwnedlist-vulnerability-exposed-866m-accounts/article/493722/
+﻿"Pwnedlist 网站漏洞泄漏 8.66 亿用户信息，Pwnedlist 网站主要为企业提供追踪密码泄漏的服务： https://t.co/gxuNIaiXst"
+[ Attack ]  Which countries in EMEA are most targeted with advanced attacks? Find out more: http://bddy.me/21vVc41 #infosec https://t.co/j8cscmPLCi
+﻿"来自 FireEye 的区域性高级威胁报告： 欧洲、中东和非洲 ︰ https://t.co/sfGKtaoo6m   https://t.co/j8cscmPLCi"
+[ Attack ]  JAKU - Analysis of Botnet Campaign : https://www.forcepoint.com/sites/default/files/resources/files/report_jaku_analysis_of_botnet_campaign_en_0.pdf (pdf/wp)
+﻿"JAKU Botnet 攻击行动分析报告， 来自 ForcePoint：  https://t.co/JcbiFydGPx  "
+[ Attack ]  How to Fall Victim to Advanced Persistent Threats > my newest article, thx to all involved https://www.bsk-consulting.de/2016/05/04/how-to-fall-victim-to-apt/ https://t.co/uAYLX2jicP
+﻿" 哪些行为可以 '帮助' 攻击者实施一次成功的 APT： https://t.co/7WsbZd3y3p https://t.co/uAYLX2jicP"
+[ Attack ]  Hacker collects 272m email addresses and passwords, some from Gmail http://flip.it/qKnQ9
+﻿"黑客收集了 2.72 亿的邮箱账户和密码，其中一部分来自 Gmail： https://t.co/Urw5uimP2D"
+[ Attack ]  The DBIR’s ‘Forest’ of Exploit Signatures http://blog.trailofbits.com/2016/05/05/the-dbirs-forest-of-exploit-signatures/ via @ trailofbits
+﻿"数据泄露报告的攻击签名森林： https://t.co/CjImeJruBP"
+[ Attack ]  Just blogged: Here's how I verify data breaches http://ift.tt/1WeDZg1
+﻿"如何核实大规模的数据泄露事件： https://t.co/2FO6P8fK9S"
+[ Attack ]  . #Stuxnet 2010 bugs among most targeted flaws identified in @ Microsoft #SIR https://threatpost.com/old-exploits-die-hard-says-microsoft-report/117918/
+﻿"上周四微软发布威胁情报报告，报告中提到，旧 Exploit 难以根除，新 Exploit 即将来袭： https://t.co/6gTHxNvys7  报告下载： http://download.microsoft.com/download/E/8/B/E8B5CEE5-9FF6-4419-B7BF-698D2604E2B2/Microsoft_Security_Intelligence_Report_Volume_20_English.pdf "
+[ Attack ]  IT threat evolution in Q1 2016 - Securelist http://ow.ly/4ntXd2
+﻿"Kaspersky 发布《2016 年第一季度威胁趋势报告》：  https://t.co/fucunkTVYM"
+[ Attack ]  #Unit42 finds #KRBanker targeting South Korea through adware and exploit kits http://bit.ly/1T1kscO
+﻿" KRBanker 利用恶意广告和 Exploit Kit 攻击韩国： https://t.co/jaMXjffCqC "
+[ Attack ]  Random OSINT lead: https://www.passivetotal.org/passive/linkconf.net #kaspersky #mask #careto http://kasperskycontenthub.com/wp-content/uploads/sites/43/vlpdfs/unveilingthemask_v1.0.pdf
+﻿" Kaspersky 2014 年的一篇 APT 报告：《揭开 'Careto' 的面纱》 ︰ https://t.co/4XkQ31GY17  https://t.co/brRLTRJGVF"
+[ Attack ]  Threat actor leverages #Windows #0day exploit in payment card data attacks https://www.fireeye.com/blog/threat-research/2016/05/windows-zero-day-payment-cards.html https://t.co/Q1ixWLjWbv
+﻿"支付卡数据攻击中的 Windows 提权 0Day： https://t.co/UGjbcFN05d https://t.co/Q1ixWLjWbv  "
+[ Attack ]  SWIFT Warns of Second Bank Attack via PDF Malware: https://threatpost.com/swift-warns-of-second-bank-attack-via-pdf-malware/118078/ via @ threatpost
+﻿"SWIFT（环球金融电信协会）警告称，3 月初孟加拉国中央银行被黑客攻击后，近期又有一家银行遭到攻击，黑客绕过了这家银行的风险控制系统，进入了资金转移系统。这两次攻击手法非常相似，来自 ThreatPost 的报道： https://t.co/B4tXlsChYV"
+[ Attack ]  .@ _jsoo_ In case most ppl don't understand Italian, slides are here http://www.hackinbo.it/programma-2/ @ embyte 's slide is here http://www.hackinbo.it/wp-content/uploads/2016/05/Marco-Balduzzi-HackInBo.pdf
+﻿" 暗网中的网络犯罪调查报告，来自 TrendMicro 研究员在 HackInBo 会议的演讲：  https://t.co/uYsS3sC4qN"
+[ Attack ]  How I found a huge data leak of a company during a college lecture : http://sijmen.ruwhof.net/weblog/937-how-i-found-a-huge-data-leak-of-a-company-during-a-college-lecture
+﻿"我是如何在一次大学演讲中发现了一家公司数据泄漏的︰ https://t.co/B9U8oSdLIw"
+[ Attack ]  DarkHotel定向攻击样本分析 - http://bobao.360.cn/learning/detail/2869.html
+﻿"DarkHotel 定向攻击样本分析，来自 360 播报： https://t.co/Ot5ddapLKa"
+[ Attack ]  Nulled.io data dumped online. https://threatpost.com/info-on-500k-users-doxxed-in-hacking-forum-dump/118114/ via @ threatpost
+﻿" 地下黑市论坛 Nulled.io 本月被黑，50 万用户数据泄漏， Nulled.io 论坛主要用于地下黑客交换数据，这次被黑可能是因为 ImageTragick 漏洞，来自 ThreatPost 报道：  https://t.co/H9IwBzs4g9"
+[ Attack ]  New Angler Campaign Hacks 19 Websites, including UltraVNC http://www.cyphort.com/angler-hacks-vnc/
+﻿" Cyphort 最近监测到 Angler EK 攻击了 19 家网站，其中包括 UltraVNC： https://t.co/7arwOjdogn"
+[ Attack ]  Notorious Hacking Groups in mid 2016 http://marcoramilli.blogspot.com/2016/05/notorious-hacking-groups-in-mid-2016.html
+﻿" 臭名昭著的黑客组织（2016 年中版）： https://t.co/8ure6lcwA1 "
+[ Attack ]  APT Campaign against Ukranian Separatists http://www.welivesecurity.com/wp-content/uploads/2016/05/Operation-Groundbait.pdf
+﻿" Groundbait - 针对乌克兰分裂分子的 APT 行动，来自 WeLiveSecurity 的分析报告： https://t.co/MInMiJ3r33 "
+[ Attack ]  Indian organizations targeted in Suckfly attacks http://www.symantec.com/connect/ko/blogs/indian-organizations-targeted-suckfly-attacks
+﻿"印度多个组织受到 Suckfly 的定向攻击，来自 Symantec Blog： https://t.co/ehtHNi0hhw"
+[ Attack ]  Bank Hack – How to steal $25 Billion with a few lines of code http://securityaffairs.co/wordpress/47420/security/25-billion-bank-hack.html
+﻿" 安全专家发现了一个漏洞，利用这个漏洞，任何人都可以从印度最大的一家银行盗走 250 亿美元，来自 SecurityAffairs 的报道： https://t.co/r73Tw6i6jB "
+[ Attack ]  A cybercriminal puts the email addresses and passwords of 117M LinkedIn users up for sale http://bit.ly/1YCvWHx
+﻿" 1.17 亿的 LinkedIn 用户邮箱和密码正在被黑客售卖： https://t.co/9PQs6Xok9c"
+[ Attack ]  Sucuri's first "Website Hacked Report" https://sucuri.net/website-security/website-hacked-report
+﻿"Sucuri 发布的 2016 Q1 Website Hacked Report，对 1.1 万个被黑网站的分析： https://t.co/FS6y4VqnO8"
+[ Attack ]  Good, at least we know banks use Foxit Reader - a PDF reader does not have a sandbox. https://blogs.mcafee.com/mcafee-labs/attacks-swift-banking-system-benefit-insider-knowledge.
+﻿" 在信息收集阶段，攻击 SWIFT 银行系统的黑客通过内部员工获取重要信息： https://t.co/oaMNBDbNGB  Haifei Li 评论说，至少我们知道了银行在使用福昕阅读器，而这款阅读器是没有沙箱的"
+[ Attack ]  Widespread Vulnerable Ads (Part Two) : Flash Edition (Facebook’s LiveRail, Akamai, Adobe products affected) : https://randywestergren.com/widespread-vulnerable-ads-part-two-flash-edition-facebooks-liverail-akamai-adobe-products-affected/
+﻿"广泛传播的存在漏洞的广告（Part 2）︰ Flash 版: https://t.co/voMk9cddre"
+[ Attack ]  Tech Support Scammers using Winlogon https://blog.malwarebytes.org/cybercrime/2016/05/tech-support-scammers-using-winlogon/
+﻿"技术支持骗子通过修改 Winlogon 注册表项诈骗用户： https://t.co/GUSN7xyIy0"
+[ Attack ]  FireEye detects unique #cyber attacks targeting banks in Middle East: http://bddy.me/27Qhemh #infosec
+﻿"FireEye 捕获到一个针对中东地区银行的定向攻击︰ https://t.co/4WjbQY7NSK "
+[ Attack ]  Excellent report from MELANI / GovCERT.ch about the APT attack against RUAG: https://www.govcert.admin.ch/blog/22/technical-report-about-the-ruag-espionage-case #turla
+﻿" 瑞士拉格公司(RUAG) APT 攻击分析报告，来自瑞士 CERT 披露: https://t.co/afSmeqC02H "
+[ Attack ]  #Unit42 discovers new #Wekby attack using DNS requests as C2 mechanism http://bit.ly/1TUGTQN #cybersecurity
+﻿" APT 组织 Wekby 利用 DNS 作为 C&C 信道攻击美国的一些机构： https://t.co/Glq9sT6Cst "
+[ Attack ]  Leaked data results in 1.4B Yen stolen from ATMs: http://bit.ly/1WNwaOb #cybersecurity
+﻿" 据报道，本月日本银行 ATM 机发生盗取事件，不到 3 小时被盗 14 亿日元︰ https://t.co/34CgZKag2o "
+[ Attack ]  High-Profile Cyber Theft Against Banks Targeted SWIFT Systems http://blog.trendmicro.com/trendlabs-security-intelligence/high-profiled-cyber-theft-against-banks-targeted-swift-systems/
+﻿"高调的黑客针对性的攻击银行 SWIFT 系统，来自 TrendMicro Blog： https://t.co/TYFmUfnfqH"
+[ Attack ]  VASCO’s Mobile Banking Security eBook https://www.grahamcluley.com/2016/05/vasco-feed-sponsor-5/
+﻿" 来自 VASCO 的手机银行安全研究报告： https://t.co/TetELl8T6t"
+[ Attack ]  Turning Criminal Forum Exploit Chatter Into Vulnerability Risk Analysis https://www.recordedfuture.com/vulnerability-risk-analysis/
+﻿" 将犯罪论坛漏洞利用板块转化成漏洞风险分析： https://t.co/7AOHjUafMH"
+[ Attack ]  2.5k Twitter Accounts Hacked To Spread Links To Adult Content https://packetstormsecurity.com/news/view/26657/2.5k-Twitter-Accounts-Hacked-To-Spread-Links-To-Adult-Content.html
+﻿" 超过 2500 个 Twitter 帐户被黑，传播成人网站链接： https://t.co/iE0QTuhL0w"
+[ Attack ]  Two new #APT groups among a half-dozen using CVE-2015-2545 in targeted attacks. https://threatpost.com/apt-groups-finding-success-with-patched-microsoft-flaw/118298/ via @ threatpost
+﻿" 到底有多少个 APT 组织用过 CVE-2015-2545 这个漏洞， CVE-2015-2545 是个 Office 的漏洞，来自 ThreatPost 的报道： https://t.co/7PHnCAdb4W  来自 Kaspersky Blog 的分析： https://securelist.com/analysis/publications/74828/cve-2015-2545-overview-of-current-threats/ "
+[ Attack ]  Am I in a VM? – The tale of a targeted Phish http://labs.bromium.com/2016/05/25/am-i-in-a-vm-the-tale-of-a-targeted-phish
+﻿"我在虚拟机里吗？ — 定向钓鱼的故事，来自 Bromium Blog： https://t.co/gxfJ5MBBGC "
+[ Attack ]  Dozens of VISA HTTPS-protected sites vulnerable to Forbidden attack http://securityaffairs.co/wordpress/47724/breaking-news/forbidden-attack.html
+﻿" 隶属 VISA 的大量 HTTPS 保护的网站易受 'Forbidden Attack' 攻击，70000 服务器受影响，来自 SecurityAffaris 的报道： https://t.co/LjkFJNuKON"
+[ Attack ]  Overview of the SWIFT Related Hacks https://t.co/cAr90GjUXz
+﻿" 一张图展示 SWIFT 相关的黑客攻击事件： https://t.co/cAr90GjUXz "
+[ Attack ]  [Intel Security] Android Banking Trojan ‘SpyLocker’ Targets More Banks in Europe https://goo.gl/5QSs9v
+﻿" Android 银行木马 'SpyLocker' 将攻击目标设为欧洲的很多银行，来自 McAfee Blog： https://t.co/5XfLMTX9vs"
+[ Attack ]  The OilRig Campaign: Attacks on Saudi Arabian Organizations Deliver Helminth Backdoor http://researchcenter.paloaltonetworks.com/2016/05/the-oilrig-campaign-attacks-on-saudi-arabian-organizations-deliver-helminth-backdoor/
+﻿" OilRig 行动 - 针对沙特阿拉伯组织的定向攻击与 Helminth 后门，来自 Palo Alto Blog： https://t.co/rzTbb4SsVr "
+[ Attack ]  Hackers Stole 68 Million Passwords From Tumblr, New Analysis Reveals https://motherboard.vice.com/read/hackers-stole-68-million-passwords-from-tumblr-new-analysis-reveals
+﻿"黑客从 Tumblr 窃取 6800 万用户密码： https://t.co/LkxB9YwzH7"
+[ Attack ]  Awesome report published by @ citizenlab on Stealth Falcon. Infra indicators are available inside of @ PassiveTotal. https://citizenlab.org/2016/05/stealth-falcon/
+﻿" 暗处的猎鹰（Stealth Falcon） - 针对阿联酋异见者的间谍攻击行动，来自 CitizenLab： https://t.co/2faOtfirRU"
+[ Attack ]  Android Spyware Targets Security Job Seekers in Saudi Arabia https://blogs.mcafee.com/mcafee-labs/android-spyware-targets-security-job-seekers-in-saudi-arabia/
+﻿"  攻击目标为沙特阿拉伯安全岗位求职者的 Android 间谍软件，来自 McAfee Blog： https://t.co/9KxEgYhqga"
+[ Attack ]  North Korea Fingered In Swift Payments Systems Heists https://packetstormsecurity.com/news/view/26674/North-Korea-Fingered-In-Swift-Payments-Systems-Heists.html
+﻿"朝鲜被指与最近的 SWIFT 支付系统攻击事件有关： https://t.co/VcwerWM6L5"
+[ Attack ]  There is no barrier to developing malware. Even ISIS managed to produce custom malware for a targeted attack! https://citizenlab.org/2014/12/malware-attack-targeting-syrian-isis-critics/
+﻿" 针对叙利亚 ISIS 批评者的恶意软件攻击行动，来自 Citizen Lab 2014 年的一篇 Blog：  https://t.co/8GfwFAVUp5 "
+[ Attack ]  #IRONGATE ICS-focused #malware: masking malicious activity on SCADA systems http://bddy.me/1sOIjpF
+﻿"IRONGATE - 专门攻击西门子工控系统的恶意软件家族，来自 FireEye Blog: https://t.co/uWMiIb4i4f "
+[ Attack ]  Get your guide of #zeroday exploits to learn how attacks happen and how to protect: http://symc.ly/20U14Dc #0day https://t.co/Esd8q84uze
+﻿" 0Day 攻击是如何发生的，又该如何防御，来自 Symantec Blog︰ https://t.co/oB9sQuq8dQ  https://t.co/Esd8q84uze"
+[ Attack ]  美人鱼行动：长达6年的境外定向攻击活动揭露 - http://www.freebuf.com/articles/network/105726.html
+﻿"美人鱼行动：长达6年的境外定向攻击活动揭露，来自 FreeBuf，作者为 360 天眼实验室： https://t.co/NxctbuvGHq"
+[ Attack ]  Deconstructing a Dropbox Phish http://garwarner.blogspot.com/2016/06/deconstructing-dropbox-phish.html
+﻿" 对一次 Dropbox 钓鱼攻击事件的分析： https://t.co/jqPM0MpQVT"
+[ Attack ]  #TorrentLocker's latest campaign exploits Spain's largest electric utility: http://intel.ly/1ROQirv #ransomware https://t.co/p7agbOvti8
+﻿" TorrentLocker 勒索软件最近攻击了西班牙最大的电力公司，来自 McAfee Blog︰ https://t.co/2HKPkJPE8l   https://t.co/p7agbOvti8"
+[ Attack ]  #TeamViewer breached: PCs hijacked, PayPal accounts raided as TeamViewer falls..http://www.theregister.co.uk/2016/06/01/teamviewer_mass_breach_report/ via @ theregister
+﻿"TeamViewer 用户反馈自己的电脑被黑、银行账户被清空，疑似 TeamViewer 被黑。但 TeamViewer 官方否认了这一说法，来自 TheRegister 的报道： https://t.co/fc8rQlYClE  Reddit 上的讨论: https://www.reddit.com/r/teamviewer "
+[ Attack ]  So according to Symantec if I add this piece of pseudo-code North Korea did it ? #Lazarus http://pastebin.com/dBP1ii5m/?e=1 https://t.co/5OjTzDEV5v
+﻿" Banswift 木马的一段伪代码： https://t.co/JQb3RlmzJI https://t.co/5OjTzDEV5v"
+[ Attack ]  APT Group Sends Spear Phishing Emails to Indian Government Officials http://www.fireeye.com/blog/threat-research/2016/06/apt_group_sends_spea.html
+﻿"APT 攻击者发送钓鱼邮件给印度政府官员，来自 FireEye Blog： https://t.co/Nzi2mYXney"
+[ Attack ]  Tumblr 's Database leak https://mega.nz/#!V9ZmSCCS!lRgT4irycFEefJvWVm0-xZOuhNRZP7Hg41rJJuydSQY
+﻿"Tumblr 泄漏的数据库下载： https://t.co/P9uxPHovAn"
+[ Attack ]  The Famous Acunetix Web Vulnerability Scanner http://acunetix.com Just got #hacked! Site is down. #hacking https://t.co/MhoD35euKb
+﻿"著名的 Acunetix Web 漏洞扫描器官网被黑，首页被克罗地亚黑客篡改： http://exploitgate.com/acunetix-website-got-hacked-croatian-hackers/   FreeBuf 的报道： http://www.freebuf.com/news/106119.html "
+[ Attack ]  171 million http://VK.com accounts stolen by hackers, and are now for sale http://www.zdnet.com/article/vkontakte-vk-hacked-171-million-accounts-sold-dark-web/
+﻿"1.71 亿 VK.com 账户信息被黑客盗取，而且正在被出售。 来自 ZDNet 的报道： https://t.co/bCcylamlUw  VK.com 是欧洲最大的社交网络平台"
+[ Attack ]  Ouch. Mark Zuckerberg's social media accounts have been hacked https://t.co/KvVmXOIg5s
+﻿" 马克 · 扎克伯格的 Twitter 和 Pinterest 账号被黑，来自 SoftPedia 的报道： http://news.softpedia.com/news/saudi-hackers-take-over-mark-zuckerberg-s-twitter-and-pinterest-accounts-504893.shtml "
+[ Attack ]  Rotten Apples: Apple-like Malicious Phishing Domains http://www.fireeye.com/blog/threat-research/2016/06/rotten_apples_apple.html
+﻿" 腐烂的 Apple - 那些模仿 Apple 网站的钓鱼域名： https://t.co/ZMw7oKBE6S"
+[ Attack ]  Latest Intelligence for May 2016 http://www.symantec.com/connect/ko/blogs/latest-intelligence-may-2016-0
+﻿" Symantec 安全情报报告（2016.05）： https://t.co/HHEjPOF1bO"
+[ Attack ]  51 Million iMesh Accounts Available on Black Market https://threatpost.com/51-million-imesh-accounts-available-on-black-market/118609/
+﻿"5100 万 iMesh 帐户信息在黑市售卖： https://t.co/onGPJKcDb6"
+[ Attack ]  Dell Official Website Subdomains Hacked By Kurdish Hackers http://www.tapscape.com/dell-official-website-subdomains-hacked-kurdish-hackers/
+﻿"库尔德黑客黑掉了戴尔官方网站的子域名站点： https://t.co/i11dF9r9zu"
+[ Attack ]  Our June Threats Report is out! Dive into the findings: http://intel.ly/1UwCXpL
+﻿" McAfee 发布第二季度威胁报告︰ https://t.co/pDyEuKeg3B"
+[ Attack ]  ScarCruft APT deploys Adobe Flash Player zero-day in Operation Daybreak: https://securelist.com/blog/75082/cve-2016-4171-adobe-flash-zero-day-used-in-targeted-attacks/
+﻿" APT 组织 ScarCruft 在 Daybreak 定向攻击行动中用了一个 Flash 0Day（CVE-2016-4171），来自 Kaspersky Blog ︰ https://t.co/Kon7jBtM4j   Adobe 为该漏洞发布公告： https://helpx.adobe.com/security/products/flash-player/apsa16-03.html "
+[ Attack ]  Crooks can clone payments cards with a hi-tech contactless device http://securityaffairs.co/wordpress/48355/cyber-crime/cloning-contactless-device.html
+﻿" 骗子可以通过非接触式设备克隆支付卡，来自 SecurityAffairs 的报道： https://t.co/gl81T6fK7X"
+[ Attack ]  #Unit42 finds new #sofacy attacks against US government agency http://bit.ly/1U6GfjL
+﻿" APT 组织 Sofacy 针对美国政府机构的新一波攻击，来自 Palo Alto Blog： https://t.co/Vw7Skd1Ye9"
+[ Attack ]  xDedic - an "eBay" for hacked servers: https://securelist.com/blog/research/75027/xdedic-the-shady-world-of-hacked-servers-for-sale/
+﻿"xDedic - 专门交易被黑服务器的网站︰ https://t.co/WQs0Xhfj6p"
+[ Attack ]  IT threats during the 2016 Olympic Games in Brazil - Securelist http://ow.ly/V17G301gu7s
+﻿" 2016 巴西奥运会期间的网络威胁，来自 Kaspersky Blog： https://t.co/vE2U5WQG3B"
+[ Attack ]  Mofang : A politically motivated information stealing adversary : https://foxitsecurity.files.wordpress.com/2016/06/fox-it_mofang_threatreport_tlp-white.pdf (pdf)
+﻿" Mofang - 具有潜在政治动机的攻击组织（几乎确定来自中国），来自 Foxit 的分析报告︰ https://t.co/vQOVkkxxfC "
+[ Attack ]  Over 45 Million passwords from Verticalscope 1,000 sites leaked online http://securityaffairs.co/wordpress/48404/deep-web/verticalscope-data-breach.html
+﻿" Verticalscope 平台被黑，运行在平台上的 1,000 个网站受影响，泄漏了 4500 万份密码： https://t.co/TdNZwxQOvq"
+[ Attack ]  "Guccifer2" hacker claims responsibility for DNC hack, dumps Trump documents. https://guccifer2.wordpress.com/2016/06/15/dnc/
+﻿" 黑客 Guccifer2 声称是自己黑了 DNC（民主党委员会）的服务器，而且还发了一些文档截图证明： https://t.co/gM82RFfpg8 "
+[ Attack ]  Technical details on Operation Daybreak: Flash zero-day exploit deployed by the ScarCruft APT Group https://securelist.com/blog/research/75100/operation-daybreak/
+﻿" ScarCruft APT 组织利用 Flash 0Day 发起 'DayBreak' 攻击的技术细节，来自 Kaspersky Blog： https://t.co/0ZmMfIdQ08 "
+[ Attack ]  Deconstructing The DAO Attack: A Brief Code Tour : http://vessenes.com/deconstructing-thedao-attack-a-brief-code-tour/ ,Cached : http://goo.gl/gOAs0M
+﻿" 以太币去中心化组织 TheDao 被黑，超 5000 万美元以太币被盗， Vessenes 从代码角度的分析︰ https://t.co/LBC2xhjzmi  对 Exploit 的分析： http://hackingdistributed.com/2016/06/18/analysis-of-the-dao-exploit/ "
+[ Attack ]  Revealed earlier this month and a Must Read: the architecture of the UK targeted interception system PRESTON: https://theintercept.com/document/2016/06/07/preston-architecture/
+﻿" 英国的定向目标拦截系统 Preston 的技术架构 ︰ https://t.co/vYexVmgylK"
+[ Attack ]  Reverse-engineering DUBNIUM’s Flash-targeting exploit https://blogs.technet.microsoft.com/mmpc/2016/06/20/reverse-engineering-dubniums-flash-targeting-exploit/
+﻿" DUBNIUM APT 攻击中的 Flash Exploit 逆向分析，来自微软 Blog： https://t.co/emWKGkBO3u"
+[ Attack ]  Misconfigured email servers open the door to spoofed emails from top domains https://blog.detectify.com/2016/06/20/misconfigured-email-servers-open-the-door-to-spoofed-emails-from-top-domains/
+﻿" 邮件服务器配置不当，为来自顶级域名的欺诈邮件敞开了大门： https://t.co/SUh5tI2PDr"
+[ Attack ]  Acer to notify customers of online store data breach https://www.grahamcluley.com/2016/06/acer-customer-data-breach/
+﻿"宏碁在线购物网站通知用户数据可能发生泄漏： https://t.co/YzwsrmNC1X"
+[ Attack ]  New post: Banking Trojans as a Service—Theft Made Easy in Brazil http://bit.ly/28Jhj4a @ TrendMicro
+﻿" 巴西的 '银行木马即服务' 产业链条，来自 TrendMicro Blog： https://t.co/Y8URVTiDLL "
+[ Attack ]  REcon slides "Visiting The Bear Den" #sednit #apt28 #reconmtl are up! http://www.welivesecurity.com/wp-content/uploads/2016/06/visiting_the_bear_den_recon_2016_calvet_campos_dupuy-1.pdf with @ __ek0 @ nyx__o
+﻿" 参观熊窝 - 追踪 APT 组织 Sednit 的间谍行动，来自 ESET 研究员在 RECon 会议的演讲： https://t.co/iOWBHcwBrf "
+[ Attack ]  GitHub Security Update: Reused password attack from attackers replayed using lists of compromised accounts https://github.com/blog/2190-github-security-update-reused-password-attack
+﻿"周二晚上，有黑客尝试通过密码撞库攻击的方式攻击 GitHub 用户账户，来自 GitHub Blog：  https://t.co/UzhwpzXWX3 "
+[ Attack ]  Our analysis of AngryBirds' xDedic Pastebin leak: https://securelist.com/blog/research/75120/the-tip-of-the-iceberg-an-unexpected-turn-in-the-xdedic-story/ https://t.co/YcY6ll9FpV
+﻿" xDedic 故事未曾料到的逆转 ︰ https://t.co/TeYsfT8xUD https://t.co/YcY6ll9FpV"
+[ Attack ]  Red Line Drawn: China Recalculates Its Use of #CyberEspionage https://www.fireeye.com/blog/threat-research/2016/06/red-line-drawn-china-espionage.html #ThreatIntel https://t.co/IOSdXq8Liw
+﻿" 一条红线与中.国的网络间.谍攻击分析报告，来自 FireEye： https://t.co/B79MurlWRM   https://t.co/IOSdXq8Liw"
+[ Attack ]  Resurrection of the Evil Miner http://www.fireeye.com/blog/threat-research/2016/06/resurrection-of-the-evil-miner.html
+﻿"邪恶矿工的复活（比特币挖矿攻击行动），来自 FireEye Blog： https://t.co/OUbzqcsW5n"
+[ Attack ]  Fraudsters are Buying IPv4 Addresses https://www.schneier.com/blog/archives/2016/06/fraudsters_are_.html
+﻿" IPv4 地址买卖中的诈骗： https://t.co/aMiS4HKOmB"
+[ Attack ]  Hewlett Packard Enterprise (HPE) Cyber Risk Report 2016 http://techbeacon.com/resources/2016-cyber-risk-report-hpe-security
+﻿" 惠普 HPE 团队发布 2016 安全风险研究报告： https://t.co/U3ZGkrudoo"
+[ Attack ]  Carbonite online backup accounts under password reuse attack, Stop passwork-reuse abuse ! ~ http://www.theregister.co.uk/2016/06/22/carbonite_accounts_password_reuse_attack/ via @ theregister
+﻿" 在线备份服务厂商 Carbonite 遭到密码重用攻击，来自 TheRegister 的报道：  https://t.co/VHVSAmImld"
+[ Attack ]  The number of corporate devices attacked with crypto-ransomware increased almost 6 times in the past year. https://securelist.com/analysis/publications/75145/pc-ransomware-in-2014-2016/
+﻿"2014～2016 勒索软件发展趋势报告，来自 Kaspersky： https://t.co/6tSrQyaFBg"
+[ Attack ]  T-Mobile Czech Employee Steals and Sells 1.5 Million Users Data ~ http://thehackernews.com/2016/06/t-mobile-hacked.html #Security
+﻿"T-Mobile 捷克员工窃取并售卖 150 万用户数据： https://t.co/bJ80bJShi1 "
+[ Attack ]  PunkeyPOS might have already stolen millions of payment card numbers http://securityaffairs.co/wordpress/48742/malware/punkeypos-impacts-millions-via-infected-restaurants.html
+﻿"PandaLabs 安全专家表示：PunkeyPOS 恶意软件已经盗取了 120 万独立用户的支付卡数据： https://t.co/qMZL4y2VhH"
+[ Attack ]  Locky Ransomware is back! 49 domains compromised! http://securityaffairs.co/wordpress/48725/malware/locky-ransomware-back.html
+﻿" Locky 勒索软件归来，49 个域名被攻破，来自 SecurityAffairs 的报道：  https://t.co/GoNTEupG09"
+[ Attack ]  The OurMine group also hacked the Google CEO Sundar Pichai’s Quora account http://securityaffairs.co/wordpress/48784/hacking/ourmine-group-hacked-google-ceo.html
+﻿"OurMine 组织在黑完扎克伯格之后，又黑掉了 Google CEO Sundar Pichai 的 Quora 帐户： https://t.co/vY5JkLfLZS"
+[ Attack ]  Brazilian Telecom Giant “Oi” Websites Hacked https://www.hackread.com/brazilian-telecom-giant-oi-websites-hacked/
+﻿"巴西电信巨头 Oi 网站被黑： https://t.co/dwjClEs6bz"
+[ Attack ]  Ransomware attack against Office 365, 57% of orgs received malicious file http://www.avanan.com/resources/attack-on-office-365-corporate-users-with-zero-day-ransomware-virus [Cerber bad news https://twitter.com/daniel_bilar/statuses/740138610305978368?tw_i=740138610305978368&tw_e=permalink&tw_p=archive ]
+﻿" 针对 Office 365 用户的大规模勒索软件攻击：  https://t.co/5nD3zQx3zy   https://t.co/iTu7XSQ7W4 "
+[ Attack ]  Threat Update: Nigerian Cybercriminals Target High-Impact Industries in India via Pony https://blog.cylance.com/threat-update-nigerian-cybercriminals-target-high-impact-indian-industries-via-pony
+﻿" 尼日利亚黑客攻击印度重要行业的多个公司，来自 Cylance Blog： https://t.co/Cv7WpRQzfg"
+[ Attack ]  SecureWorks, bruteforcing bit.ly links, concludes HRC/DNC campaign seniors were spearphished https://www.secureworks.com/research/threat-group-4127-targets-hillary-clinton-presidential-campaign https://t.co/iSoDustILB
+﻿" 攻击组织 4127 发起与希拉里·克林顿竞选有关的黑客攻击行动，来自 SecureWorks Blog： https://t.co/sFPt833eTh https://t.co/iSoDustILB"
+[ Attack ]  The inner workings of Pacifier APT. http://download.bitdefender.com/resources/files/News/CaseStudies/study/115/Bitdefender-Whitepaper-PAC-A4-en-EN1.pdf
+﻿" Pacifier（奶嘴） APT 攻击行动分析报告，来自 BitDefender： https://t.co/Wnl0xKqLT1"
+[ Attack ]  2 million-person terror database leaked online https://thestack.com/security/2016/06/29/2-million-person-terror-database-leaked-online/
+﻿"200 万的可疑恐怖分子数据库泄漏： https://t.co/zJ1VLuFyxX"
+[ Attack ]  Myspace database leak dump http://myspace.thecthulhu.com
+﻿"Myspace 数据库泄漏，下载地址： https://t.co/z40SzQnEqY"
+[ Attack ]  New #EMEA Report: How orgs in EMEA discover breaches & how they respond http://bddy.me/29tzq07 #infosec https://t.co/PbiP17I8kA
+﻿" 从 2015 年多起数据泄漏事件中学到的经验教训，来自 FireEye 的报告： https://t.co/4mH01SLQXU   https://t.co/PbiP17I8kA"
+[ Attack ]  New post: BEBLOH Expands to Japan in Latest Spam Attack http://bit.ly/29vlweo @ TrendMicro
+﻿" BEBLOH 银行木马从欧洲转战日本，来自 TrendMicro Blog： https://t.co/Cy7qB0XLOz "
+[ Attack ]  Details on the Realstatistics[.](info|pro) campaign: https://blog.sucuri.net/2016/07/joomla-wordpress-affected-by-realstatistics-infection-campaign-distributing-randsomware-malware.html Thousands of sites infected and distributing ransonware
+﻿" Realstatistics 攻击运动 - 近两周，数以千计的 Joomla 和 Wordpress 网站被攻击︰ https://t.co/Hl6bcWeHzD  "
+[ Attack ]  Trillian Blog and Forums pwned, emails + salted MD5s stolen https://www.trillian.im/help/trillian-blog-and-forums-security-incident/
+﻿" 即时通讯软件 Trillian 的博客和论坛被黑，电子邮件和 MD5 密码 Hash 泄漏： https://t.co/tk8ACKs21K"
+[ Attack ]  An increase of sophisticated phishing attacks in Sweden - Securelist http://ow.ly/j6Xh3020FLr
+﻿"针对瑞典的钓鱼攻击最近突然开始频繁： https://t.co/sC0rNWiGcI"
+[ Attack ]  APT Group ‘Patchwork’ Cuts-and-Pastes a Potent Attack https://threatpost.com/apt-group-patchwork-cuts-and-pastes-a-potent-attack/119081/
+﻿" Patchwork - 与东南亚和南.海有关的 APT 攻击行动，有趣的是，攻击者所用的代码几乎全是从网上复制粘贴来的： https://t.co/Jjtdj2EbAn"
+[ Attack ]  Just published "The First Cyber Espionage Attack: How Operation Moonlight Maze made history" https://medium.com/@ chris_doman/the-first-sophistiated-cyber-attacks-how-operation-moonlight-maze-made-history-2adb12cc43f7 https://t.co/SY5QZk17z1
+﻿" 第一次复杂的网络间谍攻击事件 - 月光迷宫： https://t.co/D1gnd7epCQ https://t.co/SY5QZk17z1"
+[ Attack ]  NetTraveler APT Targets Russian, European Interests: http://buff.ly/29unFF7 https://t.co/ac8UtQLaku
+﻿"NetTraveler - 针对俄罗斯及其邻国的 APT 攻击行动︰ https://t.co/PyqGUeHmwn https://t.co/ac8UtQLaku"
+[ Attack ]  Cracking the MySpace List - First Impressions http://reusablesec.blogspot.gr/2016/07/cracking-myspace-list-first-impressions.html
+﻿" 解开 MySpace 泄漏的 3.6 亿数据，据作者说，黑客早在 2008 年就窃取了这份数据：  https://t.co/N1PJMMaFeX  还有一篇分析这份数据的 Blog： http://cynosureprime.blogspot.gr/2016/07/myspace-hashes-length-10-and-beyond.html "
+[ Attack ]  Over 1000 Wendy’s restaurants hacked – customers’ credit card details stolen http://www.welivesecurity.com/2016/07/08/1000-wendys-restaurants-hacked-customers-credit-card-details-stolen/
+﻿"超过 1000 家温蒂餐厅被黑，用户信用卡和储蓄卡信息被盗，黑客在餐厅的 POS 系统中安装了恶意软件： https://t.co/RDJ60zRCHj"
+[ Attack ]  Hacker breached an Amazon server containing 80,000 login credentials http://securityaffairs.co/wordpress/49192/data-breach/hacker-breached-amazon-server.html
+﻿" 黑客 0x2Taylor 声称黑了一台亚马逊的服务器，这台服务器存有 80,000 条登录密钥信息： https://t.co/i4yhNHtyVU "
+[ Attack ]  Dropping Elephant APT Targets Old Windows Flaws https://threatpost.com/dropping-elephant-apt-targets-old-windows-flaws/119123/
+﻿" Dropping Elephant - 亚洲地区的 APT 间谍攻击行动，来自 ThreatPost 的报道： https://t.co/XV9SLvj3VA  来自 Kaspersky 的技术分析： https://securelist.com/blog/research/75328/the-dropping-elephant-actor/ "
+[ Attack ]  白象的舞步——来自南亚次大陆的网络攻击 - http://www.antiy.com/response/WhiteElephant/WhiteElephant.pdf
+﻿"白象的舞步 - 来自南亚次大陆的网络攻击，来自安天实验室： https://t.co/I0HhhtTMcr"
+[ Attack ]  This is an excellent article on CN APT - http://icitech.org/wp-content/uploads/2016/07/ICIT-Brief-China-Espionage-Dynasty.pdf #DFIR
+﻿" ICIT 对中国 APT 间谍组织的调查报告： https://t.co/x5WdhAT5m8 "
+[ Attack ]  Reverse engineering DUBNIUM –Stage 2 payload analysis - https://blogs.technet.microsoft.com/mmpc/2016/07/14/reverse-engineering-dubnium-stage-2-payload-analysis/
+﻿" DUBNIUM APT 行动中的 Payload 分析，来自微软 Blog： https://t.co/t3sxA4eDq7"
+[ Attack ]  Ubuntu Forums hack exposes 2 million users, hacker takes users, pwd, salt (no Tequila) http://zd.net/29Z9Opw #cyber #hacker #security
+﻿"Ubuntu 论坛上周四被黑，200 万用户密码信息被窃取： https://t.co/auZAvmqZ8s "
+[ Attack ]  'Prominent' Admin of Top ISIS Forum Hacked; messages dumped online https://motherboard.vice.com/read/prominent-admin-of-top-isis-jihadi-forum-hacked https://t.co/lLyQC2q65t
+﻿" 顶级 ISIS 论坛 jihadi 的管理员被黑： https://t.co/5gdzUwuE8N https://t.co/lLyQC2q65t"
+[ Attack ]  List of pseudo-APT campaigns - http://www.kernelmode.info/forum/viewtopic.php?f=16&t=4423 by @ hFireF0X
+﻿" KernelMode 论坛的用户 EP_X0FF 整理了一份 '伪 APT' 攻击行动列表： https://t.co/6xSwP2B00J  并且表示会持续更新"
+[ Attack ]  FireEye researchers look at an Amazon phishing campaign https://www.fireeye.com/blog/threat-research/2016/07/amazon-credential-shipping.html https://t.co/KHjJBvTWCG
+﻿"FireEye 对 Amazon 钓鱼攻击事件的分析： https://t.co/fgE08YLkWk https://t.co/KHjJBvTWCG"
+[ Attack ]  Number of #APT reports per vendor Quantity Top 5: @kaspersky, @FireEye, @symantec, @TrendMicro, @PaloAltoNtwks https://t.co/TmRF3BUOrK
+﻿" 各安全厂商发布的 APT 报告数量对比图： https://t.co/TmRF3BUOrK"
+[ Attack ]  Hacker steals 1.6 million accounts from top mobile game’s forum http://www.zdnet.com/article/hacker-steals-forums-of-clash-of-kings-mobile-game/#ftag=RSSbaffb68
+﻿"黑客从 '列王的纷争' 手机游戏论坛窃取了 160 万账号信息： https://t.co/hGC7s3i6Qd"
+[ Attack ]  Ex-Citibank IT bloke wiped bank's core routers, will now spend 21 months in the clink http://www.theregister.co.uk/2016/07/27/citibank_network_wipe_man_jailed/
+﻿"前花旗银行 IT 员工清空了核心路由器： https://t.co/kUWSA0aT7K "
+[ Attack ]  Kaspersky DDoS Intelligence Report for Q2 2016 https://securelist.com/analysis/quarterly-malware-reports/75513/kaspersky-ddos-intelligence-report-for-q2-2016/
+﻿"卡巴斯基 2016 第二季度 DDoS 情报报告： https://t.co/8H0CruM79V "
+[ Attack ]  Iranian ISP ‘Daba’ Hacked by Israeli Hacker; Login Data Leaked https://www.hackread.com/iranian-isp-daba-hacked-israeli-hacker/
+﻿" 以色列黑客黑掉伊朗 ISP Daba： https://t.co/MjfyYgqiMv"
+[ Attack ]  Operation Pacifier, the FBI massive hacking campaign to de-anonymize Tor users http://securityaffairs.co/wordpress/49925/laws-and-regulations/operation-pacifier-hacking-campaign.html
+﻿" Pacifier APT 攻击行动 - FBI 发起的一次针对 Tor 匿名用户的攻击，来自 SecurityAffairs 的报道： https://t.co/9ECy38UQVE  之前 BitDefender 发过一篇技术分析报告： http://download.bitdefender.com/resources/files/News/CaseStudies/study/115/Bitdefender-Whitepaper-PAC-A4-en-EN1.pdf "
+[ Attack ]  Data of 200 Million Yahoo Users Pops Up for Sale on the Dark Web : http://news.softpedia.com/news/data-of-200-million-yahoo-users-pops-up-for-sale-on-the-dark-web-506864.shtml
+﻿" 地下黑市正在售卖雅虎的 2 亿用户信息︰ https://t.co/Ke4vpT4sxs"
+[ Attack ]  Hacker Compromises Fosshub to Distribute MBR-Hijacking Malware http://news.softpedia.com/news/hacker-compromises-fosshub-to-distribute-mbr-hijacking-malware-506932.shtml
+﻿"黑客攻破 Fosshub 下载站，注入劫持 MBR 的恶意软件，来自 SoftPedia 的报道： https://t.co/JpyRglOPc8"
+[ Attack ]  NanHaiShu: RATing the South China Sea https://labsblog.f-secure.com/2016/08/04/nanhaishu-rating-the-south-china-sea/
+﻿"NanHaiShu - 南.海_领_tu 相关的间谍攻击分析报告，来自 F-Secure： https://t.co/qFJ28z26UE"
+[ Attack ]  Lack of #encryption leads to large scale cookie exposure - http://ow.ly/C3z0302WiI6 #BHUSA
+﻿" 无加密导致的大规模 Cookie 泄漏对安全和隐私的影响： https://t.co/hPHmHsZWig   PPT： https://www.blackhat.com/docs/us-16/materials/us-16-Sivakorn-HTTP-Cookie-Hijacking-In-The-Wild-Security-And-Privacy-Implications.pdf   Paper： https://www.blackhat.com/docs/us-16/materials/us-16-Sivakorn-HTTP-Cookie-Hijacking-In-The-Wild-Security-And-Privacy-Implications-wp.pdf "
+[ Attack ]  Paper and slides from our #BHUSA presentation are available at https://iranthreats.github.io
+﻿" 伊朗与软战争（Soft War）： https://t.co/EC5jxbkdJ4  PPT： https://iranthreats.github.io/us-16-Guarnieri-Anderson-Iran-And-The-Soft-War-For-Internet-Dominance-presentation.pdf  Paper： https://iranthreats.github.io/us-16-Guarnieri-Anderson-Iran-And-The-Soft-War-For-Internet-Dominance-paper.pdf "
+[ Attack ]  Security considerations for compromised Slack user tokens http://sites.udel.edu/mdevans/2016/08/04/beware-an-attack-on-slack/
+﻿" 小心针对 Slack 用户的攻击： https://t.co/U1TULF5hJL "
+[ Attack ]  Israeli security firm hacks ISIS forum, discloses future targets https://www.grahamcluley.com/2016/08/israeli-security-firm-hacks-isis-forum-discloses-future-targets/
+﻿"以色列安全公司声称，他们黑掉了一个 ISIS 论坛，发现了一些潜在的 ISIS 攻击目标： https://t.co/cYzRiWJKUl"
+[ Attack ]  Operation #Manul / Unveiling a Campaign of Intimidation, Kidnapping, and #Malware in Kazakhstan [PDF] https://www.eff.org/files/2016/08/03/i-got-a-letter-from-the-government.pdf
+﻿" Manul 攻击 - 某天，我收到了一封伪装成哈萨克斯坦政府的钓鱼邮件： https://t.co/b3EkxqHeFm "
+[ Attack ]  Symantec publishes about Regin 2.9...errr..Remsec: http://www.symantec.com/connect/blogs/strider-cyberespionage-group-turns-eye-sauron-targets
+﻿" 索伦之眼（Eye of Sauron）顶级 APT 攻击，卡巴斯基认为这次攻击的水平与 Duqu、Flame、方程式同等级。由 Strider 间谍组织发起，目标为多个国家政府部门和关键行业组织，来自赛门铁克的分析: https://t.co/3byXEQT4hk ; 其中用到了高级恶意软件 Backdoor.Remsec： http://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/Symantec_Remsec_IOCs.pdf   来自卡巴斯基的分析： https://securelist.com/analysis/publications/75533/faq-the-projectsauron-apt/   还有一篇相关的文档： https://dc414.org/download/confs/defcon13/Speeches/DC_13-Brown-Dunlop/mosquito-0.2/doc/mosquito-paper.pdf "
+[ Attack ]  How the Iranian Government Hacks Dissidents https://www.schneier.com/blog/archives/2016/08/how_the_iranian.html
+﻿" Group5 - 伊朗对叙利亚反对派的黑客攻击行动，来自 CitizenLab 的分析报告： https://citizenlab.org/2016/08/group5-syria/"
+[ Attack ]  Russian APTs Prefer #Windows, Office, Internet Explorer Exploits http://buff.ly/2aZ3EIb #cyberespionage #microsoft https://t.co/4lc3j5bcIG
+﻿" 俄罗斯在近 4 年的 APT 攻击中一共使用了 33 个漏洞，俄罗斯 APT 攻击者的'武器库'调查：  https://t.co/4lc3j5bcIG"
+[ Attack ]  Dota 2 forum breach leaks 2 million user accounts http://www.zdnet.com/article/dota-2-players-targeted-by-forum-hackers-in-new-breach/#ftag=RSSbaffb68
+﻿"Dota 2 论坛 200 万用户信息泄漏： https://t.co/BoEJhkHQ52"
+[ Attack ]  MONSOON - Analysis Of An APT Campaign https://shar.es/1ZIxgp via @ Forcepointsec
+﻿" 针对中国和南亚国家的 '季风' APT 攻击行动： https://t.co/TTGmn134GL "
+[ Attack ]  摩诃草APT组织大揭秘 by 360 https://ti.360.com/upload/report/file/mkczzbg1.pdf
+﻿"摩诃草 APT 组织大揭秘，来自 360 天眼实验室： https://t.co/RKkhKKQ61b"
+[ Attack ]  NetTraveler side-loads using Symantec EXE, hijacks legit services for #persistence. http://researchcenter.paloaltonetworks.com/2016/01/nettraveler-spear-phishing-email-targets-diplomat-of-uzbekistan/ #DFIR https://t.co/suQ3y0VaaC
+﻿"NetTraveler 钓鱼邮件攻击乌兹别克斯坦外交官员：  https://t.co/xDDbZG9oR2 "
+[ Attack ]  Here's a detailed analysis of the alleged NSA exploits recently dumped by #ShadowBrokers https://www.riskbasedsecurity.com/2016/08/the-shadow-brokers-lifting-the-shadows-of-the-nsas-equation-group/
+﻿" 有黑客声称黑进了方程式组织，并且正在拍卖偷来的 Exploits。 来自 RiskBased 的报道：揭开 NSA 方程式组织的'遮羞布'： https://t.co/58wNKcKKnT   还有一篇相关的： https://medium.com/@msuiche/shadow-brokers-nsa-exploits-of-the-week-3f7e17bdc216#.bbeo195ro   GitHub Repo： https://github.com/theshadowbrokers/EQGRP-AUCTION   压缩包下载： https://mega.nz/#!zEAU1AQL!oWJ63n-D6lCuCQ4AY0Cv_405hX8kn7MEsa1iLH5UjKU   解压密码： theequationgroup "
+[ Attack ]  The RC6 implementation from Shadowbrokers leak is the trademark of the Equation group. Our analysis: https://securelist.com/blog/research/75812/the-equation-giveaway/
+﻿" Shadowbrokers 泄漏工具中的 RC6 算法实现可以说是方程式组织的商标，RC5/RC6 这两种算法的实现比较罕见︰ https://t.co/dS23aKQ14x"
+[ Attack ]  The Equation Group Cisco ASA exploit works, turns off password requirement for SSH: https://xorcatt.wordpress.com/2016/08/16/equationgroup-tool-leak-extrabacon-demo/
+﻿"方程式组织泄漏工具中的一个关于 Cisco PIX/ASA 的 Exploit︰ https://t.co/UJX3pfMrtn"
+[ Attack ]  Snakes in the Satellites: On-going Turla Infrastructure shows continued operations. http://blog.passivetotal.org/snakes-in-the-satellites-on-going-turla-infrastructure/ #infosec #APT #ThreatHunting
+﻿" PassiveTotal 发现 Turla APT 组织所用的多个 IP 属于多个卫星提供商： https://t.co/Mna7h45ZAh "
+[ Attack ]  Operation Ghoul: targeted attacks on industrial and engineering organizations https://securelist.com/blog/research/75718/operation-ghoul-targeted-attacks-on-industrial-and-engineering-organizations/
+﻿" 盗墓者（Ghoul）定向攻击行动 - 专门攻击工控、工程、制造领域的企业和组织，来自卡巴斯基的分析： https://t.co/rSQbFuXZfV "
+[ Attack ]  .@ TaoSecurity follows up observations on China's #cyber strategies in this latest blog post http://bddy.me/2bJp1Mj https://t.co/RSvyavEL4m
+﻿" FireEye 的一篇报告：《Redline - 中国的网络间谍策略观察报告》： https://t.co/WXcS2ksK49 https://t.co/RSvyavEL4m"
+[ Attack ]  Summing up the ShadowBrokers Leak http://marcoramilli.blogspot.com/2016/08/summing-up-shadowbrokers-leak.html
+﻿" 对 ShadowBrokers 泄漏的方程式压缩包的总结： https://t.co/tu4oGHn6Kr"
+[ Attack ]  Over 25 million accounts stolen after Mail.ru forums hacked http://www.zdnet.com/article/over-25-million-accounts-stolen-after-mail-ru-forums-raided-by-hackers/#ftag=RSSbaffb68
+﻿" Mail.ru 论坛被黑，超过 2500 万账户信息被窃取： https://t.co/EE4aZnhn64"
+[ Attack ]  M-Trends Asia Pacific: Organizations Must Improve at Detecting and Responding to Breaches https://www.fireeye.com/blog/threat-research/2016/08/m-trends_asia_pacifi.html
+﻿"FireEye 发布的 《2016 年亚太地区安全趋势报告》： https://t.co/q55vhqLLMj"
+[ Attack ]  Here are 2016’s most prominent breaches and security incidents so far: http://bit.ly/2be7OYp https://t.co/7apFKkMkY1
+﻿" 趋势科技的 2016 年年中报告：勒索软件统治世界︰ https://t.co/HhqplvAHkK "
+[ Attack ]  NEW REPORT: “The Million Dollar Dissident: NSO Group’s iPhone Zero-Days used against a UAE Human Rights Defender” https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/
+﻿" 一家位于以色列的公司 NSO Group 向政府出售 Pegasus 软件，利用 3 个 iPhone 0Day 攻击阿联酋人权捍卫者： https://t.co/97YSkWM0xG   详细的报告： https://info.lookout.com/rs/051-ESQ-475/images/lookout-pegasus-technical-analysis.pdf "
+[ Attack ]  Threat Intelligence Report for the Telecommunications Industry - Securelist https://securelist.com/analysis/publications/75846/threat-intelligence-report-for-the-telecommunications-industry/
+﻿" 电信行业的威胁情报报告，来自卡巴斯基： https://t.co/DarWjWN6Ep "
+[ Attack ]  Opera server breach incident - Opera Security http://www.opera.com/blogs/security/2016/08/opera-server-breach-incident/
+﻿"Opera 的同步服务器被黑，部分用户信息遭窃取： https://t.co/1XxkqB2MdI"
+[ Attack ]  Hacker shows us how to unlock a laptop using an NSA hacking tool. https://motherboard.vice.com/read/hacker-unlock-a-laptop-nsa-tool-slotscreamer
+﻿" 黑客向大家展示如何用 NSA 的工具解锁笔记本： https://t.co/6Pzg0Gt7ev"
+[ Attack ]  German speakers targeted by Ozone RAT campaign #fortiguard https://blog.fortinet.com/2016/08/29/german-speakers-targeted-by-spam-leading-to-ozone-rat
+﻿" 德语用户遭到了 Ozone 远控的攻击，来自 Fortinet Blog： https://t.co/aTsHSXjxqn"
+[ Attack ]  71,000 Minecraft World Map accounts leaked online after 'hack' http://www.theregister.co.uk/2016/08/30/71000_minecraft_world_map_accounts_leak/
+﻿"71000 Minecraft World Map 游戏账户泄漏： https://t.co/yurdZLGING"
+[ Attack ]  Exploring the Cybercrime Underground: Part 2 – The Forum Ecosystem http://researchcenter.paloaltonetworks.com/2016/08/unit42-exploring-the-cybercrime-underground-part-2-the-forum-ecosystem/
+﻿"探索网络犯罪（二）之论坛生态系统，来自 Palo Alto： https://t.co/U0GDYGPStF"
+[ Attack ]  Kuwait Automotive Imports Company Hacked; 10k Accounts Leaked https://www.hackread.com/kuwait-automotive-imports-company-hacked/
+﻿"科威特汽车进口公司被黑，10000 账户信息泄漏： https://t.co/Cexs1LO7DM"
+[ Attack ]  Dropbox Data Breach, more than 68 Million account details leaked online http://securityaffairs.co/wordpress/50803/data-breach/dropbox-data-breach.html
+﻿"Dropbox 6800 万账户信息泄漏，该事件发生于 2012 年： https://t.co/qIZN6goyDK"
+[ Attack ]  SWIFT Warns Banks Of More Cyberattacks https://threatpost.com/swift-warns-banks-of-more-cyberattacks/120293/
+﻿" SWIFT 组织提醒银行近期警惕可能发生的的网络攻击： https://t.co/IIkItbYiqk"
+[ Attack ]  Download the full report and discover the real cost of #databreaches http://bddy.me/2chyucx #FEYEInsights https://t.co/J0NATkQPBH
+﻿" 数据泄漏的真实成本，来自 FireEye 的报告： https://t.co/WICgQXmyZp "
+[ Attack ]  Hong Kong Government Hacked by APT3 Group before elections http://securityaffairs.co/wordpress/50918/cyber-crime/apt3.html
+﻿"香港政府在 9 月 4 日的选举之前被 APT3 组织攻击： https://t.co/VqtdA5XCaR "
+[ Attack ]  WoSign Incidents Report https://www.wosign.com/report/wosign_incidents_report_09042016.pdf
+﻿" WoSign 收到了来自 Mozilla 的邮件通知，关于 3 个与 WoSign 有关的应急事件。来自 WoSign 的应急响应报告： https://t.co/Mh5brjxXJb"
+[ Attack ]  Buckeye cyberespionage group shifts gaze from US to Hong Kong http://www.symantec.com/connect/ko/blogs/buckeye-cyberespionage-group-shifts-gaze-us-hong-kong
+﻿"Buckeye 间谍组织将目光从美国转移到香港： https://t.co/AbM2tNyTgN"
+[ Attack ]  Escaping the Lua 5.2 sandbox with untrusted bytecode https://apocrypha.numin.it/talks/lua_bytecode_exploitation.pdf
+﻿"Lua 5.2 中通过不可信的字节码实现沙盒逃逸： https://t.co/rcqPtJjatj ;"
+[ Attack ]  324,000 Financial Records with CVV Numbers Stolen From A Payment Gateway http://thehackernews.com/2016/09/bluesnap-payment-gateway-hack.html
+﻿"324,000 条带有 CVV 码的财务记录被盗： https://t.co/GX60gbwasO"
+[ Attack ]  New InfoArmor Intelligence Report Available - GovRAT 2.0 Attacking US Military & Government http://tinyurl.com/h9hm9bm https://t.co/7DdewrGpBb
+﻿" InfoArmor 关于 GovRAT 2.0 恶意软件的情报报告，该攻击的目标为美国军方和政府： https://t.co/T36hmyebQV https://t.co/7DdewrGpBb"
+[ Attack ]  State-sponsored hackers stole data from a half-billion accounts, @ yahoo confirms https://threatpost.com/500-million-yahoo-accounts-stolen-by-state-sponsored-hackers/120818/ via @ threatpost
+﻿"雅虎承认其 2014 年被黑，5 亿用户数据被国家资助的黑客偷走：  https://t.co/gj7R15e3mo  http://www.reuters.com/article/us-yahoo-cyber-idUSKCN11S16P "
+[ Attack ]  Hunting Libyan Scorpions - Investigating a Libyan Cyber Espionage Campaign Targeting High-Profile Influentials! https://t.co/XynhCANHjs
+﻿" 猎捕利比亚的蝎子 - 针对利比亚高级间谍攻击行动的调查报告，来自 CyberKOV： https://t.co/XynhCANHjs"
+[ Attack ]  #papertweet for #ccs16: "Prefetch Side-Channel Attacks: Bypassing SMAP and Kernel ASLR" https://gruss.cc/files/prefetch.pdf
+﻿" 通过 Prefetch 指令侧信道攻击的方式绕过 SMAP 和内核 ASLR： https://t.co/C9FNaQuvlX"
+[ Attack ]  How I hacked Pornhub for fun and profit - 10,000$ https://5haked.blogspot.gr/2016/10/how-i-hacked-pornhub-for-fun-and-profit.html
+﻿" How I hacked Pornhub for fun and profit - 10,000$: https://t.co/wNp9NlXPbW"
+[ Attack ]  Atlassian HipChat Secret Key Disclosure https://cxsecurity.com/issue/WLB-2016100066
+﻿"Atlassian HipChat 的密钥泄漏： https://t.co/Ftgv3iflAy"
+[ Attack ]  Be #CyberAware! The top targeted #malware families in EMEA are Runback, DarkHotel & SCANBOX https://www2.fireeye.com/ATR-Cyberaware-EMEA_SM.html?utm_source=TWC&utm_campaign=cyberaware https://t.co/8j7g9qzHYh
+﻿" 来自 FireEye 的 APT 报告《那些遭到 APT 攻击的政府部门》： https://www2.fireeye.com/ATR-Cyberaware-EMEA_SM.html "
+[ Attack ]  Shocking, a German nuclear plant suffered a disruptive cyber attack http://securityaffairs.co/wordpress/52116/security/nuclear-plant-attack.html
+﻿" 德国一家核电站遭到网络攻击： https://t.co/71xN8kqQBc"
+[ Attack ]  The #StrongPity APT targets Italian and Belgian TrueCrypt users: https://securelist.com/blog/research/76147/on-the-strongpity-waterhole-attacks-targeting-italian-and-belgian-encryption-users/
+﻿"StrongPity APT 将目标锁定到意大利和比利时的 TrueCrypt 用户︰ https://t.co/4hcGLDZovV"
+[ Attack ]  Second hacker group targets SWIFT users, Symantec warns http://reut.rs/2e3rOyS
+﻿"赛门铁克警告称hacker团伙将目标转向了 SWIFT 用户：  http://www.reuters.com/article/us-cyber-heist-malware-idUSKCN12B1L3 "
+[ Attack ]  Operations of a Brazilian Payment Card Fraud Group http://www.fireeye.com/blog/threat-research/2016/10/operations_of_a_braz1.html
+﻿" 巴西支付卡欺诈组织的一系列攻击行动： https://t.co/dVQnP5zfYj"
+[ Attack ]  FuzzySec -> Anatomy of UAC Attacks - http://www.fuzzysecurity.com/tutorials/27.html
+﻿"解析 UAC 攻击： http://www.fuzzysecurity.com/tutorials/27.html"
+[ Attack ]  APT attacks —pay attention to the man behind the curtain（注意窗帘后面的人）： https://community.hpe.com/t5/Security-Research/Advanced-Persistent-Threats-debunked-Pay-attention-to-the-man/ba-p/6908653#.WAbHMPRbKGc
+[ Attack ]  仿冒公检法手机诈骗简析： http://www.freebuf.com/articles/terminal/116908.html
+[ Attack ]  Technical in-depth analysis of Sednit operation. https://twitter.com/nyx__o/status/789077774367535104
+﻿"ESET 安全研究人员对于网络间谍组织 Sednit 的分析研究： http://www.welivesecurity.com/2016/10/20/new-eset-research-paper-puts-sednit-under-the-microscope/"
+[ Attack ]  [Blog] Rotten Apples: Resurgence http://bddy.me/2ekkkve #phishing https://t.co/3YHBC0K3lo
+﻿"针对中国 Apple 用户的钓鱼活动再次复活： https://www.fireeye.com/blog/threat-research/2016/10/rotten_apples_resur.html"
+[ Attack ]  3.2 million Indian debit cards compromised. Malware found on Hitachi Payment Services ATM network. http://economictimes.indiatimes.com/articleshow/54945561.cms
+﻿"印度320万信用卡数据泄漏，SBI、HDFC、ICICI、YES 和 Axis 银行用户均严重受其影响： http://economictimes.indiatimes.com/industry/banking/finance/banking/3-2-million-debit-cards-compromised-sbi-hdfc-bank-icici-yes-bank-and-axis-worst-hit/articleshow/54945561.cms"
+[ Attack ]  SAP Cyber Threat Intelligence Report – October 2016 https://www.infosecisland.com/blogview/24837-SAP-Cyber-Threat-Intelligence-Report--October-2016.html
+﻿"来自 SAP 的网络威胁情报报告（2016.10）：  https://t.co/DPeY4DnXc2"
+[ Attack ]  日本核研究实验室的研究数据和用户信息遭黑客窃取： http://www.freebuf.com/news/116984.html
+[ Attack ]  Moonlight – Targeted attacks in the Middle East http://blog.vectranetworks.com/blog/moonlight-middle-east-targeted-attacks
+﻿" Moonlight - 中东地区的定向攻击跟踪： https://t.co/8WH5K006nY"
+[ Attack ]  Bug Bounty Hunter Launches Accidental DDoS Attack on 911 Systems via iOS Bug http://ow.ly/smfW305EgOW
+﻿" 18 岁的 Desai 在 Twitter 上分享了自己的 iOS Exploit 链接，导致很多点开链接的用户自动地开始拨打 911 急救电话，之后他被逮捕了： https://t.co/n71Jws1Zsv"
+[ Attack ]  Incident Report : Inadvertent Private Repository Disclosure ( GitHub ) : https://github.com/blog/2273-incident-report-inadvertent-private-repository-disclosure
+﻿" 10 月 20 号那天，GitHub 系统中的一个不小心的 Bug 使 156 个私有代码仓库的用户数据泄漏: https://t.co/MPnLf2eZnO"
+[ Attack ]  Massive hacking campaign on Joomla sites via recently patched flaws http://securityaffairs.co/wordpress/52904/cyber-crime/joomla.html
+﻿"Sucuri 发现有大规模黑客利用 Joomla 两个近日发布的漏洞 CVE-2016-8870 和 CVE-2016-8869 来进行攻击： https://t.co/cdmbKxb6J0"
+[ Attack ]  Google Adwords Malvertising Campaign Targets Apple Macs http://www.darkreading.com/attacks-breaches/google-adwords-malvertising-campaign-targets-apple-macs-/d/d-id/1327357
+﻿"本篇文章谈到上周如果 Apple Mac 的用户使用了 Google 搜索引擎，那么可能受到来自恶意广告的感染： https://t.co/RwNacTw5Ju"
+[ Attack ]  微软表示最近的 win32k 野外漏洞利用攻击背后的组织是俄罗斯的 GRU： https://threatpost.com/microsoft-says-russian-apt-group-behind-zero-day-attacks/121722/
+[ Attack ]  Bypassing antivirus with a sharp syringe : https://code.google.com/archive/p/syringe-antivirus-bypass/ , Paper : https://www.exploit-db.com/docs/20420.pdf (pdf)
+﻿"Bypassing antivirus with a sharp syringe[paper]： https://t.co/NPqkgSnpgm"
+[ Attack ]  Abusing systemd user services : https://hosakacorp.net/p/systemd-user.html
+﻿"Abusing systemd user services︰ https://t.co/nKB2uab2Ao"
+[ Attack ]  乌克兰电网攻击事件分析： http://blog.nsfocus.net/wp-content/uploads/2016/11/%E4%B9%8C%E5%85%8B%E5%85%B0%E7%94%B5%E7%BD%91%E6%94%BB%E5%87%BB%E5%88%86%E6%9E%9020161101.pdf
+[ Attack ]  来自卡巴斯基的 2016 第三季度威胁情报报告： https://securelist.com/analysis/quarterly-malware-reports/76482/it-threat-evolution-q3-2016/ 前几天发布的第三季度 DDoS 情报报告： https://securelist.com/analysis/quarterly-malware-reports/76464/kaspersky-ddos-intelligence-report-for-q3-2016/
+[ Attack ]  安天独家深度曝光分析方程式组织多平台恶意代码武器： http://mp.weixin.qq.com/s?__biz=MjM5MTA3Nzk4MQ==&mid=2650170101&idx=1&sn=714546c757db8291d52b6a4332c364a4&chksm=beb9c1c789ce48d1d6a96ed51b2506feab47c344b50461e7a4f72b19d89879dc113669d47a33&scene=0#wechat_redirect
+[ Attack ]  人大刚刚通过的《网络安全法》都有哪些看点： http://www.freebuf.com/news/119207.html
+[ Attack ]  New post: Pawn Storm Ramps Up Spear-phishing Before Zero-Days Get Patched http://bit.ly/2fDsGLh @ TrendMicro
+﻿"间谍组织 Pawn Storm 在10月底至11月初期间利用多个 0day 对政府及大使馆发起攻击： https://t.co/mvGPSfdhlq "
+[ Attack ]  Using SSRF to Pivot into an Internal Network (pdf) https://seanmelia.files.wordpress.com/2016/07/ssrf-to-pivot-internal-networks.pdf
+﻿"利用服务端请求伪造攻击进入内网(pdf)： https://t.co/NY3mXG7fa5"
+[ Attack ]  .#BlackNurse Low-Volume DoS Attack Targets Firewalls https://threatpost.com/blacknurse-low-volume-dos-attack-targets-firewalls/121916/
+﻿"针对防火墙的拒绝服务攻击（基于ICMP）： https://t.co/YCTO6idpat"
+[ Attack ]  Abusing npm libraries for data exfiltration https://blog.sourceclear.com/all-your-secrets-belong-to-us/
+﻿"利用 npm 进行数据渗漏（data exfiltration ）攻击： https://t.co/I8aRALevoh "
+[ Attack ]  中国再次发现来自海外的黑客攻击：蔓灵花攻击行动： http://bobao.360.cn/news/detail/3747.html
+[ Attack ]  BlackNurse attack PoC https://github.com/jedisct1/blacknurse
+﻿"BlackNurse attack PoC： https://t.co/zkWXqab6u2"
+[ Attack ]  英国移动运营商多达 600 万客户信息遭泄露： http://www.welivesecurity.com/2016/11/18/three-mobile-network-experiences-data-breach/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+eset%2Fblog+%28ESET+Blog%3A+We+Live+Security%29
+[ Attack ]  互联网业务安全的黑灰产业链的故事 - 【途牛风控】： http://mp.weixin.qq.com/s?__biz=MzI4NTIxNjczMA==&mid=2247483766&idx=1&sn=9af29dae213d976a958ad471fdf566b4&chksm=ebeedbc3dc9952d51da18d2ed57d993370d60a0d6e2108ef528c756597d4894e86bcc87db5cc&mpshare=1&scene=1&srcid=1122KxR8gXNoYfNEr1VXj7KQ#wechat_redir
+[ Attack ]  Practical Phishing Automation with PhishLulz : http://www.slideshare.net/micheleorru2/practical-phishing-automation-with-phishlulz-kiwicon-x (Slides) cc @ antisnatchor
+﻿"利用自动化钓鱼框架 PhishLulz 进行钓鱼实战，来自  KiwiCon 2016 大会议题: https://t.co/MMGhDIfZ3p "
+[ Attack ]  Microsoft shares telemetry data collected from Windows 10 users with FireEye? http://thehackernews.com/2016/11/windows10-telemetry-data.html?m=1
+﻿"微软将 Windows 10 用户中收集的遥测数据与 FireEye 共享： https://t.co/XLJPoiAKNN"
+[ Attack ]  旧金山交通系统被黑，导致系统无法正常收费，全市免费出行一天： http://mashable.com/2016/11/27/san-francisco-muni-hacked/#jcA99YgY7EqI
+[ Attack ]  Our research projects that machine learning will be key tool for socially engineered hacks in 2017… https://twitter.com/i/web/status/804189312216690690
+﻿"McAfee 表示 2017 年机器学习将会是社会工程的一把利器： https://t.co/XBzZVJdT9G"
+[ Attack ]  沙特遭到毁灭性黑客攻击： http://www.solidot.org/story?sid=50591
+[ Attack ]  Hackers Gamify #DDoS Attacks With Collaborative Platform http://fc-pt.com/2gTIduq via @ threatpost https://t.co/pG9ctROA1S
+﻿"土耳其黑客团伙 ‘游戏化’ DDoS 攻击，诱使大量黑客加入其 DDoS 平台，统一攻击目标 ： https://t.co/VqPGVVov5P"
+[ Attack ]  How to hack a Visa Card in less than 6 seconds : http://eprint.ncl.ac.uk/file_store/production/230123/19180242-D02E-47AC-BDB3-73C22D6E1FDB.pdf (pdf)
+﻿"如何在 6 秒内黑掉 Visa 卡？（paper）︰ https://t.co/pa2LPVByDs "
+[ Attack ]  Rise of the Machines: The Dyn Attack Was Just a Practice Run (Mirai 'is just the tip of the iceberg') : http://icitech.org/wp-content/uploads/2016/12/ICIT-Brief-Rise-of-the-Machines.pdf (pdf)
+﻿"机器的崛起︰ Dyn 攻击只是实践 （Mirai 也只是冰山一角）︰ https://t.co/hnrKWDr8if "
+[ Attack ]  Modbus Stager: Using PLCs as a payload/shellcode distribution system http://www.shelliscoming.com/2016/12/modbus-stager-using-plcs-as.html
+﻿"Modbus Stager: 将 PLCs 设备作为 payload/shellcode 分发系统： https://t.co/8EbvYBeFDR"
+[ Attack ]  5th and last part of Kings In Your Castle blog series is out: APT correlation and do-it-yourself threat research https://t.co/YoujBTLn1B
+﻿"APT 攻击目标之间的相关性与自主威胁研究： https://t.co/YoujBTLn1B"
+[ Attack ]  Shellcode embedded in a Windows shortcut (LNK) : https://www.phrozensoft.com/2016/12/shortcuts-as-entry-points-for-malware-poc-part-2-19
+﻿"将快捷方式作为恶意程序的入口点（Part2）： https://t.co/qIHLyStSDA  Part 1： https://www.phrozensoft.com/2016/12/shortcuts-as-entry-points-for-malware-18"
+[ Attack ]  If you manage Internet facing Windows boxes, here are 7 pages of post-compromise actions by RDP brute forcers: https://twitter.com/JohnLaTwC/status/778011783466319872 #DFIR
+﻿"John Lambert 在 Azure 云上抓到的一段攻击代码︰ https://onedrive.live.com/view.aspx?resid=F32A9F4F1477E49!109&ithint=file%2cdocx&app=Word&authkey=!ANzQTrmsTXSK9FM "
+[ Attack ]  650Gbps DDoS Attack from the Leet Botnet (Not Mirai) https://www.incapsula.com/blog/650gbps-ddos-attack-leet-botnet.html
+﻿"Leet Botnet 发起 650Gbps DDoS 攻击： https://t.co/ddVNFo9n1N "
+[ Attack ]  PHP 7 反序列漏洞攻击，来自 33c3 会议视频： https://media.ccc.de/v/33c3-7858-exploiting_php7_unserialize
+[ Attack ]  DragonOK continues to update toolset and target Japanese organizations. Get the full #Unit42 report http://oak.ctx.ly/r/5cfks
+﻿"DragonOK 网络攻击团伙继续猖獗，瞄准 日本、台湾、西藏等多个地区，来自 Unit 42 的研究报告： https://t.co/2EmRAGKu8d"
+[ Attack ]  利用powershell 写内核 exploit ：https://github.com/FuzzySecurity/PSKernel-Primitives/blob/master/README.md
+[ Attack ]  [Blog Post] Attacking Drivers With MSBuild.exe http://subt0x10.blogspot.com/2017/01/attacking-drivers-with-msbuildexe.html Exploit driver vulns with C# and a trusted MS binary Feedback Welcome
+﻿"利用 MSBuild.exe 攻击驱动： https://t.co/kHfKDb1j2F"
+[ Attack ]  [Blog] Lateral Movement via DCOM: Round 2 https://enigma0x3.net/2017/01/23/lateral-movement-via-dcom-round-2/
+﻿"利用 DCOM 进行横向攻击 第二弹︰ https://t.co/leyKbWtK30"
+[ Attack ]  #ICYMI Here's part 3 of Exploring the Cybercrime Underground: Into the RAT Nest http://oak.ctx.ly/r/5e4ia #Unit42
+﻿" 深入地下网络犯罪的老巢，来自 Palo Alto，Part 1： http://researchcenter.paloaltonetworks.com/2016/08/unit42-exploring-the-cybercrime-underground-part-1-an-introduction/  Part 2: http://researchcenter.paloaltonetworks.com/2016/08/unit42-exploring-the-cybercrime-underground-part-2-the-forum-ecosystem/  Part 3: http://researchcenter.paloaltonetworks.com/2017/01/unit42-exploring-cybercrime-underground-part-3-rat-nest/?adbsc=social69691516&adbid=825825854492020736&adbpl=tw&adbpr=46153776 "
+[ Attack ]  Exposing EITest campaign: Following a Malware distribution campaign - https://blog.brillantit.com/exposing-eitest-campaign/
+﻿"揭露 EITest 攻击行动： https://t.co/jrUfIRbjgN"
+[ Attack ]  Large-Scale Phishing Campaign Targeting Egyptian Civil Society https://citizenlab.org/2017/02/nilephish-report/ #phishing #APT #censorship https://t.co/2BXGJWV6CG
+﻿"Nile Phish - 针对埃及公民团体的大规模钓鱼行动： https://t.co/zawwOin2MW   https://t.co/2BXGJWV6CG"
+[ Attack ]  Just published research on a CN APT targeting RU using LSB Stego to embed stage 2s in bitmaps:… https://t.co/42dgz8gLMM
+﻿" ProofPoint 前天发布的一篇关于中国攻击俄罗斯和白俄罗斯的 APT 报告:  https://t.co/42dgz8gLMM"
+[ Attack ]  Russian APT 29 group launched cyber attacks against Norwegian authorities http://securityaffairs.co/wordpress/55958/apt/apt-29-group.html
+﻿"俄罗斯 APT 29 组织发起针对挪威当局的网络攻击： https://t.co/TObUtVzMgs"
+[ Attack ]  Dark web’s largest host ‘Freedom Hosting II’ hacked by Anonymous https://pirate.london/dark-webs-largest-host-freedom-hosting-ii-hacked-by-anonymous-3539dae56bd0#.y5q1hg24p
+﻿"暗网最大的主机 'Freedom Hosting II' 被黑： https://t.co/TNAprLkMpn "
+[ Attack ]  MySQL Injection in Update, Insert and Delete https://osandamalith.com/2017/02/08/mysql-injection-in-update-insert-and-delete/ via @ OsandaMalith
+﻿"在 MySQL 进行 Update、Insert 及 Delete 操作时的注入介绍： https://t.co/5R5vJU3SsN "
+[ Attack ]  CrimeBreak系列@犯罪预测： http://mp.weixin.qq.com/s?__biz=MzIzMzE2OTQyNA==&mid=2648946472&idx=1&sn=3d8bc747b64afda9a7c554b8a30659a0&scene=0#wechat_redirect
+[ Attack ]  Twitter leaked database: 32 million accounts http://slexy.org/view/s22uHdUCdG (Not verified)
+﻿"Twitter 数据库泄露(待验证)： https://t.co/nMZtp7CbLH "
+[ Attack ]  震惊！只需手机号就能把你身份财产查个底儿掉： http://weibo.com/ttarticle/p/show?id=2309404075816400100265
+[ Attack ]  I updated by targeted threats tracker, with latest reports and indicators of compromise https://github.com/botherder/targetedthreats
+﻿" 定向威胁攻击中的 IOC 收集，也包括处理好的 Snort 规则： https://t.co/Ue0NZ1BMyo"
+[ Attack ]  Financial cyberthreats in 2016 https://securelist.com/analysis/publications/77623/financial-cyberthreats-in-2016/
+﻿"2016 年金融领域的网络威胁报告，来自卡巴斯基：  https://t.co/Msgd3OpUFC"
+[ Attack ]  Let’s Corrupt a SQL Server Database Together (Part 1: Clustered Indexes) : https://www.brentozar.com/archive/2017/02/lets-corrupt-sql-server-database-together/ https://t.co/j9xZPq7GI5
+﻿"SQL Server 大破坏（Part 1: Clustered Indexes），在 SQL Server 未开启 PAGE_VERIFY 的情况下可以任意篡改数据库文件: https://t.co/hySjsrgMq9 https://t.co/j9xZPq7GI5"
+[ Attack ]  The increased use of PowerShell in attacks | by @symantec @mylaocoon (PDF) Dec 2016 &gt; good resource for blue teams… https://t.co/658i32eTtP
+﻿"基于 Powershell 的攻击方式总结，来自 symantec： https://www.symantec.com/content/dam/symantec/docs/security-center/white-papers/increased-use-of-powershell-in-attacks-16-en.pdf"
+[ Attack ]  Check out our newest blog post, Hacking the Western Digital MyCloud. Over 83 remote roots! #HackAllTheThings #0day https://t.co/5mBwouzpTZ
+﻿"攻击西部数码的 NAS（网络附加存储） 设备： https://t.co/5mBwouzpTZ"
+[ Attack ]  gargoyle : a memory scanning evasion technique for Windows : https://jlospinoso.github.io/security/assembly/c/cpp/developing/software/2017/03/04/gargoyle-memory-analysis-evasion.html , Github :… https://twitter.com/i/web/status/838286531513180160
+﻿" Gargoyle -- 杀毒软件通常会扫描内存查杀病毒，但基于性能考虑，通常只会扫描内存中的可执行内存块。Gargoyle 这项技术基于此，利用延迟过程调用 + ROP 的方法实现杀软检测的逃逸：︰ https://t.co/gBw5p8sLzw  Github: https://github.com/JLospinoso/gargoyle"
+[ Attack ]  RDP hijacking — how to hijack RDS and RemoteApp sessions transparently to move through an organisation https://t.co/zBjLdeAgnf
+﻿" RDP 会话劫持分析： https://t.co/zBjLdeAgnf "
+[ Attack ]  Potential hacking devices found on Carleton University computers aka a Hardware keyboard logger https://www.thestar.com/news/canada/2017/03/28/potential-hacking-devices-found-on-carleton-university-computers.html
+﻿"加拿大卡尔顿大学 6 个教室的计算机上发现了潜在的键盘记录器： https://t.co/knlNqW6zRz"
+[ Attack ]  [blog] Black box discovery of memory corruption RCE on http://box.com: https://goo.gl/BPkDNl
+﻿" 如何从黑盒测试的角度实现 box.com 服务器的 RCE，来自 Chris Evans： https://t.co/qAODXFtVH8: https://t.co/4r2JuyVvRA"
+[ Attack ]  Github Repository Owners Targeted by Data-Stealing Malware: https://threatpost.com/github-repository-owners-targeted-by-data-stealing-malware/124656/ via @ threatpost
+﻿" 很多 GitHub 代码库管理员收到了嵌有恶意代码的钓鱼邮件，这些邮件假装成求职信： https://t.co/KPATTdNKHi"
+[ Attack ]  Here's my presentation from #sp4rkcon 2017. http://www.bigendiansmalls.com/sp4rkcon-2017-hacking-mainframes-for-cics-and-giggles/ SP4RKCON 2017 – Hacking mainframes for CICS and giggles
+﻿"Hacking IBM CICS 大型主机： https://t.co/EKAHFN1DiY "
+[ Attack ]  Using Ubuntu .DESKTOP as a Malware Vector : http://blog.mazinahmed.net/2017/04/using-ubuntu-desktop-as-malware-vector.html
+﻿"将 Ubuntu 的 .desktop 文件作为新的攻击向量︰ https://t.co/IOFxaDSHvc"
+[ Attack ]   A beat of security, with the Elastic Stack - 从猜密码到利用漏洞攻破内网： https://speakerdeck.com/monicasarbu/a-beat-of-security-with-the-elastic-stack
+[ Attack ]  Benchmarking memcmp() for timing attacks http://nzzl.us/XODmrKb
+﻿"内存比较 memcmp() 引入的 TIMING ATTACKS（侧信道攻击）漏洞： https://t.co/YP66bDkn5F"
+[ Attack ]  Researchers Hack Accelerometers with Sound Waves https://www.bleepingcomputer.com/news/hardware/researchers-hack-accelerometers-with-sound-waves/ Technical paper: https://spqr.eecs.umich.edu/papers/trippel-IEEE-oaklawn-walnut-2017.pdf
+﻿"来自美国两所高校的安全研究员发现利用声波攻击加速度传感器： https://t.co/4ZZC1VxvHQ   paper︰ https://t.co/FQwXL0gz3s"
+[ Attack ]  Bachosens 行动 - 走进这个存在很久的犯罪活动，来自赛门铁克： https://medium.com/threat-intel/cybercrime-investigation-insights-bachosens-e1d6312f6b3a
+[ Attack ]  (USB)电子点烟器也可以被黑客用于攻击你的电脑： http://i.securitythinkingcap.com/PMQw2h
+[ Attack ]   精确测量电量消耗侧信道还原加密 Key 之前都要求物理接触设备，来自 Fox-IT 的这项研究利用专用设备和天线，可以在 1 米范围内发起侧信道攻击： https://www.fox-it.com/nl/wp-content/uploads/sites/12/Tempest_attacks_against_AES.pdf
+[ Attack ]  攻击容器集群管理平台： http://paper.seebug.org/332/
+[ Attack ]  利用 SSDP 协议生成 100 Gbps DDoS 流量： https://blog.cloudflare.com/ssdp-100gbps
+[ Attack ]  构造PPSX钓鱼文件： https://evi1cg.me/archives/Create_PPSX.html
+[ Attack ]  文档型漏洞攻击研究报告，来自 FreeBuf： http://www.freebuf.com/news/139014.html
+[ Attack ]   SSRF 利用的新角度 - 攻击流行编程语言的 URL Parsers，来自 BlackHat 会议： https://www.blackhat.com/docs/us-17/thursday/us-17-Tsai-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf
+[ Attack ]    Friday the 13th: JSON Attacks，来自 BlackHat 会议的演讲，介绍针对 JSON serializers 和 .NET serializers 的攻击： https://www.blackhat.com/docs/us-17/thursday/us-17-Munoz-Friday-The-13th-Json-Attacks.pdf
+[ Attack ]   如何通过 Atom 编辑器的插件攻破开发者的计算机： http://blog.thinkst.com/2017/08/all-your-devs-are-belong-to-us-how-to.html
+[ Attack ]   电子脉冲噪声攻击（Glitch Attacks）的介绍： https://wiki.newae.com/Tutorial_A2_Introduction_to_Glitch_Attacks_(including_Glitch_Explorer
+[ Attack ]  卡巴斯基对 XShell 后门事件的分析，该软件属于供应链攻击中的服务器管理软件： https://securelist.com/shadowpad-in-corporate-networks/81432/
+[ Attack ]  揭秘盗取“羊毛党”比特币的钓鱼攻击事件： http://www.freebuf.com/articles/network/145985.html
+[ Attack ]   CSS-in-JS 打破了 JS 和 CSS 之间的边界，为 CSS 注入提供了新的攻击界面： https://reactarmory.com/answers/how-can-i-use-css-in-js-securely
+[ Attack ]  所有语音助手都存漏洞 浙江大学发现DolphinAttack攻击手段： http://www.cnbeta.com/articles/tech/649271.htm paper： https://endchan.xyz/.media/50cf379143925a3926298f881d3c19ab-applicationpdf.pdf
+[ Attack ]   Practical Keystroke Timing Attacks in Sandboxed JavaScript，这篇 Paper 中作者展示了一种通用的 Keystroke（击键） Timing 攻击方式，后台运行的 tab 可以利用这种方式记录下用户键入的密码、URL 等敏感信息：  https://misc0110.net/web/files/keystroke_js.pdf
+[ Attack ]  欧洲及北美能源部被 Dragonfly 盯上： https://www.symantec.com/connect/blogs/dragonfly-western-energy-sector-targeted-sophisticated-attack-group?om_ext_cid=biz_social_NAM_twitter_Asset Type - Blog,Asset Type - Infographic,Campaign: Dragonfly 2.0
+[ Attack ]  Evil Devices and Direct Memory Attacks（DMA），基于 DMA 攻击 macOS、Linux、Windows： https://github.com/ufrisk/presentations/blob/master/SEC-T-0x0Anniversary-Ulf-Frisk-Evil-Devices-and-Direct-Memory-Attacks.pdf
+[ Attack ]  Ruby ERB 模板注入攻击： https://www.trustedsec.com/2017/09/rubyerb-template-injection/
+[ Attack ]  Retefe 银行木马最近添加了新组件 -  NSA 的 EternalBlue SMB Exploit:  https://threatpost.com/eternalblue-exploit-used-in-retefe-banking-trojan-campaign/128103/ https://www.proofpoint.com/us/threat-insight/post/retefe-banking-trojan-leverages-eternalblue-exploit-swiss-campaigns
+[ Attack ]  一位安全工作者不小心将 Adobe 的 PGP 私钥泄漏到了网上： https://www.theregister.co.uk/2017/09/22/oh_dear_adobe_security_blog_leaks_private_key_info/
+[ Attack ]  【中国公司开发的 GO 输入法被指会监视用户】。中国广州公司 GOMO Dev Team 开发的 GO 输入法被指会收集用户个人信息，以及下载危险的可执行代码： http://www.solidot.org/story?sid=53929
+[ Attack ]  所有关于 hash 扩展攻击你所需要知道事： https://blog.skullsecurity.org/2012/everything-you-need-to-know-about-hash-length-extension-attacks
+[ Attack ]   Hunting For In-Memory .NET Attacks - 检测基于 .NET 实现的内存代码注入攻击： https://www.endgame.com/blog/technical-blog/hunting-memory-net-attacks
+[ Attack ]  利用 DNS typosquatting（错别字）实现实战性的水坑攻击 ： https://blog.0day.rocks/practical-waterholing-through-dns-typosquatting-e252e6a2f99e
+[ Attack ]  WordFence 团队监测到最近攻击者开始以每天 2.5 万主机的速度扫描 WordPress 网站的 SSH 私钥： http://securityaffairs.co/wordpress/64522/breaking-news/ssh-keys-scan.html  https://threatpost.com/hackers-take-aim-at-ssh-keys-in-new-attacks/128537/
+[ Attack ]  Proofpoint 研究员称来自中国的攻击者利用 .NET 刚补的漏洞（CVE-2017-8759）攻击美国组织机构： http://securityaffairs.co/wordpress/64499/apt/china-cyber-espionage-group.html
+[ Attack ]  地下暗流：揭秘控制百万肉鸡的GhostFramework： http://www.freebuf.com/articles/terminal/150360.html
+[ Attack ]   黑客在新的攻击中将目标瞄准 SSH 私钥文件： https://threatpost.com/hackers-take-aim-at-ssh-keys-in-new-attacks/128537/
+[ Attack ]   过期坏链接导致的劫持攻击分析：  https://edoverflow.com/2017/broken-link-hijacking/
+[ Attack ]   使用 Cobalt Strike 和 Google 主机进行 HTTPS DOMAIN FRONTING 攻击： https://www.cyberark.com/threat-research-blog/red-team-insights-https-domain-fronting-google-hosts-using-cobalt-strike/
+[ Attack ]   Attacking .NET Serialization，来自 Alvaro Muñoz 在 Code Monsters 2017  会议关于 .NET 序列化攻击的演讲： https://speakerdeck.com/pwntester/attacking-net-serialization
+[ Attack ]   Hijacking Bitcoin: Routing Attacks on Cryptocurrencies，比特币劫持，加密货币技术中的路由攻击，Paper：  https://btc-hijack.ethz.ch/files/btc_hijack.pdf
+[ Attack ]   使用 qemu 和 volatility 攻击加密系统： https://diablohorn.com/2017/12/12/attacking-encrypted-systems-with-qemu-and-volatility/
+[ Attack ]  Deluge - 如何通过家庭网络生成 2TB/s 的反射型 DDoS 数据流： http://powerofcommunity.net/poc2017/shengbao.pdf
+[ Attack ]   语音识别中的定向攻击 - 克隆一段音频，只修改我们指定的词： https://arxiv.org/pdf/1801.01944.pdf
+[ Attack ]  嗅探手机与基站通信数据的中间人攻击教程： https://insinuator.net/2018/02/hacking-101-to-mobile-data/

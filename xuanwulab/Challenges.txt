@@ -1,0 +1,98 @@
+[ Challenges ]  CTF-Tools - Some setup scripts for security research tools: This is a collection of setup scripts to ... http://bit.ly/1R5G5db #PenTest
+﻿"CTF-Tools： https://t.co/hEZXDs1FsV "
+[ Challenges ]  Writing generic exploits for browsers 101 : http://blog.frizn.fr/bkpctf-2016/qwn2own-bkpctf16 cc: @ Friz_N
+﻿"BKP CTF 2016 中一道 Exploit 定制版浏览器的题 ︰ https://t.co/MDLr6B1aLE "
+[ Challenges ]  Wow, Google Organising a CTF. https://capturetheflag.withgoogle.com/
+﻿"Google 将在 4 月底办一次 CTF 比赛： https://t.co/qz1sz1QySK"
+[ Challenges ]  #0ctf 2016 boomshakalaka writeup - http://ele7enxxh.com/0ctf-2016-boomshakalaka-writeup.html
+﻿"0ctf 2016 boomshakalaka writeup: https://t.co/OyTGZMBm9x"
+[ Challenges ]  #bctf 2016 LostFlower writeup - http://ele7enxxh.com/bctf-2016-LostFlower-writeup.html
+﻿"Bctf 2016 LostFlower Writeup：  https://t.co/dzDOubQoc9"
+[ Challenges ]  #0ctf 2016 State of the ART writeup - http://ele7enxxh.com/0ctf-2016-State-of-the-ART-writeup.html
+﻿"0ctf 2016 State of the ART writeup: https://t.co/DzWd4I6MRr"
+[ Challenges ]  My buddy, @ durchfall3n wrote the writeup for the challenge, "Worm" in XCTF http://www.vxsecurity.sg/2016/04/15/walkthrough-x-ctf-2016-worm/
+﻿"XCTF 2016 Worm 逆向题解题报告：  https://t.co/hGIcDCECb5 "
+[ Challenges ]  My v8 exploit for #plaidctf's js_sandbox challenge: https://gist.github.com/sroettger/d077d3907999aaa0f89d11d956b438ea
+﻿"plaidctf 的 js_sandbox 题的 Exploit ︰ https://t.co/M8vFlooGCg"
+[ Challenges ]  H5SC Mini-Challenge "XSS Metaphor" 5 - The Write-Up https://github.com/cure53/XSSChallengeWiki/wiki/H5SC-Mini-Challenge-5 #beta
+﻿"H5SC 迷你挑战 "XSS Metaphor" 5 解题笔记： https://t.co/61gceSEVpX #beta"
+[ Challenges ]  Facebook Open-Source Capture The Flag (CTF) Platform https://github.com/facebook/fbctf #infosec
+﻿"Facebook 开源了一个山丘之王风格的 CTF 平台： https://t.co/hcqvty1e8x "
+[ Challenges ]  Released pwnypack 0.8.0, lots of changes and now supports @ keystone_engine https://ced.pwned.systems/misc-pwnypack-0-8-0.html
+﻿" CTF 工具套件 PwnyPack 更新 0.8.0 版本，本次加入对 Keystone 引擎的支持： https://t.co/NvgfO2uLhJ"
+[ Challenges ]  #defconctf UAF exploit writeup, by my teammate 0xabe http://duksctf.github.io/DCquals2016-heapfun4u/
+﻿"Defconctf 比赛其中一个 UAF 漏洞的 Exploit： https://t.co/BMWIbqtLmI"
+[ Challenges ]  Congrats to #KeyResolve for winning USD $50K at #WCTF http://ctf.360.com/en/index.html /cc @ zoaedk @ rickyz @ lokihardt @ brian_pak @ qihu_official
+﻿" 上周在北京举办的 WCTF 比赛结束了，KeyResolve 战队夺得冠军，获得 5 万美元奖励： https://t.co/TZ9OEgQWKY "
+[ Challenges ]  DEF CON CTF is almost over! Releasing our tools: qemu+cgc https://github.com/leetchicken/qemu-cgc/; afl+cgc https://github.com/leetchicken/afl #defcon #afl #qemu #cgc
+﻿"DEF CON CTF CGC（机器人团队）的工具， QEMU+CGC： https://t.co/BkBXUGlTY9    AFL+CGC： https://t.co/au8fPrQ2GB "
+[ Challenges ]  #LabyREnth Docs track solution blog is up: http://researchcenter.paloaltonetworks.com/2016/08/labyrenth-capture-the-flag-ctf-document-track-solutions/
+﻿" Palo Alto 公开了 LabyREnth CTF 挑战比赛的解题方法︰ https://t.co/z4oHOymISU"
+[ Challenges ]  Rex, our automatic exploitation engine from @ mike_pizza and salls, made @ MechanicalPhish #1 in exploitation! https://github.com/shellphish/rex
+﻿" Rex - Shellphish 团队公开了用于参加 CGC 机器人 CTF 比赛的自动化漏洞利用工具： https://t.co/R52vIqch5n  还公开了一个称为 Driller 的符号执行工具： https://github.com/shellphish/driller "
+[ Challenges ]  Bypassing PHP Null Byte Injection protections - Part II https://www.securusglobal.com/community/2016/08/19/abusing-php-wrappers/
+﻿"绕过 CTF 比赛中的一道 PHP Null 字节注入保护题： https://t.co/bthCMUvvCD"
+[ Challenges ]  Pwntools is a CTF framework and exploit development library. Written in Python, https://pwntools.readthedocs.io/en/stable/
+﻿"Pwntools - 用于 CTF 比赛的解题辅助工具库： https://t.co/nrwiosqA1h"
+[ Challenges ]  “极棒跨次元CTF”初赛启动在即 | 激战48小时 ： http://mp.weixin.qq.com/s?__biz=MzA3Nzc2MjIxOA==&mid=2650316727&idx=1&sn=9042136b5e48cf9d0aa5ac5aa0ee96d0&scene=1&srcid=09235b2mbDEbbFlZRcPQ3OCP “极棒跨次元CTF”已经于9月15日结束报名，初赛在9月23日晚8点正式开启。经过48小时的鏖战之后，80支参赛战队中只有四支强队会出现在极棒上海站的现场，10月24日进行终极对决。至于这次初赛结果，GeekPwn会在下周进行公布，在此预祝（上墙）参赛战队享受这场CTF探索之旅
+[ Challenges ]  Pwning My Life: HITCON CTF Qual 2016 - House of Orange Write up http://4ngelboy.blogspot.com/2016/10/hitcon-ctf-qual-2016-house-of-orange.html?spref=tw
+﻿" Orange 为 HITCON CTF Qual 2016 写的一篇 Writeup： https://t.co/rMZTJFu5lA"
+[ Challenges ]  台湾黑客 Orange 公开的多个 CTF 比赛的 Writeup： https://github.com/orangetw/My-CTF-Web-Challenges
+[ Challenges ]  USD700,000 for Android Chrome RCE+SBX(persistent). Register now at https://www.coseinc.com/en/index.php?rt=pwn0rama
+﻿" 11 月底 Pwn0rama 比赛将在上海举办，其中为 Android Chrome RCE+沙箱逃逸 开出的价格是 70 万刀： https://t.co/WnOrtrp1jR 注册"
+[ Challenges ]  极棒嘉年华五大亮点曝光，前所未见的黑科技盛宴（附直播链接） ： http://mp.weixin.qq.com/s?__biz=MzA3Nzc2MjIxOA==&mid=2650316919&idx=1&sn=c68197373e14a16be6e411ecd0b11b44&chksm=87411bb2b03692a4c2b4130c29afa6a3901764ce4e9b681be86339d4ad867b32f88b1da58827&mpshare=1&scene=1&srcid=1023svqoVDVI4UMu1n3CqI8c&from=groupmessage&isappinstalled=0#wechat_redirect
+[ Challenges ]  打破结界之战：“机器特工挑战赛”和“极棒跨次元 CTF”：http://mp.weixin.qq.com/s?__biz=MzI0NDA5MDYyNA==&mid=2648256705&idx=1&sn=8a195bc99b02cc7883ee9b90585af21b&scene=1&srcid=0821g5KNq44VvdoZF5guFu7f
+[ Challenges ]  2016 GeekPwn嘉年华，看极客们如何反转智慧金字塔： http://mp.weixin.qq.com/s?__biz=MzA3Nzc2MjIxOA==&mid=2650316958&idx=1&sn=769e90322212c3de77aee02669f64884&chksm=87411b5bb036924da47f04689fe2ecdaf6052447707391211bd0bd733efdc871fb332931affd&mpshare=1&scene=1&srcid=1025UXHmvxrfm2u1xtr1qTp7#rd
+[ Challenges ]  Final entry: @ keen_lab used a UAF in the renderer & mem corruption in sandbox to steal pics from an iPhone. They wi… https://twitter.com/i/web/status/791191679134932992
+﻿" 昨天的 Mobile Pwn2Own 比赛上，科恩实验室团队成功攻破了搭载 Android 7 版本的 Nexus 6P 以及 iOS 10： https://twitter.com/i/web/status/791191679134932992  团队最终赢得了 21.5 万美元的奖金： https://twitter.com/i/web/status/791197929264472064  比赛的最终结果的细节： http://blog.trendmicro.com/results-mobile-pwn2own-2016/ "
+[ Challenges ]  GeekPwn2016跨次元CTF Writeup： http://mp.weixin.qq.com/s?__biz=MzA3Nzc2MjIxOA==&mid=2650317032&idx=2&sn=8d91a9444aef3ee19616b78d057440a5&chksm=87411b2db036923bda0814d9f78f1af9a388075bf2c2c70bfa731ca5b391de954875635f3b20&scene=0#wechat_redirect
+[ Challenges ]  GeekPwn 2016 跨次元 CTF Writeup： http://bobao.360.cn/ctf/detail/174.html
+[ Challenges ]  FireEye 2016 Flare-On 比赛的 Writeup： https://www.fireeye.com/blog/threat-research/2016/11/2016_flare-on_challe.html
+[ Challenges ]  The sourcecode and deployment files for all of our @ BSidesSF #CTF challenges: https://github.com/BSidesSF/ctf-2017-release
+﻿" BSidesSF 会议 CTF 比赛相关的源码和文件︰ https://t.co/OA3cxAyeXe"
+[ Challenges ]  flAWS #aws #security challenges by @ 0xdabbad00 -> check it out. http://flaws.cloud/
+﻿" AWS 常见漏洞挑战赛： https://t.co/z44pzJjIXu"
+[ Challenges ]  #Pwn2Own #CanSecWest https://t.co/lziChascDE
+﻿"Pwn2Own Targets and Awards: https://t.co/lziChascDE"
+[ Challenges ]  Welcome to Pwn2Own 2017 - The Schedule https://www.zerodayinitiative.com/blog/2017/3/15/welcome-to-pwn2own-2017-the-schedule
+﻿"Pwn2Own 2017 Schedule，比赛当前战况： https://t.co/POfjueTbnn"
+[ Challenges ]  The schedule for Day Two of #Pwn2Own has been published. We're running 2 tracks due to the number of entries. http://bit.ly/2muaXJy
+﻿"Pwn2Own 第二天的日程安排及战况： https://t.co/HhzmgJL1aO"
+[ Challenges ]  The results of Day 1 of #Pwn2Own 2017 are in the books. 10 attempts total. See all the results at http://bit.ly/2ncZhPC. #P2O
+﻿"Pwn2Own 2017 第一天比赛回顾： https://t.co/3OOmkJn9Tk"
+[ Challenges ]  Root Me 网站上的一个 ARM Linux 内核漏洞利用的挑战题： https://www.root-me.org/en/Challenges/App-System/LinKern-ARM-vulnerable-syscall
+[ Challenges ]  Project Zero blog: "Project Zero Prize Conclusion" by @ natashenka - https://googleprojectzero.blogspot.com/2017/03/project-zero-prize-conclusion.html
+﻿" 去年 9 月，'Project Zero Prize' 计划开始，但是至今没有收到任何的漏洞提交，这篇是 Project Zero 对此的总结：  https://t.co/7FMsLrs0pY"
+[ Challenges ]  Registration for @ defcon CTF 2017 is now open. https://2017.legitbs.net/
+﻿"defcon CTF 2017 现已开放报名： https://t.co/xSaA3spjKd"
+[ Challenges ]  CTF比赛总是输？你还差点Tricks!： https://www.leavesongs.com/SHARE/some-ctf-tricks-ppt.html
+[ Challenges ]   C 程序黑手大赛（The Underhanded C Contest），考验参赛者如何神不知鬼不觉的在代码中藏后门： http://underhanded-c.org/
+[ Challenges ]  首届腾讯TCFT线下决赛全记录：新人赛队 & 国际强队奋力鏖战的30小时： http://www.freebuf.com/fevents/136325.html
+[ Challenges ]   Google 将于本月 17~18 日举办第二届 CTF 比赛： https://security.googleblog.com/2017/06/announcing-google-capture-flag-2017.html
+[ Challenges ]  ctf.tf - CTF 题目及其解决方案收集整理： https://t.co/ffhj5FNqy3，GitHub ： https://t.co/3MtmzPbxSe
+[ Challenges ]   CTF Fusion – Level05 题的解题答案： http://arielkoren.com/blog/2017/06/14/fusion-level05-solution/
+[ Challenges ]  CTF Forensics 方向指引： https://t.co/1cpssWIPzH
+[ Challenges ]   BLUE FROST CTF 比赛一道 64 位 PE 文件栈溢出漏洞的 Writeup: https://www.zerodayinitiative.com/blog/2017/8/9/the-blue-frost-security-challenge-an-exploitation-journey-for-fun-and-free-drinks
+[ Challenges ]  Pwnhub 第一次线下沙龙竞赛Web题解析，来自 PHITHON's blog： https://www.leavesongs.com/PENETRATION/pwnhub-first-shalon-ctf-web-writeup.html
+[ Challenges ]  今年的日本的 Mobile PWN2OWN 将会增加中国的手机平台作为目标： https://twitter.com/dragosr/status/900784341051097088
+[ Challenges ]    ZDI 公开了 Mobile Pwn2Own 比赛的攻击目标和对应奖金情况，手机有四款，包括 Google Pixel、三星 S8、iPhone 7 和华为 Mate9 Pro： https://www.zerodayinitiative.com/blog/2017/8/24/mobile-pwn2own-2017-returns-to-tokyo
+[ Challenges ]   HITB GSEC 2017: babyqemu Writeup ： https://kitctf.de/writeups/hitb2017/babyqemu
+[ Challenges ]  FireEye 2017 Flare-On CTF 比赛的 Writeup： https://www.fireeye.com/blog/threat-research/2017/10/2017-flare-on-challenge-solutions.html
+[ Challenges ]  IE 11浏览器0day漏洞（CVE-2015-2425）UAF分析： http://www.freebuf.com/vuls/151019.html
+[ Challenges ]   Mobile Pwn2Own 第一天的比赛结束了。腾讯科恩实验室成功攻破 iOS 11.1 WiFi 项目、iOS Safari 项目、华为 Mate9 Pro 项目，目前总积分 44 分。360 安全战队攻破三星 Galaxy S8 项目，目前总积分 11 分。Richard Zhu 攻破 Safari 项目，目前总积分 10 分。第二天的比赛日程安排也出来了： https://www.thezdi.com/blog/2017/11/1/the-results-mobile-pwn2own-day-one  https://www.thezdi.com/blog/2017/11/1/welcome-to-mobile-pwn2own-2017-day-two
+[ Challenges ]   Mobile Pwn2Own 第一天比赛安排：  https://twitter.com/i/web/status/925527069018198016
+[ Challenges ]  Mobile Pwn2Own2017 世界黑客大赛今日在东京落下帷幕，腾讯科恩实验室战队以总积分44分夺冠，获得 Master of Pwn： https://view.inews.qq.com/a/TEC2017110204152200 https://weibo.com/5910176294/Ftg0tDFhL
+[ Challenges ]  Ethereum CTF 比赛的 Writeup： https://blog.trailofbits.com/2017/11/06/hands-on-the-ethernaut-ctf/
+[ Challenges ]    利用 PE 文件映射工具 libpeconv 解决 FlareOn 4 CTF 赛题：  https://hshrzd.wordpress.com/2017/12/01/hook-the-planet-solving-flareon4-challenge6-with-libpeconv/
+[ Challenges ]   IDA Pro Hex-Rays 2017 插件比赛的结果公布了：  https://www.hex-rays.com/contests/2017/index.shtml
+[ Challenges ]    Pwn2Own 2018 比赛的目标和规则公布了，今年新增了企业应用程序（Adobe Reader/MS Office 365/Outlook）和 Windows Insider Preview 版本作为目标： https://www.zerodayinitiative.com/blog/2018/1/25/pwn2own-returns-for-2018-partners-with-microsoft-and-sponsored-by-vmware
+[ Challenges ]   BeyondSecurity 将举办 Hack2Win eXtreme 攻防比赛，攻击目标是 Chrome、Firefox、iOS、Android，总奖金池 50 万美金： https://www.beyondsecurity.com/bevxcon/hack2win.html
+[ Challenges ]   对于企业来说，办 Bug Bounty 和请团队做渗透测试各有什么优缺点：  https://soroush.secproject.com/blog/2018/02/bug-bounty-vs-penetration-testing-simple-unbiased-comparison/
+[ Challenges ]  H1-202 CTF - Writeup： https://pwning.re/2018/02/23/h1-202-writeup/
+[ Challenges ]   CTF-pwn-tips - CTF PWN 方向的技巧总结： https://github.com/Naetw/CTF-pwn-tips
+[ Challenges ]  Pwn2Own 2018 赛程： https://www.zerodayinitiative.com/blog/2018/3/14/welcome-to-pwn2own-2018-the-schedule
+[ Challenges ]  Pwn2Own 2018 第一天比赛结果： https://www.zerodayinitiative.com/blog/2018/3/14/pwn2own-2018-results-from-day-one  Pwn2Own 2018 第二天比赛赛程： https://www.zerodayinitiative.com/blog/2018/3/15/pwn2own-2018-day-two-schedule
+[ Challenges ]  Pwn2Own 2018 大赛结束，Richard Zhu 拿下本次的 Master of Pwn ；ZDI 发文对本次比赛做了简单总结回顾： https://www.zerodayinitiative.com/blog/2018/3/15/pwn2own-2018-day-two-results-and-master-of-pwn
+[ Challenges ]  第二届强网杯Web Writeup： http://www.cnblogs.com/iamstudy/articles/2th_qiangwangbei_ctf_writeup.html
+[ Challenges ]   0CTF 2018 MightyDragon （(Pwn 1000pts）解题脚本： https://twitter.com/david942j/status/980642259933675520
+[ Challenges ]  Reverse Engineering challenges： https://challenges.re/

@@ -1,0 +1,132 @@
+[ Firmware ]  Tytera MD380 Radio - Reverse Engineering http://hackaday.com/2016/01/19/shmoocon-2016-reverse-engineering-cheap-chinese-radio-firmware/
+﻿"逆向廉价的中国产 Tytera MD380 无线电固件：  https://t.co/HP3jss1PQL"
+[ Firmware ]  UEFI boot script table exploit (https://github.com/Cr4sh/UEFI_boot_script_expl) with Linux DMA attack stuff should work fine on vulnerable Lenovo ThinkPad laptops
+﻿"UEFI Boot Script Table 漏洞利用脚本： https://t.co/Nu5C0fsipw 该脚本是一个 CHIPSEC 漏洞评估框架的模块，所以使用时需先下载 CHIPSEC 框架"
+[ Firmware ]  UEFI Firmware Parser: set of scripts 4 parsing, extracting & recreating UEFI firmwa. volumes https://github.com/theopolis/uefi-firmware-parser https://t.co/tKsIcJC03X
+﻿"UEFI-firmware-parser - 用于解析、提取、重建 UEFI 固件的脚本：  https://t.co/tKsIcJC03X   https://t.co/mzHwSCnxQ5"
+[ Firmware ]  For ur #IoT sec research: firmwalker. a script for searching extracted/mounted firmware fs. https://github.com/craigz28/firmwalker https://t.co/dYD6qj8E1y
+﻿"firmwalker - 固件文件系统搜索工具，用于从已提取的固件文件目录中搜索有用的信息， 如 /etc/passwd、 SSL 相关的证书文件等：  https://t.co/gtM06EkJ28 "
+[ Firmware ]  New blog post: Exploiting SMM callout vulnerabilities in Lenovo firmware http://blog.cr4.sh/2016/02/exploiting-smm-callout-vulnerabilities.html Sources: http://github.com/Cr4sh/fwexpl
+﻿"联想 UEFI 固件 SMM 驱动 SMI  Handler 漏洞的利用， Blog：  https://t.co/Yx868H6mnZ   Github Repo: https://t.co/Hiy3fVmeOU"
+[ Firmware ]  firmadyne : Towards Automated Dynamic Analysis for Linux-based Embedded Firmware : https://github.com/firmadyne/firmadyne/blob/master/paper/paper.pdf (pdf) , https://github.com/firmadyne/firmadyne
+﻿"firmadyne - 嵌入式固件自动化分析工具，可以动态分析基于 Linux 的嵌入式固件， Paper:   https://t.co/ohru3ZJJmj   Github Repo：   https://t.co/TtPMkaAUk5"
+[ Firmware ]  Reverse Engineering Samsung S6 Modem http://arm.ninja/2016/03/04/reverse-engineering-samsung-s6-modem/, by @ theqlabs https://t.co/47GNXmGZzV
+﻿"逆向 Samsung S6 Modem， Blog：  https://t.co/ONPluZ7Owj   https://t.co/47GNXmGZzV"
+[ Firmware ]  UEFITool NE A23 released with VSS NVRAM support. Please test it on your UEFI firmware, new GH issues appreciated. https://github.com/LongSoft/UEFITool/releases/tag/NE.A23
+﻿"UEFITool - UEFI 固件查看器和编辑器， NE Alpha23 版本发布， 支持 NVAR、VSS 格式解析， 基于 Qt5.6 构建：  https://t.co/UDzt1ep8bQ"
+[ Firmware ]  Intel Firmware Engine 2.0 has been released. New GUI, restore points & more. Available for download here: http://firmware.intel.com/learn/intel-firmware-engine/downloads #UEFI #IoT
+﻿"Intel 固件引擎 2.0 版本，这个引擎可以简化和加速固件镜像的开发过程︰ https://t.co/hyNgi18Bfm"
+[ Firmware ]  A Tour Beyond BIOS Launching a STM to Monitor SMM - https://firmware.intel.com/sites/default/files/A_Tour_Beyond_BIOS_Launching_STM_to_Monitor_SMM_in_EFI_Developer_Kit_II.pdf and STM source code - https://github.com/jyao1/STM
+﻿"在当前的 UEFI 架构中， SMM 驱动被加载进 SMRAM， 而 SMRAM 相关的攻击日渐增多，所以有必要监控 SMM 驱动的行为。 这篇 Paper 介绍如何实现一个 STM 监控器，监控 SMM 驱动的行为：  https://t.co/GrvzlHaYVt  STM Github Repo：  https://t.co/XpbXl2fwin "
+[ Firmware ]  #NDSS2016 FIRMADYNE: Dynamic analysis of 23k embedded firmware https://www.internetsociety.org/sites/default/files/07_1-ndss2016-slides.pdf [git https://github.com/firmadyne https://t.co/kI07YRDPIZ
+﻿"Firmadyne - 嵌入式固件自动化分析框架，之前推送过这个工具，这次是在 NDSS 2016 会议的演讲： https://t.co/hyvbbQV2Xs    Github Repo： https://t.co/9ovJLvYoM7   https://t.co/kI07YRDPIZ  "
+[ Firmware ]  Intel Releases the Arduino 101 Source Code : https://blog.arduino.cc/2016/04/21/intel-releases-the-arduino-101-firmware-source-code/ ; Download : https://downloadcenter.intel.com/download/25832
+﻿"英特尔发布了 Arduino 101 开发板的固件源码， Blog ︰ https://t.co/isITk0IbQj   源码下载︰  https://t.co/9iMWYXvtE0"
+[ Firmware ]  My ThinkPad SMM exploit can bypass Virtualisation Based Code Integrity now, thx to kernel driver from RWEverything https://github.com/Cr4sh/fwexpl/commit/74c7cfba12dba9046a00ae87a50a0608282312f9
+﻿" Cr4sh 的固件漏洞利用工具 fwexpl 更新，加了一个针对基于虚拟化的完整性保护的攻击模块： https://t.co/3PpdAGD7Ja"
+[ Firmware ]  How to lock the samsung download mode using an undocumented feature of aboot @ ge0n0sis https://ge0n0sis.github.io/posts/2016/05/how-to-lock-the-samsung-download-mode-using-an-undocumented-feature-of-aboot/
+﻿" 研究如何解锁手机 Bootloader 的文章很多，这篇文章刚好相反，研究如何利用一个未文档化的特性锁上三星手机的 Bootloader，禁用下载模式： https://t.co/NocRrjNLYE "
+[ Firmware ]  SMM unchecked pointer vulnerability : http://esec-lab.sogeti.com/posts/2016/05/30/smm-unchecked-pointer-vulnerability.html cc @ BrunoPujos https://t.co/7C44kChzQg
+﻿"SMM 未检查指针漏洞的利用，来自 Sogeti ESEC Lab Blog ︰ https://t.co/kXYPmX5857   https://t.co/7C44kChzQg"
+[ Firmware ]  BIOS Disassembly Ninjutsu book. for free! https://github.com/pinczakko/BIOS-Disassembly-Ninjutsu-Uncovered
+﻿"BIOS 逆向分析大揭秘（电子书）： https://t.co/npilth04ID"
+[ Firmware ]  ASUS UEFI Update Driver Physical Memory Read/Write https://codeinsecurity.wordpress.com/2016/06/12/asus-uefi-update-driver-physical-memory-readwrite/
+﻿"华硕 UEFI 更新驱动（AsUpIO.sys）物理内存读写漏洞： https://t.co/JWRaDctbdF"
+[ Firmware ]  Exploring and exploiting Lenovo firmware secrets http://blog.cr4.sh/2016/06/exploring-and-exploiting-lenovo.html
+﻿" 探索联想固件的秘密（借助一个 0Day 绕过 Flash 写保护、禁用 UEFI 安全启动、绕过 Windows 10 企业版的虚拟安全模式和密钥保护机制）： https://t.co/IDzNitkPIg  作者公开的相关利用代码： https://github.com/Cr4sh/ThinkPwn "
+[ Firmware ]  firminator_backend : First open source vulnerability scanner for firmwares : https://github.com/misterch0c/firminator_backend
+﻿"Firminator - 第一个开源的固件漏洞扫描工具，该工具通过静态和动态两种方法检测，动态是基于 Firmadyne 实现的︰ https://t.co/m6FYb8RIEM"
+[ Firmware ]  Introduction to reversing DXE drivers by @ BrunoPujos https://www.lse.epita.fr/data/lt/2016-02-09/slides/lt-2016-02-09-Bruno%20Pujos-RE%20DXE.pdf
+﻿" 逆向固件 DXE 驱动介绍： https://t.co/NFRotRiCQ7 "
+[ Firmware ]  Basic Input/Output: The Binwalk Firmware Analysis Tool http://www.basicinputoutput.com/2016/08/the-binwalk-firmware-analysis-tool.html#.V6n0LpMYFP4.twitter @ devttyS0
+﻿" Binwalk 固件分析工具使用方法介绍： https://t.co/YAZVEchycb "
+[ Firmware ]  A tale of an impossible bug: big.LITTLE and caching : http://www.mono-project.com/news/2016/09/12/arm64-icache/
+﻿" ARM big.LITTLE 架构与缓存的一个 Bug︰ https://t.co/IgqjhcM9D4"
+[ Firmware ]  Blog posted by David Barksdale sponsoring @ dwordj 's research: https://blog.exodusintel.com/2016/09/08/firmware-updates-made-easy/ #ICS #SCADA #ZeroDay #CyberSecurity
+﻿" Exodus 团队在 Comtrol RocketLinx ES8510-XTE 和 Opto 22 OPTEMU-SNR-DR2 两款设备中发现的固件更新漏洞： https://t.co/c6am7Mnri3 "
+[ Firmware ]  Reverse engineering (and modification of) the encrypted firmware of a Lenovo laptop. http://www.zmatt.net/unlocking-my-lenovo-laptop-part-3/ https://t.co/2VqX8gRLhd
+﻿" 联想笔记本电脑加密固件的逆向： https://t.co/CAUnCgfXed "
+[ Firmware ]  Adventures in Reverse Engineering Smart Bulb Firmware https://medium.com/@ urish/inside-the-bulb-adventures-in-reverse-engineering-smart-bulb-firmware-1b81ce2694a6#.m0bfihhqe
+﻿"逆向智能电灯的固件： https://hackernoon.com/inside-the-bulb-adventures-in-reverse-engineering-smart-bulb-firmware-1b81ce2694a6#.m0myg8lfi "
+[ Firmware ]  Pixhawk Firmware Hooking - https://www.invincealabs.com/blog/2016/10/pixhawk-firmware-hooking/
+﻿" Pixhawk Firmware Hooking： https://t.co/pcDwq6kuX8"
+[ Firmware ]  We told you - "A Quantitative Analysis of Insecurity of Embedded Network Devices: Results of a Wide-Area Scan"… https://t.co/6bZOLa3IOo
+﻿"A Quantitative Analysis of Insecurity of Embedded Network Devices: Results of a Wide-Area Scan（paper）： https://t.co/6bZOLa3IOo"
+[ Firmware ]  [CVE-2016-6563 / VU#677427]: Dlink DIR routers HNAP Login stack buffer… https://goo.gl/fb/GdzhKE #FullDisclosure
+﻿"Dlink DIR routers HNAP 登陆缓冲区溢出漏洞： https://t.co/zCJC0g02mE "
+[ Firmware ]  GitHub - jethrogb/uefireverse: Tools to help with Reverse Engineering UEFI-based firmware https://github.com/jethrogb/uefireverse
+﻿"uefireverse -- 这个工具用于逆向基于 UEFI 的固件：  https://t.co/cHEiw8eWXn"
+[ Firmware ]  Our slides "UEFI Firmware Rootkits: Myths and Reality" with @ vxradius. Revisited and Updated version for #ZeroNights https://github.com/REhints/Publications/blob/master/Conferences/ZeroNights_2016/UEFI_Rootkits_ZN_2016.pdf
+﻿"UEFI Firmware Rootkits: Myths and Reality（slides）： https://t.co/yEPKBYYuBT"
+[ Firmware ]  以为禁用麦克风就不会被监听了吗？用耳机也可以哟： http://www.freebuf.com/news/121015.html
+[ Firmware ]  DRAMA: How Your DRAM Becomes a Security Problem https://www.youtube.com/watch?v=lSU6YzjIIiQ https://www.blackhat.com/docs/eu-16/materials/eu-16-Schwarz-How-Your-DRAM-Becomes-A-Security-Problem.pdf #BHEU 2016 @ anders_fogh @ misc0110
+﻿"你的 DRAM 是如何成为一个安全问题的？（Video）： https://t.co/kUM6xXQ26L   slides： https://t.co/YavuRRkzgR"
+[ Firmware ]  iPhone secure boot firmware component could be dumped. http://ramtin-amin.fr/#nvmedma https://t.co/ORUrGbTRtF
+﻿"提取 iPhone 6s Secure ROM： http://ramtin-amin.fr/#nvmedma"
+[ Firmware ]  Multiple Netgear routers are vulnerable to arbitrary command injection : http://www.kb.cert.org/vuls/id/582384 , More : https://cxsecurity.com/issue/WLB-2016120049
+﻿"Netgear 路由器存在命令注入漏洞︰ https://t.co/oxvoRH1Lka"
+[ Firmware ]  Practical Reverse Engineering a router(Part 5)- Digging Through Firmware: http://jcjc-dev.com/2016/12/14/reversing-huawei-5-reversing-firmware/ 4: http://jcjc-dev.com/2016/06/08/reversing-huawei-4-dumping-flash/ cc @ Palantir555
+﻿"逆向华为路由器实战（part 5）之固件漏洞挖掘︰ https://t.co/9qbldtljFe "
+[ Firmware ]  Slides from our "New vulnerabilities in Coreboot and UEFI based firmware" talk at @ reconbrx : http://www.intelsecurity.com/advanced-threat-research/content/data/REConBrussels2017_BARing_the_system.pdf [pdf]
+﻿"  Coreboot 与基于 UEFI 的固件的新漏洞，来自 RECON 会议： https://t.co/i4cmlqLNNt  "
+[ Firmware ]  Researchers Disclose Vulnerabilities in GIGABYTE BRIX Systems http://buff.ly/2ohK8Nm #infosec #security #BHASIA https://t.co/nQLkTE0ziD
+﻿" RSA 2017 会议上，有研究者公开了一个 UEFI 固件勒索软件的 PoC，这次在 BlackHat Asia 会议上他们公开了 GIGABYTE（技嘉）BRIX 平台固件的两个漏洞，利用这些漏洞可以在完全控制系统后在固件级别安装后门： https://t.co/OaJX2sqi4Z  https://t.co/nQLkTE0ziD"
+[ Firmware ]  releasing udsploit, an exploit giving arm11 kernel code exec on 3DS firmware 11.3 with @ ylws8 https://github.com/smealum/udsploit
+﻿"任天堂 3DS 固件 11.3 arm11 内核代码执行 Exploit： https://t.co/lot8H6wBri"
+[ Firmware ]  Researchers find 10 vulnerabilities in 20+ Linksys Smart Wi-Fi routers : http://blog.ioactive.com/2017/04/linksys-smart-wi-fi-vulnerabilities.html
+﻿"Linksys Smart Wi-Fi 路由器（ EA3500 系列）中发现存在 10 个漏洞︰ https://t.co/aOFIVoD01L"
+[ Firmware ]  firmware-security-training - McAfee 安全研究团队公开了一套关于固件安全的培训资料，帮助大家从攻击者和防御者的角度了解 BIOS/UEFI 系统固件的安全性： https://github.com/advanced-threat-research/firmware-security-training
+[ Firmware ]  借助 IDA Pro 逆向 MD380 固件： https://github.com/travisgoodspeed/md380tools/wiki/IDAPro
+[ Firmware ]  用于防护 RootKits，确保启动链安全的 Intel 项目 - Boot Guard： https://github.com/flothrone/bootguard  https://www.blackhat.com/docs/asia-17/materials/asia-17-Matrosov-The-UEFI-Firmware-Rootkits-Myths-And-Reality.pdf
+[ Firmware ]  固件的可视化逆向分析： http://payatu.com/firmware-visual-analysis/
+[ Firmware ]   美国 NIST（国家标准与技术研究院）发布的《Platform Firmware Resiliency Guidelines》，规范了固件和数据在对抗破坏性攻击方面的标准： http://csrc.nist.gov/publications/drafts/800-193/sp800-193-draft.pdf
+[ Firmware ]   Digging Into The Core of Boot - Coreboot 启动过程中的安全性分析，来自 RECon 会议： https://recon.cx/2017/montreal/resources/slides/RECON-MTL-2017-DiggingIntoTheCoreOfBoot.pdf
+[ Firmware ]   实模式汇编与如何编写一个 BootLoader： part 1： https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-1/2901  part 2： https://0x00sec.org/t/realmode-assembly-writing-bootable-stuff-part-2/2992
+[ Firmware ]  你信用卡上脱落的 EMV 芯片有什么安全隐患，攻击者可以拿它干什么： https://www.trustwave.com/Resources/SpiderLabs-Blog/Chip-Off-the-Old-EMV/
+[ Firmware ]  嵌入式设备的固件一般都是怎么存储的，来自 Context 的 系列文章，今天介绍存储的几种方式，后面会介绍如何提取： https://www.contextis.com//resources/blog/part-i-overview-firmware-storage-options/
+[ Firmware ]   黑客 xerub 解密了苹果的 Secure Enclave Processor（专用安全处理器）的固件，公开了它的解密密钥。SEP 从 iPhone 5s 引入，主要用于处理敏感的数据，如 Touch ID 传感器的指纹数据。现在黑客可以解密并开始分析其固件了： http://www.iclarified.com/62025/hacker-decrypts-apples-secure-enclave-processor-sep-firmware
+[ Firmware ]   TREZOR 设备固件物理内存访问漏洞的分析和利用： http://saleemrashid.com/2017/08/17/extracting-trezor-secrets-sram/
+[ Firmware ]   Breaking the x86 ISA，这篇 Paper 中作者利用 Page Fault 分析和处理器 Fuzzing 的方法枚举 x86 的指令集并发现可能存在的软硬件漏洞： https://github.com/xoreaxeaxeax/sandsifter/blob/master/references/domas_breaking_the_x86_isa_wp.pdf
+[ Firmware ]   借助 JEB MIPS decompiler 挖掘嵌入式设备漏洞系列文章 part 1：以 Damn Vulnerable Router Firmware (DVRF) 路由器漏洞练习项目开始： https://www.pnfsoftware.com/blog/firmware-exploitation-with-jeb-part-1/
+[ Firmware ]  CacheKit 利用cache不一致性绕过内存监控: http://www.csyssec.org/20170819/cachekit/
+[ Firmware ]   利用未文档化的 PCH Trap 切换到特殊模式，禁用 Intel ME 11： http://blog.ptsecurity.com/2017/08/disabling-intel-me.html
+[ Firmware ]    基于 PCILeech 的 UEFI DMA 攻击： http://blog.frizk.net/2017/08/attacking-uefi.html
+[ Firmware ]  Oracle M7 SPARC 处理器的 ADI (Application Data Integrity) 特性可以用于加固内存分配器： https://lazytyped.blogspot.com/2016/12/hardening-allocators-with-adi.html
+[ Firmware ]   HEVD Stack Overflow 漏洞的利用，包括对 GS stack cookies 特性的绕过： https://klue.github.io/blog/2017/09/hevd_stack_gs/
+[ Firmware ]   联想笔记本（还有其他品牌）的 Synaptics 触控板驱动存在一个 Bug，每秒钟会扫描一次系统： https://randomascii.wordpress.com/2017/09/05/hey-synaptics-can-you-please-stop-polling
+[ Firmware ]   如何 Dump 一个 Flash 芯片，来自 quarkslab： https://blog.quarkslab.com/flash-dumping-part-i.html
+[ Firmware ]  FIRMWARE EXPLOITATION WITH JEB:（Part 1）： https://www.pnfsoftware.com/blog/firmware-exploitation-with-jeb-part-1/ (Part 2)： https://www.pnfsoftware.com/blog/firmware-exploitation-with-jeb-part-2/ (Part 3)： https://www.pnfsoftware.com/blog/firmware-exploitation-with-jeb-part-3-reversing-the-smartrgs-sr505n/
+[ Firmware ]   针对 Cisco ASA 固件的静态分析与数据处理： https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/september/cisco-asa-series-part-two-static-analysis-and-datamining-of-cisco-asa-firmware/?Year=2017&
+[ Firmware ]   利用 IOMMU（输入输出管理单元）对抗固件中的 DMA 攻击，来自 Intel 的 Paper： https://firmware.intel.com/sites/default/files/Intel_WhitePaper_Using_IOMMU_for_DMA_Protection_in_UEFI.pdf
+[ Firmware ]   对 BadBIOS、Evil Maids、Bootkits 及固件级恶意软件的检测，来自 PreOS Security 团队的 Paul English： https://ia601507.us.archive.org/2/items/seagl-2017/seagl-2017.pdf
+[ Firmware ]   如何利用 Intel DAL、UEFITool、CHIPSEC 等工具检测宏基、华硕、联想、戴尔等厂商主板固件中的 CVE-2017-5721 SMM 提权漏洞：  https://embedi.com/blog/uefi-bios-holes-so-much-magic-dont-come-inside
+[ Firmware ]    UEFI 固件运行在 "Ring -2 Hypervisor"，藏在其中的 Exploits 具有天然的高权限和隐蔽性，同时它不开源，分析起来比较困难。为了解决这个问题，Google 的研究员提出了 NERF (Non-Extensible Reduced Firmware) 方案，利用微型的 Linux 内核和 initramfs 替换所有的固件组件： https://schd.ws/hosted_files/osseu17/84/Replace%20UEFI%20with%20Linux.pdf
+[ Firmware ]   ARM exploitation for IoT - 基于增强版 GDB 调试工具 GEF 调试 ARM Exploit： https://quequero.org/2017/11/arm-exploitation-iot-episode-3/
+[ Firmware ]   Intel FSP（固件支持程序包）入口代码的逆向：  https://puri.sm/posts/primer-to-reverse-engineering-intel-fsp/
+[ Firmware ]   Intel 通过内部审计，最近修复了 Intel ME 11.x, SPS 4.0, TXE 3.0 的多个漏洞：  https://security-center.intel.com/advisory.aspx?intelid=INTEL-SA-00086&languageid=en-fr
+[ Firmware ]  Firmware is the new Black - 过去 3 年中 BIOS/UEFI 相关的安全漏洞分析，来自 BlackHat USA 2017 会议： https://t.co/jobwFtcaxf
+[ Firmware ]   DEEP INSERT Card Skimmer 的硬件逆向研究，来自 SensePost： https://sensepost.com/blog/2017/deep-insert-card-skimmer-research/
+[ Firmware ]   Positive Research 昨天公开了一篇关于 Intel ME 引擎的研究 Paper：《Inside Intel Management Engine》： https://github.com/ptresearch/IntelME-JTAG/blob/master/Inside_Intel_Management_Engine.pdf
+[ Firmware ]  争夺保护内存之战-使用高级纯数据利用技术攻击只读内存，来自 Bing Sun： https://sites.google.com/site/bingsunsec/the-battle-for-protected-memory
+[ Firmware ]  解密网卡之 NIC 驱动： https://media.ccc.de/v/34c3-9159-demystifying_network_cards
+[ Firmware ]    攻击 Intel ME 引擎，黑掉一台关机状态的电脑，运行未签名的固件代码： http://blog.ptsecurity.com/2018/01/running-unsigned-code-in-intel-me.html
+[ Firmware ]   Unbox Your Phone - TrustZone 的逆向与漏洞攻击： https://medium.com/taszksec/unbox-your-phone-part-i-331bbf44c30chttps://medium.com/taszksec/unbox-your-phone-part-ii-ae66e779b1d6https://medium.com/taszksec/unbox-your-phone-part-iii-7436ffaff7c7
+[ Firmware ]  Hacking Toshiba Laptops：  https://recon.cx/2018/brussels/resources/slides/RECON-BRX-2018-Hacking-Toshiba-Laptops.pdf
+[ Firmware ]   利用符号执行的方法动态发现驱动的 IOCTL Codes，以 PyExZ3 处理 HackSysExtremeVulnerableDriver 驱动为例： https://gist.github.com/jthuraisamy/06a28d7ebb60dd47386477af68d8cbcf
+[ Firmware ]  如何制作 PCB 原型板，Part 1： https://blog.particle.io/2018/03/06/proto-to-prod/
+[ Firmware ]   在 QEMU 中仿真三星 Exynos 4210 处理器的 BootRom： https://www.fredericb.info/2018/03/emulating-exynos-4210-bootrom-in-qemu.html
+[ Firmware ]  仅用 6 美元打造自己的 64GB 内存卡： https://ripitapart.com/2016/10/28/emmc-adventures-episode-1-building-my-own-64gb-memory-card-with-a-6-emmc-chip/
+[ Firmware ]  固件逆向介绍（Video）： https://www.youtube.com/watch?v=GIU4yJn2-2A
+[ Firmware ]  针对爱国者（Aigo SK8671 ）加密移动硬盘的研究，Part 1： https://syscall.eu/blog/2018/03/12/aigo_part1/  Part 2： https://syscall.eu/blog/2018/03/12/aigo_part2/
+[ Firmware ]  vim-clutch - 为提升 Vim 编码速度而生的 USB 电子脚踏板改造之旅： https://github.com/alevchuk/vim-clutch
+[ Firmware ]  如何组装一个基于 SDR 的 GSM 手机： http://blog.ptsecurity.com/2018/03/how-to-assemble-gsm-phone-based-on-sdr.html
+[ Firmware ]  AMD 承认其 Ryzen 及 EPYC 芯片存在一些 CTS 报告中的问题：  https://threatpost.com/amd-acknowledges-vulnerabilities-will-roll-out-patches-in-coming-weeks/130593/
+[ Firmware ]  Betraying the BIOS: Where the Guardians of the BIOS are Failing，研究员 Alex Matrosov 对  Black Hat Vegas 2017 演讲做了更新，增加了  Intel BIOS Guard 和 Intel ACM 漏洞的内容 ：  https://github.com/REhints/Publications/blob/master/Conferences/Betraying%20the%20BIOS/Offensivecon_18%5Bv2.0%5D.pdf
+[ Firmware ]  大疆无人机解密固件： https://github.com/vessial/fw_decrypt
+[ Firmware ]  逆向分析 UEFI: https://lightbulbone.com/posts/2018/03/uefi-ninja/
+[ Firmware ]  Microcontroller Firmware Recovery Using Invasive Analysis： https://duo.com/blog/microcontroller-firmware-recovery-using-invasive-analysis
+[ Firmware ]  使用JTAG从设备内存中提取密码： https://labs.portcullis.co.uk/blog/jtag-on-chip-debugging-extracting-passwords-from-memory/
+[ Firmware ]  ARM shellcode and exploit development， ARM 上的 ShellCode 编写与漏洞利用开发： https://github.com/invictus1306/Workshop-BSidesMunich2018/blob/master/workshop_slides.pdf
+[ Firmware ]  UEFI 驱动程序编写手册： https://github.com/tianocore/tianocore.github.io/wiki/UEFI-Driver-Writer's-Guide
+[ Firmware ]  ARM 上的 UEFI 更新，固件安全加固和服务安全加固（Pdf）： http://www.uefi.org/sites/default/files/resources/UEFI%20Updates%2C%20Secure%20Firmware%20and%20Secure%20Services%20on%20Arm%20%E2%80%93%20Matteo%20Carlini%20and%20Dong%20Wei%20.pdf
+[ Firmware ]  First glance on OS VRP by Huawei,华为防火墙系统的固件分析： https://embedi.com/blog/first-glance-on-os-vrp-by-huawei/

@@ -1,0 +1,373 @@
+[ Network ]  DHCPwn - A DHCP IP exhaustion tool https://github.com/mschwager/dhcpwn
+﻿"DHCPwn - DHCP IP 耗尽工具 https://t.co/aAmztAXkMB"
+[ Network ]  Detect Tor Exit doing sniffing by passively detecting unique DNS query https://github.com/NullHypothesis/exitmap/issues/37 Looking for feedback/comments! #tor #32c3
+﻿"通过被动观测 DNS 查询记录检测 Tor Exit Sniffer 节点 https://t.co/i4DJ3Tnm8f "
+[ Network ]  HTTPS Bicycle Attack https://guidovranken.wordpress.com/2015/12/30/https-bicycle-attack/
+﻿"HTTPS Bicycle Attack，每个请求中都存在的明文 HTTP 头部信息可以被用于泄露特定部分（如密码）的长度：  https://t.co/zmcwUSrPye"
+[ Network ]  Linode data centers targeted with #DDoS attacks http://www.scmagazine.com/cloud-hosting-company-linode-sees-service-interruptions-for-ddos-attacks/article/462535/ (@ TeriRnNY)
+﻿"Linode 数据中心遭到针对性的 DDoS 攻击 https://t.co/W6WdLV9vbW "
+[ Network ]  Testing for DNS recursion and avoiding being part of DNS amplification attacks, (Mon, Jan 4th) https://isc.sans.edu/diary.html?storyid=20567&rss
+﻿"测试 DNS 递归解析，避免成为 DNS 放大攻击的一部分： https://t.co/sC6rLtHt0d"
+[ Network ]  Debugging With Wireshark: TLS http://lukasa.co.uk/2016/01/Debugging_With_Wireshark_TLS/ via @ lukasaoz
+﻿"用 Wireshark 排查 TLS 出错的情况 https://t.co/gBP8DMI83b"
+[ Network ]  New post: Let’s Encrypt Now Being Abused By Malvertisers http://bit.ly/1TEMwDY @ TrendMicro
+﻿"Let's Encrypt 正被恶意广告主滥用，将用户引向 Angler Exploit Kit。 Let's Encrypt 项目致力于为所有的网站免费提供证书，启用 HTTPS。  https://t.co/XnubVrZCHI"
+[ Network ]  Running a Hidden Tor Service with Docker Compose : http://randywestergren.com/running-a-hidden-tor-service-with-docker-compose/
+﻿"利用 Docker Compose 运行隐藏的 Tor 服务: https://t.co/0JPXHEEI6t"
+[ Network ]  Scanning the Internet for backdoored ScreenOS devices: some statistics and tales of evading honeypots http://blog.whatever.io/2016/01/06/scanning-the-internet-for-backdoored-screenos-devices-some-statistics-and-tales-of-evading-honeypots/
+﻿"扫描互联网上的后门 ScreenOS 设备: 统计数据和蜜罐逃逸的故事 https://t.co/Oc0AjWd1Ae "
+[ Network ]  Cisco VLAN Trunking Protocol Vulnerabilities : http://tools.cisco.com/security/center/content/CiscoSecurityResponse/cisco-sr-20060913-vtp
+﻿"思科 VLAN 中继协议存在多个漏洞: https://t.co/k7Bzp0nraW"
+[ Network ]  Joy package for capturing and analyzing for network research, forensics & security monitoring http://seclist.us/joy-a-package-for-capturing-and-analyzing-for-network-research-forensics-security-monitoring.html
+﻿"Joy - 用于网络流量捕获、分析、取证、监控的工具： https://t.co/jOxwDc7vQw "
+[ Network ]  Exploring Peer to Peer Botnets - http://www.malwaretech.com/2016/01/exploring-peer-to-peer-botnets.html https://t.co/larm4yYRZ8
+﻿"探究 P2P Botnets： https://t.co/larm4yYRZ8 https://t.co/XHbPhDPqqb"
+[ Network ]  The evolution of wireless penetration testing: http://immunityservices.blogspot.com/2016/01/the-evolution-of-wireless-penetration.html
+﻿"无线渗透测试的演变: https://t.co/plDd09T8AQ"
+[ Network ]  Flexible, secure SSH with DNSSEC https://blog.cloudflare.com/flexible-secure-ssh-with-dnssec/
+﻿"借助 DNSSEC，搭建灵活、安全的 SSH 服务： https://t.co/TTgPOyxyNz"
+[ Network ]  HTTP Evasions Explained 9 - How to fix the inspection bypasses http://noxxi.de/research/http-evader-explained-9-how-to-fix.html
+﻿"HTTP 逃逸系列 9 - 如何绕过应用层的检查：  https://t.co/G3iTfRM6LQ"
+[ Network ]  How email in transit can be intercepted using DNS hijacking - http://bit.ly/1W9uA68 #gmail #security #privacy #SSL
+﻿"邮件在传输过程中是如何通过 DNS 劫持被截获的：  https://t.co/luQkPZh3nf"
+[ Network ]  Delving into Internet DDoS Attacks by Botnets: Characterization and Analysis http://www.cse.buffalo.edu/~mohaisen/doc/dsn2015.pdf https://t.co/tVIKLnCUsB
+﻿"通过 Botnet 深入研究 DDoS 攻击: 特征描述和分析，来自纽约州里大学布法罗分校的 Paper： https://t.co/yaIZBT5OWd https://t.co/tVIKLnCUsB"
+[ Network ]  New blogpost: "Unusual #IPv6 Fragmentation and Operating Systems Responses" http://www.secfu.net/2016/01/13/unusual-ipv6-fragmentation-and-operating-systems-responses/
+﻿"异常的 IPv6 分片以及操作系统的响应： https://t.co/235EsVKr2m"
+[ Network ]  HTTP Evasions Explained 10 - Lazy Browsers http://noxxi.de/research/http-evader-explained-10-lazy-browsers.html
+﻿"HTTP 逃逸系列 10 - Lazy Browsers:  https://t.co/BIR4KaIbB9"
+[ Network ]  Building a UDP Scanner : http://bt3gl.github.io/black-hat-python-building-a-udp-scanner.html
+﻿"用 Python 写一个 UDP 扫描器: https://t.co/Mrvst5w0Nj"
+[ Network ]  Cheating VoIP Security by Flooding the SIP http://goo.gl/N7scAq #Hacking #MobileSecurity #Vulnerabilities
+﻿"通过 Flood SIP（DDoS）威胁 VoIP 的安全性，来自 InfoSec Blog: https://t.co/T4GaeuMcMk "
+[ Network ]  Cisco Blog | Overcoming the DNS “Blind Spot” http://bit.ly/1ZGQ2Qc
+﻿"对 DNS 信息的监控对于发现攻击入侵很有必要，然而现在这么做的公司还比较少，来自 Cisco Blog： https://t.co/wWYnY2RZlU"
+[ Network ]  This is a pretty cool project: https://github.com/sailro/Bdtunnel BoutDuTunnel is able to create virtual connections tunnelled in HTTP requests.
+﻿"BoutDuTunnel - 基于 HTTP 请求创建隧道连接的工具， Github Repo： https://t.co/GCvDG2kDlH "
+[ Network ]  Sensitive information can be revealed from Tor hidden services on Apache : http://www.dailydot.com/politics/apache-server-status-tor/
+﻿"由于配置错误，运行在 Apache 上的 Tor 隐藏服务会泄露敏感信息: https://t.co/j4WHlzbSWw"
+[ Network ]  Introducing MitM-VM & Trudy: A Dead Simple TCP Intercepting Proxy Tool Set - https://www.praetorian.com/blog/trudy-a-dead-simple-tcp-intercepting-proxy-mitm-vm
+﻿"MitM-VM & Trudy - 一个非常容易安装和配置的中间人代理劫持工具： https://t.co/QMDGC4U2Zm"
+[ Network ]  You should take a look at mitmproxy, a tool that allows interactive examination and modification of HTTP traffic https://mitmproxy.org/
+﻿"mitmproxy - 交互式流量劫持工具，允许劫持、修改、重放流量： https://t.co/InOjRBx5U9 "
+[ Network ]  Securing a DNS server with Snort IDS http://www.theseus.fi/bitstream/handle/10024/98458/Drozdova_Thesis%20work.pdf?sequence=1
+﻿"用 Snort IDS 加固 DNS 服务器， Paper: https://t.co/PsoO8ESMpv"
+[ Network ]  If you are following along with our talk at #sas2016, here's our example on Turla SSL certificate chains. http://blog.passivetotal.org/harnessing-ssl-certificates-using-infrastructure-chaining/
+﻿"通过基础设施链关系加固 SSL 证书， 来自 PassiveTotal Blog： https://t.co/m47iTfsFMT"
+[ Network ]  Lots of interesting data sets in Geoff Huston's "Is #IPv6 Really Faster?": https://www.nanog.org/sites/default/files/Huston_Is_Ipv6.pdf [PDF] #nanog66 https://t.co/DwezE0VG53
+﻿"IPv6 真的更快吗？ PDF: https://t.co/mlwj47JGf5 "
+[ Network ]  The Art of Network Vulnerability Assessment http://goo.gl/18npJ6 #Hacking #PenetrationTesting
+﻿"网络安全漏洞评估的艺术， 来自 InfoSec Blog： https://t.co/2K44gsq26h "
+[ Network ]  http2 Explained - A detailed document explaining and documenting HTTP/2 http://ow.ly/YtXwZ
+﻿"http2 Explained - HTTP/2 协议的详细介绍文档， Blog: https://t.co/lh5zrFfreF"
+[ Network ]  PoC for getting remote HTTP Server date using gzip compressed HTTP Response : https://github.com/jcarlosn/gzip-http-time , Details : http://jcarlosnorte.com/security/2016/02/21/date-leak-gzip-tor.html
+﻿"从 GZIP 压缩的 HTTP Response 中提取服务器的日期信息， PoC :  https://t.co/lENacwP0JP   Blog : https://t.co/l3ot3m8kL5"
+[ Network ]  Google Project Shield DoS Mitigation Service Is Free to News Sites http://mobile.eweek.com/security/google-project-shield-dos-mitigation-service-is-free-to-news-sites.html
+﻿"Google Shield（盾牌）项目免费为新闻网站提供 DoS 攻击缓解服务： https://t.co/Sr9oJKpVPZ"
+[ Network ]  Chinese ISPs are redirecting users legitimate traffic to malicious sites/ads http://securityaffairs.co/wordpress/44893/hacking/chinese-isps-serve-malware-ads.html
+﻿"国内运营商将用户合法流量重定向到恶意网站或广告网站， 来自 SecurityAffairs 的报道： https://t.co/QjSvplnepq  乌云昨天也有一篇文章谈这个问题， 《今天，你被运营商 “上” 了么？》： http://weibo.com/ttarticle/p/show?id=2309403947881995354308 "
+[ Network ]  Packet Injection Attacks in the Wild https://www.netresec.com/?page=Blog&month=2016-03&post=Packet-Injection-Attacks-in-the-Wild
+﻿" 野外数据包注入攻击 - NetreSec 谈我国运营商数据包注入的问题： https://t.co/Nv8fOiuCQv  里面还引用了一篇 Paper 《运营商对网站内容的注入攻击》： http://arxiv.org/abs/1602.07128 "
+[ Network ]  New cross-protocol attack published: DROWN. Shared certs/keys on SSLv2 & TLS gear vulnerable https://www.drownattack.com/drown-attack-paper.pdf https://t.co/P3OJ1OMqRd
+﻿"DROWN -  新的跨协议攻击方法， 用 SSLv2 破坏 TLS 加密， Paper：  https://t.co/2o66f7b48w  作者还为这个攻击搭建了一个网站 : https://drownattack.com/ "
+[ Network ]  How to get a list of the most common SSL certificate fingerprints in less than 5 seconds: https://asciinema.org/a/37867
+﻿"如果通过 Shodan 引擎命令行工具获取最常见的 SSL 证书指纹列表(视频): https://t.co/KlBgRUBRly"
+[ Network ]  How to exploit TFTP protocol to launch powerful DDoS amplification attacks http://securityaffairs.co/wordpress/45159/hacking/tftp-ddos-amplification-attacks.html
+﻿"如何利用 TFTP 协议发起 DDoS 放大攻击, 来自 SecurityAffairs 的报道, 文中有相关 Paper 的链接: https://t.co/VT6umjWwdH"
+[ Network ]  600,000 TFTP Servers Can Be Abused For Reflection DDoS Attacks http://bit.ly/1LYopB7
+﻿"600,000 台 TFTP 服务器可被滥用，发起反射式 DDoS 攻击： https://t.co/a0BP82qKzv"
+[ Network ]  Now, It´s time to play with #srsLTE https://github.com/srsLTE/srsLTE #LTE #4G #GSM https://t.co/hnpEUGs8lI
+﻿"srsLTE - LTE 库的开源实现: https://t.co/hnpEUGs8lI   https://t.co/vdgLqshoEj  "
+[ Network ]  Slides of @ AntoniosAtlasis #TR16 IPv6 Sec Summit "The Impact of Extension Headrs on IPv6 ACLs - Real Life Use Cases" https://www.ernw.de/download/TR16_AAtlasis_The_Impact_of_Extension_Headers_on_IPv6_Access_Control_Lists.pdf
+﻿"IPv6 ACLs 扩展头部的影响 - 实际案例分析:  https://t.co/1eiE6uCSKe"
+[ Network ]  Slides of my @ WEareTROOPERS #TR16 IPv6 Sec Summit talk on "Enterprise IPv6 Security Strategy": https://www.ernw.de/download/ERNW_TR16_IPv6SecSummit_Enterprise_Security_Strategy.pdf [PDF]
+﻿"企业 IPv6 安全战略, 来自 Troopers IPv6 安全峰会 ︰ https://t.co/06JfHY4WRc "
+[ Network ]  OnionCat - An Anonymous VPN-Adapter (P2P layer 3 VPN based on Tor or I2P): OnionCat is a VPN-adapter ... http://bit.ly/22gIJll #PenTest
+﻿"OnionCat - 匿名 VPN 适配器, 基于 Tor 和 I2P 协议:  https://t.co/aFVjcSPlsm "
+[ Network ]  Our new beta iOS app is here! Test it today: http://s.cgvpn.net/ne #wifisafespot https://t.co/f37MIh84GU
+﻿"WiFi Safe Spot 工具 iOS Beta 版本下载 - 可以防护 Free WiFi、提供匿名访问、为被审查的 APP和网站提供连接 ︰ https://t.co/WJwkcZxD4J   https://t.co/f37MIh84GU"
+[ Network ]  Analyzing HTTPS Encrypted Traffic to Identify User Operating System, Browser and Application http://arxiv.org/abs/1603.04865
+﻿"通过被动地分析 HTTPS 加密流量，识别用户的操作系统、 浏览器和应用程序，Paper： https://t.co/2M60XLSz2D "
+[ Network ]  New IETF draft: SMTP Strict Transport Security https://tools.ietf.org/html/draft-margolis-smtp-sts-00
+﻿"新的 IETF 草案 ︰ SMTP 强制传输安全: https://t.co/qwFH4uH3g3"
+[ Network ]  Both dnscrypt and randomdns (https://github.com/pwnsdx/RandomDNS) are great, but ISPs can still see website names via TLS SNI and IP correlation.
+﻿"RandomDNS - 用于提高 Dnscrypt 协议安全性、隐私性和匿名性的工具,该工具会在运行时动态选择服务器, Github Repo:  https://t.co/wvP4K0AWfy"
+[ Network ]  A Complete Guide on IPv6 Attack and Defense : http://www.sans.org/reading-room/whitepapers/detection/complete-guide-ipv6-attack-defense-33904 (pdf)
+﻿"IPv6 攻击与防御完整指南， 来自 SANS 2012 年的一篇 Paper ︰ https://t.co/rCbAL114gv 还有两个相关链接: https://github.com/Teino1978-Corp/Teino1978-Corp-APV6  https://gist.github.com/Teino1978-Corp/c7a855d0c0eaa348273b "
+[ Network ]  Slides of Gabriel Mueller's #TR16 IPv6 Sec Summit talk "NATTED – A Field Report": https://www.ernw.de/download/NATTED_A_Field_Report_V11.pdf [PDF] https://t.co/hE7K7B23cs
+﻿"NATTED — 实测报告, 来自 IPv6 安全峰会上的演讲: https://t.co/GOb3Fc71nG  https://t.co/hE7K7B23cs"
+[ Network ]  StartSSL Domain validation Vulnerability discovered : http://oalmanna.blogspot.in/2016/03/startssl-domain-validation.html
+﻿"StartSSL 域名验证漏洞 ︰ https://t.co/X3qlrHJRgp"
+[ Network ]  New findings from our data science team: Topology of Malicious Activity on IPv4 [BLOG] http://bit.ly/1pz2KVK
+﻿"IPv4 上的恶意活动拓扑结构， 来自 Rapid7 Blog： https://t.co/jXOXY3PAkc"
+[ Network ]  TLS Certificate Optimization: The Technical Details behind "No Browser Left Behind" https://blog.cloudflare.com/tls-certificate-optimization-technical-details/
+﻿"TLS 证书优化 - CloudFlare '一个浏览器也不落下' 计划背后的技术细节：  https://t.co/DEybv8w1h7 "
+[ Network ]  New blog post: Reflections on the IPv6-only WiFi Experience during Troopers https://www.insinuator.net/2016/03/reflections-on-the-ipv6-only-wifi-experience-during-troopers/
+﻿"IPv6-only WiFi 体验的几点思考， 来自 Troopers 2016 会议： https://t.co/I4FmlkVDcp "
+[ Network ]  How to Prepare for a DDoS Attack https://blog.radware.com/security/2016/03/how-to-prepare-for-a-ddos-attack/
+﻿"如何为一次 DDoS 攻击做防御准备， 来自 Radware Blog： https://t.co/6HlAqRKcKj"
+[ Network ]  Troopers 16: Wireshark in IP version 6 https://www.insinuator.net/2016/03/troopers-16-wireshark-in-ip-version-6/
+﻿"Wireshark 中的 IPv6， 来自 Troopers 2016 会议： https://t.co/qmNAWqJZzK  相关的 Slides: https://www.troopers.de/media/filer_public/9c/c5/9cc5e4e1-1f2c-4d0b-9f69-87059eb9e931/ernw_tr16_ipv6_secsummit_ipv6-in-wireshark_jcarrell.pdf "
+[ Network ]  Root Servers Were Not Targets of 2015 DDoS Attack: https://threatpost.com/root-servers-were-not-targets-of-2015-ddos-attack/117082/ via @ threatpost
+﻿"Verisign 的两名研究员表示，2015 年 11 月 30 号， 3 台根域名服务器遭到 DDoS 攻击，而这次攻击中，根服务器并不是攻击者真正的目标，两个中国的 IP 地址才是：   https://t.co/0SsxUKxtM2"
+[ Network ]  The Trouble with Tor https://blog.cloudflare.com/the-trouble-with-tor/
+﻿"The Trouble with Tor， 来自 CloudFlare Blog： https://t.co/bo3qIEUl89 "
+[ Network ]  Forwarding-Loop Attacks in Content Delivery Networks. Nice idea, interesting DoS attacks: https://www.internetsociety.org/sites/default/files/blogs-media/forwarding-loop-attacks-content-delivery-networks.pdf
+﻿"CDN 网络中的转发循环（Forwarding-Loop）攻击， 来自清华大学陈建军博士的 Paper ︰ https://t.co/PRW5oAfzxt  Freebuf 上的文章： http://www.freebuf.com/news/96874.html "
+[ Network ]  "El flagelo del ID numérico" Slides de la presentación en PROTOSEC 2016 [PDF en inglés] http://www.fundacionsadosky.org.ar/pub/2016-03-30-Protosec2016-iarce.pdf
+﻿"网络协议中数字标识符的诅咒， 来自 Protosec 2016 会议： https://t.co/90epWuSb9X"
+[ Network ]  WordPress is automatically turning on HTTPS encryption for every site they host, thanks to @ letsencrypt: https://en.blog.wordpress.com/2016/04/08/https-everywhere-encryption-for-all-wordpress-com-sites/
+﻿"WordPress 将为它宿主的所有的网站自动启用 HTTPS 加密 ︰ https://t.co/xKiw2TiFVE"
+[ Network ]  The curious case of slow downloads http://blog.cloudflare.com/the-curious-case-of-slow-downloads/
+﻿"一桩下载速度缓慢的离奇案例， 来自 CloudFlare Blog： https://t.co/LD2eJOBLcc "
+[ Network ]  Clandestine DNS lookups with gdns http://rud.is/b/2016/04/11/clandestine-dns-lookups-with-gdns/
+﻿"Google 最近推出 DNS-over-HTTPS API， 支持端到端认证的 DNS 查询， 这篇 Blog 基于 Gdns 实现隐蔽的 DNS 查询： https://t.co/Z1sO1fUUHh  "
+[ Network ]  Today I learned about https://dnshistory.org/ - look up historical DNS records for many, many domain names. Now on #dnsdist :-)
+﻿"DNS 变更历史记录查询工具（在线版）：  https://t.co/Zw46KG3U2F "
+[ Network ]  MaSSHandra 2.3.1 for Windows, Linux and Mac OSX is now available. Get it now at http://www.masshandra.com https://t.co/jwkADG0Bvh
+﻿"免费的 3D 网络拓扑图编辑工具 MaSSHandra 更新 2.3.1 版本，该工具支持 Windows、Linux、OS X：  https://t.co/kx5lyQ3inw https://t.co/jwkADG0Bvh"
+[ Network ]  Tools to detect BGP prefix hijacking & other routing anomalies https://labs.ripe.net/Members/guillaume_valadon/tools-to-parse-bgp-archives
+﻿"可以用来检测 BGP 前缀劫持和其他路由异常的工具： https://t.co/8MVPWBSIrl"
+[ Network ]  How To Prepare For A DDoS Attack: 10 Steps http://ow.ly/4mQ4ti
+﻿"为一次 DDoS 攻击做防御准备的 10 个步骤（10 张图）：  https://t.co/JrzMOlBPj9"
+[ Network ]  I've released Assetnote for the bug bounty community to assist in the monitoring of passive DNS data - more here: https://github.com/infosec-au/assetnote
+﻿"assetnote - 被动 DNS 数据监控通知推送工具， 可以监控新域名的出现 ︰ https://t.co/mR5wW36g8P"
+[ Network ]  How to trick traffic sensors - Securelist http://ow.ly/4mQATg
+﻿"如何欺骗交通流量传感器， 来自 Kaspersky Blog： https://t.co/bdRj98Oma0"
+[ Network ]  TCP implementation over ICMP protocol to bypass firewalls. http://ow.ly/4nb1Dx
+﻿"TcpOverICMP - 基于 ICMP 的 TCP 实现， 可以绕过防火墙： https://t.co/HW3LfDyL6c"
+[ Network ]  Understanding high Mpps DDoS attacks https://www.incapsula.com/blog/throughput-forwarding-rate-ddos-attacks.html
+﻿"高 Mpps DDoS 攻击中转发率和吞吐量的区别：  https://t.co/j1IEBkWnCR"
+[ Network ]  Surprisingly easy-to-read white paper from @ ptsecurity on the number of ways you can be spied on by hacking SS7. http://www.ptsecurity.com/upload/ptcom/SS7_WP_A4.ENG.0036.01.DEC.28.2014.pdf
+﻿"来自 PtSecurity 的 SS7 Hacking Report： https://t.co/p19HldaF9t"
+[ Network ]  Materials from the Fun with Network Packet Analysis workshop have been updated. Thanks for coming! http://ow.ly/Zpavx @ BSidesCharm
+﻿"BsidesCharm 会议一篇谈网络数据包分析的演讲： https://t.co/fbCEp9JSEK"
+[ Network ]  VPN over DNS : http://www.shellntel.com/blog/2016/3/30/vpn-over-dns-1 https://t.co/1tFmBR5VNf
+﻿"基于 DNS 协议的 VPN: https://t.co/EOtrTRZiM2 https://t.co/1tFmBR5VNf"
+[ Network ]  gopacket - Provides packet processing capabilities for Go https://github.com/google/gopacket
+﻿"gopacket - Go 语言用于处理网络数据包的库： https://t.co/KUavmh2nK0"
+[ Network ]  Our (Silke Holtmanns, me & @ i_j_oliver ) on location tracking in LTE is available now at http://tinyurl.com/iwfslides) & http://tinyurl.com/iwfpaper.
+﻿" 利用互通功能在 LTE 网络内实现用户地理位置跟踪， Slides： https://t.co/rANysuFnqy   Paper： https://t.co/XCmspkmXvC  "
+[ Network ]  Anothr cool thesis, by @ anantary: Security Implications of the MLD Protocol in IPv6 Networks https://www.its.fh-muenster.de/doc/Security_Implications_of_MLD_in_IPv6_Networks.pdf (supervisor @ seecurity)
+﻿" IPv6 网络中 MLD 协议对安全的影响， Paper： https://t.co/zSFjMAh6pj "
+[ Network ]  Remotely hijack TCP connection at GeekPwn 2016 Macau https://blog.geekpwn.org/2016/05/20/mitnick-attack-reappears-at-geekpwn-macau-contest/
+﻿" GeekPwn 官方 Blog 对澳门比赛 TCP 会话远程劫持攻击的介绍： https://t.co/HBDDdejG4o"
+[ Network ]  Reverse Engineering A Mysterious UDP Stream in My Hotel http://wiki.gkbrk.com/Hotel_Music.html Laughed out loud :)
+﻿" 作者在住酒店时发现 2046 端口有大量的 UDP 数据包，作者开始分析这些数据包的内容： https://t.co/3MD1IWFEb9 "
+[ Network ]  Tor - Building the Next Generation of Onion Services : https://blog.torproject.org/blog/mission-montreal-building-next-generation-onion-services
+﻿" 构建下一代洋葱服务，来自 Tor 官方 Blog ︰ https://t.co/2gNN2w2HMg"
+[ Network ]  Invisible Hijacking: a case study of hijacking millions of IP address invisibly with BGP - RIPE72 presentation https://ripe72.ripe.net/presentations/45-Invisible_Hijacking.pdf
+﻿"看不见的劫持 - 数百万 IP 劫持案例研究： https://t.co/4XpJCpduw4 "
+[ Network ]  A Forensic Case Study on AS Hijacking : The Attacker’s Perspective : http://www.sigcomm.org/sites/default/files/ccr/papers/2013/April/2479957-2479959.pdf (pdf)
+﻿" 从攻击者的角度来分析一个 BGP AS（自治系统）劫持案例，来自 2013 年的一篇 Paper︰ https://t.co/CCkzdQldcD "
+[ Network ]  Next-gen Tor is arriving and it will include a distributed random number generator http://securityaffairs.co/wordpress/47683/deep-web/distributed-tor-random-number-generator.html
+﻿" 下一代 Tor 将会采用分布式的随机数生成器，来自 SecurityAffairs 的报道： https://t.co/dyomBxbI0t"
+[ Network ]  My favorite packet tool: Tcpdump along with TcpTrace, Xplot ~ looking at network issues : PDF: https://fasterdata.es.net/assets/Uploads/20131016-TCPDumpTracePlot.pdf&ved=0ahUKEwipv4jAv_3MAhUG2SYKHVD-C74QFggrMAU&usg=AFQjCNGO2DmH2j-o4WKhK3R8V9FGHCsKdw&sig2=g-Em6gYs5Be7TsY09_7xag
+﻿" 利用 TCPDump、TCPTrace、XPlot 3 个工具调试网络问题: https://t.co/59HDkeASBc"
+[ Network ]  Split TCP -The fairness & throughput of TCP suffer when it is used in mobile ad hoc network, TCP wrongly attributes http://www.cs.ucr.edu/~swastik/SAWN-05-5.pdf&ved=0ahUKEwisxPD08v_MAhVXa1IKHRZUAVAQFggjMAE&usg=AFQjCNG-p4DrIJwC1o66RNtW3kB2m_o2Pg&sig2=29pW0TNxF7wd23OwoOKxkA
+﻿" 手机 Ad Hoc 网络中， TCP 的拥塞控制和吞吐量一直是个问题，作者提出 Split TCP 模型尝试解决这个问题。来自加州大学河滨分校的 Paper： https://t.co/zGkLMnVsd6"
+[ Network ]  Monitoring Reflective DDoS with Honeypots : http://www.slideshare.net/phdays/building-digita-ddosl-threat-intelligence-programs-ru-autosaved (Slides)
+﻿" 通过蜜罐监控反射式 DDoS 攻击，来自 PHDays 会议: https://t.co/y2GpAuurxR "
+[ Network ]  HOWTO: Port Forwards through a SOCKS proxy http://blog.cobaltstrike.com/2016/06/01/howto-port-forwards-through-a-socks-proxy https://t.co/lFvaIL1DuW
+﻿" 基于 SOCKS 代理的端口转发： https://t.co/mJXwOQRSKy https://t.co/lFvaIL1DuW"
+[ Network ]  Some discussion of #IPv6 ACLs for Cisco devices: https://www.insinuator.net/2015/12/developing-an-enterprise-ipv6-security-strategy-part-3-traffic-filtering-in-ipv6-networks-i/ https://www.insinuator.net/2015/12/developing-an-enterprise-ipv6-security-strategy-part-4-traffic-filtering-in-ipv6-networks-ii/ https://www.insinuator.net/2016/05/cve-2016-1409-ipv6-ndp-dos-vulnerability-in-cisco-software/
+﻿" 关于 Cisco 网络设备 IPv6 ACL 策略配置的几篇文章， Part 3： https://t.co/vR70j3qpSl   Part 2： https://t.co/r5mjVeTD52   Part 1： https://t.co/MfSgtq9PRm"
+[ Network ]  Optimizing TLS over TCP to reduce latency http://blog.cloudflare.com/optimizing-tls-over-tcp-to-reduce-latency/
+﻿" 通过 TCP 优化 TLS，以减少传输延迟，来自 CloudFlare Blog： https://t.co/UPsfRfvmES"
+[ Network ]  Verizon Wireless Network Extender multiple vulnerabilities https://www.kb.cert.org/vuls/id/458007
+﻿"Verizon 无线网络扩展器存在多个漏洞，来自 US CERT： https://t.co/GnuUJBmpOI"
+[ Network ]  Updated API-DNSDumpster so it now retrieves the network mapping image! https://github.com/PaulSec/API-dnsdumpster.com https://t.co/Q4nrkpLD5D
+﻿" API-DNSDumpster - 获取网络拓扑结构的工具： https://t.co/mAuhazswlS "
+[ Network ]  Microsoft has a blog post on why hidden SSIDs harm security. They cause connecting clients to *always* broadcast it. https://blogs.technet.microsoft.com/networking/2008/02/08/non-broadcast-wireless-ssids-why-hidden-wireless-networks-are-a-bad-idea/
+﻿" 为什么隐藏无线 SSID 对安全来说不是个好主意，来自微软 Blog： https://t.co/n6uMfmiMaL"
+[ Network ]  Fun with BadTunnel (http://xlab.tencent.com/en/2016/06/17/BadTunnel-A-New-Hope/) -> Metasploit PR https://github.com/rapid7/metasploit-framework/pull/6990
+﻿" 《BadTunnel - 跨网段劫持广播协议》： http://drops.wooyun.org/papers/16925   HD Moore 在 Metasploit 中添加的 BadTunnel 攻击模块：  https://t.co/euXj3kpcxX"
+[ Network ]  Additional BadTunnel PoCs: Wait-and-Respond (for NAT): https://gist.github.com/hdm/041641b6896779ebb77e04a578001c28 + Spam-Local (direct LAN attack): https://gist.github.com/hdm/8825b88f7c266b605c0973b1664898bf
+﻿" HD Moore 为 BadTunnel 写的两个攻击模块， NetBIOS Brute NAT: https://t.co/xBVrPEDQtf  NetBIOS Brute Local︰ https://t.co/SOLXQwwnnU"
+[ Network ]  NCC Group Whitepaper: Local net compromise - dangers of NBNS/LLMNR spoofing attacks & how to prevent - https://www.nccgroup.trust/uk/our-research/local-network-compromise-despite-good-patching/?research=Whitepapers by @ jonmacf
+﻿" 局域网 NBNS/LLMNR 欺骗攻击与防御，来自 NCC Group 的 Paper： https://t.co/hlWqZMzXfr "
+[ Network ]  IP address geo-location by passively measuring TCP/IP round-trip times to a few servers around the world http://geoloc.foremski.pl/index.html
+﻿" 通过监控几轮的 TCP/IP 数据交互，就可以被动地获取到 IP 地址的物理位置信息： https://t.co/4hXhgdcjll  "
+[ Network ]  Analyzing Network Traffic using Julia : https://brandonkmiller.com/?blog%2Fanalyzing-network-traffic-with-julia
+﻿" 用 Julia 语言分析网络流量 ︰ https://t.co/6ZODEJrbeQ"
+[ Network ]  Ettercap Man In The Middle Attack + SSL strip : https://sinister.ly/Thread-Ettercap-Man-In-The-MIddle-Attack-SSL-Strip
+﻿" 基于 Ettercap 和 SSL Strip 工具的中间人攻击 ︰ https://t.co/FyWFOZh8iK"
+[ Network ]  ZigBee packet capture http://goo.gl/P8xST2
+﻿"ZBAnalyzer - ZigBee 数据包分析工具： https://t.co/xwMVmcAflS"
+[ Network ]  Using Shannon's Entropy, Machine Learning, & Bayesian Networks to discover, describe, & visualize IPv6 addresses http://entropy-ip.com/
+﻿" Entropy/IP - 利用香农熵、机器学习与贝叶斯网络发现、描述和可视化 IPv6 地址结构： https://t.co/aBeRN7LX2y"
+[ Network ]  Sucuri spotted a large botnet of CCTV devices involved in DDoS attacks http://securityaffairs.co/wordpress/48807/iot/cctv-devices-ddos.html
+﻿"Sucuri 发现了一个由网络摄像头组成的 DDoS 攻击网络： https://t.co/zEw4E8KBh2"
+[ Network ]  WireGuard : Next generation fast,modern,secure in-kernel modern VPN (alt. to IPSec & OpenVPN) : https://www.wireguard.io/
+﻿"WireGuard - 下一代高速、安全的内核态 VPN 实现︰ https://t.co/xKYmVRf4Ho"
+[ Network ]  LizardStresser IoT Botnet Part of 400Gbps DDoS Attacks https://threatpost.com/lizardstresser-iot-botnet-part-of-400gbps-ddos-attacks/119006/
+﻿"Arbor 安全团队发布报告称 400Gbps IoT DDoS 攻击的背后是 Lizard Squad 组织： https://t.co/72LGcz9qi0 "
+[ Network ]  Sweet maps show how connected chunks of the dark web really are, sharing SSH keys etc https://motherboard.vice.com/read/these-maps-show-what-the-dark-web-looks-like https://t.co/02uw19cT9F
+﻿" 一张图告诉你 Dark Web 长什么样： https://t.co/RT85h0TO5C https://t.co/02uw19cT9F"
+[ Network ]  The internet is big, and so is the internet routing protocol of choice: BGP #Visualizing #BGP @ mattlfinn ~ https://engasylum.net/2016/07/03/visualizing-bgp/
+﻿" BGP 可视化： https://t.co/u4OwbFQK24"
+[ Network ]  The Difficulty of Routing around Internet Surveillance States https://www.schneier.com/blog/archives/2016/07/the_difficulty_.html
+﻿" 尽量避免路由经过互联网被监视的国家，Paper： https://t.co/1l6qyqZJa2 "
+[ Network ]  DNS Tunneling : Tunnel your way to free internet https://medium.com/@ ankcodes/tunnel-your-way-to-free-internet-1a2e9120ddc
+﻿"基于 DNS 隧道的网络传输： https://t.co/icLxmSpLBN"
+[ Network ]  Gaining Control of a .int Domain Name With DNS Trickery : https://thehackerblog.com/the-international-incident-gaining-control-of-a-int-domain-name-with-dns-trickery/index.html cc @ IAmMandatory
+﻿" 通过 DNS 的技巧控制一个 .int 的域名︰ https://t.co/aur2E8eGuR  "
+[ Network ]  Understanding IP Addressing : Everything You Ever Wanted To Know : https://web.archive.org/web/20080405225344/http://www.3com.com/other/pdfs/infra/corpinfo/en_US/501302.pdf (pdf)
+﻿" IP 网络寻址的过程︰ https://t.co/rXqKd08bZO "
+[ Network ]  MIT builds an anonymity network https://threatpost.com/mit-anonymity-network-riffle-promises-efficiency-security/119254/ via @ threatpost
+﻿" Riffle - MIT（麻省理工学院）构建了一个高效的匿名通信网络： https://t.co/U4Q48YH3FT "
+[ Network ]  .@ Cisco Patches #DoS Flaw in NCS 6000 Routers: https://threatpost.com/cisco-patches-dos-flaw-in-ncs-6000-routers/119296/ via @ threatpost
+﻿" Cisco 补掉了 NCS 6000 系列路由器的拒绝服务漏洞，来自 ThreatPost 的报道： https://t.co/ZVxV5TXfJe"
+[ Network ]  Github Engineering: SYN Flood Mitigation with synsanity http://githubengineering.com/syn-flood-mitigation-with-synsanity/
+﻿" 利用 Linux 3.x 内核的 Synsanity 模块缓解 SYN Flood 攻击： https://t.co/8kEWYpc8yJ"
+[ Network ]  Fr. #TR14 @ WEareTROOPERS #IPv6 Security Summit: "Why IPv6 Security Is So Hard" https://www.troopers.de/media/filer_public/42/1a/421a0a30-0a35-486a-b25e-7eea27f18ef7/troopers14-why_ipv6_security_is_so_hard-structural_deficits_of_ipv6_and_their_implications-enno_rey.pdf [PDF] #IETF96 https://t.co/tgo4sjU12z
+﻿" 为什么保障 IPv6 安全性那么困难： https://t.co/qvoNpJUAjH  https://t.co/tgo4sjU12z"
+[ Network ]  Mitigating the HTTPoxy Vulnerability with NGINX https://www.nginx.com/blog/mitigating-the-httpoxy-vulnerability-with-nginx/
+﻿" Httpoxy 漏洞以及 Nginx 服务器是如何缓解该漏洞的： https://t.co/bHTMzXrcDJ "
+[ Network ]  High Performance Browser Networking : https://hpbn.co/ (Online Book by @ igrigorik )
+﻿"高性能浏览器网络（在线图书）︰ https://t.co/M08qsHKROs  "
+[ Network ]  HOnions : Towards Detection and Identification of Misbehaving Tor HSDirs : https://www.securityweek2016.tu-darmstadt.de/fileadmin/user_upload/Group_securityweek2016/pets2016/10_honions-sanatinia.pdf (pdf)
+﻿"HOnions - 行为鬼祟（如窃听） 的 Tor 隐藏服务目录（HSDirs）的检测和识别，Paper: https://t.co/8YTSpaG1Xl "
+[ Network ]  Impacket is a collection of Python classes for working with network protocols https://github.com/CoreSecurity/impacket #goodolestuff
+﻿"Impacket - 专门用于处理网络协议的第三方 Python 库： https://t.co/02oxsy6miX "
+[ Network ]  Sniffing HTTPS URLS with malicious PAC files http://contextis.com/resources/blog/leaking-https-urls-20-year-old-vulnerability/
+﻿"利用恶意的 PAC 文件截获所有的 HTTPS URLs（WPAD）：  https://t.co/RE42ngBqQp "
+[ Network ]  New attack bypasses HTTPS protection on Macs, Windows, and Linux : http://arstechnica.com/security/2016/07/new-attack-that-cripples-https-crypto-works-on-macs-windows-and-linux/
+﻿" 下周的 BlackHat 会议，将有研究员介绍 BadWPAD 攻击，成功利用，可以实现绕过 Windows、Linux、Mac 的 HTTPS 保护︰ https://t.co/MNEqs4ffU5  刚好有另一个研究员公开了一个 Firefox/Chrome 的 WPAD 漏洞详情（CVE-2016-5134）： https://github.com/Kinine/SecurityResearch/tree/master/CVE-2016-5134%20Chrome%20Firefox%20WPAD "
+[ Network ]  Over 100 suspicious, snooping Tor nodes discovered http://www.zdnet.com/article/over-100-spying-malicious-tor-nodes-discovered/#ftag=RSSbaffb68
+﻿" 美国一所大学的研究员发现了 110 个恶意 Tor 窃听节点： https://t.co/cW9nYSpy0k"
+[ Network ]  Thick Client Proxying - Part 6: How HTTP(s) Proxies Work : https://parsiya.net/blog/2016-07-28-thick-client-proxying---part-6-how-https-proxies-work/ https://t.co/cb34SFe7E9
+﻿" Hipchat 中的 HTTPS 代理是如何工作的︰ https://t.co/BZXDYUVLNn "
+[ Network ]  Introducing the p0f BPF compiler : https://blog.cloudflare.com/introducing-the-p0f-bpf-compiler/
+﻿" CloudFlare 的 p0f BPF 编译器介绍︰ https://t.co/K7SY4cmH20"
+[ Network ]  NCC Group Tool: TCP tunneling over HTTP for web application servers - https://github.com/nccgroup/ABPTTS from #BlackHat2016 by @ 0x00C651E0
+﻿"ABPTTS - 基于 HTTP/HTTPS 的 TCP 隧道传输工具，NCC Group 开源的： https://t.co/GBUrNoyrAq"
+[ Network ]  Open Source Command line Network Diagnostic Tool : http://mylg.io/
+﻿" 网络诊断工具 myLG 更新 0.21 版本︰ https://t.co/OMXDN9oYae"
+[ Network ]  Attacking SDN Infrastructure: Are We Ready for the Next-Gen Networking? : https://www.blackhat.com/docs/us-16/materials/us-16-Yoon-Attacking-SDN-Infrastructure-Are-We-Ready-For-The-Next-Gen-Networking.pdf (Slides) #BlackHat2016
+﻿"攻击 SDN 基础设施：我们为下一代网络做好准备了吗？来自 BlackHat 会议： https://t.co/70IaxSXzyu"
+[ Network ]  Ths is huge (mostly Linux affectd): Off-Path TCP Exploits: Global Rate Limit Cons. Dangerous http://www.cs.ucr.edu/~zhiyunq/pub/sec16_TCP_pure_offpath.pdf https://t.co/4NmTHozgEs
+﻿" 基于 TCP 序列号预测的流量劫持攻击，Paper： https://t.co/hK90TH0unI "
+[ Network ]  Toxic Proxies @ defcon slides https://speakerdeck.com/noxrnet/toxic-proxies-bypassing-https-and-vpns-to-pwn-your-online-identity, demo video https://www.youtube.com/watch?v=z1XOCYV9jMQ and source code https://github.com/ctxis/pac-leak-demo released
+﻿" 利用恶意的 PAC 代理文件绕过 HTTPS 和 VPN，来自 Context 团队研究员在 DefCon 会议的演讲： https://t.co/R8y4XchDTh  演示视频： https://t.co/zk72l6pPIG   示例代码： https://t.co/uzK3QrKhdY "
+[ Network ]  CVE-2016-5696 and its effects on Tor https://blog.patternsinthevoid.net/cve-2016-5696-and-its-effects-on-tor.html
+﻿" Linux Off-Path TCP 流量劫持漏洞（CVE-2016-5696）对 Tor 网络的影响： https://t.co/Ijwo536kR6"
+[ Network ]  Updated Whitepaper Available: AWS Best Practices for DDoS Resiliency http://blogs.aws.amazon.com/security/post/Tx6QAIBSQTJPHB/Updated-Whitepaper-Available-AWS-Best-Practices-for-DDoS-Resiliency
+﻿" AWS DDoS 防御最佳实践白皮书： https://t.co/EJt0d2KR64 "
+[ Network ]  The most powerful #IPv6 packet crafting toolkit: @ AntoniosAtlasis' Chiron code: http://www.secfu.net/tools-scripts/ guide: https://www.ernw.de/download/Chiron_Tutorial.pdf [PDF]
+﻿" IPv6 数据包构造与安全测试框架 - Chiron︰ https://t.co/vdZo7MgqLo  Paper： https://t.co/OichK9UTmv "
+[ Network ]  New blog post by @ kafetzj: Follow-Up on CVE-2016-1409 – IPv6 NDP DoS Vulnerability https://www.insinuator.net/2016/08/follow-up-on-cve-2016-1409-ipv6-ndp-dos-vulnerability/
+﻿" Juniper Junos OS IPv6 邻居发现协议（NDP）拒绝服务漏洞（CVE-2016-1409）： https://t.co/UGTv6cV7jP   漏洞的详细介绍： https://kb.juniper.net/InfoCenter/index?page=content&id=JSA10749&actp=search   "
+[ Network ]  How the Consumer Product Safety Commission is (Inadvertently) Behind the Internet’s Largest DDoS Attacks https://blog.cloudflare.com/how-the-consumer-product-safety-commission-is-inadvertently-behind-the-internets-largest-ddos-attacks/
+﻿" 互联网最大的 DDoS 攻击背后的消费者产品安全委员会： https://t.co/7srDxp37Vm"
+[ Network ]  Automated Analysis and Debugging of Network Connectivity Policies https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/secguru.pdf
+﻿" 网络连接策略的自动化分析，Paper： https://t.co/W2ofJyvL2L"
+[ Network ]  I’ve been running a @ torproject exit node for about 8 months. Here’s the story of how it went: https://blog.daknob.net/running-a-tor-exit-node-for-fun-and-e-mails/
+﻿" Running a Tor Exit Node for fun and e-mails︰ https://t.co/3MOaY8raQP"
+[ Network ]  Read research on attacking Network Management Systems over the SNMP. http://r-7.co/2cBcBbQ
+﻿" 基于 SNMP 攻击网络管理系统的研究，来自 Rapid7，多个网络管理系统的多个漏洞披露： https://t.co/IZ5LtTArX1"
+[ Network ]  BLATSTING Command-and-Control protocol : https://laanwj.github.io/2016/09/04/blatsting-command-and-control.html
+﻿"BLATSTING C&C 命令与控制协议分析︰ https://t.co/ONmKkZjzhp"
+[ Network ]  Link to my @ 44con slides on VLAN Hopping http://info-assure.co.uk/public_downloads/not-only-frogs-can-hop.pdf and the Frogger2 tool https://github.com/commonexploits/vlan-hopping
+﻿" VLAN Hopping（跳跃攻击）： https://t.co/oOISSNinE5  VLAN Hopping Frogger2 攻击脚本： https://t.co/1o4lpxWmkq"
+[ Network ]  A peek behind the great firewall of Russia #blogpost https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/september/a-peek-behind-the-great-firewall-of-russia/
+﻿" 俄罗斯的国家防火墙简单介绍： https://t.co/q8IdlyU9ha "
+[ Network ]  The Effect of DNS on Tor's Anonymity http://arxiv.org/abs/1609.08187v1
+﻿"Tor 网络匿名性对 DNS 的影响： https://t.co/rChTKV3nTl "
+[ Network ]  DNS中的 '无效Rdata'： http://blog.netlab.360.com/invalid-rdata-in-dns/
+[ Network ]  Say Cheese : A snapshot of the massive DDoS attacks coming from IoT cameras : https://blog.cloudflare.com/say-cheese-a-snapshot-of-the-massive-ddos-attacks-coming-from-iot-cameras/
+﻿"DDos攻击新趋势：来自IoT设备的DDoS攻击︰ https://t.co/eu4VHWL5ll"
+[ Network ]  Google Creates New Algorithm for Handling TCP Traffic Congestion Control http://news.softpedia.com/news/google-creates-new-algorithm-for-handling-tcp-traffic-congestion-control-508398.shtml
+﻿"Google 为 TCP 拥堵控制开发了新算法： http://news.softpedia.com/news/google-creates-new-algorithm-for-handling-tcp-traffic-congestion-control-508398.shtml"
+[ Network ]  CDN 与厂商证书私钥共享的问题： https://loccs.sjtu.edu.cn//gossip/blog/2016/10/20/2016-10-20/
+[ Network ]  Just filed: #Mirai-fueled #IoT botnet behind #DDoS attacks on DNS providers - http://bit.ly/2eCWhW9 https://t.co/iVjOIxQ9Uo
+﻿" DNS 提供商 Dyn 被 DDoS 攻击背后的 Mirai IoT Botnet，来自 ThreatPost 的报道： https://t.co/Wm6CLUQKF1  该攻击导致了美国多个知名网站出现无法访问的情况，来自 FreeBuf 的报道： http://www.freebuf.com/news/117403.html  关于这一波的 DDoS 攻击，Twitter 出现了一个专门的账号： https://twitter.com/miraiattacks "
+[ Network ]  关于 dyn / twitter 受攻击情况的说明和 mirai 僵尸网络的回顾： http://blog.netlab.360.com/a-dyn-twitter-ddos-event-report-and-mirai-botnet-review/
+[ Network ]  We analyzed the Mirai IoT botnet, arguably one of the largest distributed denial of service attacks (DDoS) to date https://t.co/QgRmE6hUc3
+﻿" 来自 Incapsula 团队对 Mirai IoT Botnet DDoS 的分析： https://t.co/QgRmE6hUc3"
+[ Network ]  .@ Dyn posts update on Friday's massive DDoS attack --> http://dyn.com/blog/dyn-analysis-summary-of-friday-october-21-attack/ https://t.co/YDj2j1SfZO
+﻿" DNS 提供商 Dyn 昨天发布了一篇文章总结上周五针对它的 DDoS 攻击事件： https://t.co/AMQMAOF7St https://t.co/YDj2j1SfZO"
+[ Network ]  关于 mirai 僵尸网络控制主机的数据分析： http://blog.netlab.360.com/a-mirai-botnet-c2-data-analysis/
+[ Network ]  BinProxy - BinProxy is a proxy for arbitrary TCP connections http://www.kitploit.com/2016/10/binproxy-binproxy-is-proxy-for.html
+﻿"BinProxy - TCP 网络连接代理工具： https://t.co/BYtHkBMT3x "
+[ Network ]  LDAP as attack vector could power Terabit-Scale LDAP DDoS Attacks http://securityaffairs.co/wordpress/52841/cyber-crime/ldap-ddos.html
+﻿"LDAP 协议可以被用于发动大规模的 DDoS 攻击： https://t.co/o4vchha0PQ"
+[ Network ]  Multi-Tool Multi-User HTTP Proxy : https://www.swordshield.com/2016/10/multi-tool-multi-user-http-proxy/ cc @ Ne0nd0g https://t.co/sxnKZ4qjbN
+﻿"Nginx 搭建同时启用多个工具的 HTTP 代理环境，支持多个用户： https://t.co/7ccYLj5Xul "
+[ Network ]  Monitoring ‘DNS’ inside the Tor network - http://blog.0x3a.com/post/153468210759/monitoring-dns-inside-the-tor-network https://t.co/ciZgjrGKFL
+﻿"监控 Tor 网络中的 'DNS'： https://t.co/tM56RUXx0L "
+[ Network ]  How Nominum Data Science Thwarts Cybercrime Through Industry-Leading DNS Data Analysis，Nominum 公司是如何利用 DNS 大数据分析的方法对抗网络犯罪的： http://nominum.com/nominum-data-science-thwarts-cybercrime/
+[ Network ]  The Network Capture Playbook (Part 5) : https://blog.packet-foo.com/2016/12/the-network-capture-playbook-part-5-network-tap-basics/ , 4 : https://blog.packet-foo.com/2016/11/the-network-capture-playbook-part-4-span-port-in-depth/ , 3 :… https://twitter.com/i/web/status/808615882058448896
+﻿"The Network Capture Playbook(part 5)： 网络 TAP 设备基础: https://t.co/04BYvQUsbh"
+[ Network ]  The Query Volumes of Mirai DGAs： https://blog.opendns.com/2016/12/13/query-volumes-mirai-dgas/
+[ Network ]  开启TCP BBR拥塞控制算法：https://github.com/iMeiji/shadowsocks_install/wiki/%E5%BC%80%E5%90%AFTCP-BBR%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6%E7%AE%97%E6%B3%95
+[ Network ]  Explore Hidden Networks With Double Pivoting https://pentest.blog/explore-hidden-networks-with-double-pivoting/
+﻿"图解 Meterpreter 实现网络穿透的方法： https://t.co/kiIqK8NrqM"
+[ Network ]  IP, DNS & Domain Enumeration Cheatsheet : https://www.rebootuser.com/?p=2189 cc @ rebootuser
+﻿"IP、DNS 、Domain 枚举备忘册︰ https://t.co/JuZktClWd7 "
+[ Network ]  Cellpot : A Concept for Next Generation Cellular Network Honeypots : http://www.internetsociety.org/sites/default/files/02_1-paper_0.pdf (pdf)
+﻿"新一代蜂窝网蜜罐： https://t.co/jM3OgbDIc6"
+[ Network ]  以大站的名义：专注地下产业的网络基础设施： http://blog.netlab.360.com/fraudulent-top-sites-a-dedicated-underground-market-infrastructure-chinese
+[ Network ]  [CVE-2016-1247 Update] #Nginx - Root #PrivEsc - #Gentoo #Linux also affected - #exploit #infosec #itsecurity #0day https://t.co/VpYGUWfqjW
+﻿"Nginx (Debian-based + Gentoo distros) root 权限提升： https://t.co/VpYGUWfqjW"
+[ Network ]  互联网黑势力之流量劫持： http://paper.seebug.org/181/
+[ Network ]  Free and Open Internet Scanning Detection / Analysis / Metrics tool http://scan.netlab.360.com/#/dashboard
+﻿" 360 网络安全实验室的网络扫描在线监控平台： https://t.co/7YcWWBTSp4"
+[ Network ]  snuck.me : a service detecting SSL man-in-the-middle : https://jlospinoso.github.io/node/javascript/security/cryptography/privacy/2017/02/20/snuckme-cert-query.html https://t.co/7pbbqvO6aj
+﻿"snuck.me︰ 检测 SSL 中间人的服务︰ https://t.co/HYboAVEyHp https://t.co/7pbbqvO6aj"
+[ Network ]  HOW TO USE WIRESHARK A PACKET SNIFFER TO ANALYZE NETWORK TRAFFIC https://www.custompcreview.com/articles/tutorial-wireshark-packet-sniffer-guide-analyze-network-traffic/38446/
+﻿" 用 WIRESHARK 分析网络流量的教程（基础版）： https://t.co/NWv9O54552"
+[ Network ]  Google 基础设施安全设计概述翻译和导读: https://security.tencent.com/index.php/blog/msg/114
+[ Network ]  Multiple cross-site request forgery (CSRF) vulnerabilities in the DIGISOL… https://goo.gl/fb/mGxCT1 #FullDisclosure
+﻿"DIGISOL 无线路由器存在多个 CSRF 漏洞（CVE-2017-6127）： https://t.co/vmwlaEi9eM "
+[ Network ]  The Story of an Expired WHOIS Server https://blog.sucuri.net/2017/03/story-expired-whois-server.html
+﻿"过期 Whois 服务器所带来的危害： https://t.co/APMaTxjInc "
+[ Network ]  #KaitaiStruct is the fastest #Python binary parser among #Scapy #Construct #Hachoir in benchmark by Carolina Lucas:… https://t.co/lpOcxevZhq
+﻿" Python 网络数据包解析框架介绍与对比： https://pythonistac.wordpress.com/2017/03/09/python-network-packet-dissection-frameworks-shootout-scapy-vs-construct-vs-hachoir-vs-kaitai-struct/"
+[ Network ]  针对DNS的随机域名DDoS攻击综述： https://www.dropbox.com/s/rzagsxhb3y5e87a/PSC2017-nominum-hongliang-liu-chinese.pdf?dl=0
+[ Network ]  CAA checking becomes mandatory for SSL/TLS certificates : https://ma.ttias.be/caa-checking-becomes-mandatory-ssltls-certificates/ cc @ mattiasgeniar https://t.co/l99KI8fiHT
+﻿" CAA 记录可用于强制检测 SSL/TLS 证书的安全性︰ https://t.co/IkxQXzQjSm "
+[ Network ]   FemtoCell Hacking - 来自研究员 Jeonghoon Shin 在 HITB 会议的演讲，主要是关于 LTE 网络以及 FemtoCell 设备的 Hacking： http://conference.hitb.org/hitbsecconf2017ams/materials/D1T2%20-%20JeongHoon%20Shin%20-%20Femotcell%20Hacking.pdf
+[ Network ]  IIS 6.0 WebDAV CVE-2017-7269 样本调试笔记（一）： https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458282525&idx=1&sn=fd6d49991327b740f498cc09aacbed38&chksm=b1815a9786f6d3811a269eb01b4f46f963963f64f0186970320f5fff9f32b8fef9ba3f1530d7&mpshare=1&scene=23&srcid=0414LRfIonKw2yG91gM1v5IN#rd
+[ Network ]  HTTP Security Response Headers ... https://blog.appcanary.com/2017/http-security-headers.html + https://www.smashingmagazine.com/2017/04/secure-web-app-http-headers/ + https://scotthelme.co.uk/hardening-your-http-response-headers/ + https://t.co/p4f3QrSTkB
+﻿"关于 HTTP Headers 的几篇文章，也介绍了不同 Headers 对安全性的影响： https://t.co/brgbEZaW9C + https://t.co/OGD1F9VtrZ + https://t.co/coPKsGBi7c + https://t.co/p4f3QrSTkB"
+[ Network ]  Top countries hijacking the Google DNS resolver (8.8.8.8): choose your proxy wisely ;-) https://recdnsfp.github.io/… https://t.co/cHZYURfALy
+﻿"通过为 DNS 解析服务器建立指纹库的方式检测 DNS 劫持攻击，基于机器学习识别出正常 DNS 服务器与恶意 DNS 服务器： https://t.co/3QayCzleyl"
+[ Network ]  Handling bot attacks against a Tor hidden service : http://www.hackerfactor.com/blog/index.php?/archives/762-Attacked-Over-Tor.html
+" 基于 TOR 网络的攻击行为分析： http://www.hackerfactor.com/blog/index.php?/archives/762-Attacked-Over-Tor.html "
+[ Network ]  use computer vision to find deceptive IDNs https://github.com/withzombies/deceptiveidn
+" 利用计算机视觉技术检测钓鱼中常用的 IDN（支持国际化的域名体系）： https://github.com/trailofbits/deceptiveidn "
+[ Network ]  Domain fronting with PoshC2 - https://inyour.network/blog/2017/Domain-Fronting-PoshC2/
+" 在 PoshC2 中使用 Domain Fronting 技术隐藏可疑流量传输： https://inyour.network/blog/2017/Domain-Fronting-PoshC2/ "
+[ Network ]  利用 NSA 的量子插入(Quantum Insert)攻击实现绕过 IP 的限制： https://diablohorn.com/2017/05/21/quantum-insert-bypassing-ip-restrictions/
+[ Network ]   对网络层反射攻击的思考，来自 CloudFlare: https://blog.cloudflare.com/reflections-on-reflections/
+[ Network ]   基于 Python dpkt 库，Parsing HTTP/2 协议数据包： https://gendignoux.com/blog/2017/05/30/dpkt-parsing-http2.html
+[ Network ]  国家级 DNS 劫持之旅与域名扩展（Domain Extensions）的潜在威胁： https://thehackerblog.com/the-journey-to-hijacking-a-countrys-tld-the-hidden-risks-of-domain-extensions/index.html
+[ Network ]  DNS typosquatting 实现水坑攻击： https://blog.0day.rocks/practical-waterholing-through-dns-typosquatting-e252e6a2f99e
+[ Network ]  三个案例看 Nginx 配置安全： http://paper.seebug.org/335/
+[ Network ]  ssl_logger - 解密并记录进程 SSL 流量的工具： https://github.com/google/ssl_logger
+[ Network ]  sylkie - 通过邻居发现协议实现的 IPv6 地址欺骗测试工具： http://www.kitploit.com/2017/07/sylkie-ipv6-address-spoofing-with.html
+[ Network ]   基于 Cobalt Strike 实现针对 Google 域名的 Domain Fronting，Domain Fronting 是一种利用高信誉域名隐藏通信远程终端的技术： https://www.cyberark.com/threat-research-blog/red-team-insights-https-domain-fronting-google-hosts-using-cobalt-strike/
+[ Network ]   定向注册顶级域（TLD）的管理服务器，接管所有的 .io 域名： https://thehackerblog.com/the-io-error-taking-control-of-all-io-domains-with-a-targeted-registration/
+[ Network ]  一本关于 Nginx 的电子书《The Complete NGINX Cookbook》： https://www.nginx.com/resources/library/complete-nginx-cookbook/
+[ Network ]  使用 BGP 获取伪造的 TLS 证书： https://petsymposium.org/2017/papers/hotpets/bgp-bogus-tls.pdf
+[ Network ]  使用 Linux tracepoints, perf and eBPF 跟踪网络数据包的流程： https://blog.yadutaf.fr/2017/07/28/tracing-a-packet-journey-using-linux-tracepoints-perf-ebpf/  Github： https://github.com/yadutaf/tracepkt
+[ Network ]  如何使用 Bro 2.51 在 ESXi 6.5 的 Ubuntu 16.04.2 虚拟机上监控网络流量： https://www.blackhillsinfosec.com/monitor-network-traffic-virtualized-bro-2-51-ubuntu-16-04-2-esxi-6-5/
+[ Network ]    如何搭建一个 DNS Sinkhole 服务器，DNS Sinkhole 是指一种 DNS 响应欺骗技术，常被防御者用于发现受保护网络内的受感染机器，还有一份来自 Palo Alto 的文档参考： http://handlers.sans.org/gbruneau/docs/DNS_Sinkhole_setup.pdf   https://www.paloaltonetworks.com/documentation/60/pan-os/newfeaturesguide/content-inspection-features/dns-sinkholing
+[ Network ]  Talos 对中国在线 DDoS 平台的研究，其中大部分为近 6 个月创建，分属不同的组织，相互之间也会攻击： http://blog.talosintelligence.com/2017/08/chinese-online-ddos-platforms.html
+[ Network ]  Rapid7 称大约 410 万的 Windows RDP（远程桌面）终端设备暴露在互联网上： http://securityaffairs.co/wordpress/62004/hacking/rdp-exposure-report.html
+[ Network ]  检测企业网环境中的密钥钓鱼攻击： https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-ho.pdf
+[ Network ]  2000元不到，他就在某宝上整出了一套伪基站装备： https://mp.weixin.qq.com/s/C0vV0l1JvlR1XnNEpo9hhA
+[ Network ]   如何搭建一个便携式蜂窝网络：  https://mbro95.github.io/PortableCellNetwork/
+[ Network ]  过期的域名在渗透测试团队手里有大用处： http://threatexpress.com/2017/03/leveraging-expired-domains-for-red-team-engagements/
+[ Network ]  NetRipper - 智能流量嗅探工具，最近新添加对 Chrome X64 SSL Hook 的支持： https://github.com/NytroRST/NetRipper/
+[ Network ]  《Your State is Not Mine: A Closer Look at Evading Stateful Internet Censorship》，通过破坏某特殊中间设备的 TCB(TCP Control Block) 的方式来 Bypass 该设备的 TCP reset attack。Paper： http://www.cs.ucr.edu/~krish/imc17.pdf https://github.com/seclab-ucr/INTANG
+[ Network ]   IPv4 地址的几种混淆表示方式：  https://twitter.com/i/web/status/928584447292858368
+[ Network ]  中共中央办公厅、国务院办公厅日前印发《推进互联网协议第六版（IPv6）规模部署行动计划》。下面是之前我们推送过的部分 IPv6 协议相关的资料： IPv6 数据包构造与安全测试框架 - Chiron： https://t.co/vdZo7MgqLo Paper： https://t.co/OichK9UTmv 为什么保障 IPv6 安全性那么困难：https://www.troopers.de/media/filer_public/42/1a/421a0a30-0a35-486a-b25e-7eea27f18ef7/troopers14-why_ipv6_security_is_so_hard-structural_deficits_of_ipv6_and_their_implications-enno_rey.pdf 关于 Cisco 网络设备 IPv6 ACL 策略配置的几篇文章， Part 3： https://t.co/vR70j3qpSl Part 2： https://t.co/r5mjVeTD52 Part 1： https://t.co/MfSgtq9PRm IPv6 网络中 MLD 协议对安全的影响， Paper： https://t.co/zSFjMAh6pj Windows Server IPv6 安全加固指南，来自 ERNW 2014 年的一篇文档： https://t.co/gujjasrbWb ipv6tools - 用于对启用 IPv6 的网络做健壮性测试的工具： https://t.co/0PlfOaAIJ9 Wireshark 中的 IPv6 协议分析：https://insinuator.net/2016/03/troopers-16-wireshark-in-ip-version-6/ https://www.troopers.de/media/filer_public/9c/c5/9cc5e4e1-1f2c-4d0b-9f69-87059eb9e931/ernw_tr16_ipv6_secsummit_ipv6-in-wireshark_jcarrell.pdf IPv6-only WiFi 体验的几点思考， 来自 Troopers 2016 会议： https://t.co/I4FmlkVDcp IPv6 攻击与防御完整指南， 来自 SANS 2012 年的一篇 Paper： https://t.co/rCbAL114gv 还有两个相关链接: https://github.com/Teino1978-Corp/Teino1978-Corp-APV6 https://gist.github.com/Teino1978-Corp/c7a855d0c0eaa348273b 企业中的 IPv6 安全战略, 来自 Troopers IPv6 安全峰会： https://t.co/06JfHY4WRc MrLooquer - 结合开源情报技术和数据挖掘技术, 创建实时 IPv6 部署情况图： https://www.mrlooquer.com/ 异常的 IPv6 分片以及操作系统的响应： https://t.co/235EsVKr2m 隐私不是一种选择: 攻击 IPv6 隐私扩展 https://t.co/65tv8FgPYo Juniper 设备之前修复了一个 IPv6 DDoS 漏洞： https://t.co/kOQvN1uur9
+[ Network ]  使用社区发现算法从企业内部无效域名中挖掘DGA： http://www.webber.tech/posts/%E4%BD%BF%E7%94%A8%E7%A4%BE%E5%8C%BA%E5%8F%91%E7%8E%B0%E7%AE%97%E6%B3%95%E4%BB%8E%E4%BC%81%E4%B8%9A%E5%86%85%E9%83%A8%E6%97%A0%E6%95%88%E5%9F%9F%E5%90%8D%E4%B8%AD%E6%8C%96%E6%8E%98DGA/
+[ Network ]  VPN 是如何工作的: https://www.alienvault.com/blogs/security-essentials/explain-how-vpn-works
+[ Network ]   Local IPv6 网络的自动化探测和节点发现： https://secdevops.ai/theres-no-place-like-1-enumerating-local-ipv6-networks-88a6247e3519
+[ Network ]  基于DNS的数据挖掘与分析： http://www.freebuf.com/articles/web/160431.html
+[ Network ]    LTEInspector - 联合研究团队利用 LTEInspector 发现 4G LTE 的 10 种新型网络攻击，可用于窃听用户的电话和短信，跟踪用户的位置等，论文中表示最重要的发现是认证中继攻击（authentication relay attack）： https://www.documentcloud.org/documents/4392401-4G-LTE-attacks-paper.html
+[ Network ]  使用 BGP 劫持将 Amazone Route 53 DNS 服务的流量重路由到攻击者机器实现大范围 DNS 劫持： https://doublepulsar.com/hijack-of-amazons-internet-domain-service-used-to-reroute-web-traffic-for-two-hours-unnoticed-3a6f0dda6a6f
+[ Network ]   Amazon Route53 DNS 服务 BGP 劫持事件详情: https://blog.cloudflare.com/bgp-leaks-and-crypto-currencies/

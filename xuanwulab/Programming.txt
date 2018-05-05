@@ -1,0 +1,141 @@
+[ Programming ]  Free Programming Books : https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
+﻿"各种编程语言的电子书下载: https://t.co/NRrfhhoP4t"
+[ Programming ]  Developing Secure Java Code – Best Practices for a Team http://goo.gl/GmnhB3 #SecureCodingforJava
+﻿"Java 安全编码最佳实践，来自 InfoSec 的 Paper： https://t.co/U33SMXtEra "
+[ Programming ]  #Python Performance Tips https://wiki.python.org/moin/PythonSpeed/PerformanceTips
+﻿"Python 性能优化建议，来自 Python WiKi：  https://t.co/eEq1W631Sm "
+[ Programming ]  Mona compiler Development (Part 1) : http://jancorazza.com/2015/10/02/fundamentals-of-mona/ ,Part 2 : Parsing : http://jancorazza.com/2016/01/21/mona-compiler-development-part-2-parsing/
+﻿"Mona 编译器开发 Part 1： https://t.co/RpuIOBt1Sf  Part 2: Parsing : https://t.co/uhhcAtfOEd"
+[ Programming ]  Embedded Programming with the GNU Toolchain : http://www.bravegnu.org/gnu-eprog/ #b2b
+﻿"GNU 工具链嵌入式编程手册: https://t.co/jd5tMOFTZn "
+[ Programming ]  XML Secure Coding http://goo.gl/LIH43F #ApplicatonSecurity #SecurityArchitectureDesign #WebAppSecurity
+﻿"XML 安全编码规范， 来自 InfoSec Blog： https://t.co/jxrxDlZXKu "
+[ Programming ]  Java Security Guide http://goo.gl/cChjzy #SecureCodingJava
+﻿"Java 安全编码指南， 来自 InfoSec Blog： https://t.co/uTwk1TMWE8 "
+[ Programming ]  How to Write a Video Player in Less Than 1000 Lines : http://dranger.com/ffmpeg/
+﻿"如何用不到 1000 行的代码写一个视频播放器: https://t.co/kRoCHzcXw3"
+[ Programming ]  Collections-C : A library of generic data structures for C : https://github.com/srdja/Collections-C
+﻿"Collections-C ︰ C 语言常用数据结构收集，如 Array、List、HashTable 等， Github Repo ︰ https://t.co/oGG9iOenBC"
+[ Programming ]  Programming Language Design : https://www.cs.berkeley.edu/~bh/pdf/v3ch04.pdf (pdf)
+﻿"伯克利大学的编程语言设计课程，第四章 ︰ https://t.co/DDwoVN8Fsy  其余章节： https://www.cs.berkeley.edu/~bh/pdf/ "
+[ Programming ]  Detecting Overflows of 32-Bit Variables in Long Loops in 64-Bit Programs. http://www.viva64.com/en/b/0385/ (#cpp #64bit #overflow #programming)
+﻿"用 PVS-Studio 工具检测 64 位程序中 32 位变量在长循环中的溢出问题：   https://t.co/sNam4wMMj6 "
+[ Programming ]  Build web application with Golang : https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/preface.html (Free html book)
+﻿"用 Golang 语言写 Web 应用程序，在线图书: https://t.co/gB8ITDbTpl "
+[ Programming ]  The Little Go Book : Free introduction to Google's Go programming language : http://openmymind.net/assets/go/go.pdf (pdf)
+﻿" 《The Little Go Book》， Google Go 语言编程书（PDF） ︰ https://t.co/sYDO2BMOqk "
+[ Programming ]  Visual C++ for Linux and Raspberry Pi Development via @ shanselman http://bit.ly/1VeF9Hm @ shanselman #vs2015 https://t.co/dEn73nYGYM
+﻿"用 Visual Studio 为 Linux 和 树莓 Pi 开发程序：  https://t.co/g55OkCOuGu  https://t.co/dEn73nYGYM"
+[ Programming ]  AMD64 Architecture Programmer’s Manual (Vol - II : System Programming) : http://support.amd.com/TechDocs/24593.pdf (pdf)
+﻿"AMD64 架构编程手册 第二卷：系统编程: https://t.co/KtKLtYtZok "
+[ Programming ]  If you write embedded C code and aren't familiar with how or why to use "volatile," here is a great read: http://www.barrgroup.com/Embedded-Systems/How-To/C-Volatile-Keyword
+﻿" 如果你写过 C 代码，并且对 'volatile' 关键词不太熟悉，不知道什么时候用，可以读读这篇 ︰ https://t.co/qxKJseQcSQ"
+[ Programming ]  Understanding the x64 code models http://eli.thegreenplace.net/2012/01/03/understanding-the-x64-code-models
+﻿" Understanding the x64 code models，来自 2012 年的一篇 Blog： https://t.co/ThSOWtYOvB"
+[ Programming ]  10 awesome features of Python that you can't use because you refuse to upgrade to Python 3 https://asmeurer.github.io/python3-presentation/slides.html
+﻿" 有 10 个酷炫的 Python 特性你用不了，因为你没有升级为 Python 3：  https://t.co/Tlcr0Hu2F3 "
+[ Programming ]  Beyond Memory Safety With Types : https://insanitybit.github.io/2016/05/30/beyond-memory-safety-with-types
+﻿" Rust 编程语言的类型系统使用户可以安全地使用内存 ︰ https://t.co/y8V32QN2Wc"
+[ Programming ]  Cheat Sheet: Writing Python 2-3 compatible code, by @ edschofield http://python-future.org/compatible_idioms.html
+﻿" 编写 Python 2、3 版本兼容的代码： https://t.co/8c6E5CT1iM"
+[ Programming ]  Shell Style Guide from Google : https://google.github.io/styleguide/shell.xml
+﻿" Google 的 Shell 编码风格规范 ︰ https://t.co/TpmgwXxKbT"
+[ Programming ]  BASH Programming : http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html#toc10
+﻿"BASH 编程教程 ︰ https://t.co/V1vgUWkLLC"
+[ Programming ]  Learn C# online, launched as part of the new .NET Core 1.0 release: https://www.microsoft.com/net/tutorials/csharp/getting-started
+﻿" 在线学习 C# 编程语言︰ https://t.co/6ZxmvztrLa"
+[ Programming ]  The Hitchhiker’s Guide to Python : http://docs.python-guide.org/en/latest/
+﻿" Python 的《银河系漫游指南》: https://t.co/3o38lm55IU"
+[ Programming ]  A Python Interpreter Written in Python : http://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html
+﻿" 用 Python 编写的 Python 解释器︰ https://t.co/iiX5DTaPJL"
+[ Programming ]  Exploring ARM inline assembly in @ rustlang http://embed.rs/articles/2016/arm-inline-assembly-rust/ < awesome!
+﻿"ARM 内联汇编（inline assembly）探索:   http://embed.rs/articles/2016/arm-inline-assembly-rust    "
+[ Programming ]  All-in-one API documentation browser with offline mode and instant search : http://devdocs.io/
+﻿"可离线使用的 API 文档，其中包括： HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, jQuery 等︰ https://t.co/ONuMUYJ7HD"
+[ Programming ]  x86-64 Assembly Language Programming with Ubuntu : http://www.egr.unlv.edu/~ed/assembly64.pdf (pdf)
+﻿" Ubuntu x86-64 汇编语言编程 : https://t.co/IPH4CtqHQU "
+[ Programming ]  Rust and Java - http://blog.prevoty.com/rust-and-java
+﻿"Rust and Java： https://t.co/fsxpySd7VU"
+[ Programming ]  关于PHP内部编码与mysql字符差异问题的研究：http://bobao.360.cn/learning/detail/3209.html
+[ Programming ]  PHP垃圾回收机制UAF漏洞分析： http://www.freebuf.com/vuls/122938.html
+[ Programming ]  #happy2017 everyone :) Here's a short (and hopefully fun) read on how to pwn Lua with malicious bytecode: https://saelo.github.io/misc/pwning-lua-through-load.html #33c3ctf
+﻿"Pwning Lua through 'load'︰ https://t.co/oLG40rPIUp "
+[ Programming ]  格式化字符串漏洞实验： https://github.com/shiyanlou/seedlab/blob/master/formatstring.md
+[ Programming ]  Free Programming Books : https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md
+﻿"较为齐全的编程学习资料合集︰ https://t.co/NRrfhhGqt3"
+[ Programming ]  Open-sourced our research on C++ hierarchy reconstruction in binaries https://github.com/RUB-SysSec/Marx
+﻿"揭开 C++ 程序的类层次结构： https://t.co/G10xYwNiyN"
+[ Programming ]  Guidelines for Writing Cryptography Code in PHP https://paragonie.com/blog/2017/02/cryptographically-secure-php-development
+﻿"PHP 加密安全开发： https://t.co/OlRE1WUW3z "
+[ Programming ]  I published the EBook "The Ultimate Question of Programming, Refactoring, and Everything" at Intel: https://t.co/CWyRHwyvUI Please retweet.
+﻿"C++ 编程的 42 条建议︰ https://t.co/CWyRHwyvUI"
+[ Programming ]  Memory management in C : The heap and the stack : http://www.inf.udec.cl/~leo/teoX.pdf (pdf) , Slides : https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013/lectures-and-assignments/c-memory-management/MIT6_S096_IAP13_lec3.pdf
+﻿" C 的内存管理: 堆与栈︰ https://t.co/48firfIVRU "
+[ Programming ]  awesome-safety-critical : Resources about programming practices for writing safety-critical software : https://github.com/stanislaw/awesome-safety-critical
+﻿"面向程序员的安全编码相关的资料收集︰ https://t.co/JNe1qHJiMi"
+[ Programming ]  Vulnerability Spotlight: R - PDF LoadEncoding Code Execution Vulnerability http://blog.talosintelligence.com/2017/03/r-pdf-vuln.html
+﻿"R-PDF LoadEncoding 代码执行漏洞（CVE-2016-8714）： https://t.co/IlmlJHkYVF"
+[ Programming ]  Git Internals: http://opcode.org/peepcode-git.pdf (pdf)
+﻿"针对 Git 爱好者的 Git 学习手册︰ https://t.co/fEx8ztcz3j "
+[ Programming ]  An In-Depth Study of > 10 Yrs of Java Exploitation : https://testlab.sit.fraunhofer.de/downloads/publications/holzinger2016java.pdf (pdf)
+﻿"通过 87 个公开的 Java 漏洞，对 Java 安全架构进行深度研究︰ https://t.co/jEsQetSd6x "
+[ Programming ]  Very cool hack. How to recover lost Python source code if it's still resident in-memory #programming #devops https://t.co/71RWRtpbKr
+﻿"从内存恢复 Python 代码的教程： https://t.co/71RWRtpbKr"
+[ Programming ]  Rust 1.16 released https://blog.rust-lang.org/2017/03/16/Rust-1.16.html
+﻿"Rust 1.16 正式发布： https://t.co/d0eXg0VOzL"
+[ Programming ]  从Pwnhub诞生聊Django安全编码 : http://paper.seebug.org/262/
+[ Programming ]  Blogged - A Comparison of Shell and Scripting Language Security - https://blogs.msdn.microsoft.com/powershell/2017/04/10/a-comparison-of-shell-and-scripting-language-security/ https://t.co/V3Wp4snTtr
+﻿" Powershell 与其他脚本语言的安全性比较： https://t.co/pXGLY2RaXF "
+[ Programming ]  Go-SCP : Go programming language secure coding practices guide : https://github.com/Checkmarx/Go-SCP
+﻿"Go SCP - Go 语言安全编码指南︰ https://t.co/5LoOubx4jl"
+[ Programming ]  Python Anti-Patterns - The Little Book of Python Anti-Patterns and Worst Practice : https://docs.quantifiedcode.com/python-anti-patterns/latex/The-Little-Book-of-Python-Anti-Patterns-1.0.pdf (pdf)
+﻿"Python Anti-Patterns - Python 编码的反面案例︰ https://t.co/aejlaNiFyL "
+[ Programming ]  Linux Programming – Signals the easy way : https://www.stev.org/post/linuxprogrammingsignalstheeasyway
+﻿" Linux 编程中的信号量讲解︰ https://t.co/CfORxYE7I5"
+[ Programming ]  Writing Optimized Windows Shellcode : https://dimitrifourny.github.io/2017/04/28/optimized-windows-shellcode/ cc @ DimitriFourny
+﻿"Windows Shellcode 编写指引： https://dimitrifourny.github.io/2017/04/28/optimized-windows-shellcode/"
+[ Programming ]  Go Secure Coding Practices guide v1.1.0 is out - https://github.com/Checkmarx/Go-SCP #golang #owasp
+" Go-SCP - Go语言安全编码实践指南： https://github.com/Checkmarx/Go-SCP "
+[ Programming ]  JavaScript JIT 编译器是如何工作的： https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/
+[ Programming ]   C/C++ Undefined Behavior in 2017： http://www.cs.utah.edu/~regehr/ub-2017-qualcomm.pdf
+[ Programming ]  Python's Visualization Landscape — slides from my #PyCon2017 talk: https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
+"  Python 的可视化设计： https://t.co/iBvw9HKmtH "
+[ Programming ]  Say hello to x64 Assembly： http://0xax.blogspot.in/p/assembly-x8664-programming-for-linux.html
+[ Programming ]  phpinternals - 一本深入解析 PHP 内部架构的网络版书籍： https://github.com/phpinternalsbook/PHP-Internals-Book
+[ Programming ]  来自 azeria-labs 的一套 ARM 汇编基础教程： https://azeria-labs.com/writing-arm-assembly-part-1/
+[ Programming ]   Facebook 开源的 GraphQL 查询语言相关的安全性分析： https://raz0r.name/articles/looting-graphql-endpoints-for-fun-and-profit/
+[ Programming ]   Spellbook of Modern Web Dev，JavaScript Web 开发宝典（书）：  https://github.com/dexteryy/spellbook-of-modern-webdev
+[ Programming ]   《x86 汇编：探索 C，x86 汇编，机器码之间的关系》（书）： https://en.wikibooks.org/w/index.php?title=Special:Book&bookcmd=download&collection_id=a8c705d7d0789c1d9c63aa0e0936076628a0b7e1&writer=rl&return_to=Wikibooks%3ACollections%2Fx86+Disassembly
+[ Programming ]   新版本 C++ 语言（C++ 17/14/11）的新特性整理： https://github.com/AnthonyCalandra/modern-cpp-features
+[ Programming ]  了解 JavaScript 巨人所带来的风险，来自 ZDI 的一篇文章： https://www.zerodayinitiative.com/blog/2017/7/18/understanding-risk-in-the-unintended-giant-javascript
+[ Programming ]  wtfjs - JavaScript 的一些有趣的小技巧(Tricks)总结： https://github.com/denysdovhan/wtfjs
+[ Programming ]  利用 WinDbg 调试器结合 wscript.exe 分析 JavaScript 脚本： http://blog.talosintelligence.com/2017/08/windbg-and-javascript-analysis.html
+[ Programming ]  攻击 Java 反序列化： https://nickbloor.co.uk/2017/08/13/attacking-java-deserialization/
+[ Programming ]   JavaScript 工作原理：内存管理 + 如何处理 4 种常见内存泄漏： https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec
+[ Programming ]  学习 JavaScript Promises 特性是如何工作的： https://medium.com/gitconnected/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720
+[ Programming ]  Python 2.x 与 3.x 在安全性方面的比较： https://snyk.io/blog/python-2-vs-3-security-differences/
+[ Programming ]  Lua程序逆向之Luac文件格式分析： https://mp.weixin.qq.com/s/aVZw7iZVbyXYfYPo8fpH_w
+[ Programming ]  移动开发（安全编码）最佳实践，来自 NowSecure 团队： https://info.nowsecure.com/rs/201-XEW-873/images/secure-mobile-development.pdf
+[ Programming ]  全面理解 JavaScript 中的 this: https://juejin.im/entry/5a29df626fb9a045211e9c2a
+[ Programming ]  自己动手写一个 C++ 游戏引擎：  http://preshing.com/20171218/how-to-write-your-own-cpp-game-engine/
+[ Programming ]  Predicting the next Math.random() in Java: https://franklinta.com/2014/08/31/predicting-the-next-math-random-in-java/
+[ Programming ]  Java 应用程序中是如何发生内存泄漏的： https://stackify.com/memory-leaks-java/
+[ Programming ]   使用 GO 语言在 100 行代码内实现 HTTP(S) 代理： https://medium.com/@mlowicki/http-s-proxy-in-golang-in-less-than-100-lines-of-code-6a51c2f2c38c
+[ Programming ]  浅谈动态爬虫与去重(续)： https://www.anquanke.com/post/id/95294
+[ Programming ]   .NET 学习资源整合： http://mattwarren.org/2018/01/22/Resources-for-Learning-about-.NET-Internals/
+[ Programming ]  使用 Java 创建区块链教程，Part 1： https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa  Part 2： https://medium.com/programmers-blockchain/creating-your-first-blockchain-with-java-part-2-transactions-2cdac335e0ce
+[ Programming ]   Windows on ARM 汇编语言手册：  http://codemachine.com/article_armasm.html
+[ Programming ]  用 IDAPython 写一个简单的 x86 模拟器： http://0xeb.net/2018/02/writing-a-simple-x86-emulator-with-idapython/
+[ Programming ]   研究员 Thomas Biege 分享的一些关于安全编码的 PPT： https://github.com/thomasbiege/slides/tree/master/Secure%20Programming
+[ Programming ]   使用 Go 语言编写反向代理钓鱼工具： https://medium.com/@cooperthecoder/phishing-with-a-reverse-proxy-23dd99557b5b
+[ Programming ]  编写 Bash 自动补全脚本： https://iridakos.com/tutorials/2018/03/01/bash-programmable-completion-tutorial.html
+[ Programming ]  使用汇编编写 X86 "Hello World" bootloader： http://50linesofco.de/post/2018-02-28-writing-an-x86-hello-world-bootloader-with-assembly
+[ Programming ]  用 Rust 来写一个 OS： https://github.com/phil-opp/blog_os
+[ Programming ]  利用 Python 实现区块链的实用介绍 ： http://adilmoujahid.com/posts/2018/03/intro-blockchain-bitcoin-python/
+[ Programming ]  使用 Go 语言编写自己的区块链挖矿算法： https://medium.com/@mycoralhealth/code-your-own-blockchain-mining-algorithm-in-go-82c6a71aba1f
+[ Programming ]  从jvm虚拟机角度看Java多态 ->（重写override）的实现原理: http://mp.weixin.qq.com/s/yorAQtqjEWyXz5ZfTnzstA
+[ Programming ]  typeof(TSecret) - .NET泛型背后的黑魔法： http://yizhang82.me/dotnet-generics-typeof-t
+[ Programming ]   使用 CoreCLR 编写 C# 的 Managed JIT： http://xoofx.com/blog/2018/04/12/writing-managed-jit-in-csharp-with-coreclr/
+[ Programming ]  使用 C 语言编写简单 Unix shell 的教程： https://brennan.io/2015/01/16/write-a-shell-in-c/
+[ Programming ]  Intermediate Python，Python 进阶： http://book.pythontips.com/en/latest/
+[ Programming ]  利用 Node 及 Vue.js 创建一个基于用户兴趣的个性化视频推荐应用：  https://vuejsdevelopers.com/2018/04/16/video-vue-node-cloudinary/

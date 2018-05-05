@@ -1,0 +1,11 @@
+[ Private ]  Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 & CVE-2016-7201): https://github.com/theori-io/chakra-2016-11
+[ Private ]  WSL team fixed the non-elevated vs elevated vulnerability in build 15002：https://twitter.com/aionescu/status/818593743079178240
+[ Private ]  Windows 10 build 15002 中，Edge 浏览器 Exports 导出表中的函数也不再是 Valid CFG Call Targets 了： https://twitter.com/epakskape/status/818617656886497280 https://twitter.com/mxatone/status/818652168399880192
+[ Private ]  今年的 PWN2OWN 目标可能会比去年多： https://twitter.com/dragosr/status/821476984194670592
+[ Private ]  这几个月搞研究，还是出来了一些好东西。DVE的利用，还有一些别的安全方面的一些问题，侧信道、过DEP+RFG+CFG的办法等等。其中一个对象就发现3个比较有意思的漏洞，2个分别可以单独的形成很好的利用，1个可以对付ASLR等。 过段时间内部分享分享。这些年利用方面还是算出了很多原创，window最先获取API地址解决通用性，c代码写shellcode、数据通道、内存修改web、内存传播、ASPCODE的堆利用、TEB指针、Seh、dve、内核替换token、safemode、Rpc的完善的利用等等。
+[ Private ]  侧信道攻击，关键是某种我们需要的信息和另外一种不被关注但可以测量的信息发生了一些可以求解的关联。GC的弱标记清除算法里面，数据和对象没有区分，数据也被当成对象做标记，这样数据就和对象发生了关联，如果某个数据和另外的对象相同，对象就不能被释放。 报告的时候微软就死活不认为这是漏洞，现在都还没修补。
+[ Private ]  360 Gear Team 准备参加 PWN2OWN 2017 的 VMware 虚拟机逃逸漏洞在赛前被补了，视频演示： http://weibo.com/6053467553/EA4XVEoY5?from=page_1005056053467553_profile&wvr=6&mod=weibotime&type=comment
+[ Private ]  据 f0rgetting 说，Windows 10 Creators 中的 ACG 缓解措施仍然是 AllowThreadOptOut，没有完全启用。而 MSRC 的同志解释说，原因是他安装的 VMware Tools 图形驱动引起的不兼容，建议他安装 Hyper-V： https://twitter.com/_f0rgetting_/status/850280693120684033
+[ Private ]  MSRC 的同志对 2006 年至今的内存破坏类漏洞的统计情况，近几年来看，栈破坏漏洞几乎快绝迹了，UAF 漏洞也在陡降，类型混淆和越界访问漏洞呈上升趋势： https://pbs.twimg.com/media/C9FGDJaUIAApolj.jpg https://pbs.twimg.com/media/C9EOYXNVwAAIlj-.jpg https://twitter.com/epakskape/status/851479629873332224
+[ Private ]  typedarrbuff 的两个NB漏洞一个oob一个uaf，马上就要被修补了，5月9号出补丁。又是难得的好洞好利用没有了。 http://weibo.com/2246379231/EEqsj9iII?ref=collection&type=comment
+[ Private ]  Google Creative Lab 推出的基于机器学习的 AutoDraw 画图服务： https://www.autodraw.com/

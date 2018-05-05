@@ -1,0 +1,74 @@
+[ Sandbox ]  DLL Injection and much more in Python from @ s7ephen https://s7ephen.github.io/SandKit/
+﻿"SandKit - 沙箱技术研究辅助工具 https://t.co/ed9du50XrY Github 项目： https://github.com/s7ephen/SandKit 很久没有更新了"
+[ Sandbox ]  An Adversarial View of SaaS Sandboxes : https://github.com/bsidesnyc/BSidesNYC2016/blob/master/Presentations/Jason%20Trost%20%26%20Aaron%20Shelmire%20-%20An%20Adversarial%20View%20of%20SaaS%20Sandboxes.pdf (Slides - 7.07 Mb)
+﻿"从攻击者的角度看 SaaS 沙箱，来自 BSIDES NYC 2016 会议:  https://t.co/1wjEtqGWWi"
+[ Sandbox ]  CanSecWest 2016 (Mar. 16-18) Presentation: Sandbox Escape with Generous Help from Security Software - Chuanda Ding, Tencent Xuanwu Lab
+﻿"腾讯玄武实验室的 Chuanda Ding 将在 2016 年 3 月份的 CanSecWest 会议上演讲 《在安全软件的慷慨帮助下逃逸沙箱》"
+[ Sandbox ]  EMET has a global variable to on/off protections: https://www.fireeye.com/blog/threat-research/2016/02/using_emet_to_disabl.html. Flash Player has it for its sandbox also: http://reversingonwindows.blogspot.sg/2012/10/flash-player-enables-sandbox-via-global.html
+﻿"EMET 由一个全局变量控制保护功能的开启和关闭（昨天推送过的 FireEye 的文章）:   https://t.co/Nrynzh9fYb    Flash Player Sandbox 也有一个全局变量开关， 来自一篇 2012 年的 Blog:   https://t.co/BIeyrRujoK"
+[ Sandbox ]  AppLocker Execution Prevention Bypass https://packetstormsecurity.com/files/136057/applocker_bypass.rb.txt
+﻿"AppLocker 执行保护 Bypass PoC： https://t.co/vwkG0vlyJr  "
+[ Sandbox ]  Sandboxing: Aid in Digital Forensic Research https://www.researchgate.net/profile/Asif_Iqbal40/publication/283349465_Sandboxing_Aid_in_Digital_Forensic_Research/links/56361c4f08ae75884114de70.pdf
+﻿"沙箱在数字取证领域的帮助: https://t.co/DwNa4JHIaB "
+[ Sandbox ]  Had an awesome time at #TR16, thanks to everyone involved. For those asking here's my slide deck http://www.slideshare.net/JamesForshaw1/the-joy-of-sandbox-mitigations
+﻿" The Joy of Sandbox Mitigations, James Forshaw 在 TR16 会议上的演讲: https://t.co/YBestbXBh3"
+[ Sandbox ]  Detecting Wine via internal and legacy APIs http://www.hexacorn.com/blog/2016/03/27/detecting-wine-via-internal-and-legacy-apis/ #DFIR #malware
+﻿"利用一些 Internal API 或古老的 API 探测 Wine 执行环境： https://t.co/K3ga57iwP3 "
+[ Sandbox ]  Subgraph's sandboxing Oz looks very promising: https://github.com/subgraph/oz you can sandbox arbitrary applications with seccomp and NS seperation
+﻿"Subgraph 公司的 Oz 项目 - 去年推送过这个工具，这是个沙盒系统，基于 Linux 的 Seccomp 和命名空间等机制，实现为应用提供一个隔离的沙盒环境， 也还支持网络桥接。 Github Repo： https://t.co/8sYm1nNTUr"
+[ Sandbox ]  detux : Analyze linux malwares on x86, x86-64,ARM,MIPS ,MIPSEL cpu architecture - The Multiplatform Linux Sandbox : https://github.com/detuxsandbox/detux
+﻿"detux ︰ 分析 Linux 恶意软件流量的沙盒系统，支持 x86、x86-64、ARM、MIPS、MIPSEL 架构 ︰ https://t.co/TMQZcmCUb4"
+[ Sandbox ]  I wrote a blog on the unprivileged containers I talked about at craft conf & container camp https://blog.jessfraz.com/post/getting-towards-real-sandbox-containers/
+﻿" 沙箱与非特权容器：  https://t.co/AHzYTzqqmw "
+[ Sandbox ]  Sandboxing Code In Rust - https://insanitybit.github.io/2016/06/11/sandboxing-code-in-rust
+﻿" 如何将 Rust 代码放在沙箱内执行： https://t.co/VP7sY7iXYk"
+[ Sandbox ]  Here's the slides from my talk on unprivileged containers and sandboxes, huge shout out to asciinemia for the gifs https://docs.google.com/presentation/d/1FGhm7S7bm8AwzF6eD8hb9m6cjf68Vr3ej-HzfYpGiNA
+﻿" 权限受限的容器与沙箱： https://t.co/iySNvEjhec "
+[ Sandbox ]  Summary of recent Anti-Sandbox Tricks http://joe4security.blogspot.com/2016/06/summary-of-recent-anti-sandbox-tricks.html
+﻿" 最近几个月出现的沙盒对抗技术总结，来自 JoeSecurity： https://t.co/aY2cts934Y "
+[ Sandbox ]  TIL about AppContainers on Windows from looking into the Chromium sandbox: https://github.com/MalwareTech/AppContainerSandbox
+﻿" 基于 Windows AppContainers 的沙箱实现示例代码， GitHub Repo︰ https://t.co/GUO4mk7CuS"
+[ Sandbox ]  Rise of VBS Scripts evading Sandboxes http://joe4security.blogspot.it/2016/07/rise-of-vbs-evading-sandboxes.html
+﻿" 最近 Joe4Security 发现了一波新的尝试绕过沙盒检测的 VBS 样本： https://t.co/AefU30IDKd"
+[ Sandbox ]  AngluarJS sandbox bypasses for each and every version (1.2.0 to 1.5.7): http://pastebin.com/xMXwsm0N (credits @ garethheyes @ cure53berlin @ tehjh)
+﻿"AngluarJS 各版本的沙盒绕过 PoC (1.2.0～1.5.7): https://t.co/LA7ByZYtid "
+[ Sandbox ]  Slides from our presentation at #VB2016: https://www.virusbulletin.com/uploads/pdf/conference_slides/2016/Skuratovich_Chailytko-vb-2016-defating-sandbox-evasion.pdf
+﻿"VB2016 上关于对抗虚拟机逃逸的演讲PPT︰ https://t.co/FNJDQKqY7S"
+[ Sandbox ]  Study shows fingerprinting malware sandboxes is pretty straightforward, enables potential sandbox evasion https://t.co/8E5Wuxihso
+﻿"SandPrint: Fingerprinting Malware Sandboxesto Provide Intelligence for Sandbox Evasion：  https://t.co/8E5Wuxihso"
+[ Sandbox ]  Infect to Protect: sandboxing executables using elementary virus-writing techniques https://tia.mat.br/posts/2016/11/08/infect_to_protect.html
+﻿"Infect to Protect: sandboxing executables using elementary virus-writing techniques：  https://t.co/v0mvak67Vb "
+[ Sandbox ]  Released a big update to my sandbox tools https://github.com/google/sandbox-attacksurface-analysis-tools. Removed un-managed code, generic NT API library,… https://t.co/NUhJbpJ1Or
+﻿"James Forshaw 更新了他的 sandbox attacksurface analysis 工具： https://github.com/google/sandbox-attacksurface-analysis-tools"
+[ Sandbox ]  Tickling it one last time before removal: Angular1.5.9 sandbox bypass by @ tehjh https://output.jsbin.com/hilejusana (Check https://twitter.com/tehjh/status/789309231585456129)
+﻿"绕过 Angular1.5.9 sandbox  https://t.co/Fchh56aIA5  paper： https://t.co/amrNredtbN"
+[ Sandbox ]  Nice article on Sandbox evasion . https://www.virusbulletin.com/uploads/pdf/magazine/2016/VB2016-Chailytko-Skuratovich.pdf
+﻿"对抗沙盒逃逸：如何增加虚拟环境中的模拟成功率： https://t.co/9mB5RENxPd"
+[ Sandbox ]  Hardening your sandbox to prevent evasion: best practices cheatsheet, by @ fr0gger_ http://unprotect.tdgt.org/images/b/b6/Sandbox-Cheatsheet-1.0.pdf #DFIR
+﻿"加固沙盒实践手册： https://t.co/eM4oqVizKB "
+[ Sandbox ]  Sandbox evasion techniques - part 1 https://www.vmray.com/blog/sandbox-evasion-techniques-part-1/
+﻿"沙盒逃逸技术 part 1： https://t.co/iMqLunoKUM part 2： https://www.vmray.com/blog/sandbox-evasion-techniques-part-2/ part 3： https://www.vmray.com/blog/sandbox-evasion-techniques-part-3/"
+[ Sandbox ]  Breaking the Sandbox : https://www.exploit-db.com/docs/34591.pdf (pdf)
+﻿"沙盒检测与逃逸的各种技术汇总︰ https://t.co/MYV5ZsZpE1 "
+[ Sandbox ]  Sandbox Evasion Techniques (Part 2) : https://www.vmray.com/blog/sandbox-evasion-techniques-part-2/ ,Part 1 : https://www.vmray.com/blog/sandbox-evasion-techniques-part-1/
+﻿"沙盒逃逸技术 (Part 2): https://t.co/P0tbr8pLeD，Part  1: https://t.co/j7ARUoWtpj"
+[ Sandbox ]  Enter Sandbox – part 14: Reading the old Delphi Scrolls…Dynamic Delphi function hooking in sandboxes http://www.hexacorn.com/blog/2017/03/16/enter-sandbox-part-14-reading-the-old-delphi-scrolls/ #DFIR #malware
+﻿"Enter Sandbox – part 14: Reading the old Delphi Scrolls： https://t.co/vSauSAgFzC "
+[ Sandbox ]  Escaping a Python sandbox with a memory corruption bug https://medium.com/@ gabecpike/python-sandbox-escape-via-a-memory-corruption-bug-19dde4d5fea5
+﻿"利用内存破坏漏洞实现 Python 沙盒逃逸： https://t.co/hxAx7IDNrc "
+[ Sandbox ]  Understanding the Microsoft Office 2016 Protected-View Sandbox http://conference.hitb.org/hitbsecconf2017ams/materials/D2T4%20-%20Koh%20Yong%20Chuan%20-%20Understanding%20the%20Microsoft%20Ofice%202016%20Protected%20View%20Sandbox.pdf #ExploitDev #PenTest #InfoSec https://t.co/AbrXissbIM
+﻿"理解 Microsoft Office 2016 受保护视图模式的沙盒： https://t.co/cSWRq5qLmb "
+[ Sandbox ]  DOM based Angular sandbox escapes http://blog.portswigger.net/2017/05/dom-based-angularjs-sandbox-escapes.html
+" 基于 DOM 的 AngularJS 沙箱逃逸： http://blog.portswigger.net/2017/05/dom-based-angularjs-sandbox-escapes.html "
+[ Sandbox ]  Using RegisterApplicationRestart as a (lame) sandbox evasion http://www.hexacorn.com/blog/2017/05/20/using-registerapplicationrestart-as-a-lame-sandbox-evasion/ #DFIR #malware
+"  利用 Windows 系统提供的 RegisterApplicationRestart 应用重启功能，Bypass 沙盒检测环境： https://t.co/n12K0BZP7w "
+[ Sandbox ]  Pwn2own漏洞分享系列：利用macOS内核漏洞逃逸Safari沙盒： http://blogs.360.cn/blog/pwn2own%E6%BC%8F%E6%B4%9E%E5%88%86%E4%BA%AB%E7%B3%BB%E5%88%97%EF%BC%9A%E5%88%A9%E7%94%A8macos%E5%86%85%E6%A0%B8%E6%BC%8F%E6%B4%9E%E9%80%83%E9%80%B8safari%E6%B2%99%E7%9B%92/
+[ Sandbox ]  GIT-SHELL 沙盒绕过（CVE-2017-8386），来自 Seebug 的译文: http://paper.seebug.org/309/#0-tsina-1-87873-397232819ff9a47a7b7e80a40613cfe1
+[ Sandbox ]  沙盒加固实践手册： http://unprotect.tdgt.org/images/2/23/Sandbox-Cheatsheet-1.1.pdf
+[ Sandbox ]  恶意软件沙盒逃逸技术总结，来自 Moony Li： https://github.com/SilverMoonSecurity/SandboxEvasion
+[ Sandbox ]   利用 Numpy v1.11.0 的整数溢出漏洞实现 Python 沙箱环境的逃逸： https://hackernoon.com/python-sandbox-escape-via-a-memory-corruption-bug-19dde4d5fea5
+[ Sandbox ]   卡巴斯基（Kaspersky）的定向攻击对抗平台将 Hypervisor 作为沙箱（Sandbox）实现的重要基础： https://securelist.com/a-modern-hypervisor-as-a-basis-for-a-sandbox/81902/
+[ Sandbox ]   通过判断系统本地语言实现反沙盒/反调试的技巧： http://www.hexacorn.com/blog/2017/12/30/using-localization-as-a-lame-anti-sandbox-anti-debug-trick/
+[ Sandbox ]  通过跨进程通信逃逸 Adobe Reader 的沙箱，来自 sandboxescaper： http://sandboxescaper.blogspot.com/2018/02/how-to-escape-sandboxes-without.html?m=1
+[ Sandbox ]  剪贴板监控 - 一个高效的反沙盒技巧: http://www.hexacorn.com/blog/2018/04/23/monitoring-clipboard-a-quick-antisandbox-trick/
+[ Sandbox ]  利用 Java 的类型混淆漏洞逃逸沙盒（CVE-2018-2826）： https://www.zerodayinitiative.com/blog/2018/4/25/when-java-throws-you-a-lemon-make-limenade-sandbox-escape-by-type-confusion

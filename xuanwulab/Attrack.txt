@@ -1,0 +1,22 @@
+[ Attrack ]  First known hacker-caused power outage signals troubling escalation http://ow.ly/39IsX9
+﻿"上周乌克兰数十万家庭断电，这是第一个已知的由黑客造成的断电事故 https://t.co/y2bhla05Sw"
+[ Attrack ]  SMS Phishing Campaign Spreads in China https://blogs.mcafee.com/mcafee-labs/sms-phishing-campaign-spreads-china/
+﻿"国内的短信钓鱼活动 https://t.co/jfvnXAnPri "
+[ Attrack ]  Part two of our analysis of a phishing campaign targeting financial data theft in the healthcare field http://ow.ly/WIDTh #infosec
+﻿"医疗领域金融数据泄露钓鱼行动分析， Part 2: https://t.co/LOiPJXGUq7 #infosec"
+[ Attrack ]  Neutrino Exploit Kit http://countuponsecurity.com/2016/01/06/neutrino-exploit-kit/
+﻿"对 Neutrino Exploit Kit 攻击过程的简单描述： https://t.co/M4gj3aBDmR"
+[ Attrack ]  Phishing Attacks Using Public Data http://goo.gl/k3XiJY #Phishing #SocialEngineering #SQLInjections #Trojans #Vulnerabilities
+﻿"通过公开数据实施网络钓鱼攻击  https://t.co/cvyIcqJSiy"
+[ Attrack ]  Rigging compromise - RIG Exploit Kit http://blog.talosintel.com/2016/01/rigging-compromise.html
+﻿"Talos 对 RIG Exploit KIT 攻击活动的观测数据 https://t.co/172Af1kJyY"
+[ Attrack ]  Sandworm Team and the Ukrainian Power Authority Attacks http://www.isightpartners.com/2016/01/ukraine-and-sandworm-team/
+﻿"Sandworm 团队与乌克兰电力攻击事件 https://t.co/n5Og7AEMD6"
+[ Attrack ]  BlackEnergy has been linked to attacks in Ukraine since 2014: http://bit.ly/1TEhaxv
+﻿"自 2014 年起， BlackEnergy 恶意软件就与乌克兰的攻击有关: https://t.co/yaZ806oK7f"
+[ Attrack ]  Angler Exploit Kit continues to evade detection, #Unit42 finds over 90,000 websites compromised http://bit.ly/1JFOMKV
+﻿"Angler Exploit Kit 不断地躲避检测， Palo Alto Unit42 发现，超过 9 万个网站已经被攻击：  https://t.co/NkUAuSmcm8"
+[ Attrack ]  NCC Group Blog: Cyber Security For The Financial Sector - https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/january/cyber-security-for-the-financial-sector/
+﻿"NCC Blog 谈金融部门的网络安全 https://t.co/vuCim2wDok"
+[ Attrack ]  Analysis confirms coordinated hack attack caused Ukrainian power outage http://arstechnica.com/security/2016/01/analysis-confirms-coordinated-hack-attack-caused-ukrainian-power-outage/
+﻿"分析证实乌克兰电力中断事件是一次黑客分工协作攻击的结果： https://t.co/WWYJXaNdb3"

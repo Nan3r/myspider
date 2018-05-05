@@ -1,0 +1,37 @@
+[ SCADA ]  [Report] FEYE iSIGHT Intel identified ~1,600 publicly disclosed #ICS vulns since 2000 http://bddy.me/2asUO2T #BHUSA https://t.co/gpPTdXFRqS
+﻿" 来自 FireEye 的工控安全漏洞分析报告，对近 15 年的 1552 个漏洞的分析总结： https://www2.fireeye.com/industrial-control-systems-vulnerability-trend-report-2016.html?utm_source=TWC&utm_medium=social&utm_campaign=icstrendreport  "
+[ SCADA ]  PLC-Blaster Worm Targets Industrial Control Systems https://threatpost.com/plc-blaster-worm-targets-industrial-control-systems/119696/
+﻿"BlackHat 会议上，有黑客公开了一个攻击工控系统的蠕虫病毒 - PLC Blaster，来自 ThreatPost 的报道： https://t.co/6hSMIRVgC3   PPT： https://www.blackhat.com/docs/asia-16/materials/asia-16-Spenneberg-PLC-Blaster-A-Worm-Living-Solely-In-The-PLC.pdf  Paper： https://www.blackhat.com/docs/asia-16/materials/asia-16-Spenneberg-PLC-Blaster-A-Worm-Living-Solely-In-The-PLC-wp.pdf "
+[ SCADA ]  My latest blog: "A Collection of Resources for Getting Started in ICS/SCADA Cybersecurity" http://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/
+﻿" ICS/SCADA 系统安全相关的学习资料： https://t.co/GObI1lCu51"
+[ SCADA ]  A new advisory has been published: "SSA-630413: Vulnerabilities in SIPROTEC 4 and SIPROTEC Compact" http://www.siemens.com/cert/pool/cert/siemens_security_advisory_ssa-630413.pdf
+﻿" 西门子修复 SIPROTEC 4 和 SIPROTEC 设备的多个漏洞： https://t.co/pfP9CsTZGZ "
+[ SCADA ]  #KCON 2016 感知、诱捕、情报、协作：网络空间工控系统威胁情报 by Kimon https://github.com/knownsec/KCon/raw/master/2016/%5BKCon%202016%5D0828_8_Kimon_%E6%84%9F%E7%9F%A5%E3%80%81%E8%AF%B1%E6%8D%95%E3%80%81%E6%83%85%E6%8A%A5%E3%80%81%E5%8D%8F%E4%BD%9C%EF%BC%9A%E7%BD%91%E7%BB%9C%E7%A9%BA%E9%97%B4%E5%B7%A5%E6%8E%A7%E7%B3%BB%E7%BB%9F%E5%A8%81%E8%83%81%E6%83%85%E6%8A%A5.pdf
+﻿" 感知、诱捕、情报、协作：网络空间工控系统威胁情报，来自 KCon 2016 会议： https://t.co/jzCYwf53Yr"
+[ SCADA ]  Hacking industrial processes with and undetectable PLC Rootkit http://securityaffairs.co/wordpress/51389/breaking-news/plc-rootkit.html
+﻿" Black Hat Europe 2016 会议上，两名黑客将会展示一款免杀 PLC Rootkit： https://t.co/JlApEQ0IJd"
+[ SCADA ]  Industrial Control Systems 2016 Report: Connected and Vulnerable http://blog.ptsecurity.com/2016/10/industrial-control-systems-2016-report.html
+﻿" PTSecurity 发布的《2016 工控系统安全研究报告》： https://www.ptsecurity.com/upload/iblock/6bd/ics_vulnerability_2016_eng.pdf"
+[ SCADA ]  New blog post! @ WilliamKJardine on his research into IDS for ICS which he's presenting new week @ CPS-SPC in Vienna https://labs.mwrinfosecurity.com/blog/hybrid-approach-to-ics-intrusion-detection/
+﻿" 工控系统入侵检测，来自 MWR Labs： https://t.co/1sPXsYk9gF"
+[ SCADA ]  Schneider Electric PowerLogic PM8ECC 模块未授权访问漏洞: https://www.seebug.org/vuldb/ssvid-91958
+[ SCADA ]  Siemens discloses local privilege escalation bug in #SCADA gear - http://bit.ly/2eFTjys
+﻿"西门子公开了 SCADA gear 中的本地提权漏洞： https://t.co/bP8kRqMVgL"
+[ SCADA ]  What are industrial control systems? A comprehensive guide: http://bit.ly/2fglbx6 #ICS
+﻿"一个全面的工业控制系统指南︰ https://t.co/7fSPp2LuM1 "
+[ SCADA ]  Honeywell SCADA Controllers Exposed Passwords in Clear Text: https://threatpost.com/honeywell-scada-controllers-exposed-passwords-in-clear-text/123562/ via @ threatpost
+﻿"霍尼韦尔 SCADA 控制器暴露明文密码： https://t.co/F9DGNW5uLG"
+[ SCADA ]  工控系统的指纹识别技术： http://plcscan.org/blog/2017/03/fingerprint-identification-technology-of-industrial-control-system/
+[ SCADA ]  Introduction to Attacking ICS/SCADA Systems for Penetration Testers. http://blog.gdssecurity.com/labs/2017/5/17/introduction-to-attacking-icsscada-systems-for-penetration-t.html
+"  ICS/SCADA 系统的渗透测试介绍，文中最后收集了几起近些年发生的工控安全事件案例： https://t.co/Xpt8st9Baq "
+[ SCADA ]  针对工业控制系统的新型攻击武器 Industroyer 深度剖析： http://paper.seebug.org/328/
+[ SCADA ]  Siemens 修复了影响其工控产品的 Intel AMT 组件的漏洞：https://threatpost.com/siemens-patches-critical-intel-amt-flaw-in-industrial-products/126652/
+[ SCADA ]   ICS 工业控制系统安全手册： http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-82r2.pdf
+[ SCADA ]   SCADA - 一直被忽视的威胁： https://www.yumpu.com/en/document/view/58975332/scada-threats-people-overlook
+[ SCADA ]   ICS-CERT 警告称西门子 Molecular Imaging 产品的存在可利用漏洞： https://threatpost.com/exploits-available-for-siemens-molecular-imaging-vulnerabilities/127225/
+[ SCADA ]  IOActive曝光核关键设施漏洞： https://mp.weixin.qq.com/s/m81sjkQ8lnuqUr36xQHRmQ
+[ SCADA ]  Automation Direct 公司的工控产品多个漏洞披露(CVE-2017-14020）： https://www.mogozobo.com/?p=3432
+[ SCADA ]  在 2017 BH EU 上， CyberX 研究员展示了如何利用特殊构造的逻辑代码注入到 PLCs 中，进而以 AM 广播信道传播信号，最终实现远程入侵物理隔离的工控系统： https://cyberx-labs.com/en/press-releases/cyberx-security-researchers-demonstrate-jump-icsscada-air-gap-black-hat-europe-2017/
+[ SCADA ]  攻击工业控制系统网关，来自 CCC 大会： https://media.ccc.de/v/34c3-8956-scada_-_gateway_to_s_hell
+[ SCADA ]  IoT 时代下的 SCADA 与移动安全： http://blog.ioactive.com/2018/01/scada-and-mobile-security-in-iot-era.html
+[ SCADA ]  设计存在缺陷的 APP 恐导致工控系统的安全问题： http://www.zdnet.com/article/scada-security-bad-app-design-could-give-hackers-access-to-industrial-control-systems/

@@ -1,0 +1,37 @@
+[ Bug Bounty ]  Reviewing bug bounties - a hacker's perspective http://www.skeletonscribe.net/2016/08/reviewing-bug-bounties-hackers.html
+﻿" 从黑客的角度看各大 Bug Bounty： https://t.co/Ty3rdBzHts"
+[ Bug Bounty ]  List of Wordpress vulnerabilities found during Summer of Pwnage https://sumofpwn.nl/advisories.html https://www.securify.nl/blog/SFY20160801/summer_of_pwnage__one_month_of_wordpress_pwning.html
+﻿" 为期一个月的 'Summer of Pwnage' 活动中发现的 WordPress 漏洞列表： https://t.co/8cIBrSS44y https://t.co/peDWy5EEwm "
+[ Bug Bounty ]  [PayPal Bug Bounty] Node.js code injection vulnerability http://artsploit.blogspot.com/2016/08/pprce2.html #bugbounty #nodejs #rce https://t.co/TDaWRxnkju
+﻿" demo.paypal.com Node.js 代码注入漏洞： https://t.co/3dV5i5r88O "
+[ Bug Bounty ]  Microsoft expands Windows Insider Preview Edge browser bug bounty program http://www.zdnet.com/article/microsoft-expands-windows-insider-preview-edge-browser-bug-bounty-program/#ftag=RSSbaffb68
+﻿"微软的 Bug Bounty 计划中增加了一些 Web 相关的漏洞，比如同源策略绕过和 Referer 欺骗： https://t.co/r39Ga71GcG"
+[ Bug Bounty ]  War Stories from Google's Vulnerability Reward Program : https://docs.google.com/presentation/d/e/2PACX-1vTMBZV_hXgZkEyGBUw8K_pvPjrDBhceV-TYuHWw-Nc3LXA8PZwkW2zQj268W8XBhSkfDEXZ6DN7jrvC/pub?start=false&loop=false&delayms=3000&slide=id.g137e0edca9_0_0
+﻿"Google 漏洞奖励计划中的'战争'故事︰ https://t.co/KQIMUB3q9a"
+[ Bug Bounty ]  高通也启动了自己的漏洞奖励计划： https://hackerone.com/qualcomm
+[ Bug Bounty ]  Mitigation Bypass and Bounty for Defense Terms（微软的缓解措施 Bounty 项目更新，RFG、CFG、ACG 等新保护特性也在奖励范围内，最高奖金 10 万美元）： https://technet.microsoft.com/en-us/security/dn425049.aspx
+[ Bug Bounty ]  Annual Google VRP Blog is out! https://security.googleblog.com/2017/01/vulnerability-rewards-program-2016-year.html
+﻿" Google VRP（漏洞奖励项目） 2016 年总结： https://t.co/UWCtwen3PE"
+[ Bug Bounty ]  Some news from #CanSecWest: @ Intel, @ Microsoft announce #bugbounty programs - http://bit.ly/2n19rm0
+﻿"Intel 发布了第一份漏洞悬赏计划，奖励发现其硬件高危漏洞者 3 万美金；同时，微软针对 Microsoft Office Insider 也发布了漏洞悬赏计划： https://t.co/3wapLNoOB3"
+[ Bug Bounty ]  Relaunching Mozilla’s Web Security Bounty Program (RCE critical Sites now $5000) https://blog.mozilla.org/security/2017/05/11/relaunching-web-bug-bounty-program/
+" Mozilla 发起了针对 Web 平台的 Bug Bounty 项目： https://blog.mozilla.org/security/2017/05/11/relaunching-web-bug-bounty-program/ "
+[ Bug Bounty ]  PayPal Inc announces 2 new Bug Bounty Program Domains https://goo.gl/fb/XtS6HR #FullDisclosure
+"  PayPal 公司发布了两个新加入 BUG 赏金计划的域名： https://t.co/zYfow7MEQb "
+[ Bug Bounty ]  Announcing that the Edge Bug Bounty Program will now run through until the end of June. Now finishing June 30, 2017: https://blogs.technet.microsoft.com/msrc/2017/05/16/extending-microsoft-edge-bounty-program/
+" 微软决定延长 Edge Bounty 项目至 6 月 30 号： https://t.co/TzfHRFJXS6 "
+[ Bug Bounty ]    微软准备无限期延长 Edge 浏览器的 Bug Bounty 项目： https://threatpost.com/microsoft-extends-edge-bug-bounty-program-indefinitely/126446/
+[ Bug Bounty ]   Windows Bounty 项目 Hyper-V 的奖金最高提升到了 25 万美金： https://blogs.technet.microsoft.com/msrc/2017/07/26/announcing-the-windows-bounty-program/
+[ Bug Bounty ]  神秘公司将提供 25 万美金漏洞奖励给 VM 逃逸漏洞： https://threatpost.com/mystery-company-offers-250000-bounty-for-vm-escape-vulnerabilities/127343/
+[ Bug Bounty ]   大疆无人机开始启动 Bug Bounty 漏洞奖励项目： https://threatpost.com/dji-launches-drone-bug-bounty-program/127696/
+[ Bug Bounty ]   Chris Evans 昨天宣布去了 Dropbox，今天 Dropbox 就更新了它的 Bug Bounty 计划： https://blogs.dropbox.com/tech/2017/09/updates-on-the-dropbox-bug-bounty-program/
+[ Bug Bounty ]  微软延长了 Microsoft Office Bug Bounty 项目的截止日期，延长到 2017 年 12 月 31 日： https://blogs.technet.microsoft.com/msrc/2017/09/15/extending-the-microsoft-office-bounty-program/
+[ Bug Bounty ]   利用 OAuth  配置错误的问题攻破雅虎旗下的 Flickr 服务：  https://mishresec.wordpress.com/2017/10/12/yahoo-bug-bounty-exploiting-oauth-misconfiguration-to-takeover-flickr-accounts/
+[ Bug Bounty ]  Google 启动针对 Google Play 应用市场的 Bounty 项目 - Google Play Security Reward Program，报告热门 APP 的漏洞将会获得 1000 美金奖励： https://threatpost.com/google-play-bounty-promises-1000-rewards-for-flaws-in-popular-apps/128542/ http://security.googleblog.com/2017/10/introducing-google-play-security-reward.html
+[ Bug Bounty ]  How I Got Paid $0 From the Uber Security Bug Bounty ： https://medium.com/bread-and-circuses/how-i-got-paid-0-from-the-uber-security-bug-bounty-aa9646aa103f
+[ Bug Bounty ]  Google 对 2017 年漏洞奖励计划做了回顾： https://security.googleblog.com/2018/02/vulnerability-reward-program-2017-year.html
+[ Bug Bounty ]  英特尔的 Bug 赏金计划更新,本次新增侧信道漏洞项目，奖金设为25万美元：  https://newsroom.intel.com/news/expanding-intels-bug-bounty-program/
+[ Bug Bounty ]   Google Service Management 服务 7.5K Bounty 奖金漏洞的分析： https://sites.google.com/site/testsitehacking/-7-5k-Google-services-mix-up
+[ Bug Bounty ]   Bug Bounty Web 漏洞挖掘的几个小 Tips： https://medium.com/@prateek_0490/bug-bounty-tips-tricks-js-javascript-files-bdde412ea49d
+[ Bug Bounty ]  Microsoft 发布新漏洞悬赏项目： Speculative Execution Side Channel ： https://blogs.technet.microsoft.com/msrc/2018/03/14/speculative-execution-bounty-launch/
+[ Bug Bounty ]  Netflix Bug Bounty 项目现已面向所有白帽子开放： https://medium.com/netflix-techblog/netflixbugbounty-ae3bf4489def  https://threatpost.com/netflix-opens-public-bug-bounty-program-with-15k-payout-cap/130630/

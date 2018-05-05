@@ -1,0 +1,80 @@
+[ APT ]  Enhanced Analysis of GRIZZLY STEPPE http://bit.ly/2ltMKqt
+﻿"美国国土安全部和通信集成中心合作发布的针对 GRIZZLY STEPPE 攻击组织的分析报告，该组织与 APT28/APT29 有关： https://www.us-cert.gov/sites/default/files/publications/AR-17-20045_Enhanced_Analysis_of_GRIZZLY_STEPPE_Activity.pdf"
+[ APT ]  2016中国高级持续性威胁研究报告： https://ti.360.com/upload/report/file/28-2016APT-201702120743.pdf
+[ APT ]  关于俄罗斯 APT28 组织的所有资料汇总： http://contagiodump.blogspot.com/2017/02/russian-apt-apt28-collection-of-samples.html
+[ APT ]  中部的熊 - 针对民主党委员会的入侵， 来自 CrowdStrike 2016 年 6 月的分析报告： https://www.crowdstrike.com/blog/bears-midst-intrusion-democratic-national-committee/
+[ APT ]  FHAPPI Campaign - FreeHosting APT PowerSploit Poison Ivy : http://blog.0day.jp/p/english-report-of-fhappi-freehosting.html (Kudos to @ unixfreaxjp & MMD te… https://twitter.com/i/web/status/843413087457746945
+﻿"FHAPPI APT 攻击行动英文版报告︰ https://t.co/EmJHU6UtT7 "
+[ APT ]  Part II. APT29 Russian APT including Fancy Bear http://contagiodump.blogspot.com/2017/03/part-ii-apt29-russian-apt-including.html
+﻿" Contagio Blog 在整理了 APT 28 相关的所有资料之后，昨天又整理了 APT29 的相关数据： https://t.co/ckhDwgJjdU"
+[ APT ]  New report on a China-based APT that targets MSPs with custom malware and dyndns comms for IP theft. https://www.pwc.co.uk/cyber-security/pdf/cloud-hopper-report-final-updated.pdf
+﻿"英国 PwC 公司发布的一份 APT 报告，报告中称 Cloud Hopper APT 行动背后的组织是中国的 'APT10'： https://t.co/r9MLjsXzox"
+[ APT ]  Good paper from F-Secure on #Callisto APT (known as #DancingSalome at Kaspersky): https://www.f-secure.com/documents/996508/1030745/callisto-group
+﻿"来自 F-Secure 的关于 Callisto（DancingSalome） APT 攻击行动的分析报告︰  https://t.co/A2n0SrDEY6"
+[ APT ]  New blog post on Red|Blue: Automating APT Scanning using the Open Source Loki APT Scanner and Splunk! https://goo.gl/7zyuhS Thx @ cyb3rOps
+﻿" 使用 loki scanner 和 splunk 进行自动化 APT 扫描： https://t.co/rtv2o7OoiN "
+[ APT ]  APT攻击利器－Word漏洞CVE-2016-7193原理揭秘： https://mp.weixin.qq.com/s?__biz=MzA3NTQ3ODI0NA==&mid=2247483791&idx=1&sn=78858dc62d56bef962df9cc106b50a8b&chksm=9f6ea404a8192d12605c8537ed11c374b4466ab845dc6e1fcba2bd7fb41f9215c33758eccc3e
+[ APT ]  FireEye 发布了一份新的 APT 报告： APT 32（海莲花）- 全球企业面临的威胁： https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html
+[ APT ]  .#APT3 Linked to Chinese Ministry of State Security: https://threatpost.com/apt3-linked-to-chinese-ministry-of-state-security/125750/ via @ threatpost
+" Recorded Future 发布了一份报告，分析中.国与 APT.3 攻击组织之间的联系： https://t.co/t6IDQc7vkw "
+[ APT ]  Operation Cobalt Kitty: Cybereason Labs analysis of a large-scale APT in Asia, carried out by the OceanLotus Group https://www.cybereason.com/labs-operation-cobalt-kitty-a-large-scale-apt-in-asia-carried-out-by-the-oceanlotus-group/
+"  Cobalt Kitty 行动: 海莲花组织针对亚洲的大范围APT攻击： https://t.co/q2JrSJN3ey "
+[ APT ]  Wikileaks 昨天又公开了一个 CIA 的项目 - Pandemic，Pandemic 是一个木马植入器，专门用于攻击 Windows 文件共享网络，它将用户从文件服务器下载的文件木马化： https://wikileaks.org/vault7/releases/#Pandemic
+[ APT ]  APT19 利用内嵌宏病毒的 Excel 文档钓鱼，目标为至少 7 个遍布全球的法律和投资公司： https://www.fireeye.com/blog/threat-research/2017/06/phished-at-the-request-of-counsel.html
+[ APT ]    微软恶意软件防护团队发现 Platinum（白金） APT 组织的工具更新了版本，一款基于 Intel AMT Serial-over-LAN 信道的文件传输工具出现了，利用这项技术，它可以成功躲避防火墙和网络流量监控应用的检测，而且是跨操作系统支持的： https://blogs.technet.microsoft.com/mmpc/2017/06/07/platinum-continues-to-evolve-find-ways-to-maintain-invisibility/
+[ APT ]  针对巴基斯坦的某APT活动事件分析： http://www.freebuf.com/news/138196.html
+[ APT ]  Spring Dragon APT 跟踪分析： http://www.techarp.com/articles/tracking-spring-dragon-apt/
+[ APT ]   来自 Kaspersky Lab 对 Spring Dragon APT 活动的最新分析： https://securelist.com/spring-dragon-updated-activity/79067/
+[ APT ]   Kaspersky 发布 2017 年第二季度 APT 趋势报告： https://securelist.com/apt-trends-report-q2-2017/79332/
+[ APT ]  俄罗斯 APT28 组织上个月攻击了欧洲和中东地区酒店的外国游客： https://www.fireeye.com/blog/threat-research/2017/08/apt28-targets-hospitality-sector.html
+[ APT ]  RAT Cook 行动：中国 APT 攻击者开始利用虚假权利的游戏泄漏资源作为诱饵： https://www.proofpoint.com/us/threat-insight/post/operation-rat-cook-chinese-apt-actors-use-fake-game-thrones-leaks-lures
+[ APT ]  卡巴斯基实验室对 WhiteBear APT 的分析与介绍： https://securelist.com/introducing-whitebear/81638/
+[ APT ]  Gazing at Gazer，针对 Turla APT 组织的最新分析报告： https://www.welivesecurity.com/wp-content/uploads/2017/08/eset-gazer.pdf
+[ APT ]  海莲花团伙的活动新趋势： https://mp.weixin.qq.com/s/Uq6r_U00l9EYvqb80gZ9dg
+[ APT ]  深入了解伊朗网络间谍：APT33 瞄准航空航天和能源部门： https://www.fireeye.com/blog/threat-research/2017/09/apt33-insights-into-iranian-cyber-espionage.html
+[ APT ]  卡巴斯基实验室对 BlackOasis APT 行动的调查分析：   https://securelist.com/blackoasis-apt-and-new-targeted-attacks-leveraging-zero-day-exploit/82732/
+[ APT ]  APT28 组织赶在 Flash CVE-2017-11292 补丁部署之前攻击欧洲和美国用户，来自 Proofpoint 的分析： https://www.proofpoint.com/us/threat-insight/post/apt28-racing-exploit-cve-2017-11292-flash-vulnerability-patches-are-deployed
+[ APT ]  FIN7 APT组织攻击最新活动分析： http://www.freebuf.com/news/153032.html
+[ APT ]  海莲花（OceanLotus）APT团伙新活动通告： https://mp.weixin.qq.com/s/uzfMlbWpc4w23Yo7A6qQkA
+[ APT ]  俄罗斯 Fancy Bear 团伙黑客使用 Microsoft Office DDE 漏洞发起攻击： https://thehackernews.com/2017/11/apt28-office-dde-malware.html
+[ APT ]  更新-海莲花（OceanLotus）APT团伙新活动通告： https://mp.weixin.qq.com/s/xicfkgN1ru1iQ9N3r2jwqw
+[ APT ]  一个利用CVE-2017-11292的APT样本技术分析（一）： www.freebuf.com/vuls/153085.html
+[ APT ]  一个利用CVE-2017-11292的APT样本技术分析（二）： http://www.freebuf.com/articles/network/153813.html
+[ APT ]   对攻击中东地区的 MuddyWater APT 的详细分析报告： https://reaqta.com/2017/11/muddywater-apt-targeting-middle-east/
+[ APT ]  海莲花团伙利用MSBuild机制免杀样本分析： https://mp.weixin.qq.com/s/3v_dGXGZ_RkVyMxl6s3MIg
+[ APT ]  “海莲花”团伙专用后门Denis最新版分析: https://mp.weixin.qq.com/s/UIV0YaIlSJLcYT32XJQPlg
+[ APT ]  海莲花（OceanLotus）团伙漏洞利用类攻击样本分析: https://mp.weixin.qq.com/s/IPFKLRZb5GDXXGHioPu4RA
+[ APT ]  APT34 使用 CVE-2017-11882 漏洞在中东地区发动新的有针对性的攻击：  http://www.fireeye.com/blog/threat-research/2017/12/targeted-attack-in-middle-east-by-apt34.html
+[ APT ]    微软威胁防护（ATP）平台的对抗技术研究，来自 BlackHat 2017 会议： https://github.com/retbandit/BlackHat2017/blob/master/eu-17-Thompson-Red-Team-Techniques-for-Evading-Bypassing-and-Disabling-MS-Advanced-Threat-Protection-and-Advanced-Threat-Analytics.pptx
+[ APT ]  摩诃草组织最新漏洞攻击样本分析及预警： https://www.anquanke.com/post/id/91461
+[ APT ]  FireEye 对来自俄罗斯的网络威胁组织 HAMMERTOSS 的分析： https://www2.fireeye.com/rs/848-DID-242/images/rpt-apt29-hammertoss.pdf
+[ APT ]  'apt28，apt32和毛熊，三哥的apt活动中用到的PowerShell脚本和office宏，主要是过白和文件不落地的思路，有些很值得参考一下，国内的思路和技术落后不止一点点，链接: https://pan.baidu.com/share/init?surl=boIgQ6r 密码: c7dc '，来自 RevengeRangers weibo ： https://weibo.com/1463212167/FBA6kdcwK?type=comment#_rnd1514432400430
+[ APT ]  摩诃草 APT 团伙新脚本类攻击样本分析：http://www.freebuf.com/articles/network/159059.html
+[ APT ]  Turla APT 团伙现在开始利用 Adobe Flash Installer 和社工开展间谍活动： http://securityaffairs.co/wordpress/67584/apt/turla-apt-adobe-installer.html
+[ APT ]  白象APT组织已将CVE 2017-11882纳入攻击武器库： http://www.freebuf.com/articles/paper/159268.html
+[ APT ]  “黑凤梨”（BlackTech）最新APT攻击活动分析： http://www.freebuf.com/column/159865.html
+[ APT ]  “人面马”（APT34）组织对中东地区进行攻击的最新动向通报： http://www.freebuf.com/articles/paper/160880.html
+[ APT ]  Lotus Blossom 团伙对东南亚国家联盟的攻击的分析： https://community.rsa.com/community/products/netwitness/blog/2018/01/30/apt32-continues-asean-targeting
+[ APT ]  卡巴斯基对 Sofacy（APT28, Fancy Bear）2017 年活动情况总结： https://securelist.com/a-slice-of-2017-sofacy-activity/83930/
+[ APT ]   FireEye 发布朝鲜 APT 团队 APT37 (Reaper) 的分析报告： https://www2.fireeye.com/rs/848-DID-242/images/rpt_APT37.pdf
+[ APT ]  2017 中国高级持续性威胁（APT）研究报告： http://www.freebuf.com/articles/network/163435.html
+[ APT ]  Unit 42 针对 Sofacy 组织近期攻击活动的分析： https://researchcenter.paloaltonetworks.com/2018/02/unit42-sofacy-attacks-multiple-government-entities/
+[ APT ]   APT_CyberCriminal_Campagin_Collections - 2006 年至今的几乎所有公开的 APT 攻击分析报告收集： https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections
+[ APT ]  腾讯御见：Lazarus APT组织最新攻击活动揭露： https://mp.weixin.qq.com/s/-cCnpo1kBebvJ7WMRj65tg
+[ APT ]  卡巴斯基实验室对至少活跃了6年的 Slingshot APT 做得分析报告： https://s3-eu-west-1.amazonaws.com/khub-media/wp-content/uploads/sites/43/2018/03/09133534/The-Slingshot-APT_report_ENG_final.pdf
+[ APT ]  NCC Group 对 APT15 所用工具 RoyalCli 和 RoyalDNS 的分析： https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/march/apt15-is-alive-and-strong-an-analysis-of-royalcli-and-royaldns/
+[ APT ]  Lazarus APT组织最新活动揭露： http://www.freebuf.com/articles/network/164511.html
+[ APT ]  针对金融机构的 APT 攻击研究，来自 BlackHat Asia 2018： https://www.blackhat.com/docs/asia-18/asia-18-Shen-Jang-Nation-State%20Moneymule%20hunting%20season.pdf
+[ APT ]  摩诃草APT组织针对我国敏感机构最新的网络攻击活动分析： http://www.freebuf.com/articles/paper/167191.html
+[ APT ]  近年来APT组织使用的10大（类）安全漏洞： https://www.anquanke.com/post/id/104180
+[ APT ]  Kaspersky 发布 Q1 季度 APT 趋势报告： https://securelist.com/apt-trends-report-q1-2018/85280/
+[ APT ]  Kaspersky Lab 对自 2017 年起一系列主要针对中东和北非的攻击的调查与分析： https://securelist.com/operation-parliament-who-is-doing-what/85237/
+[ APT ]  Avast 最新 CCleaner APT 调查的发现，攻击者借助 TeamViewer 进入 Piriform 网络：   https://blog.avast.com/update-ccleaner-attackers-entered-via-teamviewer
+[ APT ]  Kaspersky 对 APT 组织 Energetic Bear / Crouching Yeti 近期活动的分析： https://securelist.com/energetic-bear-crouching-yeti/85345/
+[ APT ]  针对 APT 组织 Sednit（APT28, Fancy Bear）的用到的 Zebrocy 的分析：  https://www.welivesecurity.com/2018/04/24/sednit-update-analysis-zebrocy/
+[ APT ]  APT团伙（APT-C-01）新利用漏洞样本分析及关联挖掘： https://www.anquanke.com/post/id/106311
+[ APT ]  Cisco Talos 针对 GravityRAT 的技术分析: https://blog.talosintelligence.com/2018/04/gravityrat-two-year-evolution-of-apt.html
+[ APT ]  ThaiCERT 查获了隐藏的 Cobra APT 组织的服务器，该服务器与 GhostSecret 行动，索尼影业被黑事件存在关联： https://threatpost.com/thaicert-seizes-hidden-cobra-server-linked-to-ghostsecret-sony-attacks/131498/
+[ APT ]  APT团伙（APT-C-01）新利用漏洞样本分析及关联挖掘： http://www.freebuf.com/articles/network/169855.html
+[ APT ]  “寄生兽”的极地行动：最新APT组织“寄生兽”活动披露: http://www.freebuf.com/articles/paper/169444.html
+[ APT ]  kaspersky 发布针对网络间谍活动 ZooPark 的研究报告，该活动主要瞄准中东地区的 Andriod 用户： https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/05/03114450/ZooPark_for_public_final_edit.pdf

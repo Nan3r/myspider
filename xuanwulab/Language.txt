@@ -1,0 +1,28 @@
+[ Language ]  Slides from my #Erlang security talk at #lambdaconf are now available. Look for a white paper for more in depth info http://www.securitymouse.com/research
+﻿" Erlang 语言的安全模型：  https://t.co/Vktn0V4Tq5  Slides： https://drive.google.com/file/d/0Bz8Lmg2kodQiRXYwWVpGNXQtdG5hNG5GaDFFNF9UNXp4UXo4/view?pref=2&pli=1 "
+[ Language ]  .@ gvanrossum announced (optional) static typing in #Python. #PyCon2016 #programming Slides: https://www.dropbox.com/s/efatwr0pozsargb/PyCon%20mypy%20talk%202016.pdf?dl=0 https://t.co/zinKI4l8kg
+﻿" Python 的静态类型支持，来自 PyCon 2016 会议 ︰ https://t.co/wQv2e69ITB https://t.co/zinKI4l8kg"
+[ Language ]  PostScript语言安全研究（一）ImageMagick新漏洞分析： http://drops.wiki/index.php/2016/10/15/postscript/
+[ Language ]  The slides for my high performance #golang workshop are online, http://talks.godoc.org/github.com/davecheney/high-performance-go-workshop/high-performance-go-workshop.slide#1 Enjoy!
+﻿"High Performance Go【PPT】: http://talks.godoc.org/github.com/davecheney/high-performance-go-workshop/high-performance-go-workshop.slide#6"
+[ Language ]  unicode同形字引起的安全问题： http://www.mottoin.com/90890.html
+[ Language ]  Redis Lua远程代码执行EXP： http://drops.wiki/index.php/2016/10/24/redis-lua/
+[ Language ]  Ruby Hacking Guide : http://ruby-hacking-guide.github.io/
+﻿"Ruby Hacking 指南︰ https://t.co/PdcU1evYof"
+[ Language ]  Step-by-step tutorial to build a modern JavaScript stack from scratch : https://github.com/verekia/js-stack-from-scratch
+﻿" 从头开始一步步构建现代的 JavaScript 技术栈 - ES6, Babel, Gulp, ESLint, React, Redux, Webpack, Immutable, Mocha, Chai, Sinon, Flow︰ https://t.co/fP9iPse3Vq"
+[ Language ]  Some notes on Luz - an assembler, linker and CPU simulator http://eli.thegreenplace.net/2017/some-notes-on-luz-an-assembler-linker-and-cpu-simulator/
+﻿"Luz 备忘 - 汇编器，链接器和CPU模拟器： https://t.co/AByEjfhKCd"
+[ Language ]  Getting started writing 6502 assembly language : https://skilldrick.github.io/easy6502/
+﻿" 6502 汇编语言入门︰ https://t.co/dhqGdraFrl"
+[ Language ]  近日,微软亚洲研究院在GitHub 上开源图数据查询语言LIKQ,它是基于分布式图数据处理引擎Graph Engine的可用于子图和路径查询的数据查询语言。LIKQ直接使用原生C#代码构建知识图谱语言,让海量图数据实时检索和集成触手可得： https://github.com/Microsoft/GraphEngine
+[ Language ]  Creating Easy to Read/Actionable stack traces for non-rusteceans w/ @ rustlang , and @ getsentry https://rust-lang.life/sentry-in-rust/
+﻿"调用栈回溯信息对于快速定位 Bug 非常有用，但和 Ruby 语言不同，Rust 语言的栈回溯不够直接和清晰，所以作者尝试解决这个问题： https://t.co/u5br2Am6Au "
+[ Language ]  Future of Java 8 Language Feature Support on Android : https://android-developers.googleblog.com/2017/03/future-of-java-8-language-feature.html TL;DR; jack discontinue, java 8 added to javac and dx
+﻿"Google 开发者官方 Blog 表示将在 Android 上提供对 Java 8 语言的支持︰ https://t.co/4aKKZtqSDn "
+[ Language ]  汇编语言的艺术: https://www.ic.unicamp.br/~pannain/mc404/aulas/pdfs/Art%20Of%20Intel%20x86%20Assembly.pdf
+[ Language ]  The Future of JavaScript Will Be Less JavaScript： https://codeburst.io/the-future-of-javascript-will-be-less-javascript-cea373eb57fd
+[ Language ]  Ruby 2.2.9 发布： https://www.ruby-lang.org/en/news/2017/12/14/ruby-2-2-9-released/
+[ Language ]  前天推送的 ruby 漏洞的细节： https://hackerone.com/reports/294462
+[ Language ]  go-internals - 深入理解 Go 语言（网络书籍，编写中）： https://github.com/teh-cmc/go-internals
+[ Language ]  Rust 语言入门介绍： https://stevedonovan.github.io/rust-gentle-intro/readme.html

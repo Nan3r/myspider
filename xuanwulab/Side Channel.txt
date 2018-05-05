@@ -1,0 +1,2 @@
+[ Side Channel ]  BranchScope - 定向分支预测器的新型侧信道攻击(Paper) ： http://www.cs.ucr.edu/~nael/pubs/asplos18.pdf
+[ Side Channel ]  BranchScope - 定向分支预测器的新型侧信道攻击(Paper)：  http://www.cs.ucr.edu/~nael/pubs/asplos18.pdf

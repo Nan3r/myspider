@@ -1,0 +1,84 @@
+[ ThirdParty ]  ffmpeg vuln: process malicious video file & exfiltrate local file contents. Affects servers & endpoints: http://permalink.gmane.org/gmane.comp.security.oss.general/18574
+﻿"ffmpeg 在处理视频文件 URL 时存在两个跨域漏洞（CVE-2016-1897/CVE-2016-1898），可以盗取本地文件: https://t.co/qqCwakj5qh"
+[ ThirdParty ]  Roaming through the OpenSSH client: CVE-2016-0777 and CVE-2016-0778 https://www.qualys.com/2016/01/14/cve-2016-0777-cve-2016-0778/openssh-cve-2016-0777-cve-2016-0778.txt via @ revskills
+﻿"OpenSSH 支持一个称为 'Roaming' 的特性，该特性未文档化，该特性允许在服务端连接意外断开时客户端重建挂起的 SSH 会话，目前仅被客户端支持，并且是默认支持启用。来自 Qualys 的安全公告显示： OpenSSH 5.4 (2010 年 3 月发布)后的所有版本 Roaming 特性实现过程中存在两个漏洞: CVE-2016-0777 信息泄露漏洞，恶意的 SSH 服务端可以盗取客户端的私钥； CVE-2016-0778 缓冲区溢出漏洞： https://t.co/x4f78Rd8zi"
+[ ThirdParty ]  OpenSSH CVE-2016-0777私钥窃取技术分析 - http://blogs.360.cn/blog/openssh-cve-2016-0777%E7%A7%81%E9%92%A5%E7%AA%83%E5%8F%96%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90/
+﻿"OpenSSH CVE-2016-0777 私钥窃取技术分析，来自 360 Blog，作者为云安全团队 au2o3t： https://t.co/vkcJWmOKkg"
+[ ThirdParty ]  Bypass PHP safe mode by abusing SQLite3’s FTS tokenizer : http://chichou.0ginr.com/blog/1336/abuse-sqlite3-ext-to-bypass-php-security-restrictions
+﻿"滥用 SQLite3 的 FTS tokenizer，绕过 PHP Safe Mode，来自 chichou Blog: https://t.co/xB1RpLcEvX"
+[ ThirdParty ]  Bypassing MiniUPnP Stack Smashing Protection http://blog.talosintel.com/2016/01/bypassing-miniupnp-stack-smashing.html
+﻿"Bypass MiniUPnP 库的 Stack Smashing 保护， MiniUPnp 用于使位于不同 NAT 防火墙内的两台设备互联互通， 来自 Talos Blog： https://t.co/z4cK4XCCRj"
+[ ThirdParty ]  Unpatched java bytecode injection in Spring Framework through untrusted deserialization, http://zerothoughts.tumblr.com/post/137831000514/spring-framework-deserialization-rce #java #server #0day
+﻿"Spring 框架 Java 反序列化 RCE，来自 Zero thoughts Blog：  https://t.co/04Fx4Z0xKn"
+[ ThirdParty ]  Finding a CSRF vulnerability in phpBB : https://www.landaire.net/blog/finding-a-csrf-vulnerability-in-phpbb/
+﻿"在 phpBB 框架中找一个 CSRF 漏洞: https://t.co/0M7UotWxJd"
+[ ThirdParty ]  OpenSSL Key Recovery Attack on DH small subgroups : http://intothesymmetry.blogspot.in/2016/01/openssl-key-recovery-attack-on-dh-small.html //CVE-2016-0701
+﻿"OpenSSL Key Recovery Attack on DH small subgroups（CVE-2016-0701）: https://t.co/IpGIEZgAsC "
+[ ThirdParty ]  OpenSSL Security Advisory (CVE-2016-0701) http://bit.ly/1QxvmaV
+﻿"OpenSSL 2016 年 1 月份的安全公告： https://t.co/zzFwnBzIsS"
+[ ThirdParty ]  Summing this up for you: Non-Chromium WebKit security for Linux is a tire fire. https://blogs.gnome.org/mcatanzaro/2016/02/01/on-webkit-security-updates/
+﻿"Michael Catanzaro 谈 Linux 发行版更新 WebKit 不及时的安全问题：  https://t.co/SxFbs5Wjwb"
+[ ThirdParty ]  openssl_seal() is prone to use uninitialized memory that can be turned into a code execution http://akat1.pl/?id=1
+﻿"openssl_seal()、 PHP 和 Apache2handle 的故事， 介绍了一个 openssl_seal 函数的为初始化内存漏洞转化代码执行的利用过程： https://t.co/9zhRsElV5T"
+[ ThirdParty ]  OpenSSL CVE-2016-0701私钥恢复攻击漏洞分析 - http://blogs.360.cn/blog/openssl%E7%A7%81%E9%92%A5%E6%81%A2%E5%A4%8D%E6%94%BB%E5%87%BB%E6%BC%8F%E6%B4%9Ecve-2016-0701%E5%88%86%E6%9E%90/
+﻿"OpenSSL CVE-2016-0701 私钥恢复攻击漏洞分析， 来自 360 Blog， 作者为 au2o3t： https://t.co/5nEXH6d5Jn"
+[ ThirdParty ]  Vulnerability Spotlight: Libgraphite Font Processing Vulnerabilities http://blog.talosintel.com/2016/02/vulnerability-spotlight-libgraphite.html
+﻿"Libgraphite 字体处理库存在多个漏洞（CVE-2016-1521/1522/1523/1526）， 该库在 Linux、 Firefox、 OpenOffice 中广泛使用， 来自 Talos 对该漏洞的分析： https://t.co/9u2boyyFXW"
+[ ThirdParty ]  ACEDcup : Payload generator for Java Binary Deserialization attack : https://github.com/GrrrDog/ACEDcup
+﻿"ACEDcup: Apache Commons FileUpload 1.3 以前版本 Java 反序列化攻击 Payload 生成器， Github Repo: https://t.co/rD5EMwTTAB"
+[ ThirdParty ]  A detailed write-up of WebKit's new B3 JIT, which replaces LLVM as the low-level optimiser for the FTL JIT https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/
+﻿"WebKit 新 JIT 编译器 B3 介绍， 来自 Webkit Blog： https://t.co/qlTtNWU0zQ"
+[ ThirdParty ]  RCE in Oracle NetBeans Opensource Plugins: PrimeFaces 5.x Expression Language Injection http://blog.mindedsecurity.com/2016/02/rce-in-oracle-netbeans-opensource.html
+﻿"Oracle NetBeans 开源插件 PrimeFaces 5.x 版本存在表达式注入 RCE 漏洞， 来自 Minded Security Blog： https://t.co/WxzG6bcnh0"
+[ ThirdParty ]  A Skeleton Key of Unknown Strength (CVE-2015-7547) : http://dankaminsky.com/2016/02/20/skeleton/ cc: @ dakami
+﻿"未知力量的万能钥匙 (glic DNS Bug CVE-2015-7547): https://t.co/Hlpkq4bxe8 "
+[ ThirdParty ]  Breaking homegrown crypto : https://kivikakk.ee/cryptography/2016/02/20/breaking-homegrown-crypto.html
+﻿"PHP 框架 CodeIgniter 的加解密模块的破解: https://t.co/osR1RSOL73"
+[ ThirdParty ]  Writeup for my Jenkins pre-authentication RCE (CVE-2016-0792), which attacks XStream: https://www.contrastsecurity.com/security-influencers/serialization-must-die-act-2-xstream
+﻿"Jenkins 反序列化库 XStream RCE (CVE-2016-0792)， 来自 Contrast Security Blog:  https://t.co/mCapYcxYBM"
+[ ThirdParty ]  OpenSSL CVE-2016-0799: heap corruption via BIO_printf https://guidovranken.wordpress.com/2016/02/27/openssl-cve-2016-0799-heap-corruption-via-bio_printf/ #exploitdev #hacking #infosec https://t.co/Qk1RDUnJaP
+﻿"OpenSSL BIO_printf 堆破坏漏洞（CVE-2016-0799）:  https://t.co/2FhLdGR7Kb 修复后的版本还没有发布， Github 上的代码 Patch： https://github.com/openssl/openssl/commit/9cb177301fdab492e4cfef376b28339afe3ef663  https://t.co/Qk1RDUnJaP"
+[ ThirdParty ]  OpenSSL CVE-2016-0800和CVE-2016-0703漏洞修复细节拾趣 - http://blogs.360.cn/blog/openssl-cve-2016-0800%e5%92%8ccve-2016-0703%e6%bc%8f%e6%b4%9e%e4%bf%ae%e5%a4%8d%e7%bb%86%e8%8a%82%e6%8b%be%e8%b6%a3/
+﻿"OpenSSL CVE-2016-0800 和 CVE-2016-0703 漏洞修复细节拾趣, 来自 360 Blog: https://t.co/wLnyDHVjWM"
+[ ThirdParty ]  RSAC2016Presentation: OpenSSL after HeartBleed. http://ow.ly/Z3uF0
+﻿"RSA 2016 会议演讲： HeartBleed 漏洞之后的 OpenSSL :  https://t.co/8SFkMv6kAo"
+[ ThirdParty ]  Malformed Private Keys Lead To Heap Corruption In Openssl’s B2i_pvk_bio : https://wartalker.me/a/56d62d1aeff2a2688884a075
+﻿"特殊构造的私钥文件可以触发 OpenSSL B2i_pvk_bio 函数堆破坏， Blog:  https://t.co/sfAWELLF9m"
+[ ThirdParty ]  (CVE-2016-1234) - glob: buffer overflow with GLOB_ALTDIRFUNC due to incorrect NAME_MAX limit assumption https://sourceware.org/bugzilla/show_bug.cgi?id=19779
+﻿"glibc 2.24 GLOB_ALTDIRFUN 不正确处理 NAME_MAX 造成缓冲区溢出(CVE-2016-1234): https://t.co/kGIInqdFWe "
+[ ThirdParty ]  (Another analysis) CVE 2015-7547 glibc getaddrinfo() vuln analysis https://labs.jumpsec.com/2016/03/07/cve-2015-7547-glibc-getaddrinfo-dns-vulnerability/
+﻿"来自 JumpSec Labs 对 CVE-2015-7547 glibc getaddrinfo() 漏洞的分析: https://t.co/b6VG2h0tJw"
+[ ThirdParty ]  Memory Corruption Vulnerability in "libotr" https://www.x41-dsec.de/lab/advisories/x41-2016-001-libotr/
+﻿" OTR 加密消息传输协议实现库 libotr 内存破坏漏洞, 来自 X41-D Sec 的公告: https://t.co/5038DEJhFq "
+[ ThirdParty ]  Several out of bounds reads in ProFTPD https://blog.fuzzing-project.org/40-Several-out-of-bounds-reads-in-ProFTPD.html Ceterum censeo test your C code with ASAN!
+﻿"ProFTPD 几个内存越界读漏洞，这些漏洞由 Hanno Böck  通过 Address Sanitizer Fuzz 出来的： https://t.co/M1BJRt22b1 "
+[ ThirdParty ]  PyYAML 对象类型解析导致的命令执行问题 - http://blog.knownsec.com/2016/03/pyyaml-tags-parse-to-command-execution/ by RickGray
+﻿"PyYAML 对象类型解析导致的命令执行问题 - https://t.co/pJfwtqIYK8 "
+[ ThirdParty ]  CVE-2016-3116 - Dropbear SSH xauth injection http://goo.gl/fb/BNJ2Cc #FullDisclosure
+﻿"Dropbear SSH 存在 xauth 注入漏洞（CVE-2016-3116）， 来自 FullDisclosure 的公告： https://t.co/bGp231EGRS "
+[ ThirdParty ]  new blog post: SQLite with a Fine-Toothed Comb http://blog.regehr.org/archives/1292
+﻿"SQLite 有一把齿非常密的梳子： https://t.co/16sM7fkgnz  这篇 Blog 分析作者发现的 SQLite 的几个 '未定义行为' 的 Bug"
+[ ThirdParty ]  AsusTEK asio.sys unsafe operation http://goo.gl/fb/IagPJL #FullDisclosure
+﻿"Windows 本身的安全性一直在提高,但第三方厂商可不是, 这次看看华硕 ASIO 驱动, Blog:   https://t.co/rMh5qklMTH "
+[ ThirdParty ]  The Six Types of Open-Source Library Vulnerabilities - https://blog.srcclr.com/the-six-types-of-open-source-library-vulnerabilities/
+﻿"开源库漏洞的 6 种类型， 不是指漏洞本身的类型（信息泄露、类型混淆， UAF等）， 而是指漏洞引入的类型， 包括 0Day， 继承来的、 相似漏洞等： https://t.co/D7PHCwp6zh"
+[ ThirdParty ]  Remote Code Execution in Apache OpenMeetings : http://haxx.ml/post/141655340521/all-your-meetings-are-belong-to-us-remote-code cc: @ addelindh
+﻿"Apache OpenMeetings 开源视频会议、协作系统远程代码执行漏洞 ︰ https://t.co/7huG9ZfBtq "
+[ ThirdParty ]  [Bug Bounty] http://Uber.com 遠端代碼執行 - Remote Code Execution via Flask Jinja2 Template Injection http://blog.orange.tw/2016/03/bug-bounty-ubercom-ubercom-remote-code.html?m=1
+﻿"Uber.com Bug Bounty 计划之 Flask Jinja2 模板注入远程代码执行漏洞： https://t.co/4RsifuGz4Q"
+[ ThirdParty ]  Shopping cart app @ ZenCart patched a handful of XSS bugs this month - http://ow.ly/100Wv3
+﻿"开源电商系统 ZenCart 本月修复了多个 XSS 漏洞， 来自 ThreatPost 的报道： https://t.co/s6qy2HJ2nI"
+[ ThirdParty ]  CENSUS advisory on a Kamailio (SIP server) remote heap buffer overflow (CVE-2016-2385): https://census-labs.com/news/2016/03/30/kamailio-seas-heap-overflow/
+﻿"Kamailio （SIP 服务器） 远程堆缓冲区溢出漏洞 (CVE-2016-2385)，Kamailio 是 SIP 信令服务器的一个开源实现， 来自 CENSUS 的公告:  https://t.co/9FXbXeRYdY"
+[ ThirdParty ]  Vulnerability Spotlight: Lhasa (LZH/LHA) Integer Underflow Exploit http://blogs.cisco.com/security/talos/vulnerability-spotlight-lhasa-integer-underflow-exploit
+﻿"Talos 发现了一个 Lhasa 压缩工具（库）的一个整数下溢漏洞（CVE-2016-2347）： https://t.co/VxiKiV6ZPe"
+[ ThirdParty ]  Python v2.7 v1.5.4 iOS - Filter Bypass & Persistent Vulnerability http://goo.gl/fb/7wIVj2 #FullDisclosure
+﻿"Python v2.7 v1.5.4 iOS 执行环境存在过滤器绕过和一个持久型注入漏洞， 来自 FullDisclosure 的公告：   https://t.co/Km00kvwXyf "
+[ ThirdParty ]  new SSL test framework in OpenSSL https://github.com/openssl/openssl/commit/453dfd8d5ee0893146e0fb61a5978ab59ba95c01
+﻿"OpenSSL 官方代码库中加入了一个新的测试框架， Github Commit 日志：  https://t.co/EFJcaGZCz0"
+[ ThirdParty ]  Oops, nice gcc bug. https://bugzilla.redhat.com/show_bug.cgi?id=1262846 #bughappens
+﻿"gcc std::random_device 随机性可预测漏洞（CVE-2015-5276）： https://t.co/OaFmvzWJND"
+[ ThirdParty ]  CVE Request: Qemu: net: buffer overflow in MIPSnet emulator: Hello, Qemu emulator built with the MIPSnet c... http://bit.ly/1qKBSDw
+﻿"CVE 申请: Qemu MIPSnet 模拟器缓冲器溢出： https://t.co/XKTyoN8wjz  Patch： https://lists.gnu.org/archive/html/qemu-devel/2016-04/msg01131.html   RedHat 的 Bug 追踪： https://bugzilla.redhat.com/show_bug.cgi?id=1326082 "
+[ ThirdParty ]  Django CMS v3.2.3 - Filter Bypass & Persistent Vulnerability http://goo.gl/fb/P0rV7O #FullDisclosure
+﻿"Django CMS v3.2.3 过滤器绕过 & 永久性注入漏洞： https://t.co/0yMWjVdjdA  "

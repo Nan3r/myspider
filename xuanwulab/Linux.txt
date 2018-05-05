@@ -1,0 +1,808 @@
+[ Linux ]  CVE-2014-2851 Linux Kernel group_info UAF Exploitation https://cyseclabs.com/page?n=02012016
+﻿"Linux 内核 group_info UAF 漏洞利用（CVE-2014-2851） https://t.co/AJDk9aJVtO "
+[ Linux ]  Blog Post: Compiler-Introduced Double-Fetch Vulnerabilities – Understanding XSA-155 - http://tkeetch.co.uk/blog/?p=58
+﻿"编译器引入的 Double-Fetch 漏洞（XSA-155），共享内存应该被标记为 volatile，避免编译器优化引入 Double-Fetch Bug:  https://t.co/3CKTrJkIUl"
+[ Linux ]  "Linux Kernel pptp_bind() pptp_connect() Validation Flaw Lets Local Users View Portions of System Memory" http://www.securitytracker.com/id/1034549
+﻿"Linux 内核 pptp_bind() pptp_connect() 验证缺陷允许本地用户查看部分的系统内存(CVE-2015-8569)： https://t.co/MebPn0TnIE"
+[ Linux ]  [local] - Ubuntu 14.04 LTS, 15.10 overlayfs - Local Root Exploit: Ubuntu 14.04 LTS, 15.10 overlayfs - Local Ro... http://bit.ly/1mzKFGg
+﻿"Ubuntu 14.04 LTS， 15.10 overlayfs 本地 Root 提权 PoC :  https://t.co/JlpCw710Jh "
+[ Linux ]  Amanda 3.3.1 local root exploit (0day) https://github.com/HackerFantastic/Public/blob/master/exploits/amanda-backup.txt - fun for all the family on Monday.
+﻿"Amanda 3.3.1 本地 Root Exploit (0Day) https://t.co/82vEeJLa1M "
+[ Linux ]  Write a filesystem with FUSE - http://engineering.facile.it/write-filesystem-fuse/
+﻿"利用 FUSE 写一个文件系统 - https://t.co/eVV276TS72"
+[ Linux ]  Minnowboard Max: Enable the firmware (TXE) TPM 2.0 http://prosauce.org/blog/2016/1/11/minnowboard-max-enable-and-test-the-firmware-txe-tpm-20
+﻿"在 Intel Minnowboard MAX 开发板上启用固件 TPM 2.0  https://t.co/wRretxZ8qB"
+[ Linux ]  A type-safe and zero-allocation library for reading and navigating ELF files in Rust - http://www.ncameron.org/blog/a-type-safe-and-zero-allocation-library-for-reading-and-navigating-elf-files/
+﻿"一个类型安全和零内存分配的 ELF 解析、导航库， Rust 语言编写： https://t.co/KduYwKWUIf"
+[ Linux ]  Here's an implementation of a SMM rootkit based on an idea by @ coreykal @ xenokovah et al.: http://bit.ly/1RNPBCK https://t.co/Yp0WOCkgwE
+﻿"SMM Rookit 的实现（Linux），作者看到今年 BlackHat USA 《Extreme Privilege Escalation on Windows 8/UEFI Systems》 的演讲后，自己在 Linux 实现了一个 SMM Rootkit: https://t.co/Yp0WOCkgwE https://t.co/ARluAzDaho"
+[ Linux ]  My presentation: Linux Security for Developers (introduction) - http://www.slideshare.net/MichaelBoelen/linux-security-for-developers PDF: https://cisofy.com/files/public/presentation-linux-security-for-developers.pdf #linux #developer
+﻿"面向开发者的 Linux 安全指南： https://t.co/UII0ROUObL  https://t.co/BQv2e9vN77"
+[ Linux ]  All about Linux signals : http://www.linuxprogrammingblog.com/all-about-linux-signals?page=show
+﻿"Linux signals: https://t.co/ucO5s8tszO"
+[ Linux ]  Analysis and PoC for #Linux #Kernel privilege escalation vulnerability CVE-2016-0728 http://bit.ly/1QbIqCx https://t.co/Osp4s03I4O
+﻿"Linux 内核 Keyrings 本地提权漏洞的分析和利用（附 PoC）（CVE-2016-0728），来自 Perception Point Blog: https://t.co/Osp4s03I4O https://t.co/fJBFN3p25A "
+[ Linux ]  2015 Linux kernel CVE list: http://www.openwall.com/lists/kernel-hardening/2016/01/19/1
+﻿"Linux 内核 2015 年漏洞 CVE 列表，来自 Openwall 公告: https://t.co/lzJbPluEoz"
+[ Linux ]  Linux eBPF stack trace hack : http://www.brendangregg.com/blog/2016-01-18/ebpf-stack-trace-hack.html cc: @ brendangregg
+﻿"通过一点小技巧让 Linux 支持 eBPF stack trace， eBPF 指的是 extensible Berkeley Packet Filter: https://t.co/omJya74Vx9 "
+[ Linux ]  Tracking Protection In Wi-Fi Networks Coming Soon To Linux : https://blogs.gnome.org/lkundrak/2016/01/18/networkmanger-and-tracking-protection-in-wi-fi-networks/
+﻿"Wi-Fi 网络的跟踪保护功能很快将会出现在 Linux 系统: https://t.co/W1gW8mrCSY"
+[ Linux ]  Linux Kernel Return Oriented Programming (Part 1) : https://cyseclabs.com/page?n=17012016
+﻿"Linux 内核 ROP Part 1，这篇 Blog 介绍如何构造 Linux 内核 ROP 链实现提权: https://t.co/koqAVD3UeG"
+[ Linux ]  NTP Stats Directory Cleanup Cronjob Root Privilege Escalation http://www.halfdog.net/Security/2015/NtpCronjobUserNtpToRootPrivilegeEscalation/
+﻿"NTP 状态统计目录定时清理脚本存在漏洞，可以允许攻击者 Root 提权： https://t.co/9JPReXZ2yf"
+[ Linux ]  Security Analysis of Linux Kernel Features for Embedded Software Systems in Vehicles https://hal.archives-ouvertes.fr/hal-01193025/document
+﻿"车载嵌入式系统中 Linux 内核在保护用户态应用方面的一些安全特性， Paper： https://t.co/4w5QStJeZQ"
+[ Linux ]  My PoC for FreeBSD-SA-16:01.sctp/CVE-2016-1879 #ICMPv6 #SCTP DOS: https://gist.github.com/takeshixx/5bdd15e3d450c1e29b06 https://www.freebsd.org/security/advisories/FreeBSD-SA-16:01.sctp.asc #FreeBSD #IPv6
+﻿"FreeBSD SCTP ICMPv6 error message 处理漏洞 (CVE-2016-1879) PoC : https://t.co/BP3nGRys3t   https://t.co/qxrbCTqwqv 另外一篇来自 Positive Research Center 的 Blog 参考： http://blog.ptsecurity.com/2016/01/severe-vulnerabilities-detected-in.html?m=1 "
+[ Linux ]  Multiple vulnerabilities in AMR ioctl handler: https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=206579
+﻿"FreeBSD AMR 设备 ioctl handler 存在多个漏洞: https://t.co/UTuwjvLZOK"
+[ Linux ]  Exploiting a Linux Kernel Infoleak to bypass Linux kASLR https://marcograss.github.io/security/linux/2016/01/24/exploiting-infoleak-linux-kaslr-bypass.html
+﻿"利用一个 Linux 内核信息泄露漏洞绕过 kASLR，据作者说，这个漏洞可能之前已经被多个人知道，但 Linux 社区没怎么关注。来自 marcograss Blog： https://t.co/Jn8QJOzlg6"
+[ Linux ]  Possible kernel buffer overflow in hpt_set_info: https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=206585
+﻿"Linux hpt_set_info 内核缓冲区溢出: https://t.co/tKtJj2jpRm"
+[ Linux ]  Integer overflow in nfssvc system call: https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=206626
+﻿"nfssvc 系统调用整数溢出漏洞，来自 FreeBSD Bugzilla: https://t.co/fb9t3Al16X"
+[ Linux ]  Linux Kernel - prima WLAN Driver Heap Overflow : https://www.exploit-db.com/exploits/39308/
+﻿"Linux 内核 WLAN 驱动堆溢出漏洞 PoC（CVE-2015-0569），这个漏洞也影响 Android : https://t.co/tC7UFuLxJQ 另外这次修复的还有其他几个 WLAN 驱动漏洞： https://www.codeaurora.org/projects/security-advisories/multiple-issues-wlan-driver-allow-local-privilege-escalation-cve-2015 "
+[ Linux ]  Linux Kernel initialization (Part 1) : https://github.com/0xAX/linux-insides/blob/master/Initialization/linux-initialization-1.md //linux-inside series cont'd cc: @ 0xAX
+﻿"Linux-Insides 系列： Linux 内核初始化 (Part 1): https://t.co/jfieQz3MDE "
+[ Linux ]  Linux Kernel Initialization Bug in vivid_fb_ioctl() http://www.securitytracker.com/id/1034893 #linux #kernel #vuln #exploitdev #hacking #infosec
+﻿"Linux 内核 vivid_fb_ioctl() 存在 Bug, 允许本地用户查看内核内存信息，来自 SecurityTracker： https://t.co/bkib2TMQAU "
+[ Linux ]  Slides from my #FOSDEM2016 presentation about Jetpack, a container runtime for FreeBSD: https://speakerdeck.com/mpasternacki/jetpack-a-container-runtime-for-freebsd-1
+﻿"Jetpack - 运行在 FreeBSD 系统的容器: https://t.co/grRtuIgAcG"
+[ Linux ]  Neat effect for an integer truncation bug: http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=3625c2c234ef66acf21a72d47a5ffa94f6c5ebf2
+﻿"Linux 内核一个整数截断 Bug 的 Patch: https://t.co/KYyK8bobKo"
+[ Linux ]  Injecting code into running process with linux-inject : https://lkubuntu.wordpress.com/2016/01/31/injecting-code-into-running-process-with-linux-inject/
+﻿"Linux-inject - 向正在运行的进程注入代码， 来自 lkubuntu Blog: https://t.co/wldqHFMyyJ"
+[ Linux ]  Presentation by the "rootkit hunter guy", about intrusion detection and handling. http://www.slideshare.net/MichaelBoelen/handling-of-compromised-linux-systems PDF: http://michaelboelen.com/presentations/
+﻿"Linux 入侵检测与防御 - 攻击者是如何进来的、 Rootkit 在哪、 恶意软件如何应对、 如何做好防御。 Slides: https://t.co/uCOm0sWOL4 PDF: https://t.co/iqoC9ixC9u"
+[ Linux ]  #MalwareMustDie #BLOG: MMD-0052-2016 - SkidDDOS #ELF infection Jan-Feb 2016 http://blog.malwaremustdie.org/2016/02/mmd-0052-2016-skidddos-elf-distribution.html Tks 4GREATdata! https://t.co/94Psf3lDyB
+﻿"SkidDDoS 样本 2016 1-2 月份的感染情况，  来自 MalwareMustDie Blog：  https://t.co/RlDQxqhV3d "
+[ Linux ]  randkit : Random number rootkit for the Linux kernel : https://github.com/vrasneur/randkit
+﻿"randkit - 通过影响 Linux 内核随机数实现的 rootkit Demo， Github Repo： https://t.co/7CwQ8WKmqq"
+[ Linux ]  Linux kernel bug delivers corrupt TCP/IP data to Mesos, Kubernetes, Docker containers - https://medium.com/vijay-pandurangan/linux-kernel-bug-delivers-corrupt-tcp-ip-data-to-mesos-kubernetes-docker-containers-4986f88f7a19#.ap6wf48vm
+﻿"Linux 内核中的 Bug 导致使用 veth 网卡设备的容器（如 Docker）将损坏的 TCP/IP 数据传递给应用层： https://t.co/z55Z729yre"
+[ Linux ]  Linux System Call CheatSheet (Quick Reference) : http://www.digilife.be/quickreferences/qrc/linux%20system%20call%20quick%20reference.pdf ,Fascinating World of Linux System Calls : https://sysdig.com/fascinating-world-linux-system-calls/
+﻿"Linux 系统调用参考手册（PDF）: https://t.co/S088chefrP Linux 系统调用的迷人世界, 来自 SysDig Blog: https://t.co/svcJcgGYqj"
+[ Linux ]  #Tools to scan a #Linux server for #Malware & #Rootkit https://www.howtoforge.com/tutorial/how-to-scan-linux-for-malware-and-rootkits/ #MalwareMustDie #Tips https://t.co/owh6uK6E1C
+﻿"用于扫描 Linux 恶意软件、 Rootkit 的 3 款工具： Chkrootkit, Rkhunter and ISPProtect， 使用指南： https://t.co/nWU9v4PH2d  "
+[ Linux ]  Do you run Linux and perform DNS queries? Check this glibc RCE (CVE-2015-7547) https://googleonlinesecurity.blogspot.com/2016/02/cve-2015-7547-glibc-getaddrinfo-stack.html and PoC https://github.com/fjserna/CVE-2015-7547
+﻿"glibc getaddrinfo 栈缓冲区溢出 RCE (CVE-2015-7547)， 影响 2.9 以上所有版本。 来自 Google Online Security Blog： https://t.co/yfyWogU7EH  PoC： https://t.co/FweNyG8fOf"
+[ Linux ]  Ntpd ntp-4.2.6p5 ctl_putdata() Buffer Overflow https://cxsecurity.com/issue/WLB-2016020152
+﻿"Ntpd ntp-4.2.6p5 ctl_putdata() 缓冲区溢出漏洞（附 PoC），  来自 CXSecurity： https://t.co/teaQLe0ipD"
+[ Linux ]  Investigating a Compromised Server with Rootcheck https://blog.sucuri.net/2016/02/investigating-a-compromised-server-with-rootcheck.html -> Pushed some nice updates to OSSEC rootcheck.
+﻿"通过 Rootcheck 工具检查 Linux/BSD 系统是否被入侵： https://t.co/4xiVGwoeYU"
+[ Linux ]  Linux Mint ISOs were replaced with trojanized versions : http://blog.linuxmint.com/?p=2994
+﻿"Linux Mint 官方 Blog 发表声明： 2 月 20 号下载 Mint ISO 镜像的用户请检查镜像的完整性， 有可能下载到的是黑客修改过的后门版本: https://t.co/IsjEKZ7wzA"
+[ Linux ]  CVE-2016-2384 arbitrary code execution due to a double-free in the usb-midi linux kernel driver - https://xairy.github.io/blog/2016/cve-2016-2384 bonus: SMEP bypass
+﻿"Linux 内核 USB MIDI 驱动程序 Double Free 漏洞(CVE-2016-2384)，利用这个漏洞实现任意代码执行，作者提供了可以绕过 SMEP 的 PoC。Blog:  https://t.co/QfhW4oOecp "
+[ Linux ]  “USB hub malformed packets causes null pointer dereference - Linux” or “in out, in out, shake it all about: b00m!” http://www.spinics.net/lists/linux-usb/msg132311.html
+﻿""USB Hub 畸形数据包触发 Linux 内核空指针解引用， 来自 Spinics 邮件列表：   https://t.co/VI9b1ZghoA"
+[ Linux ]  50 Shades of System Calls https://sysdig.com/50-shades-of-system-calls/ https://t.co/8cKgn9oCKo
+﻿"系统调用的 50 个色调， 根据调用次数不同，划分成不同的色调。 来自 SysDig Blog： https://t.co/uNXb9XbhMz https://t.co/8cKgn9oCKo"
+[ Linux ]  My presentation slides from today's @ sectalks_MEL are up! "Escape from SHELLcatraz" available here: https://speakerdeck.com/knaps/escape-from-shellcatraz-breaking-out-of-restricted-unix-shells #infosec #unix
+﻿"从受限的 Unix Shell 中逃逸: https://t.co/2ePzRKcheJ "
+[ Linux ]  Linux 64-bit io_submit L2TP sendmsg integer overflow: https://code.google.com/p/google-security-research/issues/detail?id=735
+﻿"Linux 64-bit 内核 io_submit L2TP sendmsg 整数溢出漏洞， 成功利用该漏洞可以实现本地提权。 来自 Project Zero Issue 735: https://t.co/MvFt5x2Uj5"
+[ Linux ]  Cyborg Hawk Linux – Penetration Testing Linux Distro http://www.darknet.org.uk/2016/03/cyborg-hawk-linux-penetration-testing-linux-distro/
+﻿"Cyborg Hawk Linux - 用于渗透测试的 Linux 发行版（含 ISO 下载链接）：  https://t.co/KUgjU2NYXq"
+[ Linux ]  Some research my coworker @ vavrusam and I did on different glibc attacks and a handy-dandy DNS cache traversal: https://blog.cloudflare.com/a-tale-of-a-dns-exploit-cve-2015-7547/
+﻿"DNS CVE-2015-7547 Exploit 的故事，以及为什么限制 DNS 响应数据包的大小不能缓解攻击。 来自 CloudFlare Blog:  https://t.co/xDOuLE7HSV "
+[ Linux ]  We've released the PS4 kexec-style code to load the Linux kernel from Orbis OS. https://github.com/fail0verflow/ps4-kexec (exploit not included)
+﻿"作者实现了一个 PS4 Orbis OS kexec 系统调用,通过这个系统调用可以直接在 FreeBSD 中引导 Linux 内核:  https://t.co/kEaCRRmNTE "
+[ Linux ]  80 Linux Monitoring Tools for SysAdmins https://blog.serverdensity.com/80-linux-monitoring-tools-know/
+﻿"Linux 系统 80 个监控工具： https://t.co/PJooJOVqRU"
+[ Linux ]  Nice article on 'breaking' kernel aslr for Linux: https://github.com/xairy/kaslr-bypass-via-prefetch by @ andreyknvl
+﻿"通过 Prefetch 指令绕过 Linux 内核 KASLR， PoC：  https://t.co/kaD6NjzVOo"
+[ Linux ]  STRUCTLEAK already prevented this MIPS stack infoleak: http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=e723e3f7f9591b79e8c56b3d7c5a204a9c571b55
+﻿"本次的 Linux 内核 Git 提交修复了一个 MIPS SIGFPE 内核栈信息泄露的 Bug: https://t.co/8E8y5LM0HF"
+[ Linux ]  Hella useful syscall table: http://syscalls.kernelgrok.com/
+﻿"Linux 内核系统调用表（除了系统调用号，还包括各寄存器参数信息、对应代码文件行数）: https://t.co/8ikGzmLJ4k"
+[ Linux ]  Let's code a TCP/IP stack (Part 1) : Ethernet & ARP : http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp
+﻿"自己写一个微型 TCP/IP 协议栈 Part 1: 以太网与 ARP， Blog:  https://t.co/hWmTyvFfaD"
+[ Linux ]  erebus : A reverse engineering tool suite for linux : https://github.com/SuppenGeist/erebus
+﻿"erebus - Linux 平台逆向工具套件，开源， Github Repo: https://t.co/4wPOlBzc8T"
+[ Linux ]  Linux netfilter IPT_SO_SET_REPLACE memory corruption: https://code.google.com/p/google-security-research/issues/detail?id=758
+﻿"Linux netfilter IPT_SO_SET_REPLACE 内存破坏漏洞, 来自 Project Zero Issue 758: https://t.co/M3AAmoRTQC"
+[ Linux ]  Sigreturn-oriented programming and its mitigation - https://lwn.net/Articles/676803/ https://lkml.org/lkml/2016/2/6/166
+﻿"SROP(Sigreturn-oriented programming) 攻击以及缓解技术: https://t.co/B0amp4H94J https://t.co/4ib1e6epEn  关于 SROP, 红黑联盟网站有一篇文章参考: http://www.2cto.com/Article/201512/452080.html "
+[ Linux ]  "Executing BSD ELFs on Windows"; blog post about the less-explored details of doing it! http://blog.ghettoha.xxx/executing-bsd-elfs-in-windows/
+﻿"在 Windows 系统通过环境模拟的方法执行 BSD ELF 文件， Blog：   https://t.co/bl2M3z2dFj"
+[ Linux ]  X11Forwarding is enabled by default on AMZ Linux, RH/Cent 6.x, Oracle, some Debian, but exploit needs local auth. https://twitter.com/damienmiller/status/707902149250822144
+﻿"Linux OpenSSH 7.2P2 之前版本 xauth 命令注入漏洞，利用这个漏洞可以实现以认证用户身份读取文件、写任意文件、端口探测等： http://www.openssh.com/txt/x11fwd.adv 升级 7.2P2 版本可以修复该漏洞： http://www.openssh.com/txt/release-7.2p2  临时的缓解方法是：配置 OpenSSH sshd_config  X11Forwarding=no "
+[ Linux ]  CVE request -- linux kernel: crash on invalid USB device descriptors (cypress_m8 driver): Hello, If possible, ... http://bit.ly/1YFWxUt
+﻿"Linux 内核 CVE 申请︰ 无效的 USB 设备描述符使内核 Crash （cypress_m8 驱动程序）：  https://t.co/t5nOlGjdPo"
+[ Linux ]  Here it comes: "ELF: dynamic struggles" http://michalmalik.github.io/elf-dynamic-segment-struggles cc @ radareorg @ timstrazz
+﻿"ELF: dynamic struggles， ELF 文件格式中动态链接相关信息在不同分析工具中的处理是不同的， Blog：   https://t.co/VIZjnWkxOC "
+[ Linux ]  Lots of Gnome apps use insecure connections and vulnerable WebKit https://blogs.gnome.org/mcatanzaro/2016/03/12/do-you-trust-this-application/
+﻿"目前还有很多的 Gnome 应用没有使用 HTTPS 连接，以及使用存在漏洞的 WebKit 版本。 来自 Gnome Blog： https://t.co/HX6XOTIXu5"
+[ Linux ]  Linux Kernel Exploitation : https://jon.oberheide.org/files/source10-linuxkernel-jonoberheide.pdf (Slides) #b2b
+﻿"Linux 内核漏洞利用技术， 来自 2010 年的 SOURCE 会议︰  https://t.co/psFPKgNoVr "
+[ Linux ]  Timers and time management in Linux kernel - Intro to clockevents framework : https://github.com/0xAX/linux-insides/blob/master/Timers/timers-5.md //Linux-inside series cont'd cc: @ 0xAX
+﻿"Linux-Insides 系列文章 - 内核定时器和时间管理 - 时钟事件框架简介 ︰  https://t.co/PN8rIXmusc "
+[ Linux ]  Linux Filesystem Poster for Novices* : http://imgur.com/yWfCliF https://t.co/VRfdWmdvYl
+﻿"一张图展示 Linux 文件系统的目录结构: https://t.co/gy6EzXzykF https://t.co/VRfdWmdvYl"
+[ Linux ]  Slides from yesterday's talks at kTLV on Linux tracing and Windows internals: https://s.sashag.net/ktlv0316 (demo scripts in the slide notes)
+﻿"现代 Linux 系统的执行路径跟踪技术（Tracing）： https://www.dropbox.com/sh/zn4w6hkjkvlyaom/AABJv0iElA7idHxD5_b1yqp5a/Modern_Linux_Tracing_Landscape.pptx?dl=0    写给 Linux 内核开发者的 Windows 内幕介绍： https://www.dropbox.com/sh/zn4w6hkjkvlyaom/AACatbQEfKJR5h2U8l_iPc8Pa/Windows_Internals_for_Linux.pptx?dl=0 "
+[ Linux ]  A New, In-Kernel Debugger Proposed For Linux 4.6 http://www.phoronix.com/scan.php?page=news_item&px=In-Kernel-Debugger-Linux-4.6 #linux #kernel #debugger #exploitdev #hacking #infosec @ phoronix
+﻿" Linux 内核 4.6 版本将加入一个 'In-Kernel Debugger' 新特性： https://t.co/VxL5SqPZlX "
+[ Linux ]  CVE-2016-2117 memory disclosure to ethernet due to unchecked scatter/gather IO Affects: atheros http://seclists.org/oss-sec/2016/q1/658
+﻿"Linux 内核以太网卡驱动 scatter/gather IO (NETIF_F_SG）内存泄漏（CVE-2016-2117）：  https://t.co/NiwkTJ2UEe"
+[ Linux ]  x86_64 related clock sources : Timers & time management in Linux kernel(Part 6) : https://github.com/0xAX/linux-insides/blob/master/Timers/timers-6.md cc: @ 0xAX //linux-inside cont'd
+﻿"Linux-Insides 系列文章： Linux 内核的定时器和时间管理 Part 6 - x86_64 相关的时钟源 : https://t.co/6WOxAhoXVy"
+[ Linux ]  Intel memory protection extensions( intel mpx ) for linux - https://01.org/blogs/2016/intel-mpx-linux #mpx #intel #linux
+﻿"Linux 应用程序如何使用 Intel MPX（内存保护扩展）：   https://t.co/O6Fb3JFR1f  "
+[ Linux ]  You can install a GSM network with a single command now - $sudo apt-get install gsm-network - ref: https://tracker.debian.org/news/755641 #osmocom #gsm
+﻿"Debian 支持一键安装 openbsc 相关组件了: $sudo apt-get install gsm-network ︰ https://t.co/RH19mQ3peX "
+[ Linux ]  LibHeap - python library for examining the glibc heap https://github.com/cloudburst/libheap via @ rotlogix
+﻿"LibHeap - 用于分析 glibc 堆结构的 GDB 调试脚本, Python 语言编写,可以在 GDB 中直接 Import: https://t.co/PlFTcg8R6A "
+[ Linux ]  Securing Debian Manual : https://www.debian.org/doc/manuals/securing-debian-howto/securing-debian-howto.en.pdf (pdf)
+﻿"Debian 安全加固手册 ︰ https://t.co/3Izu0BqK55 "
+[ Linux ]  Analyzing Samba with PVS-Studio on Linux. http://emacsdump.blogspot.ru/2016/03/running-pvs-studio-on-samba.html (#samba, #pvsstudio, #opensource, #codeanalysis, #programming)
+﻿"用 PVS-Studio 在 Linux 平台分析 Samba 项目： https://t.co/gGhwv2norX "
+[ Linux ]  An automated script that download potential exploit for linux kernel from exploitdb, and compile them automatically https://github.com/ngalongc/AutoLocalPrivilegeEscalation
+﻿"Linux 内核本地提权自动化脚本，自动探测环境，从 exploitdb 下载 Exploit，编译运行， Github Repo： https://t.co/BqKFd0No23"
+[ Linux ]  Advanced Linux Programming Book : http://advancedlinuxprogramming.com/alp-folder/
+﻿"Linux 高级编程（书， PDF） ︰ https://t.co/KMKBcafGSt"
+[ Linux ]  From AArch32 to AArch64 and back : https://github.com/deroko/switch and detailed description https://github.com/deroko/switch/blob/master/switch.txt
+﻿"从 AArch32 调用 AArch64（也能切换回来） ︰ https://t.co/u9OhBZNJXy 详细的描述文档： https://t.co/goRlqbc72X"
+[ Linux ]  Fishing for Hackers: Analysis of a Linux Server Attack https://sysdig.com/blog/fishing-for-hackers/
+﻿"等黑客上钩 - 一次 Linux 服务器攻击案例分析， 作者很好奇黑客真正攻破服务器之后会干些什么， 于是将一台服务器暴露给黑客，等待来袭： https://t.co/mZP39tynh4 "
+[ Linux ]  CVE-2016-1531 exploit "PERLIO_DEBUG=/root/.ssh/authorized_keys /usr/exim/bin/exim -ps" - write to any file as root https://t.co/3sQggdKwV4
+﻿"CVE-2016-1531 Exploit， 以 Root 权限写任意文件 -> "PERLIO_DEBUG=/root/.ssh/authorized_keys /usr/exim/bin/exim -ps" https://t.co/3sQggdKwV4"
+[ Linux ]  Improving Bash Forensics Capabilities http://ow.ly/3cU75z
+﻿"改进 Bash 的取证特性，Bash 本身会记录历史，通过重新编译，可以允许 Bash 将历史命令日志发送到远端 Syslog 服务器：  https://t.co/EJkNFlYsDj"
+[ Linux ]  Here’s the xnu/amd64 syscall path. Few interesting things: must use syscall instr, four types of valid syscalls. https://gist.github.com/yrp604/23e86dce9ca12bf514ef
+﻿"amd64 平台 XNU 系统调用路径图：  https://t.co/qw1ggJRNB8"
+[ Linux ]  Quickly Identify Suspicious Activity With Sysdig (Part 2) : https://sysdig.com/blog/fishing-for-hackers-part-2/ ,Part 1 : https://sysdig.com/blog/fishing-for-hackers/ cc: @ sysdig
+﻿"前天推送过《等黑客上钩 - 一次 Linux 服务器攻击案例分析》 : https://t.co/tSAtagUHyO   今天是 Part 2: 用 Sysdig 工具快速定位可疑的活动：   https://t.co/O4Ph1qlGGP "
+[ Linux ]  Recover from failed vdc cryptfs command https://blog.gentoo.moe/2016/03/recover-from-failed-vdc-cryptfs-command/ https://t.co/CKmo0RD7QO
+﻿"从失败的 vdc cryptfs 命令中恢复： https://t.co/p2vf3AdZOp https://t.co/CKmo0RD7QO"
+[ Linux ]  Have a Linux ext4 data corruption bug… "ext4 data corruption due to punch hole races" (some security implications). https://bugzilla.suse.com/show_bug.cgi?id=972174
+﻿"Linux ext4 数据损坏的 Bug - 通过竞争条件触发同一块区域的页错误：  https://t.co/tdz0hJl5UU"
+[ Linux ]  Exploiting Linux and PaX ASLR’s weaknesses on 32- and 64-bit systems : https://www.blackhat.com/docs/asia-16/materials/asia-16-Marco-Gisbert-Exploiting-Linux-And-PaX-ASLRS-Weaknesses-On-32-And-64-Bit-Systems.pdf (Slides) #BHASIA https://t.co/bwDhyj8VMB
+﻿"攻击 32/64 位 Linux ASLR 的弱点︰ https://t.co/tZNhTQU2oI   https://t.co/bwDhyj8VMB"
+[ Linux ]  The initcall mechanism : https://github.com/0xAX/linux-insides/blob/master/Concepts/initcall.md //linux-inside series cont'd cc: @ 0xAX
+﻿"Linux 内核 Initcall 的实现机制 ︰ https://t.co/EeYpRR1Zlj "
+[ Linux ]  bcc/BPF : Dynamic Tracing Tools for Linux : https://iovisor.github.io/bcc/ ; ply (Github) : https://github.com/iovisor/ply cc: @ brendangregg
+﻿"Linux 动态 Trace 工具, Blog︰ https://t.co/is2SCvsQCn  Github Repo: https://t.co/X7HmeH8jfm "
+[ Linux ]  Mounting Bitlocker Volumes Under Linux - http://blog.airbuscybersecurity.com/post/2016/01/Mounting-Bitlocker-Volumes-Under-Linux
+﻿"在 Linux 系统挂载 Bitlocker 卷： https://t.co/9lQQmmPKoO"
+[ Linux ]  More than you ever wanted to know about Linux system calls http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/
+﻿"Linux 系统调用终极指南：  https://t.co/5ybWuQzig8"
+[ Linux ]  Oh yay, fixing CVE-2015-1805 lead to CVE-2016-0774 how nice! https://bugzilla.redhat.com/show_bug.cgi?id=1303961
+﻿"Linux 内核从管道读取数据时，不正确的原子读操作导致管道缓冲区状态破坏（CVE-2016-0774）。 这个漏洞是修复 CVE-2015-1805 导致的： https://t.co/DS90R13pHh"
+[ Linux ]  CVE-2016-3672 - Unlimiting the stack not longer disables ASLR http://goo.gl/fb/do7eI3 #FullDisclosure
+﻿"Linux 内核将 RLIMIT_STACK 资源限制设置为无限可以禁用 ASLR（CVE-2016-3672）， 来自 FullDisclosure 公告： https://t.co/i8vErmHd8P   漏洞的详细分析： http://hmarco.org/bugs/CVE-2016-3672-Unlimiting-the-stack-not-longer-disables-ASLR.html "
+[ Linux ]  Ubuntu Patches Kernel Vulnerabilities https://threatpost.com/ubuntu-patches-kernel-vulnerabilities/117229/
+﻿"Ubuntu 昨天（6 号）发布补丁更新，修复了多个内核漏洞， 来自 ThreatPost 的报道： https://t.co/bWIbKsPOK2  官方的公告： http://www.ubuntu.com/usn/usn-2946-1/ "
+[ Linux ]  KPlugs - a user-mode interface for plugging into the linux kernel http://www.kplugs.org/
+﻿"KPlugs - 一个内核态模块，他在用户态暴露接口，让用户态程序可以在内核态执行脚本： https://t.co/RvG3Y69049 "
+[ Linux ]  vuls : Vulnerability scanner for Linux, agentless, written in golang : https://github.com/future-architect/vuls
+﻿"Linux 漏洞扫描器，无 Agent， Golang 语言编写 ︰ https://t.co/LXUmq9ePRw"
+[ Linux ]  Professional Linux Kernel Architecture : http://www.lancaster.ac.uk/undergrad/stanev/References/Professional%20Linux%20Kernel%20Architecture.pdf (pdf | 8 Mb)
+﻿"Professional Linux Kernel Architecture（书） ︰ https://t.co/y9pOO9v3KG "
+[ Linux ]  Spinlocks : Synchronization primitives in the Linux kernel (Part 1) : https://github.com/0xAX/linux-insides/blob/master/SyncPrim/sync-1.md cc: @ 0xAX //linux-insides* series cont'd
+﻿"Linux-Insides 系列文章 - 同步原语之自旋锁 ︰  https://t.co/lgl06xXdig  "
+[ Linux ]  vmware + (linux < 4.0) = root? https://lkml.org/lkml/2016/4/5/480. I don't know the root cause but it runs with a user-space pointer...
+﻿"Linux 内核 perf_event_open() 可能存在的一个安全问题， 影响所有 3.2 ～ 4 内核版本： https://t.co/9o6D404khj "
+[ Linux ]  The Linux Scheduler: a Decade of Wasted Cores : http://www.ece.ubc.ca/~sasha/papers/eurosys16-final29.pdf (pdf)
+﻿"Linux 调度器的 Bug ︰ 那些年浪费的核： https://t.co/yCx9grXflF  "
+[ Linux ]  Linux Troubleshooting Cheatsheet: strace, htop, lsof, tcpdump, iftop & sysdig : https://sysdig.com/blog/linux-troubleshooting-cheatsheet/
+﻿"Linux 问题排查手册︰ strace，htop，lsof，tcpdump，iftop & sysdig 工具的使用:  https://t.co/ymuTWhvveT"
+[ Linux ]  KASLR memory randomization proposal for Linux kernel http://permalink.gmane.org/gmane.linux.kernel.hardened.devel/2181
+﻿"Linux 内核 KASLR 内存随机化加固建议： https://t.co/amNjDdjQWp "
+[ Linux ]  Slides from my @ BSidesNOLA talk now available at http://www.deer-run.com/~hal/DontKnowJack-bash_history.pdf
+﻿" 'Jack，你并不了解 bash_history' - 来自 BSidesNOLA 会议的演讲：  https://t.co/xQR7zTTg1w"
+[ Linux ]  Synchronization primitives in the Linux kernel (Part 2) - Queued Spinlocks: https://github.com/0xAX/linux-insides/blob/master/SyncPrim/sync-2.md ,P1 : https://0xax.gitbooks.io/linux-insides/content/SyncPrim/sync-1.html cc: @ 0xAX
+﻿"Linux 内核同步原语之排队自旋锁， Part 2:  https://t.co/s9cN5lF7aA     Part 1 : https://t.co/kntK6Gwpp6  "
+[ Linux ]  Guide to building a Linux router from scratch : http://arstechnica.com/gadgets/2016/04/the-ars-guide-to-building-a-linux-router-from-scratch/
+﻿"从零开始构建一个 Linux 路由器 ︰  https://t.co/ky6612CwGN "
+[ Linux ]  Detecting the use of "curl | bash" server side : https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/
+﻿"检测服务器上 'curl | bash' 管道传递 Payload 命令的使用 ︰ https://t.co/sDmnQojC2F"
+[ Linux ]  NGS : Next generation UNIX shell : https://github.com/ilyash/ngs/
+﻿"NGS ︰ 下一代 UNIX Shell ︰ https://t.co/QPxouhvh1D"
+[ Linux ]  Update on the [Linux] Kernel Self Protection Project by @ kees_cook : https://outflux.net/slides/2016/cs/kspp.pdf -- "Killing bug classes is better"
+﻿"Linux 内核自我保护项目， Slides︰ https://t.co/5JxbVBPXjm  WiKi: http://kernsec.org/wiki/index.php/Kernel_Self_Protection_Project  "
+[ Linux ]  Foreign LINUX - Linux system call interface emulator for the Windows platform - a` la WSL - https://github.com/wishstudio/flinux
+﻿"FLinux - 运行在 Windows 系统的 Linux 二进制翻译器、系统调用模拟器，使得在 Windows 系统可以直接运行未修改的 Linux 二进制程序： https://t.co/zTDpiH1qZh"
+[ Linux ]  Unlock up to an additional 4GB of system RAM : https://github.com/graphitemaster/moreram
+﻿"moreram - 在全系统范围替换 malloc， 允许你使用系统内存的额外 12GB ︰ https://t.co/xiYaIDF0Y7"
+[ Linux ]  Article on ELF shared-library injection #forensics analysis in #Linux and #FreeBSD http://backtrace.io/blog/blog/2016/04/22/elf-shared-library-injection-forensics/
+﻿"ELF 共享库代码注入取证分析： https://t.co/K7t2L6C9uD  "
+[ Linux ]  Semaphores in the Linux kernel (Part 3) : https://github.com/0xAX/linux-insides/blob/master/SyncPrim/sync-3.md //linux-insides* series cont'd cc: @ 0xAX
+﻿"Linux 内核同步之信号量 (Part 3):  https://t.co/QOd5j8s6RY "
+[ Linux ]  Randomized symbol order in libc in OpenBSD, randomized at boot time https://twitter.com/revskills/status/724625808103493632
+﻿"OpenBSD 的邮件列表中有人提出了一种对抗 ROP 的方法： 在启动时随机化 libc 中的符号顺序： https://t.co/eI7D7aRpWh   作者还贴出了实现代码： https://marc.info/?l=openbsd-tech&m=146159002802803&w=2 "
+[ Linux ]  New Linux random number generator is coming http://www.chronox.de/lrng/doc/lrng.pdf According to comments https://news.ycombinator.com/item?id=11561340 it's crap.
+﻿"Linux 新的随机数生成器： https://t.co/9xtiXKSyDi  评论： https://t.co/13Pb1ZMGvO  "
+[ Linux ]  UAF in Linux kernel 4.4 if "unprivileged_bpf_disabled" is not set (default): http://git.kernel.org/cgit/linux/kernel/git/davem/net.git/commit/?id=8358b02bf67d3a5d8a825070e1aa73f25fb2e4c7 grsec still requires CAP_SYS_ADMIN
+﻿" Linux 内核 4.4 replace_map_fd_with_map_ptr() UAF，  Git Patch ︰ https://t.co/41PZ6vpnPw  "
+[ Linux ]  Linux KASLR memory randomization moving to PATCH stage http://comments.gmane.org/gmane.linux.kernel/2206880
+﻿"Linux 内核 KASLR 内存随机化进入 Patch 阶段： https://t.co/SdmzHU4ULE"
+[ Linux ]  Inline assembly - Linux Assembly Prg: https://github.com/0xAX/linux-insides/blob/master/Theory/asm.md //linux-insides* series cont'd cc: @ 0xAX
+﻿" Linux Insides 系列文章 - 内联汇编: https://t.co/8r1xALs8RZ "
+[ Linux ]  SLAB freelist randomization on linux-next http://git.kernel.org/cgit/linux/kernel/git/next/linux-next.git/commit/?id=b735905a4f60283735001c3edef9996e9675e25f & http://git.kernel.org/cgit/linux/kernel/git/next/linux-next.git/commit/?id=1a354eccfe6f685eb1ec2a11f6f03aece8db5f11
+﻿"Linux SLAB 空闲链表随机化， Git Patch：  https://t.co/Vi3MTwXq9C  https://t.co/E0Tikis2uM  "
+[ Linux ]  linux-injector : Utility for injecting executable code into a running process on x86/x64 Linux : https://github.com/dismantl/linux-injector
+﻿"linux-injector - 向正在运行的 x86/x64 Linux 进程注入可执行代码的工具︰ https://t.co/VTblnmtmzh"
+[ Linux ]  Linux kernel BPF JIT spray PoC (requires insecure ko load), update of 2012 PoC for start page address randomisation. https://github.com/01org/jit-spray-poc-for-ksp
+﻿"Linux 内核 BPF JIT Spray PoC（要求有驱动加载权限）： https://t.co/XzPLVBVomP  作者在论坛上发了一个帖子： https://forums.grsecurity.net/viewtopic.php?f=7&t=4463 "
+[ Linux ]  Linux kernel BPF UAF exploit https://bugs.chromium.org/p/project-zero/issues/detail?id=808
+﻿"Linux 内核 BPF double-fdput() UAF 漏洞， Project Zero Issue 808： https://t.co/lY9ZPAzFkh"
+[ Linux ]  Linux (Ubuntu 16.04) - Reference Count Overflow Using BPF Maps https://cxsecurity.com/issue/WLB-2016050015
+﻿"Linux (Ubuntu 16.04) 在使用 BPF Maps 时引用计数溢出： https://t.co/z57Dh3xYmw  Project Zero Issue 809： https://bugs.chromium.org/p/project-zero/issues/detail?id=809 "
+[ Linux ]  Slides and demo from my @ thotcon talk have been posted! Thanks for the good questions/discussions, keep em coming! https://speakerdeck.com/ropnop/abusing-linux-trust-relationships-authentication-back-alleys-and-forgotten-features
+﻿" 滥用 Linux 的信任关系：   https://t.co/sYjozfoRgH"
+[ Linux ]  CVE-2016-0758 - Because decoding ASN.1 in kernel is fun http://www.openwall.com/lists/oss-security/2016/05/12/9 #yolo
+﻿"Linux 内核在解析 x509 ASN.1 DER 格式时存在漏洞（CVE-2016-0758）：  https://t.co/C9mw6F8jj7 "
+[ Linux ]  here's another Linux bpf UAF http://seclists.org/oss-sec/2016/q2/332
+﻿"又一个 Linux 内核 bpf UAF， PoC： https://t.co/NDATLkcug7  影响 Master 分支最新版本"
+[ Linux ]  Read this before believing the recent nonsense from the Linux kernel devs about new security features: https://forums.grsecurity.net/viewtopic.php?f=7&t=4476
+﻿" Linux 内核 4.6 版本在安全方面的改进， 来自 GRSecurity 论坛︰ https://t.co/jCEfEclWtF"
+[ Linux ]  Synchronization primitives in the Linux kernel (Part 5) - reader/writer semaphores: https://github.com/0xAX/linux-insides/blob/master/SyncPrim/sync-5.md //linux-insides cont'd cc @ 0xAX
+﻿"Linux-Insides 系列文章之内核同步原语 - 读写信号量 ︰ https://t.co/DnskB6F1B8 "
+[ Linux ]  rust.ko : A minimal Linux kernel module written in rust : https://github.com/tsgates/rust.ko
+﻿"rust.ko︰ 用 Rust 写的最小 Linux 内核模块， GitHub Repo︰ https://t.co/A3hRlVx07Z"
+[ Linux ]  Major Remote SSH Security Issue in CoreOS Linux Alpha, Subset of Users Affected : https://coreos.com/blog/alpha-security-incident-subset-of-users-affected.html
+﻿"CoreOS Linux Alpha 1045.0.0、1047.0.0 SSH 存在缺陷，允许在无密码或认证 Token 的情况下获得访问权限 ︰ https://t.co/BSgDmDzxPF"
+[ Linux ]  Analysis of CVE-2016-1887, sendmsg FreeBSD kernel heap overflow : http://cturt.github.io/sendmsg.html
+﻿" FreeBSD sendmsg 内核堆溢出漏洞及利用（CVE-2016-1887）︰  https://t.co/gnk1kLqSwx"
+[ Linux ]  Analysis of CVE-2016-1886, SETFKEY FreeBSD kernel vulnerability: http://cturt.github.io/SETFKEY.html
+﻿" FreeBSD SETFKEY 内核堆溢出漏洞分析及利用（CVE-2016-1886）︰ https://t.co/iErUvJq5ik"
+[ Linux ]  TCPTuner: Congestion Control Your Way : http://arxiv.org/pdf/1605.01987v1.pdf (pdf)
+﻿"TCPTuner︰ 以自己的方式控制 TCP 拥塞，实时修改拥塞算法参数，作者将这个实现为 Linux 内核的一个模块， Paper ︰ https://t.co/eOUGML9NR8 "
+[ Linux ]  Netdata - Real-Time Performance Monitoring -- http://www.kitploit.com/2016/05/netdata-real-time-performance-monitoring.html
+﻿"Netdata - Linux 操作系统性能实时监控工具，有着一个酷炫的展示界面： https://t.co/U6vq65s8a8"
+[ Linux ]  oh : A surprisingly powerful Unix shell : https://github.com/michaelmacinnis/oh https://t.co/d7C37f2ImB
+﻿" oh - 一个功能强大的 Unix Shell 工具 ︰ https://t.co/i4k4GydyWU https://t.co/d7C37f2ImB"
+[ Linux ]  Linux x86_64 Information Stealer Shellcode : https://www.exploit-db.com/exploits/39847/
+﻿"Linux x86_64 信息窃取 Shellcode 代码实现︰ https://t.co/nSIXx9SHHT"
+[ Linux ]  Understanding bootloading by bx http://www.cs.dartmouth.edu/~bx/blog/2015/09/03/a-toure-of-bootloading.html [DC20 ELF brainf*kc #weirdmachine https://www.defcon.org/images/defcon-20/dc-20-presentations/Shapiro-Bratus/DEFCON-20-Shapiro-Bratus-Constructing-ELF-Metadata.pdf ] http://t.co/6dzeTb52zx
+﻿" 了解 Bootloading 的过程： http://t.co/c0mQ8VLKKs  Defcon 20 会议的一篇演讲《构造 ELF 元数据》：  https://t.co/YJXopsUq5v  http://t.co/6dzeTb52zx"
+[ Linux ]  wildpwn – UNIX Wildcard Attack Tool http://www.darknet.org.uk/2016/05/wildpwn-unix-wildcard-attack-tool/
+﻿"wildpwn — UNIX 通配符攻击工具： https://t.co/NLAkcKprpa"
+[ Linux ]  Exploit Mitigation Techniques in OpenBSD : https://www.openbsd.org/papers/ven05-deraadt/index.html , https://www.openbsd.org/papers/ven05-deraadt/mgp00001.html #b2b
+﻿" Exploit Mitigation Techniques in OpenBSD， 图片格式的 Slides︰ https://t.co/2cgRQoUgMe、 https://t.co/34NiDT7sai "
+[ Linux ]  Analysis of stack disclosure vulnerabilities in FreeBSD compatibility layers: http://cturt.github.io/compat-info-leaks.html
+﻿" FreeBSD 兼容层在处理 TIOCGSERIAL 命令时存在栈信息泄漏漏洞 ︰ https://t.co/JtdbqHNcyx"
+[ Linux ]  Linux Kernel 4.4.x (Ubuntu 16.04) - Use-After-Free vulnerability https://www.exploit-db.com/exploits/39772/ #exploitdev #vunl #infosec https://t.co/UFqyeOobgv
+﻿"Linux 内核 4.4.x (Ubuntu 16.04) BPF BPF_PROG_LOAD double-fdput() UAF（CVE-2016-4557）： https://t.co/cGpPRAkxbw   https://t.co/UFqyeOobgv"
+[ Linux ]  Analysis and exploitation of a Linux Kernel Vulnerability (CVE-2016-0728) http://perception-point.io/2016/01/14/analysis-and-exploitation-of-a-linux-kernel-vulnerability-cve-2016-0728/
+﻿" Linux 内核 Keyrings 引用泄漏漏洞的分析和利用(CVE-2016-0728)，来自 Perception Point Blog： https://t.co/aKi32MHDEv"
+[ Linux ]  Linux Assembly : http://asm.sourceforge.net/howto/Assembly-HOWTO.pdf (pdf)
+﻿" 汇编语言在 Linux 系统中的使用︰ https://t.co/mXgr0Q6key "
+[ Linux ]  My First 10 Minutes On a Server - Primer for Securing Ubuntu : http://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/ (lvl - 1*)
+﻿" 安装完 Ubuntu Server 后，花 10 分钟做好安全加固︰ https://t.co/3RztrufCmM  "
+[ Linux ]  ZENEDGE Open Sources Linux Kernel Extension for Cybersecurity http://hubs.ly/H02W9XX0 https://t.co/80vKNMx2zm
+﻿"ZENEDGE 开源了一个用于网络控制的 Linux 内核扩展，可以在 HTTP 负载均衡后面阻断 IP 黑名单： https://t.co/IsUT2kQxku https://t.co/80vKNMx2zm "
+[ Linux ]  Linux file system hierarchy (free PDF poster) https://www.blackmoreops.com/2015/06/18/linux-file-system-hierarchy-v2-0/ https://t.co/ACYjQlkxQV
+﻿"Linux 文件系统目录结构（一张图展示）： https://t.co/6DkLGHZG5q https://t.co/ACYjQlkxQV"
+[ Linux ]  Exploiting Recursion in the Linux Kernel http://googleprojectzero.blogspot.ch/2016/06/exploiting-recursion-in-linux-kernel_20.html #linux #kernel #exploitdev #hacking #infosec https://t.co/ZEtpPxYGZz
+﻿" Linux 内核栈溢出递归漏洞的利用（CVE-2016-1583），来自 Project Zero Blog： https://t.co/ttY4LdNkh0 "
+[ Linux ]  Adventures in HardenedBSD https://github.com/lattera/presentations/blob/master/NYCBUG/2016/Adventures%20in%20HardenedBSD.pdf [PDF] https://t.co/z6Kr3nmfw0
+﻿"FreeBSD 的安全加固历史： https://t.co/suNyUleE6K   https://t.co/z6Kr3nmfw0  "
+[ Linux ]  Linux Kernel ROP part 2 is out on the #SpiderLabs blog https://www.trustwave.com/Resources/SpiderLabs-Blog/Linux-Kernel-ROP---Ropping-your-way-to---(Part-2)/
+﻿" Linux 内核 ROP Part 2 - 通往 ROOT 的 ROP 之路： https://t.co/N7dxBT9xpY"
+[ Linux ]  The Definitive Guide to Linux System Calls : http://blog.packagecloud.io/eng/2016/04/05/the-definitive-guide-to-linux-system-calls/#
+﻿"Linux 系统调用权威指南 ︰ https://t.co/UwfclgrDIw"
+[ Linux ]  on GitHub: SGX SDK, PSW, and drivers for Linux https://github.com/01org/linux-sgx https://github.com/01org/linux-sgx-driver @ iamcorso
+﻿" Intel SGX 防护技术在 Linux 系统的实现： https://t.co/sP1EcNiU0l   Intel SGX Linux 驱动：  https://t.co/yFwjofsXSC  "
+[ Linux ]  Two exploitable vulnerabilities in the #linux #kernel that can lead to privilege escalation or denial of service https://twitter.com/nixcraft/status/746744760442851328
+﻿" Linux 内核在处理 setsockopt 时的两个漏洞，一个本地提权（CVE-2016-4997），一个拒绝服务（CVE-2016-4998）： http://www.openwall.com/lists/oss-security/2016/06/24/5 "
+[ Linux ]  Preventing malicious attacks by diversifying Linux shell commands : http://ceur-ws.org/Vol-1525/paper-15.pdf
+﻿" 通过改变 Linux Bash Shell 的名字，对抗恶意软件，攻击者再也不知道哪个才是正确的命令︰ https://t.co/IwKQ5jQT6N"
+[ Linux ]  Since this is public now, here's the netfilter target_offset Ubuntu 16.04 local root exploit https://cyseclabs.com/exploits/target_offset_vnik.zip
+﻿" Ubuntu 16.04 netfilter target_offset 本地 Root 提权 PoC 下载： https://t.co/0t0Zz681tv"
+[ Linux ]  Paper on: Exploiting ELF `$ORIGIN` expansion in IllumOS/Solaris: http://backtrace.io/blog/blog/2016/06/29/exploiting-elf-expansion-variables/
+﻿" IllumOS 内核在加载 ELF 代码时存在 '$ORIGIN' 变量扩展的漏洞︰ https://t.co/sbwuCBJWlp"
+[ Linux ]  Understanding glibc malloc : https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/
+﻿" Understanding glibc malloc: https://t.co/15uGi2pD3b"
+[ Linux ]  Bugtraq: [CVE-2016-6136] Double-Fetch Vulnerability in Linux-4.6/kernel/auditsc.c http://www.securityfocus.com/archive/1/538835
+﻿" Linux-4.6/kernel/auditsc.c 中的一个 Double Fetch 漏洞（CVE-2016-6136）： https://t.co/FKYBKe2JAg"
+[ Linux ]  [CVE-2016-4794/6162] Two linux kernel bugs https://marcograss.github.io/security/linux/2016/07/06/two-linux-kernel-bugs.html
+﻿" 两个 Linux 内核漏洞 PoC（CVE-2016-4794/6162）： https://t.co/kVCGTVBH2i"
+[ Linux ]  Linux hardening with sysctl @ linuxaudit http://bit.ly/29UD6EN #linux #hacking #infosec #hackers #pentest #cyber #tech #digital
+﻿" 用 sysctl 工具加固 Linux： https://t.co/J0KLCrvua6 "
+[ Linux ]  Sequential locks in the Linux kernel : https://github.com/0xAX/linux-insides/blob/master/SyncPrim/sync-6.md //Linux-insides* series cont'd cc @ 0xAX
+﻿" Linux 内核的顺序锁，来自 Linux 内核 Insides 系列文章︰ https://t.co/jUxbjUNRMx  "
+[ Linux ]  Linux Security for Beginners : http://www.linuxtopia.org/LinuxSecurity/index.html
+﻿" Linux 安全入门︰ https://t.co/pSGWUnC7Dt"
+[ Linux ]  Porting Python to GRUB: “Networking without an operating system” http://j.mp/29Gx1P4
+﻿" 把 Python 移植到 GRUB 中 - 没有操作系统的网络： https://t.co/K5JD446OIk"
+[ Linux ]  Spawn shell like it's 90s again! A quick walk-through to gaining root privileges in NetBSD by abusing mail.local(8) http://akat1.pl/?id=2
+﻿" 像 90 年代那样弹 Shell - 滥用 mail.local(8)，在 NetBSD 系统中获得 Root 权限： https://t.co/UhLFTQBrT2"
+[ Linux ]  Graphene - a library OS for Linux multi-process applications with Intel SGX support https://github.com/oscarlab/graphene
+﻿" Graphene - 提供 Intel SGX 支持的 Linux 多进程库实现， GitHub Repo： https://t.co/yVJVGwr9eO"
+[ Linux ]  Linux Kernel 4.7 Officially Released http://bit.ly/29TMVWN
+﻿"Linux 内核 4.7 版本正式发布： https://t.co/qhxXvrfTeM"
+[ Linux ]  Linux: arbitrary memory read on arm/arm64 via perf_event_open() https://bugs.chromium.org/p/project-zero/issues/detail?id=822
+﻿"ARM/ARM64 Linux 内核 perf_event_open 任意内存读，来自 Project Zero Issue 822： https://t.co/qOdLZpXbKc"
+[ Linux ]  Reference count leak in apparmor securityfs aa_fs_seq_hash_show https://code.google.com/p/google-security-research/issues/detail?id=812
+﻿" Linux 内核 apparmor securityfs aa_fs_seq_hash_show 引用计数泄漏漏洞，来自 Project Zero Issue 812： https://t.co/RF53d87dAs"
+[ Linux ]  Linux >= 4.5 double fetch leading to heap overflow https://cxsecurity.com/issue/WLB-2016080002
+﻿"Linux >= 4.5 Double Fetch 导致的堆溢出 PoC： https://t.co/9VrdfdQ08i"
+[ Linux ]  Awesome ELF patching kit, easily inject/modify/nerf ELF files with simple Python scripts; https://github.com/lunixbochs/patchkit
+﻿" PatchKit - ELF 文件 Patch 工具，Python 语言编写：  https://t.co/P7O3vqbkD5"
+[ Linux ]  Patch for CVE-2016-3857: https://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/commit/?id=7de249964f5578e67b99699c5f0b405738d820a2
+﻿" Linux 内核本地提权漏洞（CVE-2016-3857）的补丁提交日志︰ https://t.co/YwmzxYVeNx"
+[ Linux ]  Kernel memory randomization and trampoline page tables https://medium.com/@ mxatone/kernel-memory-randomization-and-trampoline-page-tables-9f73827270ab#.k2js6wito
+﻿" Linux 内核地址随机化特性早期启动过程一个关于页表的 Bug： https://t.co/whFYzwwydk"
+[ Linux ]  System Integrity Protection (SIP) for FreeBSD https://github.com/2trill2spill/SIP
+﻿"为 FreeBSD 系统提供 SIP（系统完整性保护）特性的内核模块实现： https://t.co/5x8neaT6jI "
+[ Linux ]  [CVE-2016-6828] Linux kernel tcp related read Use After Free - https://marcograss.github.io/security/linux/2016/08/18/cve-2016-6828-linux-kernel-tcp-uaf.html
+﻿" Marcograss 发现的 Linux 内核 TCP 相关的一个 UAF 漏洞（CVE-2016-6828）： https://t.co/plc6kOzifl"
+[ Linux ]  Rover - Proof of Concept code for CVE-2016-5696 https://github.com/violentshell/rover
+﻿" Linux Off-Path TCP 流量劫持漏洞（CVE-2016-5696）的 PoC 代码： https://t.co/oEZjvNw7Mu"
+[ Linux ]  mountain_goat.c PoC of CVE-2016-5696 Off-Path TCP Exploits https://github.com/Gnoxter/mountain_goat #Linux #TCP #MITM
+﻿" Linux Off-Path TCP 流量劫持漏洞（CVE-2016-5696）的 PoC 代码，前天推送过一份，今天又有一位研究者公开了一份代码： https://t.co/U5eDHYxXgv "
+[ Linux ]  Great implementation of CVE-2016-5696 TCP Session RST or Hijacking by @ jduck: https://github.com/jduck/challack
+﻿" Joshua J. Drake 也为 Linux Off-Path TCP 流量劫持漏洞（CVE-2016-5696） 写了一个 PoC: https://t.co/DAsdr3CET9"
+[ Linux ]  My "State of the Kernel Self Protection Project" slides from the Linux Security Summit: https://outflux.net/slides/2016/lss/kspp.pdf
+﻿" （Linux）内核自我防护项目的现状，来自 Linux 安全峰会︰ https://t.co/SCPSadIYlg"
+[ Linux ]  Linux kernel mbcache lock contention denial of service. http://www.openwall.com/lists/oss-security/2016/08/25/4 #infosec #vulnerability #linux #kernel
+﻿"Linux 内核 mbcache 锁争用导致的拒绝服务漏洞（CVE-2015-8952）： https://t.co/wqtaHOUGzI "
+[ Linux ]  Privilege Escalation on Linux with Live examples. http://resources.infosecinstitute.com/privilege-escalation-linux-live-examples/ #infosec via @ InfosecEdu
+﻿" 以几个实际的例子介绍 Linux 内核提权，来自 InfoSec： https://t.co/pfw3CArc7h "
+[ Linux ]  So I lost my OpenBSD FDE password - reversing the metadata and building a bruteforcer https://blog.filippo.io/so-i-lost-my-openbsd-fde-password/
+﻿" 我忘了我的 OpenBSD 全盘加密（FDE）的密码： https://t.co/7ZuyqYcn6p"
+[ Linux ]  360MeshFire Team：CVE-2016-5696 TCP旁路攻击分析与重现 http://bobao.360.cn/learning/detail/2990.html
+﻿" CVE-2016-5696 TCP 旁路攻击分析与重现，来自 360 MeshFire 团队： https://t.co/wS39k9Pu8i"
+[ Linux ]  Counter-measures against stack buffer overflows in GNU/Linux operating systems http://ac.els-cdn.com/S1877050916303039/1-s2.0-S1877050916303039-main.pdf?_tid=f21d2dc4-70f5-11e6-99a0-00000aab0f27&acdnat=1472811411_8134597dca7b9d6ace3dd5b3f1032110
+﻿" GNU/Linux 操作系统针对栈缓冲区溢出漏洞的对策，Paper： https://t.co/KfEFlMBBLj"
+[ Linux ]  The classic Unix Text Processing book is now a free download from @ OReillyMedia http://www.oreilly.com/openbook/utp/
+﻿" Unix 文本处理（电子书）： https://t.co/I0SeIVXjCl "
+[ Linux ]  Understanding PLT and GOT in dynamic libraries. #reversing https://www.technovelty.org/linux/plt-and-got-the-key-to-code-sharing-and-dynamic-libraries.html
+﻿"了解动态链接库的 PLT 和 GOT： https://t.co/hDclSMEOw7"
+[ Linux ]  Visualizing linux call graphs with d3js : http://stacktrack.github.io https://t.co/NdPiVuk7ho
+﻿" StackTrack - Linux 调用图可视化以及 Trace 工具，基于 d3js: https://t.co/UFUL4TUGlk "
+[ Linux ]  Randomizing the Linux kernel heap freelists : https://medium.com/@ mxatone/randomizing-the-linux-kernel-heap-freelists-b899bb99c767#.2hfiiea07
+﻿" Linux 内核 4.8 版本的堆空闲列表随机化特性︰ https://t.co/ABdfFt9rYh"
+[ Linux ]  By @ n4x0r_ is Glibc Heap Analysis in Linux Systems with @ radareorg #r2con https://github.com/radareorg/r2con/blob/master/2016/talks/HeapAnalysis_r2.pdf (slides) https://www.youtube.com/watch?v=Svm5V4leEho (video)
+﻿" 基于 Radare2 的 Linux 系统堆分析： https://github.com/radareorg/r2con/blob/master/2016/talks/05-HeapAnalysis/HeapAnalysis_r2.pdf   r2Con 会议关于这个议题的视频： https://t.co/Wqb1wYtQhb   r2Con 会议所有的议题： https://github.com/radareorg/r2con/tree/master/2016/talks "
+[ Linux ]  I've just pushed new post to linux insides: Program startup process in userspace - https://github.com/0xAX/linux-insides/blob/master/Misc/program_startup.md #linux #programming
+﻿" Linux insides 系列文章之 进程在用户态的启动过程： https://t.co/4jpd3fzzHd "
+[ Linux ]  Do #ifdefs Influence the Occurrence of Vulnerabilities? An Empirical Study of the Linux Kernel http://arxiv.org/pdf/1605.07032.pdf
+﻿" #ifdefs 对 Linux 内核漏洞的产生有什么影响，Paper： https://t.co/Mb3ZpjrpGr "
+[ Linux ]  Linux Malware: Novelties in the Threat Landscape http://resources.infosecinstitute.com/linux-malware-novelties-threat-landscape/
+﻿" 近两年的 Linux 恶意软件总结，来自 InfoSec Blog： https://t.co/VV39Gz3qhc ;
+[ Linux ]  NetBSD mail.local Privilege Escalation https://packetstormsecurity.com/files/138733/netbsd_mail_local.rb.txt
+﻿"NetBSD mail.local 提权漏洞（CVE-2016-6253）： https://t.co/SFLdKlsSgw"
+[ Linux ]  [CVE-2016-7425] Linux Kernel SCSI arcmsr driver: buffer overflow in arcmsr_iop_message_xfer() - https://marcograss.github.io/security/linux/cve/2016/09/17/cve-2016-7425-linux-scsi-arcmsr-heap-overflow.html
+﻿" [CVE-2016-7425] Linux Kernel SCSI arcmsr driver: buffer overflow in arcmsr_iop_message_xfer()： https://t.co/Jn02u3KmZ1"
+[ Linux ]  "Anatomy of a Real Linux Intrusion Part II: OpenSSH trojanized toolkit" http://blog.angelalonso.es/2016/09/anatomy-of-real-linux-intrusion-part-ii.html (by @ Angelill0, based on MiTM SSH honeypot)
+﻿" 一次真实的 Linux 入侵过程分析 - 被木马化的 OpenSSH Part 2： https://t.co/b6n33ybv9s"
+[ Linux ]  @ marcograss You can check my study on the Linux kernel. https://github.com/munmap/Linux-Kernel-Bugs-DB/blob/master/bugs.json https://twitter.com/munmap/status/513429121888968704 The paper is in Bulgarian though.
+﻿" Linux 内核漏洞收集列表（JSON 格式）： https://t.co/WXFe8JfbO8 https://t.co/hshtYV9tDV "
+[ Linux ]  Our #KASLR bypass #CCS16 paper online already https://gruss.cc/files/prefetch.pdf @ anders_fogh @ BloodyTangerine @ mlqxyz… https://twitter.com/i/web/status/778944479529021440
+﻿" 利用 Prefetch 指令绕过 Linux 内核 KASLR，Paper： https://gruss.cc/files/prefetch.pdf  之前作者公开过一个 PoC 代码： https://github.com/xairy/kaslr-bypass-via-prefetch "
+[ Linux ]  ripgrep is faster than {grep, ag, git grep, ucg, pt, sift} : http://blog.burntsushi.net/ripgrep/
+﻿"ripgrep - Linux 文件搜索工具，比 grep 等工具速度快: https://t.co/rNCgv5WpHg"
+[ Linux ]  CVE-2016-7545 -- SELinux sandbox escape http://seclists.org/oss-sec/2016/q3/606
+﻿" SELinux 沙箱逃逸漏洞（CVE-2016-7545）： https://t.co/feteaIf7p1"
+[ Linux ]  Linux Kernel 4.6.3 Netfilter Privilege Escalation https://packetstormsecurity.com/files/138854/netfilter_priv_esc.rb.txt
+﻿" Ubuntu 16.04 Linux Kernel 4.6.3 Netfilter 提权 Exploit： https://t.co/vuL61qDM9n"
+[ Linux ]  My notes on Linux kernel security things continues with v4.5: https://outflux.net/blog/archives/2016/09/27/security-things-in-linux-v4-4/
+﻿" Linux 内核 4.4 版本的几项保护特性︰ https://t.co/jNrjd6nPHB"
+[ Linux ]  How to Crash Systemd in One Line as Any User https://www.agwa.name/blog/post/how_to_crash_systemd_in_one_tweet
+﻿" 一行代码 Crash Systemd： https://t.co/2gnCiWXqOD "
+[ Linux ]  Understanding /proc with ps : https://fredrb.github.io/2016/10/01/Understanding-proc/
+﻿" Linux 系统的 ps 命令是如何工作的: https://t.co/SRYGJs5u4q"
+[ Linux ]  Here are the slides from my #linuxcon eu talk on Linux Kernel Security - http://namei.org/presentations/linux_kernel_security_linuxconeu2016.pdf
+﻿" LinuxCon 峰会上一篇关于 Linux 内核安全的演讲： https://t.co/BlMNSzcBjb"
+[ Linux ]  Linux Kernel 3.13.1 Recvmmsg Privilege Escalation https://cxsecurity.com/issue/WLB-2016100094
+﻿"Linux 内核 3.13.1 Recvmmsg 提权 Exploit： https://t.co/5NqXq7q3TU"
+[ Linux ]  [local] - Linux kernel 4.6.2 - IP6T_SO_SET_REPLACE Privilege Escalation https://www.exploit-db.com/exploits/40489/
+﻿" Linux 内核 4.6.2 IP6T_SO_SET_REPLACE 提权 Exploit（CVE-2016-4997）： https://t.co/bCinjRJrun"
+[ Linux ]  Linux learning for Novices (from scratch) : https://linuxjourney.com/
+﻿" 从头开始学 Linux︰ https://t.co/mP7ZJ0kAQY"
+[ Linux ]  linux exploit development tutorial： https://github.com/hardenedlinux/linux-exploit-development-tutorial
+[ Linux ]  如何利用配置错误的SUID获取root权限并提权： http://www.mottoin.com/90304.html
+[ Linux ]  Linux kernel stack corruption trigger https://bugzilla.redhat.com/attachment.cgi?id=1198213. more info https://bugzilla.redhat.com/show_bug.cgi?id=1373499
+﻿"Linux 内核在读取 '/proc/keys' 时触发的一个栈破坏漏洞： https://bugzilla.redhat.com/show_bug.cgi?id=1373499   PoC： https://t.co/AxEWnaPbEC "
+[ Linux ]  Linux SRP Overwrite and ROP : http://buffered.io/posts/linux-srp-overwrite-and-rop/ cc @ TheColonial
+﻿" Linux SRP Overwrite and ROP︰ https://t.co/hHgAgVeijd "
+[ Linux ]  Exploiting #Linux kernel heap using a real #UAF method against CVE-2016-6187 vulnerability. cc: @binitamshah… https://t.co/to3ApobQvF
+﻿" CVE-2016-6187: Exploiting Linux kernel heap off-by-one： https://cyseclabs.com/blog/cve-2016-6187-heap-off-by-one-exploit "
+[ Linux ]  An LKM rootkit targeting Linux 2.6/3.x on x86(_64), and ARM： https://github.com/citypw/suterusu
+[ Linux ]  A Linux kernel module which monitors the true processor frequencies https://github.com/cyring/corefreq#corefreq https://t.co/sK4diCxCOp
+﻿" 一个用于监控 CPU 频率变化的 Linux 内核模块：  https://t.co/OiEItT1YFV https://t.co/sK4diCxCOp"
+[ Linux ]  published the slides from my workshop on ROP exploitation at @ hack_lu Thanks to all the attendees! https://speakerdeck.com/milkmix/advanced-exploitation-on-linux-rop-and-infoleaks
+﻿"来自2016 hack.lu 大会上的议题：Linux 上的 ROP 漏洞利用： https://t.co/waVeWJHRVQ"
+[ Linux ]  如何进行 Linux 平台共享库替换： http://www.freebuf.com/articles/system/116489.html
+[ Linux ]  [BLOG] No Tears, No Fears: using #lkvm to provide invisible isolation http://blog.quarkslab.com/no-tears-no-fears.html
+﻿"  没有眼泪，也没有恐惧 - 利用 lkvm 提供透明隔离： https://t.co/p7tta278iA"
+[ Linux ]  Dirty COW (CVE-2016-5195) Linux Kernel privilege escalation vulnerability. https://t.co/Ql5ReZyZST
+﻿" Dirty COW（脏牛） (CVE-2016-5195) Linux 内核提权漏洞： http://dirtycow.ninja/ "
+[ Linux ]  The Linux COW bug is likely a Chrome/ChromeOS sandbox escape as well: https://cs.chromium.org/chromium/src/sandbox/linux/seccomp-bpf-helpers/baseline_policy.cc?l=176&dr=C
+﻿"Linux Dirty Cow 非常像 Chrome/ChromeOS 的一个沙箱逃逸漏洞︰ https://t.co/P3iWYojm7f"
+[ Linux ]  nsjail - 一个轻量级的进程隔离工具（Linux 平台）， Google 开源的： https://github.com/google/nsjail
+[ Linux ]  Local Heap Exploit on an Old RedHat8 Machine into a Local Shell https://woumn.wordpress.com/2016/10/21/local-heap-exploit-on-an-old-redhat8-machine-into-a-local-shell/
+﻿" 在 RedHat8 机器上通过一个本地堆利用获取 Shell： https://t.co/wOnqssxwug"
+[ Linux ]  The Missing Link: Explaining ELF Static Linking, Semantically - https://www.cl.cam.ac.uk/~pes20/rems/papers/oopsla-elf-linking-2016.pdf
+﻿" 从语义上解释 ELF 的静态链接过程： https://t.co/87TzHu1hVi"
+[ Linux ]  Linux kernel Concepts : https://github.com/0xAX/linux-insides/tree/master/Concepts cc @ 0xAX
+﻿"Linux 内核中 Per-CPU variables、CPU masks 以及 initcall 的概念解释︰ https://t.co/QdG40PWlTb  "
+[ Linux ]  DirtyCow( [脏|污] 牛)带给内核社区的反思： http://www.solidot.org/story?sid=50096
+[ Linux ]  Linux 性能相关的分析工具合辑： http://www.brendangregg.com/linuxperf.html
+[ Linux ]  长亭科技对 Dirty Cow (CVE-2016-5195) 漏洞的分析： https://mp.weixin.qq.com/s?__biz=MzIwNDA2NDk5OQ==&mid=2651370568&idx=1&sn=00305edbd4780595bff904ff04c8fe52&chksm=8d39c5c0ba4e4cd6da3090a6da766d558f18182c2af8482f62ea58779633e252f89fde1215c7&scene=0&key=c3acc508db720376f06bc23acbbc69a8ea56286af4532abeda8d2dfc360f65ef769a548a5a37ddb76481bb9848621fc7&ascene=0&uin=NjA3NzIzMjM0&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.5+build(15F34)&version=11020012&pass_ticket=qfs6nj7PvW9b8HQcsN8skP9L7hXKWggkSbX2vZAgTYYNz8yBcdUEatPfby4hdcnN
+[ Linux ]  Capturing Packets in Linux at a Speed of Millions of Packets per Second without Using Third Party Libraries - http://kukuruku.co/hub/nix/capturing-packets-in-linux-at-a-speed-of-millions-of-packets-per-second-without-using-third-party-libraries
+﻿"不借助第三方库来实现每秒捕获百万个 Linux 数据包： https://t.co/pQfSlG6XLA"
+[ Linux ]  Using scumjr's vDSO Dirty COW POC to escape Docker containers. Video, docker config, and instructions to play along: https://t.co/vOEQ9KNTPG
+﻿" 利用脏牛漏洞（Dirty Cow）的 vDSO Exploit 实现 Docker 容器的逃逸︰ https://t.co/vOEQ9KNTPG"
+[ Linux ]  Android "Root" via dirtyc0w privilege escalation exploit https://gist.github.com/Arinerron/0e99d69d70a778ca13a0087fa6fdfd80 https://t.co/jJDlw383GY
+﻿" 又有研究员为 DirtyCow 漏洞写了一个 Android 版本的利用代码： https://t.co/2qk7tI3fhH https://t.co/jJDlw383GY"
+[ Linux ]  DTrace for Linux 2016 : http://www.brendangregg.com/blog/2016-10-27/dtrace-for-linux-2016.html cc @ brendangregg https://t.co/tvVh9c0BPD
+﻿" DTrace for Linux 2016︰ https://t.co/3NU2wa5gsJ "
+[ Linux ]  MITM on sync+emerge = root almost any gentoo system http://bit.ly/2eJ0Sbx (http://bit.ly/2eRkBTZ)
+﻿" MITM on sync+emerge = root almost any gentoo system： https://t.co/SM7Dq6Evtg   https://t.co/KeAB93WcvA"
+[ Linux ]  vlany : Linux LD_PRELOAD rootkit (x86 and x86_64 architectures) : https://github.com/mempodippy/vlany
+﻿"Linux LD_PRELOAD rootkit (x86 and x86_64 architectures)︰ https://t.co/Yssk4oP4ae"
+[ Linux ]  Linux平台'盖茨木马'分析： http://www.freebuf.com/articles/system/117823.html
+[ Linux ]  Nginx remote , CVE-2016-1247 https://security-tracker.debian.org/tracker/CVE-2016-1247
+﻿"Debian 的漏洞跟踪网站对 Nginx CVE-2016-1247 远程漏洞修复情况的跟踪： https://t.co/N6crkQnpkt"
+[ Linux ]  2016最流行的Linux发行版渗透测试系统： http://www.mottoin.com/91202.html
+[ Linux ]  Exploiting COF Vulnerabilities in the Linux kernel : https://ruxcon.org.au/assets/2016/slides/ruxcon2016-Vitaly.pdf (Slides) #ruxcon cc @ vnik5287
+﻿"Exploiting COF Vulnerabilities in the Linux kernel,来自 RuxCon 大会上的议题（Slides）︰ https://t.co/V0sz7pwZ2k "
+[ Linux ]  深入解读脏牛Linux本地提权漏洞（CVE-2016-5195）： http://bobao.360.cn/learning/detail/3163.html
+[ Linux ]  Notes about CVE-2016-7117 Use-after-free vulnerability in the __sys_recvmmsg function in net/socket.c https://blog.lizzie.io/notes-about-cve-2016-7117.html
+﻿" CVE-2016-7117 Use-after-free vulnerability in the __sys_recvmmsg function in net/socket.c： https://t.co/qpwnpK2hct"
+[ Linux ]  [0day] [exploit] Compromising a Linux desktop using 6502 processor opcodes on the NES http://scarybeastsecurity.blogspot.in/2016/11/0day-exploit-compromising-linux-desktop.html?m=1
+﻿"利用 gstreamer 0.10.x player 中的漏洞和逻辑错误绕过  Ubuntu 12.04 64-bit ASLR、DEP：  https://t.co/DEmyKk4CDT "
+[ Linux ]  [local] - Linux Kernel 4.4 (Ubuntu 16.04) - BPF Local Privilege Escalation (Metasploit) https://www.exploit-db.com/exploits/40759/
+﻿"Linux Kernel 4.4 (Ubuntu 16.04) - BPF 本地提权漏洞 :  https://t.co/7zC3MuaMy3"
+[ Linux ]  #Cryptsetup vulnerability grants root shell access on some #Linux systems - http://bit.ly/2fdTP83 via last week's… https://twitter.com/i/web/status/798644999030120448
+﻿"Cryptsetup 存在漏洞，可获取一些 Linux 系统 root权限： https://t.co/w4lKeyHNsT "
+[ Linux ]  Cryptosetup LUKS Volume compromised - CVE 2016-4484 http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html #infosec #vulnerability #linux
+﻿"Linux 中 Cryptosetup 存在漏洞（CVE-2016-4484），可获取一个 root initramfs shell，本文对此漏洞进行了分析： http://hmarco.org/bugs/CVE-2016-4484/CVE-2016-4484_cryptsetup_initrd_shell.html#exploit "
+[ Linux ]  Nginx (Debian-based distros) - Root Privilege Escalation - http://legalhackers.com/advisories/Nginx-Exploit-Deb-Root-PrivEsc-CVE-2016-1247.html
+﻿"基于 Debian 发行版的 Nginx 存在提权漏洞（CVE-2016-1247），含 POC： https://t.co/xObQ5ChI3Y"
+[ Linux ]  [0day] [exploit] Advancing exploitation: a scriptless 0day exploit against Linux desktops http://scarybeastsecurity.blogspot.com/2016/11/0day-exploit-advancing-exploitation.html
+﻿"针对 Linux 桌面（Ubuntu 16.04 和 Fedora 24）的无脚本 0day 利用： https://t.co/aus68OPYLW"
+[ Linux ]  Linux Kernel 2.6.32-642 / 3.16.0-4 'inode' Integer Overflow PoC https://cxsecurity.com/issue/WLB-2016110205
+﻿"Linux Kernel 2.6.32-642 / 3.16.0-4 'inode' 整数溢出漏洞 PoC ： https://t.co/12dC50qXMk"
+[ Linux ]  Wget < 1.18 Access List Bypass / Race Condition Vuln. Exploit : https://legalhackers.com/advisories/Wget-Exploit-ACL-bypass-RaceCond-CVE-2016-7098.html
+﻿"GNU Wget < 1.18 条件竞争漏洞（含 PoC）︰ https://t.co/sdzDcW997m"
+[ Linux ]  Possible Integer Overflow in Kernel Linux - IPV4 - ip_tunnel.c http://bit.ly/2fbF4X6 http://bit.ly/2fvfDP3 #kernel #linux #infosec
+﻿"Kernel Linux - IPV4 - ip_tunnel.c Integer Overflow： https://t.co/w3midmwOEj  https://t.co/Tm0If0tU0Y "
+[ Linux ]  Compiled together a bunch of links related to Linux kernel exploitation: https://github.com/xairy/linux-kernel-exploitation
+﻿"Linux 内核 fuzzing 和漏洞利用的合集︰ https://t.co/1kPWInoDK6"
+[ Linux ]  4 Ways to get Linux Privilege Escalation http://www.hackingarticles.in/4-ways-get-linux-privilege-escalation/
+﻿"4 种 Linux 提权方法： https://t.co/YhkWL9lbsx"
+[ Linux ]  Linux ntpd 4.2.8 derive_nonce Stack Overflow https://packetstormsecurity.com/files/139900/ntp-sof.pl.txt
+﻿"Linux ntpd 4.2.8 derive_nonce 栈溢出 poc： https://t.co/aR7aVN3XwW"
+[ Linux ]  Using CHIPSEC with Kali Linux: https://github.com/chipsec/chipsec/wiki/Using-CHIPSEC-with-Kali-Linux
+﻿"在 Kali Linux 下安装平台安全框架 CHIPSEC 的方法: https://t.co/ucENUH2TxD"
+[ Linux ]  Linux kernel: ALSA: use-after-free in,kill_fasync http://seclists.org/oss-sec/2016/q4/575 https://github.com/torvalds/linux/commit/3aa02cb664c5fb1042958c8d1aa8c35055a2ebc4
+﻿" Linux kernel ALSA pcm 层 UAF 漏洞： https://t.co/LOcQyIVkkQ      Github： https://t.co/dQmvQoDlhO"
+[ Linux ]  [1day] [PoC with $rip] Deterministic Linux heap grooming with huge allocations http://scarybeastsecurity.blogspot.com/2016/12/1day-poc-with-rip-deterministic-linux.html
+﻿"[1day] [PoC with $rip] Deterministic Linux heap grooming with huge allocations ： https://t.co/jEcDe6lNk1"
+[ Linux ]  CVE-2016-8655 Linux "triggered from within containers to compromise the host kernel" http://www.openwall.com/lists/oss-security/2016/12/06/1
+﻿"Linux af_packet.c 条件竞争漏洞（CVE-2016-8655）： https://t.co/XMwscQMXwG"
+[ Linux ]  CVE-2016-7076 sudo: noexec bypass via wordexp() https://bugzilla.redhat.com/show_bug.cgi?id=1384982
+﻿"CVE-2016-7076 sudo: noexec bypass via wordexp() ： https://t.co/blOJ7IN1Rd"
+[ Linux ]  Linux Fundamentals : http://linux-training.be/linuxfun.pdf (pdf) // 7.0 Mb
+﻿"Linux 基础知识教程（PDF）︰ https://t.co/hRJnRgFbLu "
+[ Linux ]  Linux/x86 - Netcat Reverse Shell Shellcode (180 bytes) : https://www.exploit-db.com/exploits/40872/
+﻿"Linux/x86-Netcat shellcode︰ https://t.co/ljvhMyCmf3"
+[ Linux ]  CVE-2016-8655:Linux内核通杀提权漏洞（21:45更新POC）：http://bobao.360.cn/learning/detail/3267.html
+[ Linux ]  Searchable Linux Syscall Table for x86 and x86_64 : https://filippo.io/linux-syscall-table/ cc @ FiloSottile
+﻿"可搜索的  Linux x86 和 x86_64 系统调用表: https://t.co/Fo22oewVVH "
+[ Linux ]  Linux 4.9 allows introspecting to enumerate all the namespaces on a system (description + Golang example program); https://t.co/Klk49adash
+﻿"Linux 4.9 新特性允许枚举命名空间的关系： https://t.co/Klk49adash"
+[ Linux ]  Debian apt 签名验证 Bypass 漏洞： https://bugs.chromium.org/p/project-zero/issues/detail?id=1020
+[ Linux ]  Remote code exec in Ubuntu desktop all versions http://goo.gl/QENks7
+﻿"通过攻击 Crash Reporter 进一步控制 Ubuntu 桌面系统（版本>=12.10）： https://t.co/uE5rRM9Hz5"
+[ Linux ]  NTPD拒绝服务漏洞（CVE-2016-7434） 分析： http://paper.seebug.org/144/
+[ Linux ]  Linux/x86 - /bin/bash -c Arbitrary Command Execution Shellcode (72 bytes) : https://www.exploit-db.com/exploits/40924/
+﻿"Linux/x86-/ bin/bash -c 任意代码执行 Shellcode ︰ https://t.co/lgLkBpz4zv"
+[ Linux ]  New BlackArch Linux ISOs (2016.12.20) released! https://goo.gl/fb/OiHoZk #FullDisclosure
+﻿"BlackArch Linux ISOs 新版发布： https://t.co/EAmq9KJnJh "
+[ Linux ]  My first contribution to @ welivesecurity: http://www.welivesecurity.com/2016/12/20/new-linuxrakos-threat-devices-servers-ssh-scan/ #Linux #Malware
+﻿"新 Linux/Rakos 威胁: 设备及服务器遭受 SSH 扫描爆破攻击: https://t.co/sQA1rMCRKR "
+[ Linux ]  Programming Anti-Reversing Techniques for Linux https://github.com/antire-book/dont_panic
+﻿"使用多种逆向对抗技术的 Linux bind shell 后门： https://t.co/PUYzQJQzMc "
+[ Linux ]  CVE-2016-8655 内核竞争条件漏洞调试分析： https://mp.weixin.qq.com/s/6HSxkS8YX6hskg70BFbx-Q
+[ Linux ]  [remote] - OpenSSH < 7.4 - agent Protocol Arbitrary Library Loading https://www.exploit-db.com/exploits/40963/
+﻿"OpenSSH< 7.4 agent 协议任意库加载（CVE-2016-10009）： https://t.co/WE9GVVdZDb"
+[ Linux ]  [local] - OpenSSH < 7.4 - 'UsePrivilegeSeparation Disabled' Forwarded Unix Domain Sockets Privilege Escalation https://www.exploit-db.com/exploits/40962/
+﻿"OpenSSH < 7.4  UsePrivilegeSeparation 被禁用情况下转发 Unix Domain Sockets 导致的提权漏洞（CVE-2016-10010）： https://t.co/EXlLo8gxUW"
+[ Linux ]  Alpine Linux 3.5.0 released https://alpinelinux.org/posts/Alpine-3.5.0-released.html (http://bit.ly/2ixgbTa)
+﻿"Alpine Linux 3.5.0 发布： https://t.co/691vk1d3He "
+[ Linux ]  Firejail local root exploit: Posted by Sebastian Krahmer on Jan 04Hi Please find attached PoC for firejail, which… https://t.co/VOlTqmYuRz
+﻿"Firejail 本地权限提升： https://t.co/VOlTqmYuRz"
+[ Linux ]  I realized nobody knows how the Linux kernel init (initrd, initramfs, mounts, etc) works, so I rewrote it in bash: https://t.co/187drobILG
+﻿"实现 Linux 内核加载的 bash 脚本︰ https://t.co/187drobILG"
+[ Linux ]  updated Linux tools diagram (PNG & SVG) with recent bcc additions http://www.brendangregg.com/linuxperf.html https://t.co/ek5CMy3oUU
+﻿"Linux 各个层级、模块对应的调试工具一览： https://t.co/tMyCAxSzAS "
+[ Linux ]  GrSecurity 对于 Linux Reuse Attack Protector (RAP) 保护特性的说明文档： https://grsecurity.net/rap_faq.php
+[ Linux ]  Attacking UEFI Runtime Services and Linux : http://blog.frizk.net/2017/01/attacking-uefi-and-linux.html , Demo : https://www.youtube.com/watch?v=PiUVRHYTDUg ,… https://twitter.com/i/web/status/819185214618566660
+﻿"通过修改计算机固件攻击 UEFI 运行服务可进一步控制 Linux 系统︰ https://t.co/fntFEX3JS6 ; Demo︰ https://t.co/LLdLKDe4On"
+[ Linux ]  Very interesting ELF research: https://nebelwelt.net/publications/files/17NDSS.pdf
+﻿" ELF 研究：Loader 是如何背叛你的︰ https://t.co/J48ni56HqP"
+[ Linux ]  How SELinux helps blocking a 0day Docker vulnerability (CVE-2016-9962) : http://rhelblog.redhat.com/2017/01/13/docker-0-day-stopped-cold-by-selinux/
+﻿"使用 SELinux 防御 Docker 0 day 攻击（CVE-2016-9962): https://t.co/RxgEttffmp"
+[ Linux ]  Debian 9 Installer RC 1 release includes support for the USB armory: https://www.debian.org/devel/debian-installer/News/2017/20170115
+﻿"Debian 9 Installer RC 1 发布︰ https://t.co/0EHEJmAkLX"
+[ Linux ]  Linux/x86-64 - mkdir Shellcode (25 bytes) : https://www.exploit-db.com/exploits/41089/
+﻿"Linux/x86-64 - mkdir Shellcode (25 bytes)︰ https://t.co/rve1YpZNQg"
+[ Linux ]  Linux/x86_64 - Bind 5600 TCP Port - Shellcode (87 bytes) : https://www.exploit-db.com/exploits/41128/
+﻿"Linux/x86_64  Bind 5600 TCP Port Shellcode(87 bytes)︰ https://t.co/Z8nfSzszeO"
+[ Linux ]  Linux Gafgyt.B!tr Exploits Netcore Vulnerability http://blog.fortinet.com/2017/01/20/linux-gafgyt-b-tr-exploits-netcore-vulnerability
+﻿"Linux Gafgyt.B!tr Exploits Netcore Vulnerability ： https://t.co/NQISHzpgF1"
+[ Linux ]  Linux IR Cheatsheet : https://jordanpotti.com/wp-content/uploads/2017/01/linux-cheat-sheet.pdf (pdf) , Log Review Cheat Sheet : https://jordanpotti.com/wp-content/uploads/2017/01/Log_Review.pdf (pdf) cc @ ok_bye_now
+﻿"Linux 入侵发现备忘册︰ https://t.co/qVKeZQbYvq ，日志审计备忘册︰ https://t.co/Y5J7iQ62P2 "
+[ Linux ]  Linux Setgid Directory Privilege Escalation http://www.halfdog.net/Security/2015/SetgidDirectoryPrivilegeEscalation/
+﻿"Linux Setgid 目录提权（2015）： https://t.co/RDTdXJyF2b"
+[ Linux ]  local privilege escalation in #illumos via permissions not being enforced in /proc http://benmmurphy.github.io/blog/2017/01/31/local-privilege-escalation-in-illumos-via-slash-proc/ https://t.co/EqXucUWB1o
+﻿" Illumos 基于 /proc 实现的本地提权（Illumos 是 OpenSolaris 的衍生版本）： https://t.co/mWFXdUexXn https://t.co/EqXucUWB1o "
+[ Linux ]  Three of the vulnerabilities fixed were branded “medium” severity by #OpenSSL #Ubuntu #Linux https://threatpost.com/latest-ubuntu-update-includes-openssl-fixes/123513/ via @ threatpost
+﻿" Ubuntu 上周发布安全更新，其中包括 3 个 OpenSSL 的中危漏洞： https://t.co/RI21YrGhq1"
+[ Linux ]  Attack and Defend: Linux Privilege Escalation Techniques of 2016 https://www.sans.org/reading-room/whitepapers/testing/attack-defend-linux-privilege-escalation-techniques-2016-37562
+﻿" SANS 总结的 2016 年 Linux 提权技术： https://t.co/bj62iExdC6 "
+[ Linux ]  [local] - Debian 9 ntfs-3g - Privilege Escalation https://www.exploit-db.com/exploits/41240/
+﻿" ntfs-3g (Debian 9) 本地提权 Exploit（CVE-2017-0358）： https://t.co/ihRxtnofam"
+[ Linux ]  #SharedLinks ROP Primer - Walkthrough of Level 0 http://j.mp/2k3PVB9
+﻿"ROP Primer - Walkthrough of Level 0： https://t.co/ACaGeP90RL"
+[ Linux ]  ZoneMinder - multiple vulnerabilities https://goo.gl/fb/5Lemyv #FullDisclosure
+﻿"视频监控软件 ZoneMinder 存在多个漏洞（CVE-2017-5595, CVE-2017-5367, CVE-2017-5368, CVE-2016-10140）： https://t.co/BxJycl1shd "
+[ Linux ]  Very cool. The comparison to SSP hits it home. Perf win and more with no tradeoffs vs SSP. https://twitter.com/paxteam/status/828600806500876288
+﻿"Linux Kernel 4.9 加入 RAP(Reuse Attack Protector 复用攻击保护) 机制： https://grsecurity.net/rap_announce_ret.php"
+[ Linux ]  ntfs-3g local privilege escalation to root CVE-2017-0359 http://marc.info/?l=oss-security&m=148619467901185&w=2 #infosec #ntfs #linux #Privesc
+﻿"ntfs-3g 本地权限提升漏洞利用脚本（CVE-2017-0359）： https://t.co/U2wntS4YBA"
+[ Linux ]  Ubuntu 16.10 local privilege escalation exploit via ntfs-3g https://bugs.chromium.org/p/project-zero/issues/detail?id=1072
+﻿"ntfs-3g（Ubuntu 16.10） 在不安全的环境变量下调用 modprobe 导致本地权限提升漏洞： https://t.co/zaPHjxiLhF"
+[ Linux ]  ELF-Miner : Using Structural Knowledge and Data Mining Methods To Detect New (Linux) Malicious Executables : http://www.genetic-programming.org/hc2011/05-Farooq/Farooq-Paper.pdf (pdf)
+﻿"ELF-Miner -- 使用结构化知识和数据挖掘方法来检测新的 Linux 恶意执行文件︰ https://t.co/JRzrsUKTkO (pdf)"
+[ Linux ]  Exploit Dev 0x01 | 64-bit Linux Stack Buffer Overflow http://badbytes.io/2017/02/15/exploit-dev-0x01-64-bit-linux-stack-buffer-overflow/
+﻿"64 位 Linux 栈缓冲区溢出漏洞利用代码开发： https://t.co/oHqdfEMtrb"
+[ Linux ]  Linux Shellcoding (Part 1.0) : https://0x00sec.org/t/linux-shellcoding-part-1-0/289
+﻿" Linux Shellcode 编写技术 Part 1.0: https://t.co/ZDylkxyTW1"
+[ Linux ]  Writing a Linux Kernel Module — (Part 1 - Introduction) : http://derekmolloy.ie/writing-a-linux-kernel-module-part-1-introduction/ , (Part 2 - A Character Device ): http://derekmolloy.ie/writing-a-linux-kernel-module-part-2-a-character-device/
+﻿"写一个 Linux 内核模块 part 1 : https://t.co/Rx8JHFjOAD  part 2 ︰ https://t.co/1CNOU8qvQA"
+[ Linux ]  NetBSD leaks 249 bytes over Ethernet (ARP) http://ftp.netbsd.org/pub/NetBSD/security/advisories/NetBSD-SA2017-002.txt.asc Linux <2.0.40 leaks 20 bytes over Internet (ICMP) https://t.co/to2wzBxMjO
+﻿"NetBSD ARP 协议漏洞细节： https://t.co/DmPXfzwEjn "
+[ Linux ]  Web Server Exploitation with SSH Log Poisoning through LFI http://www.hackingarticles.in/web-server-exploitation-ssh-log-poisoning-lfi/
+﻿"通过污染 SSH 日志攻击 Web 服务器： https://t.co/wFT8rrkw64"
+[ Linux ]  CVE-2017-0359：一个环境变量引发的提权漏洞： http://mp.weixin.qq.com/s?__biz=MzAwNTI1NDI3MQ==&mid=2649612076&idx=1&sn=d87dd16399cc449c66a040ea74da42cc&chksm=8306023cb4718b2a48a5977cf43778c82451b1371e7fc70192762b71ec2e387905db06c71fd3&mpshare=1&scene=23&srcid=0222nTJMYc5IavFlghL8WHgS#rd
+[ Linux ]  Linux kernel: CVE-2017-6074: DCCP double-free vulnerability (local root) http://seclists.org/oss-sec/2017/q1/471
+﻿"Linux 内核 DCCP Double Free 代码执行漏洞（CVE-2017-6074），可以实现本地 ROOT： https://t.co/ZqKHNXB40S"
+[ Linux ]  Analyzing a .NET Core Core Dump on Linux http://blogs.microsoft.co.il/sasha/2017/02/26/analyzing-a-net-core-core-dump-on-linux/
+﻿"Analyzing a .NET Core Core Dump on Linux： http://blogs.microsoft.co.il/sasha/2017/02/26/analyzing-a-net-core-core-dump-on-linux/ "
+[ Linux ]  Proof-of-Concept local root exploit for the double-free in Linux kernel DCCP implementation (CVE-2017-6074): https://github.com/xairy/kernel-exploits/tree/master/CVE-2017-6074
+﻿" Linux 内核 DCCP Double Free 代码执行漏洞（CVE-2017-6074） poc: https://t.co/WbEHTqK3b0"
+[ Linux ]  Linux kernel mitigation checklist( update: Feb 28 2017) https://hardenedlinux.github.io/system-security/2016/12/13/kernel_mitigation_checklist.html
+﻿"Linux 内核的漏洞利用缓解特性清单：  https://t.co/6kWvhDac6L"
+[ Linux ]  Linux kernel v4.10 released last week, and I've put up some notes on security things I found interesting: https://t.co/BRVZkJkRTU
+﻿"Linux v4.10 内核安全特性上的新变化︰ https://t.co/BRVZkJkRTU"
+[ Linux ]  Slides for my #scale15x talk Linux 4.x Tracing: Performance Analysis with bcc/BPF (eBPF) https://www.slideshare.net/brendangregg/linux-4x-tracing-performance-analysis-with-bccbpf
+﻿"Linux 4.x Tracing: 利用 bcc/BPF 进行性能分析： https://t.co/uOwi8oga1f"
+[ Linux ]  This was an interesting read on exploiting uninitialised Linux kernel stack variables http://www.cc.gatech.edu/~klu38/publications/ubi-ndss17.pdf
+﻿"利用 Stack Spray 的方法，实现 Linux 内核栈上变量未初始化漏洞的利用，paper： https://t.co/NiQ1laqpK9"
+[ Linux ]  Security issue in Linux kernel (v4.5+) persistent memory enabling http://seclists.org/oss-sec/2017/q1/570
+﻿" Linux kernel (v4.5+) DAX mappings 存在安全问题可导致任意可读文件可被写入： https://t.co/P80rzocW5s"
+[ Linux ]  Linux kernel: CVE-2017-2636: local privilege escalation flaw in n_hdlc http://seclists.org/oss-sec/2017/q1/569
+﻿"Linux 内核驱动 n_hdlc 存在条件竞争漏洞，可导致本地权限提升（CVE-2017-2636）： https://t.co/uL3fh13sDl"
+[ Linux ]  一条命令引发的思考，文章主要对 Linux SSH 后门原理进行了分析： https://xianzhi.aliyun.com/forum/mobile/read/790.html
+[ Linux ]  Linux Mono JIT 4.6.2 Compiler mismanagement multithread handling | Buffer Overflow https://cxsecurity.com/issue/WLB-2017030170
+﻿" Linux Mono JIT 4.6.2 编译器多线程处理不善导致缓冲区溢出漏洞： https://t.co/SOtpV77jb1"
+[ Linux ]  SELinux 教程之 Permissive VS Enforcing： http://weibo.com/ttarticle/p/show?id=2309404086349329258046
+[ Linux ]  Writing a Linux Debugger (Part 1) - Setup : http://blog.tartanllama.xyz/c++/2017/03/21/writing-a-linux-debugger-setup/
+﻿"来写一个 Linux Debugger part 1︰ https://t.co/zKuqvBJ7Bw"
+[ Linux ]  Kernel upstream patch for pwn2own ubuntu Kernel local privilege escalation (CVE-2017-7184): https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=677e806da4d916052585301785d847c3b3e6186a https://t.co/gUaIJZGPWd
+﻿"长亭科技在 PWN2OWN 2017 比赛中用的 Ubuntu 内核本地提权漏洞(CVE-2017-7184)修复了，补丁信息︰ https://t.co/w2hvCIdhLP https://t.co/gUaIJZGPWd"
+[ Linux ]  I've published the write-up about exploiting CVE-2017-2636 in the Linux kernel: https://a13xp0p0v.github.io/2017/03/24/CVE-2017-2636.html
+﻿" Linux 内核 n_hdlc 条件竞争漏洞的利用（CVE-2017-2636）（含 SMEP Bypass）︰ https://t.co/U6jQqp6urM"
+[ Linux ]  Tracing Runtime Events in .NET Core on Linux http://blogs.microsoft.co.il/sasha/2017/03/30/tracing-runtime-events-in-net-core-on-linux/
+﻿" 如何跟踪 Linux 版本 .NET Core 的运行时事件，包括垃圾回收、字节码加载、线程创建、对象创建等等： https://t.co/Qy8QxeF6GU "
+[ Linux ]  Exploiting USB/IP in Linux : https://www.blackhat.com/docs/asia-17/materials/asia-17-Korchagin-Exploiting-USBIP-In-Linux.pdf (Slides) #BHASIA cc @ secumod
+﻿" Exploiting USB/IP in Linux， USB/IP 是一种通过网络共享 USB 设备的方式︰ https://t.co/EwAlqPIbht "
+[ Linux ]  DROP THE ROP : Fine Grained Control-Flow Integrity for The Linux Kernel : https://www.blackhat.com/docs/asia-17/materials/asia-17-Moreira-Drop-The-Rop-Fine-Grained-Control-Flow-Integrity-For-The-Linux-Kernel.pdf (Slides) #BHASIA
+﻿"通过为 Linux 内核提供细粒度的 CFI，对抗 ROP，来自 BlackHat Asia 2017 会议︰ https://t.co/2o3ejkDTsi "
+[ Linux ]  Linux Malware Analysis using Limon Sandbox : https://cysinfo.com/10th-meetup-linux-malware-analysis/ (Slides & Demo) cc @ monnappa22
+﻿"基于 Limon 沙箱的 Linux 恶意软件分析︰ https://t.co/VQfVYvVE67  作者曾在 2015 年的 BlackHat Europe 会议上讲过 Limon 沙箱"
+[ Linux ]  I've just fully rewrited eight part of the #linux #kernel initialization process about scheduler initialization - https://t.co/afgEKKI2KQ
+﻿"Linux Insides 系列文章之内核调度器的初始化： https://t.co/afgEKKI2KQ"
+[ Linux ]  I've published the write-up about exploiting CVE-2017-2636 in the Linux kernel: https://a13xp0p0v.github.io/2017/03/24/CVE-2017-2636.html
+﻿" CVE-2017-2636: 对 Linux 内核驱动模块 n_hdlc 中存在的条件竞争漏洞进行利用，以绕过 SMEP︰ https://t.co/U6jQqp6urM"
+[ Linux ]  Tracing .NET Core on Linux with USDT and BCC -- GC stacks, object allocs, exception statistics and much more:… https://t.co/AqNQ6Tfx7B
+﻿"为 Linux .NET Core 添加 Event Tracing 的支持： http://blogs.microsoft.co.il/sasha/2017/04/02/tracing-net-core-on-linux-with-usdt-and-bcc/"
+[ Linux ]  The Linux kernel user’s and administrator’s guide : https://01.org/linuxgraphics/gfx-docs/drm/admin-guide/index.html
+﻿"Linux 内核指南︰ https://t.co/W5iPKNTIcC"
+[ Linux ]  CVE-2016-10229 - Linux kernel (< 4.5) remote code execution via UDP recv() using MSG_PEEK flag https://nvd.nist.gov/vuln/detail/CVE-2016-10229
+﻿" Linux 内核被发现了一个可以通过 UDP 触发的 RCE 漏洞（CVE-2016-10229），漏洞位于 udp.c 的校验和计算过程（与 MSG_PEEK 标志位有关），影响 4.5 之前版本的内核： https://t.co/SqyytyDD50 "
+[ Linux ]  Linux Kernel 4.8.0 udev 232 Privilege Escalation https://packetstormsecurity.com/files/142152/linuxkernel480udev-escalate.txt
+﻿"Linux Kernel 4.8.0 udev 232 权限提升漏洞（CVE-2017-7874）： https://t.co/zzlxyUHs6d"
+[ Linux ]  CVE - CVE-2017-7889 - CVE http://nzzl.us/rC56qkz
+﻿"Linux kernel 4.10.10 中的 mm 子系统没有适当的执行CONFIG_STRICT_DEVMEM 保护机制导致本地用户可读/写内核内存（CVE-2017年-7889）： https://t.co/7qKqTB8c8m"
+[ Linux ]  Added a new post to my blog, Linux ptrace introduction AKA injecting into sshd for fun https://blog.xpnsec.com/linux-process-injection-aka-injecting-into-sshd-for-fun/
+﻿"在 Linux 下使用 ptrace 向 sshd 进程注入任意代码： https://t.co/IPwvAJC4E9"
+[ Linux ]  Tasty remote heap overflow in Linux. https://git.kernel.org/pub/scm/linux/kernel/git/davem/net.git/commit/?id=4d6fa57b4dab0d77f4d8e9d9c73d1e63f6fe8fee
+﻿"Linux 内核刚刚修复了一个 skb_to_sgvec 中的堆溢出漏洞： https://t.co/yrd7eYNMsM"
+[ Linux ]  Latest Kali Linux updates and 2017.1 release announcement - http://offs.ec/2q1IjSP Get your ISO, VM and ARM images while they're hot!
+﻿"Kali Linux 发布 2017.1 版本： https://t.co/8aoEpmXvFs "
+[ Linux ]  10 vulnerabilities patched in Ubuntu. at least 5 of them were found by syzkaller (@dvyukov and @andreyknvl ) https://t.co/5kSemaHPUv
+﻿"Ubuntu 16.04 LTS 发布漏洞公告，修复了 10 个漏洞： https://t.co/5kSemaHPUv"
+[ Linux ]  new blog post: USENIX/LISA 2016 Linux bcc/BPF Tools http://www.brendangregg.com/blog/2017-04-29/usenix-lisa-2016-bcc-bpf-tools.html https://t.co/nu4L88BypG
+﻿"Linux 4.X Tracing Tools: Using BPF Superpowers： http://www.brendangregg.com/blog/2017-04-29/usenix-lisa-2016-bcc-bpf-tools.html "
+[ Linux ]  PWN2OWN 2017 Linux 内核提权漏洞分析，长亭实验室研究员公开了他们攻击 PWN2OWN Ubuntu 16.10 Desktop 本地提权漏洞的细节： https://zhuanlan.zhihu.com/p/26674557
+[ Linux ]  Painless intro to the Linux userland heap and heap-fengshui https://sensepost.com/blog/2017/painless-intro-to-the-linux-userland-heap-and-heap-fengshui/
+" Linux 用户态堆以及漏洞利用中的堆风水技术（ptmalloc2 ）： https://sensepost.com/blog/2017/painless-intro-to-the-linux-userland-heap-and-heap-fengshui/ "
+[ Linux ]  LINUX内核开发与调试 -- KDB，来自张银奎老师： http://001001.org/gedu/12_LINUX_Raymond_KDB.pdf
+[ Linux ]  Project Zero guest blog post: "Exploiting the Linux kernel via packet sockets" by @ andreyknvl - https://googleprojectzero.blogspot.com/2017/05/exploiting-linux-kernel-via-packet.html
+" Linux kernel TPACKET_V3 packet_set_ring() 整数符号比较导致的越界写漏洞（CVE-2017-7308），Project Zero 这篇 Blog 介绍这个漏洞是如何发现的以及如何利用这个漏洞： https://googleprojectzero.blogspot.com/2017/05/exploiting-linux-kernel-via-packet.html "
+[ Linux ]  A collection of Linux kernel exploitation materials: https://github.com/xairy/linux-kernel-exploitation
+" Linux Kernel Exploitation - 近几年 Linuxn 内核漏洞挖掘、漏洞分析、漏洞利用方面的资料整理： https://github.com/xairy/linux-kernel-exploitation "
+[ Linux ]  Linux Kernel 3.x usb-midi Local Privilege Escalation https://cxsecurity.com/issue/WLB-2017050093
+"  Linux Kernel 3.x usb-midi 本地提权漏洞介绍及 PoC（CVE-2016-2384）： https://cxsecurity.com/issue/WLB-2017050093 "
+[ Linux ]  [blog] Further hardening glibc malloc() against single byte overflows https://scarybeastsecurity.blogspot.com/2017/05/further-hardening-glibc-malloc-against.html
+" 进一步加固 glibc malloc()，缓解单字节溢出对抗 64 位系统 ASLR 的问题： https://t.co/Uew51HutVc "
+[ Linux ]  Surprise, I ported Windows Defender to Linux. ?https://github.com/taviso/loadlibrary
+" Tavis 将 Windows DLL 移植到了 Linux，支持在 Linux 中加载和调用 DLL 中的函数。移植到 Linux 上之后可以方便在 Linux 上 Fuzz Windows 库。为了演示效果，他把 Windows Defender 移植到了 Linux： https://t.co/7eP48O87Vi "
+[ Linux ]  [CVE-2017-1000363] Linux lp.c Out-of-Bounds Write via Kernel Command-line https://alephsecurity.com/vulns/aleph-2017023
+" Linux 内核 4.12-rc1 lp.c 存在一个数组越界写漏洞（CVE-2017-1000363）： https://t.co/O330tTYVEI "
+[ Linux ]  Linux Kernel 3.11 < 4.8 0 SO_SNDBUFFORCE SO_RCVBUFFORCE Local Privilege Escalation https://cxsecurity.com/issue/WLB-2017050084 #Kernel… https://t.co/NOIB0S1IO0
+" Linux Kernel 3.11 < 4.8 0 SO_SNDBUFFORCE SO_RCVBUFFORCE 本地提权漏洞利用(CVE-2016-9793)： https://cxsecurity.com/issue/WLB-2017050084 "
+[ Linux ]  How Dirty COW (CVE-2016-5195) works under the hood from the kernel’s perspective: https://chao-tic.github.io/blog/2017/05/24/dirty-cow
+" Dirty COW 漏洞以及从内核的角度来深度分析 Dirty COW： https://t.co/HuhK59IBQh "
+[ Linux ]  Learn how the Linux kernel works. Impressive. Could make a great print book. https://www.gitbook.com/book/0xax/linux-insides/details @ 0xAX
+" 之前推送过的 GitHub linux-insides 项目的电子书合辑： https://t.co/U9klLgT68G "
+[ Linux ]  Linux kernel: stack buffer overflow with controlled payload in get_options() function http://seclists.org/oss-sec/2017/q2/344
+" Linux 内核命令行解析 get_options 栈缓冲区溢出漏洞： https://t.co/RiXy3Jw43a "
+[ Linux ]  WIP ebook on heap internals (glibc 'malloc' & 'free') & intro to heap exploitation https://heap-exploitation.dhavalkapil.com/ [see… https://t.co/cjDUssqFUO
+"  Glibc Heap Exploitation（在线电子书），介绍的是 glibc 内存的申请和释放的内幕，以及堆利用的一些技术： https://t.co/wsQb8WfKvp "
+[ Linux ]  Linux sudo's get_process_ttyname() root privilege escalation (CVE-2017-1000367) http://www.openwall.com/lists/oss-security/2017/05/30/16 #linux… https://t.co/fn156kxllX
+"  Linux Sudo get_process_ttynam() Root 本地提权漏洞（CVE-2017-1000367）： http://www.openwall.com/lists/oss-security/2017/05/30/16 "
+[ Linux ]  Linux 的三个不同内核版本（Linux 主线版, grsecurity 和 linux-hardened）的 ASLR 实现情况比较： https://gist.github.com/thestinger/b43b460cfccfade51b5a2220a0550c35
+[ Linux ]  昨天推送的 Linux sudo get_process_ttyname 高危漏洞的补丁已经发布了： https://threatpost.com/patches-available-for-linux-sudo-vulnerability/125985/
+[ Linux ]  syscall_intercept - 在用户态 Hot Patch 进程内存实现劫持 Linux 系统调用的工具，Intel 开源的： https://github.com/pmem/syscall_intercept
+[ Linux ]   深入解析 Linux 容器 Part 1 ： https://t.co/qGSuclESWo
+[ Linux ]  Linux kernel 2.6.0 ~ 4.12-rc4 刚刚修复了一个 ALSA timer 内核信息泄露漏洞： https://t.co/54H6bNUEh6
+[ Linux ]   在 Kali Linux 下使用 mingw 编译 Windows 漏洞利用程序： http://www.hackingtutorials.org/exploit-tutorials/mingw-w64-how-to-compile-windows-exploits-on-kali-linux/
+[ Linux ]  Linux sudo漏洞（CVE-2017-1000367）复现和利用思路分析，来自 FreeBuf： http://www.freebuf.com/articles/system/136975.html
+[ Linux ]   有研究者公开了一个前两周的 Linux Sudo get_process_ttyname()(CVE-2017-1000367) 漏洞的 Exploit：  http://seclists.org/oss-sec/2017/q2/470    https://github.com/c0d3z3r0/sudo-CVE-2017-1000367
+[ Linux ]  selinux-rc - 基于 REST API 远程控制 SELinux 的策略： https://github.com/kreon/selinux-rc
+[ Linux ]  针对Linux内核中double fetch漏洞的研究： http://mp.weixin.qq.com/s/D1sZNvCqRVfkw4Xvyf2Efw
+[ Linux ]  "Phoenix Talon" in Linux Kernel —潜伏长达11年之久的内核漏洞，来自 启明星辰 ADLab： http://mp.weixin.qq.com/s/6NGH-Dk2n_BkdlJ2jSMWJQ
+[ Linux ]   SCONE: Secure Linux Containers with Intel SGX，Intel SGX 保护机制在 Linux 容器上的应用：  https://www.usenix.org/system/files/conference/osdi16/osdi16-arnautov.pdf
+[ Linux ]   Alpine Linux: 从发现漏洞到代码执行： https://www.twistlock.com/2017/06/25/alpine-linux-vulnerability-discovery-code-execution-pt-1-2/
+[ Linux ]    Linux 爆重大安全漏洞，Systemd 和 Service Manager 在处理畸形 DNS 响应数据包时存在缓冲区溢出漏洞，这个漏洞可以直接远程利用实现代码执行（CVE-2017-9445）： http://securityaffairs.co/wordpress/60520/hacking/linux-hacking-dns-response.html https://threatpost.com/linux-systemd-bug-could-have-led-to-crash-code-execution/126605/
+[ Linux ]  Ubuntu Systemd 安全加固： https://github.com/konstruktoid/hardening
+[ Linux ]   SLAE: Shell Reverse TCP Shellcode (Linux/x86)： https://www.rcesecurity.com/2014/07/slae-shell-reverse-tcp-shellcode-linux-x86/
+[ Linux ]  上周发布的 Linux 内核 4.12 版本在安全方面有哪些变化： https://outflux.net/blog/archives/2017/07/10/security-things-in-linux-v4-12/
+[ Linux ]  grsecurity V4.11.10 发布更新说明： https://grsecurity.net/grsecurity_4_11_updates.php
+[ Linux ]   Alpine Linux 漏洞利用（Pt 2 of 2）： https://www.twistlock.com/2017/07/13/alpine-linux-pt-2-twistlock-security-alert/
+[ Linux ]  Azeria Labs 对进程内存布局和常见内存破坏类型的总结： https://azeria-labs.com/process-memory-and-memory-corruption/
+[ Linux ]   Linux 内核 brcmf_cfg80211_mgmt_tx 的缓冲区溢出漏洞（CVE-2017-7541）： http://seclists.org/oss-sec/2017/q3/208
+[ Linux ]    Linux 堆利用技术之 UAF 漏洞及利用，来自 SensePost： https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-used-and-abused-use-after-free/
+[ Linux ]    Red Hat Enterprise Linux 7.4 版本开始集成 USBGuard 软件框架，利用黑白名单等技术抵御流氓 USB 设备的攻击： http://rhelblog.redhat.com/2017/08/03/built-in-protection-against-usb-security-attacks-with-usbguard/
+[ Linux ]   Green Hills的 Dan O’Dowd 于 2004 年发表的名为 Linux in Defense 的系列文章通过一系列的分析试图向公众解释为什么 Linux 内核不适合一些场景特别是国家防御，来自 hardenedlinux 的新浪微博： http://weibo.com/5654890146/FfnMWoK3v?type=comment
+[ Linux ]  给shellcode找块福地－ 通过VDSO绕过PXN： https://mp.weixin.qq.com/s/fVfk5aRO4bKgA4qfEX3Qlw
+[ Linux ]  利用 Trace Compass 开源工具在 Linux 系统可视化分析 CoreCLR 的事件日志： http://tooslowexception.com/analyzing-runtime-coreclr-events-from-linux-trace-compass/?utm_content=buffer8479d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+[ Linux ]  对 Linux Kernel Double-free 类型漏洞的较通用利用方法，来自 Hardened GNU/Linux： https://hardenedlinux.github.io/system-security/2017/08/08/exploit_linux_kernel_double-free_flaws.html
+[ Linux ]  Linux 存储栈图表： https://www.thomas-krenn.com/en/wiki/Linux_Storage_Stack_Diagram
+[ Linux ]   Linux 内核 UFO/非UFO 路径切换内存破坏漏洞的 PoC(CVE-2017-1000112): https://github.com/xairy/kernel-exploits/tree/master/CVE-2017-1000112
+[ Linux ]  Linux 内核在处理 MPLS Packet 时存在的远程拒绝服务，一个数据包就可以触发： http://seclists.org/oss-sec/2017/q3/345
+[ Linux ]  eLux Linux 本地提权漏洞详情（CVE-2017-7977）： https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/august/delux-edition-getting-root-privileges-on-the-elux-thin-client-os/
+[ Linux ]   Race for Root：Analysis of the Linux Kernel Race Condition Exploit（CVE-2017-2636），来自 Positive Technologies 研究员介绍内核条件竞争->Double Free 漏洞的利用和缓解措施： http://blog.ptsecurity.com/2017/08/linux-block-double-free.html
+[ Linux ]   KTLS: Linux Kernel Transport Layer Security，内核中的安全套接字层，该特性已经在 Linux 内核 4.13 版本中启用： https://netdevconf.org/1.2/papers/ktls.pdf
+[ Linux ]   内核开发者 Brendan Gregg 从 Solaris 转到 Linux（ZFS、Zones、DTrace）： http://www.brendangregg.com/blog/2017-09-05/solaris-to-linux-2017.html
+[ Linux ]    Linux file 程序栈缓冲区溢出漏洞（ CVE-2017-1000249），影响 5.29/5.30/5.31 版本： http://seclists.org/oss-sec/2017/q3/397
+[ Linux ]   前段时间推送过 BlackHat Asia 2017 会议的这篇 Paper《DROP THE ROP : Fine Grained Control-Flow Integrity for The Linux Kernel》，昨天 Hardenlinux 对它做了一个更详细的介绍： http://weibo.com/5654890146/FknEMc4SO?ref=collection&type=comment
+[ Linux ]  Linux(x86)栈溢出exploit开发技巧“return-to-libc”： http://mp.weixin.qq.com/s/W1lUMJHVT_6_7GYNsxWdWA
+[ Linux ]   Linux 4.13 发布后，本篇文章作者对新版本中 SELinux 与审计功能的改变做了简短总结： http://www.paul-moore.com/blog/d/2017/09/linux-v413.html
+[ Linux ]  grsecurity-101-tutorials - PaX/Grsecurity 新手教程： https://github.com/hardenedlinux/grsecurity-101-tutorials
+[ Linux ]  Linux 内核修复昨天推送的蓝牙 BlueBorne 攻击的补丁： https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=e860d2c904d1a9f38a24eb44c9f34b8f915a6ea3
+[ Linux ]   30 个有趣的 Linux Shell 命令： https://www.lopezferrando.com/30-interesting-shell-commands/
+[ Linux ]  SELinux in Android Oreo or: How I Learned to Stop Worrying and Love Attributes：  http://events.linuxfoundation.org/sites/events/files/slides/LSS%20-%20Treble%20%27n%27%20SELinux.pdf
+[ Linux ]    Linux 内核驱动 mmap handler 实现过程中的漏洞及利用，来自 MWR Labs： https://labs.mwrinfosecurity.com/assets/BlogFiles/mwri-mmap-exploitation-whitepaper-2017-09-18.pdf
+[ Linux ]  来自 EuroBSDcon 2017 会议的演讲《Linux 系统性能分析方法论》： https://www.slideshare.net/brendangregg/eurobsdcon-2017-system-performance-analysis-methodologies
+[ Linux ]  来自 SensePost 的 Linux 堆漏洞系列文章：The magicians cape - 一字节溢出： https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-the-magicians-cape-1-byte-overflow/
+[ Linux ]   linux_kernel_cves - Linux 内核 CVE 追踪： https://github.com/nluedtke/linux_kernel_cves
+[ Linux ]   Linux 内核 PIE ELF 文件加载实现过程中存在栈内存破坏漏洞，成功利用可以实现提权（CVE-2017-1000253）： https://access.redhat.com/security/vulnerabilities/3189592  https://www.qualys.com/2017/09/26/cve-2017-1000253/cve-2017-1000253.txt
+[ Linux ]  Linux 内核 4.13 waitid() 信息泄露 PoC（x64 version for KASLR bypassing）： https://grsecurity.net/~spender/exploits/wait_for_kaslr_to_be_effective.c https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=6c85501f2fabcfc4fc6ed976543d252c4eaf4be9
+[ Linux ]   利用电压错误注入（Voltage Fault Injection）攻击实现 Linux 操作系统的提权： https://www.riscure.com/publication/escalating-privileges-linux-using-fault-injection/
+[ Linux ]  针对 CVE-2017-1000112 漏洞的详细分析： https://securingtomorrow.mcafee.com/mcafee-labs/linux-kernel-vulnerability-can-lead-to-privilege-escalation-analyzing-cve-2017-1000112/
+[ Linux ]    Intel TSX/RTM (Restricted Transactional Memory) 缓存侧信道攻击 Bypass Linux kASLR PoC：  https://github.com/vnik5287/kaslr_tsx_bypass
+[ Linux ]    Linux 内核 fsnotify 实现过程中的条件竞争本地提权漏洞 Exploit（CVE-2017-7533）： https://github.com/hardenedlinux/offensive_poc/tree/master/CVE-2017-7533
+[ Linux ]  Linux Kernel AF_PACKET Use-After-Free： https://blogs.securiteam.com/index.php/archives/3484
+[ Linux ]  Linux 内核 musl 组件 getaddrinfo() 刚刚修复一个栈缓冲区溢出漏洞： https://t.co/AEPUUGYrom  https://twitter.com/thegrugq/status/699784765163999232
+[ Linux ]   Linux 内核 waitid 系统调用本地提权漏洞（CVE-2017-5123）Exploit： https://github.com/nongiach/CVE/tree/master/CVE-2017-5123
+[ Linux ]  使用 Voltage Fault Injection 实现 Linux 本地提权(Paper)： https://www.riscure.com/uploads/2017/10/Riscure_Whitepaper_Escalating_Privileges_in_Linux_using_Fault_Injection.pdf
+[ Linux ]   Linux device driver labs 的网站，网站上有 Linux 内核驱动的大量文档：  https://linux-kernel-labs.github.io/
+[ Linux ]   500 行代码，基于 namespace、capabilities、cgroups、setrlimit 自己实现一个 Linux 容器(Container)： https://blog.lizzie.io/linux-containers-in-500-loc.html
+[ Linux ]  Linux内核Waitid系统调用本地提权漏洞（CVE-2017-5123）的分析与利用： http://www.freebuf.com/vuls/152412.html
+[ Linux ]  Exploiting CVE-2017-5123 with full protections. SMEP, SMAP, and the Chrome Sandbox： https://salls.github.io/Linux-Kernel-CVE-2017-5123/
+[ Linux ]   通过 syzkaller Fuzz 出来的 Linux 内核 USB 子系统的 11 个漏洞（CVE-2017-16525/CVE-2017-16526/CVE-2017-16527/.../CVE-2017-16538）： http://www.openwall.com/lists/oss-security/2017/11/06/8  https://github.com/google/syzkaller/blob/master/docs/linux/found_bugs_usb.md
+[ Linux ]   Linux 内核中的 Double Fetch 漏洞研究，来自 USENIX 2017 会议的 Paper： https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-wang.pdf
+[ Linux ]   对 Linux 内核 Waitid 系统调用本地提权漏洞（CVE-2017-5123）的分析与利用：  https://reverse.put.as/2017/11/07/exploiting-cve-2017-5123/
+[ Linux ]    Linux 内核 FILE 数据结构的剖析以及基于 FILE 的二进制利用技术： https://www.slideshare.net/AngelBoy1/play-with-file-structure-yet-another-binary-exploit-technique
+[ Linux ]   Linux系统上存在基础认证的 x86_64 TCP bind shellcode： https://pentesterslife.blog/2017/11/01/x86_64-tcp-bind-shellcode-with-basic-authentication-on-linux-systems/
+[ Linux ]   利用 Linux 内核 3.9 版本新引入的 SO_REUSEPORT socket 选项可以实现进程的无缝更新： https://twitter.com/i/web/status/929186475232649217 https://speakerdeck.com/joewalnes/linux-port-sharding
+[ Linux ]   Linux 系统上存在基础认证的 x86_64 TCP bind shellcode： https://pentesterslife.blog/2017/11/13/x86_64-reverse-tcp-bind-shell-with-basic-authentication-on-linux-systems/
+[ Linux ]  CVE-2017-5123 漏洞利用全攻略： https://paper.seebug.org/451/
+[ Linux ]   Linux 版 Firefox 57 在沙箱防护上做了一些改进：  http://www.morbo.org/2017/11/linux-sandboxing-improvements-in.html
+[ Linux ]  Linux Kernel 3.11 < 4.8 0 SO_SNDBUFFORCE SO_RCVBUFFORCE 本地提权漏洞利用 (CVE-2016-9793)： https://cxsecurity.com/issue/WLB-2017050084
+[ Linux ]   Linux 内核 net/ipv4/inet_connection_sock.c inet_csk_clone_lock Double Free 漏洞（CVE-2017-8890）PoC:  https://github.com/hardenedlinux/offensive_poc/tree/master/CVE-2017-8890
+[ Linux ]   TSH - 一个开源的 Linux 后门： https://github.com/orangetw/tsh
+[ Linux ]  Replacing x86 firmware with Linux and Go： https://lwn.net/SubscriberLink/738649/81007748bf15c1e5/
+[ Linux ]  Kali Linux 2017.3 发布：  https://www.kali.org/releases/kali-linux-2017-3-release/
+[ Linux ]  Ubuntu 17.10获重大内核更新，修复20处安全漏洞： http://www.cnbeta.com/articles/soft/673043.htm
+[ Linux ]   Linux Kernel XFRM(Netlink socket subsystem) UAF 提权漏洞，附 Ubuntu 17.04 版本的 PoC:  https://blogs.securiteam.com/index.php/archives/3535
+[ Linux ]   多个版本的 systemd DNS resolver 在解析服务端返回的 DNS 响应时存在拒绝服务漏洞（CVE-2017-15908），来自趋势科技：  http://blog.trendmicro.com/trendlabs-security-intelligence/systemd-vulnerability-leads-to-denial-of-service-on-linux/#
+[ Linux ]   Linux mincore 内核未初始化堆内存信息泄漏，来自 Project Zero：  https://bugs.chromium.org/p/project-zero/issues/detail?id=1431
+[ Linux ]   Linux x64 系统中的 Egg Hunting（搜寻长的 Shellcode 并执行）技巧： https://pentesterslife.blog/2017/11/24/x64-egg-hunting-in-linux-systems/
+[ Linux ]  Huge Dirty COW - Incomplete Dirty COW， Bindecy 团队在对 Linux 内核 Dirty COW 漏洞（CVE-2016–5195）补丁分析后发现补丁后仍有问题（CVE-2017–1000405）： https://medium.com/bindecy/huge-dirty-cow-cve-2017-1000405-110eca132de0 https://github.com/bindecy/HugeDirtyCowPOC
+[ Linux ]  编写简单 Linux 内核模块的实例： https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234
+[ Linux ]  Linux kernel LDT UAF 漏洞分析（CVE-2017-17053）： https://xorl.wordpress.com/2017/12/03/cve-2017-17053-linux-kernel-ldt-use-after-free/
+[ Linux ]  对Linux Kernel 4.14.0的SLAB_FREELIST_HARDENED加固实现的部分分析： https://hardenedlinux.github.io/system-security/2017/12/02/linux_kernel_4.14%E7%9A%84SLAB_FREELIST_HARDENED%E7%9A%84%E7%AE%80%E8%A6%81%E5%88%86%E6%9E%90.html?nsukey=D3MRM%2BIaOSiup9lNI9JP8vslv3UWopP%2FkD%2BvrANn5a49VgnvYhVMPCMv6sBTsi1cTxQCLjcIcd2GvrqZISJxA3LINp%2Bhlh%2FD2sG6l3iWqFRcDdcN70P6EGDL7bbaenz77CaiCKoTyjXrZPkTkTjnEga70OfZ4YO%2BESIvEfC33PfcRTcnPOdRLOnz8stw6HW4Z5OXsPUmAnDV3aEEIkxFJw%3D%3D&from=timeline&isappinstalled=0
+[ Linux ]  深入解读补丁分析发现的linux内核提权漏洞(CVE-2017–1000405)： https://www.anquanke.com/post/id/89096
+[ Linux ]  Info Leak in the Linux Kernel via Bluetooth： http://seclists.org/oss-sec/2017/q4/357
+[ Linux ]   Linux Kernel 4.10.5 / <4.14.3 (Ubuntu) DCCP Socket UAF 漏洞利用 (CVE-2017-8824): https://www.exploit-db.com/exploits/43234/
+[ Linux ]   Road to Exim RCE - 滥用 Exim 的 UAF（CVE-2017-16943）漏洞实现 RCE： https://devco.re/blog/2017/12/11/Exim-RCE-advisory-CVE-2017-16943-en/
+[ Linux ]  Linux内核XFRM权限提升漏洞（CVE-2017-16939）： https://blogs.securiteam.com/index.php/archives/3563
+[ Linux ]  “大脏牛”漏洞分析(CVE-2017-1000405): https://mp.weixin.qq.com/s/f2sdfSnFNOTzyuI5511E2Q
+[ Linux ]   Linux GoAhead web server 3.6.5 之前版本远程代码执行漏洞的分析（CVE-2017-17562），其中涉及到如何通过 HTTP 请求远程设置环境变量 LD_PRELOAD 实现利用： https://www.elttam.com.au/blog/goahead/
+[ Linux ]   Linux 内核 4.9 以上版本 eBPF 全内核任意地址空间任意读写漏洞（含 PoC）（CVE-2017-16995）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1454&desc=3  http://seclists.org/oss-sec/2017/q4/429
+[ Linux ]    如何在 Linux 系统中安装 PowerShell： https://github.com/PowerShell/PowerShell/blob/master/docs/installation/linux.md
+[ Linux ]  Adapting the POC for CVE-2017-1000112 to Other Kernels： http://ricklarabee.blogspot.com/2017/12/adapting-poc-for-cve-2017-1000112-to.html
+[ Linux ]  Linux 堆利用系列之Double free attacks： https://sensepost.com/blog/2017/linux-heap-exploitation-intro-series-riding-free-on-the-heap-double-free-attacks/
+[ Linux ]  自从 10 月份的 KAISER 补丁提交之后，Linux 内核开始启用用于隔离内核、用户态 Page-Table 的保护机制，KASLR 得到进一步完善：https://lwn.net/SubscriberLink/741878/eb6c9d3913d7cb2b/
+[ Linux ]   Linux 上 ELF 可执行文件的理解与分析： https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/
+[ Linux ]  利用 Intel 的动态指令翻译库 Houdini 实现在 Linux x86 上运行 ARM 二进制程序：  https://v-e-o.blogspot.com/2017/12/run-arm-executables-on-linux-x86-with.html
+[ Linux ]   利用 Linux 内核 waitid() 系统调用的任意地址写漏洞（CVE-2017-5123）实现 Docker 容器的逃逸： https://www.twistlock.com/2017/12/27/escaping-docker-container-using-waitid-cve-2017-5123/
+[ Linux ]   Linux 内核新引入的 Page Table Isolation 保护机制的分析： http://pythonsweetness.tumblr.com/post/169166980422/the-mysterious-case-of-the-linux-page-table
+[ Linux ]  Linux Kernel < 4.4.0-83 / < 4.8.0-58 (Ubuntu 14.04 and 16.04) 本地提权漏洞利用（CVE-2017-1000112）： https://cxsecurity.com/issue/WLB-2018010018
+[ Linux ]  KASLR is Dead: Long Live KASLR，针对 KASLR 的研究介绍（papaer）:  https://gruss.cc/files/kaiser.pdf
+[ Linux ]   Linux Kernel < 4.4.0-83 / < 4.8.0-58 (Ubuntu 14.04 and 16.04) 本地提权漏洞利用： https://cxsecurity.com/issue/WLB-2018010018
+[ Linux ]  从用户态检测和观察 x86 的中断： https://lackingrhoticity.blogspot.com/2018/01/observing-interrupts-from-userland-on-x86.html
+[ Linux ]   Linux 堆溢出漏洞利用系列之 libc 2.23/2.24 vfprintf 的 Double Free 漏洞分析： https://sensepost.com/blog/2018/linux-heap-exploitation-intro-series-bonus-printf-might-be-leaking/
+[ Linux ]   如何将 APFS 镜像文件挂载到 Linux 系统： http://az4n6.blogspot.com/2018/01/mounting-apfs-image-in-linux.html
+[ Linux ]  Linux boot process 分析： https://opensource.com/article/18/1/analyzing-linux-boot-process
+[ Linux ]   LKRG - 可动态加载的一个 Linux 内核运行时保护模块，用于内核完整性检查、关于数据篡改检查、内核漏洞攻击检测： https://twitter.com/i/web/status/958398684982661120http://www.openwall.com/lists/announce/2018/01/29/1http://www.openwall.com/lkrg/
+[ Linux ]   UEFI 被认为是运行在 Ring -2 层的底层操作系统，该系统几乎和 Linux 内核的体量一样，在其中藏 Exploits 非常隐蔽。为了降低这种风险，Google 开发了一个精简版固件 NERF，用精简版 Linux 内核和 initramfs 替换 UEFI： https://schd.ws/hosted_files/osseu17/84/Replace%20UEFI%20with%20Linux.pdf
+[ Linux ]   作者对 Linux kernel v4.15 中的一些安全特性介绍： https://outflux.net/blog/archives/2018/02/05/security-things-in-linux-v4-15/
+[ Linux ]   Kali Linux 2018.1 发布： https://www.kali.org/downloads/
+[ Linux ]   使用 Hashcat 破解 Linux 全盘加密(LUKS)： https://blog.pnb.io/2018/02/bruteforcing-linux-full-disk-encryption.html
+[ Linux ]  Digging passwords in Linux swap： http://blog.sevagas.com/?Digging-passwords-in-Linux-swap
+[ Linux ]   使用 hashcat 暴力破解 Linux 全盘加密(LUKS)： https://blog.pnb.io/2018/02/bruteforcing-linux-full-disk-encryption.html
+[ Linux ]   Linux ASLR and GNU Libc：地址空间布局的计算与 "Stack Canary" 的 Bypass： https://github.com/blackzert/aslur/raw/master/offensivecon-talk.pdf
+[ Linux ]  Linux 提权指南： https://payatu.com/guide-linux-privilege-escalation/
+[ Linux ]   Linux ASLR 缓解措施的新绕过方法： http://blog.ptsecurity.com/2018/02/new-bypass-and-protection-techniques.html
+[ Linux ]    Linux 系统调用的过程剖析： https://lwn.net/Articles/604287/https://lwn.net/Articles/604515/
+[ Linux ]    Linux 内核动态模块加载（LKM Loading）相关的威胁分析以及相应的保护措施： https://xorl.wordpress.com/2018/02/17/lkm-loading-kernel-restrictions/
+[ Linux ]   Linux kernel isdn_net IOCTL memory corruption（CVE-2017-12762）： https://xorl.wordpress.com/2018/02/24/cve-2017-12762-linux-kernel-isdn_net-ioctl-memory-corruption/
+[ Linux ]   基于 ADIHEAP 扩展，为 libc:malloc 内存分配器引入基于 ADI 的防御： https://lazytyped.blogspot.com/2018/02/libcmalloc-meets-adiheap.html
+[ Linux ]   基于 BPF Compiler Collection (BCC) 套件可为 Linux 内核编写安全的基于 BPF 的程序： https://lwn.net/SubscriberLink/747640/1c0866ce8a5d4096/ https://zhuanlan.zhihu.com/p/32027979
+[ Linux ]   现代 Linux 32/64 位系统中的 Return to libc 利用技术实践： https://teamultimate.in/return-to-libc/
+[ Linux ]  Unix system calls  Part1 : https://t.co/fgbGGVoohH , Part 2 : https://t.co/PYzlbUTpWB
+[ Linux ]   389 Directory Server 处理 LDAP 搜索过滤时存在越界内存读取，导致远程拒绝服务漏洞 （CVE-2018-1054）： https://bugzilla.redhat.com/show_bug.cgi?id=1537314
+[ Linux ]   KPTI补丁分析： https://mp.weixin.qq.com/s/PX2VpPO7ms3YhwikQ3Ngpg
+[ Linux ]  Linux Heap Exploitation Intro Series: Set you free()： https://sensepost.com/blog/2018/linux-heap-exploitation-intro-series-set-you-free-part-1/
+[ Linux ]   Linux 内核交互图： http://www.makelinux.net/kernel_map/
+[ Linux ]  Linux Kernel Version 4.14 - 4.4 (CVE-2017-16995) exploit： https://github.com/iBearcat/CVE-2017-16995
+[ Linux ]  ncpfs: ncp_read_kernel() 内存破坏漏洞 patch：  https://www.mail-archive.com/netdev@vger.kernel.org/msg223373.html
+[ Linux ]  CVE-2017-16995: Ubuntu本地提权分析报告： https://cert.360.cn/report/detail?id=ff28fc8d8cb2b72148c9237612933c11
+[ Linux ]  UBUNTU 16.04 EBPF ARBITRARY READ/WRITE 漏洞分析： https://whereisk0shl.top/post/2018-03-21
+[ Linux ]  return-to-csu：一种绕过 64 位 Linux ASLR 的新方法，来自 BlackHat Asia 2018： https://www.blackhat.com/docs/asia-18/asia-18-Marco-return-to-csu-a-new-method-to-bypass-the-64-bit-Linux-ASLR-wp.pdf
+[ Linux ]  深入解析 Linux - 符号解析的艺术： https://0x00sec.org/t/linux-internals-the-art-of-symbol-resolution/1488
+[ Linux ]  Linux Kernel Runtime Guard (LKRG) 0.2 发布： http://www.openwall.com/lists/announce/2018/03/27/1
+[ Linux ]  最近发布的 Linux 内核文件系统漏洞 CVE 一览: http://seclists.org/oss-sec/2018/q1/284
+[ Linux ]  如何在 Linux 中内存执行 ELF 二进制文件： https://magisterquis.github.io/2018/03/31/in-memory-only-elf-execution.html
+[ Linux ]  Linux kernel 4.16 发布： https://lkml.org/lkml/2018/4/1/175https://www.linuxidc.com/Linux/2018-04/151698.htm
+[ Linux ]  linux-kernel-defense-map - Linux 内核防御图： https://github.com/a13xp0p0v/linux-kernel-defence-map/blob/master/README.md
+[ Linux ]  Linux kernel exploit stack smashing： http://tacxingxing.com/2018/02/15/linux-kernel-exploit-stack-smashing/
+[ Linux ]  security-onion - 用于 IDS、NSM 以及日志管理的 Linux 发行版系统： https://github.com/Security-Onion-Solutions/security-onion
+[ Linux ]  四两拨千斤 —— Ubuntu kernel eBPF 0day分析： https://security.tencent.com/index.php/blog/msg/124
+[ Linux ]   Holey Beep: Linux 提权漏洞分析与利用(CVE-2018-0492)： https://sigint.sh/#/holeybeep
+[ Linux ]  《Professional Linux Kernel Architecture 》(深入Linux内核架构)书： https://cse.yeditepe.edu.tr/~kserdaroglu/spring2014/cse331/termproject/BOOKS/ProfessionalLinuxKernelArchitecture-WolfgangMauerer.pdf
+[ Linux ]  利用 iptables 的 TPROXY 模块简单实现对所有端口的监听： https://blog.cloudflare.com/how-we-built-spectrum/
+[ Linux ]  为什么内核社区要用 BPF 替换 iptables？作者分享了一些自己的思考： https://cilium.io/blog/2018/04/17/why-is-the-kernel-community-replacing-iptables/
+[ Linux ]  ELF 可执行文件格式详解： http://www.skyfree.org/linux/references/ELF_Format.pdf
+[ Linux ]  Linux x64 逆向工程初学者教程: http://niiconsulting.com/checkmate/2018/04/reverse-engineering-x64-for-beginners-linux/
+[ Linux ]  Linux AF_LLC Double Free 漏洞披露： https://blogs.securiteam.com/index.php/archives/3686
+[ Linux ]  Linux 内核 mmap 漏洞分析（CVE-2018-8781）： https://research.checkpoint.com/mmap-vulnerabilities-linux-kernel/
+[ Linux ]  Linux RNG 随机数生成器漏洞(CVE-2018-1108)： https://bugs.chromium.org/p/project-zero/issues/detail?id=1559
+[ Linux ]  Linux 服务器安全检测手段： https://www.trustedsec.com/2018/04/malware-linux/

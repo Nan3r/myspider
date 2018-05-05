@@ -1,0 +1,244 @@
+[ Crypto ]  Researchers demonstrate new collision attacks against SHA-1 and MD5 in TLS, IKE and SSH - http://ow.ly/WL0bu
+﻿"来自法国 INRIA（国家信息与自动化研究所）的研究人员展示一种新的 SHA-1 和 MD5 碰撞攻击，SHA-1 和 MD5 加密算法被用于 TLS，IKE，SSH 协议中 https://t.co/1zYImP1nJj"
+[ Crypto ]  KCI-based MitM Attacks against TLS : https://github.com/maldevel/BSides_Vienna_2015/blob/master/kci_based_man_in_the_middle_attacks_against_tls.pdf
+﻿"基于 KCI（Key Compromise Impersonatio） 中间人攻击 TLS: https://t.co/7DboKrSWQf"
+[ Crypto ]  My favourite #realworldcrypto talk is online. K. Bhargavan: No more downgrades. Protecting TLS from legacy crypto. https://drive.google.com/file/d/0By2exizVD04fRW1kTnpPY1RTc1lOMnA4bXZYa1dQU0ROMG9N
+﻿"保护 TLS，免遭降级攻击： https://t.co/i7YadjR23n"
+[ Crypto ]  Crypto trivia: constructing the Dual EC backdoor (http://vnhacker.blogspot.com/2016/01/constructing-dual-ec-backdoor.html) and exploiting the math bug in Go (http://vnhacker.blogspot.com/2016/01/exploiting-mathrsa-bug-in-go.html)
+﻿"构造 Dual EC（双椭圆曲线）后门： https://t.co/n31PWkObXR  通过 Go 语言攻击这个后门：  https://t.co/kXmAUJIhLB "
+[ Crypto ]  Analysing and Exploiting the Mantin Biases in RC4 : https://eprint.iacr.org/2016/063.pdf (pdf) cc : @ kennyog
+﻿"分析和攻击 RC4 里 Mantin Biases 的问题 Paper:  https://t.co/VwMuE35nAu "
+[ Crypto ]  New post: SLOTH Downgrades TLS 1.2 Encrypted Channels http://bit.ly/1PQm2lE @ TrendMicro
+﻿"SLOTH - TLS 1.2 降级攻击，不同于 POODLE、 FREAK 和 Logjam 的一个新攻击： https://t.co/COeum1Ij6X "
+[ Crypto ]  On the conceit that any one nation can outlaw strong encryption or mandate exceptional access backdoors to software: https://www.schneier.com/cryptography/paperfiles/worldwide-survey-of-encryption-products.pdf
+﻿"从全球收集的 865 个软硬件加密产品的调查报告， 来自 Schneier: https://t.co/WUEMIvk7Z0"
+[ Crypto ]  A Gentle Introduction to Secure Computation : http://www.alexirpan.com/2016/02/11/secure-computation.html
+﻿"安全计算简介: https://t.co/pM36LpIN9v"
+[ Crypto ]  Padding oracles and the decline of CBC-mode cipher suites https://blog.cloudflare.com/padding-oracles-and-the-decline-of-cbc-mode-ciphersuites/
+﻿"Padding Oracle 与 CBC 模式密码套件的衰落， 来自 CloudFlare Blog： https://t.co/utUBkKPSoN "
+[ Crypto ]  How to Safely Store a Password in 2016 : https://paragonie.com/blog/2016/02/how-safely-store-password-in-2016
+﻿"2016 年， 如何安全地存储一个密码？ Blog: https://t.co/oRJlX6I8nP"
+[ Crypto ]  Eurocrypt 2016 papers http://ist.ac.at/eurocrypt2016/accepted.html
+﻿"Eurocrypt 2016 会议接受的 Papers： https://t.co/4jlSCVQoRr"
+[ Crypto ]  How to perform SSL striping. https://avicoder.me/2016/02/22/SSLstrip-for-newbies/
+﻿"SSL Strip 教程： https://t.co/GiMhrIsuM2"
+[ Crypto ]  90 Percent of All SSL VPNs Use Insecure or Outdated Encryption http://news.softpedia.com/news/90-percent-of-all-ssl-vpn-use-insecure-or-outdated-encryption-501038.shtml
+﻿"据 SoftPedia 报道：90% 的 SSL VPN 在使用不安全的或过时的加密：  https://t.co/RBWjcwtHwb"
+[ Crypto ]  Oh, this is more fun than SSLv2… a timing attack! “CacheBleed: A Timing Attack on OpenSSL Constant Time RSA” https://ssrg.nicta.com.au/projects/TS/cachebleed/cachebleed.pdf
+﻿"CacheBleed - OpenSSL 常量时间 Timing Attack 攻击, 作者证明了分散聚集(scatter-gather)方法并不能保证时间是个常量. Paper:   https://t.co/plH2hTQaD2"
+[ Crypto ]  RSAC2016Presentation: The State of Modern Password Cracking. http://ow.ly/Z3tX4
+﻿"RSA 2016 会议演讲:  现代密码破解的现状： https://t.co/d5fI2N4Wgj"
+[ Crypto ]  Password hashing basics for developers http://ithare.com/password-hashing-why-and-how/
+﻿"面向开发者的密码 HASH 基础知识: https://t.co/FTMHgvTNHX"
+[ Crypto ]  Sample "Diffie Hellman Key Exchange" usage in Java : https://github.com/codvio/diffie-hellman-helloworld
+﻿"diffie-hellman-helloworld - 在 Java 中使用 Diffie Hellman 密钥交换算法的代码示例， Github Repo ︰  https://t.co/k6Qbi77itM"
+[ Crypto ]  How the ANC used encryption to help defeat apartheid. documentary: https://www.youtube.com/watch?v=zSOTVfNe54A paper: http://www.anc.org.za/show.php?id=4693
+﻿"ANC（非洲国民大会）是如何用加密的方法对抗种族隔离的， Youtube 视频 ︰ https://t.co/iB7sZU4fY0   Paper︰ https://t.co/p37YljWy5M"
+[ Crypto ]  Read our latest WHITEPAPER: "The Importance of a Cryptographic Review” #crypto http://bit.ly/1SN7Mtz
+﻿"Review 加密实现的重要性, 来自 InfoSec: https://t.co/44Sg7ZtCTf"
+[ Crypto ]  Great slides by @ martijn_grooten on "How Broken Is Our Crypto Really?" https://www.rsaconference.com/writable/presentations/file_upload/pdac-r02-how-broken-is-our-crypto-really_final.pdf
+﻿"RSA 2016 会议的演讲 <How Broken Is Our Crypto Really>: https://t.co/DbWevkLX2r"
+[ Crypto ]  Unboxing the White-Box Practical attacks against Obfuscated Ciphers https://www.blackhat.com/docs/eu-15/materials/eu-15-Sanfelix-Unboxing-The-White-Box-Practical-Attacks-Against-Obfuscated-Ciphers-wp.pdf
+﻿"针对混淆密码的攻击实战 - 白盒攻击模型， 来自 BlackHat Europe 2015 会议： https://t.co/4Td4SsEITE "
+[ Crypto ]  my Ephemeral Diffie-Hellman backdoor works!!!! ( https://github.com/mimoo/Diffie-Hellman_Backdoor ) https://t.co/R7F0CsoPSZ
+﻿"如何在 Diffie Hellman 加密算法中放后门， Github：  https://t.co/9jy7miUTj2 https://t.co/R7F0CsoPSZ"
+[ Crypto ]  Neat post: using power analysis techniques to break white box cryptography (without much effort) via @ Insinuator https://www.insinuator.net/2016/03/how-to-crack-a-white-box-without-much-effort/
+﻿"如何使用功率分析技术破解白盒加密（不用费多大劲儿）： https://t.co/TOwlDfDzl1 "
+[ Crypto ]  DROWN – How the deprecated SSLv2 protocol can compromise modern TLS connections. https://truesecdev.wordpress.com/2016/04/04/250/
+﻿"DROWN — 被废弃的 SSLv2 协议是如何攻破现代 TLS 连接的：  https://t.co/1WY7X8nsiP"
+[ Crypto ]  TLS Client Pitfalls https://lukasa.co.uk/2016/04/In_Response_To_Sucuri/
+﻿"对 Sucuri 公司的回应： https://t.co/eYsHoMuF5l  前段时间 Sucuri 发表文章称多种编程语言在校验 TLS 证书有效性时存在缺陷，可以导致用户接受无效证书。"
+[ Crypto ]  The 3DS Cryptosystem http://yifan.lu/2016/04/06/the-3ds-cryptosystem/ https://t.co/fzeO2ncTDW
+﻿"任天堂 3DS 游戏机的加密系统： https://t.co/2MXQByRi04 https://t.co/fzeO2ncTDW"
+[ Crypto ]  TLSkex : Harnessing virtual machine introspection for decrypting TLS communication : http://www.dfrws.org/2016eu/proceedings/DFRWS-EU-2016-12.pdf (pdf)
+﻿"TLSkex ︰ 利用虚拟机自省技术解密 TLS 加密通信， 来自 DFRWS 2016 会议 ︰ https://t.co/Bc2PStgGDC "
+[ Crypto ]  Very interesting EUROCRYPT 2016 paper on defects in the OpenSSL PRNG by Falko Strenzke (former colleague): https://eprint.iacr.org/2016/367.pdf
+﻿"OpenSSL 随机数生成器缺陷分析， Paper ︰ https://t.co/9WEJFT57OM"
+[ Crypto ]  Why TLS 1.3 is a major leap forward for #cryptographic protocols. #swsec https://www.cigital.com/blog/tls-1-3/ via @ cigital
+﻿"TLS 1.3 与加密协议的未来， 来自 Cigital Blog：  https://t.co/7cMDIDNVy0"
+[ Crypto ]  Academics Make Theoretical Breakthrough in Random Number Generation #cryptography: https://threatpost.com/academics-make-theoretical-breakthrough-in-random-number-generation/118150/ via @ threatpost
+﻿" 随机数生成领域取得重大理论突破： https://t.co/2h3twtcRnJ"
+[ Crypto ]  Gmail Disabling RC4 and SSLv3 SMTP Support https://cryptosense.com/gmail-disabling-rc4-and-sslv3-smtp-support/
+﻿"Gmail TLS 服务器不再支持 RC4 和 SSLv3： https://t.co/Lj4aKyVpKJ"
+[ Crypto ]  Nonce-Disrespecting Adversaries: Practical Forgery Attacks on GCM in TLS https://github.com/nonce-disrespect/nonce-disrespect
+﻿" TLS AES-GCM 随机数重用攻击： https://t.co/xo2QowXUF3"
+[ Crypto ]  Slides for our talk about white-box HMAC @ phdays #PHDays http://www.slideshare.net/yalegko/whitebox-hmac-make-your-cipher-secure-to-whitebox-attacks
+﻿" 白盒 HMAC - 使加密实现能够对抗白盒攻击，来自 PHDays 会议： https://t.co/NjLE9PGPba "
+[ Crypto ]  How to Use the REST API to Encrypt S3 Objects by Using AWS KMS http://blogs.aws.amazon.com/security/post/Tx1XVNEO1G6VT04/How-to-Use-the-REST-API-to-Encrypt-S3-Objects-by-Using-AWS-KMS
+﻿" 用 AWS KMS REST API 加密 S3 对象， AWS KMS 指亚马逊云密钥管理服务： https://t.co/tt3lYPyCOZ "
+[ Crypto ]  Slides from my lightning talk about Certificate Transparency and it's advantages at @ DefconRussia https://kyprizel.net/work/defcon-russia-ct.pdf
+﻿" 证书透明以及它的优点： https://t.co/rBvXK6eriM"
+[ Crypto ]  slides of my @ AusCERT talk "The burden of faulty and outdated TLS implementations" https://www.int21.de/slides/auscert-tls/
+﻿" 存在缺陷的过时 TLS 实现的负担： https://t.co/h9OyPFXtCy"
+[ Crypto ]  Breaking Naive ESSID WPA2 Key Generation Algorithms : http://conference.hitb.org/hitbsecconf2016ams/materials/D2T2%20-%20Peter%20blasty%20Geissler%20-%20Breaking%20Naive%20ESSID%20WPA2%20Key%20Generation%20Algorithms.pdf (Slides) #HITB2016AMS https://t.co/qnNkIelblq
+﻿" 攻击 ESSID WPA2 密钥生成算法，来自 HITB 阿姆斯特丹会议︰ https://t.co/74JdxfDn5y   https://t.co/qnNkIelblq"
+[ Crypto ]  How to Generate Secure Random Numbers (in Various Programming Languages) https://paragonie.com/blog/2016/05/how-generate-secure-random-numbers-in-various-programming-languages
+﻿" 在不同编程语言中，如何安全地生成随机数： https://t.co/ZjibPZBSzj"
+[ Crypto ]  If you’re looking for a comprehensive history of SSL/TLS and PKI, look no further: I built a detailed timeline https://www.feistyduck.com/ssl-tls-and-pki-timeline/
+﻿" 以时间轴的方式展示 SSL/TLS、PKI 的历史： https://t.co/6jyBJ1SKx4"
+[ Crypto ]  We discovered bug in all hash functions of JS crypto library SJCL - https://github.com/bitwiseshiftleft/sjcl/issues/299 Is there a big picture? https://www.dancvrcek.com/software-reliability/
+﻿"斯坦福 JavaScript 加密库 SJCL 被发现了一个 Bug，该 Bug 影响所有的 HASH 函数： https://t.co/Y3c8YvSJ5A  https://t.co/MVQ3NIwJhC"
+[ Crypto ]  Our paper on "Backdoors in Pseudorandom Number Generators: Possibility and Impossibility Results" is online at https://eprint.iacr.org/2016/577.pdf
+﻿" 伪随机数生成器中的后门， Paper： https://t.co/Rtjw3urEX2 "
+[ Crypto ]  The Illusion Of An Encrypted Internet https://threatpost.com/the-illusion-of-an-encrypted-internet/118519/
+﻿" 互联网加密的错觉，来自 ThreatPost： https://t.co/If913WmyJd"
+[ Crypto ]  OpenSSL DSA key recovery attack : http://eprint.iacr.org/2016/594.pdf (pdf)
+﻿"OpenSSL DSA 密钥恢复攻击， Paper︰ https://t.co/aGVDoGCrnu  "
+[ Crypto ]  Authentication with Hash Chains in C : http://brennan.io/2016/06/19/hashchains-in-c/
+﻿" 哈希链式认证过程， IRC 中如何验证自己的身份: https://t.co/dxmAEaBgCN"
+[ Crypto ]  Introduction to GPU Password Cracking : Owning the LinkedIn Password Dump : https://www.trustedsec.com/june-2016/introduction-gpu-password-cracking-owning-linkedin-password-dump/
+﻿"利用 GPU 爆破 LinkedIn 的密码哈希︰ https://t.co/8qgE3yyENt"
+[ Crypto ]  Slides from my talk "Secure channels - are we there yet?" now online - bonus; new attack on OpenSSH, slide 44 on: http://www.turing-gateway.cam.ac.uk/documents/tgmw35/Kenny%20Paterson.pdf
+﻿" 我们真的在使用安全的信道通信吗， Slides ︰ https://t.co/to3SKRCHsV"
+[ Crypto ]  NCC Group Whitepaper: How to Backdoor Diffie-Hellman - https://www.nccgroup.trust/globalassets/our-research/us/whitepapers/2016/june/how-to-backdoor-diffie-hellmanpdf by @ lyon01_david - learn what to look for!
+﻿" 如何在 Diffie-Hellman 加密算法中植入后门，来自 NCC Group 的 Paper： https://t.co/kuebudw6OS "
+[ Crypto ]  [BLOG] A brief survey of Fully Homomorphic Encryption, computing on encrypted data http://blog.quarkslab.com/a-brief-survey-of-fully-homomorphic-encryption-computing-on-encrypted-data.html
+﻿" 全同态加密的简短分析，来自 QuarksLab Blog： https://t.co/sADT0Glvgx"
+[ Crypto ]  Felony : an open-source pgp keychain built on the modern web : https://github.com/henryboldi/felony https://t.co/ns5qLS5kHm
+﻿" Felony - 一款开源的 PGP 加密工具: https://t.co/6W8bn024bl https://t.co/ns5qLS5kHm"
+[ Crypto ]  Recently, I wrote this tool to analyze database dumps with unknown hashing algorithms: https://alexaltea.github.io/hasher/. Have fun!
+﻿" HASH 算法自动化检测工具，可以用于分析泄漏的密码 Hash 值︰ https://t.co/lchNaRu6ak "
+[ Crypto ]  Minimum Requirements for Evaluating Side-Channel Attack Resistance. Quite useful summary. https://www.bsi.bund.de/SharedDocs/Downloads/DE/BSI/Zertifizierung/Interpretationen/AIS_46_BSI_guidelines_SCA_RSA_V1_0_e_pdf.pdf
+﻿" 评估 RSA、DSA、Diffie-Hellman 密钥交换实现在边信道攻击方面的健壮性：  https://t.co/28l7NZuTwN"
+[ Crypto ]  Google is testing new crypto protocols in Chrome to prepare for future quantum computing attacks https://www.wired.com/2016/07/google-tests-new-crypto-chrome-fend-off-quantum-attacks/
+﻿" Google 正在 Chrome 中测试新的加密协议，为对抗将来的量子计算攻击做准备： https://t.co/UeFMDhu1Bz"
+[ Crypto ]  opensshd - user enumeration http://seclists.org/fulldisclosure/2016/Jul/51
+﻿"opensshd - 一个用户名+一个超长的密码字符串，用户名正确或错误时，opensshd 会产生比较明显的时间差，通过这个方法可以枚举出用户名：  https://t.co/YSRkQkBNOv"
+[ Crypto ]  Breaking BitLocker Encryption: Brute Forcing the Backdoor (Part II) http://blog.elcomsoft.com/2016/07/breaking-bitlocker-encryption-brute-forcing-the-backdoor-part-ii/
+﻿"爆破 BitLocker 加密密钥： https://t.co/66YACfGo0y"
+[ Crypto ]  Amazing new HTTPS exploit that uses browser javascript APIs (fetch + resource timing), no MITM needed: http://arstechnica.com/security/2016/08/new-attack-steals-ssns-e-mail-addresses-and-more-from-https-pages/
+﻿" HEIST - 一种新的 HTTPS 攻击方式，通过 TCP Window 还原出 HTTPS 加密实体的字节大小，来自 ArsTechnica 的报道︰ https://t.co/NQNvv5a9P9  作者在 BlackHat 会议演讲的 Paper： http://papers.mathyvanhoef.com/blackhat2016.pdf "
+[ Crypto ]  Now at #WOOT16: “Acceleration Attacks on PBKDF2: Or, What Is inside the Black-Box of oclHashcat?” https://www.usenix.org/conference/woot16/workshop-program/presentation/ruddick
+﻿" 针对 PBKDF2 加密算法的加速攻击： https://t.co/SIhJmlOMQT"
+[ Crypto ]  The most astonishing #sec16 paper: Investigating the Origins of RSA Public Keys. https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/svenda
+﻿" RSA 公钥的起源调查，Paper： https://t.co/Va2R0Z9HDO"
+[ Crypto ]  Many PGP keys with colliding KeyID have been uploaded to keyservers. Check your GPG fingerprints! Details here: https://evil32.com
+﻿" 利用 GPU，仅需 4 秒就可以碰撞出一个 32 位的 KeyID︰ https://t.co/47Esa4TyD8"
+[ Crypto ]  Manually Testing SSL/TLS Weaknesses 2016 Edition http://contextis.com/resources/blog/manually-testing-ssltls-weaknesses-2016-edition/
+﻿"手工测试 SSL/TLS 的常见漏洞，来自 Context Blog： https://t.co/8oHl2pNqXy"
+[ Crypto ]  New collision attacks against #3DES, #Blowfish allow for cookie decryption - http://ow.ly/IkXT303xm0l https://t.co/iMHIsuAD8v
+﻿" 针对 3DES、Blowfish 的碰撞攻击，可以被用于 Cookie 解密： https://t.co/2wVw3U9FjX   Paper： https://sweet32.info/SWEET32_CCS16.pdf "
+[ Crypto ]  Congratulations to the OpenSSL team on releasing 1.1.0, a huge milestone. https://www.openssl.org/news/openssl-1.1.0-notes.html
+﻿" OpenSSL 发布 1.1.0 版本： https://t.co/Vj9Ab0UHkm"
+[ Crypto ]  Tips for Securing SSL Renegotiation https://blogs.mcafee.com/mcafee-labs/tips-securing-ssl-renegotiation/
+﻿" SSL 重协商加固建议，来自 McAfee Blog： https://t.co/Eh0TJv6Q13 "
+[ Crypto ]  Argon2 compiled for browsers with asm.js and WebAssembly https://github.com/antelle/argon2-browser
+﻿" Argon2，密码哈希竞赛 (PHC) 的获奖算法，该库的的浏览器运行时库版本： https://t.co/egrYUiIUgg"
+[ Crypto ]  PyQemu - dynamic binary instrumentation based crypto detection framework. https://github.com/pleed/pyqemu
+﻿"PyQemu - 基于动态二进制插桩的加密检测框架： https://t.co/gRS9NYHdNt  相关的论文： http://ieeexplore.ieee.org/application/enterprise/entfilecabinetfull.jsp?ResultStart=0&arnumber=6461007 "
+[ Crypto ]  New cloud attack takes full control of virtual machines with little effort http://arstechnica.com/security/2016/08/new-attack-steals-private-crypto-keys-by-corrupting-data-in-computer-memory/ by @ dangoodin001
+﻿" 针对云的攻击 - 在 RowHammer 的面前，现有的加密软件显得脆弱无力： https://t.co/bPVZh39Iht "
+[ Crypto ]  My #appseceu slides: Practical Attacks on Real World Crypto Implementations http://2016.appsec.eu/wp-content/uploads/2016/09/2016-06-OWASP-Crypto-Attacks.pdf
+﻿" 真实环境加密实现的攻击实战： https://t.co/VKecBm3sqV "
+[ Crypto ]  Version intolerance and TLS 1.3 https://www.int21.de/slides/berlinsec-versionintolerance/ slides for @ BerlinSec
+﻿" TLS 1.3 版本的安全性分析，来自 BerlinSec 会议： https://t.co/YUsHwtIQe9 "
+[ Crypto ]  Periodic reminder that "Applied Crypto Hardening" is great resource: https://bettercrypto.org/static/applied-crypto-hardening.pdf [PDF] https://t.co/LMM8XhrFR9
+﻿" 加密加固实践︰ https://t.co/LMM8XhrFR9 "
+[ Crypto ]  Ultimate Guide to Cracking Foreign Character Passwords Using Hashcat http://www.netmux.com/blog/ultimate-guide-to-cracking-foreign-character-passwords-using-has
+﻿" 利用 Hashcat 破解含外国字符的密码： https://t.co/Ed9zqhyJiE"
+[ Crypto ]  Source code and tutorials for breaking white-box cryptography using differential computation analysis https://github.com/SideChannelMarvels/Deadpool/wiki
+﻿" Deadpool - 白盒加密实现以及相应的攻击实践： https://github.com/SideChannelMarvels/Deadpool "
+[ Crypto ]  dingo : A caching DNS proxy for the Google DNS over HTTPS : https://github.com/pforemski/dingo
+﻿" dingo - 一个缓存 DNS 代理。可以帮你加密所有的 DNS 流量︰ https://t.co/EnARlkHNqT"
+[ Crypto ]  Slides from my @ strangeloop_stl talk "Frontiers in Cryptography": https://speakerdeck.com/tarcieri/frontiers-in-cryptography
+﻿" 加密方向的前沿研究: https://t.co/oFfwYirXVx"
+[ Crypto ]  Slides and videos from #whibox2016 are now available! https://www.cryptoexperts.com/whibox2016/ https://t.co/Whj80wMmUE
+﻿" 以加密为主题的 WhibOx 2016 会议的 PPT 可以下载了： https://t.co/sfSG7yU59U "
+[ Crypto ]  Ruby OpenSSL + GCM Nonce Reuse Bug http://www.openwall.com/lists/oss-security/2016/09/19/9
+﻿"Ruby OpenSSL + GCM 随机数重用 Bug： https://t.co/rEwlh3nKsZ"
+[ Crypto ]  tl;dr video of the sweet32 attack: On the Practical (In-)Security of 64-bit Block Ciphers https://www.cryptologie.net/article/373/tldr-of-the-sweet32-paper-on-the-practical-in-security-of-64-bit-block-ciphers/
+﻿"对 64 位分组密码的攻击 video：  https://t.co/hsIPsvwSCd"
+[ Crypto ]  An overview of TLS 1.3 and Q&A http://blog.cloudflare.com/tls-1-3-overview-and-q-and-a/
+﻿" An overview of TLS 1.3 and Q&A，来自 CloudFlare： https://t.co/EomSeTwbuo"
+[ Crypto ]  解读 OpenSSL CVE-2016-6304漏洞： http://mp.weixin.qq.com/s?__biz=MzA3Mzk1MDk1NA==&mid=2651903473&idx=1&sn=3e937bb37a8c15ded2d6bda241c8cbe9&mpshare=1&scene=1&srcid=0923GXqe0CGNJJchYpqijzqS
+[ Crypto ]  TLS nonce-nse : https://blog.cloudflare.com/tls-nonce-nse/ cc @ FiloSottile
+﻿"TLS nonce-nse，来自 CloudFlare: https://blog.cloudflare.com/tls-nonce-nse/ "
+[ Crypto ]  常见的Web密码学攻击方式汇总： http://bobao.360.cn/learning/detail/3100.html
+[ Crypto ]  #AppSecUSA2016 HTTP & TLS in 2016 by @ kennwhite https://speakerdeck.com/kwhite/https-and-tls-in-2016-security-practices-from-the-front-lines [v hard https://twitter.com/daniel_bilar/statuses/573434668655091713?tw_i=573434668655091713&tw_e=permalink&tw_p=archive see also… https://t.co/vb7rsz5puM
+﻿" AppSecUSA2016 大会上关于 HTTP&TLS 的议题：Security practices from the front line ：  https://speakerdeck.com/kwhite/https-and-tls-in-2016-security-practices-from-the-front-lines "
+[ Crypto ]  A. Jana, G. Paul, "Revisiting RC4 Key Collision: Faster Search Algorithm and New 22-byte Colliding Key Pairs" https://eprint.iacr.org/2016/1001
+﻿" RC4 密钥碰撞攻击，Paper： https://t.co/XZl8WIOCXt"
+[ Crypto ]  Hacking GSM A5 crypto algorithm by using commodity hardware http://securityaffairs.co/wordpress/52666/hacking/gsm-crypto-hacking.html
+﻿"使用通用计算图形处理器（general-purpose graphics processing unit） 破解 GSM A5 加密算法： http://securityaffairs.co/wordpress/52666/hacking/gsm-crypto-hacking.html"
+[ Crypto ]  Google AI invents its own cryptographic algorithm : http://arstechnica.co.uk/information-technology/2016/10/google-ai-neural-network-cryptography/ , Paper : https://arxiv.org/pdf/1610.06918v1.pdf (pdf)
+﻿"Google AI 发明了一套自己的加密算法︰ https://t.co/IdaMd3yWDb   Paper︰ https://t.co/8fm4OO98Un "
+[ Crypto ]  Slides for @ deepsec talk about Post Quantum Cryptography https://www.int21.de/slides/deepsec-postquantum/
+﻿"Post Quantum Cryptography，来自 deepsec 2016 （slides）： https://t.co/TKYLZwkoYk"
+[ Crypto ]  White-Box Cryptography : Analysis of White-Box AES Implementations : https://www.esat.kuleuven.be/cosic/publications/thesis-235.pdf (pdf)
+﻿"白盒密码︰ 白盒 AES 算法实现的分析（PDF）︰ https://t.co/EJdLQMF2M1 "
+[ Crypto ]  How to create a x86 polymorphic encryption engine in C++ https://www.pelock.com/articles/polymorphic-encryption-algorithms
+﻿"如何用 C++ 创建一个 x86 下的多态加密引擎： https://t.co/4Rd62naVrf"
+[ Crypto ]  [BLOG] Differential Fault Analysis on White-box AES Implementations http://blog.quarkslab.com/differential-fault-analysis-on-white-box-aes-implementations.html #reverse #crypto by @ doegox & @ haxelion
+﻿"白盒 AES 实现上的差分故障分析： https://t.co/BhRX1qpM8t"
+[ Crypto ]  Wycheproof - Google 新开源的一个加解密库测试套件，用于在加解密库中检测常见的安全缺陷，目前已经有超过 80 个测试用例： http://security.googleblog.com/2016/12/project-wycheproof.html
+[ Crypto ]  Security Through Transparency http://dlvr.it/N5YLvD https://t.co/whVt8TKgeQ
+﻿"Google 认为解决安全通信的方式是密钥透明度（Through Transparency），介绍： https://t.co/D1fWYugX8Q ; Github： https://github.com/google/key-transparency/"
+[ Crypto ]  Heres a couple guides on how to do secure communications without focusing on crypto: https://gist.github.com/grugq/03167bed45e774551155 https://grugq.github.io/presentations/COMSEC%20beyond%20encryption.pdf
+﻿"利用 PGP 加密你的邮件︰ https://t.co/E2OjDXjukU https://t.co/brlGIKRsqy"
+[ Crypto ]  Security Analysis of the Telegram IM https://www.susanka.eu/files/master-thesis-final.pdf
+﻿"针对 Telegram IM 的安全分析（Paper）: https://t.co/zYMfUqYxYg"
+[ Crypto ]  NSA publishes key recovery attacks on AES-GCM-SIV: https://www.ietf.org/mail-archive/web/cfrg/current/msg08892.html
+﻿"AES GCM SIV analysis︰ https://t.co/RfGeWipRzr"
+[ Crypto ]  Here is a guide I wrote about using GPG and Mutt with Gmail as a provider https://gist.github.com/bnagy/8914f712f689cc01c267 https://twitter.com/tqbf/status/831155478990352389
+﻿"GPG 介绍: https://t.co/KTKynxJv8Q https://t.co/hdR2LyULBJ "
+[ Crypto ]  How to build a 8 GPU password cracker https://www.shellntel.com/blog/2017/2/8/how-to-build-a-8-gpu-password-cracker
+﻿"如何搭建一个 8 GPU 的密码破解器: https://t.co/kvQMlw2F9u"
+[ Crypto ]  SSLyze - An SSL/TLS scanner ( detects various issues bad certificates, dangerous cipher suites ) : https://nabla-c0d3.github.io/blog/2017/02/08/sslyze-1-0-0-released/ cc @ nabla_c0d3
+﻿"SSLyze - SSL/TLS 扫描器，可以用于检测危险加密套件、不合法证书等问题︰ https://t.co/AqwthFBVE9   FreeBuf 之前也有过介绍这个工具的文章： http://www.freebuf.com/sectool/107967.html "
+[ Crypto ]  密码学大事件！研究人员公布第一例SHA-1哈希碰撞实例: https://zhuanlan.zhihu.com/p/25401383 Google 的原始链接: https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html
+[ Crypto ]  Using Ordered Markov Chains and User Information to speed up Password Cracking http://fsecurify.com/using-ordered-markov-chains-and-user-information-to-speed-up-password-cracking/
+﻿"使用有序的 Markov 链和用户信息提升密码破解速度： https://t.co/ej1s96Rz5x"
+[ Crypto ]  #biterrant a practical example of backdooring binaries using #SHA1 #SHAttered collision using the #bittorrent proto… https://t.co/vlhKGY01wP
+﻿"前两周研究员发现了首例 SHA1 碰撞，如果 SHA1 的碰撞更加的可控，那会对 BitTorrent 协议造成什么影响？下载的文件区块（chunks ）将可被替换，藏个后门也是有可能的：： https://biterrant.io/"
+[ Crypto ]  Cryptography and Network Security Principles and Practices (4rth Edition) : http://www.inf.ufsc.br/~bosco.sobral/ensino/ine5680/material-cripto-seg/2014-1/Stallings/Stallings_Cryptography_and_Network_Security.pdf (pdf)
+﻿"2005 年出版的一本《密码编码学与网络安全（第四版）》︰ https://t.co/tmDiH2zcuh"
+[ Crypto ]  Recover a RSA private key from multiple bad public keys in order to forge a sig. Quick intro to the math of RSA: https://t.co/49L5O6S7oM
+﻿"从公钥中恢复 RSA 私钥 （video）︰ https://t.co/49L5O6S7oM"
+[ Crypto ]  My #OPCDE talk slides "15 ways to break #RSA #security": https://speakerdeck.com/rlifchitz/15-ways-to-break-rsa-security cc @ iotcert @ opcde #crypto #cryptography #attacks enjoy :)
+﻿"15 ways to break RSA security： https://t.co/tBYJ9MgV4m "
+[ Crypto ]   给初学者看的密码学手册（Pdf）： https://t.co/4SFSshkts8
+[ Crypto ]   使用 Go 语言实现 TLS 1.3 协议的加密，来自 GopherCon 2017 大会： https://speakerdeck.com/filosottile/encrypting-the-internet-with-go-at-gophercon-2017
+[ Crypto ]  分析 AgentTesla 键盘记录器打包时使用的各种加密混淆方式： https://researchcenter.paloaltonetworks.com/2017/09/unit42-analyzing-various-layers-agentteslas-packing/
+[ Crypto ]  Reversing a White Box AES (Part 1) : https://www.youtube.com/watch?v=84Pp9CBjgd8 , Part 2 : https://www.youtube.com/watch?v=k2MPmbchvaM , Part 3 : https://www.youtube.com/watch?v=eecKZIOiRCc
+[ Crypto ]    以太区块链 Bancor 的一个博弈漏洞的深入分析《Front-running Bancor in 150 lines of Python with Ethereum API》： https://hackernoon.com/front-running-bancor-in-150-lines-of-python-with-ethereum-api-d5e2bfd0d798
+[ Crypto ]  Blockchains（区块链）是什么： https://t.co/7MMAnnY0Kk
+[ Crypto ]  斯坦福大学的应用密码学课程：  https://crypto.stanford.edu/  https://crypto.stanford.edu/~dabo/cryptobook/draft_0_2.pdf
+[ Crypto ]  区块链的故事： https://securelist.com/tales-from-the-blockchain/82971/
+[ Crypto ]   Linux下的密码Hash——加密方式与破解方法的技术整理 : https://3gstudent.github.io/3gstudent.github.io/Linux%E4%B8%8B%E7%9A%84%E5%AF%86%E7%A0%81Hash-%E5%8A%A0%E5%AF%86%E6%96%B9%E5%BC%8F%E4%B8%8E%E7%A0%B4%E8%A7%A3%E6%96%B9%E6%B3%95%E7%9A%84%E6%8A%80%E6%9C%AF%E6%95%B4%E7%90%86/
+[ Crypto ]  SecurityIntelligence 团队搭建了一个密码爆破系统 - Cracken，这篇 Blog 介绍其硬件配置： https://securityintelligence.com/the-cracken-in-action-a-password-cracking-adventure/
+[ Crypto ]   密码窃取行动深入分析： https://benkowlab.blogspot.fr/2017/12/an-inside-view-of-password-stealer.html
+[ Crypto ]  Magic "Nothing Up My Sleeve" Numbers： https://tinycrypt.wordpress.com/2017/12/09/magic_numbers/
+[ Crypto ]    19 年前，研究员 Daniel Bleichenbacher 公开了一种利用 PKCS #1 1.5 错误信息实现的自适应 RSA/TLS 攻击方法，成功利用可以解密 RSA 密文。今天另外一位研究员称发现了这种攻击的变种，可以攻击大量 HTTPS 服务器： https://robotattack.org/ ; https://web-in-security.blogspot.de/2017/12/tls-attacker-v22-and-robot-attack.html
+[ Crypto ]  Decrypt php VoiceStar encryption extension: http://blog.th3s3v3n.xyz/2017/12/12/web/Decrypt_php_VoiceStar_encryption_extension/
+[ Crypto ]  intel 全内存加密技术（TME、MKTME）介绍： https://software.intel.com/sites/default/files/managed/a5/16/Multi-Key-Total-Memory-Encryption-Spec.pdf
+[ Crypto ]  如何使用QEMU和Volatility攻击全盘加密的系统: https://zhuanlan.zhihu.com/p/32038343
+[ Crypto ]  破解加密的 PDF 文档 Part 1： https://blog.didierstevens.com/2017/12/26/cracking-encrypted-pdfs-part-1/
+[ Crypto ]  英特尔架构内存加密技术规范（Paper）： https://software.intel.com/sites/default/files/managed/a5/16/Multi-Key-Total-Memory-Encryption-Spec.pdf
+[ Crypto ]    2017 年加密方向相关的出色文章集合 ： https://www.cryptologie.net/article/435/best-crypto-blog-posts-of-2017
+[ Crypto ]  SSL 证书吊销以及过程中可能遇到的问题： https://medium.com/@alexeysamoshkin/how-ssl-certificate-revocation-is-broken-in-practice-af3b63b9cb3
+[ Crypto ]   针对加密货币自动化挖矿的威胁分析： https://www.icebrg.io/blog/coin-mining-by-opportunistic-and-automated-threats
+[ Crypto ]  区块链技术安全讨论： https://mp.weixin.qq.com/s/nJFii2oTEzKTnQNW04FXUQ
+[ Crypto ]  《Cracking Codes with Python》Python 密码算法破解书籍： http://inventwithpython.com/cracking/
+[ Crypto ]  5 月份至今，加密货币矿主 Smominru 已经收割了两三百万美元，通过控制 Botnet 服务器的方式，平均每天可以挖出 24 个门罗币： https://threatpost.com/massive-smominru-cryptocurrency-botnet-rakes-in-millions/129726/
+[ Crypto ]   利用动态解密、隐式 CFI 的方法实现 JavaScript 的混淆加密：  https://marcoramilli.blogspot.com/2018/02/control-flow-integrity-javascript.html
+[ Crypto ]  Fun with self-decryption：  https://x64dbg.com/blog/2018/02/25/fun-with-self-decryption.html
+[ Crypto ]   Red Hat 系列的 RPM 包管理器是如何通过 OpenPGP 签名方式保证软件包的完整性的： https://access.redhat.com/blogs/766093/posts/3373211
+[ Crypto ]  MalwareBytes 加密101系列：如何破解勒索软件加密： https://blog.malwarebytes.com/threat-analysis/2018/03/encryption-101-how-to-break-encryption/
+[ Crypto ]  如何通过 DNS rebinding 的方法盗取你的以太坊：https://ret2got.wordpress.com/2018/01/19/how-your-ethereum-can-be-stolen-using-dns-rebinding/
+[ Crypto ]  区块链安全 - DAO攻击事件解析： https://paper.seebug.org/544/
+[ Crypto ]  区块链安全 - 以太坊短地址攻击： https://paper.seebug.org/545/
+[ Crypto ]  Stolen Bitcoin Tracing - Computerphile（Video）： https://www.youtube.com/watch?v=UlLN0QERWBs
+[ Crypto ]  利用 Ethereum 与 Raspberry Pi 创建私有区块链： https://www.rs-online.com/designspark/exploring-ethereum-with-raspberry-pi-part-2-creating-a-private-blockchain
+[ Crypto ]  Hash 签名算法详解： https://blog.cryptographyengineering.com/2018/04/07/hash-based-signatures-an-illustrated-primer/
+[ Crypto ]  使用 Z3 逆转非加密型哈希： https://www.josephkirwin.com/2018/04/07/z3-hash-inversions/
+[ Crypto ]  Chrome 和 CloudFile 对 TLS 中使用的几种‘后量子密码技术’（Post-Quantum）实现的密钥协商手段进行了评估： https://www.imperialviolet.org/2018/04/11/pqconftls.html
+[ Crypto ]  加密101：解密工具代码详解： https://blog.malwarebytes.com/threat-analysis/2018/04/encryption-101-decryption-tool-code-walkthrough/
+[ Crypto ]  黑客伪造算力盗取多种数字货币： http://blogs.360.cn/blog/%E9%BB%91%E5%AE%A2%E4%BC%AA%E9%80%A0%E7%AE%97%E5%8A%9B%E7%9B%97%E5%8F%96%E5%A4%9A%E7%A7%8D%E6%95%B0%E5%AD%97%E8%B4%A7%E5%B8%81/
+[ Crypto ]  一行代码蒸发了¥6,447,277,680 人民币！: https://zhuanlan.zhihu.com/p/35989258
+[ Crypto ]  逆向 Ethereum 智能合约 Part 2: https://arvanaghi.com/blog/reversing-ethereum-smart-contracts-pt2/
+[ Crypto ]  以太坊 ERC20 智能合约出现 proxyOverflow 漏洞(CVE-2018-10376)： https://www.peckshield.com/2018/04/25/proxyOverflow/batchOverflow 漏洞 (CVE-2018–10299)： https://medium.com/@ranimes/alert-new-batchoverflow-bug-in-multiple-erc20-smart-contracts-cve-2018-10299-511067db6536OKEx 宣布暂停 ERC-20 提现   ： https://support.okex.com/hc/en-us/articles/360003019292
+[ Crypto ]  Protecting RSA-based Protocols Against Adaptive Chosen-Ciphertext Attacks: https://paragonie.com/blog/2018/04/protecting-rsa-based-protocols-against-adaptive-chosen-ciphertext-attacks
+[ Crypto ]  SMT整型溢出漏洞分析笔记： https://media.weibo.cn/article?id=2309404232782242012923
+[ Crypto ]  Mimikatz sekurlsa::tspkg 密码抓取原理分析: https://jetsecurity.github.io/post/mimikatz/walk-through_sekurlsa/
+[ Crypto ]  最近以太坊智能合约出现的多个溢出漏洞分析(CVE-2018–10376、CVE-2018–10299)： https://medium.com/verichains/integer-overflow-simple-but-not-easy-9ebbc58bbaa5
+[ Crypto ]  利用 LIEF 工具将 Android so 转换为 Linux so 后借助 DFA 10 秒获得 AES key： https://blog.quarkslab.com/when-sidechannelmarvels-meet-lief.html

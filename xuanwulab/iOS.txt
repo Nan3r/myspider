@@ -1,0 +1,515 @@
+[ iOS ]  itrace ios private methods https://github.com/waruqi/itrace
+﻿"itrace - Trace iOS/Mac 的私有方法，来自 waruqi https://t.co/Jbg3zngYjP "
+[ iOS ]  iOS 8.1.2 越狱过程详解及相关漏洞分析 - http://nirvan.360.cn/blog/?p=887 by Proteas of Qihoo 360 Nirvan Team
+﻿"iOS 8.1.2 越狱过程详解及相关漏洞分析，来自 360 Nirvan Blog，作者为 Proteas： https://t.co/CQQC3dk8Hl "
+[ iOS ]  iOS 9.3 Beta 1 arm64 Jailbreak Demo (w/ Code Injection) https://www.youtube.com/watch?v=ZDMWIl3bde8
+﻿"iOS 9.3 Beta 1 arm64 越狱 Demo， Youtube 视频： https://t.co/SxvyQwgZ1a"
+[ iOS ]  #iOSREssence I've open sourced SMSNinja on GitHub https://github.com/iosre/SMSNinja, hoping someone can pick it up and bring it back
+﻿"SMSNinja - 一个轻量级的 iOS 短信、彩信、iMessage、电话等防火墙应用， Github Repo: https://t.co/Lsgg6lgSnR "
+[ iOS ]  Security Content iOS 9.2.1 - https://support.apple.com/en-us/HT205732
+﻿"iOS 9.2.1 安全公告，来自 Apple： https://t.co/iqvDg8qtvO"
+[ iOS ]  Safari Cookie Store vulnerable to attacks from wifi captive portals pre iOS 9.2.1 https://www.skycure.com/blog/shared-cookie-stores-bug-fixed-in-ios-9-2-1/
+﻿"iOS 9.2.1 之前版本的 Safari Cookie 仓库在处理 wifi captive portals(Web 认证)时存在漏洞，该漏洞可以导致用户 Cookie 被窃取，来自 Skycure Blog： https://t.co/LclgrB4QIp "
+[ iOS ]  Script Update: iOS Frequent Locations Dumper now with CSV/KML Outputs! http://ht.ly/XsZh6 #DFIR #mac4n6 https://t.co/oE1nL6KRuE
+﻿"iOS 常去地点文件解析工具，现在支持 CSV/KML 格式输出： https://t.co/oE1nL6KRuE https://t.co/8iO9R2kKxI "
+[ iOS ]  Apple can access your encrypted iMessages http://securityaffairs.co/wordpress/43937/digital-id/apple-can-access-imessages-data.html
+﻿"Apple 可以访问你加密的 iMessages： https://t.co/REJtRW4VfB"
+[ iOS ]  Hot or Not? The Benefits and Risks of #iOS Remote Hot Patching http://bddy.me/1lS0Q0m #JSPatch #mobile
+﻿"Hot or Not? iOS 远程 Hot Patching 的利与弊： https://t.co/y07T556YsR "
+[ iOS ]  iOS / OS X Kernel Uninitialized Variable Code Execution https://packetstormsecurity.com/files/135444/GS20160127181317.tgz
+﻿"iOS/OS X 内核 device.defs 未正确处理错误条件，触发未初始化变量代码执行漏洞（CVE-2016-1721），来自 PacketStorm：  https://t.co/fJlrdBuonu"
+[ iOS ]  New iOS security bugs from Google Project Zero: https://code.google.com/p/google-security-research/issues/list?can=1&q=iOS+modified-after%3A2016%2F1%2F26&sort=-id&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=tiles HT @ 0x56 @ willstraf
+﻿"Project Zero 新公开的 10 多个 iOS 安全漏洞，这些漏洞均由 Ian Beer 发现： https://t.co/gZZqvjVnKx "
+[ iOS ]  Elaborate iCloud Phish Used To Activate Stolen iPhones http://blog.malwarebytes.org/phishing/2016/01/elaborate-icloud-phish-used-to-activate-stolen-iphones-2/
+﻿"精心设计地 iCloud 钓鱼攻击，激活偷来的 iPhone。 来自 MalwareBytes Blog：  https://t.co/gCRQNUpJRd"
+[ iOS ]  Frida 6.2 is out with massive performance improvements, iOS 9 fixes and a new API for finding functions http://www.frida.re/news/2016/02/01/frida-6-2-released/
+﻿"Frida 6.2 发布， 性能大大提高， 增加了一个用于查找函数的新 API， 另外在 iOS 9 上的稳定性也有所提高，详细的更新说明：  https://t.co/8nONVSaRL4"
+[ iOS ]  Explaining the race condition recently patched on iOS 9.2 / 9.2.1 kernel exploit https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fblog.pangu.io%2Frace_condition_bug_92%2F&edit-text= (Google translated)
+﻿"iOS 9.2/9.2.1 修补的内核漏洞， 来自 盘古团队 Blog： http://blog.pangu.io/race_condition_bug_92/ "
+[ iOS ]  Bypassing Jailbreak Detection in iOS : https://www.notsosecure.com/2016/02/05/bypassing-jailbreak-detection-ios/
+﻿"绕过 iOS 的越狱检测， 来自 NotSoSecure Blog: https://t.co/PdUIOAaWIQ"
+[ iOS ]  what. 64-bit iPhones and iPads get stuck in a loop when set to January 1, 1970 - http://arstechnica.com/apple/2016/02/64-bit-iphones-and-ipads-get-stuck-in-a-loop-when-set-to-january-1-1970/
+﻿"当把时间设置为 1970 年 1 月 1 日时， 64 位的 iPhone 和 iPad 陷入了死循环， 来自 ArsTechnica 报道： https://t.co/Yq3SCzgxJI"
+[ iOS ]  iOS (up to) 9.3b3 IOHIDFamily Use-After-Free (incorrect patch for CVE-2015-6974) https://ghostbin.com/paste/s3tz7
+﻿"iOS 9.3b3 IOHIDFamily UAF 漏洞 (CVE-2015-6974 的补丁没补好)， 来自 GhostBin： https://t.co/kozQEUhbpu"
+[ iOS ]  [Blog] LLDB Scripting for Remote iOS Debugging http://bit.ly/1QoqLow #mobile #security
+﻿" 基于 LLDB Python 脚本扩展的支持， 在远程调试 iOS 应用时， 跟踪 objc_msgSend() 调用的脚本： https://t.co/EdkfC3qdeB "
+[ iOS ]  IOActive researcher says invasive hardware attack or power analysis could unlock iPhone 5c. https://threatpost.com/delicate-hardware-hacks-could-unlock-shooters-iphone/116388/
+﻿"IOActive 研究员称：美国情报机构可以通过侵入型的硬件芯片攻击解锁 iPhone 5c， 来自 ThreatPost 的报道：  https://t.co/u8ifEmy5EU"
+[ iOS ]  Open List of Requested iOS Security Improvements http://www.zdziarski.com/blog/?p=5741
+﻿"iOS 安全改进心愿单， 来自 Zdziarski Blog: https://t.co/ZkPUVuwqjM"
+[ iOS ]  neat blog post by one of coworkers: "Tracing Objective-C method calls on ARM64" http://nologic.github.io/blog/2016/02/28/ARM64-method-tracing/ + open source tool :)
+﻿" 在 ARM64 上 Trace Objective-C 方法调用， 来自 NoLogic Blog， 作者还开源了他的工具：  https://t.co/t9a725mJFq "
+[ iOS ]  iOS 9.3 enables MDM to enforce homescreen layouts, black/whitelist apps, and enforce notification settings https://developer.apple.com/enterprise/ConfigurationProfileReference.pdf
+﻿"iOS 9.3 通过启用 MDM 强化主屏幕布局、应用黑/白名单和通知设置， 来自官方 iOS 配置概要手册： https://t.co/fjOqfFYzY9"
+[ iOS ]  Apple iOS v9.2.1 - Multiple PassCode Bypass Vulnerabilities (App Store Link… http://goo.gl/fb/fffJzT #FullDisclosure
+﻿"Apple iOS v9.2.1 多个密码绕过漏洞， 来自 FullDisclosure 的公告：  https://t.co/vSnjHcAH4u "
+[ iOS ]  iOS apps in App Store sent #Snapchat password to their own servers via HTTP, discovered by @ chronic thru Verify.ly: http://9to5mac.com/2016/03/08/ios-apps-snapchat-harvest-credentials/
+﻿"App Store 的多款第三方 Snapchat iOS 应用被发现发送 Snapchat 的密码到自己的服务器上, Snapchat 是由斯坦福大学的两名学生开发的 '阅后即焚' 应用 : https://t.co/w5CXlvH5jw"
+[ iOS ]  IORegistryIterator竞争条件漏洞分析与利用 - http://nirvan.360.cn/blog/?p=1005 by 360's Nirvan Team
+﻿"IORegistryIterator 竞争条件漏洞分析与利用, 来自 360 Nirvan Blog: https://t.co/xCIR0lR8Au "
+[ iOS ]  New blog post: Exploring the Physical Address Space on iOS http://embeddedideation.com/2016/03/10/exploring-the-physical-address-space-on-ios/
+﻿"探索 iOS 的物理地址空间 - 在早期的 iOS 版本中, 保护设施还不强, 有很多方法可以 Dump 固件,Boot ROM 的漏洞也可以用于在设备启动早期接管控制权.但慢慢地一个个漏洞都被修复了.方法也就少了,但仍然有一些内核或架构的功能可以允许我们探索底层信息, Blog: https://t.co/rKoEou4xZy "
+[ iOS ]  Pangu9 V1.3.0(Win) V1.1.0(Mac) now support iOS 9.1 for all 64bit devices. Check at http://pangu.io
+﻿"Pangu9 越狱工具发布，分别为 Windows 1.3.0 版 和 Mac 1.1.0 版， 开始支持 iOS 9.1 和 64 位设备：  https://t.co/0ksOanTGRF"
+[ iOS ]  Dumping Memory on iOS 8 https://blog.netspi.com/dumping-memory-on-ios-8/
+﻿"Dump iOS 8 的内存, Blog: https://t.co/HwuCd26SHX"
+[ iOS ]  New blog post: "Fingerprint as a trojan" https://godpraksis.no/2016/03/fingerprint-trojan/ Please RT! Comments wanted.
+﻿"指纹木马 - 你检查过你手机的 iOS Touch ID 吗? 没准别人已经把自己的指纹添加到你的手机上了:  https://t.co/9bOmO7uwV6 "
+[ iOS ]  New Trojan #AceDeceiver entered App Store, infected non-jailbroken iOS via FairPlay MITM attack w/o enterprise cert: http://researchcenter.paloaltonetworks.com/2016/03/acedeceiver-first-ios-trojan-exploiting-apple-drm-design-flaws-to-infect-any-ios-device/
+﻿"iOS 新木马 AceDeceiver - 这是第一个利用 Apple DRM 保护机制设计缺陷的 iOS 木马，这项技术称为 FairPlay 中间人攻击，利用这种方法，无需企业证书，木马就可以实现安装。 来自 Palo Alto Blog︰ https://t.co/UdM0tvZJBR"
+[ iOS ]  Ha, has this Android Trojan paid any royalty fee to Apple for its app name and icon? http://blog.avlyun.com/2016/03/2849/maliciousappstore/ https://t.co/mQXKDkNEJU
+﻿"安天 AVL 联合猎豹首曝“多米诺”恶意应用市场 APP, 来自安天 Blog: https://t.co/MjdZvIb3Oy https://t.co/mQXKDkNEJU"
+[ iOS ]  code signing is a pain? just use https://github.com/kpwn/921csbypass!
+﻿"iOS 9.2.1 代码签名绕过 PoC: https://t.co/fNcIbyCidF ！"
+[ iOS ]  Who’s Breaking into Your Garden : iOS and OS X Malware You May or May Not Know : https://github.com/secmobi/slides/blob/master/2016.AppleMalware_BsidesSF.pdf (pdf) cc: @ claud_xiao
+﻿"谁闯进了你的花园 - 你可能认识或不认识的 iOS 和 OS X 恶意软件, 来自 Claud Xiao 在 BsidesSF 会议的演讲︰ https://t.co/bsxZKUGZFX "
+[ iOS ]  Double blog release on advanced iOS app hooking with cycript https://www.sensepost.com/blog/2016/advanced-cycript-and-substrate/ & Android hooking with introspy https://www.sensepost.com/blog/2016/android-hooking-with-introspy/
+﻿"用 Cycript 和 Substrate Hook iOS 应用： https://t.co/qIkVMPGnST  用 Introspy Hook Android 应用： https://t.co/pbQNMDiacz "
+[ iOS ]  Database of Abandoned iOS App Exposes Details for 198,000 Users http://ow.ly/ZE27t
+﻿"iOS App Kinoptic 已被 App Store 下架，最近它的数据库在网上泄露，泄露的数据库含 198,000 用户的信息： https://t.co/eY78mdN5Ql "
+[ iOS ]  Probably the most hidden visual trick for iOS i have ever seen. Really useful for bedreading! http://9to5mac.com/2016/03/18/how-to-reduce-iphone-screen-brightness-without-jailbreak/
+﻿"不越狱，如何降低 iPhone 手机屏幕的亮度：  https://t.co/2O2ZCm6F7F"
+[ iOS ]  Untangling iOS PIN code security: a look at the Apple vs. FBI saga, from a technical perspective. https://marcan.st/2016/03/untangling-ios-pin-code-security/
+﻿" iOS PIN 码安全性分析， Blog：   https://t.co/fEks2KtYh5"
+[ iOS ]  iOS-URI-Schemes-Abuse https://github.com/pwnsdx/iOS-URI-Schemes-Abuse-PoC
+﻿"滥用 iOS URI Scheme， 5 个 URI Scheme Bug 的攻击 PoC， Github Repo： https://t.co/iVZCjhZ49I"
+[ iOS ]  [Blog] Objective-C Instrumentation with Frida - https://rotlogix.com/2016/03/20/objective-c-instrumentation-with-frida/ /cc @ fridadotre
+﻿"基于 Frida 框架的 Objective-C 插桩方法:  https://t.co/hct858JHsi "
+[ iOS ]  iOS 9.3 fixes crypto attack on iMessage (@ matthew_d_green et al) and code signing bypass (@ ericmonti). Update ASAP: http://support.apple.com/en-au/HT206166
+﻿"iOS 发布 9.3 版本更新，修复多个漏洞，Apple 的漏洞公告︰ https://t.co/W52g1O1orw"
+[ iOS ]  Blog post about our iMessage work: http://blog.cryptographyengineering.com/2016/03/attack-of-week-apple-imessage.html. Paper here: https://isi.jhu.edu/~mgreen/imessage.pdf
+﻿"来自约翰·霍普金斯大学的研究员对 iMessage 加密机制的研究, 研究结果:在特定情况下,可以解密 iMessage 消息的图片和视频, Blog︰ https://t.co/UjFqt60Tr3  火山唇边的舞蹈: Chosen Ciphertext Attacks on Apple iMessage - Paper:︰ https://t.co/hZSmeKPn0H"
+[ iOS ]  In Alibaba's IPO day, Taobao app got crash on just released iOS 8. The bug was fixed via hot patch project https://github.com/alibaba/wax in hours.
+﻿"在阿里巴巴上市的当天，淘宝 App 在刚刚发布的 iOS 8 上崩溃了， 这个 Bug 就是通过 Wax Hot Patch 项目修复的, Github Repo: https://t.co/W9AkhtR12v  Claud Xiao 表示这个故事是从知乎上看到的"
+[ iOS ]  Facebook Messenger (iOS) Certificate Validation Vulnerability http://goo.gl/fb/WnhE8c #FullDisclosure
+﻿"Facebook 社交软件 Messenger (iOS) 证书验证漏洞，可被中间人攻击。 来自 FullDisclosure 的公告： https://t.co/64bEUwonXF "
+[ iOS ]  NAND “Mirroring” Concept Demonstration #2 - iOS 9.0 | Now with unlock at the end https://www.youtube.com/watch?v=EAkJNLqqzaE
+﻿"iOS 9.0 NAND 镜像攻击， 通过硬盘内容复写实现无限制的锁屏密码尝试， Youtube 视频：  https://t.co/VIOYtLV9MX"
+[ iOS ]  so about that: http://deadhacker.com/2016/03/25/the-terrorists-phone/
+﻿"恐怖分子的手机 ︰ https://t.co/tVGWE7LGqv"
+[ iOS ]  [Blog] You Down 'Wit XPC - http://www.lifeform-labs.com/blog/2016/3/31/you-down-wit-xpc #mobile #ios
+﻿"Apple XPC 框架浅析，以及如何用 IDA 和 LLDB 调试分析 XPC 服务， 来自 Lifeform Labs Blog： https://t.co/sUNhByFm3R XPC 是一个轻量级的 IPC 框架"
+[ iOS ]  . #SideStepper Allows for MiTM Between #iOS Devices, MDM Tools: https://threatpost.com/sidestepper-allows-for-mitm-between-ios-devices-mdm-tools/117103/ via @ threatpost
+﻿"利用 SideStepper 漏洞，可以实现 iOS 设备和 MDM 工具之间的中间人攻击，攻击者可以向手机安装新的配置或者是 CA 根证书， ThreatPost 的报道：  https://t.co/jy9t9aRd9i   该漏洞由 Check Point 研究员发现：  http://www.checkpoint.com/resources/sidestepper-ios-vulnerability/ "
+[ iOS ]  FBI vs Apple: FBI is lucky, https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fblog.pangu.io%2Ffbi-vs-apple%2F&edit-text= (google translated)
+﻿"FBI vs Apple: FBI是幸运的，来自盘古 Blog: http://blog.pangu.io/fbi-vs-apple/ "
+[ iOS ]  Home-Brewing iOS Malware Like a B0$$! : https://www.blackhat.com/docs/asia-16/materials/asia-16-Tamir-Su-A-Cyder-Homebrewing-Malware-For-iOS-Like-A-B0SS.pdf (Slides) #BHASIA
+﻿"像老板一样自制 iOS 恶意软件， 来自 BlackHat Asia 2016 会议的演讲: https://t.co/GEZgWaegfi "
+[ iOS ]  The so called #SideStepper attack (by CheckPoint) is totally not worth to consider. Slides is here (don't read it!): https://www.blackhat.com/docs/asia-16/materials/asia-16-Bashan-Enterprise-Apps-Bypassing-The-iOS-Gatekeeper.pdf
+﻿"企业 Apps - 绕过 iOS Gatekeeper， 来自 BlackHat Asia 2016 会议 ︰ https://t.co/8HBUB6QuSq"
+[ iOS ]  Potential security problems introduced by iOS hot patching SDKs, episode 2: https://www.fireeye.com/blog/threat-research/2016/04/rollout_or_not_the.html (by @ jxiej)
+﻿"iOS 远程 Hot Patch 的利与弊（2）， 来自 FireEye Blog： https://t.co/hmFUjfIy6L"
+[ iOS ]  Apple iOS 9.3.1 (iPhone 6S & iPhone Plus) - (3D Touch) Passcode Bypass Vulnerability http://seclists.org/fulldisclosure/2016/Apr/19
+﻿"Apple iOS 9.3.1 (iPhone 6S & iPhone Plus)-（3D Touch） 锁屏密码绕过漏洞， 来自 FullDisclosure 的公告： https://t.co/YFZA3Sb5rG"
+[ iOS ]  New blog post: Enabling Serial I/O on iOS Devices http://embeddedideation.com/2016/04/06/enabling-serial-io-on-ios-devices/
+﻿"在 iOS 设备上启用串行 I/O： https://t.co/mhEpmr1tyE "
+[ iOS ]  If You Can't Break Crypto, Break the Client: Recovery of Plaintext iMessage Data https://www.bishopfox.com/blog/2016/04/if-you-cant-break-crypto-break-the-client-recovery-of-plaintext-imessage-data/
+﻿"破不了加密算法，那就攻击客户端： iMessage 明文数据恢复： https://t.co/eu45AFJeqR"
+[ iOS ]  Just updated #libirecovery to support iPhone SE and iPad Pro (9.7 inch) https://github.com/libimobiledevice/libirecovery.git
+﻿"libirecovery - 通过 USB 与 iOS 设备通信的工具， 是个扩平台的协议库实现，支持 Windows、Linux 和 OS X：  https://t.co/ozdt9L12Ij  官网： http://www.libimobiledevice.org/ "
+[ iOS ]  We’ve just open-sourced some sweet iOS tools to help you easily find and fix memory leaks. https://code.facebook.com/posts/583946315094347 #f8 #f82016
+﻿"Facebook 开源了一套自动化检测 iOS 内存泄露的工具， 来自 Facebook Blog： https://t.co/g2yTITIm8r"
+[ iOS ]  iOS date bug could be triggered over Wi-Fi spoofing an NTP server http://securityaffairs.co/wordpress/46305/hacking/ios-date-bug.html
+﻿"在 Wi-Fi 环境欺骗 NTP 服务器可以触发 iOS 的日期 Bug，使 iPhone 永久成砖， 来自 SecurityAffairs 的报道： https://t.co/KngjdpDnP6"
+[ iOS ]  su-a-cyder - An Home-Brewed iOS Malware PoC Generator https://github.com/Mi3Security/su-a-cyder
+﻿"su-a-cyder - iOS 恶意软件 PoC 生成器， 作者在 BlackHat Asia 2016 会议上讲过这个工具： https://t.co/r7EjXqQU5F    会议 Slides: https://www.blackhat.com/docs/asia-16/materials/asia-16-Tamir-Su-A-Cyder-Homebrewing-Malware-For-iOS-Like-A-B0SS.pdf "
+[ iOS ]  Uploaded my iOS of Sauron: How iOS Tracks Everything You Do presentation from @ BSidesNOLA https://github.com/mac4n6/Presentations/blob/master/iOS%20of%20Sauron%20-%20How%20iOS%20Tracks%20Everything%20You%20Do/iOS_of_Sauron_04162016.pdf #mac4n6 #DFIR
+﻿"iOS 是如何跟踪你做的每一件事的，来自 BSidesNOLA 会议： https://t.co/J9TPsk7xN3 "
+[ iOS ]  iOS/OS X ImageIO null pointer dereference : https://www.landaire.net/blog/apple-imageio-denial-of-service/
+﻿"iOS/OS X ImageIO 框架在解析 PNG 图片格式时触发空指针解引用拒绝服务 ︰ https://t.co/9QeCSZSG31"
+[ iOS ]  The slides from my @ BSidesROC iOS talk are now online. Enjoy, and thanks to all who came to see the talk! https://twitter.com/NullBits/status/723928258853523457
+﻿"iOS 的加密体系，包括全盘加密、Passcode 等，来自 BSides 会议的演讲： https://t.co/xkg6R8jBNX"
+[ iOS ]  C & C++ for OS - Filter Bypass & Persistent Vulnerability http://goo.gl/fb/77FOwC #FullDisclosure
+﻿"C & C++ for OS APP 存在过滤器绕过和永久型注入漏洞： https://t.co/d6OEuTGqof  "
+[ iOS ]  Riskware "ImgNaix" repackaged into Wechat, abused private API and affected non-jailbroken iOS device: http://drops.wooyun.org/mobile/15406 by @ SparkZheng
+﻿" 微信双开还是微信定时炸弹？- 关于非越狱iOS上微信分身高危插件ImgNaix的分析， 来自 Wooyun Drops：   https://t.co/YgzekaUfGw"
+[ iOS ]  AppMon - framework for monitoring and tampering system API calls of native iOS and Android apps. Based on Frida http://dpnishant.github.io/appmon/
+﻿"AppMon - iOS Native System API 监控和篡改框架，基于 Frida： https://t.co/Kfv0YnshlN"
+[ iOS ]  iOS HTTP cache analysis for abusing APIs and forensics https://blog.silentsignal.eu/2016/05/06/ios-http-cache-analysis-for-abusing-apis-and-forensics/
+﻿"iOS API 与取证 - 有些 APP 使用 NSURLRequest 处理 HTTP 请求，而 NSURLRequest 会将数据写入缓存： https://t.co/6XmspbU9es "
+[ iOS ]  One of the jailbreak tests can detect from within the sandbox via timing attack if someone patched kernel to allow task_for_pid0 in iOS 8
+﻿"在 iOS 8 系统，如果被 Patch 后的内核支持 task_for_pid0， 那可以通过 Timing Attack 在沙箱内实现越狱检测。 Stefan Esser 写了一个检测工具： https://itunes.apple.com/de/app/system-and-security-info/id1080681261?l=en&;mt=8   关于这个工具的介绍： https://www.sektioneins.de/en/blog/16-05-09-system-and-security-info.html "
+[ iOS ]  Looks like the original app is open source https://github.com/Asido/SystemMonitor
+﻿"iOS System Monitor： https://t.co/Ajdd0mLXQt"
+[ iOS ]  Security Principles in iOS Architecture : https://woumn.wordpress.com/2016/05/02/security-principles-in-ios-architecture/
+﻿"iOS 体系架构中的安全法则︰ https://t.co/hSECWlfXUk"
+[ iOS ]  iOS 9.3.2 is out. Multiple remote code exec vulns and local EOPs: https://support.apple.com/en-us/HT206568
+﻿"iOS 发布 9.3.2 版本，本次更新修复了多个 RCE 和本地提取漏洞，官方公告: https://t.co/hIFh7huGNh"
+[ iOS ]  This is what a user sees when my captive portal prompts to install a malicious root CA https://www.sensepost.com/blog/2016/too-easy-adding-root-cas-to-ios-devices/ https://t.co/SA9zyrQp2M
+﻿" 通过一个诱惑性的弹框引导用户安装 iOS 根 CA 证书，来自 SensePost Blog： https://t.co/6on1htDPsu https://t.co/SA9zyrQp2M"
+[ iOS ]  New Presentation - iOS Location Forensics http://www.mac4n6.com/blog/2016/5/25/new-presentation-ios-location-forensics #DFIR #mac4n6
+﻿" iOS 定位相关的取证分析： https://t.co/83HNSiO1XI "
+[ iOS ]  Evading "Find My iPhone' http://blog.kcnabin.com.np/find_my_iphone_can-be-failed/
+﻿" 利用私有 DNS， '查找我的 iPhone' 可以被轻松绕过： https://t.co/oMD9casb0U"
+[ iOS ]  SandJacking allows hackers to install malicious iOS apps on non-jailbroken devices. No patch from Apple http://www.securityweek.com/sandjacking-attack-allows-hackers-install-evil-ios-apps #hitb2016ams
+﻿" 通过 'SandJacking' 攻击技术，在未越狱的 iOS 设备上安装恶意 APP： https://t.co/uMTAdj3Sdn  来自 HITB 2016 会议的演讲，演讲 Slides: https://conference.hitb.org/hitbsecconf2016ams/materials/D1T2%20-%20Chilik%20Tamir%20-%20Profiting%20from%20iOS%20Malware.pdf "
+[ iOS ]  [Discussion] The iOS 9.3.2 jailbreak exploit is publicly available. https://www.reddit.com/r/jailbreak/comments/4lfi2y/discussion_the_ios_932_jailbreak_exploit_is/ Webkit exploit: https://github.com/WebKit/webkit/commit/98845d940e30529098eea7e496af02e14301c704
+﻿" iOS 9.3.2 越狱已经有公开的视频了，而且其中所用的漏洞也公开了， Reddit 上的讨论： https://t.co/TbdUgm4GUP    Webkit 的漏洞补丁提交日志︰ https://t.co/TxaqPMOXpB"
+[ iOS ]  Fingerprint Unlock Security: iOS vs. Google Android http://blog.elcomsoft.com/2016/06/ios-fingerprint-unlock-security/
+﻿" iOS 指纹解锁安全性研究： https://t.co/JRAraihr1u"
+[ iOS ]  while stuck in Heathrow I uploaded slides of my talk on iOS malware at @ BSidesLondon https://speakerdeck.com/milkmix/ios-malware-myth-or-reality #malware
+﻿" iOS 恶意软件的神话和现实，来自 BSides 伦敦会议： https://t.co/fq0emsPM2o "
+[ iOS ]  inpuTbag - A 15-year-old Kernel HeapOverFlow Vulnerability has just been fixed by Apple in iOS 9.3.2 @ SparkZheng http://translate.wooyun.io/2016/06/12/54.html
+﻿"inpuTbag 漏洞 - iOS 冰与火之歌 – UAF and Kernel Pwn， 作者 '蒸米' 利用该漏洞实现了 iOS 9.3.2 版本的越狱，来自乌云 Drops： https://t.co/0Rj75HygIo"
+[ iOS ]  Remove Built-in Apps From the Home Screen on Your iOS Device With iOS 10 Beta: http://daringfireball.net/linked/2016/06/13/ios-10-remove-apps
+﻿" iOS 10 Beta 版将支持删除内置应用: https://support.apple.com/en-gb/HT204221 "
+[ iOS ]  Another risky iOS advertisement SDK "Vpon" affected 36 apps in App Store: https://www.fireeye.com/blog/threat-research/2016/06/pwned_by_vpon.html Good job @ jxiej!
+﻿" 又一款存在风险的 iOS 广告 SDK - Vpon，攻击者可以实现远程截屏、录音、位置获取等，App Store 中 36 款 APP 受影响，来自 FireEye Blog︰ https://t.co/qr7sM1J5LR  受影响的 APP 列表： https://gist.github.com/chilik/11ffc141c0830ce6d8cea77bc1cdcf13  用一张图展示受影响 APP： https://pbs.twimg.com/media/Ck7pGYBXEAEsi8G.jpg:large "
+[ iOS ]  iOS 9.3 to iOS 10.0 API Differences https://developer.apple.com/library/prerelease/content/releasenotes/General/iOS10APIDiffs/index.html
+﻿"iOS 9.3 与 iOS 10.0 API 的差异： https://t.co/5gYzMat9D7"
+[ iOS ]  Digging into APFS, Apple’s new file system @ Lee_Ars | http://arstechnica.com/apple/2016/06/digging-into-the-dev-documentation-for-apfs-apples-new-file-system/
+﻿" WWDC 会议上，苹果公开了一种新的文件系统 APFS，来自 ArsTechnica 的报道： https://t.co/UZioAj0ob8"
+[ iOS ]  Continuing my annual tradition: "Notes from #iOS10 and the Mac #OSX 10.12 Preview" - http://newosxbook.com/forum/viewtopic.php?f=8&t=16692 … - v0.1 (more to follow later)
+﻿" iOS 10 和 Mac OS X 10.12 预览版的一些新变化： http://newosxbook.com/Articles/10-10.12.html "
+[ iOS ]  Liberation, a new iOS engine uses Keystone assembler inside for code injection! https://github.com/iOSCheaters/Liberation
+﻿" Liberation - iOS 代码注入引擎，基于 Keystone 汇编工具： https://t.co/spJbYYSkbh"
+[ iOS ]  https://ghostbin.com/paste/qw8z7 - GasGauge double free race condition 0day exploit for iOS 9.3.3b and lower
+﻿" 黑客 Luca Todesco 公开了一个 iOS 9.3.3b 版本的 GasGauge Double Free 竞争条件 0Day： https://t.co/P82w2EdL6V-GasGauge  据报道，该 0Day 之所以被公开是因为 iOS 10 已经补掉了这个漏洞，所以在 iOS 10 上用该漏洞越狱已经不再可能： http://www.cnbeta.com/articles/511277.htm "
+[ iOS ]  This was the xpc code in 9.2 using the untrusted index directly, between 9.3.1 and 9.2 it got fixed (dunno exactver) https://t.co/FTFtsTzUHR
+﻿" iOS 9.2 版本的 XPC 模块代码直接使用了一个不可信的索引， marcograss 的 Blog： https://marcograss.github.io/security/apple/xpc/2016/06/17/containermanagerd-xpc-array-oob.html "
+[ iOS ]  Apple Releases unobfuscated iOS 10 kernel https://www.technologyreview.com/s/601748/apple-opens-up-iphone-code-in-what-could-be-savvy-strategy-or-security-screwup/
+﻿" 之前版本的 iOS 内核，苹果都会混淆或加密，而最近的 iOS 10 预览版中，苹果放了一个未混淆的版本： https://t.co/UfAFMafxlH"
+[ iOS ]  #idevicerestore now works with iOS 10, plus some other fixes: https://github.com/libimobiledevice/idevicerestore
+﻿" iOS 固件恢复/更新工具 idevicerestore 支持 iOS 10 了︰ https://t.co/VtaGhgPpPE"
+[ iOS ]  Tool for statically reconstructing the IOKit classes hierarchy from iOS kernelcache dumps https://github.com/jndok/iokit-dumper-arm64
+﻿" iokit-dumper-arm64 - 从 iOS 内核 KernelCache Dump 文件中重建类继承关系的静态工具：  https://t.co/rBAzVGanB5"
+[ iOS ]  Aloha! Slides of my talk "Fruit vs Zombies: Defeat Non-jailbroken iOS Malware" at @ shakacon is available here: https://github.com/secmobi/slides/blob/master/2016.NonjailbrokeniOSMalware_Shakacon.pdf
+﻿" 水果大战僵尸 - 攻击非越狱 iOS 的恶意软件，来自 Claud Xiao 在 ShakaCon 会议的演讲︰ https://t.co/usKOOzA7ov"
+[ iOS ]  new blogpost on Apple - [CVE-2016-1865] Some unexploitable but unsandboxable OS X/iOS Kernel NULL pointers - https://marcograss.github.io/security/apple/cve/2016/07/18/cve-2016-1865-apple-nullpointers.html
+﻿" CVE-2016-1865 - 不可利用、但是从沙箱内也能触发的空指针引用内核 Crash 漏洞： https://t.co/EhBpG3IpCL"
+[ iOS ]  Lots of iOS bugs fixed today. I wonder if the imageIO ones were reachable via iMessage: https://support.apple.com/en-au/HT206902
+﻿" Apple 更新 iOS 9.3.3 和 OS X 10.11.6，本次更新相关的漏洞公告： https://support.apple.com/en-us/HT201222 "
+[ iOS ]  Hacking Apple devices with just a Message exploiting the CVE-2016-4631 http://securityaffairs.co/wordpress/49542/hacking/hacking-apple-cve-2016-4631.html
+﻿" 一条短消息黑掉你的苹果设备（CVE-2016-4631），该 ImageIO 的漏洞已经被修复： https://t.co/Oc0jABHl1q "
+[ iOS ]  iOS Application Insecurity (Old paper by @ domchell but good one ) : https://www.exploit-db.com/docs/18831.pdf (pdf) cc @ hackerfantastic
+﻿" iOS Application Insecurity，2012 年的一篇 Paper，主要是总结 iOS 应用的各类漏洞案例︰ https://t.co/iJWpDsnhEx "
+[ iOS ]  Secure Development On iOS : http://www.slideshare.net/SOURCEConference/david-thiel-secure-development-on-ios (Slides ) #b2b
+﻿" iOS 安全开发指南: https://t.co/hsBG2pHLqA  "
+[ iOS ]  Pangu iOS 9.3.3 jailbreak released, fresh and tangy. http://en.pangu.io/
+﻿"盘古团队发布 iOS 9.3.3 越狱工具： https://t.co/bN7Vgt25jq"
+[ iOS ]  [Intel Security] Active iOS Smishing Campaign Stealing Apple Credentials https://goo.gl/C014E1
+﻿" 一个专门偷 iOS Apple ID 的诈骗攻击，来自 McAfee Blog： https://t.co/oM0KRXhtwh"
+[ iOS ]  How to steal $2,999.99 in less than 2 minutes with Venmo and Siri http://www.martinvigo.com/steal-2999-99-minute-venmo-siri/
+﻿" 滥用手机支付 APP Venmo 和 Siri，两分钟不到，偷 2999.99 刀： https://t.co/CrvGl5ekd4 "
+[ iOS ]  Reversing the string encryption in the Pangu 9.3 jailbreak: http://owl.li/CJh7302QGxF #infosec #jailbreak https://t.co/vjOdf8UtM8
+﻿"逆向盘古 iOS 9.3 越狱工具中的加密字符串，来自 Context Blog︰ https://t.co/i9Afeockq8 "
+[ iOS ]  #BHUSA Slides for KeenLab's talk today: http://www.slideshare.net/LiangChen13/us-16subverting-applegraphicspracticalapproachestoremotelygainingrootchenhegrassifu @ flanker_hqd @ marcograss @ fuyubin1993
+﻿" 攻破苹果的图形处理 - 远程夺取 Root 权限，来自科恩实验室陈良刚刚在 BlackHat 的演讲︰ https://t.co/f5AF46XeDp "
+[ iOS ]  #iOS 9.3.4 (13G35) has been released for 43 devices - https://ipsw.me/9.3.4
+﻿" iOS 发布 9.3.4 更新，更新包的下载： https://t.co/4gE3LE60WL  官方的安全公告： https://support.apple.com/zh-cn/HT207026 "
+[ iOS ]  Pangu 9 Internals : http://blog.pangu.io/wp-content/uploads/2016/08/us-16-Pangu9-Internals.pdf (Slides)
+﻿" Pangu 9 越狱工具的技术内幕，来自盘古团队在 BlackHat 会议的演讲: https://t.co/DgscqpM3i7 "
+[ iOS ]  Apple Security Bounty program initial categories - opens in September https://t.co/XH8rFmpHI9
+﻿"苹果将从 9 月份开始启动漏洞奖励计划，固件安全启动组件的漏洞最高可奖励 20 万美金 https://t.co/XH8rFmpHI9"
+[ iOS ]  Demystifying the Secure Enclave Processor : https://www.blackhat.com/docs/us-16/materials/us-16-Mandt-Demystifying-The-Secure-Enclave-Processor.pdf (Slides) #BlackHat2016
+﻿" 剖析 Apple SEP（Secure Enclave Processor，安全专用协处理器），来自 BlackHat 会议︰ https://t.co/U8BbxegvKr "
+[ iOS ]  #iOS binary pack (64) updated: latest jtool, procexp, and important fix for login to allow shell from terminal apps http://newosxbook.com/tools/iOSBinaries.html
+﻿" iOS/OS X 系统一些非常好用的二进制命令行工具： https://t.co/z1wpIXnhYo "
+[ iOS ]  Apple’s BlackHat slides are online! (thanks @ s1guza) https://www.blackhat.com/docs/us-16/materials/us-16-Krstic.pdf
+﻿" iOS 安全性的幕后，来自 BlackHat 会议，就是该演讲宣布了苹果的漏洞奖励计划： https://t.co/RLGCamyag1"
+[ iOS ]  Slides for ‘A Journey Through Exploit Mitigation Techniques on iOS’ - https://speakerdeck.com/mbazaliy/a-journey-through-exploit-mitigation-techniques-on-ios #defcon #defcon2016
+﻿" iOS 漏洞利用缓解措施概览，来自 DefCon 会议： https://t.co/MjatuivznZ "
+[ iOS ]  MWR releases Needle, its new open source modular framework for conducting security assessments of iOS applications: http://mwr.to/zr9x
+﻿" Needle - NCC Group 开源的一个 iOS APP 安全性评估框架︰ https://t.co/rbKyNaas7U"
+[ iOS ]  POC for Secure Enclave based crypto on iOS9 https://github.com/crazyquark/KeySafe
+﻿" iOS 9+ 系统使用 KeySecGeneratePair() 加密 API 的示例代码： https://t.co/D5IrOsAa5N "
+[ iOS ]  Concise by precise summary of "Security and Privacy Changes in iOS 10" by @ nabla_c0d3 https://nabla-c0d3.github.io/blog/2016/08/16/ios10-changes/
+﻿" iOS 10 在隐私和安全性方面的变化： https://t.co/0ZeCKWyrvO"
+[ iOS ]  Greetings from SG! #HITBGSEC Presentation, and a new SBTool to inspect #iOS/#MacOS #sandbox: http://newosxbook.com/articles/hitsb.html https://t.co/vwTX2QYwqI
+﻿" Hack in the Apple (sand)Box： http://newosxbook.com/articles/hitsb.html  PPT： http://newosxbook.com/files/HITSB.pdf "
+[ iOS ]  iOS 9.3.5: WebKit RCE & kernel privilege escalation… upgrade now now now https://support.apple.com/en-gb/HT207107
+﻿"iOS 9.3.5 发布，修复了一个 WebKit RCE 漏洞以及两个内核漏洞： https://t.co/Eg0qYWST9G"
+[ iOS ]  Slides from my @ HITBGSEC talk are online: "iOS 10 Kernel Heap Revisted" http://gsec.hitb.org/materials/sg2016/D2%20-%20Stefan%20Esser%20-%20iOS%2010%20Kernel%20Heap%20Revisited.pdf
+﻿" 重温 iOS 10 内核堆，来自 HITB GSec 会议： https://t.co/AvtXbxvWGp"
+[ iOS ]  SandBlaster: reverse/decompile Apple sandbox profiles to original human readable SandBox Profile Language format. https://arxiv.org/pdf/1608.04303v1.pdf
+﻿" SandBlaster - 逆向 iOS 的沙箱配置文件： https://t.co/uOvAynOEWt"
+[ iOS ]  Pegasus - analysis of APT attack iOS devices https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=http%3A%2F%2Fblog.pangu.io%2Fpegasus-apt%2F
+﻿" Pegasus – 针对 iOS 设备的 APT 攻击分析，来自盘古 Blog： http://blog.pangu.io/pegasus-apt/  "
+[ iOS ]  Apple Patents Collecting Biometric Information Based on Unauthorized Device Use https://www.schneier.com/blog/archives/2016/08/apple_patents_c.html
+﻿"苹果收到了一份专利，关于在未授权设备上采集用户生物特征信息： https://t.co/Zkz3Xgor2e"
+[ iOS ]  A Peek Under the Hood of iOS Malware Paper: https://webdiis.unizar.es/~ricardo/files/papers/GR-WMA-16.pdf Samples: https://webdiis.unizar.es/~ricardo/software-tools/supplementary-research-material/ios-malware-samples/ (by @ RicardoJRdez)
+﻿" 对 2009-2015 年间的 36 个 iOS 恶意软件家族的分析，Paper ︰ https://t.co/k7VvPCb1OB   样本︰ https://t.co/xKlLu9GE0B "
+[ iOS ]  .@ Apple Patches #Trident Vulnerabilities in #OSX, #Safari: https://threatpost.com/apple-patches-trident-vulnerabilities-in-os-x-safari/120336/ via @ threatpost
+﻿" 前两周 iOS 被曝了 3 个漏洞，之后 iOS 9.3.5 版本发布，修复了这些漏洞。这两天苹果也为 OS X 和 Safari 发布了针对这些漏洞的补丁更新: https://t.co/21adneBw7J 通过 @threatpost"
+[ iOS ]  Analysis and PoC of the iOS & OSX PEGASUS kernel exploit by @ i0n1c (great example of deserialization use-after-free) http://sektioneins.de/en/blog/16-09-02-pegasus-ios-kernel-vulnerability-explained.html
+﻿" PEGASUS iOS 内核漏洞的分析（CVE-2016-4656，附 PoC）：  https://t.co/xteEFdDxa8"
+[ iOS ]  How Apple fixed OSUnserialzeBinary() in response to PEGASUS http://pastebin.com/raw/JSej0pUi
+﻿" Apple 是如何修复 iOS PEGASUS OSUnserializeBinary() 漏洞的： https://t.co/iQsRJqRmwQ "
+[ iOS ]  PEGASUS iOS Kernel Vulnerability Explained - Part 2 http://sektioneins.de/en/blog/16-09-05-pegasus-ios-kernel-vulnerability-explained-part-2.html
+﻿" PEGASUS iOS 内核漏洞分析（Part 2）：  https://t.co/M4jgyokhQT"
+[ iOS ]  New post: A Case of Misplaced Trust: How a Third-Party App Store Abuses Apple’s Developer Enterprise P http://bit.ly/2cisDDo @ TrendMicro
+﻿"  第三方 App Store 是如何滥用苹果的开发者企业计划的，来自趋势科技的 Blog： https://t.co/75QW9t89vE "
+[ iOS ]  Wow, @ daveaitel credited with a bug fixed in iOS 10. https://support.apple.com/en-us/HT207143
+﻿" iOS 10 正式开始推送，可以下载更新了，iOS 10 修复的一些漏洞： https://t.co/ZZnpXBlyht"
+[ iOS ]  .#iOS10 Security Updates Move to #HTTPS: https://threatpost.com/ios-10-security-updates-move-to-https/120545/ via @ threatpost
+﻿" iOS 10 的安全更新将不再使用 HTTP 传输，而是 HTTPS： https://t.co/C5GciQyhEj"
+[ iOS ]  “不越狱 装正版”？海马应用市场的广告程序已感染超7500万iOS用户 http://www.freebuf.com/news/114458.html
+[ iOS ]  Pangu's writeup on CVE-2016-4655, an XNU stack infoleak in OSUnserializeBinary; orig: http://blog.pangu.io/cve-2016-4655/; eng: https://translate.google.com/translate?sl=zh-CN&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fblog.pangu.io%2Fcve-2016-4655%2F&edit-text=
+﻿" 盘古团队对本月 iOS 10 修复的 OSUnserializeBinary 信息泄漏漏洞的分析（CVE-2016-4655）： http://blog.pangu.io/cve-2016-4655/ "
+[ iOS ]  《BadURLScheme in iOS》 http://paper.seebug.org/42/
+﻿" 知道创宇黑哥发表的一篇关于 iOS BadURLScheme 漏洞的分析，据文中介绍，这个漏洞主要是在 iOS 对于 URL Scheme 及其在 UIWebView 等控件的自动诊断识别等处理机制下导致跨应用 XSS 漏洞： https://t.co/B4S6baw8TF "
+[ iOS ]  Researcher Bypasses iOS Passcode Limit With NAND Mirroring https://www.onthewire.io/researcher-bypasses-ios-passcode-limit-with-nand-mirroring/
+﻿"通过镜像 iOS NAND 内存破解锁屏密码： https://t.co/gyGfFWkoIF"
+[ iOS ]  . @ heathermahalik: A glimpse of iOS 10 from a smartphone forensic perspective http://ow.ly/UDfT504AGnS
+﻿" 从智能手机取证的角度看 iOS 10： https://t.co/wqgxs81igU"
+[ iOS ]  Lists of available trusted root certificates in iOS - Apple Support (see also for OS X: https://support.apple.com/en-us/HT202858) https://support.apple.com/en-us/HT204132
+﻿"各版本 iOS 信任的根证书列表： https://support.apple.com/en-us/HT204132  各版本 OS X 信任的根证书列表： https://support.apple.com/en-us/HT202858 "
+[ iOS ]  Researchers Find ‘Severe’ Password Security Hole with iOS 10 Backups https://threatpost.com/researchers-find-severe-password-security-hole-with-ios-10-backups/120834/
+﻿" 研究员在 iOS 10 备份机制中发现了一个严重的密码爆破漏洞： https://t.co/FggtN5xx8N "
+[ iOS ]  935csbypass- bypassing code signatures in iOS 9.3.5 https://github.com/kpwn/935csbypass
+﻿" iOS 9.3.5 代码签名绕过工具： https://t.co/N4doHnJrFr "
+[ iOS ]  My slides "Malware wellbeing on iOS devices" https://dsec.ru/upload/medialibrary/29f/29f57cef406125e9169da733e1aaf83f.pdf
+﻿" iOS 的安全特性和恶意软件总结，来自 DigitalSecurity 的 PPT： https://t.co/aXuYDBwa51"
+[ iOS ]  Local privilege escalation for OS X 10.11.6 via PEGASUS Write up: https://jaq.alibaba.com/community/art/show?articleid=532 Exp:… https://t.co/r56jxZ99Im
+﻿"  iOS 冰与火之歌(番外篇) - 基于 PEGASUS（Trident 三叉戟）的 OS X 10.11.6 本地提权： http://jaq.alibaba.com/community/art/show?spm=a313e.7916648.0.0.6DZeUL&articleid=531   代码： https://github.com/zhengmin1989/OS-X-10.11.6-Exp-via-PEGASUS "
+[ iOS ]  iOS 10.0.2 (14A456) kernel base addresses for some iDevices: https://gist.github.com/argp/0e2b53c7f5f531864db1c9b4052cd60b
+﻿"iOS 10.0.2 版本中所有 iPhone 型号的内核基地址︰ https://t.co/A5yCGOQVzB"
+[ iOS ]  TaiG patchfinder opensourced - https://github.com/in7egral/taig8-ios-jailbreak-patchfinder
+﻿" Taig patchfinder 开源了，这个工具可以帮助我们从二进制内核文件中定位函数偏移： https://t.co/H7Ixac9xx3"
+[ iOS ]  黑科技：把第三方 iOS 应用转成动态库： http://mp.weixin.qq.com/s?__biz=MjM5NTIyNTUyMQ==&mid=2709545228&idx=1&sn=7a47a0de32e06f9c465319e8db8ca13f&chksm=828f0bd2b5f882c46416ab20cd9ea482b3c57b202d876b75d5625a1bb036d40fe01d31c2679a&mpshare=1&scene=1&srcid=1009N6R6XQyc1MDWhh0MfG7h#rd
+[ iOS ]  New NCC Group blog post: iOS instrumentation without jailbreak https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/october/ios-instrumentation-without-jailbreak/
+﻿" 在非越狱的情况下实现 iOS 插桩： https://t.co/IxjpSCWkU8 "
+[ iOS ]  Introspy-iOS working on iOS 9.3.3 https://github.com/integrity-sa/Introspy-iOS/releases @ iSECPartners, @ NCCGroupInfosec
+﻿"Introspy-iOS  - 用于辅助了解 iOS 运行时状态的工具： https://t.co/0E9hi3CftW "
+[ iOS ]  Pegasus内核漏洞分析与利用（一）(CVE-2016-4655/CVE-2016-4656) ： http://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458280200&idx=1&sn=86f7a88863154b1261c1a8ee595a94f9&chksm=b181518286f6d8942f58a1e3f42094d04ec20a9f83cf205dd5985af64cd96c6c8db61eadce1c&scene=0#wechat_redirect
+[ iOS ]  Facebook 开源的 WebDriverAgent， WebDriverAgent is a WebDriver server implementation for iOS that can be used to remote control iOS devices. It allows you to launch & kill applications, tap & scroll views or confirm view presence on a screen：https://github.com/facebook/WebDriverAgent
+[ iOS ]  iOS 10.1 security fixes: https://support.apple.com/en-us/HT207271
+﻿"iOS 发布 10.1 版本，本次更新的补丁公告︰ https://t.co/Z8JfZa98oI   macOS Sierra 10.12.1 版本的补丁公告： https://support.apple.com/kb/HT207275  Safari 10.0.1： https://support.apple.com/kb/HT207272 "
+[ iOS ]  Controlled vm_deallocate size can lead to UaF in launchd https://bugs.chromium.org/p/project-zero/issues/detail?id=896
+﻿" iOS launchd vm_deallocate UAF 漏洞，来自 Project Zero： https://t.co/nzsRAi4REu"
+[ iOS ]  Logic issue in launchd message requeuing allows arbitrary mach message control https://bugs.chromium.org/p/project-zero/issues/detail?id=893
+﻿"iOS launchd mach 消息处理中的一个逻辑漏洞： https://t.co/8qSQkrbl98"
+[ iOS ]  Lookout released a 42 page technical document explaining Pegasus (3 iOS vulns) https://info.lookout.com/rs/051-ESQ-475/images/pegasus-exploits-technical-details.pdf
+﻿"Lookout 发布了 iOS 三叉戟漏洞的详细技术分析：  https://t.co/d5w4PngFiS"
+[ iOS ]  iOS 越狱相关的精华资料收集： https://github.com/zhengmin1989/GreatiOSJailbreakMaterial
+[ iOS ]  iOS 10.1.x Remote memory corruption through certificate file https://cxsecurity.com/issue/WLB-2016110046
+﻿"iOS 10.1.x Remote memory corruption through certificate file： https://t.co/6t8n7mlxbr"
+[ iOS ]  iOS WebView phone auto dial bug: https://www.mulliner.org/blog/blosxom.cgi/security/ios_webview_auto_dialer.html Twitter and LinkedIn iOS apps vulnerable #nomorefreebugs
+﻿"iOS WebView 自动拨号的 Bug: https://t.co/VgoG0ZvzLU "
+[ iOS ]  Analysis of iOS.GuiInject Adware Library by @ noarfromspace : https://sentinelone.com/blogs/analysis-ios-guiinject-adware-library/
+﻿" SentinelOne 对 iOS.GuiInject 广告软件库的分析︰ https://t.co/e7SjXtpZ1O"
+[ iOS ]  iOS Application Security Review Methodology : http://research.aurainfosec.io/ios-application-security-review-methodology/
+﻿"iOS 应用程序安全审查方法︰ https://t.co/Eb3EjBWwtO"
+[ iOS ]  needle - The iOS Security Testing Framework http://www.kitploit.com/2016/11/needle-ios-security-testing-framework.html
+﻿"needle -- 一个 iOS 安全测试框架： https://t.co/S4hAmmT677"
+[ iOS ]  Blink Shell for iOS : an Open-Sourcea full-fledged terminal emulator / SSH client for iOS (support for Mosh) : http://www.blink.sh/
+﻿"Blink Shell -- 一个 iOS 下的开源终端仿真器 / SSH 客户端： https://t.co/j0Ee6XCvex"
+[ iOS ]  The iOS Reverse Engineering Toolkit is toolkit designed to automate common tasks with iOS penetration testing. https://github.com/S3Jensen/iRET
+﻿"IOS 逆向工具套件，可用来进行 IOS 渗透测试： https://t.co/UVzv6YBsce"
+[ iOS ]  Video from DEF CON 24 - A Journey Through Exploit Mitigation Techniques in iOS now available here - https://www.youtube.com/watch?v=Gu4UJR9nZqM
+﻿"iOS 中的漏洞利用缓解技术，来自 DEFCON 24（video）： https://t.co/Nhboe9v8hM ; 今年 DEFCON 24 全部演讲视频： https://www.youtube.com/playlist?list=PL9fPq3eQfaaAvXV3hJc4yHuNxoviVckoE"
+[ iOS ]  (PDF Slides) Analysis of iOS 9.3.3 Jailbreak & Security Enhancements of iOS 10 -- https://lnkd.in/g6eU5ed #iOS #Security
+﻿"Analysis of iOS 9.3.3 Jailbreak &amp; Security Enhancements of iOS 10（PDF），来自 POC 2016 Pangu Team： https://t.co/X4aq1kO1I2"
+[ iOS ]  #iOS 8, 9, 10 passcode bypass can access photos, contacts - http://bit.ly/2eKPygf
+﻿"仅用 7 步便可绕过 iOS 8、9、10 锁屏来获取照片及联系人： https://t.co/Pi6v3A2fHV"
+[ iOS ]  你的iPhone也出现“澳门赌场”日历推送了吗？分析邪恶的“苹果日历推”产业链： http://www.freebuf.com/articles/terminal/120036.html
+[ iOS ]  [CVE-2016-4673] Apple CoreGraphics macOS/iOS JPEG memory corruption https://marcograss.github.io/security/apple/cve/macos/ios/2016/11/21/cve-2016-4673-apple-coregraphics.html
+﻿"Apple CoreGraphics macOS/iOS JPEG 内存破坏漏洞（CVE-2016-4673）： https://t.co/O4hNgEaho8"
+[ iOS ]  iOS逆向：App脱壳/ipa破解： http://www.mottoin.com/92530.html
+[ iOS ]  【漏洞分析】iPhone 播放视频自动关机“奇葩”漏洞成因分析： http://bobao.360.cn/learning/detail/3234.html
+[ iOS ]  idb - iOS App Security Assessment Tool http://www.kitploit.com/2016/12/idb-ios-app-security-assessment-tool.html
+﻿"idb -- 一个 iOS 应用程序安全评估工具： https://t.co/BVv775i6C4"
+[ iOS ]  Exploit an iOS device remotely via Wi-Fi without any user interaction & completely bypassing the iOS sandbox #BHASIA http://ow.ly/Gcsx306MF2T
+﻿"Black Hat 2017 ASIA 议题预告： Remotely Compromising iOS via Wi-Fi and Escaping the Sandbox,来自腾讯 Keen Lab： https://t.co/GxWKqkYlZh"
+[ iOS ]  If you add https://jbme.qwertyoruiop.com to Cydia, a tweak that patches the Pegasus bug is available.
+﻿" qwertyoruiop 基于前段时间的三叉戟（Pegasus）漏洞利用代码，结合盘古的越狱代码，写了针对 iOS 9.3.x 版本的一个远程越狱工具： https://t.co/0mXYb3vPMA  另外，他说将 jbme.qwertyoruiop.com 添加到 Cydia 中，就可以修复 Pegasus 的一个 Bug，这个 Patch 的源码： https://ghostbin.com/paste/pfqv6"
+[ iOS ]  Apple iOS/tvOS/watchOS Remote memory corruption through certificate file https://goo.gl/fb/Vp8J0s #FullDisclosure
+﻿"Apple iOS/tvOS/watchOS 证书文件导致的远程内存破坏： https://t.co/B2Hyq58QcB"
+[ iOS ]  Apple fixes 12 vulnerabilities - two that could lead to code execution - with iOS 10.2 update - http://bit.ly/2hmri4r
+﻿"苹果修复了 12 个漏洞，其中有两个可能导致代码执行： https://t.co/xj2ao5f3Y7"
+[ iOS ]  针对 iOS 9.3.4 及 iPad3,1 三叉戟漏洞的 exp 及 patch 源码： https://github.com/benjamin-42/Trident
+[ iOS ]  iOS 10.1.x Remote memory corruption through certificate file https://cxsecurity.com/issue/WLB-2016110046
+﻿"iOS 10.1.x 证书文件导致远程破坏漏洞（CVE-2016-7626）： https://t.co/6t8n7mlxbr "
+[ iOS ]  FYI, new Cydia Impactor and yalu JB beta2: https://yalu.qwertyoruiop.com https://twitter.com/saurik/status/811810095470288896
+﻿"iPhone 7 iOS 10.1 越狱工具： https://t.co/td9XMI6Egw https://t.co/1YigC5tR16"
+[ iOS ]  ipc_port_t reference count leak due to incorrect externalMethod overrides leads to OS X/iOS kernel UaF https://bugs.chromium.org/p/project-zero/issues/detail?id=930
+﻿"由于错误的 externalMethod 重载让 ipc_port_t 引用计数泄露导致OS X/iOS 内核 UAF 漏洞： https://t.co/rftQf0ZErW"
+[ iOS ]  Pegasus Exploits report updated - https://info.lookout.com/rs/051-ESQ-475/images/pegasus-exploits-technical-details.pdf
+﻿"Lookout 更新了 iOS Pegasus 的漏洞利用分析报告： https://t.co/ahg3sMZgNt"
+[ iOS ]  iOS kernel heap review https://razygon.github.io/2016/09/23/iOS-kernel-heap-review-5-10/
+﻿"重温 iOS 内核堆： https://t.co/o0CoyexvfL"
+[ iOS ]  Slides for my Pegasus Internals talk at #33c3 https://speakerdeck.com/mbazaliy/pegasus-internals
+﻿"Pegasus Internals（Slides），来自 33c3 2016 大会： https://t.co/eBLhwTT6mo"
+[ iOS ]  2016年iOS公开可利用漏洞总结： https://jaq.alibaba.com/community/art/show?articleid=687
+[ iOS ]  33c3 会议上关于 iOS 设备降级的议题，会议视频： https://www.youtube.com/watch?v=m3NuW83m1to
+[ iOS ]  A new iPhone bug will crash the Messages app with a single text http://securityaffairs.co/wordpress/54923/mobile-2/messages-app-bug.html
+﻿"仅用一个文本消息便可使你的 iphone Messages 应用崩溃： https://t.co/5dLEMv1HkV"
+[ iOS ]  针对 32 bit 设备的 iOS 9.3.4 越狱 ： https://fce365.info/jailbreak-news/ios-9-3-4-jailbreak-trident-ipa-released-for-32-bit-devices/
+[ iOS ]  mach portal漏洞利用的一些细节 ： http://blog.pangu.io/mach-portal-details/
+[ iOS ]  Frida 9.0 发布，支持在越狱 iOS 10.1.1 上启动 APP（不依赖 Substrate）： https://twitter.com/fridadotre/status/818278080095678464
+[ iOS ]  Racing for everyone: descriptor describes TOCTOU，苹果iOS/OSX内核中的新型漏洞： http://keenlab.tencent.com/zh/2017/01/09/Racing-for-everyone-descriptor-describes-TOCTOU-in-Apple-s-core/
+[ iOS ]  The "Demystifying the Secure Enclave Processor" white paper (software edition) on SEPOS and friends: http://mista.nu/research/sep-paper.pdf
+﻿"解密 Apple SEP ︰ https://t.co/9nYa5QXCRF"
+[ iOS ]  security content of iOS 10.2.1 kernel, webkit https://support.apple.com/en-us/HT207482
+﻿"iOS 10.2.1 版本的安全公告： https://t.co/2EBPhGXyXU"
+[ iOS ]  iOS/MacOS kernel UaF due to lack of locking in host_self_trap https://bugs.chromium.org/p/project-zero/issues/detail?id=1034
+﻿"iOS/MacOS kernel UaF due to lack of locking in host_self_trap，来自 Project Zero： https://t.co/8FdFpRatbH"
+[ iOS ]  iOS 10.3 will will stop trusting SHA1 certificates issued by CAs in the default trust store. http://www.redmondpie.com/ios-10.3-release-notes-changelog-whats-new-according-to-apple/
+﻿"iOS 10.3 将不再信任默认证书列表中 CA 颁发的 SHA1 证书： https://t.co/0pEl2TP3C6"
+[ iOS ]  Technical Analysis: Meitu is Junkware, but not Malicious https://www.zdziarski.com/blog/?p=6853
+﻿"美图 iOS APP 的一些 junk 行为： https://t.co/iDcJsYoiww"
+[ iOS ]  iOS 10.2 Yalu Jailbreak Now Supports All 64-bit Devices except iPhone 7 and iPad Air 2 http://ow.ly/aM7n308tTnQ #Apple
+﻿"iOS 10.2 Yalu 越狱工具现在支持 iPhone 7 和 iPad Air 2 以外的所有 64 位设备了： https://t.co/tbvfYij1vx "
+[ iOS ]  Ian Beer's exploit for CVE-2017-2370 (kernel memory r/w on iOS 10.2): https://bugs.chromium.org/p/project-zero/issues/detail?id=1004
+﻿"iOS/MacOS 用户态指针被内核当作长度处理（CVE-2017-2370）: https://t.co/Bw6dmviTzz"
+[ iOS ]  #MacOS/#iOS #snoop library to inject and easily intercept #XPC messages - http://newosxbook.com/tools/XPoCe.html from #MOxiI2 Vol.… https://t.co/jI8GrskTJs
+﻿"macOS/iOS 系统用于注入和劫持 XPC 消息的一个库： https://t.co/jI8GrskTJs https://t.co/GGksLzuT4r"
+[ iOS ]  Hacker Dumps iOS Cracking Tools From Cellebrite Hack https://motherboard.vice.com/en_us/article/hacker-dumps-ios-cracking-tools-allegedly-stolen-from-cellebrite
+﻿" 上月媒体报道，黑客从以色列手机取证厂商 Cellebrite 偷了 900GB 的数据。目前黑客称已经从中提取出了 iOS 破解工具： https://t.co/epITK0VTiy"
+[ iOS ]  Analysis of iOS.GuiInject Adware Library： https://sentinelone.com/blogs/analysis-ios-guiinject-adware-library/
+[ iOS ]  The Underground Economy of AppleID : https://github.com/secmobi/slides/blob/master/2017.UndergroundEconomyAppleID_BSidesSF.pdf (Great slides by @ claud_xiao )
+﻿"AppleID 地下交易大揭秘，BSidesSF 2017: https://t.co/lpAHLuVzYq "
+[ iOS ]  How to perform iOS Code Injection on .ipa files https://medium.com/@ kennethpoon/how-to-perform-ios-code-injection-on-ipa-files-1ba91d9438db
+﻿"如何在 .ipa 文件上进行 iOS 代码注入： https://t.co/BdZW0copnv "
+[ iOS ]  #iOS 10.3 (14E5260b) OTA [Beta: #iOS103DevBeta4] has been released for 36 devices https://ipsw.me/otas/10.3
+﻿"iOS 10.3 OTA 固件下载: https://t.co/A8MktuVACK"
+[ iOS ]  Fun fact: hold down Home+VolUp at cold boot to boot iOS 10.3 into CheckerBoard, a new diagnostics &amp; logs system for… https://t.co/UJwxW25uYo
+﻿"iOS 10.3 冷启动时按住 Home+VolUp 键可进入 CheckerBoard ： https://t.co/UJwxW25uYo"
+[ iOS ]  一个有意思的APPLE XSS（CVE-2016-7762）的 分析与思考 ： https://xianzhi.aliyun.com/forum/read/755.html
+[ iOS ]  Pincodes, Passcodes, &amp; TouchID on iOS - An Intro to the Aggregate Dictionary DB (ADDataStore.sqlite) https://t.co/VCdUVAfAI6 #mac4n6 #DFIR
+﻿"Apple 称 iPhone 的指纹解锁平均每天使用 80 次，这个数据怎么得到的呢？本地有数据库保存这个了？： https://t.co/VCdUVAfAI6 "
+[ iOS ]  The updated iOS Security Guide now covers iOS 10: https://www.apple.com/business/docs/iOS_Security_Guide.pdf
+﻿"苹果更新了 iOS 安全手册，手册中涵盖了 iOS 系统安全相关的各方面内容，本次更新加入了对 iOS 10 中最新安全特性的介绍： https://t.co/d8DPWVC1EX"
+[ iOS ]  iOS App的加固保护原理： http://www.freebuf.com/articles/terminal/129640.html
+[ iOS ]  通过 iOS App Store 传播的第三方 App Store： http://blog.trendmicro.com/trendlabs-security-intelligence/third-party-app-stores-delivered-via-ios-app-store/
+[ iOS ]  iOS Packet Sniffing with Pown.js and HTTPView http://blog.websecurify.com/2017/03/ios-packet-sniffing.html
+﻿"iOS Packet Sniffing with Pown.js and HTTPView ，在 macOS 上，基于 Pown.js NOW 工具，实现更直观、更方便的 HTTP 流量 Sniffer，其中 Pown.js 是一个基于 Node.js 的库： https://t.co/1XrTcZublB"
+[ iOS ]  Updated slides from our BlackHat talk available here - https://speakerdeck.com/mbazaliy/fried-apples-jailbreak-diy
+﻿"Fried Apples: Jailbreak DIY，来自 BlackHat Asia 会议的演讲： https://t.co/dTXQ6ywZHO"
+[ iOS ]  iPhone7 Fingerprint circuit https://www.youtube.com/watch?v=72ApkGkKHQQ
+﻿"iPhone7 指纹识别组件的电路图（视频）： https://t.co/TMXadVrYk0"
+[ iOS ]  Project Zero blog: "Over The Air: Exploiting Broadcom’s Wi-Fi Stack (Part 1)" by @ laginimaineb - https://googleprojectzero.blogspot.com/2017/04/over-air-exploiting-broadcoms-wi-fi_4.html
+﻿"Broadcom Wi-Fi SoC 的攻击界面以及如何利用漏洞实现芯片内的代码执行： https://t.co/mXSgqLDA1v"
+[ iOS ]  About the security content of iOS 10.3.1 update (<--RCE via Wifi fixed*) https://support.apple.com/en-us/HT207688
+﻿"Apple 发布 iOS 10.3.1 安全更新： https://t.co/eY1Z3Ns3rt"
+[ iOS ]  How receiving a malformed GIF emoji corrupts your beloved apps on macOS/iOS - writeup on CVE-2017-2416 released https://blog.flanker017.me/cve-2017-2416-gif-remote-exec/
+﻿" iOS ImageIO GIF 文件解析流程中的一个 RCE 漏洞（CVE-2017-2416）： https://t.co/e5DigY1ZUj"
+[ iOS ]  osx-re-101 : A collection of resources for OSX/iOS reverse engineering : https://github.com/michalmalik/osx-re-101 cc @ michalmalik
+﻿"osx-re-101 - OSX/iOS 逆向工程资源合集︰ https://t.co/pl4TinPHQ9 "
+[ iOS ]  iOS Kernel Integrity Protection bypass #MobileSecurity #iOSsecurity https://xerub.github.io/ios/kpp/2017/04/13/tick-tock.html
+﻿"iOS 9 开始引入的内核完整性保护（KPP）功能是如何实现的： https://t.co/lQKwqiPMLK"
+[ iOS ]  Very cool preso from #HITB2017AMS - "Attack Surface Extended by URL Schemes": https://conference.hitb.org/hitbsecconf2017ams/materials/D2T2%20-%20Yu%20Hong%20-%20Attack%20Surface%20Extended%20by%20URL%20Schemes.pdf
+﻿"通过 URL Schemes 拓展的攻击面，来自 HITB 2017 AMS: https://t.co/L6vP8aDm7P"
+[ iOS ]   ianbeer 分享的关于 mach_portal 漏洞利用的 Paper： https://bugs.chromium.org/p/project-zero/issues/detail?id=965#c10
+[ iOS ]  Project Zero blog: "Exception-oriented exploitation on iOS" by Ian Beer - https://googleprojectzero.blogspot.com/2017/04/exception-oriented-exploitation-on-ios.html
+﻿"iOS 基于异常的漏洞利用技术，Project Zero 这篇 Blog 介绍了 Ian Beer 借助异常消息处理实现对 mach_voucher_extract_attr_recipe_trap mach trap 堆溢出漏洞的利用（CVE-2017-2370）： https://t.co/EeRzN5226E"
+[ iOS ]  iOS 安全之针对 mach_portal 的分析： http://bobao.360.cn/learning/detail/3740.html
+[ iOS ]  你可能看到的是假的苹果榜单，App Store 刷榜黑幕大揭秘： https://mp.weixin.qq.com/s/vQv_a4eCP_-NHJPlevhKaw
+[ iOS ]  9 Steps To Bypass iCloud Activation Lock On iPhone For Free - https://pangujailbreak.com/bypass-icloud-free/ https://t.co/iSepamayyH
+﻿"9 步实现 Bypass iCloud 激活锁： https://t.co/FpAbi84mLn "
+[ iOS ]  "苹果36技术"引海量刷单:致iOS手游10亿美元坏账： http://tech.qq.com/a/20170216/005071.htm
+[ iOS ]  Bypass Jailbreak Detection with Frida in iOS applications http://blog.attify.com/2017/05/06/bypass-jailbreak-detection-frida-ios-applications/ https://t.co/jQbTQO8kWE
+" 在 iOS 应用中使用 Frida 的入门教程 ： http://blog.attify.com/2017/05/06/bypass-jailbreak-detection-frida-ios-applications/ "
+[ iOS ]  [ PAPER ] Hacking iOS Applications - detailed testing guide | https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf #reversing #iOS
+" Securiy Innovation 发布的一份非常详细的《Hacking iOS Applications》： https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf "
+[ iOS ]  About the security content of macOS Sierra 10.12.5 https://support.apple.com/en-us/HT207797
+" Apple 发布 iOS 10.3.2 和 macOS Sierra 10.12.5，本次更新修复了多个漏洞， iOS： https://support.apple.com/en-us/HT207798   macOS： https://support.apple.com/en-us/HT207797 "
+[ iOS ]  近期几款色情 App 开始大量在 Android 和 iOS 平台上传播，他们甚至找到了上架 Apple App Store 的方式： http://blog.trendmicro.com/trendlabs-security-intelligence/pua-operation-spreads-thousands-explicit-apps-wild-legitimate-app-stores/
+[ iOS ]  marcograss 在 BlackHat Asia 2017 会议的演讲视频 《Remotely Compromising iOS via Wi-Fi and Escaping the Sandbox》： https://www.youtube.com/watch?v=bP5VP7vLLKo
+[ iOS ]  Doing iOS security reviews? This guide will be useful: https://github.com/felixgr/secure-ios-app-dev #ios #security
+" Project Zero 研究员 Felix 总结的 iOS APP 层面的常见漏洞案例： https://t.co/wY1njikZDq "
+[ iOS ]   iOS 11内核信息 dump，来自蒸米spark，用joker对iOS 11的 kernelcache 进行 dump 后的结果。多了2个 mach_trap,多了10个左右的 syscall： http://weibo.com/ttarticle/p/show?id=2309404115716285534270
+[ iOS ]    MacOS/iOS userspace entitlement checking is racy，关于 macOS 用户态进程收到 mach message 时是否应该模拟客户端处理的漏洞： https://bugs.chromium.org/p/project-zero/issues/detail?id=1223
+[ iOS ]   腾讯科恩实验室（KeenLab）上周在 MOSEC 2017 会议上演示的 iOS 11 Beta 2 和 iOS 10.3.2 的越狱视频： https://www.youtube.com/watch?v=cdPbMV5EDgA&feature=youtu.be
+[ iOS ]  有研究者演示 iOS 11 的安全漏洞，可以访问 iCloud 锁定设备上的 APP 和数据，视频： https://www.youtube.com/watch?v=U1cFcD-s48M&feature=youtu.be
+[ iOS ]  Reading iOS app binary files part 1： https://appscreener.us/blog/?code=reading-ios-app-binary-files   Part 2 ： https://appscreener.us/blog/?code=reading-ios-app-binary-files-part-2-swift
+[ iOS ]  Apple 发布 iOS 10.3.3 安全更新： https://support.apple.com/en-us/HT207923
+[ iOS ]  Pangu 9.0-9.1 iOS Kernel UAF Exploit Explained + Tutorial（video）： https://www.youtube.com/watch?v=eABhTnz8YK4&feature=youtu.be
+[ iOS ]   macOS/iOS 的内核调试和堆风水利用技术，来自 Min(Spark) Zheng 在 DEFCON 会议的演讲： https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Min-Spark-Zheng-macOS-iOS-Kernel-Debugging.pdf
+[ iOS ]   CVE-2017-7047 Triple_Fetch漏洞与利用技术分析，科恩实验室陈良对 Ian Beer CVE-2017-7047 利用代码的分析。这是个 XPC 进程间通信对象序列化相关的共享内存 Double Fetch 漏洞，服务端读的时候客户端可以修改。文章中详细分析了 Ian Beer 如何利用 Objective-c NSXPC 接口将 Double Fetch 一步步转化成代码执行的： http://keenlab.tencent.com/zh/2017/08/02/CVE-2017-7047-Triple-Fetch-bug-and-vulnerability-analysis/
+[ iOS ]   Many iOS/MacOS sandbox escapes/privescs due to unexpected shared memory-backed xpc_data objects： https://bugs.chromium.org/p/project-zero/issues/detail?id=1247
+[ iOS ]   setattrlist() iOS 内核漏洞介绍： https://www.antid0te.com/blog.html
+[ iOS ]    iOS 10.3.2 XPC Userland Jailbreak Exploit Tutorial（CVE-2017-7047 ）的调试视频，上周五推送过一篇陈良对该 Exploit 的分析： https://www.youtube.com/watch?v=mzjRNvv69M8&sns
+[ iOS ]  iOS 越狱开发者 Siguza 和 tihmstar 今日正式发布了 iOS 9.3.5 不完美越狱： http://www.cnbeta.com/articles/tech/638919.htm
+[ iOS ]  再谈CVE-2017-7047 Triple_Fetch和另一种用NSXPC过沙盒的姿势，来自阿里蒸米同学对 Ian Beer 的 Triple_Fetch 漏洞的分析，同时还公开了一个他们发现的 MLSqlite 沙箱逃逸漏洞。文章目前被删了，还好可以在 Google 缓存中看到： http://webcache.googleusercontent.com/search?q=cache:uKXJD8hna3YJ:www.freebuf.com/column/143895.html+&cd=1&hl=zh-CN&ct=clnk&gl=cn
+[ iOS ]  上周公开的 Phoenix iOS 9.3.5 越狱工具所用漏洞的分析： http://newosxbook.com/files/PhJB.pdf
+[ iOS ]  A leap into 10.3.2 Exploitation - XPC 与共享内存的结合为越狱提供了新的可能： https://ghostbin.com/paste/czv4j
+[ iOS ]  iSpy - iOS 逆向分析、动态分析框架，支持 Class Dump、越狱检测 Bypass 等等特性： https://n0where.net/ios-reverse-engineering-framework/
+[ iOS ]   Apple iOS 10.3 短消息应用 UI 访问权限绕过漏洞： http://seclists.org/fulldisclosure/2017/Aug/24?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29
+[ iOS ]  IDA反汇编/反编译静态分析iOS模拟器程序 系列文章： http://blog.csdn.net/column/details/ios-ida.html
+[ iOS ]  Zimperium 发布 iOS <= 10.3.1 的内核漏洞利用： https://github.com/doadam/ziVA  为此，蒸米spark写了一篇《关于iOS 10.3.1 ziVA内核漏洞利用的简单分析》： https://jaq.alibaba.com/community/art/show?articleid=1045
+[ iOS ]  Ro(o)tten Apples - 来自 Adam Donenfeld 在 HITB 会议关于 iOS 沙箱攻击界面和漏洞的分析： http://gsec.hitb.org/materials/sg2017/D2%20-%20Adam%20Donenfeld%20-%20Ro(o)tten%20Apples%20-%20Vulnerability%20Heaven%20in%20the%20iOS%20Sandbox.pdf
+[ iOS ]  Stefan Esser 在 HITB 会议关于私有 iOS 越狱（Private iOS Jailbreak）历史的剖析： http://gsec.hitb.org/materials/sg2017/COMMSEC%20D1%20-%20Stefan%20Esser%20-%20The%20Original%20Elevat0r.pdf
+[ iOS ]   针对 iOS 加密库的侧信道攻击，来自 HITB 会议： http://conference.hitb.org/hitbsecconf2017ams/materials/D1T2%20-%20Najwa%20Aaraj%20-%20Side%20Channel%20Attacks%20Against%20iOS%20Crypto%20Libraries%20and%20More.pdf
+[ iOS ]  iOS也不安全？高危漏洞威胁近半果粉！： https://mp.weixin.qq.com/s/bwPwySM3ZjqLWyNN99a5ow
+[ iOS ]   剖析 Apple Touch ID，另外新版本的 iPhone 将升级为 Face ID： https://medium.com/@fstiehle/demystifying-apples-touch-id-4883d5121b77
+[ iOS ]  Evasi0n6 Jailbreak by Evad3rs for iOS 6.0-6.1.2： https://github.com/OpenJailbreak/evasi0n6
+[ iOS ]  iOS也不安全？高危漏洞威胁近半果粉！： https://paper.seebug.org/391/
+[ iOS ]  Proteas Wang 在 Syscan360 2017 会议的演讲《Exploit iOS 9.x Userland with LLDB JIT》： https://www.slideshare.net/Proteas_Wang/exploit-ios-9x-userland-with-lldb-jit
+[ iOS ]   iXintpwn/YJSNPI 滥用 iOS 配置 Profile 文件可以使手机失去响应： http://blog.trendmicro.com/trendlabs-security-intelligence/ixintpwn-yjsnpi-abuses-ioss-config-profile-can-crash-devices/
+[ iOS ]  TenSec 2017 会议上 iPhone 6 虚拟化议题的演示视频，来自蒸米 Spark： https://twitter.com/SparkZheng/status/909610143104475139
+[ iOS ]   苹果今天推送了 iOS 11 正式版，该版本修复了多个漏洞：  https://support.apple.com/en-us/HT208112
+[ iOS ]   《Face ID Security》，来自 Apple 官方对 Face ID 安全性的介绍：  https://images.apple.com/business/docs/FaceID_Security_Guide.pdf
+[ iOS ]  For Fun：使用 IDA 调试 iOS 程序的步骤： http://blog.csdn.net/proteas/article/details/78083512
+[ iOS ]  iOS 11 在隐私和安全方面的特性概览： https://www.intego.com/mac-security-blog/ios-11-a-complete-guide-to-ios-security-and-privacy/
+[ iOS ]  只需问一问，轻松获得 iOS 用户的 Apple ID 密码：  https://github.com/KrauseFx/steal.password
+[ iOS ]  Apple iOS 10.2 (14C92) CVE-2017-7115 Exploit，漏洞由 project Zero 发现：Apple: Multiple Race Conditions in PCIe Message Ring protocol leading to OOB Write and OOB Read： https://bugs.chromium.org/p/project-zero/issues/detail?id=1317
+[ iOS ]  iOS 11 不需要密码绕过锁屏界面访问照片（利用通话界面的 iMessage）： https://www.youtube.com/watch?v=UuACukwj1yk
+[ iOS ]  Native LLDB(v3.8) for iOS - iOS 本地调试器， 360 Nirvan 团队 Proteas 开源的： https://github.com/Proteas/native-lldb-for-ios
+[ iOS ]  分享《手把手教你突破iOS 9.x 的用户空间防护》，来自 Proteas 的微博： https://www.weibo.com/1290630720/FrHTGxwjH?type=comment
+[ iOS ]  偏执的iOS逆向研究员：收集全版本的macOS iOS+越狱+内核调试： http://www.freebuf.com/articles/rookie/151326.html
+[ iOS ]  苹果发布多个产品的更新补丁，包括 iOS 11.1、macOS High Sierra 10.13.1、Safari 11.1、watchOS 4.1 等，本次更新修复多个漏洞：  https://support.apple.com/zh-cn/HT208222   https://support.apple.com/zh-cn/HT208221   https://support.apple.com/zh-cn/HT208223   https://support.apple.com/zh-cn/HT208220
+[ iOS ]    3 种重置 iPhone 锁屏密码的方法： https://pangujailbreak.com/reset-iphone-passcode/
+[ iOS ]    如何解开 AT&T iPhone 手机的运营商的锁定限制： https://pangujailbreak.com/unlock-att-iphone/
+[ iOS ]  Apple iOS Host Pairing Bypass（CVE-2017-13806）： https://labs.mwrinfosecurity.com/advisories/apple-ios-host-pairing-bypass/
+[ iOS ]   iOS 11：iOS 安全的兴衰史，介绍了 iOS 11 在提高用户易用性的同时可能会破坏部分安全性：  https://blog.elcomsoft.com/2017/11/ios-11-horror-story-the-rise-and-fall-of-ios-security/
+[ iOS ]   无需越狱实现 iOS APP 的动态分析：  https://dsec.ru/upload/volgactf_dyn_ios_analysis_wo_jb.pdf
+[ iOS ]  iOS 设备上的恶意恶意软件：  https://dsec.ru/upload/medialibrary/29f/29f57cef406125e9169da733e1aaf83f.pdf
+[ iOS ]    iOS 11.2 修复的 IOSurfaceRootUserClient Port UAF 漏洞的分析，来自盘古团队 Blog：  http://blog.pangu.io/iosurfacerootuserclient-port-uaf/
+[ iOS ]   昨天推送了一篇盘古的【iOS 11.2 修复的 IOSurfaceRootUserClient Port UAF 漏洞的分析】，之后有研究员公开了一个完整的 Exploit 代码：  https://github.com/Siguza/v0rtex/blob/master/v0rtex.m
+[ iOS ]   iOS HomeKit 智能家居产品存在漏洞，未授权用户可以远程解锁门锁，目前处于 0Day 状态：  https://9to5mac.com/2017/12/07/homekit-vulnerability/
+[ iOS ]   昨天推送了研究员 v0rtex 公开的 iOS 11.2 IOSurfaceRootUserClient Port UAF 漏洞的完整 Exploit 代码（ https://github.com/Siguza/v0rtex/blob/master/v0rtex.m ），今天他又写了一篇 Blog 谈这个漏洞： https://siguza.github.io/v0rtex/
+[ iOS ]   Project Zero 研究员 Ian Beer 在 IOSurfaceRootUserClient Double Free 漏洞（CVE-2017-13861）详情中上传了一个 async_wake Exploit，并表示支持所有版本设备： https://twitter.com/i/web/status/940255539153588224
+[ iOS ]   基于 ian beer 昨天公开的 iOS 11 Exploit，获取 uid0 ROOT 权限：  https://gist.github.com/iabem97/d11e61afa7a0d0a9f2b5a1e42ee505d8
+[ iOS ]  研究员 progmboy 公开了昨天推送的 iOS/macOS IOSurfaceRootUserClient Double Free 漏洞的 PoC： https://github.com/progmboy/kernel_vul_poc/tree/master/mac https://bugs.chromium.org/p/project-zero/issues/detail?id=1417#c
+[ iOS ]   如何为指定的 iOS 版本找内核调试符号（Kernel Symbols）： https://medium.com/@cji_/hunting-for-ios-kernel-symbols-e48a446bb00
+[ iOS ]  iOS 11.2.1 安全更新内容： https://support.apple.com/en-us/HT208357
+[ iOS ]  阿里安全潘多拉实验室完美越狱iOS 11.2: http://www.freebuf.com/news/157100.html
+[ iOS ]  有研究员公开了一个 iOS 11 的越狱网站，支持 iOS 11.0 - 11.1.2 的所有 64 位设备： http://epimetheus.ijapija00.com/
+[ iOS ]   Ian Beer 公开 iOS async_wake 越狱核心利用代码之后，有研究员开始测试代码并建立了一个 FAQ 讨论帖： http://newosxbook.com/forum/viewtopic.php?f=11&;t=17390
+[ iOS ]  iOS符号表恢复&逆向支付宝： http://mobile.51cto.com/iphone-530523.htm
+[ iOS ]   如何利用 SHSH Blobs 将越狱后的设备升级到 iOS 11.1.2： https://github.com/ProAppleOS/Upgrade-from-any-Jailbroken-Device-to-iOS-11.1.2-with-Blobs/blob/master/README.md
+[ iOS ]    iOS 内核漏洞利用技术的考古研究，来自德国 CCC 会议的演讲视频：  https://media.ccc.de/v/34c3-8720-ios_kernel_exploitation_archaeology
+[ iOS ]   新版 iPhone X 的底部虚拟 Home 条是怎么变换颜色的： http://blog.zats.io/2017/12/27/iPhone-X-home-button/
+[ iOS ]   iOS 内核调试教程：  http://www.instructables.com/id/IOS-Kernel-Debugging/
+[ iOS ]  iOS  10.0 - 10.3.3 越狱，支持所有的 64 位设备： https://meridian.sparkes.zone/
+[ iOS ]  iOS 发布 11.2.2，推送针对 Spectre 漏洞的的补丁： https://support.apple.com/en-ca/HT208401
+[ iOS ]  iOS Imaging on the Cheap! - Part Deux! (for iOS 10 & 11)，iOS 10.3.3 和 iOS 11 的越狱： https://www.mac4n6.com/blog/2018/1/7/ios-imaging-on-the-cheap-part-deux-for-ios-10-11
+[ iOS ]  如何从 iOS 设备中导出媒体文件： https://blog.elcomsoft.com/2018/01/how-to-extract-media-files-from-ios-devices/
+[ iOS ]   苹果发布了 iOS 11 的安全白皮书：  https://www.apple.com/business/docs/iOS_Security_Guide.pdf
+[ iOS ]   Remounting root as RW on iOS：  https://stek29.rocks/2018/01/22/lwvm-mapforio.html
+[ iOS ]   苹果发布 iOS 11.2.5 更新： https://support.apple.com/en-us/HT208463
+[ iOS ]   iOS 11.1.2 (15B202) 越狱 Exploit 代码： https://github.com/Coalfire-Research/iOS-11.1.2-15B202-Jailbreak
+[ iOS ]   上周推送过一条消息:"iOS、webOS、tvOS 的 bluetoothd 服务被发现两个严重的漏洞（CVE-2018-4087/CVE-2018-4095）"，现在有研究员称这两个漏洞可能会被用于开发 iOS 11.2.2 的越狱工具： http://www.iphonehacks.com/2018/02/ios-11-2-2-exploit-used-develop-ios-11-2-2-jailberak.htmlhttps://blog.zimperium.com/new-crucial-vulnerabilities-apples-bluetoothd-daemon/
+[ iOS ]    iOS 11.3 OTA 可以下载了： https://ipsw.me/otas/11.3
+[ iOS ]  Crash 符号化 1. 基本流程与相关命令： http://saitjr.com/ios/symbolicatecrash-1.html Crash 符号化 2. symbolicatecrash 源码浅析与优化： http://saitjr.com/ios/symbolicatecrash-2.html Crash 符号化 3. Mach-O 与 atos： http://saitjr.com/ios/symbolicatecrash-3.html
+[ iOS ]   苹果设备(iOS) Boot Loader 组件 iBoot 的源码泄露了： https://threatpost.com/apple-downplays-impact-of-iboot-source-code-leak/129852/https://github.com/m57/iBoot
+[ iOS ]    对 iOS 11.2.5 版本特殊字符串导致崩溃 Bug 的分析： https://manishearth.github.io/blog/2018/02/15/picking-apart-the-crashing-ios-string/
+[ iOS ]    苹果发布 iOS 11.2.6/macOS High Sierra 10.13.3，解决坏字符导致崩溃的问题：  https://support.apple.com/en-us/HT208535https://support.apple.com/en-us/HT208534
+[ iOS ]  Breaking into iOS 11：  https://blog.elcomsoft.com/2018/02/breaking-into-ios-11/
+[ iOS ]    基于麒麟（QiLin）套件，自己制作越狱工具： http://exceptionlevelone.blogspot.com/2018/02/creating-your-own-ios-1112-jailbreak.html
+[ iOS ]   Zimperium 公开了 iOS 11.2.5 修复的蓝牙服务（bluetoothd）沙箱逃逸漏洞（CVE-2018-4087）的 PoC： https://blog.zimperium.com/cve-2018-4087-poc-escaping-sandbox-misleading-bluetoothd/
+[ iOS ]   免费 iOS 越狱工具 Electra 更新 1.0.2 版本，支持 iOS 11.0-11.1.2 版本的 iPhone、iPod touch、iPad、iPad mini ： https://coolstar.org/electra/
+[ iOS ]  我是如何在 iOS 上发现 Instagram 即将推出的视频通话功能的： https://medium.com/@guilhermerambo/how-i-discovered-instagrams-upcoming-video-calling-feature-on-ios-934d7085da57
+[ iOS ]    iOS 11.3/15E5189f Security Server 服务（securityd）溢出漏洞 PoC： https://github.com/iabem97/securityd-racer2
+[ iOS ]   带有调试符号的 iOS 11 内核，作者为 Proteas： https://github.com/Proteas/unstripped-ios-kernels
+[ iOS ]    iOS 11.3 OTA 版本可以下载了： https://ipsw.me/otas/11.3
+[ iOS ]  使用 IDA Pro 重建 iOS kernelcache 中的 C++ 类: https://bazad.github.io/2018/03/ida-kernelcache-class-reconstruction/
+[ iOS ]  iOS 安全基础之钥匙串与哈希： https://www.raywenderlich.com/185370/basic-ios-security-keychain-hashing
+[ iOS ]  逆向工程 iOS 应用 - iOS 11（第1部分）： https://ivrodriguez.com/reverse-engineer-ios-apps-ios-11-edition-part1/
+[ iOS ]  iOS 静态分析与侦察： https://secdevops.ai/ios-static-analysis-and-recon-c611eaa6d108
+[ iOS ]  Malwarebytes 对 GrayKey iPhone 解锁器的原理分析： https://blog.malwarebytes.com/security-world/2018/03/graykey-iphone-unlocker-poses-serious-security-concerns/
+[ iOS ]  iPhone 7 10.0/10.1 KTRR 绕过完全原子操作和线程安全的 ROP 链： https://twitter.com/qwertyoruiopz/status/974907288501747713
+[ iOS ]  作者对于 Electra Jailbreak 1.0.4  下利用 LLDB 调试的精简经验分享： https://kov4l3nko.github.io/blog/2018-03-18-my-experience-with-lldb-and-electra-jb/
+[ iOS ]  iOS 设备数字取证分析方法与技术： https://www.dropbox.com/s/qu4kbg7umqsqvsh/2018_iOS_Forensics_ElcomSoft.pdf
+[ iOS ]  苹果Siri被曝隐私漏洞：锁屏通知直接读取: http://www.freebuf.com/news/166090.html
+[ iOS ]  iOS 相机的二维码 URL 解析存在漏洞，提示打开站点与实际打开站点不同： https://securityaffairs.co/wordpress/70739/hacking/qr-code-ios-bug.html
+[ iOS ]   iOS 11.3 安全更新内容： https://support.apple.com/en-us/HT208693
+[ iOS ]  iOS Kernel Memory Manipulation - Using vm_write() & vm_read() to Patch Live Kernel Memory： https://www.youtube.com/watch?v=Qp9LLY2-SlU&;feature=youtu.be
+[ iOS ]  Diving into the iOS Kernel: Breaking Entitlements： https://sparkes.zone/blog/jekyll/update/2018/04/06/diving-into-the-kernel-entitlements.html
+[ iOS ]   Intel/iPhone 蜂窝基带漏洞的详细分析（CVE-2018-4148）： https://comsecuris.com/blog/posts/theres_life_in_the_old_dog_yet_tearing_new_holes_into_inteliphone_cellular_modems/
+[ iOS ]  利用JOP实现iOS内核函数调用： http://bazad.github.io/2018/04/ios-advanced-kernel-call-jop/
+[ iOS ]  如何分析和发现 MacOSX 和 iOS 内核驱动的漏洞，来自 HITB2018AMS 大会： https://conference.hitb.org/hitbsecconf2018ams/materials/D1T1%20-%20Xiaolong%20Bai%20&;;%20Min%20Spark%20Zheng%20-%20How%20to%20Analyze%20and%20Find%20Bugs%20in%20MacOS%20and%20iOS%20Kernel%20Drivers.pdf
+[ iOS ]  信任劫持（TrustJacking）--通过 iTunes Wi-Fi sync 特性获取iOS设备控制权 ，symantec 在 RSA 大会上公布此研究： https://www.symantec.com/blogs/feature-stories/ios-trustjacking-dangerous-new-ios-vulnerability  https://threatpost.com/ios-sync-glitch-lets-attackers-control-devices/131281/
+[ iOS ]  如何使用 Xcode 9.3 构建 iOS 命令行工具： http://bazad.github.io/2018/04/xcode-command-line-targets-ios/

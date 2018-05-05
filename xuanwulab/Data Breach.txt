@@ -1,0 +1,24 @@
+[ Data Breach ]   俄罗斯 DNS 服务器出现问题，泄露了一份所有注册在俄罗斯顶级域名下的域名列表： https://github.com/mandatoryprogrammer/RussiaDNSLeak
+[ Data Breach ]  德克萨斯州的 Power Quality 工程公司泄露了 Dell、SBC、Freescale、Oracle 的敏感电力基础设施数据： https://threatpost.com/engineering-firm-leaks-sensitive-data-on-dell-sbc-and-oracle/127290/
+[ Data Breach ]   Instagram 遭受数据泄露，黑客获得大量用户信息，包括私人手机号、邮箱地址等： https://www.techposts.net/instagram-suffered-data-breach-hacker-gained-contact-information/
+[ Data Breach ]  由于 AWS S3 上的错误配置，四百万时代华纳有线电视用户信息泄露： https://threatpost.com/four-million-time-warner-cable-records-left-on-misconfigured-aws-s3/127807/
+[ Data Breach ]  美国三大征信机构之一的 Equifax 受黑客攻击，泄漏高达 1.43 亿美国人的隐私数据：  https://threatpost.com/equifax-says-breach-affects-143-million-americans/127880/
+[ Data Breach ]  继 1.43 亿 Equifax 美国用户信息泄漏事件后，Equifax 英国公司确认 40 万英国用户个人信息同遭影响：  http://securityaffairs.co/wordpress/63109/data-breach/equifax-data-breach-britons.html
+[ Data Breach ]  Amazon S3 buckets 上泄漏了 Verizon 内部无线网络的密码和基础架构信息： http://www.zdnet.com/article/another-verizon-leak-exposed-confidential-data-on-internal-systems/ https://threatpost.com/verizon-wireless-internal-credentials-infrastructure-details-exposed-in-amazon-s3-bucket/128108/
+[ Data Breach ]  目前已经爆出的云端存储私有数据泄露问题只是冰山一角： https://threatpost.com/data-pours-from-cloud-and-the-enemy-is-us/128747/
+[ Data Breach ]   PayPal 子公司 TIO 泄漏了 160 万客户数据： https://thehackernews.com/2017/12/paypal-tio-data-breach.html
+[ Data Breach ]   最近暗网发生的最大规模密码泄露事件的 14亿密码的下载链接： https://gist.github.com/scottlinux/9a3b11257ac575e4f71de811322ce6b3
+[ Data Breach ]  线上销售及数据分析公司 Alteryx 数据泄漏事件暴露 1.23 亿美国家庭信息： https://www.huffingtonpost.com/entry/alteryx-data-breach-123-million-households_us_5a39316ae4b0860bf4ab4e24
+[ Data Breach ]  2017 数据泄漏大事件回顾，来自 Trend Micro： https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/year-in-review-notable-data-breaches-for-2017
+[ Data Breach ]  近日，DJI 大疆公司发信提醒客户其敏感信息恐已遭泄漏： https://dronedj.com/2017/12/27/djis-certified-letter-to-notify-customers-of-data-breach/
+[ Data Breach ]  Rootsweb 服务器泄漏了部分 Ancestry.com 的用户数据： https://threatpost.com/leaky-rootsweb-server-exposes-some-ancestry-com-user-data/129248/
+[ Data Breach ]  美国快时尚品牌 Forever21 承认其客户信用卡数据泄漏，目前泄漏的用户数量不明 ： https://threatpost.com/forever-21-says-pos-systems-exposed-customer-data-for-8-months/129271/
+[ Data Breach ]  美国国土安全部超过24万DHS员工信息泄漏： https://www.zerohedge.com/news/2018-01-04/homeland-security-data-breach-exposed-over-240000-dhs-employees-unauthorized
+[ Data Breach ]   巴黎市场营销公司 Octoly 在 Amazon S3 Bucket 的配置失误导致 12000 条用户信息泄漏：  https://threatpost.com/leaky-amazon-s3-bucket-exposes-personal-data-of-12000-social-media-influencers/129810/
+[ Data Breach ]  瑞士电信（Swisscom）数据泄露，80万用户受影响：  http://www.zdnet.com/article/swisscom-data-breach-800000-customers-affected/
+[ Data Breach ]  Equifax 确认新增 240 万受其 2017 年信息泄漏事件影响的用户，总数达 1.48 亿： https://threatpost.com/equifax-adds-2-4-million-more-people-to-list-of-those-impacted-by-2017-breach/130209/
+[ Data Breach ]  沃尔玛珠宝合作伙伴因 Amazon S3 配置失误泄漏露130万客户的个人资料： https://threatpost.com/walmart-jewelry-partner-exposes-personal-data-of-1-3m-customers/130486/
+[ Data Breach ]  Under Armour 旗下应用 MyFitnessPal 数据遭泄漏，影响 1.5 亿用户： https://www.cnbc.com/2018/03/29/under-armour-stock-falls-after-company-admits-data-breach.html
+[ Data Breach ]  泰国最大的4G移动运营商TrueMove H遭遇数据泄露： http://www.freebuf.com/news/168708.html
+[ Data Breach ]  RSAC 2018 移动端应用硬编码漏洞泄漏了全部参会人员个人信息： https://twitter.com/hackerfantastic/status/987135585117786113
+[ Data Breach ]  Bezop 加密货币的服务器因 MongoDB 配置不当泄漏了 25K 投资者私人资料： https://threatpost.com/bezop-cryptocurrency-server-spills-25k-in-private-investor-promoter-data/131417/

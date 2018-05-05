@@ -1,0 +1,65 @@
+[ Backdoor ]  Backdooring Binary Objects : http://phrack.org/issues/56/9.html #b2b #Phrack
+﻿"Phrack 2000 年的一篇文章， 谈如何优雅地将二进制文件后门化: https://t.co/W3jitUCJrk "
+[ Backdoor ]  The return of HackingTeam with new implants for OS X - Securelist http://bit.ly/1TnZY2P some detail on the HT OSX implant
+﻿"HackingTeam 带着新后门回来了， 来自 Kaspersky 的分析： https://t.co/yZLd1YyLeC "
+[ Backdoor ]  Good writing indicators of MrBlack & AES.DDoS #Linux #malware, ty for the mention and links. http://www.cnblogs.com/LittleHann/p/5205026.html http://www.cnblogs.com/LittleHann/p/5207601.html
+﻿"Linux 平台两款后门样本的分析， 来自国内 cnblogs，作者为 LittleHann： https://t.co/3w5w1RBXX8 https://t.co/3CAPnJRMo7"
+[ Backdoor ]  #Tuto4PC #scareware backdoors millions of computers-@ Cisco Talos report: https://threatpost.com/tuto4pc-utilities-silently-install-12m-backdoors-cisco/117704/ via @ threatpost
+﻿"Tuto4PC 公司的软件给 1200 万用户静默安装后门， 来自 ThreatPost 的报道： https://t.co/XkQvk6iGeJ   来自 Talos 的分析报告： http://blog.talosintel.com/2016/04/the-wizzards-of-adware.html "
+[ Backdoor ]  I've made a Github repo with a collection of #PHP backdoors. For educational/testing purposes only. Includes tools. https://github.com/bartblaze/PHP-backdoors
+﻿"PHP-backdoors - PHP 后门收集， GitHub Repo https://t.co/CXA7C6H9TN"
+[ Backdoor ]  Back door found in Allwinner Linux kernels : http://www.theregister.co.uk/2016/05/09/allwinners_allloser_custom_kernel_has_a_nasty_root_backdoor/ , Patch : https://github.com/friendlyarm/h3_lichee/commit/5d4d02b1c8f336ba002eed4d97dee3a51ea76cdd
+﻿"全志科技（Allwinner）Linux 定制内核被发现了 Root 后门 : https://t.co/vv0Z2AB8D7  Patch : https://t.co/5V3c9Wa32n"
+[ Backdoor ]  Gdog – Python Windows Backdoor With Gmail Command & Control http://www.darknet.org.uk/2016/05/gdog-python-windows-backdoor-gmail-command-control/
+﻿"Gdog — 基于 Gmail 实现 C&C 的 Windows 后门，Python 语言编写： https://t.co/fdcCkH5cCF"
+[ Backdoor ]  bt2: leveraging Telegram as a command & control platform https://blog.blazeinfosec.com/bt2-leveraging-telegram-as-a-command-control-platform/
+﻿"bt2（Blaze Telegram Backdoor Tool）︰ 将 Telegram 作为一个 C&C（命令与控制）平台：  https://t.co/LOmYNA5cDi"
+[ Backdoor ]  JavaPoly.js - Java(script) in the Browser https://www.javapoly.com/ via @ hasegawayosuke
+﻿"JavaPoly.js - 浏览器里的 JVM 实现，有了它，可以在浏览器里直接调用 Java 代码了： https://t.co/Z3cBtORCjk "
+[ Backdoor ]  Backdooring a DLL http://www.gironsec.com/blog/2016/06/backdooring-a-dll/
+﻿" 如何修改 DLL，植入后门： https://t.co/ZOcXyYiZl4 "
+[ Backdoor ]  browser-backdoor : Cross platform WebSocket Remote Access Tool built with Electron which has Full access to the API: https://github.com/IMcPwn/browser-backdoor
+﻿" BrowserBackdoor - JavaScript WebSocket 实现的远控工具︰ https://t.co/MpME9y9BjR "
+[ Backdoor ]  @ harmj0y I also fixed up/expanded my old code that backdoors .LNKs, adding enumeration options as well https://gist.github.com/HarmJ0y/984951d583d90ecee0f607e0b2849d1c
+﻿" 基于 LNK 快捷方式的后门实现： https://t.co/XeGK9aJdlU"
+[ Backdoor ]  stealth hard-drive backdoor with remote covert exfiltration https://www.ibr.cs.tu-bs.de/users/kurmus/papers/acsac13.pdf had missed this paper by @ kurmus @ travisgoodspeed & al.
+﻿" 硬盘隐蔽后门的实现与启示， Paper： https://t.co/pbDQ83XC8a "
+[ Backdoor ]  Backdooring an AWS account: https://danielgrzelak.com/backdooring-an-aws-account-da007d36f8f9#.4bxt0lgg2
+﻿" 如何在 AWS（亚马逊云）帐户中植入后门︰ https://t.co/Se2bIe6UsU"
+[ Backdoor ]  Microsoft silently kills dev backdoor that boots Linux on locked-down Windows RT slabs http://www.theregister.co.uk/2016/07/15/windows_fix_closes_rt_unlock_loophole/
+﻿"微软悄悄地补了一个 Windows RT 平板的开发后门： https://t.co/n7bmDmf4HZ"
+[ Backdoor ]  Backdooring DLL’s Part 2 http://www.gironsec.com/blog/2016/07/backdooring-dlls-part-2/
+﻿" 如何修改 DLL，植入后门（Part 2）： https://t.co/kyKvGtGrSd"
+[ Backdoor ]  Backdooring DLL’s Part 3 http://www.gironsec.com/blog/2016/07/backdooring-dlls-part-3/
+﻿" 如何修改 DLL，植入后门 Part 3： https://t.co/LeAw0pzMQZ"
+[ Backdoor ]  Backdooring a dll part 4 , http://www.gironsec.com/blog/2016/09/backdooring-a-dll-part-4/
+﻿"  Backdooring a dll，Part 4：  https://t.co/hfLFGyGVpc"
+[ Backdoor ]  Pork Explosion: A Foxconn Bootloader Root/SELinux Backdoor http://bbqand0days.com/Pork-Explosion-Unleashed/ Many thanks to @ nextbitsys for promptly fixing this!
+﻿" 富士康 Bootloader Root/SELinux 后门： https://t.co/Xw2CN85QeR "
+[ Backdoor ]  那些年，我们一起玩过的后门： http://bobao.360.cn/learning/detail/3218.html
+[ Backdoor ]  Safari Plugins-View-Page Stored XSS Vulnerabilities： http://xisigr.com/x/safari-plugins-view-page-stored-xss-vulnerabilities/
+[ Backdoor ]  Debugging mechanism in Intel CPUs allows seizing control via USB port : http://www.slideshare.net/phdays/tapping-into-the-core (Slides) , Video : https://www.youtube.com/watch?v=QuuTLkZFsug
+﻿"基于 Intel DCI 接口的硬件后门（Slides），可通过 USB 3.0 访问 JTAG 调试接口︰ https://t.co/t6jEkS4TFL  Video︰ https://t.co/gJ6X0W23k9"
+[ Backdoor ]  Backdooring Your Python Programs (THOTCON 0x8 Talk Slides + Src Code) : http://www.ikotler.org/InYourPythonPath.pdf (Slides) , Github : https://github.com/SafeBreach-Labs/pyekaboo
+" 如何给 Python 代码植入后门, upper() 已不是那个 upper()： http://www.ikotler.org/InYourPythonPath.pdf  ，  Github : https://github.com/SafeBreach-Labs/pyekaboo "
+[ Backdoor ]  Introduction to Manual Backdooring : https://drive.google.com/file/d/0BzTMVvQpyo1bN2JOM1ZfVmVGRFU/preview , Mirror : https://www.exploit-db.com/docs/42061.pdf (pdf) cc @ abatchy17
+" 如何在 PE 文件中手动植入一个后门： https://t.co/rKpiP33yPV "
+[ Backdoor ]  Unit42 发现了海莲花组织（OceanLotus）的 macOS 后门新版本 ： https://t.co/wbquUG77Ce
+[ Backdoor ]   利用 Gmail 作为 C&C 通信机制的 Gcat/Gdog 后门介绍： https://pentestlab.blog/2017/08/03/command-and-control-gmail/
+[ Backdoor ]  Babadook — PowerShell 编写的一个无连接弹性后门： https://github.com/jseidl/Babadook
+[ Backdoor ]  Eternalblue所用SMB后门分析: http://scz.617.cn/windows/201704171419.txt
+[ Backdoor ]  基于 Logon 脚本的常驻后门方法： https://3gstudent.github.io/3gstudent.github.io/Use-Logon-Scripts-to-maintain-persistence/
+[ Backdoor ]  Hijacking .NET to Defend PowerShell： https://arxiv.org/ftp/arxiv/papers/1709/1709.07508.pdf
+[ Backdoor ]   从 PE 文件结构角度出发，如何手动植入后门： http://www.abatchy.com/2017/05/introduction-to-manual-backdooring_24.html
+[ Backdoor ]    如何在 Windows PE 文件中植入一个无法检测到的后门：  https://haiderm.com/fully-undetectable-backdooring-pe-files/
+[ Backdoor ]  WordPress Captcha 插件后门事件 分析溯源报告： https://mp.weixin.qq.com/s/VoLu-dvx91q4OEjnJB4EjQ
+[ Backdoor ]  卡巴斯基对使用 DNS 隧道通信的后门的分析报告： https://securelist.com/denis-and-company/83671/
+[ Backdoor ]  Equation Group泄露工具之vBulletin无文件后门分析: https://paper.seebug.org/517/
+[ Backdoor ]   ExaTrack 对 Uroburos 驱动级后门的分析报告： https://exatrack.com/public/Uroburos_EN.pdf
+[ Backdoor ]    WMI 后门的实现与检测方法： https://www.eideon.com/2018-03-02-THL03-WMIBackdoors/
+[ Backdoor ]  利用VSTO实现的office后门： https://3gstudent.github.io/3gstudent.github.io/%E5%88%A9%E7%94%A8VSTO%E5%AE%9E%E7%8E%B0%E7%9A%84office%E5%90%8E%E9%97%A8/
+[ Backdoor ]  针对 Windows 的一款 Python 后门： https://ghostbin.com/paste/mrsjs
+[ Backdoor ]   Diamorphine - 适用于 Linux Kernels 2.6.x/3.x/4.x 内核的 LKM rootkit： https://github.com/alex91ar/Diamorphine
+[ Backdoor ]  对一款不到2KB大小的JavaScript后门的深入分析： http://www.freebuf.com/articles/web/167702.html
+[ Backdoor ]  UEFI Bootkits 开发（Video），来自 OffensiveCon 2018： https://www.youtube.com/watch?v=dpG97TBR3Ys
+[ Backdoor ]  PE 后门制作与杀软检测绕过： https://avanzo.github.io/tutorials/AV-Evasion/

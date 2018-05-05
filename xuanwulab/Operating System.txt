@@ -1,0 +1,95 @@
+[ Operating System ]  VxWorks Fuzzing 之道：VxWorks工控实时操作系统漏洞挖掘调试与利用揭秘 - http://blog.knownsec.com/2016/01/vxworks-real-time-operation-system-fuzzing/
+﻿"VxWorks Fuzzing 之道：VxWorks工控实时操作系统漏洞挖掘调试与利用揭秘，来自知道创宇 Blog - https://t.co/5z4jIsrxLp"
+[ Operating System ]  Writing a 16-bit dummy kernel in C/C++ - http://www.codeproject.com/Articles/737545/Writing-a-bit-dummy-kernel-in-C-Cplusplus
+﻿"用 C/C++ 写一个 16 位的傀儡内核： https://t.co/hK7Gw3Jzce"
+[ Operating System ]  Exploiting Memory Corruption Vulnerabilities on the FreeRTOS Operating System : https://archive.org/details/Exploiting_Memory_Corruption #shmoocon
+﻿"FreeRTOS 操作系统内存破坏漏洞的利用， 视频: https://t.co/qfWply5ilF "
+[ Operating System ]  With datacenter OSs and virtualization, Unikernels become possible and eliminate underlying OS attack surface: https://raw.githubusercontent.com/hioa-cs/IncludeOS/master/doc/papers/IncludeOS_IEEE_CloudCom2015_PREPRINT.pdf
+﻿"为云计算环境定制的操作系统内核 IncludeOS， Paper:   https://t.co/eADJEcAT3I"
+[ Operating System ]  Interesting paper on VMware's test kernel FrobOS: https://web.archive.org/web/20140123033243/https://labs.vmware.com/download/193/
+﻿"VMware 测试内核 FrobOS 介绍, PDF: https://t.co/wH7F24uHuT"
+[ Operating System ]  Beautiful collection of microkernel projects (HT: @ jjermar): “Microkernels - The component-based operating systems” http://microkernel.info/
+﻿"几个开源微内核项目列表：  https://t.co/tULGI2ZEIR   包括：Escape、Genode、HelenOS 等"
+[ Operating System ]  QNX Security Architecture - https://labs.mwrinfosecurity.com/assets/BlogFiles/mwri-qnx-security-whitepaper-2016-03-14.pdf #lowlevel
+﻿"QNX 操作系统安全体系架构, 来自 MWR 的白皮书: https://t.co/dJOLANErWp "
+[ Operating System ]  Just pushed the #QNX security auditing scripts. https://github.com/alexplaskett/QNXSecurity There's firmware and attack surface analysis scripts, fuzzers, etc.
+﻿" QNX 操作系统安全性分析工具, 包括攻击界面分析脚本、 IPCFuzz、 MsgFuzz 等工具, 前几天推送过一篇 关于 QNX 的 MWR Labs 的 Paper, Github Repo: https://t.co/1tw9QpnUuP "
+[ Operating System ]  Apple II DOS source code released : http://www.computerhistory.org/atchm/apple-ii-dos-source-code/
+﻿"Apple II DOS 系统的源码发布 ︰ https://t.co/YY8hPJlI34"
+[ Operating System ]  Subgraph OS: A hardened OS that prioritizes security http://ow.ly/10jQQu
+﻿"Subgraph OS - 一个把安全性放在高优先级的操作系统： https://t.co/LRzWF2s95k "
+[ Operating System ]  Writing an OS in Rust : Kernel Heap : http://os.phil-opp.com/kernel-heap.html //Series cont'd
+﻿"用 Rust 语言写操作系统系列文章之内核堆 ︰ https://t.co/zbMrkhmvdb "
+[ Operating System ]  OS Development Series: http://www.brokenthorn.com/Resources/OSDevIndex.html - very nice!
+﻿"BrokenThorn 公司的操作系统开发系列教程 ︰ https://t.co/qSxh0ER4Rd  "
+[ Operating System ]  The Illumos Syscall handler - http://zinascii.com/2016/the-illumos-syscall-handler.html
+﻿"Illumos Syscall Handler： https://t.co/schX4x2IHu  Illumos 是 OpenSolaris 操作系统的开源社区版本 "
+[ Operating System ]  How Qubes makes handling PDFs way safer https://micahflee.com/2016/07/how-qubes-makes-handling-pdfs-way-safer/ cc @ bartongellman
+﻿" Qubes 操作系统是如何使 PDF 的处理更安全的： https://t.co/mc5NiM7tRA  "
+[ Operating System ]  #0daytoday #TFTP Server 1.4 - WRQ Buffer Overflow Exploit (Egghunter) Exploit [remote #exploits #0day #Exploit]: http://bit.ly/2a0gqlP
+﻿" TFTP Server 1.4 WRQ Buffer Overflow Exploit : https://t.co/J8sjIPiur6"
+[ Operating System ]  Writing a Simple Operating System from Scratch (PDF) https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
+﻿" 从零开始写一个简单的操作系统： https://t.co/H6ckwin4cJ"
+[ Operating System ]  Google is building a mysterious new non-Linux-based open source OS called "Fuchsia" http://www.androidauthority.com/we-compiled-fuchsia-os-710491/
+﻿" Google 正在构建一个新操作系统 Fuchsia，该操作系统不是基于 Linux： https://t.co/wHMQ239ifZ"
+[ Operating System ]  Kaspersky launches its own OS on Russian routers http://www.theregister.co.uk/2016/08/23/kasperskyos/
+﻿"卡巴斯基在俄罗斯的路由器上开始部署其自主研发的操作系统，该操作系统经过 4 年的秘密研发，主要用于保护工控系统： https://t.co/QF0iHZXwZE"
+[ Operating System ]  ReactOS 0.4.2, An Open-source Windows Clone, Released With Unix Filesystem Support http://buff.ly/2bKPoBA
+﻿" Windows 的克隆开源版本 - ReactOS 发布 0.4.2 版本，增加对 Unix 文件系统的支持： https://t.co/1jzPVfDh2L"
+[ Operating System ]  #Genode 16.08 released https://genode.org/documentation/release-notes/16.08
+﻿" Genode 操作系统框架发布 16.08 版本： https://t.co/Tl2o7k8sh7"
+[ Operating System ]  Prepare servers for iOS 10 & macOS Sierra. Crypto Deprecations: - SSLv3 - RC4 - PPTP VPN https://support.apple.com/en-us/HT206871 https://support.apple.com/en-us/HT206844
+﻿"更新到 iOS 10 及 macOS Sierra 前需要注意的一些新变化。（更新后都将不再支持PPTP连接）：   https://t.co/WQnXPKuPHq  https://t.co/KnW5qCouue-SSLv3-RC4 "
+[ Operating System ]  #Include os - From bootloader to REST API with the new C++ - http://www.slideshare.net/IncludeOS/include-ltos-from-bootloader-to-rest-api-with-the-new-c
+﻿" #Include os - From bootloader to REST API with the new C++： https://t.co/jgVJnlNepY"
+[ Operating System ]  Hack the Kernel – Learn about operating systems online : https://www.ops-class.org/
+﻿" ops-class.org 网站有关于操作系统的各方面的知识︰ https://t.co/2rlp8aGqgG"
+[ Operating System ]  seL4 (security enhanced L4 w\ formal verification, capabilities) 4.0.0 released, now with x86-64 support: https://t.co/udmet26ZKB
+﻿"seL4 微操作系统 4.0.0 发布︰ https://t.co/udmet26ZKB"
+[ Operating System ]  [local] - IBM AIX 6.1/7.1/7.2 - 'Bellmail' Privilege Escalation https://www.exploit-db.com/exploits/40950/
+﻿"IBM AIX 6.1/7.1/7.2 操作系统 'Bellmail' 提权漏洞（CVE-2016-8972 ）： https://t.co/6YpMug5muB"
+[ Operating System ]  Published: AIX Bug Hunting Part 2 – Bellmail Privilege Escalation (CVE-2016-8972) https://rhinosecuritylabs.com/2016/12/21/unix-nostalgia-aix-bug-hunting-part-2-bellmail-privilege-escalation-cve-2016-8972/ PoC at: https://t.co/YbqDd6aQUh
+﻿" IBM AIX 6.1/7.1/7.2 操作系统 Bellmail 提权漏洞分析 (CVE-2016-8972) https://t.co/tjcTNwBs2u   PoC ︰ https://t.co/YbqDd6aQUh"
+[ Operating System ]  Arbitrary Kernel Memory Reads on Illumos http://benmmurphy.github.com/blog/2017/01/06/arbitrary-kernel-memory-reads-on-illumos/
+﻿"Illumos 任意内核内存读取： https://t.co/nX2pfHe6My"
+[ Operating System ]  Remote DoS against OpenBSD http server (up to 6.0) https://goo.gl/fb/eNMIUx #FullDisclosure
+﻿" OpenBSD http server (版本 > 6.0) 存在远程拒绝服务攻击（CVE-2017-5850)： https://t.co/ohWccVDxeB "
+[ Operating System ]  Remote DoS against OpenBSD http server (up to 6.0) : https://pierrekim.github.io/blog/2017-02-07-openbsd-httpd-CVE-2017-5850.html // CVE-2017-5850
+﻿"OpenBSD http server 远程拒绝服务攻击漏洞细节（CVE-2017-5850): https://t.co/Z5okVPGOmb "
+[ Operating System ]  Secure operating system? Is this possible? An insight into #KasperskyOS https://kas.pr/v7jy
+﻿"KasperskyOS 特性介绍： https://t.co/pfQWtrsSik"
+[ Operating System ]  How I ended up writing a new real-time kernel : https://dmitryfrank.com/articles/how_i_ended_up_writing_my_own_kernel https://t.co/HvLJ3bogXz
+﻿" 如何实现一个实时内核︰ https://t.co/U9N6wNhZRU "
+[ Operating System ]  New blog post up today. GPU Pass-through in Linux: http://www.dcellular.net/blog/?p=6
+﻿"如何搭建 Arch Linux 和 Windows 的 GPU 运行环境︰ https://t.co/SBT9Omly46"
+[ Operating System ]  Excellent article about exploiting Cypress PSoC4 (ARM) - reading system ROM, modifying low-level config, creating r… https://t.co/C4rNNZjCys
+﻿"Exploit Cypress PSoC 4，PSoC 4 是一个基于 ARM Cortex-M0/M0+ 的可编程系统： http://dmitry.gr/index.php?r=05.Projects&proj=23.%20PSoC4"
+[ Operating System ]  A "Comprehensive and biaised [sic] comparison of #OpenBSD and #FreeBSD", by @ajacoutot &amp; bapt@freebsd. #AsiaBSDCon https://t.co/GyE4O5Txr2
+﻿"针对 OpenBSD 和 FreeBSD 的对比： https://t.co/GyE4O5Txr2"
+[ Operating System ]  fluttershy.py - local root exploit for PonyOS 4.0 dynamic linker https://github.com/HackerFantastic/Public/blob/master/exploits/fluttershy.py :-) cc @ kevinlange https://t.co/IQP2uxHD6o
+﻿"PonyOS 4.0 运行 setuid 时未检查环境变量导致本地提权漏洞： https://t.co/DbmDfv5JIg"
+[ Operating System ]  Samsung's Android replacement Tizen OS has almost 40 unknown 0-day vulnerabilities : https://motherboard.vice.com/en_us/article/samsung-tizen-operating-system-bugs-vulnerabilities
+﻿"据报道 Samsung 用来代替 Android 操作系统的 Tizen OS 被发现存在几十个漏洞 ︰ https://t.co/qoLY5R5VUQ"
+[ Operating System ]  Solaris 7 - 11 (x86 & SPARC) dtappgather exploit & vulnerability details (used by EXTREMEPARR) https://github.com/HackerFantastic/Public/blob/master/exploits/dtappgather-poc.sh
+﻿"Solaris 7 - 11 (x86 & SPARC) 本地 Root Exploit： https://t.co/QSijUxTW3b"
+[ Operating System ]  Breaking the Security Model of Subgraph OS : https://micahflee.com/2017/04/breaking-the-security-model-of-subgraph-os/ cc @ micahflee
+﻿"打破 Subgraph OS 安全模式︰ https://t.co/0XkUCC06W8 "
+[ Operating System ]  Updated Debian Linux 8: 8.8 released https://www.debian.org/News/2017/20170506 #sysadmin
+"  Debian 8.8 新版发布，同时提供了该版的安全更新与 bug 修复列表 ： https://www.debian.org/News/2017/20170506 "
+[ Operating System ]  FreeBSD 10.2 X64的整数溢出漏洞分析： http://whereisk0shl.top/post/2017-05-06
+[ Operating System ]  Tails 3.0 版本发布，同时发布了多个安全补丁： https://tails.boum.org/news/version_3.0/index.en.html
+[ Operating System ]  关于 Solaris 10 (x86/amd64) 上 CVE-2017-3623 (EBBISLAND) 漏洞利用的一些想法： https://immunityproducts.blogspot.com/2017/07/a-few-notes-about-exploitation-of-aka.html
+[ Operating System ]  去年下半年 Talos 团队公开了 Memcached 的多个漏洞，Talos 昨天发了一篇 Blog 介绍互联网上 Memcached 服务器对这些漏洞的修复情况：  http://blog.talosintelligence.com/2017/07/memcached-patch-failure.html#more
+[ Operating System ]   BSD 内核的漏洞研究，来自 DEFCON 会议： https://media.defcon.org/DEF%20CON%2025/DEF%20CON%2025%20presentations/DEFCON-25-Ilja-van-Sprundel-BSD-Kern-Vulns.pdf
+[ Operating System ]   渗透定制操作系统 Kali Linux 2017.2 版本发布： https://www.kali.org/news/kali-linux-2017-2-release
+[ Operating System ]  ChromeOS基于eCryptfs的用户数据安全保护机制： http://www.iceswordlab.com/2017/10/09/ChromeOs-Userdata-Protection-Mechanism-Based-On-eCryptfs/
+[ Operating System ]   Chrome OS 一个完整的 Exploit 攻击链: WebAsm, Site Isolation, crosh, crash reporter, cryptohomed： https://bugs.chromium.org/p/chromium/issues/detail?id=766253
+[ Operating System ]  黑莓 QNX Qnet 类 Unix 实时操作系统权利提升漏洞简析（CVE-2017-3891） ： https://www.midnightbluelabs.com/blog/2017/12/8/elevation-of-privilege-vulnerability-in-qnx-qnet
+[ Operating System ]  Tails 3.4 发布，本次修复了 Meltdown漏洞以及发出了针对 Spectre 漏洞的部分缓解措施：  https://tails.boum.org/news/version_3.4/
+[ Operating System ]   Qubes OS 桌面操作系统的整体架构概览：  https://www.qubes-os.org/news/2018/01/22/qubes-air/
+[ Operating System ]  Tails 3.5版发布： https://tails.boum.org/news/version_3.5
+[ Operating System ]   剖析 QNX 操作系统: 分析与破解 QNX 6/7 的漏洞缓解技术与伪随机数发生器： https://recon.cx/2018/brussels/resources/slides/RECON-BRX-2018-Dissecting-QNX.pdf
+[ Operating System ]   NetBSD 操作系统的 IPsec 在解析 IPv6-AH 数据包时存在远程拒绝服务漏洞，一个 IPv6 数据包就可以触发： http://ftp.netbsd.org/pub/NetBSD/security/advisories/NetBSD-SA2018-003.txt.asc
+[ Operating System ]   FreeBSD 10.2 x64 sendmsg Kernel Heap Overflow (PoC)： https://cxsecurity.com/issue/WLB-2018030009
+[ Operating System ]  XNU 信息泄漏漏洞分析（CVE-2017-13868） https://bazad.github.io/2018/03/a-fun-xnu-infoleak/
+[ Operating System ]  Kindle  FireOS 文件系统分析： http://newandroidbook.com/Articles/KindleFS.html

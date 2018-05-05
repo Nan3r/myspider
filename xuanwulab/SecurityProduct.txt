@@ -1,0 +1,277 @@
+[ SecurityProduct ]  .@ enirx gives step-by-step instructions for using #AutoFocus API & #Postman for automation http://bit.ly/1PuEASa
+﻿"通过 Postman 工具与 PaloAlto 下一代防火墙的 AutoFocus API 自动化地交互： https://t.co/Ap1gaIfPzd "
+[ SecurityProduct ]  Avast sandbox escape by @ taviso http://code.google.com/p/google-security-research/issues/detail?id=700#c3
+﻿"Avast 沙箱逃逸漏洞， Avast 实现的沙箱自己实现了一套消息过滤机制，这套机制存在和 MS13-005 一样的问题，没有正确处理广播消息的用户界面隔离问题，来自 Project Zero Issue 700，漏洞发现者为 Tavis： https://t.co/68AaNZ6dER "
+[ SecurityProduct ]  The SSH backdoor found in Fortinet's FortiOS now being discovered in other products: http://arstechnica.com/security/2016/01/secret-ssh-backdoor-in-fortinet-hardware-found-in-more-products/
+﻿"FortiOS SSH 后门事件后，Fortinet 调查发现在其他产品中也存在该后门: https://t.co/lWySoKsnh5"
+[ SecurityProduct ]  Malwarebytes updates are not signed or downloaded over a secure channel using a hardcoded RC4 key: http://code.google.com/p/google-security-research/issues/detail?id=714
+﻿"Malwarebytes 反病毒软件更新没有签名保护，并且是 HTTP 下载， 仅用了一个硬编码的 RC4 密钥加密， 来自 Project Zero: https://t.co/2nkl0heMgy"
+[ SecurityProduct ]  A remote filesystem access vulnerability in the default Avast install. https://code.google.com/p/google-security-research/issues/detail?id=679
+﻿"Avast 文件系统任意文件远程读取漏洞， 来自 Project Zero Issue 679， Avast 存在一个通过 Web 页面可访问的 RPC 接口，通过这个接口可以启动一个无安全限制的 'SafeZone'， 通过 SafeZone，可以任意读取文件系统文件，发送任意 HTTP 请求，读取响应，截获 Cookie等： https://t.co/mUkbksUacT"
+[ SecurityProduct ]  FireEye Detection Evasion and Whitelisting of Arbitrary Malware: https://labs.bluefrostsecurity.de/advisories/bfs-sa-2016-001/
+﻿"FireEye 检测引擎逃逸、任意恶意软件白名单漏洞， 该漏洞由 Blue Frost 的 Moritz Jodeit 发现: https://t.co/1yiEEuWu8P"
+[ SecurityProduct ]  New blog from Nettitude’s @ kyREcon: Exploiting a Kernel Paged Pool Buffer Overflow in Avast Virtualisation Driver: http://ow.ly/Yr4Iq
+﻿"Avast 虚拟化驱动程序内核分页池缓冲区溢出漏洞利用（CVE-2015-8620）， Avast 在处理 'Sandbox' 和 'DeepScreen' 相关的功能时存在缓冲区溢出漏洞，利用这个漏洞可以实现 Guest 到 SYSTEM 的提取。 来自 Nettitude Blog: https://t.co/sh2MDkMNPu"
+[ SecurityProduct ]  QuickHeal webssx.sys driver DOS vulnerability : https://drive.google.com/file/d/0B0JU6vO5_GbmNXBOWWVZTHpzeGc/view , PoC : https://github.com/theevilbit/exploits/tree/master/quickheal_webssx_dos cc: @ theevilbit
+﻿"印度著名安全软件 QuickHeal 的驱动 webssx.sys 存在拒绝服务漏洞: https://t.co/LC8aqBHBF9  PoC : https://t.co/yzpyzdPvRd "
+[ SecurityProduct ]  More insecure security software: Comodo’s on-by-default VNC app http://arstechnica.com/security/2016/02/more-insecure-security-software-comodos-on-by-default-vnc-app/
+﻿"Comodo 安全软件默认安装并启用 VNC 服务， 来自 Ars Technica 的报道： https://t.co/zOvOG12Anx  Project Zero 的 Issue：  https://code.google.com/p/google-security-research/issues/detail?id=703  "
+[ SecurityProduct ]  #DLLPlanting in Comodo AV Geekbuddy Allows Local Users to Elevate to SYSTEM #LPE #infosec #Exploits #146DaysLater https://github.com/CyberPoint/advisories/blob/master/SRT-VR-02OCT2015.txt
+﻿"Comodo AV Geekbuddy DLL 劫持漏洞， CyberPoint 的漏洞公告： https://t.co/CpWSLBED8a "
+[ SecurityProduct ]  ESET NOD32 Heap Overflow https://packetstormsecurity.com/files/136082/GS20160304010751.tgz
+﻿"ESET NOD32 在解压 EPOC（Symbian）安装文件时存在堆溢出漏洞， 这个漏洞由 Project Zero Tavis 于 2015 年 6 月发现并修复：  https://t.co/Ut9KSFth8j"
+[ SecurityProduct ]  Panda SM Manager iOS Application - MITM SSL Certificate Vulnerability http://goo.gl/fb/DHaR1D #FullDisclosure
+﻿"Panda SM（系统管理） iOS 客户端在连接 HTTPS 站点时没有验证 SSL 证书的有效性， 来自 FullDisclosure 的公告：  https://t.co/aE0VB5ofmS "
+[ SecurityProduct ]  McAfee VirusScan Enterprise security restrictions bypass http://goo.gl/fb/IGo4OP #FullDisclosure
+﻿"McAfee VirusScan 企业版管理员用户限制特性的绕过， 来自 FullDisclosure 的公告： https://t.co/SgAUbt4SLI "
+[ SecurityProduct ]  #DragonPunch Comodo AV & Dragon Browser Local Privilege Elevation #Exploit #asciiart #greetz #sploitlikeits1999 http://pastebin.com/meQvnLRU
+﻿"Comodo 反病毒软件 & Dragon 浏览器本地提取 Exploit， 来自 Pastebin： https://t.co/pf7fSpJlAg"
+[ SecurityProduct ]  Working on an unusual exploit for Comodo Antivirus, just *scanning* a file can exfiltrate keystrokes. #wtf https://t.co/NKmPGh2DMW
+﻿"正在研究 Comodo 反病毒软件的一个不常见的 Exploit， 仅通过扫描文件就可以盗取键盘击键信息: https://t.co/NKmPGh2DMW"
+[ SecurityProduct ]  on security software certification, by @ taviso http://blog.cmpxchg8b.com/2016/03/security-software-certification.html?m=1 https://t.co/XpAyW9krGL
+﻿"Project Zero 的 Tavis 谈安全软件与认证评测的事儿: https://t.co/YEDZJPNYzQ https://t.co/XpAyW9krGL"
+[ SecurityProduct ]  Bypassing Antivirus With Ten Lines of Code http://www.attactics.org/2016/03/bypassing-antivirus-with-10-lines-of.html
+﻿"10 行代码绕过杀毒软件, VirusTotal 0/56, Blog: https://t.co/w1PdfPlVDm"
+[ SecurityProduct ]  That was quick, Avira patched the first report already. https://bugs.chromium.org/p/project-zero/issues/detail?id=765
+﻿"真是迅速，Avira（小红伞）已经修复了 Tavis 报告的第一个漏洞， Avira 在解析 PE section headers 时触发堆溢出， 来自 Project Zero Issue 765： https://t.co/ga4lrN1KIt"
+[ SecurityProduct ]  Apparently a Nessus scan finds a trivial EoP in Trend Micro due to bad ACLs. #wtf https://twitter.com/LaktoseIgnoranz/status/710968245566750720
+﻿"用 Nessus 扫描器发现了 Trend Micro 的一个 ACL 配置不当的提权漏洞：  https://t.co/3K5OdQ6dYp"
+[ SecurityProduct ]  Vulnerable #cybersecurity products are old news. The Witty Worm spread by exploiting ISS firewall products 12yrs ago http://www.caida.org/research/security/witty/
+﻿"安全产品出现漏洞不算是新闻了， 12 年前（2014 年）， 就曾有 Witty 蠕虫通过攻击 ISS 防火墙产品的漏洞实现大面积传播：  https://t.co/wXSNq1I6Xa"
+[ SecurityProduct ]  Comodo antivirus forwards emulated Win32 API calls to the real API during scans. ¯\_(ツ)_/¯ https://bugs.chromium.org/p/project-zero/issues/detail?id=769
+﻿"Comodo 反病毒软件内置 x86 模拟器,但是对于一些 Win32 API, 该模拟器仅仅作代理, 参数会直接传递给真实的 API. 而这些 API 可以被滥用, 譬如可以实现将用户计算机的键盘击键记录发送到远程服务器, Project Zero Issue 769: https://t.co/PHOw6vl6X1"
+[ SecurityProduct ]  Comodo Antivirus Composite Document Parsing Heap Overflow https://packetstormsecurity.com/files/136368/GS20160323002103.tgz
+﻿"Comodo 反病毒软件在解析复合文档时存在整数溢出漏洞： https://t.co/CozfYbcT3H   Project Zero Issue 762: https://bugs.chromium.org/p/project-zero/issues/detail?id=762 "
+[ SecurityProduct ]  Comodo Antivirus LZMA Decoder Heap Overflow https://packetstormsecurity.com/files/136369/GS20160323002237.tgz
+﻿"Comodo 反病毒软件在解析 LZMA 格式时存在堆溢出： https://t.co/cg0fZ9Fron   Project Zero 763: https://bugs.chromium.org/p/project-zero/issues/detail?id=763 "
+[ SecurityProduct ]  FireEye Malware Input Processor Privilege Escalation https://packetstormsecurity.com/files/136435/GS20160325232526.tgz
+﻿"FireEye MIP(Malware Input Processor) 子系统 Root 提权， Project Zero Issue 670:  https://bugs.chromium.org/p/project-zero/issues/detail?id=670&can=1&q=fireeye "
+[ SecurityProduct ]  Attacking Next Generation Firewalls - Breaking PAN-OS : https://www.troopers.de/media/filer_public/a5/4d/a54da07e-3780-4f83-b4ac-8c620666a60a/paloalto_troopers.pdf (Slides*) cc: @ WEareTROOPERS || @ _fel1x
+﻿"攻击 Palo Alto 下一代防火墙 - Breaking PAN-OS， 来自 Troopers 会议演讲， 作者为 Felix Wilhelm:  https://t.co/QJmBmx0L0G "
+[ SecurityProduct ]  Bitdefender Vaccine now supports also CTB-Locker, Locky, TeslaCrypt http://securityaffairs.co/wordpress/45765/malware/bitdefender-anti-ransomware-vaccine.html
+﻿"Bitdefender 推出了一款可以预防勒索软件的 '疫苗'： https://t.co/l70PRFcEYp"
+[ SecurityProduct ]  When your AV uses a third-party library that comes with trivially exploitable RCE. https://bugs.chromium.org/p/project-zero/issues/detail?id=773
+﻿"TrendMicro 反病毒软件默认启动远程调试桩监听，等待连接。 来自 Project Zero Issue 773：  https://t.co/T608t72wXJ"
+[ SecurityProduct ]  Panda Security Multiple Business Products – Privilege Escalation https://www.nettitude.co.uk/panda-security-multiple-business-products-privilege-escalation/
+﻿"Panda 安全软件 v7.30.2 版本 SYSTEM 提取漏洞（CVE-2016-3943）， 漏洞公告： https://t.co/te0fp0UN3Y"
+[ SecurityProduct ]  Panda Security 2016 Home User Products - Privilege Escalation http://goo.gl/fb/Je55rf #FullDisclosure
+﻿"Panda 安全软件家庭用户版 v16.0.1 存在 SYSTEM 提取漏洞， 来自 FullDisclosure 公告： https://t.co/cKvFU300do "
+[ SecurityProduct ]  PfSense Community Edition Multiple Vulnerabilities http://goo.gl/fb/J9kufZ #FullDisclosure
+﻿"PfSense 社区版防火墙存在多个漏洞， 来自 FullDisclosure 公告： https://t.co/J2wyzl75cf "
+[ SecurityProduct ]  Escaping The Avast Sandbox Using A Single IOCTL CVE-2016-4025 https://www.nettitude.co.uk/escaping-avast-sandbox-using-single-ioctl-cve-2016-4025/
+﻿"仅用一个简单的 IOCTL 漏洞逃逸 Avast 的沙盒保护（CVE-2016-4025）：  https://t.co/EtNghMfztE"
+[ SecurityProduct ]  Symantec Messaging Gateway Flaws Let Local Users Obtain and Decrypt Passwords and Execute Arbitrary Shell Commands.. http://www.securitytracker.com/id/1035609
+﻿"Symantec 消息网关 10.6.0-7 之前版本存在两个漏洞，本地用户可以获取并解密目标系统的密码，而且可以执行任意 Shell 命令： https://t.co/2tHkaauqqq"
+[ SecurityProduct ]  How a spamfilter can help you to drop a shell https://forsec.nl/2016/04/how-a-spamfilter-can-help-you-phish/
+﻿"McAfee 邮件网关可以 '帮' 你释放一个恶意 Shell： https://t.co/ivi78uf0J9"
+[ SecurityProduct ]  Know the Truth: Signatures and Multi-AV Scanners https://blog.cylance.com/know-the-truth-signatures-and-multi-av-scanners
+﻿"故事的真相 - 病毒签名与多引擎反病毒扫描器： https://t.co/LoTqjY1zQ3"
+[ SecurityProduct ]  Many remote stack overflows in Symantec Endpoint. No big deal, because /GS is the default since 2005, right? Hahaha. https://t.co/ac40M0Ki90
+﻿" Symantec 终端防护软件多个栈溢出漏洞（远程）。 Tavis 接着嘲讽两句：没什么大不了的， VS2005 就默认启用 /GS 栈保护了，对吧：  https://t.co/ac40M0Ki90"
+[ SecurityProduct ]  A Glance at Cylance http://secureallthethings.blogspot.com/2016/05/a-glance-at-cylance.html?m=1
+﻿" 这篇 Blog 谈作者对 Cylance 安全产品的测试过程，Cylance 产品提供基于机器学习和人工智能的检测技术： https://t.co/Eu5leDsKY5  "
+[ SecurityProduct ]  Kernel memory corruption in Symantec/Norton antivirus, CVE-2016-2208 (more patches soon). https://bugs.chromium.org/p/project-zero/issues/detail?id=820 https://t.co/F22xDIelSU
+﻿" Symantec 反病毒引擎在解析 AsPack 加壳后的可执行程序时存在内核内存破坏漏洞，会导致 Windows 蓝屏（CVE-2016-2208）： https://t.co/Sqhm0a48Fp https://t.co/F22xDIelSU"
+[ SecurityProduct ]  TrendMicro ScanMail for Microsoft Exchange (SMEX) predictable session token - CVE-2015-3326 http://blog.malerisch.net/2016/05/trendmicro-smex-session-predictable-cve-2015-3326.html
+﻿"趋势科技 Exchange 邮件扫描服务（ScanMail） Session Token 可预测漏洞（CVE-2015-3326）：  https://t.co/ZakrPVfotl "
+[ SecurityProduct ]  VirIT Explorer Lite / Pro 8.1.68 Privilege Escalation https://packetstormsecurity.com/files/137136 #exploit
+﻿"杀毒软件 Vir.IT eXplorer Pro 8.1.68 提权漏洞： https://t.co/PfeXBf86e9 "
+[ SecurityProduct ]  Let the AMSI bypasses continue! http://cn33liz.blogspot.nl/2016/05/bypassing-amsi-using-powershell-5-dll.html by @ Cneelis
+﻿" 利用 PowerShell 5 的 DLL 劫持漏洞绕过 Windows 10 的反病毒扫描： https://t.co/zwTixYuzhv"
+[ SecurityProduct ]  Windows 7 firewall bypass PoC http://www.intelligentexploit.com/view-details.html?id=23956
+﻿"Windows 7 防火墙绕过 PoC，绕过的方法是搜索防火墙 UI 窗口和按钮，模拟发送按键，禁用保护： https://t.co/usK8S0fzWE"
+[ SecurityProduct ]  armadito-av - Armadito antivirus main repository https://github.com/armadito/armadito-av
+﻿" 开源反病毒软件 Armadito 的源码： https://t.co/TYJmVhgJG9"
+[ SecurityProduct ]  (In-) Security of Security Applications - Mobile AVs https://www.sit.fraunhofer.de/fileadmin/dokumente/Presse/teamsik_advisories_AV.pdf?_=1464692835
+﻿" 安全软件自身的（脆弱）安全性（主要是手机版反病毒软件）： https://t.co/xy3KxfLgwh "
+[ SecurityProduct ]  New blog post by @ BrandonPrry - Finding pearls; fuzzing ClamAV https://foxglovesecurity.com/2016/06/13/finding-pearls-fuzzing-clamav/
+﻿" Fuzzing ClamAV，Finding Pearls： https://t.co/o2HkthrZ0d"
+[ SecurityProduct ]  okay, finally wrote up my notes on my ClamAV scan http://blog.erratasec.com/2016/06/scanning-for-clamav-0day.html
+﻿" 在互联网上搜索 ClamAV 0Day： https://t.co/XciY3ygJ2Q  ClamAV 会监听本地端口，等待执行命令"
+[ SecurityProduct ]  Antivirus As a Threat http://blog.ptsecurity.com/2016/06/antivirus-as-threat.html
+﻿" 反病毒软件自身的安全性已经成为一种威胁，来自 PtSecurity 的调查分析： https://t.co/tyEvyk51W9"
+[ SecurityProduct ]  Aramadito remote arbitrary file write in case of MiTM http://goo.gl/fb/gdEOCs #FullDisclosure
+﻿" 开源反病毒软件 Aramadito 在中间人劫持情况下可以实现任意文件写，来自 FullDisclosure 的公告： https://t.co/oDZ6rflMRu "
+[ SecurityProduct ]  Panda Security Privilege Escalation http://seclists.org/fulldisclosure/2016/Jun/67
+﻿" Panda 杀毒软件自身的 SYSTEM 特权提升漏洞： https://t.co/5SSxtnjQqH"
+[ SecurityProduct ]  New blog post on the Symantec vulnerabilities we're releasing today, including wormable remote code execution bugs. http://googleprojectzero.blogspot.com/2016/06/how-to-compromise-enterprise-endpoint.html
+﻿" Symantec 企业终端防护软件的漏洞及利用，包括一个蠕虫 RCE 漏洞，来自 Project Zero Blog： https://t.co/4cq3w3FUaz"
+[ SecurityProduct ]  Multiple remote memory corruption vulns in all Symantec/Norton antivirus products, including stack buffer overflows https://bugs.chromium.org/p/project-zero/issues/detail?id=823
+﻿" Symantec 安全产品在读取 PPT 文件时，非对齐的缓存文件流会触发栈缓冲区溢出，来自 Project Zero 823： https://t.co/cFYmeMNKLx   一共 7 个漏洞： https://bugs.chromium.org/p/project-zero/issues/list?q=label:Vendor-Symantec "
+[ SecurityProduct ]  Very critical 0day. https://github.com/cuckoosandbox/cuckoo/issues/984
+﻿" Cuckoo 沙盒 agent.py 通过 XMLRPC 可以触发的一个提权漏洞： https://t.co/OR9RLGOwsY"
+[ SecurityProduct ]  SSD Advisory – Untangle NG Firewall Remote Command Execution https://blogs.securiteam.com/index.php/archives/2724
+﻿" Untangle 防火墙远程命令执行漏洞： https://t.co/Hz4E8R52D0"
+[ SecurityProduct ]  w0w, a new Unicorn-based AntiVirus by @ quangnh89 with an interesting approach: scan for malware at emulation time! https://github.com/develbranch/TinyAntivirus
+﻿" TinyAntivirus - 一款基于 Unicorn 模拟器的轻量级反病毒软件： https://t.co/ZzVdr6K70B"
+[ SecurityProduct ]  New advisory published: a directory traversal bug in Symantec Endpoint Protection Manager discovered by Che Lin Law https://labs.mwrinfosecurity.com/advisories/symantec-endpoint-protection-manager-directory-traversal/
+﻿" Symantec Endpoint Protection Manager 目录穿越漏洞（CVE-2016-5307）： https://t.co/Z9i6nv7uRU"
+[ SecurityProduct ]  ERNW NL 42 (Dec 2013) on " Attacking Check Point´s FDE with Activated WIL" https://www.ernw.de/download/newsletter/ERNW_Newsletter_42_Checkpoint_FDE_with_WIL_en.pdf [PDF], by @ _fel1x https://t.co/9JqO7qyAsA
+﻿" Attacking Check Point´s FDE（全盘加密），来自 ERNW 2013 年的一篇 Paper： https://t.co/jI53SgOkWd  https://t.co/9JqO7qyAsA"
+[ SecurityProduct ]  Barracuda Web App Firewall / Load Balancer Remote Root https://packetstormsecurity.com/files/138020/barracuda_webappfw_and_loadbal_postauth_remote_root.rb.txt
+﻿" Barracuda（梭子鱼） Web 应用防火墙负载均衡 Root Exploit： https://t.co/8rfqjFBCxw"
+[ SecurityProduct ]  CVE-2016-5840: Trend Micro Deep Discovery hotfix_upload.cgi filename Remote Code Execution Vulnerability - http://www.korpritzombie.com/cve-2016-5840-trend-micro-deep-discovery-hotfix_upload-cgi-filename-remote-code-execution-vulnerability/
+﻿" Trend Micro Deep Discovery 产品 hotfix_upload.cgi 文件名远程代码执行漏洞（CVE-2016-5840）： https://t.co/n44OHpZQU6"
+[ SecurityProduct ]  Defeating Antivirus Real-time Protection From The Inside https://breakdev.org/defeating-antivirus-real-time-protection-from-the-inside/
+﻿" 从内部出发逃逸 BitDefender 的实时防护： https://t.co/L7Euwqp8Dy"
+[ SecurityProduct ]  Barracuda Web App Firewall/Load Balancer Post Auth Remote Root Exploit (3) https://packetstormsecurity.com/files/138093/barracuda_webappfw_and_loadbal_postauth_remote_root_3.rb.txt
+﻿" Barracuda（梭子鱼） Web 应用防火墙负载均衡 Root Exploit(3)： https://t.co/MjSnhS4ncA"
+[ SecurityProduct ]  Kaspersky Lab launches bug bounty program http://www.zdnet.com/article/kaspersky-lab-launches-bug-bounty-program/#ftag=RSSbaffb68
+﻿"卡巴斯基也启动了 Bug Bounty 计划： https://t.co/8bKntQmKhQ"
+[ SecurityProduct ]  Posted slides from @ BSidesLV 2016 - Powershell-fu: Hunting on the Endpoint by @ gerritzc #bsides #cybersecurity http://www.slideshare.net/ChristopherGerritz/bsideslv-2016-powershell-hunting-on-the-endpoint-gerritz
+﻿" 基于 PowerShell 的终端防护解决方案，来自 BSidesLV 2016 会议： https://t.co/pD3yFR5A8Y"
+[ SecurityProduct ]  Captain Hook: Pirating AVS to Bypass Exploit Mitigations [PDF] https://www.blackhat.com/docs/us-16/materials/us-16-Yavo-Captain-Hook-Pirating-AVs-To-Bypass-Exploit-Mitigations.pdf #BHUSA2016
+﻿" 利用反病毒软件 Hook 引擎中的漏洞 Bypass Exploit Mitigations，来自 BlackHat 会议： https://t.co/zwdvLx76Fj "
+[ SecurityProduct ]  Kaspersky Safe Browser iOS Application - MITM SSL Certificate Vulnerability… http://goo.gl/fb/DEuDXu #FullDisclosure
+﻿"卡巴斯基安全浏览器 iOS APP 存在 SSL 证书中间人劫持漏洞，来自 FullDisclosure 公告： https://t.co/ykGoiZSgdr "
+[ SecurityProduct ]  ZDI-16-484: AVG Internet Security avgtdix.sys Kernel Memory Corruption Privilege Escalation Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-484/
+﻿"ZDI-16-484: AVG avgtdix.sys 0x534a600c ioctl 内存破坏漏洞： https://t.co/DnttTWhQb2"
+[ SecurityProduct ]  Authenticated Remote Code Execution in F-Secure Policy Manager https://remoteawesomethoughts.blogspot.fr/2016/08/f-secure-policy-manager-120067239.html
+﻿" F-Secure 策略管理器远程代码执行漏洞： https://t.co/c9c7F7ONhZ"
+[ SecurityProduct ]  There it is...Kaspersky Internet Security "KLDISK" driver - Multiple kernel memory leak vuln - http://www.talosintelligence.com/reports/TALOS-2016-0168/
+﻿" 卡巴斯基 KLDISK 驱动多个内存破坏漏洞： https://t.co/XKtm1JyclS"
+[ SecurityProduct ]  A simple UI redress vulnerability in @ keepersecurity exposes all passwords to websites. https://bugs.chromium.org/p/project-zero/issues/detail?id=917
+﻿" Keeper 密码管理软件 Web 页面注入漏洞，来自 Project Zero 917： https://t.co/swwCHyqXeQ"
+[ SecurityProduct ]  I have talked about ,Advanced Exploitation Techniques: Breaking AV-Emulator on XCon2016. http://www.vxjump.net/files/seccon/BAVE_xcon2016.pdf enjoy it ^^
+﻿" 高级利用技术与反病毒模拟器逃逸，来自 XCon 2016 会议： https://t.co/Pv4xpEC2X7 "
+[ SecurityProduct ]  [local] - FortiClient SSLVPN 5.4 - Credentials Disclosure: FortiClient SSLVPN 5.4 - Credentials Disclosure http://bit.ly/2bVWq7V
+﻿" FortiClient SSLVPN 5.4 版本密钥泄漏漏洞，通过搜索内存的方法可以找到密钥： https://t.co/a4hUG0Re2W"
+[ SecurityProduct ]  Talos Blog: Vulnerability Spotlight: Kaspersky Unhandled Windows Messages Denial of Service Vulnerability http://tinyurl.com/zkrv37y
+﻿" 卡巴斯基 Windows 消息未处理导致的拒绝服务漏洞（CVE-2016-4329），来自 Talos 团队： https://t.co/I6q8Mq07Et"
+[ SecurityProduct ]  RogueKiller, Inside WMI Scanner http://www.adlice.com/roguekiller-inside-wmi-scanner/
+﻿"反病毒软件 RogueKiller 增加了一个新功能 WMI Scanner： https://t.co/zbmuzi2oWK"
+[ SecurityProduct ]  More Symantec and Norton remote code execution vulnerabilities fixed today, full advisory is here. https://www.symantec.com/security_response/securityupdates/detail.jsp?fid=security_advisory&pvid=security_advisory&year=&suid=20160919_00
+﻿" 赛门铁克和诺顿安全软件近几天修复了两个远程代码执行漏洞，官方公告： https://t.co/BLnaUQuI9l"
+[ SecurityProduct ]  [POC] CVE-2016-8020: McAfee Virus Scan for Linux allows for remote code execution as root https://nation.state.actor/mcafee.html
+﻿"McAfee Linux 版杀毒软件存在多个漏洞，结合这多个漏洞可实现 root 权限远程执行代码： https://t.co/VbTb8HZlPP"
+[ SecurityProduct ]  Art of Anti Detection – 1 : Introduction to AV & Detection Techniques : https://www.exploit-db.com/docs/40900.pdf (pdf)
+﻿"免杀的艺术，文章主要讲述了绕过杀软检测、内存加载︰ https://t.co/580yMRwXae "
+[ SecurityProduct ]  McAfee Linux版本2016漏洞合集（含漏洞利用PoC）： http://www.freebuf.com/vuls/123022.html
+[ SecurityProduct ]  Ring3 hooks: Norton Security StackPivot exploit mitigation baypss (too easy): http://asintsov.blogspot.de/2016/12/bypassing-exploit-protection-of-norton.html cc:@ DefconRussia streams
+﻿"绕过诺顿的漏洞利用保护机制︰ https://t.co/qGri9ns5Qh"
+[ SecurityProduct ]  Technical report on DNC hack : https://www.us-cert.gov/sites/default/files/publications/JAR_16-20296A_GRIZZLY%20STEPPE-2016-1229.pdf (pdf)
+﻿"GRIZZLY STEPPE -- 关于俄罗斯针对美国的恶意网络活动的分析报告，来自美国国土安全部和联邦调查局联合发布（PDF）︰ https://t.co/UIBbKnQiGz "
+[ SecurityProduct ]  Kaspersky were using an ACCESS_MASK blacklist instead of filesystem ACLs to protect private keys https://bugs.chromium.org/p/project-zero/issues/detail?id=989. ¯\_(ツ)_/¯
+﻿"Kaspersky 本地 CA 证书权限配置不正确，普通用户可读： https://t.co/mscLDVSnvH"
+[ SecurityProduct ]  Kaspersky identified SSL certificates by a 32bit fingerprint (!!!), making it trivial for MITM to create collisions. https://bugs.chromium.org/p/project-zero/issues/detail?id=978
+﻿"Kaspersky SSL 证书校验绕过 ： https://t.co/XInWtOyyG2"
+[ SecurityProduct ]  hmmm 2017 began with my own packet of death vulnerability/reported :) https://blog.exodusintel.com/2016/02/10/firewall-hacking
+﻿"思科防火墙 IKE 协议堆溢出（CVE-2016-1287）漏洞分析与利用： http://blog.exodusintel.com/2016/02/10/firewall-hacking/ "
+[ SecurityProduct ]  SANS 研究员警告一种新的基于 PDF 的钓鱼诈骗方式： https://threatpost.com/experts-warn-of-novel-pdf-based-phishing-scam/122896/
+[ SecurityProduct ]  Bypassing AntiVirus with Golang : https://averagesecurityguy.github.io/2017/01/06/bypassing-av-with-golang/ , Github : https://github.com/averagesecurityguy/scripts/blob/master/stealth.go cc @ averagesecguy
+﻿"利用 Golang 绕过杀软查杀: https://t.co/pzSopvBQTm，Github: https://t.co/CWntAeVlPA "
+[ SecurityProduct ]  Bypass all the AV's!! https://www.youtube.com/watch?v=EYuHAqY0xSw
+﻿"Bypass all the AV's： https://t.co/sZ2w4CmY6u"
+[ SecurityProduct ]  Bit Defender #39 - Auth Token Bypass Vulnerability https://goo.gl/fb/R774pk #FullDisclosure
+﻿"杀软 Bit Defender Auth Token 绕过漏洞： https://t.co/jXQeMcZX66 "
+[ SecurityProduct ]  Art of Anti Detection – Intro to AV & Detection : https://pentest.blog/art-of-anti-detection-1-introduction-to-av-detection-techniques/ , Part 2 – PE Backdoor Manufacturing :… https://twitter.com/i/web/status/819183101108776960
+﻿"反检测的艺术介绍︰ https://t.co/6XeeyiVC2K  反检测的艺术之 PE 后门制作： https://t.co/zC2onjCP6w"
+[ SecurityProduct ]  趋势杀软的核心组件 CoreServiceShell.exe 监听本地端口，提供 HTTP 服务，Project Zero Tavis 发现其中存在多个漏洞： https://bugs.chromium.org/p/project-zero/issues/detail?id=775
+[ SecurityProduct ]  Bypassing Anti-viruses w transfer Backdoor Payloads by DNS traffic : https://www.linkedin.com/pulse/bypassing-anti-viruses-transfer-backdoor-payloads-dns-mohammadbagher ,Github :… https://twitter.com/i/web/status/822742744351248384
+﻿"在 DNS 中传输后门 Payload 躲避杀软检测︰ https://t.co/lYnplOfGFM  Github： https://t.co/V1zXcZbX0v"
+[ SecurityProduct ]  avet : AntiVirus Evasion Tool : https://github.com/govolution/avet , Details : https://govolutionde.files.wordpress.com/2014/05/avevasion_pentestmag.pdf (pdf) cc @ DanielX4v3r
+﻿"avet - 杀软逃逸工具︰ https://t.co/PGwmBSLZcP   相关的技术 Paper︰ https://t.co/4MjIycXbgb "
+[ SecurityProduct ]  We would like to thank @thezdi &amp; @TrendMicro for working with us on securing TMCM from multiple RCE vulnerabilities: https://t.co/HxqdBP2kqD
+﻿"Trend Micro Control Manager (TMCM) 6.0 中存在多个漏洞︰ https://t.co/HxqdBP2kqD"
+[ SecurityProduct ]  Vulnerability in Quick Heal Antivirus which will allow remote code execution http://payatu.com/quick-heal-av-secrity-assessment/
+﻿"Quick Heal 反病毒软件自身的远程代码执行漏洞： https://t.co/FtzWK6hbuV "
+[ SecurityProduct ]  Cisco ASA: Buffer overflows in WebVPN cifs handling https://bugs.chromium.org/p/project-zero/issues/detail?id=998
+﻿"思科 ASA WebVPN cifs 存在缓冲区溢出： https://t.co/ybYkJJdhH6"
+[ SecurityProduct ]  KL-001-2017-002 : Trendmicro InterScan Privilege Escalation Vulnerability https://goo.gl/fb/tVcbtI #FullDisclosure
+﻿"Trendmicro InterScan 权限提升漏洞（CVE-2016-9315） https://t.co/zzOWPxmKsV "
+[ SecurityProduct ]  Advisory | Trend Micro InterScan Messaging Security (Virtual Appliance) Remote Code Execution https://pentest.blog/advisory-trend-micro-interscan-messaging-security-virtual-appliance-remote-code-execution/
+﻿"Trend Micro InterScan Messaging Security 远程代码执行漏洞分析: https://t.co/1M5eUy4nxg"
+[ SecurityProduct ]  Java/Python FTP Injections Allow for Firewall Bypass : http://blog.blindspotsecurity.com/2017/02/advisory-javapython-ftp-injections.html cc @ ecbftw
+﻿"基于 Java 和 Python 的 FTP 服务器在进行 URL 解析时存在协议流注入可被用于绕过防火墙限制︰ https://t.co/XLpCSY3zd0 "
+[ SecurityProduct ]  Trend Micro InterScan Messaging Security (Virtual Appliance) Remote Code Execution https://cxsecurity.com/issue/WLB-2017020253
+﻿"趋势科技 InterScan Messaging Security 远程代码执行漏洞：  https://t.co/TdrbKYqcIc"
+[ SecurityProduct ]  CVE-2016-9892 - Remote Code Execution as Root via ESET Endpoint Antivirus 6 https://goo.gl/fb/8rFncV #FullDisclosure
+﻿"ESET 终端反病毒软件存在一个 Root 远程代码执行漏洞（CVE-2016-9892）： https://t.co/gojtdnkxKe "
+[ SecurityProduct ]  Universal Unhooking: Blinding Security Software http://buff.ly/2lPJRO0 #hacking #infosec #security https://t.co/2ifczUO20Y
+﻿" 摘除 Hook（钩子） - 遮住安全软件的双眼： https://t.co/fdOQq6RtKt   https://t.co/2ifczUO20Y"
+[ SecurityProduct ]  Cisco ASA Remote Code Execution – Verifying CVE-2016-1287 https://blog.netspi.com/cisco-asa-remote-code-execution-verifying-cve-2016-1287/
+﻿"NetSPI 团队对去年 ExodusIntel 公开的思科 ASA 远程代码执行漏洞的验证（CVE-2016-1287）：  https://t.co/502JM49Tx0"
+[ SecurityProduct ]  bypassing-next-gen-av-for-fun-and-profit - oopppsssss https://lnkd.in/gBbwxgg
+﻿"以 Symantec Endpoint Protection 和 Cylance Protect 为例，绕过下一代的反病毒软件: https://t.co/tFSgaNXDqL"
+[ SecurityProduct ]  EPS文件利用如何逃逸 EMET： http://mp.weixin.qq.com/s/1KPWcJsELvtQlDSNXIilLg
+[ SecurityProduct ]  Splunk Enterprise Information Theft - CVE-2017-5607 https://goo.gl/fb/4qfPHR #FullDisclosure
+﻿" Splunk 企业版刚披露了一个信息泄漏漏洞（CVE-2017-5607）： https://t.co/qjwnxXnK4Q "
+[ SecurityProduct ]  Trend Micro Enterprise Mobile Security Android Application - MITM SSL… https://goo.gl/fb/p8De84 #FullDisclosure
+﻿"Trend Micro 企业安全安卓应用未对SSL证书进行验证，可进行中间人攻击(CVE-2016-9319)： https://t.co/UInovG4ROB "
+[ SecurityProduct ]  瑞星劫持浏览器主页分析： http://www.freebuf.com/articles/web/131156.html
+[ SecurityProduct ]  How we found 100+ RCE vulnerabilities in Trend Micro software : http://conference.hitb.org/hitbsecconf2017ams/materials/D1T1%20-%20Steven%20Seeley%20and%20Roberto%20Suggi%20Liverani%20-%20I%20Got%2099%20Trends%20and%20a%20%23%20Is%20All%20Of%20Them.pdf (pdf), Brief : http://blog.malerisch.net/2017/04/trend-micro-threat-discovery-appliance-session-generation-authentication-bypass-cve-2016-8584.html cc @ malerisch
+﻿" 在 HITB AMS 2017 会议上，独立安全研究员 malerisch 分享了他是如何在趋势科技产品中挖掘到 200 个 CVE 的： http://blog.malerisch.net/2017/04/trend-micro-threat-discovery-appliance-session-generation-authentication-bypass-cve-2016-8584.html  昨天他又写了一篇 Blog 介绍了一个新发现的趋势科技 TDA 产品 Session 生成认证机制绕过的漏洞： http://conference.hitb.org/hitbsecconf2017ams/materials/D1T1%20-%20Steven%20Seeley%20and%20Roberto%20Suggi%20Liverani%20-%20I%20Got%2099%20Trends%20and%20a%20%23%20Is%20All%20Of%20Them.pdf"
+[ SecurityProduct ]  UXSS in McAfee Endpoint Security, http://www.mcafee.com and some extra goodies... : http://blog.malerisch.net/2017/04/uxss-mcafee-endpoint-security-and-site-advisor-cve-2016-8011.html cc @ malerisch
+﻿" McAfee Endpoint Security 的 UXSS 漏洞分析： https://t.co/q4AHlaYZKi "
+[ SecurityProduct ]  Verizon 发布 2017 年的数据泄露调查报告： http://www.verizonenterprise.com/resources/reports/rp_DBIR_2017_Report_en_xg.pdf
+[ SecurityProduct ]  Exploiting Vulnerable Pandas: https://www.contextis.com/resources/blog/exploiting-vulnerable-pandas/ #Security #Infosec #Cybersecurity #Antivirus #vulnerability… https://t.co/nK5E12xZXj
+" Android 版 Pandas 反病毒软件的软件更新过程存在漏洞（使用 HTTP 下载，下载文件校验不完善）： https://www.contextis.com/resources/blog/exploiting-vulnerable-pandas/ "
+[ SecurityProduct ]  SSD Advisory – @ Bitdefender Code Signing organizationName Buffer Overflow For more details: https://blogs.securiteam.com/index.php/archives/3211 https://t.co/pXFPQBMMJn
+" Bitdefender PE 引擎在处理 PE 代码签名的 organizationName 时存在缓冲区溢出漏洞： https://blogs.securiteam.com/index.php/archives/3211 "
+[ SecurityProduct ]  Trend Micro ServerProtect Multiple Vulnerabilities by @ CoreSecurity https://www.coresecurity.com/advisories/trend-micro-serverprotect-multiple-vulnerabilities
+" Trend Micro ServerProtect 产品被发现多个漏洞： https://t.co/Anr5cIBLf2 "
+[ SecurityProduct ]  New post: Database Firewall from Scratch https://raz0r.name/talks/database-firewall-from-scratch/
+" 从零开始构建数据库防火墙： https://raz0r.name/talks/database-firewall-from-scratch/ "
+[ SecurityProduct ]  [webapps] Trend Micro Deep Security version 6.5 - XML External Entity Injection/ Remote Code Execution https://www.exploit-db.com/exploits/42089/
+"  Trend Micro Deep Security V6.5 XXE实体化注入漏洞/本地提权漏洞/远程代码执行漏洞 PoC： https://t.co/Jyv8APt0zz "
+[ SecurityProduct ]  Rapid7 的 Nexpose 扫描器 SSH 使用过期加密算法（CVE-2017-5243）： https://community.rapid7.com/community/nexpose/blog/2017/05/31/r7-2017-13-nexpose-hardware-appliance-ssh-enabled-obsolete-algorithms-cve-2017-5243
+[ SecurityProduct ]   反病毒软件 Avast Windows 版本内核驱动漏洞的 3 个 PoC： https://github.com/bee13oy/AV_Kernel_Vulns
+[ SecurityProduct ]   AV_Kernel_Vulns - 研究员 bee13oy 上周分享了几个 Avast 杀软内核的漏洞，本周又公开了几个 AVG/Ariva/K7 杀软的漏洞： https://github.com/bee13oy/AV_Kernel_Vulns
+[ SecurityProduct ]   AV-Test 对 18 款杀毒软件在 Windows 10 系统中的评测，从安全防护能力、性能、可用性三个维度： https://www.av-test.org/en/news/news-single-view/test-18-security-suites-under-windows-10/
+[ SecurityProduct ]   Bitdefender 杀软处理畸形 RAR 文件时 Crash： https://bugs.chromium.org/p/project-zero/issues/detail?id=1278&desc=6
+[ SecurityProduct ]   Avast 反病毒软件在处理文件格式 Magic Number 时的一个栈缓冲区溢出漏洞： https://landave.io/2017/06/avast-antivirus-remote-stack-buffer-overflow-with-magic-numbers/
+[ SecurityProduct ]  卡巴斯基反病毒文件服务器曝多个漏洞：CSRF到远程代码执行、本地权限提升、反射型XSS、目录遍历： https://www.exploit-db.com/exploits/42269
+[ SecurityProduct ]   安全软件 LepideAuditor Suite 的 Web RCE 漏洞： https://www.offensive-security.com/vulndev/auditing-the-auditor/
+[ SecurityProduct ]  360 Total Security 软件（360 杀软）Shcore.dll DLL 劫持提权漏洞，来自 Beyond Security SecuriTeam： https://blogs.securiteam.com/index.php/archives/3314
+[ SecurityProduct ]  我是如何利用一个假的私钥欺骗 Symantec 的： https://blog.hboeck.de/archives/888-How-I-tricked-Symantec-with-a-Fake-Private-Key.html
+[ SecurityProduct ]   F-Secure 反病毒软件在处理微软 TNEF 邮件附件格式时存在一个任意地址 Free 漏洞，该漏洞可以成功 RCE： https://landave.io/2017/08/f-secure-anti-virus-arbitrary-free-vulnerability-via-tnef/
+[ SecurityProduct ]  BitDefender 在处理 7z LZMA 格式时存在堆溢出漏洞： https://landave.io/2017/08/bitdefender-heap-buffer-overflow-via-7z-lzma
+[ SecurityProduct ]  利用 .NET CLR 和 Managed Heap 改变目标进程的内存变量，绕过 Cylance 终端安全产品的防御策略。这不是漏洞，作者仅是演示这种方法： https://www.xorrior.com/You-Have-The-Right-to-Remain-Cylance/
+[ SecurityProduct ]  Palo Alto Networks PAN-OS 存在 XXE 漏洞，可导致信息泄露、拒绝服务以及SSRF漏洞（CVE-2017-9458）： http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-9458
+[ SecurityProduct ]   McAfee LiveSafe 安全软件 16.0.3 RCE 漏洞。攻击者通过中间人劫持篡改 McAfee HTTP 更新数据包可以修改注册表，最终实现远程代码执行（CVE-2017-3898）： https://blogs.securiteam.com/index.php/archives/3248
+[ SecurityProduct ]  QuickHeal AV crashes on malicious RAR files from 2013： https://bugs.chromium.org/p/project-zero/issues/detail?id=1280&desc=2
+[ SecurityProduct ]  Insinuator 发现了 FireEye 设备的一个 Bug。当运行在 Live-Mode 模式时，恶意样本可以直接连接设备上运行的服务，比如 SSH 服务。而正常情况下这些服务只能通过管理网络接口访问： https://insinuator.net/2017/09/fireeye-security-bug-connection-to-physical-host-and-adjacent-network-possible-during-analysis-in-live-mode/
+[ SecurityProduct ]    ZDI 公开了趋势科技 Mobile Security for Enterprise 产品的 3 个漏洞，分别为 SQL 注入、文件上传、身份验证绕过（CVE-2017-14080/CVE-2017-14079/CVE-2017-14078）： http://www.zerodayinitiative.com/advisories/ZDI-17-767/   http://www.zerodayinitiative.com/advisories/ZDI-17-807/   http://www.zerodayinitiative.com/advisories/ZDI-17-810/
+[ SecurityProduct ]    Cisco ASA 防火墙安全研究报告 Part 1，来自 NCC Group：  https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/september/cisco-asa-series-part-one-intro-to-the-cisco-asa/
+[ SecurityProduct ]   趋势科技 OfficeScan 产品的 Web 管理控件存在多个漏洞。该控件由 PHP 编写，被趋势科技的多个产品使用： https://pentest.blog/one-ring-to-rule-them-all-same-rce-on-multiple-trend-micro-products/
+[ SecurityProduct ]   Cisco ASA 系列第 4 节: dlmalloc-2.8.x, libdlmalloc, & dlmalloc on Cisco ASA： https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/october/cisco-asa-series-part-four-dlmalloc-2.8.x-libdlmalloc-and-dlmalloc-on-cisco-asa/
+[ SecurityProduct ]  Trend Micro OfficeScan 远程代码执行漏洞披露： https://cxsecurity.com/issue/WLB-2017100091
+[ SecurityProduct ]  Ikraus 反病毒软件远程代码执行漏洞披露，含POC： https://blogs.securiteam.com/index.php/archives/3485
+[ SecurityProduct ]   Endian Firewall 存在存储型 XSS 漏洞，可进一步实现远程代码执行： https://blogs.securiteam.com/index.php/archives/3471
+[ SecurityProduct ]  Cisco ASA 系列第 5 部分：libptmalloc gdb 插件： ： https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/october/cisco-asa-blog-series-part-five-libptmalloc-gdb-plugin/
+[ SecurityProduct ]  K7 Total Security 设备驱动程序任意内存读取漏洞披露，含POC： https://blogs.securiteam.com/index.php/archives/3435
+[ SecurityProduct ]  Cisco ASA series part seven: Checkheaps： https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2017/october/cisco-asa-series-part-seven-checkheaps/
+[ SecurityProduct ]  利用 Vir.IT eXplorer 反病毒任意写入漏洞实现本地提权： http://www.greyhathacker.net/?p=990
+[ SecurityProduct ]  卡巴斯基实验室 2017 第三季度 DDoS 攻击报告： https://securelist.com/ddos-attacks-in-q3-2017/83041/
+[ SecurityProduct ]  IKARUS anti.virus 反病毒软件中的 9 个漏洞： http://www.greyhathacker.net/?p=995
+[ SecurityProduct ]  McAfee LiveSafe MiTM 注册表 修改导致远程执行命令漏洞（ CVE-2017-3898）： https://blogs.securiteam.com/index.php/archives/3522
+[ SecurityProduct ]  看我如何发现DenyAll WAF未授权远程RCE漏洞： http://www.freebuf.com/articles/system/153388.html
+[ SecurityProduct ]  某防火墙远程命令执行： http://bobao.360.cn/learning/detail/4709.html
+[ SecurityProduct ]  Ikraus Anti Virus 远程代码执行漏洞： https://blogs.securiteam.com/index.php/archives/3542
+[ SecurityProduct ]  FortiGate SSL VPN Portal XSS 漏洞披露： http://seclists.org/fulldisclosure/2017/Dec/14?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29
+[ SecurityProduct ]   赛门铁克签名的 symerr.exe 会通过 DLL Side-Loding 方式加载同目录下的 cclib.dll，利用这个可以实现代码执行并解决签名验证的问题：  https://twitter.com/0rbz_/status/940028712766005248
+[ SecurityProduct ]  Endian防火墙从存储型XSS到远程命令执行： https://blogs.securiteam.com/index.php/archives/3564
+[ SecurityProduct ]  Palo Alto 网络防火墙远程 root 权限代码执行漏洞（CVE-2017-15944）： http://seclists.org/fulldisclosure/2017/Dec/38
+[ SecurityProduct ]  Fortinet FortiClient 允许用户在登录界面连接 VPN， 然而对 VPN 错误证书处理不当，可导致权限提升( CVE-2017-7344): https://securite.intrinsec.com/2017/12/22/cve-2017-7344-fortinet-forticlient-windows-privilege-escalation-at-logon/
+[ SecurityProduct ]   趋势科技 Smart Protection Server 多个漏洞披露（ CVE-2017-11398, CVE-2017-14094, CVE-2017-14095, CVE-2017-14096, CVE-2017-14097）： https://www.coresecurity.com/advisories/trend-micro-smart-protection-server-multiple-vulnerabilities
+[ SecurityProduct ]  Trustwave SWG 未授权访问漏洞披露： https://blogs.securiteam.com/index.php/archives/3550
+[ SecurityProduct ]  金山杀软 kavfm.sys/KWatch3.sys 驱动在处理 IOCTL 0x80030004 时存在本地提权漏洞： https://blogs.securiteam.com/index.php/archives/3597
+[ SecurityProduct ]   All Your Docs Are Belong To Us - 逆向 Kaspersky 杀软引擎，自己添加一个新 Signature:  https://objective-see.com/blog/blog_0x22.html
+[ SecurityProduct ]  Fortinet FortiClient的Windows系统提权登录漏洞（附PoC）： http://www.freebuf.com/articles/terminal/158417.html
+[ SecurityProduct ]   SonicWall SonicOS NSA UTM 防火墙过滤器绕过并持久化： http://seclists.org/fulldisclosure/2018/Jan/9?utm_source=feedburner&;utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29
+[ SecurityProduct ]  OpenRASP技术分析： http://blog.nsfocus.net/openrasp-tech/
+[ SecurityProduct ]  赤手空拳缴械杀毒软件，SilentSignal 团队发现利用 COM 劫持等技术可以直接禁用/攻击多款杀毒软件： https://blog.silentsignal.eu/2018/01/08/bare-knuckled-antivirus-breaking/  Paper： https://blog.silentsignal.eu/wp-content/uploads/2018/01/S2_BareKnuckledAVBreaking_180108.pdf
+[ SecurityProduct ]  Sophos XG 防火墙从 XSS 到 ROOT 提权： https://blogs.securiteam.com/index.php/archives/3612
+[ SecurityProduct ]   Cisco ASA 远程代码执行与拒绝服务漏洞披露（CVE-2018-0101）： https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180129-asa1
+[ SecurityProduct ]   利用 SeTakeOwnershipPrivilege 攻击 System Shield 反病毒软件内核驱动 amp.sys 的任意地址写漏洞（CVE-2018-5701）： http://www.greyhathacker.net/?p=1006
+[ SecurityProduct ]  终端检测与防护产品收集列表： http://www.hexacorn.com/blog/2018/02/04/endpoint-detection-and-response-edr-solutions-sheet-update/
+[ SecurityProduct ]   Cisco ASA 和下一代防火墙产品远程代码执行漏洞技术细节（CVE-2018-0101）： https://blogs.cisco.com/security/cve-2018-0101https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180129-asa1
+[ SecurityProduct ]   Cisco ASA Anyconnect 漏洞挖掘（CVE-2018-0101），来自 reconbrx  大会： https://twitter.com/saidelike/status/960523060016238599
+[ SecurityProduct ]  Trend Micro 电子邮件加密网关多个漏洞披露： https://www.coresecurity.com/advisories/trend-micro-email-encryption-gateway-multiple-vulnerabilities
+[ SecurityProduct ]  终端检测与防护产品收集列表更新： http://www.hexacorn.com/blog/2018/02/25/endpoint-detection-and-response-edr-solutions-sheet-update-2/
+[ SecurityProduct ]  The Return of Robin Hood vs Cisco ASA，来自 OffensiveCon 2018 ： https://twitter.com/i/web/status/968921372041908224
+[ SecurityProduct ]  CVE-2017-15944 PALO ALTO 防火墙远程代码执行构造EXP： https://paper.seebug.org/540/
+[ SecurityProduct ]  CVE-2018-0101 Cisco ASA 拒绝服务&远程代码执行漏洞分析： https://www.anquanke.com/post/id/101446
+[ SecurityProduct ]  ModSecurity WAF 3.0 for Nginx - 拒绝服务漏洞详情披露： http://seclists.org/fulldisclosure/2018/Mar/49
+[ SecurityProduct ]  使用 Windows Defender ATP 对 Dofoil 威胁进行分析与追查: https://cloudblogs.microsoft.com/microsoftsecure/2018/04/04/hunting-down-dofoil-with-windows-defender-atp/
+[ SecurityProduct ]  WatchGuard AP100 AP102 AP200 中多个问题导致远程代码执行（CVE-2018-10575、CVE-2018-10576、CVE-2018-10577、CVE-2018-10578）： http://seclists.org/fulldisclosure/2018/May/12

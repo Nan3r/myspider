@@ -1,0 +1,261 @@
+[ ReverseEngineering ]  Reverse Engineering for Malware Analysis - cheat sheet wallpaper : http://r00ted.com/cheat%20sheet%20reverse%20v5.png cc: @ r00tbsd
+﻿"逆向工程师的桌面壁纸 - 包括一些常用的 IDA 命令、寄存器说明、Windbg 命令、常用汇编指令等等，一张图片：  https://t.co/vTzegAbOYf cc: @r00tbsd"
+[ ReverseEngineering ]  Just released the source code of WWCD - What Would Capstone Decode IDA plugin https://github.com/sektioneins/WWCD for demo see: http://youtu.be/GooE05QnuY0
+﻿"WWCD - IDA 插件，提供 Capstone 反汇编支持 https://t.co/zf4aH1bpgp: https://t.co/jF4m2RkH9w"
+[ ReverseEngineering ]  The ultimate collection of "How to Reverse Malware" -> Add your input https://www.peerlyst.com/blog-post/resource-learning-how-to-reverse-malware-a-guide?utm_source=Peerlyst%20Post%20Promo&utm_medium=social&utm_content=PeerlystPost&utm_campaign=Peerlyst%20Twitter1
+﻿"恶意软件逆向方面的一些资料收集，包括一些教程、工具和样本： https://t.co/zwkAPXQPJA"
+[ ReverseEngineering ]  Enoki - Wrapper class for IDAPython. Regroups various useful functions for reverse engineering of binaries. https://github.com/InfectedPacket/Idacraft
+﻿"Enoki - IDAPython 的封装类库，在 IDAPython 的基础上为逆向提供了一些有用的工具函数： https://t.co/LDChOceRjI"
+[ ReverseEngineering ]  Continuing this popular series with Part 5: How to use IDAPython to make your life easier http://bit.ly/1n1R7pN @ Unit42_Intel @ jgrunzweig
+﻿"IDAPython 让你的生活更轻松 Part 5： https://t.co/RrtM2t6cne "
+[ ReverseEngineering ]  #Course materials for #Malware #Analysis by RPISEC https://github.com/RPISEC/Malware
+﻿"来自 RPISEC 的恶意软件分析系列教程： https://t.co/4GyG8ocfCS "
+[ ReverseEngineering ]  Malware Analysis Tutorials : A Reverse Engineering Approach : http://fumalwareanalysis.blogspot.in/p/malware-analysis-tutorials-reverse.html?m=1
+﻿"恶意软件分析教程(逆向)，共有 34 章，来自 Dr.Fu 的 Blog: https://t.co/cHvA3yS1xg"
+[ ReverseEngineering ]  List of Free Reverse Engineering Tools : https://wiremask.eu/articles/free-reverse-engineering-tools/
+﻿"免费逆向工具列表: https://t.co/Kn1NIVXDpm"
+[ ReverseEngineering ]  #CodeXplorer updated with pull request by @ noobdoesre https://github.com/REhints/HexRaysCodeXplorer/pull/20 Fixed type RE crash on v6.9 https://github.com/REhints/HexRaysCodeXplorer #REhints
+﻿"IDA 代码导航插件 CodeXplorer 更新修复了在 IDA v6.9 版本类型重建 Crash 的问题： https://t.co/4kttK5IGvF  "
+[ ReverseEngineering ]  [Blog] Swift Reverse Engineering | Digging into Objects - http://rotlogix.com/2016/01/25/digging-into-swift-objects/ #mobile #iOS
+﻿"Swift 语言逆向 - 深挖对象，来自 RotLogix Blog： https://t.co/pXKP0DZ7i3"
+[ ReverseEngineering ]  Reverse Engineering Online Games - Dragomon Hunter http://0xbaadf00dsec.blogspot.in/2016/01/reverse-engineering-online-games.html?m=1
+﻿"逆向在线游戏猎龙人（Dragomon Hunter）： https://t.co/RmiiFAJGDQ"
+[ ReverseEngineering ]  On the x86 Representation of Object Oriented Programming Concepts for Reverse Engineers : https://www.sans.org/reading-room/whitepapers/malicious/x86-representation-object-oriented-programming-concepts-reverse-engineers-36457 (pdf)
+﻿"C++ 面向对象的一些概念在 x86 层面的呈现， Sans Paper: https://t.co/WnlCuNaByt "
+[ ReverseEngineering ]  Finally, #miasm has a doc/blog: http://miasm.re !
+﻿"GreHack 2015 一道逆向题的 Writeup: https://t.co/f2xd4P5GvS!"
+[ ReverseEngineering ]  Reversing C++ : https://www.blackhat.com/presentations/bh-dc-07/Sabanal_Yason/Paper/bh-dc-07-Sabanal_Yason-WP.pdf (pdf)
+﻿"C++ 逆向， 来自 Sabanal 和 Yason 在 07 年 BlackHat 会议的演讲: https://t.co/6dy6MPR7PH "
+[ ReverseEngineering ]  Introduction to video reverse engineering : https://fosdem.org/2016/schedule/event/video_reverse_eng/attachments/slides/1129/export/events/attachments/video_reverse_eng/slides/1129/17_vittorio.pdf (Slides)
+﻿"视频逆向技术介绍， PDF: https://t.co/aL4xVvIeUG "
+[ ReverseEngineering ]  Reverse engineering the ARM1 : http://www.righto.com/2015/12/reverse-engineering-arm1-ancestor-of.html, ARM1 processor's flags, reverse engineered : http://www.righto.com/2016/02/the-arm1-processors-flags-reverse.html
+﻿"逆向 ARM1 - iPhone 的始祖: https://t.co/PR70r0QrvJ  逆向ARM1 处理器标志位: https://t.co/o4wsuUvEC5"
+[ ReverseEngineering ]  Reverse engineering ARM1 instruction sequencing, compared with the Z-80 and 6502 http://www.righto.com/2016/02/reverse-engineering-arm1-instruction.html
+﻿"逆向 ARM1 指令序列， 与 Z-80 和 6502 比较： https://t.co/25PAcctPGU"
+[ ReverseEngineering ]  Reverse engineering the wheel of fortune NES game http://buff.ly/1Wrynva https://t.co/mxt43FtS4b
+﻿"逆向财富之轮游戏： https://t.co/chrLVbT7Xs https://t.co/mxt43FtS4b"
+[ ReverseEngineering ]  Wrote a brief post on binary diffing with Kam1n0 for @ WhitehattersA https://www.whitehatters.academy/diffing-with-kam1n0/
+﻿"Binary diffing with kam1n0 (Windows 平台): https://t.co/BlmgE9lXK4 "
+[ ReverseEngineering ]  Reversing the Nintendo 64 Copy Protection Chip https://www.youtube.com/watch?v=HwEdqAb2l50
+﻿"逆向任天堂 64 的复制保护芯片(Youtube 视频, RECon 2015): https://t.co/YRJgS1pnmw"
+[ ReverseEngineering ]  FLOSS - uses static analysis techniques to automatically deobfuscate strings from malware bin. Based on vivisect https://github.com/fireeye/flare-floss
+﻿"Floss - 用静态分析技术自动化地反混淆恶意代码字符串的工具， 来自 FireEye Labs 的工具， Github Repo：  https://t.co/pEPVEDK2xO"
+[ ReverseEngineering ]  BinNavi's BinExport plugin is now open source: https://github.com/google/binexport
+﻿"二进制可视化导航工具 BinNavi 的插件 BinExport 开源了, 这个插件用于将汇编信息导出到 BinNavi 的数据库中, Github Repo : https://t.co/y9iImkc8TK"
+[ ReverseEngineering ]  Decoding syscalls in ARM64 - http://arm.ninja/2016/03/07/decoding-syscalls-in-arm64/
+﻿" ARM64 Syscall 分析(ARMv8-a 架构的安全模型), Blog: https://t.co/dzqEJzT8hJ"
+[ ReverseEngineering ]  Codemap is a binary analysis tool for "run-trace visualization" provided as IDA plugin. https://github.com/c0demap/codemap
+﻿"Codemap - 二进制 Trace 可视化分析工具，现在是以 IDA 插件形式提供， Github Repo： https://t.co/3Kmrd8VTSZ  官方网站： http://codemap.kr/ "
+[ ReverseEngineering ]  Recovering BitLocker keys on Windows 8.1 and 10 (+ bonus @ volatility plugin which might work... Still a WiP) #dfir https://tribalchicken.com.au/technical/recovering-bitlocker-keys-on-windows-8-1-and-10/
+﻿"在 Windows 8.1 和 10 上还原 BitLocker 的加密密钥：   https://t.co/Q0iNNhGuGW"
+[ ReverseEngineering ]  Detours, Trampolines, and Code Caves http://www.gironsec.com/blog/2016/03/detours-trampolines-and-code-caves/
+﻿"Detours, Trampolines, and Code Caves: https://t.co/DmMnhkhzKA"
+[ ReverseEngineering ]  BSides Orlando CTF Exploit Dance Challenge - http://tylerhalfpop.com/2016/03/12/blog-BSidesOrlando-CTF-Exploit-Dance.html by @ tylerhalfpop
+﻿"BSides Orlando 会议 CTF 逆向题 Writeup: https://t.co/07qvMv20ts"
+[ ReverseEngineering ]  Reverse-Engineering of the Cryptanalytic Attack Used in the Flame Malware - http://eprint.iacr.org/2016/298
+﻿"Flame 攻击中，攻击者利用伪造的微软签名信息实现了中间人劫持 Windows Update，这篇 Paper 通过逆向的方法，从密码学角度分析其中 Hash 碰撞的细节：  https://t.co/1z1M0uGSpZ"
+[ ReverseEngineering ]  Reverse Engineering An Obsolete Security System - http://bit.ly/1Ovnrv0 https://t.co/61VnnFoGSv
+﻿"用 RTL-SDR 逆向 Vintage 无线键盘: http://fatsquirrel.org/oldfartsalmanac/random/reverse-engineering-a-vintage-wireless-keypad-with-an-rtl-sdr/ "
+[ ReverseEngineering ]  Reverse engineering the popular 555 timer chip (CMOS version) http://www.righto.com/2016/04/teardown-of-cmos-555-timer-chip-how.html
+﻿"LMC555 定时器芯片逆向 （CMOS 版本）：  https://t.co/YtlXdoauEN"
+[ ReverseEngineering ]  Reverse Engineering Malware (Part 1) : https://www.exploit-db.com/docs/18810.pdf (pdf)
+﻿"恶意软件逆向 (Part 1)，作者为 Arunpreet Singh: https://t.co/t8ZL55OuVp "
+[ ReverseEngineering ]  Reverse engineering Blizzard's Warden : https://hackmag.com/uncategorized/deceiving-blizzard-warden/
+﻿"逆向暴雪的游戏反作弊工具 Warden ︰ https://t.co/iZjPaWjAsy"
+[ ReverseEngineering ]  Important Code Constructs in Assembly Language-Part 1 http://resources.infosecinstitute.com/important-code-constructs-in-assembly-language-part-1/
+﻿"恶意软件逆向分析系列文章 - 在汇编语言中识别重要的代码结构（循环、Switch、变量作用域）， 来自 InfoSec Blog： https://t.co/X4SY1QTa4i "
+[ ReverseEngineering ]  Reverse of a Mifair Laundry card system (github) https://github.com/LesMargoulins/Margoulineur2000
+﻿"洗衣机卡余额查询设备逆向（Margoulineur2000）， Github Repo： https://t.co/GgJYQwTaMC"
+[ ReverseEngineering ]  The Art of Unpacking : https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf (pdf) #b2b
+﻿"脱壳的艺术， 来自 BlackHat USA 2007 会议的演讲 ︰ https://t.co/RpTt3KUHIK  "
+[ ReverseEngineering ]  Rockey 4 USB dongle: Unknown algo deduction using black-box input/output pairs & Z3 SMT solver http://blog.yurichev.com/node/71 cc: @ RolfRolles @ seanhn
+﻿"Rockey 4 USB 加密狗 ︰ 仅依赖输入输出组合和 Z3 SMT 求解器，推倒未知算法：  http://t.co/1J0ttjJ3  "
+[ ReverseEngineering ]  Swift Reversing : http://infiltratecon.com/archives/swift_Ryan_Stortz.pdf (Slides)
+﻿"Swift 语言逆向， 来自 Infiltrate 2016 会议 ︰ https://t.co/pIP2hOxgMc  "
+[ ReverseEngineering ]  X64 Deep Dive : http://www.codemachine.com/article_x64deepdive.html
+﻿"X64 Deep Dive - 来自 Code Machine 的文章，介绍 x64 代码执行的一些关键点：编译器优化、异常处理、参数传递和获取︰ https://t.co/he8zqrAZJZ"
+[ ReverseEngineering ]  Reversing a Finite Field Multiplication Optimization http://blog.quarkslab.com/reversing-a-finite-field-multiplication-optimization.html
+﻿"逆向有限域乘法优化： https://t.co/d0A04zc0IL"
+[ ReverseEngineering ]  Reversing the Pepakura File Format https://github.com/daeken/PepakuraReverse
+﻿"逆向 Pepakura 3 文件格式， Pepakura 是个将 3D 模型转换成可打印文本的工具： https://t.co/94GrfnyIDx"
+[ ReverseEngineering ]  Slides: "Python Arsenal for Reverse Engineering" http://dsec.ru/upload/medialibrary/7d5/7d5e8a49b25b285b37800480a41583f8.pdf
+﻿"逆向工程 Python 兵器库： https://t.co/ReGPRJyeqa"
+[ ReverseEngineering ]  Pyflirt is a nice tool using Capstone & FLIRT signatures to detect lib functions in OllyDbg: https://github.com/mokhdzanifaeq/pyflirt https://t.co/tWUOBZl15I
+﻿"Pyflirt - 基于 Capstone 引擎和 FLIRT 规则，识别 Ollydbg 中的库函数调用 ︰ https://t.co/nxhoNFmn1y https://t.co/tWUOBZl15I"
+[ ReverseEngineering ]  Reversing the petya ransomware with constraint solvers : http://0xec.blogspot.in/2016/04/reversing-petya-ransomware-with.html https://t.co/zoYm3HImsl
+﻿"用约束求解器逆向 Petya 勒索软件 ︰ https://t.co/DD06EybFDz https://t.co/zoYm3HImsl"
+[ ReverseEngineering ]  Solving kao's toy project with symbolic execution and angr http://0xec.blogspot.com.by/2016/04/solving-kaos-toy-project-with-symbolic.html
+﻿"用符号执行方法以及 angr 框架破解 Kao Toy CrackMe： https://t.co/XVnfOQcicC "
+[ ReverseEngineering ]  Defusing a binary bomb with gdb (Part 4) : http://blog.carlosgaldino.com/2016/04/25/defusing-a-binary-bomb-with-gdb-part-4.html , Part 3 : http://blog.carlosgaldino.com/2015/12/03/defusing-a-binary-bomb-with-gdb-part-3.html, Part 2 : http://blog.carlosgaldino.com/2015/11/19/defusing-a-binary-bomb-with-gdb-part-2.html
+﻿"GDB 逆向一个 ELF 二进制文件 Part 4: https://t.co/PxLPwJODX6  Part 3 : https://t.co/4FJtujxbL3, Part 2 : https://t.co/DLZYp5HA8L   Part 1： http://blog.carlosgaldino.com/2015/11/12/defusing-a-binary-bomb-with-gdb-part-1.html "
+[ ReverseEngineering ]  Deobfuscating #Python Bytecode http://bddy.me/1W4vV0K #malware https://t.co/kckZpgyWM8
+﻿" Python 字节码反混淆， FireEye 最近发现了一种新的混淆样本，通过在字节码级别混淆 py2exe 生成的字节码，防止反编译回 py 脚本： https://t.co/uSoInc4oQi  https://t.co/kckZpgyWM8"
+[ ReverseEngineering ]  Panopticon - A libre, cross platform disassembler for reverse engineering https://panopticon.re/
+﻿"Panopticon - 一个开源的跨平台反汇编工具，可以展示控制流图（CFG）： https://t.co/m3AFhCKVa9"
+[ ReverseEngineering ]  #IDAPRO flirt signatures http://woodmann.com/collaborative/tools/index.php/Category:IDA_FLIRT_Signatures
+﻿" IDA PRO 的一些 Flirt Signature 下载： https://t.co/6vviXL4QEa"
+[ ReverseEngineering ]  Introduction to x64 Assembly : https://software.intel.com/sites/default/files/m/d/4/1/d/8/Introduction_to_x64_Assembly.pdf (pdf)
+﻿"x64 汇编介绍，来自 Intel 的文档︰ https://t.co/FviaDVU1NV "
+[ ReverseEngineering ]  Reverse Engineering a fitness tracker to control a drone on a NASA hackathon : https://medium.com/@ dimitrovskif/how-a-team-of-high-schoolers-reverse-engineered-a-fitness-trackers-to-control-a-drone-on-a-nasa-d8aad8532dde#.g2z66aykt https://t.co/qYNMrcN8Tb
+﻿" 一个高中生团队是如何通过逆向一个手环控制一部无人机的，来自 NASA 黑客马拉松活动 ︰ https://t.co/2rV9x6PLgp https://t.co/qYNMrcN8Tb"
+[ ReverseEngineering ]  Reversing C++ (Part 1) – Function Overloading and Function Templates : http://www.cybersmash.io/reversing-c-pt-1-function-overloading-and-function-templates/
+﻿" C++ 逆向 Part 1 — 函数重载与函数模板︰ https://t.co/kHmYG07faW"
+[ ReverseEngineering ]  Practical Reverse Engineering (Part 3) - Following the Data : http://jcjc-dev.com/2016/05/23/reversing-huawei-3-sniffing/ ,Part 2 : http://jcjc-dev.com/2016/04/29/reversing-huawei-router-2-scouting-firmware/
+﻿" 前段时间推送过两篇文章：《逆向华为路由器，寻找 HG533 路由器的调试端口》和《固件数据收集》，昨天作者又写了第三篇 : https://t.co/TqaVRfEW7b  "
+[ ReverseEngineering ]  Reversing C++ (Part. 2) – Switch Statement : http://www.cybersmash.io/reversing-c-pt-2-switch-statement/ , Function Overloading and Function Templates : http://www.cybersmash.io/reversing-c-pt-1-function-overloading-and-function-templates/
+﻿" 逆向 C++，Part 2 – Switch 表达式: https://t.co/UCVoUK1KaD  前两天推送过的 Part 1 : https://t.co/kHmYG07faW"
+[ ReverseEngineering ]  Good morning. I've fixed the IDA Pro console for everyone. Have a look: https://github.com/eset/ipyida https://t.co/Y7snSUQyG4
+﻿" 在 IDA Pro 上下文环境使用 IPython Console︰ https://t.co/wHtrETqESS https://t.co/Y7snSUQyG4"
+[ ReverseEngineering ]  Reversing C++ (Pt. 3) – Objects: The Basics : http://cybersmash.io/reversing-c-pt-3-objects-the-basics/ , Pt 2 : http://cybersmash.io/reversing-c-pt-2-switch-statement/ ,Pt 1 : http://cybersmash.io/reversing-c-pt-1-function-overloading-and-function-templates/
+﻿" C++ 逆向 Part 3 – 对象 : https://t.co/eovDEkssZo  Part 2 -  switch 表达式 : https://t.co/OXMVfub03D  Part 1 - 函数重载和函数模板: https://t.co/MEoJnE9jVE"
+[ ReverseEngineering ]  awesome reversing resources by @ 0xtyh https://github.com/0xtyh/awesome-reversing
+﻿" 逆向相关的资料收集整理： https://t.co/MU97yC7mGj"
+[ ReverseEngineering ]  Using IDAPython to Make Your Life Easier: Part 6 http://researchcenter.paloaltonetworks.com/2016/06/unit42-using-idapython-to-make-your-life-easier-part-6/
+﻿" IDAPython 让你的生活更轻松 Part 6，来自 Palo Alto Blog： https://t.co/bXIDuJjtwn  Part 5： http://researchcenter.paloaltonetworks.com/2016/01/using-idapython-to-make-your-life-easier-part-5/  "
+[ ReverseEngineering ]  Extracting the master key from an iClass RFID reader by @ kchungco – PANDA makes a cameo appearance! https://blog.kchung.co/reverse-engineering-hid-iclass-master-keys/
+﻿" 从 iClass RFID 阅读器中提取 Master Key： https://t.co/9z2LobroAE"
+[ ReverseEngineering ]  another hexagon/qdsp6 IDA processor module https://github.com/ANSSI-FR/nogaxeh by ANSSI, nice!
+﻿" nogaxeh - 用于分析高通 Hexagon 处理器架构指令的 IDA 模块： https://t.co/sm6pwIhojY  "
+[ ReverseEngineering ]  I just published “Researching protection and recovering Namco System ES1 arcades” https://medium.com/p/researching-protection-and-recovering-namco-system-es1-arcades-1f8423fdeb3b
+﻿" Namco System ES1 游戏系统的防护和还原机制研究： https://t.co/84RX9Uv5WU"
+[ ReverseEngineering ]  dynStruct - tool for structure recovering and memory usage analysis based on DynamoRIO. Use capstone https://github.com/ampotos/dynStruct
+﻿"dynStruct - 基于 DynamoRIO，可以还原数据结构、分析内存使用情况的工具： https://t.co/e8CAOLhCKJ"
+[ ReverseEngineering ]  awesome-reversing A curated list of #awesome #reversing resources Author: @ tylerhalfpop https://github.com/tylerhalfpop/awesome-reversing
+﻿" Awesome Reversing Resources，逆向方向的学习资料： https://t.co/dLm7G75U9y"
+[ ReverseEngineering ]  Reverse Engineering a Malicious MS Word Document https://sites.utexas.edu/iso/2016/07/08/reverse-engineering-a-malicious-ms-word-document/
+﻿" 一个恶意的 MS Office 样本的逆向分析： https://sites.utexas.edu/iso/2016/07/08/reverse-engineering-a-malicious-ms-word-document/ "
+[ ReverseEngineering ]  Reverse Engineering : Pokemon GO : https://www.fknsrs.biz/blog/reverse-engineering-pokemon-go.html
+﻿"逆向 Pokemon GO︰ https://t.co/AdquuTccbb"
+[ ReverseEngineering ]  MITM Attack — Reverse Engineering an Encrypted Service : http://www.theodo.fr/blog/2016/07/mitm-attack-reverse-engineering-an-encrypted-service/ https://t.co/GtpybZNdLd
+﻿" Silaexpert 加密服务的逆向︰ https://t.co/sI33XKR030 "
+[ ReverseEngineering ]  Latest PPT for the art of reverse engineering Flash exploits - https://www.dropbox.com/s/7aomaul20nfckgn/us-16-Oh-The-Art-of-Reverse-Engineering-Flash-Exploits.pdf?dl=0 Full Paper: https://www.dropbox.com/s/zydd5q474e9usbf/us-16-Oh-The-Art-of-Reverse-Engineering-Flash-Exploits-wp.pdf?dl=0
+﻿" Flash Exploits 逆向的艺术，来自 BlackHat 2016 会议，PPT： https://t.co/BCJ20MlkRn  Paper︰ https://t.co/KogXNzEa8T"
+[ ReverseEngineering ]  Ha! Of course there is already a decoder plugin and it’s more complete than mine! … FML https://github.com/tandasat/WinIoCtlDecoder/blob/master/plugins/WinIoCtlDecoder.py Kudos to @ standa_t
+﻿" IDA Pro ioctl code 解码器插件： https://t.co/DT6un2QrP6 "
+[ ReverseEngineering ]  SkidSuite2 - A set of projects focusing on java reverse engineering using ASM. CC: @ timstrazz @ caleb_fenton https://github.com/LPK-Matt/SkidSuite2
+﻿"SkidSuite2 - 关于 Java 逆向的几个小项目，GitHub Repo： https://t.co/37S2DKOBGk"
+[ ReverseEngineering ]  #KCON 2016 Reverse Engineering Trilogy by 刘凯仁 @ kaijern https://github.com/knownsec/KCon/raw/master/2016/%5BKCon%202016%5D0827_5_%E5%88%98%E5%87%AF%E4%BB%81_Reverse%20Engineering%20Trilogy.pdf
+﻿" 逆向的三大工具：Unicorn、Capstone、Keystone，来自 KCon 2016 会议： https://t.co/CYvM21IfIW "
+[ ReverseEngineering ]  #KCON 2016 VMProtect 的一次奇妙之旅 by 何潇潇 https://github.com/knownsec/KCon/raw/master/2016/%5BKCon%202016%5D0827_6_%E4%BD%95%E6%BD%87%E6%BD%87_VMProtect%20%E7%9A%84%E4%B8%80%E6%AC%A1%E5%A5%87%E5%A6%99%E4%B9%8B%E6%97%85.pdf
+﻿" VMProtect 的一次奇妙之旅，来自 KCon 2016 会议： https://t.co/zp89gFOQ0y"
+[ ReverseEngineering ]  Practical Firmware Reversing and Exploit Development for AVR-based Embedded Devices http://rada.re/get/avrworkshops2016.pdf #r2con
+﻿" 基于 AVR 的嵌入式设备的固件逆向和 Exploit 开发， AVR 是一种基于改进的哈佛结构的精简指令集微控制器 https://t.co/oXdbbnXfcj "
+[ ReverseEngineering ]  How to Reverse-Engineer PS Vita — 173210's Blog https://173210.github.io/psp2
+﻿" 如何逆向索尼 PS Vita： https://t.co/OJfVeS2DD8"
+[ ReverseEngineering ]  Reversing GO binaries like a pro (in IDA Pro) http://rednaga.io/2016/09/21/reversing_go_binaries_like_a_pro/ w/ code release https://github.com/strazzere/golang_loader_assist/
+﻿" 在 IDA 中逆向 Go 二进制程序： https://t.co/f17RtlJCIH   GitHub Repo： https://t.co/UCW5H1HYdi"
+[ ReverseEngineering ]  逆向工厂（二）：静态分析技术 ： http://www.freebuf.com/articles/system/114904.html
+[ ReverseEngineering ]  Here's an IDA script I wrote to help with iBoot64 RE; it goes well with @xerub's img4 &amp; the i5s keys he released ;) https://t.co/ugXjiOPvtw
+﻿" iBoot64helper - 辅助逆向 iBoot64 的 IDA 脚本： https://t.co/ugXjiOPvtw "
+[ ReverseEngineering ]  bypassing the (not so) Secure Boot to dump the BootROM (Amlogic S905 SoC) : http://www.fredericb.info/2016/10/amlogic-s905-soc-bypassing-not-so.html
+﻿"Bypass Amlogic S905 SoC 的安全启动保护，Dump BootROM: https://t.co/cG0Ots9RAE"
+[ ReverseEngineering ]  x64dbgbinja - Official x64dbg plugin for Binary Ninja. https://github.com/mrexodia/x64dbgbinja #x64dbg #infosec
+﻿"x64dbg 官方为二进制逆向分析工具 Binary Ninja 提供了插件支持: https://github.com/x64dbg/x64dbgbinja"
+[ ReverseEngineering ]  Rewrote my Windows driver IDA plugin, some super hacky bits but more functionality and cleaner code ^^… https://t.co/m3EcB0Jxjp
+﻿"作者写了一个 IDA Pro 的插件，用于辅助逆向 Windows 驱动及其 IOCTL: https://github.com/sam-b/win_driver_plugin "
+[ ReverseEngineering ]  New blog post: "Leaking EPROCESS address of the specific SYSTEM processes" http://blog.rewolf.pl/blog/?p=1683
+﻿"泄漏特殊系统进程的EPROCESS结构地址： https://t.co/bhWpFRMDtl"
+[ ReverseEngineering ]  Anti reverse engineering. Malware vs Antivirus Software https://www.pelock.com/articles/anti-reverse-engineering-malware-vs-antivirus-software
+﻿"反病毒分析技术的方法解析与对抗： https://t.co/vPqm2TufCj"
+[ ReverseEngineering ]  An analysis walkthrough for the latest macros used by #HANCITOR #malware to load shellcode directly into memory: https://t.co/1ahBGSFjZW
+﻿"Analysing the Hancitor Maldoc︰ https://t.co/1ahBGSFjZW"
+[ ReverseEngineering ]  Reversing for Newbies ( Series 1-40) : https://tuts4you.com/download.php?list.17
+﻿"逆向新手教程︰ https://t.co/MgThN4N0ev"
+[ ReverseEngineering ]  Beginners Guide to Reverse Engineering Android Apps : https://www.rsaconference.com/writable/presentations/file_upload/stu-w02b-beginners-guide-to-reverse-engineering-android-apps.pdf (pdf) cc @ pof //Year* - 2014
+﻿"初学者指南之逆向 Android 应用程序︰ https://t.co/sxDWCyaeGm "
+[ ReverseEngineering ]  ARM Reverse Engineering Exercises : https://github.com/rotlogix/arm_reverse_engineering_exercises/blob/master/README.md cc @ rotlogix
+﻿"ARM 逆向工程训练实例︰ https://t.co/Cb3wgXQZng "
+[ ReverseEngineering ]  Awesome presentation @ derrekr6 @ naehrwert @ NedWilliamson! :) Putting up my old wiiu notes https://github.com/plutooo/wiiu
+﻿"任天堂 Wii U 逆向纪要： https://t.co/ppto875Fc7"
+[ ReverseEngineering ]  Sublime Text 3 3114 编辑器的逆向破解过程：http://blog.fernandodominguez.me/cracking-sublime-text-3/
+[ ReverseEngineering ]  List of reverse engineering resources https://github.com/tylerhalfpop/awesome-reversing #reverseengineering https://t.co/cIRJUGp7EZ
+﻿"逆向工程资源集： https://t.co/61go16FfGH "
+[ ReverseEngineering ]  List of reverse engineering resources https://github.com/wtsxDev/reverse-engineering #reverseengineering https://t.co/1oFlgubrC0
+﻿"逆向工程学习资源集： https://t.co/XFQg9YzK04 "
+[ ReverseEngineering ]  Reverse Engineering 101 - RE For Beginners : https://0x00sec.org/t/reverse-engineering-101/1233
+﻿"逆向工程 101 系列 - 第一弹︰ https://t.co/YKehiiJ6iY"
+[ ReverseEngineering ]  Reverse-engineering WatchGuard Mobile VPN : https://www.tazj.in/en/1486830338 , watchblob : https://github.com/tazjin/watchblob cc @ tazjin
+﻿"逆向 WatchGuard Mobile VPN: https://t.co/zXcoWZqp3l、 watchblob: https://t.co/nfHydO69JF "
+[ ReverseEngineering ]  Reverse engineering a hypocritical private API! https://github.com/casperreverser/CasperReverse/blob/master/writeup.md
+﻿"Casper API 逆向分析报告： https://t.co/MPlWrlgomw"
+[ ReverseEngineering ]  Devirtualizing C++ with Binary Ninja: https://blog.trailofbits.com/2017/02/13/devirtualizing-c-with-binary-ninja/
+﻿"利用 Binary Ninja 逆向框架实现对 C++ 虚函数的定位和导航︰ https://t.co/4eAB6tYJ90"
+[ ReverseEngineering ]  IDA Pro Malware Analysis Tips : https://vimeo.com/203657826
+﻿"在利用 IDA Pro 分析恶意软件时的一些建议（视频）︰ https://t.co/CrJ245o7oL"
+[ ReverseEngineering ]  BlackHat 专题：Flash漏洞利用样本逆向分析艺术（来自 Seebug 的译文）： http://paper.seebug.org/224/#0-tsina-1-97355-397232819ff9a47a7b7e80a40613cfe1
+[ ReverseEngineering ]  Finding The Lost Vikings – Reversing a Virtual Machine https://ryiron.wordpress.com/2017/02/01/finding-the-lost-vikings-reversing-a-virtual-machine/
+﻿"逆向 Vikings（维京传奇）游戏的虚拟机： https://ryiron.wordpress.com/2017/02/01/finding-the-lost-vikings-reversing-a-virtual-machine/  "
+[ ReverseEngineering ]  .NET Reverse Enginering - Part 1 : http://codepool.me/NET-Reverse-Enginering-Part-1/
+﻿".NET 程序的逆向 Part 1︰ https://t.co/OYfHD0N5xT"
+[ ReverseEngineering ]  .NET逆向工程 （一） ： http://www.4hou.com/technology/3641.html
+[ ReverseEngineering ]  免杀艺术 1: 史上最全的免杀方法汇总： http://www.4hou.com/technology/3853.html
+[ ReverseEngineering ]  I added a video to a @ YouTube playlist http://youtu.be/gZN2damgYHg?a How To Call Game Functions C++ x64dbg Hacking Tutorial #2
+﻿"如何利用 Cheat Engine、x64dbg、IDA Pro 等逆向工具 Hacking Assault Cube 游戏（video）： https://t.co/8ghHcHZEWi "
+[ ReverseEngineering ]  Finally my Reverse Engineering Malware 101 workshop content for the @ WiCySconference. https://securedorg.github.io/RE101/ https://t.co/JypQdlGCx4
+﻿"逆向相关的一个系列教程，从调试环境的搭建到动静态分析： https://t.co/7dYUtG8ARk "
+[ ReverseEngineering ]  iaito : A Qt and C++ GUI for radare2 reverse engineering framework : https://github.com/hteso/iaito cc @ hteso https://t.co/NgQsUh143v
+﻿"iaito - 基于 Qt 和 C++，为 radare2 逆向框架写的一个 UI 交互接口: https://t.co/PqmlklCiBs   https://t.co/NgQsUh143v"
+[ ReverseEngineering ]  linux-re-101 : A collection of resources for linux reverse engineering : https://github.com/michalmalik/linux-re-101
+﻿"linux-re-101 - Linux 逆向工程资源收集︰ https://t.co/0IokxUUIiF"
+[ ReverseEngineering ]  2011 年 BlackHat USA 会议上 Intel 研究员 GAL DISKIN 介绍的二进制插桩技术： https://media.blackhat.com/bh-us-11/Diskin/BH_US_11_Diskin_Binary_Instrumentation_Slides.pdf
+[ ReverseEngineering ]   逆向入门方法与工具：  https://0x00sec.org/t/re-guide-for-beginners-methodology-and-tools/2242
+[ ReverseEngineering ]  初学者的逆向分析指南：如何绕过 SIGTRAP： https://0x00sec.org/t/re-guide-for-beginners-bypassing-sigtrap/2648
+[ ReverseEngineering ]   游戏 CS:GO 一款作弊器的逆向分析： https://blog.badtrace.com/post/reverse-engineering-a-csgo-cheat/  昨天腾讯游戏安全实验室也发表了一篇相关的分析文章《游戏 CS:GO VAC反外挂系统分析》： http://www.freebuf.com/news/139515.html
+[ ReverseEngineering ]    Python 字节码级别的逆向： https://chriswarrick.com/blog/2017/08/03/gynvaels-mission-11-en-python-bytecode-reverse-engineering/
+[ ReverseEngineering ]   Malware Unicorn 分享的恶意软件逆向教程： https://securedorg.github.io/RE102/
+[ ReverseEngineering ]   x86 处理器微码的逆向，来自 USENIX 2017 会议： https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-koppe.pdf
+[ ReverseEngineering ]  360加固保关键技术浅析: http://www.freebuf.com/articles/terminal/145102.html
+[ ReverseEngineering ]  专注于逆向工程方向的 Rolf Rolles 和 Möbius 公开了许多他们之前的研究： http://www.msreverseengineering.com/research
+[ ReverseEngineering ]   集成 Google Voice 功能的 OBi200 VOIP 网关设备固件的逆向： https://randywestergren.com/reverse-engineering-obi200-google-voice-appliance-part-1/
+[ ReverseEngineering ]   《Windows for Reverse Engineers》，这篇 Paper 总结了很多 Windows 系统与逆向有关的机制和特性： http://www.cse.tkk.fi/fi/opinnot/T-110.6220/2014_Reverse_Engineering_Malware_AND_Mobile_Platform_Security_AND_Software_Security/luennot-files/T1106220.pdf
+[ ReverseEngineering ]   在 Windows Chrome 63 浏览器中逆向分析 PopUnder 广告网络（视频）： https://www.youtube.com/watch?v=VcFQeimLH1c
+[ ReverseEngineering ]  用于重命名 iOS kernelcache function stubs 的 IDA Python 脚本： https://github.com/saelo/ida_scripts/blob/master/kernelcache.py
+[ ReverseEngineering ]  DerbyCon 2017 会议一篇关于 IDAPython 的演讲： https://github.com/maddiestone/IDAPythonEmbeddedToolkit
+[ ReverseEngineering ]   使用 radare2 逆向分析 Gameboy ROM ： https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2/
+[ ReverseEngineering ]  道奇（Nitro）汽车 OBD2 诊断设备的逆向，来自 QuarksLab：  https://blog.quarkslab.com/reverse-engineering-of-the-nitro-obd2.html
+[ ReverseEngineering ]  利用 Frida 框架提高逆向工程中的工作效率，来自 Hack.Lu 会议： https://github.com/DigitalInterruption/DigitalInterruption.github.io/blob/master/Prototyping%20and%20reverse%20engineering%20with%20frida_hacklu.pdf   https://github.com/DigitalInterruption/FridaWorkshop
+[ ReverseEngineering ]  任天堂 Switch 逆向工程： https://github.com/dekuNukem/Nintendo_Switch_Reverse_Engineering
+[ ReverseEngineering ]  逆向分析 MMORPG 游戏： https://www.slideshare.net/AntoninBeaujeant/reverse-engineering-a-mmorpg
+[ ReverseEngineering ]  Lua程序逆向之Luajit文件格式： http://bobao.360.cn/learning/detail/4731.html
+[ ReverseEngineering ]  针对 Furby Connect 应用的逆向分析： https://www.contextis.com/blog/dont-feed-them-after-midnight-reverse-engineering-the-furby-connect
+[ ReverseEngineering ]  Reverse Engineering the iOS Backup: https://www.richinfante.com/2017/3/16/reverse-engineering-the-ios-backup
+[ ReverseEngineering ]  逆向工程英特尔 FSP 入门指南： https://t.co/xyp5DhiPbv
+[ ReverseEngineering ]   对抗 IDA Pro 调试器 ARM 反汇编的技巧：  https://kbdsmoke.me/anti-disassembly-on-arm-ida-specifically/
+[ ReverseEngineering ]  逆向工程师一直受到汇编垃圾代码（Junk Code）的折磨，FireEye 这篇 Blog 介绍如何识别 Junk Code： https://www.fireeye.com/blog/threat-research/2017/12/recognizing-and-avoiding-disassembled-junk.html
+[ ReverseEngineering ]  游戏安全系列教程-植物大战僵尸： https://bbs.ichunqiu.com/thread-30298-1-1.html
+[ ReverseEngineering ]  x86_64 逆向工程介绍： https://leotindall.com/tutorial/an-intro-to-x86_64-reverse-engineering/
+[ ReverseEngineering ]  基于r2的逆向基础: https://sec.xiaomi.com/article/30
+[ ReverseEngineering ]  Reverse Engineering With Radare2 — Part 2： https://medium.com/@jacob16682/reverse-engineering-with-radare2-part-2-83b71df7ffe4
+[ ReverseEngineering ]  某数字公司VMP脱壳简记： https://bbs.pediy.com/thread-223528.htm
+[ ReverseEngineering ]  数据库逆向工程系列文章 Part 1： https://medium.com/@MorteNoir/database-reverse-engineering-part-1-introduction-cd6e6a106a84
+[ ReverseEngineering ]   数据库逆向系列工程文章 Part 2: https://medium.com/@MorteNoir/database-reverse-engineering-part-2-main-approaches-ae9355b2d429
+[ ReverseEngineering ]  数据库逆向系列文章，Part 3 - Code Reuse： https://medium.com/@MorteNoir/database-reverse-engineering-part-3-code-reuse-conclusion-b2145420b09b
+[ ReverseEngineering ]    汇编语言逆向工程手册：  https://github.com/yellowbyte/reverse-engineering-reference-manual
+[ ReverseEngineering ]   对嵌入式设备的逆向分析与漏洞利用：The Software Stack ，PART 1： https://p16.praetorian.com/blog/reversing-and-exploiting-embedded-devices-part-1-the-software-stack
+[ ReverseEngineering ]  使用 RADARE 进行逆向工程之基础入门： https://pixl.dy.fi/posts/2018-01-22-reverse-engineering-basics-with-radare-fundamentals-and-basics/
+[ ReverseEngineering ]   FinSpy 恶意软件的逆向分析之 FinSpy VM 与字节码反汇编： http://www.msreverseengineering.com/blog/2018/1/31/finspy-vm-part-2-vm-analysis-and-bytecode-disassembly
+[ ReverseEngineering ]  z3 巧解逆向题： https://paper.seebug.org/532/
+[ ReverseEngineering ]  反编译分析吃鸡辅助器外挂：无外挂功能，疑诈骗钱财： http://www.freebuf.com/articles/terminal/162190.html
+[ ReverseEngineering ]   逆向工程之 Windows Defender 中的 JS 引擎： https://recon.cx/2018/brussels/resources/slides/RECON-BRX-2018-Reverse-Engineering-Windows-Defender-s-JavaScript-Engine.pdf
+[ ReverseEngineering ]  消失的字节：对 MS Office RTF 解析器的逆向工程： https://securelist.com/disappearing-bytes/84017/
+[ ReverseEngineering ]  使用x64dbg 分析 TIM2.0 QQ撤销功能： https://www.anquanke.com/post/id/98498
+[ ReverseEngineering ]  使用 Frida 逆向分析 Android 应用与 BLE 设备的通信：  https://www.pentestpartners.com/security-blog/reverse-engineering-ble-from-android-apps-with-frida/
+[ ReverseEngineering ]  使用x64dbg分析微信防多开功能： https://www.anquanke.com/post/id/98825
+[ ReverseEngineering ]   三星 Gear VR 控制器逆向分析： http://jsyang.ca/hacks/gear-vr-rev-eng/
+[ ReverseEngineering ]  使用 IDA Pro 和 X64dbg 逆向分析 Gootkit 恶意软件 （视频）： https://www.youtube.com/watch?v=242Tn0IL2jE&;feature=youtu.be
+[ ReverseEngineering ]  用 IDA Pro 的 REobjc 模块逆向 Objective-C 二进制文件: https://duo.com/blog/reversing-objective-c-binaries-with-the-reobjc-module-for-ida-pro
+[ ReverseEngineering ]  网易云音乐PC客户端加密API逆向解析： http://www.freebuf.com/articles/web/164636.html
+[ ReverseEngineering ]  约会应用 Coffee Meets Bagel 的 API 逆向分析： https://medium.com/@_nikpatel/reverse-engineering-apis-coffee-meets-bagel-2eda71295613
+[ ReverseEngineering ]  逆向 MMORPG 游戏 Pwn Adventure 3：  https://github.com/beaujeant/PwnAdventure3/blob/master/Workshop/re-mmorpg-troopers18.pdf
+[ ReverseEngineering ]   Game Boy 硬件逆向工程分析： https://www.youtube.com/watch?v=GBYwjch6oEE
+[ ReverseEngineering ]  汇编基础教程： https://platform.avatao.com/paths/a0dc20fc-f1b5-43c9-89fc-3a5fccfb5f0b/challenges/e63cb4dd-4777-4d2d-b81d-a822277983bc
+[ ReverseEngineering ]  对 Notability 文件格式的逆向工程： https://jvns.ca/blog/2018/03/31/reverse-engineering-notability-format/
+[ ReverseEngineering ]  英特尔FSP逆向工程：寻找真正的入口点： https://puri.sm/posts/intel-fsp-reverse-engineering-finding-the-real-entry-point/
+[ ReverseEngineering ]  逆向基础之 ESP 定律： https://goggleheadedhacker.com/blog/post/6
+[ ReverseEngineering ]  Sony-PMCA-RE - 逆向 Sony 智能相机应用(PMCA)： https://github.com/ma1co/Sony-PMCA-RE
+[ ReverseEngineering ]  逆向 Soundcloud API ： https://pythontips.com/2018/04/15/reverse-engineering-soundcloud-api/
+[ ReverseEngineering ]  Hacking iOS 上的扫雷游戏： https://jaiverma.github.io/blog/ios-game-hacking
+[ ReverseEngineering ]  逆向工程之基础编程概念： https://medium.com/@danielabloom/bolo-reverse-engineering-part-1-basic-programming-concepts-f88b233c63b7
+[ ReverseEngineering ]  编译chrome源码逆向分析JS PopUnder（Video）：  https://www.youtube.com/watch?v=y6Uzinz3DRU
+[ ReverseEngineering ]  逆向工程 - Part 2（高级编程概念）： https://medium.com/@danielabloom/bolo-reverse-engineering-part-2-advanced-programming-concepts-b4e292b2f3e
+[ ReverseEngineering ]  二进制文件和数据文件的可视化逆向工程: https://pdfs.semanticscholar.org/8540/55131cb3f029ccf2ea2f7ce8aa675d5d8f6e.pdf

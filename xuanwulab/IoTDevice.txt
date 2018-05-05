@@ -1,0 +1,360 @@
+[ IoTDevice ]  Damn vulnerable router firmware : http://b1ack0wl.com/projects/2015/12/25/Damn-Vulnerable-Router-Firmware/
+﻿"浑身漏洞的路由器固件 - 路由器固件漏洞练习靶场: https://t.co/5b977FnpLD"
+[ IoTDevice ]  UPC Ubee EVW3226 Fail : https://firefart.at/post/upc_ubee_fail/ cc: @ _FireFart_
+﻿"UPC Ubee EVW3226 路由器固件逆向: https://t.co/2ce7umTmcx "
+[ IoTDevice ]  Administrator auto-logout design flaw in ASUS wireless routers http://goo.gl/fb/IoGncM #FullDisclosure
+﻿"华硕无线路由器管理员自动 logout 缺陷，来自 FullDisclosure： https://t.co/geXbrLy8H1"
+[ IoTDevice ]  C7824WIP - IP Camera : Security Review - http://www.fontenay-ronan.fr/c7824wip-security-review/
+﻿"威视达康（Vstarcam） C7824WIP 网络摄像头安全性综述： https://t.co/f5tfVXMGI8"
+[ IoTDevice ]  Reversing the Dropcam (Part 3): Digging into complied Lua functionality : http://blog.includesecurity.com/2014/08/Reverse-Engineering-Dropcam-Lua-Bytecode.html , Part 2 : http://blog.includesecurity.com/2014/04/reverse-engineering-dropcam-rooting-the-device.html
+﻿"逆向 Dropcam 摄像头 Part 3: 深入分析编译后的 Lua 程序: https://t.co/HxcUFJ0qQq  Part 2 : https://t.co/CxSjVCc9e4 Part 1: http://blog.includesecurity.com/2014/03/Reverse-Engineering-Dropcam-Communications.html "
+[ IoTDevice ]  Getting A Reverse Shell On Your Seagate Personal NAS https://packetstormsecurity.com/news/view/26278/Getting-A-Reverse-Shell-On-Your-Seagate-Personal-NAS.html
+﻿"希捷个人 NAS 系统中获取反弹 Shell： https://t.co/Q0Z17NuEhd"
+[ IoTDevice ]  Reverse engineering an IP camera : http://www.contextis.com/resources/blog/push-hack-reverse-engineering-ip-camera/
+﻿"Motorola Focus 73 室外监控摄像头的逆向和攻击， 不接触局域网， 实现盗取 WiFi 密码、视频信号劫持、告警劫持。 来自 Context Blog: https://t.co/I1hRi3WzjE"
+[ IoTDevice ]  Fisher-Price Smart Toy® & hereO GPS Platform Vulnerabilities https://community.rapid7.com/community/infosec/blog/2016/02/02/security-vulnerabilities-within-fisher-price-smart-toy-hereo-gps-platform
+﻿"Fisher-Price 智能玩具和 hereO GPS 手表存在漏洞， 来自 Rapid 7 的 Blog： https://t.co/NdjsKWn3us"
+[ IoTDevice ]  KL-001-2016-001 : Arris DG1670A Cable Modem Remote Command Execution http://goo.gl/fb/ud0hPI #FullDisclosure
+﻿"Arris DG1670A 有线调制解调器远程命令执行漏洞， 来自 FullDisclosure： https://t.co/yQhj0brL0l "
+[ IoTDevice ]  Pwning CCTV cameras : https://www.pentestpartners.com/blog/pwning-cctv-cameras/
+﻿"攻击视频监控摄像头， DVR 摄像头固件中的疑似后门会将图像发送到一个中国的邮箱。 来自 PenTestPartners Blog: https://t.co/Xd5DGUT1GU"
+[ IoTDevice ]  Remotely Disabling a Wireless Burglar Alarm http://blog.ioactive.com/2016/02/remotely-disabling-wireless-burglar.html
+﻿"远程禁用无线防盗报警器， 来自 IOActive Blog： https://t.co/euH8MJmrJb"
+[ IoTDevice ]  Rediscovering NetUSB vulnerability http://blog.newskysecurity.com/2016/02/rediscovery-of-netusb-vulnerability-in-broadband-routers/
+﻿"Netgear R6050 路由器 NetUSB 缓冲区溢出漏洞的再次发现(之前被 SEC Consult 发现并报告过, CVE-2015-3036): https://t.co/XxQby2MmxL"
+[ IoTDevice ]  [PDF] Security Analysis of Wearable Fitness Devices (Fitbit) https://goo.gl/yryaaF
+﻿"Fitbit Flex 可穿戴设备安全分析报告（PDF）： https://t.co/eG94jrPwL8"
+[ IoTDevice ]  Simple reverse engineering of Corsair USB mouse LED control protocol http://boredhackerblog.blogspot.com/2016/03/reversing-corsair-sabre-led-control-and.html
+﻿"海盗船 USB 鼠标 LED 控制协议简单逆向: https://t.co/Arml7yTFCi"
+[ IoTDevice ]  Applying Bytecode Level Automatic Exploit Generation to Embedded Systems http://www.cosc.canterbury.ac.nz/research/reports/HonsReps/2015/hons_1504.pdf
+﻿"在嵌入式系统应用 Bytecode 级别的 Exploit 自动生成技术， Paper：  https://t.co/KJw0HQvG39"
+[ IoTDevice ]  Remote Code Execution in CCTV-DVR affecting over 70 different vendors http://www.kerneronsec.com/2016/02/remote-code-execution-in-cctv-dvrs-of.html
+﻿"视频监控设备远程代码执行漏洞, 影响 70 个不同供应商, 来自 Kerneron Security Blog: https://t.co/f6Gc214Ir5 "
+[ IoTDevice ]  LoRa Security Whitepaper: Building a secure LoRa solution - https://labs.mwrinfosecurity.com/publications/lo
+﻿"LoRa 解决方案以及 LoRaWAN 协议的安全分析、评估， 来自 MWR Labs 在 Syscan360 会议的演讲： https://t.co/ADn71CcdRq  LoRa 是一种物联网通信解决方案"
+[ IoTDevice ]  Pwning a thin client in less than two minutes http://blog.malerisch.net/2015/04/pwning-hp-thin-client.html
+﻿"两分钟内攻破 HP Thin Client 设备，该设备用于为企业提供虚拟桌面服务： https://t.co/Y9FK57uVy2 "
+[ IoTDevice ]  3DS Code Injection through “Loader” http://yifan.lu/2016/03/28/3ds-code-injection-through-loader/ https://t.co/qbXYb1MQ7L
+﻿"通过 'Loader' 实现任天堂 3DS 游戏机的代码注入： https://t.co/3NtZhEVuvN https://t.co/qbXYb1MQ7L"
+[ IoTDevice ]  Hacking connected lightbulbs to breach Air-Gapped networks http://securityaffairs.co/wordpress/45930/iot/hacking-connected-lightbulbs.html
+﻿"通过黑掉一个联网的灯泡，偷取物理隔绝网络的数据， 来自 SecurityAffairs 的报道： https://t.co/dpuiO0aFaT"
+[ IoTDevice ]  Quanta LTE routers: backdoor, backdoor accounts, RCE, weak WPS, hardcoded ssh key and the list goes on #iotsecurity https://pierrekim.github.io/blog/2016-04-04-quanta-lte-routers-vulnerabilities.html
+﻿"广达（Quanta） LTE 路由器存在多个安全漏洞（包括后门账户，硬编码密钥， RCE 漏洞， 弱 WPS PIN 等）： https://t.co/8lno4ZauQh"
+[ IoTDevice ]  I’m writing a series of posts on basic Reverse Engineering of embedded systems :) Part 1 - Hunting for Debug Ports: http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/
+﻿"嵌入式设备逆向之寻找华为 HG 533 路由器的调试端口︰ https://t.co/tiucLJrrce"
+[ IoTDevice ]  Be careful Amazon is selling products infected with malware http://securityaffairs.co/wordpress/46170/malware/amazon-products-infected-with-malware.html
+﻿"小心，亚马逊卖的摄像头和监控设备内置恶意软件，来自 SecurityAffairs 的报道： https://t.co/il6d3owoC2"
+[ IoTDevice ]  New blog post: Discover the Unknown: Analyzing an IoT Device https://www.insinuator.net/2016/04/discover-the-unknown-analyzing-an-iot-device/
+﻿"发现未知︰ IoT 设备分析， 这篇 Blog 介绍 IoT 安全评估过程中所用的方法和工具： https://t.co/yTQUrRoGrg"
+[ IoTDevice ]  Attacking Smart locks w/ a smart Phone : http://www.slideshare.net/CanSecWest/csw2016-song-lismartwars (Slides)
+﻿"用智能手机攻击 kevo 蓝牙智能锁， 来自 CanSecWest 2016 会议 ︰ https://t.co/DPm1BuczVZ  "
+[ IoTDevice ]  Jailbreaking the Microsoft fitness band http://www.b0n0n.com/2016/04/20/ms-jailbreak/
+﻿"越狱微软的健身手环： https://t.co/1DRV9j5Cjt"
+[ IoTDevice ]  Development of novel dynamic binary analysis techniques for the security analysis of embedded devices : http://www.eurecom.fr/en/publication/4637/download/rs-publi-4637.pdf (pdf)
+﻿"一种新的嵌入式设备动态二进制分析技术， Paper ︰ https://t.co/LIeedmyhU2  "
+[ IoTDevice ]  New blog post: AirPort Hacking Update http://embeddedideation.com/2016/04/24/airport-hacking-update/
+﻿"Hacking AirPort： https://t.co/M83UCigFGz  AirPort 是苹果的一款无线基站（路由器）设备"
+[ IoTDevice ]  Practical Reverse Engineering a Router(Part 2) : http://jcjc-dev.com/2016/04/29/reversing-huawei-router-2-scouting-firmware/ , Part 1 : http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/
+﻿"上个月推送过一篇《嵌入式逆向，寻找华为 HG533 路由器的调试端口》：  https://t.co/ikP0YPvWQ8  这次作者继续写了第二篇 《探索华为路由器的固件》 : https://t.co/WcCKZvGG20 "
+[ IoTDevice ]  Vulnerabilities in Samsung's SmartThings https://www.schneier.com/blog/archives/2016/05/vulnerabilities_5.html
+﻿"三星智能家居应用 SmartThings 安全性分析：  https://t.co/37RQ5YkqIc "
+[ IoTDevice ]  The IoT can unlock homes, new Bitdefender report shows – HOTforSecurity http://www.hotforsecurity.com/blog/privacy-takes-the-back-seat-in-iot-products-new-report-confirms-13705.html
+﻿" IoT 设备极大的方便了生活，但当前 IoT 带来的隐私和安全隐患也不容忽视，来自 Bitdefender 的分析报告： https://t.co/zx2PQYcDzG"
+[ IoTDevice ]  Exploiting uboot to unlock the Amazon kindle http://spudowiar.me/android/bootloader/2016/03/03/kfsowi-bootloader-cracked/ via @ spudowiar
+﻿" 攻击 uboot，解锁 Amazon kindle： https://t.co/Ex6oHkXole "
+[ IoTDevice ]  Slides from my @ thotcon talk on @ esp8266 psionics / embedded exploitation are up at https://speakerdeck.com/jsandin/the-complete-esp8266-psionics-handbook thanks to folks who attended!!
+﻿"Exploit ESP8266 SOC 嵌入式平台， Slides： https://t.co/5OEH6X16Ch!!"
+[ IoTDevice ]  Rooting the Amazon Echo : https://rbfi.io/dl.php?key=/w3kf/rooting_the_amazon_echo.pdf (pdf)
+﻿"Rooting the Amazon Echo， Amazon Echo 是一款智能硬件，可以通过语音控制它以及它所连接的设备 ︰ https://t.co/vXTX6RLPjm  "
+[ IoTDevice ]  Nest releases a open source ver "Thread" that makes possible for devices to simply, securely and reliably connect http://www.theinquirer.net/2457743
+﻿" Google 旗下 Nest 恒温器开源了自己的网络连接协议，协议的名称为'Thread'，该协议让设备互联更加方便： https://t.co/qfC6TVIHv8  GitHub Repo： https://github.com/openthread/openthread "
+[ IoTDevice ]  Abusing Easy Smart TP-Link switches. How to sniff and crack admin creds: https://www.pentestpartners.com/blog/how-i-can-gain-control-of-your-tp-link-home-switch/ https://t.co/NqjojKcpCL
+﻿" 我是如何获得 Easy Smart TP-Link 交换机的管理员权限的︰ https://t.co/v74sBLUVwQ https://t.co/NqjojKcpCL"
+[ IoTDevice ]  Hacking the Kinect (Guide to Reverse Engineering USB protocols) : https://learn.adafruit.com/hacking-the-kinect/overview
+﻿" Hacking 微软 Kinect（USB 协议逆向），来自 AdaFruit︰ https://t.co/EJhInjqczc"
+[ IoTDevice ]  Hacking an IP camera (Grandstream GXV3611_HD) : http://boredhackerblog.blogspot.in/2016/05/hacking-ip-camera-grandstream-gxv3611hd.html (No cache for URL,for few URL may not work) https://t.co/4HJ25d3s9z
+﻿"Hacking an IP camera (Grandstream GXV3611_HD)： https://t.co/XmAswfnS4p https://t.co/4HJ25d3s9z"
+[ IoTDevice ]  Diagnosis of Embedded Devices (In Japanese) - http://io.cyberdefense.jp/entry/2016/05/09/%E7%B5%84%E8%BE%BC%E6%A9%9F%E5%99%A8%E3%81%AE%E8%A8%BA%E6%96%AD%E3%82%92%E7%B4%B9%E4%BB%8B_1/2 (Part 1) http://io.cyberdefense.jp/entry/2016/05/31/%E7%B5%84%E8%BE%BC%E6%A9%9F%E5%99%A8%E3%81%AE%E8%A8%BA%E6%96%AD%E3%82%92%E7%B4%B9%E4%BB%8B_2/2 (Part 2) Reminds me of my buddies
+﻿" 嵌入式设备分析（日文）， Part 1: https://t.co/mBYd1B15yy  Part 2: https://t.co/AX2rDdQhxB "
+[ IoTDevice ]  #Reversing and #Exploiting Embedded Devices (Part 1): The Software Stack http://praee.com/1XT8rLG via @ B1ack0wl #IoT https://t.co/F8km5NaFeX
+﻿" 嵌入式设备的逆向和漏洞利用 Part 1：软件部分： https://t.co/F8km5NaFeX  https://t.co/at1AUDSgQw"
+[ IoTDevice ]  Connect to Bluetooth devices from the browser, with just 3 lines of JavaScript : https://sabertooth-io.github.io/
+﻿" Sabertooth - 三行代码实现通过浏览器与蓝牙设备交互︰ https://t.co/xl3i2fDPcn  Sabertooth 是一个用于与蓝牙低功耗设备交互的 JavaScript 库"
+[ IoTDevice ]  Unpatched D-Link Wi-Fi Camera Flaw Remotely Exploitable: https://threatpost.com/unpatched-d-link-wi-fi-camera-flaw-remotely-exploitable/118549/ via @ threatpost
+﻿" D-link Wi-Fi 摄像头存在一个可远程攻击的漏洞（未修复），来自 ThreatPost 的报道： https://t.co/VWGet4fYjr"
+[ IoTDevice ]  Practical Reverse Engineering http://jcjc-dev.com/2016/04/08/reversing-huawei-router-1-find-uart/ http://jcjc-dev.com/2016/04/29/reversing-huawei-router-2-scouting-firmware/ http://jcjc-dev.com/2016/05/23/reversing-huawei-3-sniffing/ http://jcjc-dev.com/2016/06/08/reversing-huawei-4-dumping-flash/
+﻿" 之前推送过 Juan Carlos Jimenez 写的 3 篇《逆向华为路由器》系列文章，最近他又继续写了第 4 篇：《 Dump 华为路由器的 Flash》： http://jcjc-dev.com/2016/06/08/reversing-huawei-4-dumping-flash/   "
+[ IoTDevice ]  Startup @ XipiterSec Sniffs Out Stealth #IoT Devices on your Network https://securityledger.com/2016/06/startup-senrio-sniffs-out-stealth-iot-devices-on-your-network/ via @ securityledger https://t.co/06jIeiDg1F
+﻿" Senrio - 网络中的 IoT 设备发现工具： https://t.co/5PaSGHGJFi  "
+[ IoTDevice ]  Security of Home Automation Systems https://www.ernw.de/download/ERNW_Newsletter_49_SecurityOfHomeAutomationSystems_signed.pdf [PDF] https://t.co/qET6tmwhnE
+﻿" 智能家居系统的安全性分析，来自 ERNW 的 Paper： https://t.co/ZKoMMlMSYC  https://t.co/qET6tmwhnE"
+[ IoTDevice ]  Available for download our presentation slides from @ iottechexpo http://www.slideshare.net/opposingforce/smart-cities-in-the-iot-era #SmartCity #IoT #IoTSecurity #IoTTechExpo
+﻿" IoT 时代的智慧城市： https://t.co/SaWd4t2nA1  "
+[ IoTDevice ]  My slides at #area41 are available here: https://fortiguard.com/paper/area-41-reversing-internet-of-things-from-mobile-applications #reverse #IoT #toothbrush #smartglasses
+﻿" AREA 41 会议一篇关于 IoT 逆向的演讲 ︰ https://t.co/DWLAfr0fdH "
+[ IoTDevice ]  .@ _jsoo_ Found it. https://drive.google.com/file/d/0B_thUFNIy8TdVktDSlVnWkdoYzA/view?usp=sharing
+﻿" 《揭秘家用路由器0day漏洞挖掘技术》电子版下载： https://t.co/vWci1Amibv"
+[ IoTDevice ]  UPC UBEE EVW3226 WPA2 Password Reverse Engineering - https://deadcode.me/blog/2016/07/01/UPC-UBEE-EVW3226-WPA2-Reversing.html
+﻿"逆向 UPC UBEE EVW3226 路由器的默认密码生成算法： https://t.co/V7w94VvT5I"
+[ IoTDevice ]  ZigBee security review of a famous French set-top box https://speakerdeck.com/rlifchitz/zigbee-security-review-of-a-famous-french-set-top-box
+﻿" 针对一款法国著名机顶盒的 ZigBee 协议安全性分析： https://t.co/8ay5r0BxYu  "
+[ IoTDevice ]  D-Link Wi-Fi Camera Flaw Extends to 120 Products: https://threatpost.com/d-link-wi-fi-camera-flaw-extends-to-120-products/119097/ via @ threatpost
+﻿"D-Link Wi-Fi 摄像头存在漏洞，该摄像头在该公司多达 120 款产品中使用，来自 ThreatPost 的报道： https://t.co/LzzYFTlafP   Shodan 对互联网 D-Link 设备的搜索调查报告： https://dlink-report.shodan.io/ "
+[ IoTDevice ]  Internet of Things. Security Evaluation of 7 Fitness Trackers on Android and the Apple Watch https://www.av-test.org/fileadmin/pdf/avtest_2016-07_fitness_tracker_english.pdf https://t.co/ryGdCYZ6sM
+﻿" Android 和 Apple Watch 上的 7 款健身手环的安全性分析： https://t.co/24Ciomsjpt https://t.co/ryGdCYZ6sM  "
+[ IoTDevice ]  Reverse Engineering a Wi-Fi Smart Plug: Home-baked encryption and hidden debug protocols https://www.softscheck.com/en/reverse-engineering-tp-link-hs-110-wi-fi-smart-plug
+﻿"逆向 TP-Link HS-110 Wi-Fi 智能电源插头（包括其自定义加密和调试协议）： https://t.co/tYRsLjAXye"
+[ IoTDevice ]  A Lightbulb Worm ? - A teardown of the Philips Hue : https://www.blackhat.com/docs/us-16/materials/us-16-OFlynn-A-Lightbulb-Worm.pdf (Slides) #BlackHat2016
+﻿" 飞利浦 Hue 智能灯泡拆解，来自 BlackHat 会议︰ https://t.co/Iyn1NOOQPN  "
+[ IoTDevice ]  Rooting a Samsung IP camera with a series of small vulnerabilities https://www.pentestpartners.com/blog/samsungs-smart-camera-a-tale-of-iot-network-security/
+﻿" 利用一些小漏洞 Root 三星网络摄像头： https://t.co/5t1QdUFymP"
+[ IoTDevice ]  Embedded Hardware Hacking 101 – The Belkin WeMo Link https://www.fireeye.com/blog/threat-research/2016/08/embedded_hardwareha.html
+﻿" 嵌入式设备逆向之 Hacking Belkin 智能 LED 照明开关组，来自 FireEye Blog： https://t.co/HuONeadlTL"
+[ IoTDevice ]  Exploiting PS Vita kernel: sceNetIoctl use-after-free https://blog.xyz.is/2016/vita-netps-ioctl.html
+﻿"利用 SceNetPs 模块的一个 UAF 漏洞攻击 PS Vita 内核： https://t.co/AzEoVfzgI1"
+[ IoTDevice ]  Security Analysis and Exploitation of Arduino devices in the Internet of Things http://www.seg.inf.uc3m.es/~guillermo-suarez-tangil/papers/2016mal-iot.pdf
+﻿" Arduino IoT 设备的安全性分析和漏洞利用，Paper： https://t.co/mv85zUyHfH "
+[ IoTDevice ]  How 1.5 Million Cameras Were Hijacked To Make A Botnet http://motherboard.vice.com/read/15-million-connected-cameras-ddos-botnet-brian-krebs
+﻿" 150 万摄像头是如何被劫持形成僵尸网络的： https://t.co/G4QmNdlVNf"
+[ IoTDevice ]  An unlikely XXE in Hikvision’s Remote Access Camera Cloud https://medium.com/@ iraklis/an-unlikely-xxe-in-hikvisions-remote-access-camera-cloud-d57faf99620f#.fmmjr69q5
+﻿" 海康威视的远程摄像头云中的一个 XXE 漏洞： https://t.co/q3yoKt674h "
+[ IoTDevice ]  Slides of my presentation at #VB2016 are available: https://www.virusbulletin.com/uploads/pdf/conference_slides/2016/Apvrille-vb-2016-mobileiot.pdf #IoT #smartwatch #toothbrush enjoy!
+﻿" 移动应用 - IoT 的后门，来自 VB2016 会议︰ https://t.co/gzknRE6LoB "
+[ IoTDevice ]  Reversing the Smarter Coffee IoT Machine Protocol to Make Coffee Using the Terminal. https://www.evilsocket.net/2016/10/09/IoCOFFEE-Reversing-the-Smarter-Coffee-IoT-machine-protocol-to-make-coffee-using-terminal/#.V_pNbpzrDZ8.reddit
+﻿" 逆向智能咖啡机的 IoT 协议，从命令行终端控制煮一杯咖啡： https://t.co/QQrVqxxach"
+[ IoTDevice ]  IoT Botnet Uses HTTP Traffic to DDoS Targets: https://threatpost.com/iot-botnet-uses-http-traffic-to-ddos-targets/121199/ via @ threatpost
+﻿"物联网僵尸网络使用 HTTP 流量 DDoS 的目标︰ https://t.co/42KIEh4VjP"
+[ IoTDevice ]  Multiple vulnerabilities found in every AVTECH IP camera, NVR and DVR devices (RCE, auth bypass, etc.) http://www.search-lab.hu/advisories/126-avtech-devices-multiple-vulnerabilities #IoT #AVTECH
+﻿"智能设备 AVTECH IP 摄像头、NVR、DVR 中发现多个漏洞：  http://www.search-lab.hu/advisories/126-avtech-devices-multiple-vulnerabilities "
+[ IoTDevice ]  Old SSH Vulnerability at Center of Credential-Stuffing Attacks: https://threatpost.com/old-ssh-vulnerability-at-center-of-credential-stuffing-attacks/121266/ via @ threatpost
+﻿" 12 年前的一个 SSH 老漏洞正在被黑客用于攻击大量 IoT 设备： https://t.co/pwXLHEcyJW"
+[ IoTDevice ]  Setting up a Research Environment for IP Cameras https://insinuator.net/2016/10/setting-up-a-research-environment-for-ip-cameras/
+﻿"对于嵌入式设备 EDIMAX IP camera 的分析： https://insinuator.net/2016/10/setting-up-a-research-environment-for-ip-cameras"
+[ IoTDevice ]  国外黑客发现的海康威视远程系统XXE漏洞分析： http://www.freebuf.com/vuls/116613.html
+[ IoTDevice ]  .@ hardwear_io 2016 : Analyzing vehicle networks with CANToolz by Michael Elizarov. https://www.youtube.com/watch?v=FqrQUthne3k
+﻿"来自 2016 hardwear.io 大会的议题之一：使用 CANToolz 工具分析车联网：  https://t.co/AjKg4ube5N"
+[ IoTDevice ]  Chinese manufacturer recalls #IOT gear following @ Dyn #DDoSAttack - http://bit.ly/2eLPeKU #Xiongmai
+﻿"中国制造商雄迈决定召回其在美国地区销售的摄像头，原因是这些摄像头被漏洞利用并参与针对 Dyn 的 DDoS 攻击： https://t.co/qSVyVFRicu "
+[ IoTDevice ]  Pwn A Camera Step by Step (Web ver.)（一步步 Pwn 掉摄像头）： https://ricterz.me/posts/Pwn%20A%20Camera%20Step%20by%20Step%20%28Web%20ver.%29?_=1478057500480
+[ IoTDevice ]  My slides "Infecting Internet of Things" are available here: https://my.owndrive.com/index.php/s/x3JNZJvRW2bvfxw #defcamp (cc: @ DefCampRO) #IoT #malware
+﻿"Infecting Internet of Things，来自 defcamp 2016 的议题之一︰ https://t.co/Xa21PlsfZj "
+[ IoTDevice ]  IoT worm can hack Philips Hue lightbulbs, spread across cities http://www.theregister.co.uk/2016/11/10/iot_worm_can_hack_philips_hue_lightbulbs_spread_across_cities/
+﻿"物联网蠕虫利用智能 Philips Hue lightbulb 来进行传播： https://t.co/wDllb63V5I"
+[ IoTDevice ]  IoT Hacking 方向的资料收集 awesome-iot-hacks： https://github.com/nebgnahz/awesome-iot-hacks
+[ IoTDevice ]  Netgear adds an LTE option to its Arlo security camera line http://tcrn.ch/2gd9edJ https://t.co/MYAFdhS8cW
+﻿"Netgear 宣布在 Arlo 安全摄像头中新增 LTE 选项： https://techcrunch.com/2016/11/15/arlo-go/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&sr_share=twitter "
+[ IoTDevice ]  Fitbit tracker firmware retrieval and Analysis : https://www.cs.ru.nl/bachelorscripties/2016/Maarten_Schellevis___4142616___Getting_access_to_your_own_Fitbit_data.pdf (pdf) https://t.co/AoohRmXOSF
+﻿"智能设备 Fitbit tracker 固件检索和分析（PDF）︰ https://t.co/csLWXoPm3P "
+[ IoTDevice ]  华为物联网操作系统Huawei LiteOS： https://github.com/Huawei/Huawei_LiteOS_Kernel
+[ IoTDevice ]  Get started with Zigbee security analysis and setting up a vulnerable Zigbee lab with this blog post - http://blog.attify.com/2016/11/23/zigbee-security-exploitation-iot-devices/
+﻿"Zigbee 的安全性与 IoT 设备的漏洞利用： https://t.co/sTWVTpwcyg"
+[ IoTDevice ]  Protecting smart hospitals: A few recommendations - http://bit.ly/2gB6WS3 - @ enisa_eu #EU https://t.co/yOzeFSQJpb
+﻿"关于保护智能医院安全性的几个建议： https://www.enisa.europa.eu/publications/cyber-security-and-resilience-for-smart-hospitals"
+[ IoTDevice ]  PoC (works in qemu only) of RCE affecting 35+ IoT cameras from 7+ vendors. 32+ of those pwned by 1 GET request. https://t.co/BB8flkksTN
+﻿"智能摄像头（UCam247/Phylink/Titathink/YCam/Anbash/Trivision/Netvision）远程代码执行 PoC ： https://t.co/BB8flkksTN"
+[ IoTDevice ]  On the (in)security of the Latest Generation Implantable Cardiac Defibrillators and How to Secure Them (pdf) https://t.co/6flMfZrusK
+﻿"如何保障新一代的植入式心律去顫器的安全 (PDF)： https://t.co/6flMfZrusK"
+[ IoTDevice ]  Analyzing yet another Smart Home device / eibPort by BAB TECHNOLOGIE GmbH - https://insinuator.net/2016/12/analyzing-yet-another-smart-home-device/
+﻿"家庭智能设备 eibPort 分析： https://t.co/Cg0mTrppaG"
+[ IoTDevice ]  Reverse Engineering Traffic Lights with an RTL-SDR Part 2 http://www.rtl-sdr.com/reverse-engineering-traffic-lights-with-an-rtl-sdr-part-2/
+﻿逆向移动交通信号灯（Part 2）: https://t.co/F1I6ga0lox"
+[ IoTDevice ]  Backdoor in Sony IPELA Engine IP Cameras : http://blog.sec-consult.com/2016/12/backdoor-in-sony-ipela-engine-ip-cameras.html , PoC : https://www.sec-consult.com/fxdata/seccons/prod/temedia/advisories_txt/20161206-0_Sony_IPELA_Engine_IP_Cameras_Backdoors_v10.txt
+﻿"Sony IPELA Engine IP 摄像头被发现存在后门，攻击者能执行任意代码同时还能监视你︰ https://t.co/vYI2LZMqUf  PoC: https://t.co/beb3X2IutU"
+[ IoTDevice ]  Hacker Claims To Have Pushed Malicious Firmware Update To 3.2 Million Home Routers http://motherboard.vice.com/read/hacker-claims-to-push-malicious-firmware-update-to-32-million-home-routers
+﻿"黑客宣称已给 320 万个被控家庭路由器更新了恶意固件： https://t.co/JwcV3ttboa"
+[ IoTDevice ]  An Anatomy of IoT Security : https://github.com/mdsecresearch/Publications/blob/master/presentations/An%20Anatomy%20of%20IoT%20Security_OWASPMCR_Nov2016.pdf (Slides) cc @ domchell || @ OwaspMcr
+﻿"物联网安全剖析（slides）︰ https://t.co/kaEi5JT4bn "
+[ IoTDevice ]  Use a #RaspberryPi, #Windows IoT Core & #Azure to build a facial recognition security device:… https://t.co/YvNNXjqVsF
+﻿"使用树莓派等打造面部识别安全设备: https://t.co/YvNNXjqVsF"
+[ IoTDevice ]  Some brilliant exploits collected by GeekPwn could lead to a systematic study of IoT devices' security flaws #BHASIA http://ow.ly/Hdno3076r0i
+﻿"BlackHat ASIA 2017 议题推荐：IoT 中的漏洞挖掘与漏洞利用技术；议者总结过往 3 年中 GeekPwn 上那些真实生活中的漏洞，并介绍其中一些精妙的漏洞利用技术： https://t.co/gzLQyfAoOW"
+[ IoTDevice ]  Remote Attacks on vehicles by exploiting vulnerable telematics : http://hitcon.org/2016/pacific/0composition/pdf/1201/1201%20R1%201410%20remote%20attacks%20on%20vehicles%20by%20exploiting%20vulnerable%20telematics.pdf (Slides)
+﻿"利用远程信号处理系统攻击汽车（Slides），来自 HITCON Pacific 2016︰ https://t.co/e2kJDlbhuS 会议议题幻灯片已放出： http://hitcon.org/2016/pacific/agenda.htm"
+[ IoTDevice ]  研究员 fail0verflow 在 33c3 会议的演讲，关于 如何 Pwn 索尼 PS4： https://fail0verflow.com/media/33c3-slides/#/3
+[ IoTDevice ]  How to get into IoT Hardware Hacking (Introductory Guide) https://blog.securityevaluators.com/the-introductory-iot-hardware-hacking-tool-box-389c4605329f
+﻿" IoT Hardware Hacking 工具集介绍 ： https://t.co/vWKvri4sqs"
+[ IoTDevice ]  Internet of Things IoT radio frequency RF Analysis With Software Defined Radio Kevin Bong #SDR #HackRF #IoT… https://twitter.com/i/web/status/818292136370061316
+﻿"利用 SDR 分析 无线电频率，来自 GrrCon 2016 大会： https://t.co/VpVCokqF8E"
+[ IoTDevice ]  Hacking The IoT (Internet of Things) - PenTesting RF Operated Devices [PDF] #SDR #GnuRadio #RFcat… https://twitter.com/i/web/status/818294066886496258
+﻿"Hacking The IoT (Internet of Things) - PenTesting RF Operated Devices （PDF）： https://t.co/eMMO1fayrv"
+[ IoTDevice ]  How to Build a Command Injection Exploit for the Netgear R7000 https://www.hackingloops.com/netgear-r7000-exploit/
+﻿"Netgear R7000 命令注入漏洞利用： https://t.co/c5SLvqOPsL "
+[ IoTDevice ]  IoT mode fuzzing with OpenBTS #GSM #SDR #IoT #GNURadio https://cn0xroot.com/2017/01/10/iot-mode-fuzzing-with-openbt/ http://www.freebuf.com/articles/wireless/124147.html https://t.co/PCHUY6uLni
+﻿"使用OpenBTS基站测试物联网模块 IoT mode fuzzing with OpenBTS： https://t.co/pa58wmTmzy "
+[ IoTDevice ]  FingerTec 门禁设备存在多个漏洞： https://labs.mwrinfosecurity.com/advisories/fingertec-unauthenticated-remote-enrollment-and-disclosure-vulnerability https://labs.mwrinfosecurity.com/blog/when-biometric-access-control-devices-get-tcpip https://github.com/mwrlabs/fingertec-tool
+[ IoTDevice ]  Huawei Flybox B660 - (POST Reboot) CSRF Vulnerability https://goo.gl/fb/DiiTXh #FullDisclosure
+﻿"华为 Flybox B660 路由器 CSRF 漏洞： https://t.co/3KWET8NJ0f "
+[ IoTDevice ]  Samsung SmartCam iWatch Root Exploit - https://www.exploitee.rs/index.php/Samsung_SmartCam%E2%80%8B#iWatch_install.php_Remote_Root_Command_Execution
+﻿"Samsung SmartCam iWatch Root 漏洞利用： https://t.co/vEIKvUJcbg"
+[ IoTDevice ]  Nice blog about Hacking Smart Bulbs #IoT #BLE #Exploit http://blog.attify.com/2017/01/17/exploiting-iot-enabled-ble-smart-bulb-security/ https://t.co/imu87lQp9B
+﻿"Hacking 智能电灯： https://t.co/gxGLBNsROe "
+[ IoTDevice ]  Reversing the Parrot SkyController Firmware http://thecyberrecce.net/2017/01/09/reversing-the-parrot-skycontroller-firmware/
+﻿"逆向 Parrot SkyController 固件： https://t.co/Eo1n2mIiu0"
+[ IoTDevice ]  New Blog Post | How to pwn an AXIS 206 IP cam and have fun with it afterwards: https://what.pwned.me/index.php/2017/01/23/axis-206-pwned/
+﻿"攻破 AXIS 206 IP 摄像头 ︰ https://t.co/i5rf1Rx8gl"
+[ IoTDevice ]  Multiple vulnerabilities found in the Dlink DWR-932B - Analysis of the "corrected" firmware https://pierrekim.github.io/blog/2017-02-02-update-dlink-dwr-932b-lte-routers-vulnerabilities.html
+﻿" Dlink DWR-932B 路由器多个漏洞的分析： https://t.co/s07MCNiYRx "
+[ IoTDevice ]  Phwning the boardroom: hacking an Android conference phone http://www.contextis.co.uk/resources/blog/phwning-boardroom-hacking-android-conference-phone/ #cybersecurity #hacking #infosec… https://t.co/WD06G3SJNj
+﻿"黑掉会议室中的 Android 会议电话： https://t.co/OvVwsAQIzd "
+[ IoTDevice ]  TEW-654TR路由器漏洞分析和挖掘： http://www.freebuf.com/vuls/126766.html
+[ IoTDevice ]  Reversing Internet of Things from Mobile applications （PDF） http://area41.io/downloads/slides/area41_16_apvrille_mobileiot.pdf
+﻿" 分析 IoT 设备安全性时可以先从手机 APP 入手： https://t.co/IMa77osHvy"
+[ IoTDevice ]  Hacking Unicorns with Web Bluetooth https://www.contextis.com/resources/blog/hacking-unicorns-web-bluetooth/
+﻿" 通过 Web 蓝牙攻击 CloudPets 玩具： https://t.co/1oUpJzfUve"
+[ IoTDevice ]  MMD-0062-207 | Credential Harvesting by SSH Direct TCP Forward Attack via IoT Botnet http://blog.malwaremustdie.org/2017/02/mmd-0062-2017-ssh-direct-tcp-forward-attack.html
+﻿"Credential Harvesting by SSH Direct TCP Forward Attack via IoT Botnet ： https://t.co/6LpwIIyLaI "
+[ IoTDevice ]  我的MITRE物联网挑战赛之旅： http://m.bobao.360.cn/learning/detail/3524.html
+[ IoTDevice ]  Hacking Robots Before Skynet : http://www.ioactive.com/pdfs/Hacking-Robots-Before-Skynet.pdf (pdf)
+﻿"Hacking Robots Before Skynet︰ https://t.co/wnbH5XzDAl "
+[ IoTDevice ]  0day vulnerabilities found in GoAhead and in Wireless IP (P2P) cameras (pre-auth RCE as root) #0day #IoT #Cloud https://t.co/pWq7tbzLRg
+﻿"基于 P2P 协议的无线摄像头多个安全漏洞分析： https://t.co/pWq7tbzLRg"
+[ IoTDevice ]  Multiple vulnerabilities discovered in ASUSWRT https://bierbaumer.net/security/asuswrt/
+﻿"  ASUSWRT 无线路由器操作系统多个漏洞分析： https://t.co/uQiVAxacDP "
+[ IoTDevice ]  大众车机天宝187A Hack笔记： http://www.freebuf.com/geek/129160.html
+[ IoTDevice ]  Wiretapping End-to-End Encrypted VoIP Calls : Real-World Attacks on ZRTP : https://www.ibr.cs.tu-bs.de/papers/schuermann-popets2017.pdf (pdf) https://t.co/JGnaxphbIT
+﻿"窃听端到端加密 VoIP 呼叫之攻击现实世界中的 ZRTP 协议 : https://t.co/Tmk4LS26df "
+[ IoTDevice ]  抓住“新代码”的影子 —— 基于GoAhead系列网络摄像头多个漏洞分析： http://paper.seebug.org/252/
+[ IoTDevice ]  大华摄像头敏感信息泄露漏洞事件分析： http://paper.seebug.org/257/
+[ IoTDevice ]  Wouahhhh Great !!! *\0/* *\0/* *\0/* #infosec #PenTest # Industrial RFID Printers Local root privilege escalation… https://twitter.com/i/web/status/846657291051061248
+﻿"Intermec 公司的 PM43/PM43c RFID 中端打印机的一个本地 Root Exploit（CVE-2017-5671）： https://github.com/kmkz/exploit/blob/master/CVE-2017-5671.txt"
+[ IoTDevice ]  Firmware Analysis for IoT Devices http://resources.infosecinstitute.com/firmware-analysis-for-iot-devices/ #infosec #IoT cc @ InfosecEdu
+﻿" IoT 设备固件分析教程： https://t.co/9f4WT5qQMx "
+[ IoTDevice ]  ASUS B1M projector remote root exploit (0day) : https://www.myhackerhouse.com/asus-b1m-projector-remote-root-0day/ cc @ hackerfantastic https://t.co/1V1dj8eOfv
+﻿"华硕 B1M 投影仪 remote root exploit ︰ https://t.co/zDU66ADAYz "
+[ IoTDevice ]  对小米九号平衡车的无接触式攻击： http://keenlab.tencent.com/zh/2017/04/01/remote-attack-on-mi-ninebot/
+[ IoTDevice ]  How I found a command injection vulnerability in my TV set while in bed (and how I exploited it using nc) : https://www.netsparker.com/blog/web-security/hacking-smart-tv-command-injection/
+﻿"通过命令注入漏洞 Hack 我家的智能电视︰ https://t.co/h5vctv7pIj"
+[ IoTDevice ]  实战栈溢出：三个漏洞搞定一台路由器： https://zhuanlan.zhihu.com/chaitin-tech
+[ IoTDevice ]  OBD-II Dongle Attack : Stopping a Moving Car via Bluetooth : https://argus-sec.com/remote-attack-bosch-drivelog-connector-dongle/ https://t.co/qid2H1OL2F
+﻿"博世的 Drivelog Connector OBD-II 电子狗存在漏洞，攻击者可以远程关闭汽车的发动机引擎︰ https://t.co/AZ5Z58SqHe "
+[ IoTDevice ]  HG533 路由器分析教程之五 固件漏洞挖掘，前面还有几篇，见文末链接： https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458282682&idx=2&sn=5b160b113667a675001dbb875bba0f3f&chksm=b1815a3086f6d3262c0b8bbe6a971d1582fbf7b7bc514aa2a70ffe3131eb05d89eab651b34dc&mpshare=1&scene=23&srcid=04266Qamv6VgoNwI2LbCC2oq#rd
+[ IoTDevice ]  nice table summarizing IoT protocols: http://glowlabs.co/wireless-protocols/
+﻿"IoT 设备无线协议对照表︰ https://t.co/evVU0Udwc5"
+[ IoTDevice ]  CAN bus reverse-engineering with Arduino and iOS https://medium.com/@ alexandreblin/can-bus-reverse-engineering-with-arduino-and-ios-5627f2b1709a
+" 基于 iOS 和 Arduino 的 CAN Bus 逆向实战： https://medium.com/@alexandreblin/can-bus-reverse-engineering-with-arduino-and-ios-5627f2b1709a "
+[ IoTDevice ]  Hikvision patches backdoor in IP cameras - http://bit.ly/2pUZpnF https://t.co/1kQ0Mp34Qq
+" 海康威视发布了网络摄像头设备的后门修复补丁： https://threatpost.com/hikvision-patches-backdoor-in-ip-cameras/125522/ "
+[ IoTDevice ]  Multiple Vulnerabilities in ASUS Routers [CVE-2017-5891 and CVE-2017-5892] https://goo.gl/fb/FxtN5C #FullDisclosure
+" 华硕路由器中存在多个 CSRF 漏洞（cve-2017-5892、cve-2017-5891）： http://seclists.org/fulldisclosure/2017/May/36?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29 "
+[ IoTDevice ]  [blog] IoT Security Testing Methodology http://r-7.co/2pefnui
+" IoT 安全测试方法： http://r-7.co/2pefnui "
+[ IoTDevice ]  We've just released a short blog post and code for an intro to fuzzing UART from an Arduino.. https://www.mdsec.co.uk/2017/05/hacking-hardware-with-an-arduino/
+" 使用 Arduino 对路由器进行调试： https://t.co/VTDOqOiiV4 "
+[ IoTDevice ]  SoK: Exploiting Network Printers https://www.ieee-security.org/TC/SP2017/papers/64.pdf
+"  SoK: Exploiting Network Printers，来自 IEEE 会议： https://t.co/Xi2PVphYtB "
+[ IoTDevice ]   前两天推送过 IEEE 会议上关于 EPOXY 编译器的 Paper，这是个为保护嵌入式设备而设计的一套编译器框架，今天作者分享了他在 SyScan 360 会议关于 EPOXY 的演讲 PPT: https://nebelwelt.net/publications/files/17SyScan360-presentation.pdf   源码： https://github.com/HexHive/EPOXY
+[ IoTDevice ]  斯巴鲁（Subarus）车载系统 Starlink 存在安全问题，攻击者可在未授权的情况下访问其它账户： https://t.co/HpymqRM5Vp
+[ IoTDevice ]  SEC Consult 对 WiMAX 路由器认证绕过漏洞与OEM后门的详细分析： https://t.co/kcgXcGU5Gk
+[ IoTDevice ]  CAN Bus 介绍以及如何通过编程控制一辆汽车： https://t.co/HqkmzVQLT4
+[ IoTDevice ]  在物理隔离网络中利用路由器的 LED 灯向外渗透数据： https://t.co/D4ggj1AE8L
+[ IoTDevice ]  来自趋势科技对各种网络摄像头僵尸网络的控制范围及技术分析： https://t.co/8AEnHZxJK3
+[ IoTDevice ]  mazda_getInfo - 攻击马自达汽车娱乐信息系统 USB 端口的 PoC： https://t.co/pmaD14V0r7
+[ IoTDevice ]   AeroHive AP 340 路由器 Root Exploit： https://github.com/Ike-Clinton/aerohive-ap340-root
+[ IoTDevice ]  Kaspersky 实验室根据采集的蜜罐数据对物联网攻击的分析： https://kas.pr/hp5d https://t.co/I1trYEw28R
+[ IoTDevice ]  逆向分析 华为 Balong M3 / MCU Console ： https://advancedpersistentjest.com/2017/06/19/reversing-the-balong-m3mcu-console-lightning-the-path-to-ring-0/
+[ IoTDevice ]   利用 TP-Link WR841N V8 路由器配置服务的漏洞实现任意代码执行（CVE-2017-9466）：  https://t.co/9gLTC4iRSi
+[ IoTDevice ]   针对物联网设备的漏洞挖掘： https://t.co/EAd2wMMpzO（PDF）
+[ IoTDevice ]  Milwaukee ONE-KEY M18 Fuel 无刷智能电钻的漏洞研究报告： https://duo.com/assets/ebooks/Duo-Labs-Bug-Hunting-Drilling-Into-the-Internet-of-Things-IoT.pdf
+[ IoTDevice ]   CVE-2017-6334 Netgear DGN2200 路由器 dnslookup.cgi 命令注入漏洞： https://securityonline.info/cve-2017-6334-netgear-dgn2200-dnslookup-cgi-command-injection/
+[ IoTDevice ]  无线投影设备 WePresent WiPG 1000/1500/2000 远程 Root Exploit： https://github.com/XiphosResearch/exploits/tree/master/wipgpwn
+[ IoTDevice ]   基于 GNU Radio 和 SDR 的无人机劫持攻击： http://nullcon.net/website/archives/pdf/goa-2017/drone-hijacking-and-other-IoT-hacking.pdf
+[ IoTDevice ]   科恩实验室在 Blackhat USA 2017 的议题演讲中，同时对外展示了特斯拉研究最新成果，包括绕过特斯拉代码签名等： http://keenlab.tencent.com/zh/2017/07/27/New-Car-Hacking-Research-2017-Remote-Attack-Tesla-Motors-Again
+[ IoTDevice ]    Alexa，你能听见我说话吗？Amazon Echo 智能硬件的设计问题（调试端口暴露、允许从外部 SD 卡启动）导致攻击者可以获得 Amazon Echo 的 Root Shell： https://labs.mwrinfosecurity.com/blog/alexa-are-you-listening/
+[ IoTDevice ]   由 Loftek 和 VStartcam 生产的两款消费级网络摄像头存在大量漏洞： https://threatpost.com/two-popular-ip-cameras-riddled-with-vulnerabilities/127172/
+[ IoTDevice ]  嵌入式设备硬件PCB级逆向： http://mp.weixin.qq.com/s/aaV_ZwBcXCkO5s7pplV6xQ
+[ IoTDevice ]  汽车黑客 第1部分: CAN 协议： https://www.hackers-arise.com/single-post/2017/08/04/Automobile-Hacking-Part-1-The-CAN-Protocol
+[ IoTDevice ]   攻击汽车行业的 Hitag-2 远程无钥匙进入系统，来自 usenix 会议： https://www.usenix.org/system/files/conference/woot17/woot17-paper-benadjila.pdf
+[ IoTDevice ]   IoT 设备 Syska Smartlight Rainbow LED 智能灯泡的逆向分析： https://iayanpahwa.github.io/Reverse-Engineering-IoT-Devices/
+[ IoTDevice ]  攻击一款广泛使用的血糖监测系统 - Dexcom G4，来自 USENIX 2017 会议： https://www.usenix.org/conference/woot17/workshop-program/presentation/reverberi
+[ IoTDevice ]   可联网汽车的危机：当漏洞影响到 CAN 标准时： http://blog.trendmicro.com/trendlabs-security-intelligence/connected-car-hack/
+[ IoTDevice ]   Honeywell Tuxedo 家用安保系统的逆向分析： https://markclayton.github.io/reverse-engineering-my-home-security-system-decompiling-firmware-updates.html
+[ IoTDevice ]  超过 1700 个可用的 IoT 设备的 Telnet 密码泄露到网上： http://securityaffairs.co/wordpress/62365/iot/iot-devices-credentials-leaked.html
+[ IoTDevice ]   来自普林斯顿大学的研究员公开了一种可以对抗 ISP 监视的 IoT 设备流量隐私保护方法，这种方法会将任意速率的流量重新转成恒定速率，防止 ISP 从流量波形图推测信息： https://threatpost.com/researchers-figure-out-how-to-blind-isps-from-smart-home-device-traffic/127715/
+[ IoTDevice ]  Exploiting IoT enabled BLE smart bulb security： http://blog.attify.com/2017/01/17/exploiting-iot-enabled-ble-smart-bulb-security/
+[ IoTDevice ]  Blue picking – Hacking 蓝牙智能锁，来自 HITB 会议： https://conference.hitb.org/hitbsecconf2017ams/materials/D2T3%20-%20Slawomir%20Jasek%20-%20Blue%20Picking%20-%20Hacking%20Bluetooth%20Smart%20Locks.pdf
+[ IoTDevice ]  玩转无人机攻防,来自 Kcon 2017: https://github.com/knownsec/KCon/blob/master/2017/%5BKCon%202017%5D0826_9_KEVIN2600_%E7%8E%A9%E8%BD%AC%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%94%BB%E9%98%B2.pdf
+[ IoTDevice ]  Wireless IP Camera (P2P) WIFICAM 无线摄像头的多个高危漏洞详情： https://pierrekim.github.io/blog/2017-03-08-camera-goahead-0day.html
+[ IoTDevice ]   攻击嵌入式设备与网络协议，来自 zer0con 大会 ： https://pierrekim.github.io/advisories/z0-Owning_embedded_devices_and_network_protocols-redacted.pdf
+[ IoTDevice ]  D-Link 路由器信息泄露和远程命令执行漏洞分析及全球数据分析报告 ： https://paper.seebug.org/385/
+[ IoTDevice ]   Pwning the Dlink 850L routers and abusing the MyDlink Cloud protocol，研究员公开了 Dlink 850L 路由器的多个 0Day: https://pierrekim.github.io/blog/2017-09-08-dlink-850l-mydlink-cloud-0days-vulnerabilities.html
+[ IoTDevice ]   IOT 安全 – Part 2: IOT 攻击面： http://payatu.com/iot-security-part-2-101-iot-attack-surface/
+[ IoTDevice ]  逆向 Aura 智能闹钟： https://courk.fr/index.php/2017/09/10/reverse-engineering-exploitation-connected-clock/
+[ IoTDevice ]  Hacking the Xbox： http://bunniefoo.com/nostarch/HackingTheXbox_Free.pdf
+[ IoTDevice ]  逆向 OBi200 谷歌语音设备 Part 2： https://randywestergren.com/reverse-engineering-obi200-google-voice-appliance-part-2/  Part 1: https://randywestergren.com/reverse-engineering-obi200-google-voice-appliance-part-1/
+[ IoTDevice ]  ARM exploitation for IoT - part 2: https://quequero.org/2017/09/arm-exploitation-iot-episode-2
+[ IoTDevice ]  利用 Raspberry Pi Zero W 和 MotionEyeOS 来搭建监控摄像头： https://dantheiotman.com/2017/08/14/creating-a-surveillance-camera-using-a-pi-zero-w-motioneyeos/
+[ IoTDevice ]  IoT设备固件分析教程之固件是怎么存储的： http://mp.weixin.qq.com/s/kANceRdTAocCRpkCB1lsjQ
+[ IoTDevice ]  An Introduction to Printer Exploitation #1 ： https://0x00sec.org/t/an-introduction-to-printer-exploitation-1/3565
+[ IoTDevice ]  Wink 和 Insteon 的智能家居设备存在多个漏洞： https://blog.rapid7.com/2017/09/22/multiple-vulnerabilities-in-wink-and-insteon-smart-home-systems/
+[ IoTDevice ]  FLIR Systems 的热成像/红外摄像头被发现多个严重漏洞：https://blogs.securiteam.com/index.php/archives/3411
+[ IoTDevice ]   使用智能手表对手机键盘进行侧信道攻击(Paper) ： https://arxiv.org/pdf/1710.03656.pdf
+[ IoTDevice ]  IoT 安全攻击面介绍： https://www.peerlyst.com/posts/getting-started-with-iot-security-mapping-the-attack-surface-aditya-gupta
+[ IoTDevice ]  Hacking 蓝牙智能门锁，来自 Brucon 会议： https://smartlockpicking.com/slides/BruCON0x09_2017_Hacking_Bluetooth_Smart_locks.pdf
+[ IoTDevice ]  IoT_reaper : 一个正在快速扩张的新 IoT 僵尸网络： http://blog.netlab.360.com/iot-reaper-a-quick-summary-of-a-rapid-spreading-new-iot-botnet/
+[ IoTDevice ]  可用于手机及可穿戴设备的双因素认证摄像头（Parper）： https://arxiv.org/pdf/1710.07727.pdf
+[ IoTDevice ]  IoT设备通信安全讨论： https://cert.360.cn/report/detail?id=5da919662c3c60f5004e513756fc4562
+[ IoTDevice ]  TP-LINK WR941N路由器研究： https://paper.seebug.org/448/
+[ IoTDevice ]  如何黑掉无人机？一份持续更新的无人机漏洞与攻击工具列表： https://medium.com/@swalters/how-can-drones-be-hacked-the-updated-list-of-vulnerable-drones-attack-tools-dd2e006d6809
+[ IoTDevice ]  Finding RCE in HP’s Printer Fleet： https://foxglovesecurity.com/2017/11/20/a-sheep-in-wolfs-clothing-finding-rce-in-hps-printer-fleet/
+[ IoTDevice ]  【看雪2017安全开发者峰会演讲回顾0x1】如何黑掉无人机： https://bbs.pediy.com/thread-222879.htm
+[ IoTDevice ]  D-Link DIR-605L 拒绝服务错误报告 (CVE-2017-9675): https://paper.seebug.org/464/
+[ IoTDevice ]  Hacking 智能家居设备，来自 H2HC 2017： https://goo.gl/VeV9Nf
+[ IoTDevice ]  物联网硬件安全分析基础-固件提取： https://paper.seebug.org/468/
+[ IoTDevice ]  小米IoT安全峰会-陈洋《小米IoT安全之路》： https://weibo.com/ttarticle/p/show?id=2309404181335387304911&display=0&retcode=6102
+[ IoTDevice ]  使用 Raspberry Pi Zero 及 ARC 打造自己的随身密码管理器： https://www.evilsocket.net/2017/12/07/DIY-Portable-Secrets-Manager-with-a-RPI-Zero-and-the-ARC-Project
+[ IoTDevice ]  如何越狱苹果手表，来自 BlackHat Eu 2017 大会： https://speakerdeck.com/mbazaliy/jailbreaking-apple-watch-1
+[ IoTDevice ]  安全研究人员发现 AMAG Technology 公司无钥匙智能系统中存在漏洞（CVE-2017-16241）：https://threatpost.com/vulnerability-found-in-two-keyless-entry-locks/129132/
+[ IoTDevice ]  Zivif 网络摄像机中的三个漏洞披露（CVE-2017-17105, CVE-2017-17106,  CVE-2017-17107）： http://seclists.org/fulldisclosure/2017/Dec/42?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29
+[ IoTDevice ]   远程 Root DirecTV 的无线视频桥接（WVBT）（CVE-2017-17411）： https://www.zerodayinitiative.com/blog/2017/12/13/remote-root-in-directvs-wireless-video-bridge-a-tale-of-rage-and-despair
+[ IoTDevice ]  远程攻击微单相机： https://pan.baidu.com/s/1boGdAKv?qq-pf-to=pcqq.c2c
+[ IoTDevice ]  Logitech 300 Mbps 无线局域网宽带路由器多款型号被发现 UPnP 漏洞： http://www.logitec.co.jp/info/2017/1219.html
+[ IoTDevice ]  Ichano AtHome IP 摄像头三处安全漏洞披露： https://blogs.securiteam.com/index.php/archives/3576
+[ IoTDevice ]   国外有研究员通过逆向分析发现小米 Yeelight 智能灯泡会偷偷记录用户家里的音频信息： https://medium.com/@slinafirinne/yeelight-the-bluetooth-led-bedside-lamp-from-xiaomi-that-spies-on-you-part-one-a651207c70bd
+[ IoTDevice ]  部分Sonos和Bose扬声器存在漏洞：或被黑客用于音频恶作剧： http://www.cnbeta.com/articles/tech/684055.htm 趋势科技原文： http://blog.trendmicro.com/trendlabs-security-intelligence/iot-devices-need-better-builtin-security/ https://documents.trendmicro.com/assets/pdf/The-Sound-of-a-Targeted-Attack.pdf
+[ IoTDevice ]  Spy vs Spy: A modern study of mic bugs operation and detection，针对麦克风问题的研究与检测，来自德国 CCC 大会： https://media.ccc.de/v/34c3-8735-spy_vs_spy_a_modern_study_of_microphone_bugs_operation_and_detection
+[ IoTDevice ]  Huawei HG532 系列路由器远程命令执行漏洞分析： https://paper.seebug.org/490/
+[ IoTDevice ]  Livebox Fibra 路由器多个安全漏洞细节披露： https://blogs.securiteam.com/index.php/archives/3585
+[ IoTDevice ]  对华为HG532远程命令执行漏洞的新探索： http://xlab.tencent.com/cn/2018/01/05/a-new-way-to-exploit-cve-2017-17215/
+[ IoTDevice ]  西部数据 NAS 设备被发现固件后门账户，且该后门账户与 D-Link 路由器后门一致，这个后门可以追溯到 2014 年：  https://www.techspot.com/news/72612-western-digital-cloud-drives-have-built-backdoor.html  https://t.co/6pN2JO1NVH
+[ IoTDevice ]  Exploit 廉价劳动力，攻击 D-Link 815n 路由器： https://t.co/mELm6Cpibp
+[ IoTDevice ]  CVE-2018-5318：D-Link soap.cgi Stack Buffer Overflow： https://paper.seebug.org/504/
+[ IoTDevice ]  通过CVE-2017-17215学习路由器漏洞分析，从入坑到放弃： http://www.freebuf.com/vuls/160040.html
+[ IoTDevice ]  如何通过TTL调试光猫： https://paper.seebug.org/506/
+[ IoTDevice ]  针对医疗设备 Smiths Medical Medfusion 4000 的远程代码执行漏洞分析: https://github.com/sgayou/medfusion-4000-research/blob/master/doc/README.md
+[ IoTDevice ]  打印机安全测试速查手册： http://hacking-printers.net/wiki/index.php/Printer_Security_Testing_Cheat_Sheet
+[ IoTDevice ]  AsusWRT 未授权远程代码执行漏洞详情披露： https://blogs.securiteam.com/index.php/archives/3589
+[ IoTDevice ]  基于机器学习的 IoT 安全技术：  https://arxiv.org/pdf/1801.06275.pdf
+[ IoTDevice ]  IoT 设备固件仿真教程入门： https://blog.attify.com/getting-started-with-firmware-emulation/
+[ IoTDevice ]   Vibratissimo 多款成人玩具的安全性分析 - FROM IOT TO IOD： https://www.sec-consult.com/en/blog/2018/02/internet-of-dildos-a-long-way-to-a-vibrant-future-from-iot-to-iod/index.html
+[ IoTDevice ]  攻击  Sonoff Wifi 智能开关： Part 1 :  http://blog.kilomon.com/2018/01/hacking-sonoff-wifi-switch.html , Part 2 :  http://blog.kilomon.com/2018/02/hacking-sonoff-wifi-switch-part-2.html , Part 3 ：  http://blog.kilomon.com/2018/02/hacking-sonoff-wifi-switch-part-3-alexa.html
+[ IoTDevice ]  多款 IoT 设备的多个漏洞披露，包含硬编码凭证和远程命令注入漏洞： https://blogs.securiteam.com/index.php/archives/3661
+[ IoTDevice ]   从 IoT 设备逆向的角度看小米 IoT 生态系统： https://recon.cx/2018/brussels/resources/slides/RECON-BRX-2018-Reversing-IoT-Xiaomi-ecosystem.pdf
+[ IoTDevice ]  Gaining root via UART :  http://konukoii.com/blog/2018/02/16/5-min-tutorial-root-via-uart/
+[ IoTDevice ]   腾达 AC15 路由器远程代码执行漏洞分析与利用（CVE-2018-5767）： https://www.fidusinfosec.com/remote-code-execution-cve-2018-5767/   https://exploit.kitploit.com/2018/02/tenda-ac15-remote-code-execution.html
+[ IoTDevice ]  THE CAR HACKER'S HANDBOOK: A Guide for the Penetration Tester： http://opengarages.org/handbook/ebook/
+[ IoTDevice ]  评估商用物联网中的敏感信息使用（Paper）： https://arxiv.org/pdf/1802.08307.pdf
+[ IoTDevice ]   物联网黑客 - 如何攻击智能家居系统： https://securelist.com/iot-hack-how-to-break-a-smart-home-again/84092/
+[ IoTDevice ]  HPE iLO3 远程拒绝服务漏洞利用详情（CVE-2017-8987）： https://blog.rapid7.com/2018/03/01/r7-2017-27-cve-2017-8987-hpe-ilo3-unauthenticated-remote-dos-fixed/
+[ IoTDevice ]  Hacking 梅赛德斯 GLA Class 儿童汽车 ： http://ihackshit.com/blog/?p=101
+[ IoTDevice ]   Xbox Boot ROM 的提取和逆向： https://mborgerson.com/deconstructing-the-xbox-boot-rom/
+[ IoTDevice ]  DJI Spark 无人机的研究： https://embedi.com/blog/dji-spark-hijacking/
+[ IoTDevice ]  恢复一个变砖了的 MP Mini Delta 3D 打印机： http://arkorobotics.com/blog/?p=161
+[ IoTDevice ]  卡巴斯基对韩华（Hanwha）智能摄像头的安全研究，发现了 10 多个严重漏洞： https://securelist.com/somebodys-watching-when-cameras-are-more-than-just-smart/84309/
+[ IoTDevice ]  MikroTik RouterOS SMB 内存溢出漏洞披露（CVE-2018-7445）： https://www.coresecurity.com/advisories/mikrotik-routeros-smb-buffer-overflow
+[ IoTDevice ]  在未认证的情况下启动 TENDA AC15 路由器 TELNETD 服务漏洞（CVE-2018-5770）： https://www.fidusinfosec.com/tenda-ac15-unauthenticated-telnetd-start-cve-2018-5770/
+[ IoTDevice ]  Pwn a ARM Router Step by Step： https://xianzhi.aliyun.com/forum/topic/2184
+[ IoTDevice ]  UbootKit: IoT 设备引导程序的蠕虫攻击，来自 Blackhat Asia 2018： https://www.blackhat.com/docs/asia-18/asia-18-Yang-UbootKit-A-Worm-Attack-for-the-Bootloader-of-IoT-Devices.pdf
+[ IoTDevice ]  智能移动设备的身份验证方案：威胁模型，对策和开放研究问题(Paper)： https://arxiv.org/pdf/1803.10281.pdf
+[ IoTDevice ]  OWASP TOP 10 物联网漏洞一览： https://embedi.com/blog/reflecting-upon-owasp-top-10-iot-vulnerabilities/
+[ IoTDevice ]  IoT 感知：通过行为指纹（Behavioral Fingerprinting）识别 IoT 设备类型： https://arxiv.org/pdf/1804.03852.pdf
+[ IoTDevice ]  Foscam IP摄像头固件恢复存在漏洞，无身份认证及固件签名校验（CVE-2017-2871）： https://blog.talosintelligence.com/2018/04/foscam-unsigned-image-vuln.html
+[ IoTDevice ]  car hacking 系列 Part 1： https://console-cowboys.blogspot.com/2018/04/hacking-all-cars-part-1.html
+[ IoTDevice ]  智能汽车安全研究报告:  https://www.computest.nl/wp-content/uploads/2018/04/connected-car-rapport.pdf
+[ IoTDevice ]  HooToo TripMate Titan HT-TM05 路由器多个严重漏洞分析与利用: http://blog.ioactive.com/2018/04/hootoo-tripmate-routers-are-cute-but.html
+[ IoTDevice ]  RouterOS 漏洞披露，攻击者可以使用特殊工具连接到Winbox端口并获取系统用户数据库文件： https://forum.mikrotik.com/viewtopic.php?f=21&;t=133533
+[ IoTDevice ]  物联网安全威胁建模,来自 Microsoft Azure blog： https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-security-architecture
+[ IoTDevice ]  D-Link DIR-850L 远程代码执行漏洞利用脚本： https://twitter.com/i/web/status/988054206547406850
+[ IoTDevice ]  TPLINK TLWR740N 路由器远程代码执行漏洞分析与利用(CVE-2017-13772)： https://www.fidusinfosec.com/a-curious-case-of-code-reuse-tplink-cve-2017-13772-v2
+[ IoTDevice ]  破解与逆向 TomTom Runner GPS 智能手表系列，Part 1： http://grangeia.io/2015/11/09/hacking-tomtom-runner-pt1/ Part 2 ： http://grangeia.io/2015/11/16/hacking-tomtom-runner-pt2/ Part 3： http://grangeia.io/2015/11/30/hacking-tomtom-runner-pt3/
+[ IoTDevice ]   诺顿核心安全无线路由器（Norton Core Secure WiFi Router）漏洞挖掘与利用：  https://embedi.com/blog/whos-watching-the-watchers-vol-ii-norton-core-secure-wifi-router/
+[ IoTDevice ]  安全人员发现 GPON 家用路由器存在远程代码执行漏洞(CVE-2018-10561 、CVE-2018-10562)： https://www.vpnmentor.com/blog/critical-vulnerability-gpon-router/

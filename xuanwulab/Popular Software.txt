@@ -1,0 +1,1117 @@
+[ Popular Software ]  Trend Micro DLL hijacking https://cxsecurity.com/issue/WLB-2016010003
+﻿"趋势科技下载器 DLL 劫持漏洞 https://t.co/Arr1Jr6FW3 "
+[ Popular Software ]  Ganeti vulnerabilities allowing to take over VMs remotely https://pierrekim.github.io/blog/2016-01-05-Ganeti-Info-Leak-DoS.html CVE-2015-7944 CVE-2015-7945 #DoS #infoleak #DRBD
+﻿"虚拟机集群管理工具 Ganeti 存在漏洞，可以实现远程控制虚拟机，获取敏感信息。 CVE-2015-7944 CVE-2015-7945 https://t.co/ArZfi2GbnH"
+[ Popular Software ]  Atlassian Confluence XSS / Insecure Direct Object Reference https://cxsecurity.com/issue/WLB-2016010018
+﻿"Atlassian 开发的团队协作工具 Confluence 存在 XSS 和不安全的对象引用漏洞（CVE-2015-8398/CVE-2015-8399） https://t.co/qIK9YiSrfM"
+[ Popular Software ]  Apache LDAP / Directory Studio Command Injection https://cxsecurity.com/issue/WLB-2016010020
+﻿"Apache LDAP/ Directory Studio 命令注入漏洞（CVE-2015-5349）  https://t.co/QUtrMOGPTC"
+[ Popular Software ]  Kaspersky Labs DLL Hijacking https://cxsecurity.com/issue/WLB-2016010022
+﻿"Kaspersky DLL 劫持漏洞，该漏洞需要用户将某些 DLL 放入 'Downloads' 文件夹 https://t.co/HBuGZE7xtN"
+[ Popular Software ]  Looks like I got the first bug disclosed for 2016 from @ thezdi! http://www.zerodayinitiative.com/advisories/ZDI-16-001/
+﻿"以色列 Unitronics 公司的 HMI/PLC IDE 存在文件解析缓冲区溢出漏洞（CVE-2015-7939）： https://t.co/TRNR65jFQP"
+[ Popular Software ]  VMware issues patch for guest privilege escalation flaw http://www.vmware.com/security/advisories/VMSA-2016-0001.html#sthash.2rpN8XTR.dp https://t.co/rfaZtqjJg5
+﻿"VMware 修复了一个 Guest 提权漏洞（CVE-2015-6933）： https://t.co/j0cwovPAqd https://t.co/rfaZtqjJg5 "
+[ Popular Software ]  TrueCrypt 7.1a / 7.2 DLL Hijacking - Intelligent Exploit http://www.intelligentexploit.com/view-details.html?id=23004
+﻿"TrueCrypt 7.1a/7.2 DLL 劫持漏洞 https://t.co/g0oP21JQFh"
+[ Popular Software ]  ZDI-16-007: McAfee Application Control Kernel Driver Memory Corruption Privilege Escalation Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-007/
+﻿"McAfee 应用控制组件驱动程序存在内存破坏提权漏洞，来自 ZDI 漏洞公告: https://t.co/KdH9pejzFW"
+[ Popular Software ]  TrendMicro node.js HTTP server listening on localhost can execute commands https://code.google.com/p/google-security-research/issues/detail?id=693
+﻿"趋势科技 node.js 本地 HTTP 服务器可以执行任意命令 https://t.co/FTvTKkQgVF"
+[ Popular Software ]  SEC Consult whitepaper: Bypassing McAfee Application Whitelisting for… http://goo.gl/fb/AyjmbI #FullDisclosure
+﻿"绕过 McAfee 关键设施系统的应用白名单限制，来自 SEC Consult 的 Paper: https://t.co/aYXWa8k0uy "
+[ Popular Software ]  Analysis of Adobe Flash Player ID3 Tag Parsing Integer Overflow Vulnerability (CVE-2015-5560) https://blog.coresecurity.com/2016/01/12/analysis-of-adobe-flash-player-id3-tag-parsing-integer-overflow-vulnerability-cve-2015-5560/
+﻿"Adobe Flash Player ID3 Tag 解析整数溢出漏洞分析 (CVE-2015-5560)，来自 CoreSecurity Blog： https://t.co/3HX9oT2mRJ "
+[ Popular Software ]  . @ Adobe updates Reader and Acrobat, patches 17 code execution flaws https://threatpost.com/adobe-patches-code-execution-flaws-in-reader-acrobat/115863/ via @ threatpost
+﻿"Adobe Acrobat/Reader 发布补丁更新公告，本次修复了 17 个漏洞，其中 16 个可以实现代码执行： https://t.co/JAUE0QTuQ0 "
+[ Popular Software ]  ZDI-16-010: Adobe Acrobat Reader DC Search Query Use-After-Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-010/
+﻿"Adobe Acrobat 阅读器搜索查询 UAF RCE（ZDI-16-010），来自 ZDI 公告:  https://t.co/1tWaiHuESB"
+[ Popular Software ]  ZDI-16-017: Adobe Reader Graphics State Parameter Dictionary Double Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-017/
+﻿"Adobe 阅读器图形状态参数字典 Double Free RCE（ ZDI-16-017），来自 ZDI 公告: https://t.co/nI9ENgGOBn"
+[ Popular Software ]  ZDI-16-016: Adobe Reader DC AGM Use-After-Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-016/
+﻿"Adobe 阅读器 agm.dll UAF RCE（ZDI-16-016），来自 ZDI Blog:  https://t.co/yEWte2p94T"
+[ Popular Software ]  uninitialized remote memory disclosure vulnerability in node. nice job, @ feross https://twitter.com/j4cob/status/687764484291600384
+﻿"Node.js 未初始化变量远程信息泄露漏洞， 来自 Github 的 issue 说明： https://github.com/nodejs/node/issues/4660  "
+[ Popular Software ]  Manage Engine Applications Manager 12 Multiple Vulnerabilities https://cxsecurity.com/issue/WLB-2016010085
+﻿"ManageEngine 应用管理器 12 版本存在多个漏洞 https://t.co/ZSdN6KD5Ez"
+[ Popular Software ]  [CORE-2016-0001] - Intel Driver Update Utility MiTM http://goo.gl/fb/FEizQu #FullDisclosure
+﻿"Intel 驱动程序更新组件中间人劫持漏洞（CVE-2016-1493），该漏洞由 CoreSecurity 发现， FullDisclosure 的公告： https://t.co/wPaNJFgdHZ"
+[ Popular Software ]  Adobe Reader/Acrobat Pro Privilege Escalation (CVE-2015-5090): http://warchest.fusionx.com/cve-2015-5090-adobe-readeracrobat-pro-privilege-escalation/ https://t.co/Jmm6rHw9N3
+﻿"Adobe Reader/Acrobat Pro 沙箱逃逸漏洞的利用(CVE-2015-5090)，该漏洞出现在 Adobe Reader 的自动更新服务上（AdobeARMService），更新服务在更新过程中会从一块共享内存中读取参数，但是非特权进程也有权限改写这块内存。ZDI 提出的利用方法是改写这块内存控制传递给 AdobeARMHelper.exe 的参数，最终用 Adobe 二进制文件覆盖 AdobeARM.exe，进而后续以高权限加载恶意 PDF 文档，释放 DLL 到本地路径，完成攻击。 而本篇 Blog 作者分享了几种不一样的攻击方法，来自 FusionX 的 Blog: https://t.co/QnEYm5MIIX"
+[ Popular Software ]  LiteSpeed Web Server - Security Advisory - HTTP Header Injection… http://goo.gl/fb/qzxyBk #FullDisclosure
+﻿"LiteSpeed Web 服务器 HTTP 头注入漏洞，来自 FullDisclosure 的公告： https://t.co/zNYQtN1qns "
+[ Popular Software ]  Warm up your fibres… “Oracle Critical Patch Update - January 2016” http://www.oracle.com/technetwork/topics/security/cpujan2016-2367955.html
+﻿"Oracle 本月的紧急补丁更新，本次修复包含各产品总计 248 个补丁： https://t.co/qngJGkCFR4"
+[ Popular Software ]  Node JS Remote Memory Disclosure https://cxsecurity.com/issue/WLB-2016010127
+﻿"Node.js 远程信息泄露漏洞： https://t.co/BvhjwBH1qx"
+[ Popular Software ]  ZDI-16-023: Oracle GoldenGate Veridata File Upload Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-023/
+﻿"Oracle GoldenGate mgr 进程监听本地 TCP 7809 端口，进程对连接的认证不够完善，可以实现任意文件写，最终实现 SYSTEM 远程代码执行，来自 ZDI 公告 ZDI-16-023： https://t.co/maPwP14pZd"
+[ Popular Software ]  PHP 5.6.10 Buffer overflow and stack smashing error in phar_fix_filepath https://cxsecurity.com/issue/WLB-2016010158
+﻿"PHP 5.6.10 phar_fix_filepath 缓冲区溢出漏洞，来自 CXSecurity 公告：  https://t.co/PZCQtGEVaM"
+[ Popular Software ]  PHP-FPM fpm_log.c memory leak and buffer overflow http://seclists.org/bugtraq/2016/Jan/117
+﻿"PHP-FPM（FastCGI Process Manager） fpm_log.c 内存泄露和缓冲区溢出，来自 FullDisclosure 公告： https://t.co/9GAy3SAP6T"
+[ Popular Software ]  [CORE-2016-0002] - Lenovo ShareIT Multiple Vulnerabilities http://goo.gl/fb/pRXjuh #FullDisclosure
+﻿"联想文件共享软件 ShareIT 存在多个漏洞，包括硬编码密码、信息泄露、敏感数据未加密。这些漏洞由 CoreSecurity 发现，来自 FullDisclosure 的公告： https://t.co/cf3yshlu9q"
+[ Popular Software ]  PayPal Remote Code Execution Vulnerability* using Java Deserialization : http://artsploit.blogspot.in/2016/01/paypal-rce.html //*Fixed
+﻿"PayPal Java 反序列化远程代码执行漏洞（目前已修复）: https://t.co/tueZXWk5sb "
+[ Popular Software ]  PoC Exploit (and Analysis) of yesterday’s CVE-2016-0752 - Rails Remote Code Execution by @ forced_request: https://nvisium.com/blog/2016/01/26/rails-dynamic-render-to-rce-cve-2016-0752/
+﻿"从 Rails 动态 Render 到 RCE（CVE-2016-0752），来自 nVisium Blog 的 PoC Exploit: https://t.co/s62EEbr8NB"
+[ Popular Software ]  Exciting Tuesday nginx security advisory! CVE-2016-0742, CVE-2016-0746, CVE-2016-0747 http://mailman.nginx.org/pipermail/nginx/2016-January/049700.html
+﻿"nginx 安全公告：CVE-2016-0742、CVE-2016-0746、CVE-2016-0747： https://t.co/df0KqYa8Cf"
+[ Popular Software ]  Eclipse BIRT Report Viewer <= 4.5.0 XSS http://goo.gl/fb/yT0RTa #FullDisclosure
+﻿"Eclipse BIRT 报表查看器 4.5.0 之前版本 XSS 漏洞，来自 FullDisclosure： https://t.co/OUsCvlY4mO "
+[ Popular Software ]  Exploiting the Oracle Workspace Manager SQL Race Condition : http://www.davidlitchfield.com/ExploitingtheOracleWorkspaceManagerSQLRaceCondition.pdf (pdf)
+﻿"Oracle Workspace Manager SQL 竞争条件漏洞的利用， 作者为 David Litchfield， Paper: https://t.co/DNdv5yJBIa "
+[ Popular Software ]  McAfee privileged SiteList.xml leads to Active Directory domain privilege escalation : https://github.com/tfairane/HackStory/blob/master/McAfeePrivesc.md cc: @ tfairane
+﻿"通过 McAfee SiteList.xml 实现 Active Directory 域提权: https://t.co/ZeHNB0w74Q "
+[ Popular Software ]  Quick update made to the #Socat backdoor story: https://threatpost.com/socat-warns-weak-prime-number-could-mean-its-backdoored/116104/ via @ threatpost
+﻿"命令行工具 Socat 被怀疑植入后门， 弱质数可能就意味着存在后门， 来自 ThreatPost 报道： https://t.co/KKU430X2n3"
+[ Popular Software ]  Java and Command Line Injections in Windows http://codewhitesec.blogspot.com/2016/02/java-and-command-line-injections-in-windows.html https://t.co/o5deFbKVol
+﻿"为了避免命令行参数解析出问题，Java 建议使用 ProcessBuilder 创建进程。但是在 Windows 环境下，由于命令行参数解析规则不一致，仍然存在命令行注入的问题。 Blog： https://t.co/z6S0JOVmgG https://t.co/o5deFbKVol"
+[ Popular Software ]  Exploiting Deserialization in Perl v5.8 : http://www.agarri.fr/kom/archives/2016/02/06/deserialization_in_perl_v5_8/index.html
+﻿"Exploiting Perl 5.8 版本的反序列化问题，  来自 Agarri Blog: https://t.co/ZM313xvJrC"
+[ Popular Software ]  HTTP Response Splitting in Node.js – Root Cause Analysis http://blog.safebreach.com/2016/02/09/http-response-splitting-in-node-js-root-cause-analysis/
+﻿"Node.js HTTP Response 截断漏洞（CVE-2016-2216）的根本原因分析， 来自 SafeBreach Blog： https://t.co/QNxg8X3mDH"
+[ Popular Software ]  Looking inside the (Drop) box : http://0b4af6cdc2f0c5998459-c0245c5c937c5dedcca3f1764ecc9b2f.r43.cf2.rackcdn.com/12058-woot13-kholia.pdf (pdf)
+﻿"文件存储服务 Dropbox 客户端的逆向和攻击，绕过双因素认证，劫持用户账户。  Paper: https://t.co/JiHT9O0naP "
+[ Popular Software ]  Cracking PHP rand() : http://www.sjoerdlangkemper.nl/2016/02/11/cracking-php-rand/
+﻿"破解 PHP 随机数函数 rand(): https://t.co/NKNdI1xYAr"
+[ Popular Software ]  .@ VMware reissues incomplete vCenter Server patch for a RCE flaw - http://ow.ly/YlJox
+﻿"VMware 补发了一个补丁，修复 vCenter Server 的 RCE 漏洞， 来自 ThreatPost 的报道： https://t.co/VNRsrxEh9a"
+[ Popular Software ]  Serialization Must Die, Part 1: Attacking Kryo https://www.contrastsecurity.com/security-influencers/serialization-must-die-act-1-kryo
+﻿"Serialization Must Die， Part 1: 攻击 Java 序列化框架 Kryo， 来自 Contrast Security Blog： https://t.co/egxpmUNtoE"
+[ Popular Software ]  Finally finished my writeup on PHP Mem-read via gdImageRotate. POC attached: http://www.libnex.org/blog/exploitingcve-2016-1903memoryreadviagdimagerotateinterpolated
+﻿"Exploit PHP CVE-2016-1903 - 通过 gdImageRotate 实现内存读取， 来自 libNex Blog: https://t.co/XCEk7EvVpi"
+[ Popular Software ]  Compromising Symantec Endpoint Protection 11.x http://codewhitesec.blogspot.gr/2016/02/symantec-endpoint-protection-legacy-edition.html
+﻿"Symantec SEP（终端保护） 11.x 版本存在多个漏洞，包括 SQL 注入、命令执行、二进制注入等漏洞， 来自 CodeWiteSec Blog：  https://t.co/TapdsXzqV7  去年 7 月份，作者还写过一篇文章，分析 Symantec SEP 12.1 版本的多个漏洞：  http://codewhitesec.blogspot.com/2015/07/symantec-endpoint-protection.html "
+[ Popular Software ]  Using 'Free' SSL/TLS Certificates from Lets Encrypt with NGINX https://www.nginx.com/blog/free-certificates-lets-encrypt-and-nginx/
+﻿"用 Lets Encrypt 的方案在 NGINX 服务器上启用  SSL/TLS 免费证书， 来自 Nginx Blog：   https://t.co/eQjYBbKh7P"
+[ Popular Software ]  Available for download: @ NCCsecurityUS’s Public Report of the Ricochet Security Assessment funded by @ OpenTechFund http://bit.ly/1QelYKE
+﻿"NCC Group 对匿名通信应用 Ricochet 的安全评估报告： https://t.co/An7CxaheD8 "
+[ Popular Software ]  New report: "Baidu’s and Don’ts: #Privacy and Security Issues in #Baidu Browser" https://citizenlab.org/2016/02/privacy-security-issues-baidu-browser/
+﻿"多伦多大学公民实验室的最新报告， 揭露了百度浏览器存在的多处隐私与安全问题： https://t.co/hdvuiMBH0y  报告的中文摘要： https://citizenlab.org/2016/02/%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E7%99%BE%E5%BA%A6%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AD%98%E5%9C%A8%E5%AE%89%E5%85%A8%E4%B8%8E%E9%9A%90%E7%A7%81%E9%97%AE%E9%A2%98/ "
+[ Popular Software ]  Security assessment of Oracle's eBusiness suite with PoCs for the more interesting web SQL injection issues http://www.davidlitchfield.com/AssessingOraclee-BusinessSuite11i.pdf
+﻿"Oracle 电子商务套件 11i 版本 SQL 注入漏洞报告（2015 年 11 月）：  https://t.co/jhdpBjCn0T"
+[ Popular Software ]  A Quite Rare MSSQL Injection http://c0rni3sm.blogspot.com/2016/02/a-quite-rare-mssql-injection.html #bugbounty
+﻿"一个非常罕见的 MSSQL 注入漏洞案例， Blog： https://t.co/bMex3axfwV "
+[ Popular Software ]  @bsidessf Arne Swinnen - "The tales of a bug bounty hunter " exploits in instagram and Facebook https://t.co/Dr2G9eAvJf
+﻿"Bug Hunter 的故事与 Instagram 的 10 个漏洞: https://www.arneswinnen.net/2016/02/the-tales-of-a-bug-bounty-hunter-10-interesting-vulnerabilities-in-instagram/ "
+[ Popular Software ]  CVE request Qemu: OOB access in address_space_rw leads to segmentation fault: Hello, Qemu emulator built t... http://bit.ly/21zklOY
+﻿" Qemu address_space_rw 越界访问拒绝服务漏洞，影响 1.6.0～2.3.1 版本。 安全公告： https://t.co/LhAOchUz5q"
+[ Popular Software ]  #Putty buffer overflow PoC cve-2016-2563 released right now. Thanks tintinweb for sharing. https://github.com/tintinweb/pub/blob/master/pocs/cve-2016-2563/poc.py https://t.co/KYf5MZqOED
+﻿"Putty 缓冲区溢出 PoC (CVE-2016-2563): https://t.co/TlH8qcDTXl https://t.co/KYf5MZqOED"
+[ Popular Software ]  Adobe Patches Reader and Acrobat, Teases Upcoming Flash Update: https://threatpost.com/adobe-patches-reader-and-acrobat-teases-upcoming-flash-update/116662/ via @ threatpost
+﻿"Adobe 发了本月的补丁公告， 其中包括 Acrobat Reader 3 个漏洞， 来自 ThreatPost 的报道： https://t.co/E7dLFuzbPE"
+[ Popular Software ]  Wireshark Wtap_optionblock_free Use-After-Free https://packetstormsecurity.com/files/136110/GS20160307233508.tgz
+﻿"Wireshark Wtap_optionblock_free UAF 漏洞:  https://t.co/RHKA7hv4Ur"
+[ Popular Software ]  Exim Local User Privileges Escalation (CVE-2016-1531) http://exim.org/static/doc/CVE-2016-1531.txt
+﻿"邮件服务器软件 Exim 本地用户提取漏洞 (CVE-2016-1531)， 来自 Exim 的公告：  https://t.co/xi1cIG8uUM"
+[ Popular Software ]  NCC Group Advisories: SAP Netweaver - https://www.nccgroup.trust/uk/our-research/multiple-security-vulnerabilities-in-sap-netweaver-bsp-logon/ and https://www.nccgroup.trust/uk/our-research/potential-false-redirection-of-web-site-content-in-internet-in-sap-netweaver-web-applications/ - CVE-2015-8774 and CVE-2015-8775 by @ irsdl
+﻿"NCC Group 发现了集成化平台 SAP Netweaver 的多个漏洞: https://t.co/rnjwIk1GHM   https://t.co/Hly6dVyD1D "
+[ Popular Software ]  Bind DNS remote exploit vuln: CVE-2016-1285: An error parsing input received by the rndc control channel... https://kb.isc.org/article/AA-01352/74/CVE-2016-1285%3A-An-error-parsing-input-received-by-the-rndc-control-channel-can-cause-an-assertion-failure-in-sexpr.c-or-alist.c.html
+﻿"Bind 9 DNS  CVE-2016-1285 拒绝服务，在处理 rndc 控制信道收到的数据时触发 Assert，导致服务退出：  https://t.co/HnXYgjBPzy"
+[ Popular Software ]  . @ Adobe #Flash Player Update Patches 18 Remote Code Execution Flaws: https://threatpost.com/flash-player-update-patches-18-remote-code-execution-flaws/116707/ via @ threatpost
+﻿"Adobe Flash 发布 3 月份的补丁更新公告， 本次修复 18 个远程代码执行漏洞， 来自 ThreatPost 的报道： https://t.co/aRobNAUtfe  官方公告： https://helpx.adobe.com/security/products/flash-player/apsb16-08.html "
+[ Popular Software ]  [SE-2012-01] Broken security fix in Oracle Java SE 7/8/9 http://seclists.org/fulldisclosure/2016/Mar/31
+﻿"Broken security fix in Oracle Java SE 7/8/9, 来自 FullDisclosure 的公告: https://t.co/EJx1Ya87u5  这份公告中有一个演讲链接, JavaLand 2016 会议 Adam Gowdiak 谈 Java 的安全问题: http://www.security-explorations.com/materials/se-javaland.pdf "
+[ Popular Software ]  @ HaifeiLi it wouldn't be the first time that virtualization software ends up making exploitation easier: http://www.coresecurity.com/content/virtual-pc-2007-hypervisor-memory-protection-bug
+﻿"Virtual PC Hypervisor 内存保护 Bug,这是 2010 年的一个 Bug, 来自 Core Security 的公告 ︰ https://t.co/e1uEoeWQB0"
+[ Popular Software ]  Server & Client side RCE through a buffer overflow in all git ver < 2.7.1 : http://seclists.org/oss-sec/2016/q1/645
+﻿"Git 2.7.1 以前版本缓冲区溢出 RCE（CVE-2016-2324 和 CVE-2016-2315），客户端和服务端都受影响， 来自 Full Disclosure 的报道 ︰ https://t.co/7ab3MiLNxq"
+[ Popular Software ]  If you haven't already, patch your Ruby on Rails (CVE-2016-2098): https://groups.google.com/forum/#!msg/rubyonrails-security/ly-IH-fxr_Q/WLoOhcMZIAAJ ( exploit: /?id[inline]=<%25_ruby_code_%25> )
+﻿"赶紧升级你的 Ruby on Rails 吧, Ruby on Rails ActionPack (有可能)远程代码执行漏洞(CVE-2016-2098), 来自 Google Groups: https://t.co/fsdRAMv0wN "
+[ Popular Software ]  Adobe Flash op_pushwith Incorrect Jit Optimization https://packetstormsecurity.com/files/136264/GS20160317052509.tgz
+﻿"Adobe Flash 在检查 op_pushwith Opcode 控制流路径时不正确，导致抛出异常。利用这个漏洞可以实现代码执行（CVE-2014-0586）：  https://t.co/zzKFdEmP66"
+[ Popular Software ]  Adobe Flash Wild Write Crash https://packetstormsecurity.com/files/136338/GS20160322002341.tgz
+﻿"Adobe Flash CVE-2015-5575 PoC: https://t.co/5V7adudqvv"
+[ Popular Software ]  Adobe Flash Zlib Codec Heap Overflow https://packetstormsecurity.com/files/136361/GS20160322235529.tgz
+﻿"Adobe Flash Zlib 编解码器堆溢出： https://t.co/SpxsWEnd7b  Project Zero Issue 720: https://bugs.chromium.org/p/project-zero/issues/detail?id=720 "
+[ Popular Software ]  Foxit Reader 7.3.0 UAF PoC ( Patched in latest version) #DailyBug #Foxit http://www.vnsecurity.net/research/2016/03/23/Foxit-Reader-730-use-after-free.html
+﻿"福昕阅读器 7.3.0 UAF PoC： https://t.co/SrtDvBGVoF   在最新版 7.3.4 中已经修复"
+[ Popular Software ]  Foxit Reader <= 7.3.0 ObjStm decode Use-After-Free Remote Code Execution 1day! http://sourceincite.com/2016/03/23/foxit-reader-7-3-0-objstm-decode-use-after-free-remote-code-execution-1-day/
+﻿"福昕阅读器 7.3.0 Object Stream 解码 UAF RCE： https://t.co/IDK4keUUKG  作者的这个 0Day 在 7.3.4 版本被 Kill 掉了，所以作者决定公布出来"
+[ Popular Software ]  Oracle out-of-band release for Java 0-day https://blog.qualys.com/laws-of-vulnerabilities/2016/03/24/oracle-out-of-band-release-for-java-0-day
+﻿"Oracle 发了一个带外补丁，用于修复两周前在 FullDisclosure 上泄漏的 Java 0Day（CVE_2013-5838 的变种）： https://t.co/MYMCjY56Ir   两周前 FullDisclosure 的公告： http://seclists.org/fulldisclosure/2016/Mar/31  "
+[ Popular Software ]  Adobe Flash PCRE Regex Complication Logic Issue https://packetstormsecurity.com/files/136456/GS20160328155434.tgz
+﻿"Adobe Flash PCRE 正则编译逻辑问题（CVE-2015-0318）： https://t.co/pfcPGzIpEO  Project Zero Issue 199: https://bugs.chromium.org/p/project-zero/issues/detail?id=199 "
+[ Popular Software ]  Patch me if you can : https://www.troopers.de/media/filer_public/6e/a1/6ea1f857-11b7-4823-b2a4-9de93213f0f6/troopers16_patch_me_if_you_can_final.pdf (Slides) cc: @ WEareTROOPERS
+﻿"Patch me if you can ，来自 Troopers 会议演讲， 主要介绍企业管理软件 SAP、SMP 系统的一些安全问题︰ https://t.co/SpnuN0R3e3 "
+[ Popular Software ]  Check out what we've learned in the past 10 years of protecting Gmail users #enigma2016 http://goo.gl/ob5g1b https://t.co/flwCVTKPDv
+﻿"在过去 10 年的 Gmail 防护中，我们学到了什么， 来自 Google Blog：  https://t.co/m9hTkTUAQK  Slides : http://www.slideshare.net/elie-bursztein/lessons-learned-while-protecting-gmail "
+[ Popular Software ]  Some Old SAP Systems Have Default Kernel User Accounts https://packetstormsecurity.com/news/view/26478/Some-Old-SAP-Systems-Have-Default-Kernel-User-Accounts.html
+﻿"一些比较老的 SAP 系统存在默认内核用户帐户： https://t.co/FpCim3JzKi"
+[ Popular Software ]  Docker UI v0.10.0 - Multiple Client Side Cross Site Request Forgery Web… http://goo.gl/fb/usGRzA #FullDisclosure
+﻿"DockerUI v0.10.0 多个跨站请求伪造漏洞， DockerUI 是 Docker 远程 API 的 Web 接口， 来自 FullDisclosure 的公告：  https://t.co/n7kTBwPAV4 "
+[ Popular Software ]  Groovy, Scala and other JVM languages are as vulnerable as Java https://github.com/pwntester/JVMDeserialization #javadeser -> #jvmdeser #LetTheHungerGamesBegin
+﻿"JVM 反序列化漏洞 PoC： Groovy，Scala ： https://t.co/VFznLhaqPC "
+[ Popular Software ]  [SE-2012-01] Broken security fix in IBM Java 7/8 http://goo.gl/fb/njfLIN #FullDisclosure
+﻿"Broken security fix in IBM Java 7/8， 来自 FullDisclosure 公告： https://t.co/6PlTz2OP76 "
+[ Popular Software ]  New advisory! An UNC NTLM Relay issue @ nmonkee found in SAGE ERP 1000 during a security assessment! https://labs.mwrinfosecurity.com/advisories/sage-erp-1000/
+﻿"MWR Labs 在测试 SAGE ERP 1000 系统时发现了一个 UNC NTLM Relay 漏洞： https://t.co/RiL7zNTuHK"
+[ Popular Software ]  Nice java deserialization info collection https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet
+﻿"Java 反序列化漏洞收集： https://t.co/dqaR3kyqXS"
+[ Popular Software ]  Dameware Mini Remote Control 0day POC http://zpr.io/hwdV #InfoSec
+﻿"Dameware Mini 远控软件代码执行 PoC： https://t.co/fLYcdCeV9P "
+[ Popular Software ]  Adobe to release an emergency Flash Player update this week for a vuln under attack: https://threatpost.com/emergency-update-coming-for-flash-vulnerability-under-attack/117219/ via @ threatpost
+﻿"Adobe Flash 发布了一个紧急补丁，修复野外攻击中使用的 CVE-2016-1019 漏洞， 来自 ThreatPost 的报道： https://t.co/W8EUQkKQq3  Adobe 公告： https://helpx.adobe.com/security/products/flash-player/apsa16-01.html "
+[ Popular Software ]  Flash CVE-2016-1019 being actively exploited, advisory: https://helpx.adobe.com/security/products/flash-player/apsa16-01.html with credits to @ kafeine and @ _clem1
+﻿"Flash CVE-2016-1019 漏洞正在野外被利用， Adobe 发布紧急更新：  https://t.co/SJFDGVAR3w"
+[ Popular Software ]  New post: A Root Cause Analysis of the Recent Flash Zero-Day Vulnerability, CVE-2016-1010 http://bit.ly/22bCgX4 @ TrendMicro
+﻿"Flash 最近的 0Day CVE-2016-1010 漏洞根本原因分析， 来自 TrendMicro Blog： https://t.co/FaAn4znFx2 "
+[ Popular Software ]  Killing a zero-day in the egg: Adobe CVE-2016-1019 - https://www.proofpoint.com/us/threat-insight/post/killing-zero-day-in-the-egg https://t.co/QWLR0NVM6j
+﻿"Killing a Zero-Day in the Egg: Adobe CVE-2016-1019： https://t.co/6e9dayfVuo https://t.co/QWLR0NVM6j  FireEye 对这个漏洞的分析： https://www.fireeye.com/blog/threat-research/2016/04/cve-2016-1019_a_new.html "
+[ Popular Software ]  #Adobe #Flash Player #security updates available (APSB16-10) - details @ http://adobe.ly/1VbLVh1
+﻿"Adobe Flash 发布补丁更新公告(APSB16-10)，本次修复 24 个漏洞，包括一个野外被利用的漏洞： https://t.co/bqVsqQo5li "
+[ Popular Software ]  ZDI-16-228: (Pwn2Own) Adobe Flash JPEG-XR Parsing Stack Buffer Overflow Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-228/
+﻿"ZDI-16-228: Adobe Flash JPEG-XR 解析栈缓冲区溢出 RCE，腾讯电脑管家团队用该漏洞打的 Pwn2Own 比赛： https://t.co/SYRuZfsDp8"
+[ Popular Software ]  A Look Into Adobe Flash Player CVE-2016-1019 Zero-Day Attack http://blog.trendmicro.com/trendlabs-security-intelligence/look-adobe-flash-player-cve-2016-1019-zero-day-vulnerability/
+﻿"Adobe Flash Player CVE-2016-1019 0Day 攻击分析， 来自 TrendMicro Blog： https://t.co/ZEkRV2mUgA"
+[ Popular Software ]  Links to my @ InfiltrateCon and @ SyScan360 slide decks about Pwning Adobe Reader with XFA are now online on our blog http://siberas.blogspot.de
+﻿"滥用 Adobe Reader 内嵌的 XFA 引擎实现稳定的漏洞利用， XFA 指 Adobe 的 XML 表单架构， 来自 siberas 在 InfiltrateCon 和 SyScan 360 会议的演讲：  https://t.co/ZYeqVvFyVZ"
+[ Popular Software ]  [SE-2012-01] Yet another broken security fix in IBM Java 7/8 http://goo.gl/fb/aoA1kv #FullDisclosure
+﻿"Broken security fix in IBM Java 7/8（CVE-2013-5456）， 来自 FullDisclosure 公告 https://t.co/ifLembj4m0 "
+[ Popular Software ]  Oracle OIT Image Export SDK libvs_pdf XRef Index Code Execution Vulnerability http://blog.talosintel.com/2016/04/oracle-oit-image-export-sdk-libvspdf.html
+﻿"Oracle OIT 图像导出 SDK 在解析 PDF 文档时存在代码执行漏洞， 来自 Talos Blog： https://t.co/cHCRw49kbB"
+[ Popular Software ]  Lansweeper 5 SQL injection and weak credential storage lead to domain-admin password recovery! http://blog.gosecure.ca/2016/04/21/your-credentials-at-risk-with-lansweeper-5/
+﻿"Lansweeper 5 存在 SQL 注入和弱密码存储漏洞，可以还原管理员密码：  https://t.co/npfqTpEhqI"
+[ Popular Software ]  @ natashenka I used to debug Flash exploit by inserting "trace" line by line, it's a fun at that time! ref: https://sites.google.com/site/zerodayresearch/smashing_the_heap_with_vector_Li.pdf.
+﻿"Smashing the Heap with Vector - Flash 高级利用技术: https://t.co/WAaq6m9fRo。"
+[ Popular Software ]  Acunetix WVS 10 Remote Command Execution https://packetstormsecurity.com/files/136886/acunetixwvs10-exec.txt
+﻿"Acunetix WVS 10 SYSTEM 权限远程命令执行： https://t.co/TJ8z40GTn3"
+[ Popular Software ]  CVE-2016–3714 - remote code execution in ImageMagick https://medium.com/@ rhuber/imagemagick-is-on-fire-cve-2016-3714-379faf762247#.hwa5glazr
+﻿"ImageMagick 远程代码执行漏洞（CVE-2016-3714）， ImageMagick 是一款流行的图像处理、合成、编辑软件，广泛用于 Web 服务中： https://t.co/cFFFocQFLI "
+[ Popular Software ]  Using CA Process Automation to Get Command Execution as SYSTEM https://securityriskadvisors.com/blog/post/using-ca-process-automation-to-get-command-execution-as-system/ // "Designer for the win". Indeed.
+﻿"通过 CA 过程自动化工具实现 SYSTEM 权限命令执行： https://t.co/vwfUDCG1EW  "
+[ Popular Software ]  Burn your Lenovo spyware; burn it all https://twitter.com/ProfWoodward/status/728619985275392000
+﻿"联想修复解决方案中心（Lenovo Solution Center）的提权漏洞（CVE-2016-1876）： https://t.co/U33N2hpJdA  联想的公告： https://support.lenovo.com/us/zh/product_security/len_4326 "
+[ Popular Software ]  ASUS driver uses copypasta'd code from 1993 sample, enables RW access to physical memory. PoC available http://rol.im/asux/
+﻿" 华硕内存映射驱动物理内存读写 PoC： https://t.co/gjiF2qvRsK"
+[ Popular Software ]  [remote] - Ruby on Rails Development Web Console (v2) Code Execution https://www.exploit-db.com/exploits/39792/
+﻿"Ruby on Rails Web 控制台远程代码执行漏洞： https://t.co/aGQVVyecTC"
+[ Popular Software ]  .@ Adobe warns of Flash #zeroday, patches 95 vulns in Acrobat, Reader for #PatchTuesday - http://ow.ly/L6Dp3005eeS
+﻿"Adobe 发布漏洞公告，本次共修复 95 个漏洞，其中 Flash 1 个，Acrobat Reader 92 个，这 92 个中的 32 个由玄武实验室 Liu Ke 发现： https://t.co/9QVgZzla5M"
+[ Popular Software ]  Advisory and PoC for APSB16-14 (CVE-2016-1077) : https://plmsecurity.net/APSB16-14
+﻿"APSB16-14 Adobe DC Reader CVE-2016-1077 漏洞公告和 PoC: https://t.co/sZklcsKfSv"
+[ Popular Software ]  If you're using any of @ JetBrains #IntelliJ based IDEs please read this http://blog.jetbrains.com/blog/2016/05/11/security-update-for-intellij-based-ides-v2016-1-and-older-versions/ and update as soon as possible #itsecurity
+﻿" IntelliJ IDE v2016.1 版本更新安全公告： https://t.co/fGngHTTAWQ  "
+[ Popular Software ]  Running SAP Java apps? Check whether the Invoker Servlet is enabled. https://threatpost.com/attackers-targeting-critical-sap-flaw-since-2013/118013/ via @ threatpost
+﻿" SAP 商业应用软件的 Invoker Servlet 存在严重漏洞，多个企业被攻击： https://t.co/xRNBC8HTWR"
+[ Popular Software ]  #Adobe #Flash Player #security updates available (APSB16-15) - details @ http://adobe.ly/1OlaZ3c
+﻿"Adobe Flash 昨天发布 APSB16-15 漏洞公告， 本次共修复 25 个漏洞：  https://t.co/A3yuBVEbwR  其中 CVE-2016-4117 已经在野外攻击中出现： https://helpx.adobe.com/security/products/flash-player/apsa16-02.html   http://www.welivesecurity.com/2016/05/12/adobe-flash-zero-day-in-wild/"
+[ Popular Software ]  Huawei Mobile Broadband HL Service Local Privilege Escalation http://goo.gl/fb/kXPi6e #FullDisclosure
+﻿"华为在 Windows 系统的服务 '移动宽带 HL 服务' 存在 SYSTEM 本地提权漏洞，来自 FullDisclosure 公告：  https://t.co/flYfIXrRzh "
+[ Popular Software ]  Flash Vulnerability CVE-2016-4117 Shares Similarities With Older Pawn Storm Exploit http://blog.trendmicro.com/trendlabs-security-intelligence/new-flash-vulnerability-cve-2016-4117-shares-similarities-with-older-pawn-storm-exploit/
+﻿"CVE-2016-4117 Flash 漏洞与之前的 Pawn Storm Exploit 有很多相似性： https://t.co/iSXJtyJbt1"
+[ Popular Software ]  CVE-2016-4117: Flash Zero-Day Exploited in the Wild http://www.fireeye.com/blog/threat-research/2016/05/cve-2016-4117-flash-zero-day.html
+﻿"CVE-2016-4117 - 野外传播的 Flash 0Day： https://t.co/E668mMxjGx"
+[ Popular Software ]  Adobe Flash addProperty Use-After-Free https://packetstormsecurity.com/files/137058/GS20160516193103.tgz
+﻿"Adobe Flash addProperty UAF 漏洞（CVE-2016-4108）： https://t.co/66sMwNIZ0w  Project Zero Issue 801： https://bugs.chromium.org/p/project-zero/issues/detail?id=801 "
+[ Popular Software ]  Adobe Flash MovieClip.duplicateMovieClip Use-After-Free https://packetstormsecurity.com/files/137050 #exploit
+﻿"Adobe Flash MovieClip.duplicateMovieClip UAF 漏洞（CVE-2016-1011）： https://bugs.chromium.org/p/project-zero/issues/detail?id=759   这是 Project Zero 研究员 natashenka 在该 API 发现的第二个漏洞了，上一个是： https://bugs.chromium.org/p/project-zero/issues/detail?id=591 "
+[ Popular Software ]  Hipchat Server Remote Code Execution / File Read / SSRF https://cxsecurity.com/issue/WLB-2016050063
+﻿"Hipchat 服务器存在 ImageMagick 漏洞，可以实现远程代码执行、本地文件读写、SSRF， 来自 CXSecurity 的公告： https://t.co/JFWn2RPhRb"
+[ Popular Software ]  [ERPSCAN-16-009] SAP xMII - directory traversal vulnerability http://goo.gl/fb/koLQvK #FullDisclosure
+﻿"SAP MII 15.0 目录遍历漏洞，来自 FullDisclosure 公告： https://t.co/NXi7RBernE "
+[ Popular Software ]  [ERPSCAN-16-008] SAP NetWeaver AS JAVA - XSS vulnerability in ProxyServer… http://goo.gl/fb/DoyzzG #FullDisclosure
+﻿"SAP NetWeaver AS JAVA 7.4 版本 ProxyServer servlet XSS 漏洞，来自 FullDisclosure 公告： https://t.co/2i8i33oOrz "
+[ Popular Software ]  A little explanation of an old heap overflow bug in Foxit Reader https://scoding.de/analsysis-of-a-heap-overflow-in-foxit-reader
+﻿"福昕阅读器一个比较老的漏洞《Foxit Reader PNG Conversion Parsing tEXt chunk Arbitrary Code Execution》： https://t.co/PBBKmF8HBH  影响 7.0.8 - 7.1.5 版本 "
+[ Popular Software ]  Unfixed XSS vuln in "Marked", an npm package with over 1.5M downloads a month https://snyk.io/blog/marked-xss-vulnerability/
+﻿" 'Marked' XSS 漏洞， 'Marked' 是用于将 Markdown 转换成 HTML 输出的一个工具： https://t.co/m9KOuJhPoI"
+[ Popular Software ]  Blog post: bug in OpenJDK when using disk-based Burp projects, and how to work around it http://blog.portswigger.net/2016/05/using-disk-based-projects-with-openjdk.html
+﻿" OpenJDK Java API 存在 Bug，在使用 Burp 磁盘相关项目时会触发该 Bug： https://t.co/RuQxie9V6Y"
+[ Popular Software ]  Adobe patches Connect: https://helpx.adobe.com/security/products/connect/apsb16-17.html
+﻿"Adobe 发布补丁更新，修复了 Adobe Connect 产品的一个路径搜索相关的漏洞（CVE-2016-4118）︰ https://t.co/bnbkaxRW34"
+[ Popular Software ]  Exploring Java deserialization in GitHub http://philwantsfish.github.io/security/java-deserialization-github
+﻿" 从 GitHub 上的项目看 Java 反序列化漏洞的影响范围： https://t.co/7VHPrBRQZg "
+[ Popular Software ]  Publishing more of my slide decks http://www.slideshare.net/LarryCashdollar/mining-ruby-gem-vulnerabilities-for-fun-and-no-profit
+﻿"挖掘 Ruby Gem 的漏洞， Gem 是 Ruby 的包管理工具，相当于 apt-get： https://t.co/cEFCye2yWa"
+[ Popular Software ]  Dropbox developed their own .kext to run in your OS X kernel. But end-to-end crypto is too hard? ¯\_(ツ)_/¯ https://blogs.dropbox.com/tech/2016/05/going-deeper-with-project-infinite/
+﻿"Dropbox 新公开了一个技术项目，名叫 Project Infinite：  https://t.co/ZzB4wR1m7J"
+[ Popular Software ]  PayPal remote code execution using Java deserialization ? - http://artsploit.blogspot.co.uk/2016/01/paypal-rce.html
+﻿" PayPal Java 反序列化漏洞 RCE： https://t.co/eCMNgcTuGy"
+[ Popular Software ]  Mogwai Security Advisory MSA-2016-01: PowerFolder Remote Code Execution Vulnerability http://lab.mogwaisecurity.de/advisories/MSA-2016-01/
+﻿"PowerFolder 服务器 10.4.321 远程代码执行漏洞，来自 Mogwai 漏洞公告： https://t.co/rXG3XHOjJi"
+[ Popular Software ]  ZDI-16-357: Apache ActiveMQ MOVE Method Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-357/
+﻿"ZDI-16-357: Apache ActiveMQ MOVE 方法远程代码执行漏洞（CVE-2016-3088）， ZDI 公告： https://t.co/YEWy7m2212"
+[ Popular Software ]  ZDI-16-354: (0Day) ActivePDF Toolkit ImageToPDF IAT Overwrite Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-354/
+﻿"ZDI-16-354: ActivePDF 工具包 ImageToPDF IAT 改写 RCE（0Day）， ZDI 公告： https://t.co/CrepUwZ6Sb"
+[ Popular Software ]  Integer Overflow in php_html_entities(): https://bugs.php.net/bug.php?id=72135
+﻿" PHP 5.5.35 php_html_entities() 整数溢出漏洞: https://t.co/B7Ao66idVX"
+[ Popular Software ]  CVE-2016-4803 dotCMS - Email Header Injection http://goo.gl/fb/KKe3s5 #FullDisclosure
+﻿" dotCMS 邮件头注入漏洞（CVE-2016-4803），来自 FullDisclosure 的公告： https://t.co/LnZnyDZnr8 "
+[ Popular Software ]  ZDI-16-359: Adobe Reader DC FlateDecode Use-After-Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-359/
+﻿"ZDI-16-359: Adobe Reader FlateDecode UAF RCE（CVE-2016-1094）， ZDI 公告： https://t.co/lGlQkz1dQe"
+[ Popular Software ]  GraphicsMagick and ImageMagick popen() shell vulnerability via filename http://permalink.gmane.org/gmane.comp.security.oss.general/19669
+﻿" GraphicsMagick 和 ImageMagick 在处理 popen 打开文件时，如果遇到管道符，部分文件名会被当作命令执行，来自 OpenWall 的邮件列表： https://t.co/RbMwZ0JyUl "
+[ Popular Software ]  The 0day by niubl of Knownsec 404 Security Team has been killed http://blog.knownsec.com/2016/05/imagemagick-popen-remote-command-execution-vulnerability/
+﻿" 昨天推送过，ImageMagick 在处理文件名时如果遇到管道符，部分文件名会被当作命令执行。知道创宇的研究员也发现了这个漏洞，他们对该漏洞的分析： https://t.co/V3US6R7uYQ"
+[ Popular Software ]  Boot & Crypto Analysis of Sophos SafeGuard Enterprise https://www.logicista.com/2016/sophosboot
+﻿" Sophos SafeGuard 企业版磁盘加密产品的启动过程分析，来自 Logicista Blog： https://t.co/oZxE7iZgu5"
+[ Popular Software ]  [RT-SA-2016-004] Websockify: Remote Code Execution via Buffer Overflow http://goo.gl/fb/zztjtb #FullDisclosure
+﻿" Websockify 缓冲区溢出 RCE，来自 FullDisclosure 公告： https://t.co/Wj4kM93VXJ "
+[ Popular Software ]  Out-of-Box Exploitation : A Security Analysis of OEM Updaters : https://duo.com/assets/pdf/out-of-box-exploitation_oem-updaters.pdf (pdf)
+﻿" OEM 厂商的软件更新工具安全性分析，来自 Duo 团队的报告︰ https://t.co/Fw0JKgWBPA "
+[ Popular Software ]  Critical flaw in KeePass automatic update (over HTTP ?!?!) feature - allows MiTM and push bad updates (RCE). https://bogner.sh/2016/03/mitm-attack-against-keepass-2s-update-check/
+﻿"KeePass 自动更新存在中间人劫持漏洞（CVE-2016-5119）： https://t.co/Kfw0pcNvNX  KeePass 是一款流行的密码管理软件"
+[ Popular Software ]  Tcpdump crash in 4.5.1 https://www.exploit-db.com/exploits/39875/
+﻿"TCPDump 4.5.1 Crash PoC： https://t.co/oBOWFXFfZ9"
+[ Popular Software ]  PHP 5.4.34 unserialize UAF exploit http://blog.knownsec.com/2016/06/php-5-4-34-unserialize-uaf-exploit/ by niubl of Knownsec 404 Security Team
+﻿"PHP 5.4.34 unserialize UAF Exploit，来自知道创宇 404 团队： https://t.co/ti0X2ECbgW "
+[ Popular Software ]  DeadUpdate; Or, How I learned to stop worrying and execute arbitrary executables from HTTP - http://teletext.zaibatsutel.net/post/145370716258/deadupdate-or-how-i-learned-to-stop-worrying-and from HTTP to SYSTEM
+﻿" ASUS 的软件更新组件（预装）在下载更新和执行的流程中缺乏验证，可以被用来实现 SYSTEM 提权： https://t.co/tXkIvZqwL2  "
+[ Popular Software ]  Analysis of Use-After-Free #Vulnerability (CVE-2016-4119) in #Adobe Acrobat and Reader http://blog.fortinet.com/2016/06/06/analysis-of-use-after-free-vulnerability-cve-2016-4119-in-adobe-acrobat-and-reader #Fortinet
+﻿" Adobe Reader/Acrobat UAF 漏洞分析(CVE-2016-4119)，来自 Fortinet Blog： https://t.co/6pdBlDIwhF "
+[ Popular Software ]  Valve Steam 3.42.16.13 Local Privilege Escalation https://packetstormsecurity.com/files/137343/valvesteam-escalate.txt
+﻿" Valve Steam 游戏平台应用程序 3.42.16.13 版本本地提权漏洞（CVE-2016-5237），来自 PacketStorm：  https://t.co/raAQJ1MkVz"
+[ Popular Software ]  Details on a stack-based buffer overflow in the Adobe CFF rasterizer in FreeType2 (CVE-2014-2240, CVE-2014-9659) http://j00ru.vexillium.org/?p=2245
+﻿" Adobe FreeType2 CFF rasterizer 栈缓冲区溢出漏洞的细节（CVE-2014-2240，CVE-2014-9659），来自 j00ru 的 Blog： https://t.co/DK8wgDr8FL"
+[ Popular Software ]  Adobe Reader CoolType unlimited out-of-bounds stack manipulation via BLEND operator https://bugs.chromium.org/p/project-zero/issues/detail?id=258#c_ts1465322479
+﻿"Adobe Reader CoolType 字体库不受限地栈操作漏洞（CVE-2015-3052），来自 Project Zero Issue 258： https://t.co/svh3L5smdz"
+[ Popular Software ]  Vulnerability Spotlight: ESnet iPerf3 JSON parse_string UTF Code Execution Vulnerability http://feedproxy.google.com/~r/Vrt/~3/sKM6kisIaQE/esnet-vulnerability.html
+﻿" 网络性能测试工具 iPerf3 在解析 JSON UTF 字符串时存在代码执行漏洞（CVE-2016-4303），来自 Talos Blog： https://t.co/7TAFNyuQnf"
+[ Popular Software ]  Apache Struts REST Plugin With Dynamic Method Invocation Remote Code Execution https://packetstormsecurity.com/files/137375/struts_dmi_rest_exec.rb.txt
+﻿"Apache Struts REST 插件动态方法执行 RCE（CVE-2016-3087）， Metasploit 攻击模块： https://t.co/AzGZ38Mh2s"
+[ Popular Software ]  Samsung SW Update - Insecure ACLs on SW Update Service Directory - EoP… http://goo.gl/fb/AlzXpq #FullDisclosure
+﻿" 三星软件更新服务存在目录 ACL 权限设置不当的漏洞，成功利用可以实现本地 SYSTEM 提权，来自 FullDisclosure 的公告： https://t.co/kUvKIVlRxX "
+[ Popular Software ]  vmware + linux 3.x poc https://cyseclabs.com/blog/vmware-linux-poc
+﻿"VMware 在模拟性能计数器的实现中存在 Bug，影响 Linux 3.x 版本（附 PoC）： https://t.co/xZ0o1PP2c6"
+[ Popular Software ]  Foxit PDF Reader heap-based memory corruption https://bugs.chromium.org/p/project-zero/issues/detail?id=741#c_ts1465823495
+﻿"福昕 PDF 阅读器堆内存破坏漏洞，来自 Project Zero Issue 741： https://t.co/Q04FOEmCn6"
+[ Popular Software ]  [CVE-2014-1520] NOT FIXED: privilege escalation via Mozilla's executable… http://goo.gl/fb/gWJ7FS #FullDisclosure
+﻿" Mozilla 可执行安装包文件劫持漏洞（CVE-2014-1520），来自 FullDisclosure 的公告： https://t.co/C9P5molCKY "
+[ Popular Software ]  Telegram calls claims of bug in messaging service bogus - https://threatpost.com/telegram-calls-claims-of-bug-in-messaging-service-bogus/118678/
+﻿" Telegram APP 存在漏洞，攻击者可以使设备 Crash： https://t.co/EWvLVuu4EN"
+[ Popular Software ]  [local] - AdobeUpdateService 3.6.0.248 - Unquoted Service Path Privilege Escalation https://www.exploit-db.com/exploits/39954/
+﻿" AdobeUpdateService 3.6.0.248 存在一个不带引号的服务路径搜索漏洞： https://t.co/7rDLzyVVVM"
+[ Popular Software ]  New post: Unsupported TeamViewer Versions Exploited For Backdoors, Keylogging http://bit.ly/239nP7P @ TrendMicro
+﻿" 前两周有报道称 TeamViewer 被黑导致用户被攻击，后来 TeamViewer 官方否认了这一说法。趋势科技这篇 Blog 提到，用户被黑是因为安装了内嵌木马的旧版本 TeamViewer 安装包： https://t.co/YS1mmCo43o "
+[ Popular Software ]  #Adobe #Flash Player #security updates available (APSB16-18) - details @ http://adobe.ly/1UxWkTn
+﻿"Adobe Flash 发布补丁公告(APSB16-18)，本次更新共修复了 36 个漏洞： https://t.co/rSORsrypjo "
+[ Popular Software ]  [CVE-2016-1014] Escalation of privilege via executable (un)installers of… http://goo.gl/fb/vhSXop #FullDisclosure
+﻿" Adobe Flash Player 安装包文件存在 DLL 劫持漏洞（CVE-2016-1014）： https://t.co/JG9VX3Ingp "
+[ Popular Software ]  Writing a 0patch for Acrobat Reader's Use-After-Free Vulnerability CVE-2016-1077 : http://0patch.blogspot.in/2016/06/writing-0patch-for-acrobat-readers-use.html https://t.co/0MfXBkRucu
+﻿" 为 Acrobat Reader CVE-2016-1077 漏洞写一个 Zero Patch: https://t.co/9hJv3IID2p "
+[ Popular Software ]  Alfresco Activiti RCE http://remoteawesomethoughts.blogspot.gr/2016/06/alfresco-activiti.html
+﻿" 企业流程管理软件 Alfresco Activiti 5.20 版本 RCE 漏洞： https://t.co/mkZ5MF92RI"
+[ Popular Software ]  New phpMyAdmin version released. Fixes 1x RCE, 14x XSS and other vulnerabilities not found by @ NCCGroupInfosec https://www.phpmyadmin.net/news/2016/6/23/phpmyadmin-401016-44157-and-463-are-released/
+﻿" phpMyAdmin 更新新版本，修复了 1 个 RCE、14 个 XSS 漏洞： https://t.co/ujFowiU1dw "
+[ Popular Software ]  Lenovo plugs severe security holes in PC support tool preinstalled on PCs ehm, aka back doors http://www.pcworld.com/article/3088545/security/lenovo-patches-two-high-severity-flaws-in-pc-support-tool.html
+﻿"联想刚刚修复了预装支持工具的两个严重漏洞，来自 PC World 的报道： https://t.co/YRyvFzyQfd  "
+[ Popular Software ]  Note about security of RESTEasy services https://0ang3el.blogspot.ru/2016/06/note-about-security-of-resteasy-services.html
+﻿" RESTEasy 服务的安全性研究笔记： https://t.co/5JPKYCJcRR"
+[ Popular Software ]  Vulnerability Spotlight: LibreOffice RTF Vulnerability http://blog.talosintel.com/2016/06/vulnerability-spotlight-libreoffice-rtf.html
+﻿" LibreOffice RTF 文件解析 UAF 漏洞（CVE-2016-4324），来自 Talos Blog： https://t.co/TAGU2KEEec"
+[ Popular Software ]  Foxit Reader ConvertToPDF TIFF SamplesPerPixel Parsing Heap Buffer Overflow Remote Code Execution Vulnerability http://srcincite.io/advisories/src-2016-23/
+﻿"福昕阅读器 ConvertToPDF 插件堆溢出 RCE 漏洞（CVE-2016-3740），构造的 TIFF 图片如果有一个超大的 SamplesPerPixel 值就会触发堆溢出，来自 Source Incite 公告： https://t.co/DbpQHu2b9V"
+[ Popular Software ]  Foxit patched 12 vulns in its PDF reader - all which could be used for #RCE -http://ow.ly/K5pl301Ok5U
+﻿"Foxit 阅读器更新 8.0 版本，本次更新修复了 12 个漏洞，来自 ThreatPost 的报道： https://t.co/aAu1gZ6uWR  官方的公告： https://www.foxitsoftware.com/support/security-bulletins.php#content-2016 "
+[ Popular Software ]  [blog] "A Case Study in Attacking KeePass" http://www.harmj0y.net/blog/redteaming/a-case-study-in-attacking-keepass/
+﻿" 针对密码管理软件 KeePass 的攻击案例研究： https://t.co/df2pAhDldt"
+[ Popular Software ]  ZDI-16-393: Foxit Reader Pattern Uninitialized Pointer Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-393/
+﻿" 福昕阅读器在处理 PDF Pattern 时存在一个未初始化指针 RCE 漏洞，来自 ZDI 的公告：  https://t.co/LRQEziEeKK"
+[ Popular Software ]  ZDI-16-394: Foxit Reader FlateDecode Use-After-Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-394/
+﻿" 福昕阅读器 FlateDecode UAF，来自 ZDI 公告 ZDI-16-394： https://t.co/viSVF8W5Cv  Adobe Reader 也有过一个类似的： http://www.zerodayinitiative.com/advisories/ZDI-16-359/ "
+[ Popular Software ]  Jenkins Remoting RCE II – The return of the ysoserial https://www.insinuator.net/2016/07/jenkins-remoting-rce-ii-the-return-of-the-ysoserial/
+﻿" Jenkins Remoting RCE II – The return of the ysoserial： https://t.co/a6oQQtYBNU"
+[ Popular Software ]  CVE ID Request : OpenFire multiple vulnerabilities http://goo.gl/fb/vIkb8I #FullDisclosure
+﻿" 实时协作服务器 OpenFire 被曝多个漏洞，来自 FullDisclosure 公告： https://t.co/czcwGaac1S "
+[ Popular Software ]  Vuln: Oracle Java SE and JRockit CVE-2016-3427 Remote Security Vulnerability http://www.securityfocus.com/bid/86421
+﻿" Oracle Java SE and JRockit CVE-2016-3427 远程安全漏洞，来自 SecurityFocus 的公告： https://t.co/sxCjgvfYAv"
+[ Popular Software ]  Apache Update: TLS Certificate Authentication Bypass with HTTP/2 (CVE-2016-4979) - SANS Internet Storm Center http://ow.ly/N549301XVR3
+﻿"Apache 版本更新，本次更新修复了一个 HTTP/2 TLS 证书验证绕过漏洞(CVE-2016-4979)： https://t.co/M9hrtDbst0"
+[ Popular Software ]  Putty (beta 0.67) DLL Hijacking Vulnerability http://goo.gl/fb/6LLLg0 #FullDisclosure
+﻿" Putty (beta 0.67) DLL 劫持漏洞，来自 FullDisclosure 公告： https://t.co/JJkSwWI1J6 "
+[ Popular Software ]  Acer Portal Android Application - MITM SSL Certificate Vulnerability (CVE… http://goo.gl/fb/kDHXL0 #FullDisclosure
+﻿"宏碁门户 Android APP SSL 证书中间人劫持漏洞（CVE-2016-5648）： https://t.co/mfMdLhGKrB "
+[ Popular Software ]  Adobe Flash: Heap Corruption in LMZA Property Decoding https://bugs.chromium.org/p/project-zero/issues/detail?id=790#c_ts1467910639
+﻿"Adobe Flash LMZA 属性解码时的一个堆内存破坏漏洞（CVE-2016-4137），来自 Project Zero Issue 790： https://t.co/2TZtNr2TOU   还有一个处理 JXR 格式时的 Double Free 漏洞： https://bugs.chromium.org/p/project-zero/issues/detail?id=788 "
+[ Popular Software ]  Adobe Flash: Overflow in ATF Processing https://bugs.chromium.org/p/project-zero/issues/detail?id=786#c_ts1467910584
+﻿"Adobe Flash 在处理 ATF（Adobe 纹理）文件时存在一个堆溢出漏洞（CVE-2016-4135），来自 Project Zero Issue 786： https://t.co/OrvjhX30fi"
+[ Popular Software ]  Messenger (Facebook) Secret Conversations - Technical Whitepaper : https://fbnewsroomus.files.wordpress.com/2016/07/secret_conversations_whitepaper.pdf (pdf)
+﻿" Facebook Messenger 的秘密会话模式分析报告︰ https://t.co/f7lZErT2W4 "
+[ Popular Software ]  Skype protocol dumps : http://skype-open-source2.blogspot.in/2016/06/skype-protocol-dumps.html
+﻿" Skype Protocol Dumps︰ https://t.co/bleFTvBwI5"
+[ Popular Software ]  Ruby On Rails ActionPack Inline ERB Code Execution https://packetstormsecurity.com/files/137834/rails_actionpack_inline_exec.rb.txt
+﻿"Ruby on Rails ActionPack 在处理 ERB Code 时存在代码执行漏洞（CVE-2016-2098）： https://t.co/z40JCozZH2"
+[ Popular Software ]  KeeThief – A Case Study in Attacking KeePass Part 2 http://www.harmj0y.net/blog/redteaming/keethief-a-case-study-in-attacking-keepass-part-2/
+﻿"KeeThief — 针对密码管理软件 KeePass 的攻击案例研究 Part 2： https://t.co/Ly7k8GQ5vf "
+[ Popular Software ]  TeamPass @ TheTeamPass fixed critical security issues with the help of RIPS http://teampass.net/2016-05-13-release-2.1.26#security-analysis-with-rips
+﻿"团队密码管理软件 TeamPass 刚刚修复了一个任意文件下载漏洞： https://t.co/S28HHsswZ6 "
+[ Popular Software ]  .@ Adobe patches 52 vulns in #FlashPlayer, many lead to RCE - http://ow.ly/Dwst302b67o
+﻿" Adobe 发布本月的 FlashPlayer 漏洞公告，共修复 52 个漏洞： https://t.co/zl06MJ6FoE  还有 Acrobat 阅读器的公告： https://helpx.adobe.com/security/products/acrobat/apsb16-26.html "
+[ Popular Software ]  Advisories and PoC for APSB16-25 and APSB16-26: https://smsecurity.net/vulnerabilities/ , https://cosig.gouv.qc.ca/en/advisory/
+﻿" COSIG 研究员发现的几个 Adobe Acrobat Reader DC 漏洞的公告和 PoC: https://t.co/HZdYbMMrjA   https://t.co/iyDV99zy6O"
+[ Popular Software ]  ZDI-16-420: Adobe Reader DC FlateDecode Use-After-Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-420/
+﻿"ZDI-16-420: Adobe Reader DC FlateDecode UAF 漏洞，来自 ZDI 的公告： https://t.co/fkDmMzlMMc"
+[ Popular Software ]  ZDI-16-422: Adobe Reader DC XSLT value-of Out-Of-Bounds Write Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-422/
+﻿" ZDI-16-422: Adobe Reader DC XSLT value-of 越界写漏洞，来自 ZDI 的公告： https://t.co/ngWbaS1FCW "
+[ Popular Software ]  ZDI-16-425: Adobe Flash PrintJob printAsBitmap Use-After-Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-425/
+﻿"ZDI-16-425: Adobe Flash PrintJob printAsBitmap UAF 漏洞，来自 ZDI 的公告： https://t.co/uSqLpdhtWU"
+[ Popular Software ]  ZDI-16-427: Adobe Flash AdBreakPlacement Type Confusion Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-427/
+﻿"ZDI-16-427: Adobe Flash AdBreakPlacement 类型混淆 RCE，来自 ZDI 的公告： https://t.co/D7P6lmwxPh"
+[ Popular Software ]  ZDI-16-428: Adobe Flash DeleteRangeTimelineOperation Type Confusion Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-428/
+﻿"ZDI-16-428: Adobe Flash DeleteRangeTimelineOperation 类型混淆 RCE，来自 ZDI 的公告： https://t.co/O3APxJFYfB"
+[ Popular Software ]  Microsoft Finally Releases New Skype App For Linux : https://community.skype.com/t5/Linux/Skype-for-Linux-Alpha-and-calling-on-Chrome-amp-Chromebooks/td-p/4434299 (Am I still day dreaming ? Somebody pinch me)
+﻿" 微软发布了 Skype Linux 版本的客户端: https://t.co/g9hAsiawlM "
+[ Popular Software ]  Snapchat disclosed a bug submitted by notnaffy: https://hackerone.com/reports/128114 - Bounty: $1,000 #hackerone #bugbounty https://t.co/fc8RLKpInC
+﻿"Snapchat 在 Hackerone 上被披露的一个漏洞：以管理员身份访问 Django 管理员界面： https://hackerone.com/reports/128114  "
+[ Popular Software ]  Adobe Flash Player fpb.tmp Privilege Escalation https://cxsecurity.com/issue/WLB-2016070113
+﻿"Adobe Flash Player fpb.tmp 提权漏洞（CVE-2016-4247）： https://t.co/uiKqTgckdL"
+[ Popular Software ]  Recieved 3 CVE numbers for vulnerabilities in ws-xmlrpc library from Apache Security Team https://0ang3el.blogspot.ru/2016/07/beware-of-ws-xmlrpc-library-in-your.html
+﻿"小心你 Java APP ws-xmlrpc 库中的漏洞： https://t.co/5SokOQjcoW "
+[ Popular Software ]  Time To Patch: RCE on Meinberg NTP Time Server https://www.securifera.com/blog/2016/07/17/time-to-patch-rce-on-meinberg-ntp-time-server/
+﻿" Meinberg NTP 时间服务器 RCE 漏洞： https://t.co/jAUhGbBlg3"
+[ Popular Software ]  Client-Side Redis Attack PoC https://ericrafaloff.com/client-side-redis-attack-poc/
+﻿" 客户端 Redis 攻击 PoC： https://t.co/6jDP48McCV"
+[ Popular Software ]  Multiple Cross-Site Scripting vulnerabilities in Ninja Forms WordPress Plugin http://goo.gl/fb/yd88pX #FullDisclosure
+﻿" WordPress 插件 Ninja 表单插件跨站漏洞： https://t.co/whg8TRLADJ  PoC： https://sumofpwn.nl/advisory/2016/multiple_cross_site_scripting_vulnerabilities_in_ninja_forms_wordpress_plugin.html "
+[ Popular Software ]  Django CMS v3.3.0 - (Editor Snippet) Persistent Web Vulnerability (CVE-2016… http://goo.gl/fb/gsN6xo #FullDisclosure
+﻿"Django CMS v3.3.0 XSS 漏洞（CVE-2016-6186）： https://t.co/YeRqqaSGsV "
+[ Popular Software ]  Use After Free Vulnerability in SNMP with GC and unserialize() https://bugs.php.net/bug.php?id=72479
+﻿" PHP 5.5.37 SNMP 包的一个 UAF 漏洞： https://t.co/R4BHBRPvoT  还有一个 Session 反序列化相关的 UAF： https://bugs.php.net/bug.php?id=72562 "
+[ Popular Software ]  .@ Oracle patches 276 vulnerabilities - 50% remotely exploitable - w/ July Critical Patch Update #CPU - http://ow.ly/o0lz302qNVD
+﻿" Oracle 发布严重漏洞补丁更新，本次修复了 276 个漏洞，超过一半可远程利用，来自 ThreatPost 的报道： https://t.co/w7pKNnG41T  来自 Oracle 的官方公告： http://www.oracle.com/technetwork/security-advisory/cpujul2016-2881720.html "
+[ Popular Software ]  [papers] - Exploiting Apache James Server 2.3.2 https://www.exploit-db.com/docs/40123.pdf
+﻿" Exploit Apache James Mail Server 2.3.2： https://t.co/NP03wX055k"
+[ Popular Software ]  Analysis of CVE-2016-4203 - Adobe Acrobat and Reader CoolType Handling Heap Overflow Vulnerability https://blog.fortinet.com/2016/07/20/analysis-of-cve-2016-4203-adobe-acrobat-and-reader-cooltype-handling-heap-overflow-vulnerability
+﻿" Adobe Acrobat Reader CoolType 堆溢出漏洞分析（CVE-2016-4203），来自 Fortinet Blog： https://t.co/2S7s9XUXP1"
+[ Popular Software ]  Attacking Federated Skype for Business with PowerShell https://blog.netspi.com/attacking-federated-skype-powershell/
+﻿" 用 PowerShell 攻击商业版 Skype： https://t.co/rOqzDZyGXf "
+[ Popular Software ]  Git for Windows accidentally creates NTFS alternate data streams : http://latkin.org/blog/2016/07/20/git-for-windows-accidentally-creates-ntfs-alternate-data-streams/
+﻿"Git for Windows 意外地创建了一个 NTFS 备用数据流（Alternate Data Streams）︰ https://t.co/5buKSADdeu"
+[ Popular Software ]  ZDI-16-445: Oracle Java MethodHandles filterReturnValue Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-445/
+﻿"ZDI-16-445: Oracle Java MethodHandles filterReturnValue 远程代码执行漏洞，ZDI 公告： https://t.co/yR9XSw4tsG"
+[ Popular Software ]  ZDI-16-447: Oracle Java Uninitialized Object Generation Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-447/
+﻿"ZDI-16-447: Oracle Java 对象未初始化远程代码执行漏洞，ZDI 公告： https://t.co/iGBp2QEnbp"
+[ Popular Software ]  ZDI-16-448: Oracle Java MethodHandle Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-448/
+﻿"ZDI-16-448: Oracle Java MethodHandle 远程代码执行漏洞， ZDI 公告： https://t.co/ZphIeaMLNg"
+[ Popular Software ]  Vulnerability Spotlight: OpenOffice Impress MetaActions Arbitrary Read Write Vulnerability http://blog.talosintel.com/2016/07/vulnerability-spotlight-openoffice-impress.html
+﻿" Talos 研究员在 OpenOffice 中发现的一个任意地址读写漏洞（CVE-2016-1513）： https://t.co/NLHe8evRHb"
+[ Popular Software ]  Flaws in Oracle file processing SDKs affect major third-party products : http://www.csoonline.com/article/3098415/security/flaws-in-oracle-file-processing-sdks-affect-major-third-party-products.html
+﻿" 上周 Oracle 一下补了 276 个漏洞，其中有个文件处理 SDK 中的漏洞，该漏洞影响很多的第三方产品︰ https://t.co/4zJHokWAfc"
+[ Popular Software ]  For those who prefer a manual approach: OpenSSH security guidelines from the Mozilla Wiki https://wiki.mozilla.org/Security/Guidelines/OpenSSH https://t.co/CDmh2Pb0pI
+﻿" OpenSSH 服务器和客户端安全配置指南： https://t.co/DsUvyesD6f "
+[ Popular Software ]  [local] - VMWare - Setuid vmware-mount Popen lsb_release Privilege Escalation (VMSA-2013-0010) https://www.exploit-db.com/exploits/40169/
+﻿"VMWare vmware-mount Popen lsb_release 提权漏洞（CVE-2013-1662），这是个 2013 年的老漏洞了： https://t.co/c2lPNzxFtc"
+[ Popular Software ]  LastPass : Design flaw in communication between privileged and unprivileged components : https://bugs.chromium.org/p/project-zero/issues/detail?id=884
+﻿"LastPass 特权组件和非特权组件之间通信过程中的设计缺陷，来自 Project Zero Issue 884︰ https://t.co/Z4j2GXZBL6"
+[ Popular Software ]  Vulnerability Spotlight: Multiple Arbitrary Code Execution Vulnerabilities Identified in Hancom Hangul Office http://blog.talosintel.com/2016/08/hancom-office-vulnerabilities.html
+﻿" 韩国 Hancom Hangul Office 套件的多个漏洞，来自 Talos Blog： https://t.co/otxwSgHJNs"
+[ Popular Software ]  THE YEAR IN FLASH (flash vulnerability research results): https://www.blackhat.com/docs/us-16/materials/us-16-Silvanovich-The-Year-In-Flash.pdf
+﻿" Project Zero 女黑客 Natalie Silvanovich 过去一年 Flash 的研究成果︰ https://t.co/3kXXnTc582"
+[ Popular Software ]  You get a break: No @ adobe #Flash Player security update for August. https://threatpost.com/a-month-without-adobe-flash-player-patches/119770/
+﻿" Adobe 也发布了补丁更新，不过本月没有 Flash Player 的补丁，只有 Experience Manager 的 4 个漏洞： https://t.co/7CIxfFZAu3  https://helpx.adobe.com/security/products/experience-manager/apsb16-27.html "
+[ Popular Software ]  [CVE-2016-XXXX] Foxit PDF reader memory corruption - https://marcograss.github.io/security/bug/cve/2016/08/08/foxit-pdf-reader.html
+﻿" 科恩实验室 marcograss 发现的一个福昕 PDF 阅读器的内存破坏漏洞 PoC： https://t.co/w68PJP2PGJ"
+[ Popular Software ]  BlueStacks App Player Privilege Escalation - http://blog.talosintel.com/2016/08/bluestacks-app-player-vulnerability.html by @ _Icewall
+﻿"BlueStacks 播放器应用在创建注册表键时权限控制不正确，导致可以以 SYSTEM 执行任意代码（CVE-2016-4288）： https://t.co/AO8x5cVolC"
+[ Popular Software ]  Somebody dumped on pastebin 10 vulns for Teamspeak3, claims some are RCE: http://pastebin.com/raw/MGsWnTd0
+﻿" 有黑客在 Pastebin 公开了语言通讯软件 Teamspeak3 的 3 个 RCE 漏洞: https://t.co/S7amxVbHgY"
+[ Popular Software ]  JetBrains IDE Remote Code Execution and Local File Disclosure http://blog.saynotolinux.com/blog/2016/08/15/jetbrains-ide-remote-code-execution-and-local-file-disclosure-vulnerability-analysis/
+﻿" JetBrains IDE 远程代码执行漏洞及本地文件泄漏漏洞，同样 PyCharm、 Android Studio、 WebStorm、 IntelliJ IDEA 也受影响： https://t.co/Cr3Ugy9tQa"
+[ Popular Software ]  PoC #Python #IDE #0day Write following &amp; save it as "tabnanny.py" import os os.system("calc.exe") right-click the .py =&gt; "Edit with IDLE".
+﻿" Haifei Li 发现了一个 Python IDE IDLE 的 0Day，PoC 见上面这段说明"
+[ Popular Software ]  Samsung Security Manager Multiple Remote Code Execution Vulnerabilities https://medium.com/@ steventseeley/samsung-security-manager-multiple-remote-code-execution-vulnerabilities-5aac5e59f1ed#.8jc4l9rxm
+﻿"三星 Security Manager 桌面应用被发现多个漏洞： https://t.co/2MALZxy7o0"
+[ Popular Software ]  Nginx resolver vulnerabilities allow cache poisoning attack http://blog.zorinaq.com/nginx-resolver-vulns/
+﻿"Nginx DNS resolver 配置错误可致缓存污染攻击： https://t.co/yLf1qTvGWj"
+[ Popular Software ]  No Flash Player update this month, but Adobe did release an out-of-band patch for ColdFusion, patching CVE-2016-4264 https://helpx.adobe.com/security/products/coldfusion/apsb16-30.html
+﻿" Adobe 为 ColdFusion 发了一个计划外的补丁，修复了 CVE-2016-4264 漏洞： https://t.co/f9MbMj00m8"
+[ Popular Software ]  QEMU 2.7.0 is now available http://ift.tt/2bKDda6 #Linux
+﻿"QEMU 2.7.0 版本发布： https://t.co/75ppe8YlIw "
+[ Popular Software ]  [ASA-201609-3] thunderbird: arbitrary code execution https://lists.archlinux.org/pipermail/arch-security/2016-September/000699.html #archlinux #security
+﻿" 邮件客户端 Thunderbird 刚刚修复了两个 Critical 级别的任意代码执行漏洞： https://t.co/FfNDDxalum "
+[ Popular Software ]  Public domain database of complete x86/x64 instruction set, from legacy to AVX-512 [JS/JSON] https://github.com/asmjit/asmdb https://t.co/yuLhtgDn30
+﻿" 完整的 x86/x64 指令集数据库： https://t.co/muKXLVmHSG "
+[ Popular Software ]  [webapps] - Adobe ColdFusion &lt; 11 Update 10 - XML External Entity Injection https://www.exploit-db.com/exploits/40346/
+﻿"Adobe ColdFusion 11 之前的版本都存在 XML 实体注入漏洞： https://t.co/7qDKS2MGj8"
+[ Popular Software ]  This week's @ WordPress update resolves a XSS + path traversal vuln - http://bit.ly/2cgIB42
+﻿" WordPress 更新 4.6.1 版本，修复了一个 XSS 和一个路径遍历漏洞：  https://t.co/O0liIscLRm"
+[ Popular Software ]  [webapps] - Zabbix 2.0 - 3.0.3 - SQL Injection https://www.exploit-db.com/exploits/40353/
+﻿"Zabbix 2.0 - 3.0.3 SQL 注入 Exploit： https://t.co/UuopYeaJie"
+[ Popular Software ]  Adobe Flash: Use-after-free when returning Rectangle https://bugs.chromium.org/p/project-zero/issues/detail?id=842
+﻿"Adobe Flash 在返回矩形类实例时的 UAF 漏洞，来自 Project Zero Issue 842： https://t.co/1oSOqv3hAR "
+[ Popular Software ]  TeamViewer 11.0.65452 (x64) - Local Credentials Disclosure : https://www.exploit-db.com/exploits/40342/?rss
+﻿" TeamViewer 11.0.65452 (x64) 本地密码明文存储，Exploit︰ https://t.co/sDGi2TtQZp"
+[ Popular Software ]  Remote Root Code Execution / Privilege Escalation (0day) CVE-2016-6662 http://legalhackers.com/advisories/MySQL-Exploit-Remote-Root-Code-Execution-Privesc-CVE-2016-6662.html
+﻿" MySQL 5.7.15 RCE/提权 Exploit（CVE-2016-6662）： https://t.co/ftqpoOIJAM"
+[ Popular Software ]  .@ Adobe #Flash update patches 29 vulns, most are RCE. https://threatpost.com/adobe-back-with-new-flash-player-security-update/120540/ via @ threatpost
+﻿" Adobe Flash 发布补丁更新，本次更新修复了 29 个漏洞： https://t.co/1JgUloq4vZ"
+[ Popular Software ]  New post: CVE-2016-6662 Advisory: Recent MySQL Code Execution/Privilege Escalation #0Day Vulnerability http://bit.ly/2cW7ynM @ TrendMicro
+﻿" 趋势科技对最近的 MySQL 远程代码执行漏洞（CVE-2016-6662）的分析： https://t.co/nrwwlXR1qz "
+[ Popular Software ]  Hacking WordPress Sites on Shared Servers https://blog.sucuri.net/2016/09/hacking-wordpress-sites-shared-servers.html
+﻿" Hacking 共享服务器上的 WordPress 站点： https://t.co/7TBl9puitF "
+[ Popular Software ]  More Hacking SQL Servers Without a Password (with cool Python script) : https://blog.anitian.com/hacking-sql-servers-without-password/
+﻿" Hacking SQL servers without a password︰ https://t.co/Ye6TUnS6RP"
+[ Popular Software ]  VMWare vprintproxy.exe heap buffer overflow TrueType font https://bugs.chromium.org/p/project-zero/issues/detail?id=849
+﻿"VMWare vprintproxy.exe 在处理 TrueType NAME Table 时发生堆缓冲区溢出漏洞（CVE-2016-7083）： https://t.co/vBLW2zPYaL"
+[ Popular Software ]  Just posted two advisories for priv esc in Magnicomp SysInfo. https://labs.mwrinfosecurity.com/advisories/magnicomps-sysinfo-root-setuid-local-privilege-escalation-vulnerability/ https://labs.mwrinfosecurity.com/advisories/multiple-vulnerabilities-in-magnicomps-sysinfo-root-setuid/ @ bouuntyyy @ fang0654
+﻿" MWR Labs 研究员在 Magnicomp SysInfo 管理工具中发现的两个提权漏洞： https://t.co/p9L9dCs7Mb https://t.co/5UC0VI5wig "
+[ Popular Software ]  MSI ntiolib.sys/winio.sys local privilege escalation http://blog.rewolf.pl/blog/?p=1630
+﻿"MSI（微星）驱动 ntiolib.sys/winio.sys 本地提权漏洞： https://t.co/MoyPKYb7CQ"
+[ Popular Software ]  MSSQL 通过 Agent Jobs 实现命令执行： http://www.mottoin.com/89870.html
+[ Popular Software ]  Adobe Flash: Crash in AVC slice decoding https://bugs.chromium.org/p/project-zero/issues/detail?id=861
+﻿" Adobe Flash: Crash in AVC slice decoding： https://t.co/BHDXS3Kt6Q"
+[ Popular Software ]  Adobe Flash: Overflow in MP4 Processing https://bugs.chromium.org/p/project-zero/issues/detail?id=858
+﻿"Adobe Flash 在处理 MP4 文件格式时存在的溢出漏洞： https://t.co/mPRRf4DowM"
+[ Popular Software ]  VMWare Workstation vprintproxy.exe double-free in the handling of EMF (EMR_SMALLTEXTOUT record) https://bugs.chromium.org/p/project-zero/issues/detail?id=848
+﻿" VMWare Workstation 在处理 EMF 时存在的一个 Double Free 漏洞，来自 Project Zero Issue 848： https://t.co/eQrfsz5hrO"
+[ Popular Software ]  Vulnerability Spotlight: Redis CONFIG SET client-output-buffer-limit Code Execution Vulnerability http://blog.talosintel.com/2016/09/redis-vulnerability.html
+﻿" Redis CONFIG SET client-output-buffer-limit 远程代码执行漏洞： https://t.co/FCpJaDsbdf"
+[ Popular Software ]  Apache Tomcat (RedHat-Based Distros Pkgs) - Root Privilege Escalation Exploit (CVE-2016-5425) http://legalhackers.com/advisories/Tomcat-RedHat-Pkgs-Root-PrivEsc-Exploit-CVE-2016-5425.html
+﻿"Apache Tomcat（RedHat 发行版）修复了一个 Root 提权漏洞(CVE-2016-5425)：  https://t.co/ygpsczHWlw"
+[ Popular Software ]  New advisory and poc for Adobe Flash Player vulnerability. https://cosig.gouv.qc.ca/en/cosig-2016-35-en/
+﻿"Adobe Flash Player 远程执行代码漏洞（PoC）: https://t.co/d0v3ogiilO"
+[ Popular Software ]  #PatchTuesday - #Security updates available for #Adobe #Flash Player: http://adobe.ly/2ellxCO
+﻿" Adobe Flash 本月的补丁更新公告︰ https://t.co/LOJT8kiinM   Acrobat Reader 的补丁公告： https://helpx.adobe.com/security/products/acrobat/apsb16-33.html "
+[ Popular Software ]  谈一谈SQLite Load_Extension的妙用： http://www.mottoin.com/90266.html
+[ Popular Software ]  How Signal Protocol Works : http://www.alexkyte.me/2016/10/how-textsecure-protocol-signal-whatsapp.html ; How secure is TextSecure : https://eprint.iacr.org/2014/904.pdf (pdf)
+﻿"Textsecure 协议是如何工作的: http://www.alexkyte.me/2016/10/how-textsecure-protocol-signal-whatsapp.html ; 关于 Textsecure 协议的安全性paper: https://eprint.iacr.org/2014/904.pdf"
+[ Popular Software ]  [remote] - Ruby on Rails - Dynamic Render File Upload Remote Code Execution https://www.exploit-db.com/exploits/40561/
+﻿" Ruby on Rails 动态渲染文件上传远程代码执行漏洞（CVE-2016-0752）： https://t.co/KUDImryNwP"
+[ Popular Software ]  Security assessement of VeraCrypt 1.18. http://blog.quarkslab.com/security-assessment-of-veracrypt-fixes-and-evolutions-from-truecrypt.html
+﻿" VeraCrypt 1.18 安全评估： https://t.co/x897W61oui"
+[ Popular Software ]  Another giant @ Oracle patch release: 253 CVEs. https://threatpost.com/oracle-fixes-253-vulnerabilities-in-last-cpu-of-2016/121375/ via @ threatpost
+﻿"甲骨文公司修复了253个漏洞，囊括了76条产品线： https://t.co/EuovnqyJA7"
+[ Popular Software ]  Evernote for Windows DLL Loading Remote Code Execution https://goo.gl/fb/xmGi19 #FullDisclosure
+﻿"知名笔记应用 Evernote 存在动态库劫持漏洞，可致使远程代码执行： http://seclists.org/fulldisclosure/2016/Oct/72?utm_source=feedburner&;utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29"
+[ Popular Software ]  Re: CVE-2016-6662 - MySQL Remote Root Code Execution / Privilege Escalation ( 0day ): Posted by Dawid Golunsk... https://t.co/QEkzG1pKDr
+﻿" CVE-2016-6662 - MySQL 远程代码执行漏洞： https://t.co/QEkzG1pKDr"
+[ Popular Software ]  Experts devised a method to capture keystrokes during Skype calls http://securityaffairs.co/wordpress/52493/breaking-news/skype-calls.html
+﻿"一组安全专家发现在 Skype 通话期间可捕获用户按键： https://t.co/hmzsi1wQ9W"
+[ Popular Software ]  Oracle fixed some of the issues discussed in "OLAP DML Injection" (http://www.davidlitchfield.com/OLAPDMLInjection.pdf) in Apr2016 but forgot to tell me (CVE-2016-0681)
+﻿"Oracle 修复了几个 'OLAP DML Injection' 类型的漏洞： https://t.co/ic3GUrlK2a "
+[ Popular Software ]  Foxit Reader for Linux and Mac: Local PrivEsc Writeup or How not to do Linux File Permissions https://c0d.ist/cve-2016-8856-foxit-reader-local-privilege-escalation-writeup/
+﻿"Linux 和 Mac 版本福昕阅读器本地提权漏洞的分析和利用（CVE-2016-8856）： https://t.co/OIGhFQizbk"
+[ Popular Software ]  Foxit Reader FlateDecode Use-After-Free Remote Code Execution Vulnerability CVE-2016-8604 http://srcincite.io/advisories/src-2016-44/
+﻿"福昕阅读器的 FlateDecode 中存在 UAF 远程代码执行漏洞 （CVE-2016-8604）： https://t.co/KwgFHCVQoF"
+[ Popular Software ]  Apache Tomcat DebPkg - Root PrivEsc Video PoC Exploit (CVE-2016-1240) http://legalhackers.com/videos/Apache-Tomcat-DebPkg-Root-PrivEsc-Exploit.html
+﻿"Apache Tomcat Debian 发行版存在一个 Root 提权漏洞(CVE-2016-1240)，视频演示： https://t.co/WrN1tTZX9h   公告细节： http://legalhackers.com/advisories/Tomcat-DebPkgs-Root-Privilege-Escalation-Exploit-CVE-2016-1240.html  "
+[ Popular Software ]  #Security updates available for #Adobe #Flash Player: http://adobe.ly/2dHqG3t
+﻿" Adobe Flash 昨天发布补丁更新，修复了一个 UAF 漏洞（CVE-2016-7855）︰ https://t.co/4ZZwweHGEc"
+[ Popular Software ]  Oracle JRE java.awt.Menu Use-After-Free 远程代码执行漏洞分析与利用： http://mp.weixin.qq.com/s?__biz=MzA4MzgzNTU0Mg==&mid=2669132104&idx=1&sn=40b3a7f6d5125db976096ea084fb288a&chksm=851376b1b264ffa7dc284a1168e86e2e1d331bc15d373bf03f54813576b89020771c9b2fa3ea&mpshare=1&scene=1&srcid=1027YnoAvWftKRl95x1LWMAw#rd
+[ Popular Software ]  Oliver Chang (@ halbecaf) has been working with Project Zero on a '20% project' to attack the NVidia GPU driver: http://nvidia.custhelp.com/app/answers/detail/a_id/4247
+﻿" NVidia 上周五发布补丁公告，修复了多个漏洞︰ https://t.co/wv3PaTR97l    其中有 14 个是 Project Zero 的 Oliver Chang 发现的，Issues 列表： https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=owner%3Aochang%40google.com+nvidia&sort=-id&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=ids "
+[ Popular Software ]  Microsoft extends malicious macro protection to Office 2013 http://oak.ctx.ly/r/5791w @ threatpost
+﻿"Microsoft 增加新特性来打击针对 office 2013 基于宏攻击的恶意软件： https://t.co/pvIeLv7o9d"
+[ Popular Software ]  Adobe Flash: Overflow in Rastering https://bugs.chromium.org/p/project-zero/issues/detail?id=886
+﻿"Adobe Flash: Overflow in Rastering： https://t.co/9Galun5Csg"
+[ Popular Software ]  Multiple SQL injection vulnerabilities in dotCMS (8x CVE) https://goo.gl/fb/3sZ8rZ #FullDisclosure
+﻿"开源内容管理系统 dotCMS 中的存在多个 SQL 注入漏洞： https://t.co/ndb58f3YIo "
+[ Popular Software ]  Memcached 命令执行漏洞（CVE-2016-8704、CVE-2016-8705、CVE-2016-8706）简析: http://paper.seebug.org/95/
+[ Popular Software ]  CVE-2016-8583 - Alienvault OSSIM/USM Reflected XSS https://goo.gl/fb/lyC7T1 #FullDisclosure
+﻿"安全管理软件 Alienvault OSSIM/USM 中存在反射型 XSS（CVE-2016-8583）：  https://t.co/Zn3KNmWZZa "
+[ Popular Software ]  GitLab disclosed a bug submitted by jobert: https://hackerone.com/reports/178152 #hackerone #bugbounty https://t.co/NxvzGpdcRq
+﻿"GitLab CE/EE (versions >=8.9) 存在任意文件读取漏洞: https://hackerone.com/reports/178152 "
+[ Popular Software ]  Tumblr XSS Exploit : http://blog.andrewlang.net/post/152805939304/tumblr-xss-exploit
+﻿"知名博客平台 Tumblr 存在 XSS 漏洞︰ https://t.co/WymFHHwQzE"
+[ Popular Software ]  [SYSS-2016-085] Aruba OS Improper Authentication - (CWE-287) https://goo.gl/fb/46tIsP #FullDisclosure
+﻿"Aruba OS Improper Authentication： https://t.co/BwvzokPFbz "
+[ Popular Software ]  Stored Cross-Site Scripting vulnerability in 404 to 301 WordPress Plugin https://goo.gl/fb/J7bd6U #FullDisclosure
+﻿"WordPress 插件存在存储型 XSS 漏洞： https://t.co/tGnueEFBbT"
+[ Popular Software ]  Adobe fixes 9 Flash Player code execution vulnerabilities reported by researchers through Zero-Day Initiative (ZDI) https://t.co/2ZJ8p5NzAD
+﻿"Adobe 修复了 9 个 ZDI 报告的 Flash Player 漏洞：   https://t.co/2ZJ8p5NzAD  Adobe 安全公告： https://helpx.adobe.com/security/products/flash-player/apsb16-37.html"
+[ Popular Software ]  Piwik 2.16.0 PHP Object Injection https://packetstormsecurity.com/files/139603/KIS-2016-13.txt
+﻿"Piwik 2.16.0 PHP 对象注入漏洞： https://t.co/xpJHnfPDqQ"
+[ Popular Software ]  Unrestricted access to Office 365 can be risky. Navneet Singh explains how to enable it safely http://oak.ctx.ly/r/588at
+﻿"如何更安全的使用 Office 365： https://t.co/zDlQBXyQ2F"
+[ Popular Software ]  Reflected Cross-Site Scripting vulnerability in W3 Total Cache plugin https://goo.gl/fb/jULOe6 #FullDisclosure
+﻿"WordPress 插件（W3 Total Cache）存在反射型 xss 漏洞： https://t.co/lsFLgJ85ue "
+[ Popular Software ]  Information disclosure race condition in W3 Total Cache WordPress Plugin https://goo.gl/fb/4m3Ku4 #FullDisclosure
+﻿" WordPress 插件（W3 Total Cache）条件竞争可导致信息泄露： https://t.co/s4GJdQ90l4 "
+[ Popular Software ]  .NET platform in the Burp Infiltrator tool. http://releases.portswigger.net/2016/11/1711.html
+﻿"Burp Suite 1.7.11 发布，同时宣布支持 .NET 平台： https://t.co/9lUusRKmm7"
+[ Popular Software ]  vBulletin 4.2.3 SQL Injection https://packetstormsecurity.com/files/139688/vbulletin423-sql.txt
+﻿"vBulletin 4.2.3 存在 SQL 注入漏洞： https://t.co/laMst88k7r"
+[ Popular Software ]  VMware patches for #PwnFest2016 vulns released: http://www.vmware.com/security/advisories/VMSA-2016-0019.html https://t.co/1W2GvdzOoA
+﻿"VMware 修复了 PwnFest2016 上被利用的漏洞: https://t.co/wivgQTfEWM https://t.co/1W2GvdzOoA"
+[ Popular Software ]  Cross-Site Scripting in All In One WP Security & Firewall WordPress Plugin https://goo.gl/fb/LdtKMC #FullDisclosure
+﻿" WordPress All In One WP Security & Firewall 插件存在 xss 漏洞： https://t.co/sAwDkIpbD4 "
+[ Popular Software ]  Sending Valid Phishing E-mails From http://Microsoft.com Domain by Using Office 365 : https://www.utkusen.com/blog/sending-valid-phishing-emails-from-microsoftcom.html
+﻿"通过使用 Office 365 发送 Microsoft.com 域钓鱼邮件︰ https://t.co/1JyvoJfPsx"
+[ Popular Software ]  Just posted Sysinternals updates: Major Sysmon enhancements w/Registry and file events, Procexp, Procdump, LiveKd: https://t.co/YoZ1HmRnyQ
+﻿"Windows Sysinternals 推出更新： https://t.co/YoZ1HmRnyQ"
+[ Popular Software ]  Persistent Cross-Site Scripting in Instagram Feed plugin via CSRF https://goo.gl/fb/J3LIwz #FullDisclosure
+﻿"Instagram Feed 插件存在 XSS 漏洞： https://t.co/uRwcu6IjpD "
+[ Popular Software ]  Hacking 27% of the Web via WordPress Auto-Update: RCE Vulnerability in http://api.wordpress.org via weak hashing algo https://www.wordfence.com/blog/2016/11/hacking-27-web-via-wordpress-auto-update/
+﻿"通过 WordPress 自动更新功能可 Hacking 多达 27% 的网站： https://t.co/vCurgLoxO1 https://t.co/1Fimyh02jP"
+[ Popular Software ]  Stored Cross-Site Scripting in Gallery - Image Gallery WordPress Plugin https://goo.gl/fb/QNPhIx #FullDisclosure
+﻿"WordPress 插件 Gallery 中存在存储型 XSS 漏洞： https://t.co/GR7gYttbwh "
+[ Popular Software ]  CVE-2016-8735 Apache Tomcat Remote Code Execution： http://seclists.org/oss-sec/2016/q4/502
+[ Popular Software ]  FreePBX 13 : From Cross-Site Scripting to Remote Command Execution : https://blog.ripstech.com/2016/freepbx-from-cross-site-scripting-to-remote-command-execution/
+﻿"FreePBX 13︰ 从跨站点脚本攻击到远程命令执行︰ https://t.co/CnmrOAKINg"
+[ Popular Software ]  Omnivista 8770 Unauthenticated Remote Code Execution : http://blog.malerisch.net/2016/12/alcatel-omnivista-8770-unauth-rce-giop-corba.html , Github : https://github.com/malerisch/omnivista-8770-unauth-rce cc @ malerisch
+﻿"Omnivista 8770 未认证的远程代码执行︰ http://blog.malerisch.net/2016/12/alcatel-omnivista-8770-unauth-rce-giop-corba.html     Github： https://github.com/malerisch/omnivista-8770-unauth-rce "
+[ Popular Software ]  metinfo 未修复漏洞一枚： http://www.cheery.win/?p=364
+[ Popular Software ]  War3 地图“漏洞”分析介绍： https://3gstudent.github.io/3gstudent.github.io/War3%E5%9C%B0%E5%9B%BE-%E6%BC%8F%E6%B4%9E-%E5%88%86%E6%9E%90%E4%BB%8B%E7%BB%8D/
+[ Popular Software ]  Yahoo Mail stored XSS and how it was found https://klikki.fi/adv/yahoo2.html #bugbounty
+﻿"Yahoo 邮箱存储型 XSS 漏洞在哪里： https://t.co/6wnNKBAvdo"
+[ Popular Software ]  Splunk Enterprise Server-Side Request Forgery https://goo.gl/fb/nBbmNq #FullDisclosure
+﻿"Splunk Enterprise <= 6.4.3 服务器端请求伪造漏洞： https://t.co/SAc6M3Uqc2 "
+[ Popular Software ]  Microsoft Remote Desktop Client For Mac 8.0.36 Remote Code Execution https://cxsecurity.com/issue/WLB-2016120050
+﻿"Mac 版 Microsoft 远程桌面客户端存在远程代码执行漏洞： https://t.co/SxDsshZwhM ; Demo Video： https://www.youtube.com/watch?v=6HeSiXYRpNY&;feature=youtu.be"
+[ Popular Software ]  Google Analytics Counter Tracker WordPress Plugin unauthenticed PHP Object… https://goo.gl/fb/iF3M1f #FullDisclosure
+﻿" WordPress 插件 Google Analytics Counter Tracker 存在未授权 PHP 对象注入漏洞： https://t.co/ltDdPlA2So "
+[ Popular Software ]  Wordpress functions.php 主题文件后门分析： http://paper.seebug.org/140/
+[ Popular Software ]  SQL injection in Joomla extension DT Register https://goo.gl/fb/z5Q66H #FullDisclosure
+﻿" Joomla extension DT 寄存器存在 SQL 注入漏洞： https://t.co/jYelocnqAx "
+[ Popular Software ]  [blog] Word Up! Microsoft Word OneTableDocumentStream Underflow http://srcincite.io/blog/2016/12/13/word-up-microsoft-word-onetabledocumentstream-underflow.html … Analysis of CVE-2016-7290 / MS16-148 #research #0d
+﻿"Microsoft Word OneTableDocumentStream 整数下溢漏洞分析（CVE-2016-7290）： http://srcincite.io/blog/2016/12/13/word-up-microsoft-word-onetabledocumentstream-underflow.html "
+[ Popular Software ]  How to Protect Against OpenSSL 1.1.0a Vulnerability CVE-2016-6309 https://securingtomorrow.mcafee.com/mcafee-labs/how-to-protect-against-openssl-1-1-0a-vulnerability-cve-2016-6309/
+﻿"针对 OpenSSL 1.1.0a  CVE-2016-6309 的漏洞分析： https://t.co/iMUY29SR3t"
+[ Popular Software ]  Nagios Core < 4.2.2 Curl Command Injection Exploit PoC (CVE-2016-9565) : https://legalhackers.com/advisories/Nagios-Exploit-Command-Injection-CVE-2016-9565-2008-4796.html
+﻿"监控系统 Nagios Core < 4.2.2 存在 Curl 命令注入漏洞，含 PoC (CVE-2016-9565): https://t.co/I5gVOOPQlP"
+[ Popular Software ]  Adobe Animate <= v15.2.1.95 Memory Corruption Vulnerability https://goo.gl/fb/Ryggxp #FullDisclosure
+﻿"Adobe Animate <= v15.2.1.95 内存破坏漏洞（CVE-2016-7866）： https://t.co/cCWU6mTyJQ "
+[ Popular Software ]  Reflected XSS in MailChimp for WordPress could allow an attacker to do… https://goo.gl/fb/tuVEc0 #FullDisclosure
+﻿"WordPress 插件 MailChimp  存在反射型 XSS 漏洞： https://t.co/nsjrV88K8X"
+[ Popular Software ]  Simple Bug allows Hackers to Read all your Private #Facebook Messenger Chats http://thehackernews.com/2016/12/hack-facebook-messenger-chats.html #security https://t.co/MRrtnozgJX
+﻿"仅仅通过一个小 Bug ,Hacker 就能够浏览你所有 Facebook Messenger 聊天记录： https://t.co/jCjSgQ6H6T"
+[ Popular Software ]  Nice. Twitter expands 2-factor auth to third party TOTP apps, including Google Authenticator. https://twitter.com/safety/status/809171110293975041
+﻿"Twitter 扩展了对第三方 TOTP应用程序（包括 Google 身份验证器）的双因素验证： https://t.co/dxTiM0fvuS"
+[ Popular Software ]  Nagios Core < 4.2.4 Root Privilege Escalation [CVE-2016-9566] https://goo.gl/fb/2oKf1W #FullDisclosure
+﻿"Nagios Core < 4.2.4 提权漏洞 （CVE-2016-9566）： https://t.co/a0i3N74Gzk #FullDisclosure"
+[ Popular Software ]  XenForo 1.5.x Unauthenticated Remote Code Injection https://goo.gl/fb/81rmBJ #FullDisclosure
+﻿"XenForo 1.5.x 存在远程代码注入漏洞： https://t.co/QGgkgmrTg1 "
+[ Popular Software ]  Nagios Core 代码执行漏洞（CVE-2016-9565）分析： http://paper.seebug.org/146/
+[ Popular Software ]  CSRF/stored XSS in Quiz And Survey Master (Formerly Quiz Master Next… https://goo.gl/fb/yC2gUi #FullDisclosure
+﻿"WordPress 插件 Quiz And Survey Master 存在 CSRF/存储型 XSS 漏洞： https://t.co/OsGKqfq1YH"
+[ Popular Software ]  Detecting privilege escalation inside of containers using KVM : https://coreos.com/blog/rkt-detect-privilege-escalation.html https://t.co/oxLpAWeYup
+﻿"rkt 现可自动检测容器中的提权攻击︰ https://t.co/2Z9OsnzWss https://t.co/oxLpAWeYup"
+[ Popular Software ]  PayPal 2Fa Bypass : http://tayyabqadir.com/2016/12/17/paypal-2fa-bypass-by-tayyab-qadir/
+﻿"绕过 PayPal 双因素认证︰ https://t.co/7tgoe8gxzi"
+[ Popular Software ]  RCE and Cardholder Data Exfiltration in Oracle's Hotel Management Platform : http://jackson.thuraisamy.me/oracle-opera.html // CVE-2016… https://twitter.com/i/web/status/810800265565704192
+﻿"Oracle 酒店管理平台中存在的 RCE 和持卡人数据泄露漏洞分析（CVE-2016-5663/4/5）： http://jackson.thuraisamy.me/oracle-opera.html"
+[ Popular Software ]  [ERPSCAN-16-035] SAP Solman - user accounts disclosure https://goo.gl/fb/FGZgVZ #FullDisclosure
+﻿"SAP Solman 存在用户帐户泄露漏洞（CVE-2016-10005）： https://t.co/N2OuiJv6I4 "
+[ Popular Software ]  Joomla 权限提升漏洞（CVE-2016-9838）分析：http://docs.ioin.in/writeup/paper.seebug.org/_152_/index.html
+[ Popular Software ]  分享插件AddThis导致的DOM XSS： http://zhchbin.github.io/2016/12/25/DOM-XSS-Caused-by-AddThis/
+[ Popular Software ]  Sweet, a first PHPMailer PoC: https://github.com/opsxcq/exploit-CVE-2016-10033
+﻿"PHPMailer < 5.2.18 远程代码执行漏洞 PoC: https://t.co/fiAc7tmQTo"
+[ Popular Software ]  Arbitrary file deletion vulnerability in Image Slider allows authenticated… https://goo.gl/fb/YPsK2T #FullDisclosure
+﻿"WordPress 插件 Image Slider 存在任意文件删除漏洞： https://t.co/GrZfVcYTqu"
+[ Popular Software ]  PHPMailer 命令执行漏洞（CVE-2016-10033）分析（含通用POC）： https://www.leavesongs.com/PENETRATION/PHPMailer-CVE-2016-10033.html
+[ Popular Software ]  PHPMailer < 5.2.20 RCE 漏洞补丁绕过（CVE-2016-10045）： http://seclists.org/fulldisclosure/2016/Dec/81
+[ Popular Software ]  PHP escapeshellarg()+escapeshellcmd() 之殇： http://paper.seebug.org/164/
+[ Popular Software ]  [webapps] - Zend Framework / zend-mail < 2.4.11 - Remote Code Execution https://www.exploit-db.com/exploits/40979/
+﻿"PHP 开源框架 Zend Framework / zend-mail < 2.4.11 远程代码执行漏洞（CVE-2016-10034 ） ： https://t.co/ISPC8exUtj"
+[ Popular Software ]  SwiftMailer <= 5.4.5-DEV Remote Code Execution (CVE-2016-10074) https://goo.gl/fb/TzpCG2 #FullDisclosure
+﻿"SwiftMailer <= 5.4.5-DEV 远程代码执行漏洞 (CVE-2016-10074)：  https://t.co/O3QE88WmGV "
+[ Popular Software ]  Where in the World Is Carmen Sandiego? Hacking Flight Booking Systems https://www.youtube.com/watch?v=n8WVo-YLyAg
+﻿"Where in the World Is Carmen Sandiego? Hacking  飞行预定系统，来自 33c3 2016 大会议题（video）： https://t.co/SgtOOtJ40w"
+[ Popular Software ]  Analysis of PHPMailer Remote Code Execution Vulnerability (CVE-2016-10033 http://blog.fortinet.com/2017/01/05/analysis-of-phpmailer-remote-code-execution-vulnerability-cve-2016-10033
+﻿"PHPMailer 远程代码执行漏洞 (CVE-2016-10033）分析： https://t.co/aNwcc5UP5m "
+[ Popular Software ]  GitHub Enterprise SQL Injection - Incorrect usage of Rails ActiveRecord leads to SQL Injection #BugBounty https://t.co/lcLofmTgh6
+﻿"Github 企业版 SQL 注入漏洞分析： https://t.co/lcLofmTgh6"
+[ Popular Software ]  Command execution on Ansible controller from host https://www.computest.nl/advisories/CT-2017-0109_Ansible.txt
+﻿"自动化管理工具 Ansible controller 命令执行漏洞（CVE-2016-9587） https://t.co/KPNU4sE4Yn "
+[ Popular Software ]  New advisory and poc for Adobe Flash Player vulnerability found by the COSIG. https://cosig.gouv.qc.ca/en/cosig-2017-01-en/
+﻿"Adobe Flash Player 远程命令执行漏洞 （CVE-2017-2930）： https://t.co/T69yK8QWj4"
+[ Popular Software ]  Adobe Acrobat Pro DC ImageConversion TIFF Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-17-030/
+﻿"Adobe Acrobat Pro DC ImageConversion TIFF 解析存在堆溢出漏洞可导致远程代码执行（CVE-2017-2966）： https://t.co/vzogSUvkl8"
+[ Popular Software ]  微信小程序安全浅析： http://mp.weixin.qq.com/s?__biz=MzIyMjUyNTkyNQ==&mid=2247484180&idx=1&sn=29680b46f17106c10bcd8b80e143634e
+[ Popular Software ]  Exploit for CVE-2016-9299 (Jenkins CLI Ldap Deser)： https://github.com/rapid7/metasploit-framework/pull/7815
+[ Popular Software ]  Apple (iTunes Notify) - Filter Bypass & Persistent Web Vulnerability https://goo.gl/fb/CQbj4O #FullDisclosure
+﻿"Apple (iTunes Notify) 绕过 XSS 过滤器并实现持久化控制： https://t.co/OWd5wG8Xx5 "
+[ Popular Software ]  I took a quick look at the extension. There was an easy privileged javascript code execution bug. Sigh.… https://twitter.com/i/web/status/821799140497584129
+﻿"最近 Adobe Acrobat 强制安装的 Chrome 扩展存在 XSS 漏洞： https://bugs.chromium.org/p/project-zero/issues/detail?id=1088"
+[ Popular Software ]  Details of Microsoft Word OneTableDocumentStream vulnerability (CVE-2016-7290): http://srcincite.io/blog/2016/12/13/word-up-microsoft-word-onetabledocumentstream-underflow.html
+﻿"Microsoft Word OneTableDocumentStream  内存下溢漏洞分析 (CVE-2016-7290)︰ https://t.co/zvcxq6vlXu"
+[ Popular Software ]  Oracle Outside In Technology 存在多个漏洞： http://blog.talosintel.com/2017/01/oit-multiple-rce.html?utm_source=dlvr.it&utm_medium=twitter&utm_campaign=Feed:+feedburner/Talos+(Talos+Blog)&m=1
+[ Popular Software ]  APPLE-SA-2017-01-18-2 Logic Pro X 10.3 https://goo.gl/fb/UXnjMG #FullDisclosure
+﻿"Apple Pro X 10.3 音乐制作软件存在任意代码执行漏洞（CVE-2017-2372）： https://t.co/a6IrVYk8dd "
+[ Popular Software ]  Vulnerability Spotlight: Adobe Acrobat Reader DC jpeg Decoder Vulnerability http://blog.talosintel.com/2017/01/adobe-acrobat-jpeg-vuln.html
+﻿"Adobe Acrobat Reader DC JPEG 解码器存在远程代码执行漏洞（CVE-2017-2971）： http://blog.talosintel.com/2017/01/adobe-acrobat-jpeg-vuln.html"
+[ Popular Software ]  Hijacking Whatsapp accounts using Whatsapp Web https://blog.mawalabs.de/security/2017/01/18/hijack-whatsapp-accounts-using-whatsapp-web/
+﻿"利用 Whatsapp Web 客户端劫持 Whatsapp 账户： https://t.co/tZPAMyk53i"
+[ Popular Software ]  [local] - Microsoft Power Point 2016 - Java Code Execution https://www.exploit-db.com/exploits/41144/
+﻿"Microsoft Power Point 2016 中存在 Java 代码执行： https://t.co/T6UrzCB5zr"
+[ Popular Software ]  PHP Melody 2.7 - Multiple Vulnerabilities https://www.logicista.com/2017/phpmelody-multiple-vulnerabilities
+﻿"PHP Melody 2.7 存在多个漏洞： https://t.co/mrNZcKHFtp"
+[ Popular Software ]  Microsoft RDP Client for Mac OS X arbitrary file read/write that leads to RCE https://www.wearesegment.com/research/Microsoft-Remote-Desktop-Client-for-Mac-Remote-Code-Execution #macos #microsoft #vulnerability
+﻿"Microsoft Remote Desktop Client for Mac 远程代码执行： https://t.co/0ln4jdAruj"
+[ Popular Software ]  There was a secret URL in WebEx that allowed any website to run arbitrary code. ¯\_(ツ)_/¯ https://bugs.chromium.org/p/project-zero/issues/detail?id=1096
+﻿"Cisco: Magic WebEx URL 任意代码执行漏洞： https://t.co/sAqZrDN4ad"
+[ Popular Software ]  Oracle WebLogic RMI Registry UnicastRef Object Deserialization of Untrusted Data Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-17-055/
+﻿"Oracle WebLogic RMI Registry UnicastRef Object Deserialization of Untrusted Data Remote Code Execution Vulnerability，来自 ZDI： https://t.co/PwVkPk9WNk"
+[ Popular Software ]  PHP Crashers https://github.com/hannob/php-crashers scripts that cause segfaults in PHP
+﻿"能够使 PHP 解释器发生段错误崩溃的几个脚本： https://t.co/ZF4PBbP5HT "
+[ Popular Software ]  Adobe: Adobe Acrobat Force-Installed Vulnerable Chrome Extension https://bugs.chromium.org/p/project-zero/issues/detail?id=1088
+﻿"Adobe: Adobe Acrobat Force-Installed Vulnerable Chrome Extension： https://t.co/suiTMM5ccm"
+[ Popular Software ]  Writeup of my UAF bug in Google Hangouts ActiveX: http://pwnanisec.blogspot.be/2017/02/use-after-free-in-google-hangouts.html
+﻿"Google Hangouts 中使用的 Google Talk ActiveX 插件 UAF 漏洞分析︰ https://t.co/cPjdoJ1vXF"
+[ Popular Software ]  WordPress REST API 内容注入漏洞分析： http://paper.seebug.org/208/
+[ Popular Software ]  Remote directory traversal in Metasploit's downloading of files from victims. Patch 'em if you got 'em! https://t.co/GzhUGOrotO
+﻿" Metasploit meterpreter 目录遍历漏洞分析： https://t.co/GzhUGOrotO"
+[ Popular Software ]  Code Execution in SQL Server via Fileless CLR-based Custom Stored Procedures : http://sekirkity.com/command-execution-in-sql-server-via-fileless-clr-based-custom-stored-procedure/ cc @ sekirkity
+﻿"通过无文件基于 CLR 自定义存储过程实现在 SQL Server 中执行代码︰ https://t.co/e06wYhhoYK "
+[ Popular Software ]  Arbitrary command/code execution bugs in RVM. Hooking cd can be hazardous to your health. https://github.com/justinsteven/advisories/blob/master/2017_rvm_cd_command_execution.md
+﻿" RVM（Ruby Version Manager） 1.28.0 版本存在多个任意代码执行漏洞： https://t.co/o1lZr0600f"
+[ Popular Software ]  The Angular JS Security videos by @ LiveOverflow are really awesome. Perfect sandbox bypass explanations: https://www.youtube.com/playlist?list=PLhixgUqwRTjwJTIkNopKuGLk3Pm9Ri1sF
+﻿"关于 Angular JS 沙箱逃逸的几个视频︰ https://t.co/mvfVBAr6Cu"
+[ Popular Software ]  Adobe Flash: Overflow in MP4 AMF Parsing https://bugs.chromium.org/p/project-zero/issues/detail?id=1018
+﻿"Adobe Flash MP4 AMF 解析存在溢出漏洞（CVE-2017-2992）： https://t.co/h3n7dYBJVf"
+[ Popular Software ]  Adobe Flash: Use-after-free in Copying Bitmap Pixels https://bugs.chromium.org/p/project-zero/issues/detail?id=1014
+﻿"Adobe Flash 拷贝 Bitmap 像素时触发的一个 UAF 漏洞： https://t.co/LZzc8sq3HT"
+[ Popular Software ]  Adobe Flash: Fuzzed SWF causes stack corruption https://bugs.chromium.org/p/project-zero/issues/detail?id=1013
+﻿"Adobe Flash SWF 模糊测试时发现栈损坏漏洞（CVE-2017-2988）： https://t.co/xCNO2d0QHG"
+[ Popular Software ]  Adobe Flash: Heap Overflow in YUVPlane decoding https://bugs.chromium.org/p/project-zero/issues/detail?id=1008
+﻿"Adobe Flash  YUVPlane 解码时存在堆溢出漏洞： https://t.co/CiF1e36omp"
+[ Popular Software ]  Adobe Flash: Use-after-free in applying bitmapfilter https://bugs.chromium.org/p/project-zero/issues/detail?id=1007
+﻿" Adobe Flash: Use-after-free in applying bitmapfilter： https://bugs.chromium.org/p/project-zero/issues/detail?id=1007"
+[ Popular Software ]  slides from our talk today: https://www.slideshare.net/chrisgates/devoops-attacks-and-defenses-for-devops-toolchains cc @ cktricky also gist with all the links https://gist.github.com/carnal0wnage/ed9e4c10e065bd00e21e2af67301e9d9 #RSAC2017 #RSAC
+﻿"DevOps 工具链的攻击与防御，来自 RSA 2017 会议︰ https://t.co/tZT83WLwWL ; "
+[ Popular Software ]  NCC Group Advisory: Shell Injection in MacVim mvim URI handler - https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2017/february/technical-advisory-shell-injection-in-macvim-mvim-uri-handler/?Year=2017&Month=2 by @ dan_crowley
+﻿"MacVim mvim URI Handler 存在 shell 注入漏洞：： https://t.co/04R2Whkqwn "
+[ Popular Software ]  NCC Group Advisory: Shell Injection in SourceTree - https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2017/february/technical-advisoryshell-injection-in-sourcetree/?Year=2017&Month=2 by @ dan_crowley
+﻿"Mac 版 SourceTree 存在 shell 注入漏洞： https://t.co/DiTtjsd46D "
+[ Popular Software ]  Source Insight 4 破解方案： http://scz.617.cn/misc/201702201711.txt
+[ Popular Software ]  EasyCom PHP API Stack Buffer Overflow https://goo.gl/fb/jsiGlJ #FullDisclosure
+﻿"EasyCom 中间件 PHP API 堆栈缓冲区溢出漏洞（CVE-2017-5358）： https://t.co/A1GgZzupv0 "
+[ Popular Software ]  Vulnerability Spoltlight: Multiple Vulnerabilities in the Aerospike NoSQL Database Server http://blogs.cisco.com/security/talos/aerospike-vulnerabilities-2
+﻿" Aerospike NoSQL Database Server 被发现多个漏洞： https://t.co/fas8oIiBgX "
+[ Popular Software ]  Vulnerability Deep Dive - Ichitaro Office Excel File Code Execution Vulnerability http://blog.talosintelligence.com/2017/02/vulnerability-deep-dive-ichitaro-office.html (using mona.py)
+﻿" Ichitaro Office 套装 Excel 代码执行漏洞分析： https://t.co/oKvGZaApq4 "
+[ Popular Software ]  The project integrates #OpenPGP into #Gmail via a #Chrome extension. #E2EMail https://threatpost.com/google-releases-e2email-to-open-source/123923/ via @ threatpost
+﻿"Google 将 E2EMail 开源了： https://t.co/ZgxF9CsPCY"
+[ Popular Software ]  Multiple remote code execution vulnerabilities in Iceni Argus PDF Content Extraction affect MarkLogic http://blogs.cisco.com/security/talos/vulnerability-spotlight-multiple-remote-code-execution-vulnerabilities-in-iceni-argus-pdf-content-extraction-affect-marklogic
+﻿"Iceni Argus PDF Content Extraction 中存在多个 RCE 漏洞： https://t.co/JRHM1EHEod"
+[ Popular Software ]  Siemens #RUGGEDCOM NMS Equipment Vulnerable to #CSRF, #XSS: https://threatpost.com/siemens-ruggedcom-nms-equipment-vulnerable-to-csrf-xss/123977/ via @ threatpost
+﻿"西门子企业网络管理设备 RUGGEDCOM NMS 存在CSRF、XSS 漏洞： https://t.co/fqXNXBwRvP"
+[ Popular Software ]  Million-plus @ WordPress sites exposed by vulnerable plugin - http://bit.ly/2lWmfrp
+﻿"拥有上百万用户的 WordPress 插件 NextGEN Gallery 已将其 SQL 注入漏洞修复 ： https://t.co/eaCnTQjMNy"
+[ Popular Software ]  Wordpress Username Enumeration：http://paper.seebug.org/239/
+[ Popular Software ]  Apache Struts 2 在处理文件上传 HTTP 头部 Content-Type 时，存在 RCE 漏洞（S2-045） CVE-2017-5638 ： https://cwiki.apache.org/confluence/display/WW/S2-045?from=groupmessage
+[ Popular Software ]  #WesternDigital #MyCloud Multiples #RCE PoC Video https://www.youtube.com/watch?v=aKu_yWrIIFI https://www.exploitee.rs/index.php/Western_Digital_MyCloud #WD #infosec #NAS
+﻿"西部数码 MyCloud 系列 NAS 设备的固件安全性分析： https://t.co/Vc8AEhzbux   PoC 视频： https://t.co/5JJJawFXO9  "
+[ Popular Software ]  S2-045 原理初步分析（CVE-2017-5638）： http://paper.seebug.org/241/ http://www.ijiandao.com/safe/cto/46798.html
+[ Popular Software ]  Ambionics Security team found critical RCE vulnerability in Drupal Services module. Details and exploit: https://t.co/wMSvhZkRjj
+﻿"DRUPAL 7.X 服务模块存在反序列化漏洞导致远程代码执行漏洞的分析，来自 Ambionics team︰ https://t.co/wMSvhZkRjj"
+[ Popular Software ]  [TECHNICAL ADVISORY] Shell Injection in #MacVim mvim URI handler…by @ dan_crowley https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2017/february/technical-advisory-shell-injection-in-macvim-mvim-uri-handler/
+﻿" MacVim 在处理 mvim  URI 时存在 Shell 注入： https://t.co/N0p6hwh23X "
+[ Popular Software ]  Very cool Google Maps XSS https://medium.com/@ marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff#.o2rm7fh0g #XSS #BugBounty #vulnerability #GoogleMaps
+﻿"我是如何挖掘到价值 5000 美元的 Google Maps XSS 漏洞的： https://t.co/IDA3CxQCuL "
+[ Popular Software ]  Notepad++ release v7.3.3 - Fix CIA Hacking Issue : https://notepad-plus-plus.org/news/notepad-7.3.3-fix-cia-hacking-issue.html , Notepad++ DLL Hijack (Vault7 / CIA) : https://wikileaks.org/ciav7p1/cms/page_26968090.html
+﻿"Notepad + + 发布 v7.3.3 版本，修复了 CIA 文档中暴露的问题︰ https://t.co/Eoq8iuyr2a  Notepad + + DLL 劫持 (Vault7 / CIA): https://t.co/goITr24qOu"
+[ Popular Software ]  How @ nahamsec and I got Remote Code Execution on @ Airbnb with Ruby on Rails String Interpolation http://buer.haus/?p=410
+﻿"Airbnb -- Ruby on Rails 字符串处理不当导致远程代码执行漏洞： https://t.co/DbateL5XXc "
+[ Popular Software ]  I posted the (long) writeup of the SAML vulnerabilities in Github Enterprise that allowed for authentication bypass: https://t.co/6i8C5QoTeZ
+﻿"Github 企业版 SAML 认证绕过漏洞分析︰ https://t.co/6i8C5QoTeZ"
+[ Popular Software ]  Adobe Flash: Use-after-free in MovieClip attach init object https://bugs.chromium.org/p/project-zero/issues/detail?id=1006
+﻿"Project Zero 爆出的一堆 Adobe 漏洞：CVE-2017-2931： https://bugs.chromium.org/p/project-zero/issues/detail?id=1005  CVE-2017-2932： https://t.co/oKkjbmRV96  CVE-2017-2934： https://t.co/SPkb1a4wfX  CVE-2017-2935： https://t.co/RAhqjKbgBI"
+[ Popular Software ]  S2-045 漏洞分析： http://paper.seebug.org/247/
+[ Popular Software ]  Nice ones :) - WhatsApp & Telegram vulnerability writeup for account takeover http://blog.checkpoint.com/2017/03/15/check-point-discloses-vulnerability-whatsapp-telegram/
+﻿"Check Point 公开 Whatsapp 和 Telegram 中存在漏洞，此漏洞危及上百万用户 ： https://t.co/37Kg7tOA5m"
+[ Popular Software ]  MySQL Out-of-Band 注入攻击： http://weibo.com/ttarticle/p/show?id=2309404085632950477326
+[ Popular Software ]  通过一个序列化相关的漏洞实现 GitHub Enterprise 版本的远程代码执行： http://exablue.de/blog/2017-03-15-github-enterprise-remote-code-execution.html
+[ Popular Software ]  阿里巴巴 fastjson 1.2.24 以及之前版本存在远程代码执行高危安全漏洞，请升级到1.2.28/1.2.29或者更新版本： https://github.com/alibaba/fastjson/wiki/security_update_20170315
+[ Popular Software ]  mysql-unsha1 : Authenticate against a MySQL server without knowing the cleartext password : https://github.com/cyrus-and/mysql-unsha1 cc @ cyrus_and
+﻿"mysql-unsha1: 在不知道 MySQL 明文密码的情况下绕过认证︰ https://t.co/y7Rl1L45jL "
+[ Popular Software ]  SSD Advisory – @ Oracle Knowledge Management XXE Leading to a RCE For more details: https://blogs.securiteam.com/index.php/archives/3052 https://t.co/LRf1zAn9BO
+﻿"Oracle 知识库管理系统存在 XXE 漏洞可导致 RCE： https://blogs.securiteam.com/index.php/archives/3052"
+[ Popular Software ]  Struts2 S2-046 PoC https://github.com/pwntester/S2-046-PoC
+﻿"Struts2 S2-046 is coming： https://cwiki.apache.org/confluence/display/WW/S2-046 ; PoC： https://t.co/9nHz5GNeiE"
+[ Popular Software ]  Oops, new LastPass bug that affects 4.1.42 (Chrome&FF). RCE if you use the "Binary Component", otherwise can steal… https://twitter.com/i/web/status/843965519371812864
+﻿"LastPass 爆出新漏洞，影响 Firefox/Chrome；Tavis 利用这个漏洞弹出了计算器： https://t.co/jaqsWg8CtT"
+[ Popular Software ]  CVE-2016-10190 FFmpeg Heap Overflow 漏洞分析及利用 https://security.tencent.com/index.php/blog/msg/116
+﻿"CVE-2016-10190 FFmpeg Heap Overflow 漏洞分析及利用： https://t.co/tOBEm0q5Of"
+[ Popular Software ]  Moodle 0-day (Remote Code Execution) : http://netanelrub.in/2017/03/20/moodle-remote-code-execution/
+﻿"学习管理系统 Moodle 远程代码执行漏洞分析（CVE-2017-2641） ︰ https://t.co/Zr6PkoBpuW"
+[ Popular Software ]  Tavis 公布了昨天 Twitter 提到的 LastPass 可以在 Chrome/Firefox 弹计算器的漏洞细节。主要是利用 LastPass 扩展中 websiteConnector.js 允许代理 IPC commands 的漏洞： https://bugs.chromium.org/p/project-zero/issues/detail?id=1209
+[ Popular Software ]  日版WPS远程代码执行漏洞详细分析: http://bobao.360.cn/learning/detail/3636.html
+[ Popular Software ]  Apache Struts2 S2-046 漏洞分析: http://blog.nsfocus.net/apache-struts-2-remote-code-execution-vulnerability-s2-046-technical-analysis-solution/ http://bobao.360.cn/learning/detail/3649.html
+[ Popular Software ]  #Pwn2Own follow-up: new #VMware Security Advisory VMSA-2017-0006 for ESXi, Workstation and Fusion https://blogs.vmware.com/security/2017/03/vmware-workstation-target-pwn2own-2017.html
+﻿"VMware 发布了针对 PWN2OWN 2017 比赛所涉及漏洞的安全公告： https://t.co/TW9j820Z67"
+[ Popular Software ]  LastPass have fixed the remote code execution bug I reported last week. ?? https://bugs.chromium.org/p/project-zero/issues/detail?id=1225
+﻿" LastPass 隔离环境全局属性可修改的漏洞，可以导致 RCE，来自 Project Zero Tavis：  https://t.co/NWwqTdGbay"
+[ Popular Software ]  The slides for @tifkin_'s and my @BSidesNOLA "A Case Study in Attacking KeePass" presentation are up at https://t.co/ygIZ5ogiqg #BSidesNola
+﻿"针对密码管理软件 KeePass 的攻击研究，来自 BSidesNola 2017： https://t.co/ygIZ5ogiqg "
+[ Popular Software ]  Local privilege escalation in Tenable Nessus Agent 6.10.3 (CVE-2017-7199) - https://aspe1337.blogspot.co.uk/2017/04/writeup-of-cve-2017-7199.html #Hacking #Pentesting #Infosec
+﻿" Tenable Nessus Agent 6.10.3 本地提权漏洞分析 (CVE-2017-7199)： https://t.co/SxwSgd1EHr "
+[ Popular Software ]  Slides, video & source code from my talk at @ OWASPLondon "PostMessage Security in Chrome Extensions" https://raz0r.name/talks/postmessage-security-in-chrome-extensions/
+﻿"对 Chrome 扩展应用中 PostMessage 的安全性分析，来自 OWASP London Meetup： https://t.co/mJj1UC8o7r "
+[ Popular Software ]  CVE-2017-2387 Apple Music (Android) An attacker in a priv network position may be able to leak sensitive user info https://support.apple.com/en-us/HT207605
+﻿" Apple Music for Android 证书验证存在问题导致攻击者可以窃取用户敏感信息（CVE-2017-2387）： https://t.co/ocKV8qf7p1"
+[ Popular Software ]  0-Day SQL Injection in TYPO3 News module, exploit available https://www.ambionics.io/blog/typo3-news-module-sqli
+﻿"开源内容管理系统 TYPO3 中的 News system 模块存在 SQL 注入漏洞，此文章对漏洞进行了分析与利用： https://t.co/byb7D6mGV6"
+[ Popular Software ]  Wire messenger server code open-sourced : https://github.com/wireapp/wire-server
+﻿"私密消息应用 Wire 的后端服务器源码︰ https://t.co/Zh22f65dEM"
+[ Popular Software ]  Mysql字符编码利用技巧： https://www.leavesongs.com/PENETRATION/mysql-charset-trick.html
+[ Popular Software ]  .@ Microsoft patches Word #0day spreading #Dridex malware - http://bit.ly/2o1q0Lf #PatchTuesday
+﻿"Windows 今天发布的补丁修复了前两周一直野外传播的 Office .hta OLE2Link 0Day： https://t.co/wViGbS7azS   FireEye 刚发了一篇 Blog，介绍这个漏洞的技术细节： https://www.fireeye.com/blog/threat-research/2017/04/cve-2017-0199-hta-handler.html   NCC Group 也发了一篇分析该漏洞的 Paper：  https://github.com/nccgroup/Cyber-Defence/blob/master/Technical%20Notes/Office%20zero-day%20(April%202017)/2017-04%20Office%20OLE2Link%20zero-day%20v0.4.pdf "
+[ Popular Software ]  Microsoft Office OneNote 2007 DLL side loading vulnerability https://goo.gl/fb/dgqD6u #FullDisclosure
+﻿"Microsoft Office OneNote 2007 存在 DLL 劫持漏洞（CVE-2017-0197）： http://seclists.org/fulldisclosure/2017/Apr/61?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29"
+[ Popular Software ]  Analysis of a CVE-2017-0199 Malicious RTF Document http://blog.nviso.be/2017/04/12/analysis-of-a-cve-2017-0199-malicious-rtf-document
+﻿" Nviso 从实际恶意样本分析昨天修复的 Office 0Day 漏洞（CVE-2017-0199） https://t.co/aq1mzX0fwQ "
+[ Popular Software ]  Unitrends Bug Hunting: Remote Code Execution (CVE-2017-7280) - Part 1 https://rhinosecuritylabs.com/research/remote-code-execution-bug-hunting-chapter-1/
+﻿"Unitrends （企业备份软件） 远程代码执行漏洞分析（CVE-2017-7280）： https://t.co/DjXTDoD411"
+[ Popular Software ]  #PenTesting #Skype for Business: Exploiting the Missing #Lync: @domchell via MDSec #cybersecurity https://t.co/eesKKDyTNb
+﻿"攻击商业版 Skype，获取域管理凭据： https://t.co/eesKKDyTNb "
+[ Popular Software ]  Proxifier for Mac <= 2.18（CVE-2017-7643）本地 Root 提权： http://seclists.org/fulldisclosure/2017/Apr/64?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29 Proxifier for Mac 2.19 本地 Root 提权 ：http://seclists.org/fulldisclosure/2017/Apr/63?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29
+[ Popular Software ]  Interested in how to exploit #CVE-2017-0199? @ vysecurity explains how https://www.mdsec.co.uk/2017/04/exploiting-cve-2017-0199-hta-handler-vulnerability/
+﻿"针对 CVE-2017-0199 的漏洞利用，无需用户交互： https://t.co/bdPz4dtsQb"
+[ Popular Software ]  Hacking Customer Information Control System : http://conference.hitb.org/hitbsecconf2017ams/materials/D1T1%20-%20Ayoub%20Elaassal%20-%20Hacking%20Customer%20Information%20System.pdf (Slides) cc @ ayoul3__ #HITB2017AMS
+﻿"攻击客户信息控制系统（CICS），来自 HITB 2017 AMS 大会︰ https://t.co/f8jKad1ksu "
+[ Popular Software ]  Adobe Creative Cloud Desktop Application <= v4.0.0.185 Privilege Escalation https://goo.gl/fb/rYoVxv #FullDisclosure
+﻿"Adobe Creative Cloud Desktop Application <= v4.0.0.185 由于目录 ACL 设置不当引起的提取漏洞（CVE-2017-3006）： https://t.co/dEdzsRv1pn "
+[ Popular Software ]  #HITB2017AMS slides for our talk on Signal (w/ @ veorq) are available here: https://conference.hitb.org/hitbsecconf2017ams/materials/D2T1%20-%20Markus%20Vervier%20-%20Hunting%20for%20Vulnerabilities%20in%20Signal.pdf
+﻿"挖掘即时通讯应用 Signal 的漏洞，来自 HITB 2017 AMS 会议 ︰ https://t.co/Fkob6N8UJG"
+[ Popular Software ]  CVE-2017-0199 Practical exploitation ! (PoC) http://rewtin.blogspot.com/2017/04/cve-2017-0199-practical-exploitation-poc.html
+﻿"CVE-2017-0199 漏洞利用 PoC： https://t.co/oiQLWJAzqF"
+[ Popular Software ]  Unitrends RCE (CVE-2017-7280) exploitation: https://rhinosecuritylabs.com/research/remote-code-execution-bug-hunting-chapter-2/ https://t.co/Uzpp3lVYVs
+﻿"Unitrends （企业备份软件） 远程代码执行漏洞分析（CVE-2017-7280） Part 2︰ https://t.co/ozBpxJHlKi  "
+[ Popular Software ]  A highly critical security release for #Drupal 8.3.1 and 8.2.8 is now available. Update your sites now. https://t.co/72kyC4157a
+﻿"Drupal 8-8.2.8 和 8.3.1 版本存在严重的访问绕过漏洞（CVE-2017-6919）： https://t.co/72kyC4157a"
+[ Popular Software ]  I just published “PASSFREELY: Oracle & SWIFT at risk” https://medium.com/p/passfreely-oracle-swift-at-risk-eb6886908227
+﻿"ShadowBrokers 泄露的 PASSFREELY 工具可用于绕过 Oracle 的认证： https://t.co/USMyJMN9O5"
+[ Popular Software ]  Abusing native Microsoft Office functionality to gain persistence https://labs.mwrinfosecurity.com/blog/add-in-opportunities-for-office-persistence/
+﻿"在 Microsoft Office 中，有多少种方法可以帮助攻击者实现常驻（Persistence）？： https://t.co/zf6Lqm9hTx"
+[ Popular Software ]  &lt;?xml;phpinfo();?&gt; bypass for @ModSecurity rule SecRule ARGS "@rx &lt;\?(?!xml)" Local File Inclsion/Shell Upload from https://t.co/d41KJYQ2rj
+﻿"ModSecurity 规则编写指导： https://t.co/d41KJYQ2rj"
+[ Popular Software ]  We just disclosed our 300th Vulnerability! Affecting Adobe Reader DC Pro: http://srcincite.io/advisories/src-2017-0002/ http://srcincite.io/advisories/src-2017-0003/
+﻿"Adobe Acrobat Pro DC ImageConversion TIFF 解析存在 UAF 漏洞可导致远程代码执行（CVE-2017-3026）︰ https://t.co/19IX7NhKbg "
+[ Popular Software ]  More LastPass flaws: researcher pokes holes in 2FA http://feedproxy.google.com/~r/nakedsecurity/~3/Nq6GTdTXtyg/
+﻿"研究人员在 LastPass 的双因素认证上发现了问题： https://t.co/UTYoVnhdLW"
+[ Popular Software ]  QuickZip 4.60 - Win7 X64 SEH Overflow (Egghunter) With Custom Encoder http://blog.knapsy.com/blog/2017/05/01/quickzip-4-dot-60-win7-x64-seh-overflow-egghunter-with-custom-encoder/
+﻿"利用 QuickZip 4.60 的缓冲区溢出漏洞在 Win7 X64 系统上弹计算器： http://blog.knapsy.com/blog/2017/05/01/quickzip-4-dot-60-win7-x64-seh-overflow-egghunter-with-custom-encoder/ "
+[ Popular Software ]  去年推送过利用 Outlook Rules 触发 Shell 执行攻击用户的技术，最近这个方法被微软修复了，于是作者看看能不能尝试新方法，于是找到了 Outlook Forms： https://sensepost.com/blog/2017/outlook-forms-and-shells/
+[ Popular Software ]  CVE-2016-10033 WordPress Core - Unauthenticated Remote Code Execution (#RCE) #PoC #Exploit #infosec #itsecurity https://t.co/7OBxK6XD4q
+WordPress 内核 PHPMailer 存在一个远程代码执行漏洞，未授权用户可以通过这个漏洞直接控制 Web 服务器（CVE-2016-10033），4.7.1 之前版本受影响，文章中附针对 4.6 版本的 PoC： https://exploitbox.io/vuln/WordPress-Exploit-4-6-RCE-CODE-EXEC-CVE-2016-10033.html
+[ Popular Software ]  绕过限制劫持Skype账号： http://blog.csdn.net/u011721501/article/details/71107858
+[ Popular Software ]  WordPress Core <= 4.7.4 Potential Unauthorized Password Reset (0day). https://exploitbox.io/vuln/WordPress-Exploit-4-7-Unauth-Password-Reset-0day-CVE-2017-8295.html
+WordpPress 4.7 无需登录即可利用的密码重置漏洞（CVE-2017-8295）： https://exploitbox.io/vuln/WordPress-Exploit-4-7-Unauth-Password-Reset-0day-CVE-2017-8295.html
+[ Popular Software ]  First post - "From 404 and default pages to RCE via .cshtml webshell" #cybersecurity #pentest #bugbounties https://t.co/LBEs5AV7YS
+" 针对 razorC.net CMS 的安全测试，篡改 .cshtml 文件以获取 WebShell： https://niemand.com.ar/2017/05/05/from-404-and-default-pages-to-rce-via-cshtml-webshell/ "
+[ Popular Software ]  Unitrends Vulnerability Hunting: Remote Code Execution (CVE-2017-7280) – Chapter 2 https://rhinosecuritylabs.com/research/remote-code-execution-bug-hunting-chapter-2/
+" UNITRENDS 远程代码执行漏洞与本地文件包含漏洞分析（CVE-2017-7280）： https://rhinosecuritylabs.com/research/remote-code-execution-bug-hunting-chapter-2/ "
+[ Popular Software ]  Another day another #RCE #0day - #Vanilla Forums 2.3 -Patch it up #infosec Advisory&amp;PoC #exploit at #Exploit_Box… https://t.co/oIfExshob2
+"  Vanilla Forums <= 2.3 无需认证的远程代码执行漏洞的分析与利用（ CVE-2016-10033）： https://exploitbox.io/vuln/Vanilla-Forums-Exploit-RCE-0day-Remote-Code-Exec-CVE-2016-10033.html "
+[ Popular Software ]  Vulnerability Spotlight: Hangul Word Processor Remote Code Execution Vulnerability http://dlvr.it/P7FRmp
+"  Cisco Talos 的研究员发现一款韩文处理软件 Hangul Word Processor 存在远程代码执行漏洞(CVE-2017-2819)： http://blog.talosintelligence.com/2017/05/vulnerability-spotlight-hangul-word.html?utm_source=dlvr.it&utm_medium=twitter&utm_campaign=Feed%3A+feedburner%2FTalos+%28Talos+Blog%29  分析：  https://www.talosintelligence.com/vulnerability_reports/TALOS-2017-0320 "
+[ Popular Software ]  LVM2 parser in EnCase Forensic Imager vulnerable to buffer overflow. Code Exec through evidence #ChainsawOfCustody… https://t.co/ST4YDZjicy
+" 取证分析工具 Guidance Software EnCase Forensic Imager 刚刚修复了一个栈溢出漏洞： http://blog.sec-consult.com/2017/05/chainsaw-of-custody-manipulating.html "
+[ Popular Software ]  I just realized I didn't release the slides for my talk @ MS BlueHat and Tencent TenSec last Nov., so here you go https://sites.google.com/site/zerodayresearch/Analysis_of_the_Attack_Surface_of_Microsoft_Office_from_User_Perspective_final.pdf.
+" 从用户角度出发分析 Microsoft Office 的攻击面，来自 Haifei Li 在 BlueHat 的演讲： https://sites.google.com/site/zerodayresearch/Analysis_of_the_Attack_Surface_of_Microsoft_Office_from_User_Perspective_final.pdf "
+[ Popular Software ]  Adobe Flash: Heap Corruption in Margin Handling https://bugs.chromium.org/p/project-zero/issues/detail?id=1174
+" Adobe Flash 在处理富文本 margin 时的堆破坏漏洞（CVE-2017-3061）： https://t.co/JD7icHtqKp "
+[ Popular Software ]  Oracle PeopleSoft Remote Code Execution: Blind XXE to SYSTEM Shell https://www.ambionics.io/blog/oracle-peoplesoft-xxe-to-rce
+"  Oracle PeopleSoft 远程代码执行漏洞分析与利用：从 BLIND XXE 到 SYSTEM SHELL（CVE-2013-3821）： https://t.co/dyWnq07Av5 "
+[ Popular Software ]  Details about the SQL Injection Vulnerability in #Joomla! 3.7. Update your sites to v. 3.7.1 ASAP! https://t.co/wLL00fSH4l by @MarcS0h
+"  Joomla! 3.7 SQL 注入漏洞详情(CVE-2017-8917)： https://t.co/wLL00fSH4l "
+[ Popular Software ]  滥用 iBooks ePub reader 执行 JS 实现敏感用户信息泄露漏洞（CVE-2017-2497）： https://shhnjk.blogspot.com/2017/05/is-your-epub-reader-secure-enough.html
+[ Popular Software ]  The Case of the Stolen Source Code : https://panic.com/blog/stolen-source-code/
+" 开源视频转码软件 HandBrake 的镜像下载服务器遭到入侵，软件被植入后门，源码也遭到泄露。攻击者随后还发送电子邮件，勒索大量比特币。其中源码的原因是创始人恰好在服务器遭到入侵期间手动更新了软件： http://www.solidot.org/story?sid=52446  https://panic.com/blog/stolen-source-code/ "
+[ Popular Software ]  XSS over SMS: Hacking Text Messages in Verizon Messages https://randywestergren.com/xss-sms-hacking-text-messages-verizon-messages/ #XSS #vulnerability https://t.co/G75zjzygb5
+" Verizon Messages 应用的 DOM XSS 漏洞详情： https://t.co/iVyW8HFzPC "
+[ Popular Software ]  VMWare Workstation on Linux: unprivileged host user -> host root privesc via ALSA config https://bugs.chromium.org/p/project-zero/issues/detail?id=1142
+"  Linux 版本 VMware Workstation 的 Host 进程加载 ALSA 配置文件时存在一个 Root 用户虚拟机逃逸漏洞（CVE-2017-4915）： https://t.co/7bIUVsaCCG "
+[ Popular Software ]  SQL Server Link Attack Lab Setup Guide: https://blog.netspi.com/wp-content/uploads/2017/05/Technical-Article-Hacking-SQL-Server-Database-Links-Setup-and-Attack-Guide.pdf - it's old, but still useful for learning concepts :) enjoy
+" SQL Server 数据库攻击手册： https://t.co/wM7y3cw582 "
+[ Popular Software ]  利用 PowerUpSQL 实现从本地管理员用户权限提权至 SQL Server 的 Sysadmin 权限： https://blog.netspi.com/get-sql-server-sysadmin-privileges-local-admin-powerupsql/
+[ Popular Software ]  Vulnerability in Samba versions 3.5.0 onward allows remote code execution from a writable share. Patch ASAP: https://lists.samba.org/archive/samba-announce/2017/000406.html
+"  Samba 更新 4.6.4 版本，修复了一个高危远程 Root 权限任意代码执行漏洞（CVE-2017-7494），恶意客户端可以先上传共享库 evil.so 至可写的服务器本地路径，然后触发漏洞，Samba 服务端会加载此 evil.so：  https://lists.samba.org/archive/samba-announce/2017/000406.html  Metasploit中已经继承了攻击代码：  https://github.com/rapid7/metasploit-framework/pull/8450    来自 360 的 Samba远程代码执行漏洞(CVE-2017-7494)分析： http://blogs.360.cn/blog/samba%E8%BF%9C%E7%A8%8B%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C%E6%BC%8F%E6%B4%9Ecve-2017-7494%E5%88%86%E6%9E%90/ "
+[ Popular Software ]  GhostButt - CVE-2017-8291利用分析，Ghostscript是一个流行的PostScript语言的解析器： http://paper.seebug.org/310/
+[ Popular Software ]  Cisco AnyConnect（Windows 版本）存在一个 DLL 加载本地 SYSTEM 提权漏洞（CVE-2017-6638）： https://t.co/1arJMmLcLD
+[ Popular Software ]   IDA Pro debug server RCE 漏洞的 Metasploit 利用模块，影响 Linux & Windows 平台的 IDA 6.6/6.8/6.9：  https://github.com/rapid7/metasploit-framework/pull/8474
+[ Popular Software ]  Adobe Flash Player SecureSocket UAF 远程代码执行漏洞POC： https://lnkd.in/eqw_Mnj
+[ Popular Software ]   大数据内容管理中常用的 Lexmark Perceptive Document Filters 软件的漏洞的利用： http://blog.talosintelligence.com/2017/06/lexmark-perceptive-vuln-deep-dive.html
+[ Popular Software ]  Metasploit 刚刚修复了一个漏洞，结束任务的功能缺乏对 CSRF 的防护，攻击者可以直接请求结束任务，影响多个版本（CVE-2017-5244）： https://community.rapid7.com/community/metasploit/blog/2017/06/14/r7-2017-16-cve-2017-5244-lack-of-csrf-protection-for-stopping-tasks-in-metasploit-pro-express-and-community-editions-fixed
+[ Popular Software ]  被忽视的攻击面：Python package 钓鱼,来自 seebug： http://paper.seebug.org/326/
+[ Popular Software ]   macOS High Sierra 版本将可以直接用 Wireshark 抓取 USB 数据包： https://lists.apple.com/archives/usb/2017/Jun/msg00004.html
+[ Popular Software ]   用于快速搭建 Web 程序的 Webpack & Preact-CLI 在处理证书时存在问题： https://medium.com/@mikenorth/webpack-preact-cli-vulnerability-961572624c54
+[ Popular Software ]  Adobe Flassh ATF Parser 中存在堆破坏（CVE-2017-3078）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1216
+[ Popular Software ]  Adobe Flash avc edge 处理时存在越界读取漏洞（CVE-2017-3076）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1212
+[ Popular Software ]   MAMP 存在CSRF与目录遍历漏洞，可进一步导致远程代码执行： https://www.itsec.nl/en/2017/06/26/drive-by-remote-code-execution-by-mamp/
+[ Popular Software ]  Microsoft Skype 7.2/7.35/7.36 栈缓冲区溢出漏洞： https://packetstormsecurity.com/files/143143
+[ Popular Software ]  FFmpeg安全问题讨论： http://blogs.360.cn/blog/ffmpegs_security_discussion/
+[ Popular Software ]  德国 e-Government 系统中使用的 OSCI-Transport 通信库被发现严重漏洞，攻击者可以实现外部 XML 实体注入攻击： https://www.darkreading.com/vulnerabilities---threats/vulnerabilities-found-in-german-e-government-communication-library/d/d-id/1329268
+[ Popular Software ]  VLC 播放器加载恶意字幕文件导致执行任意代码漏洞分析与 out-of-bounds write poc 实现（CVE-2017-8313，CVE-2017-8312，CVE-2017-8311）： http://www.freebuf.com/articles/system/138574.html
+[ Popular Software ]  Dell 系统预装的几款 Dell Precision Optimizer 应用服务软件存在漏洞，成功利用可以实现禁用安全机制、提权：http://blog.talosintelligence.com/2017/06/vulnerability-spotlight-dell-precision.html
+[ Popular Software ]  CVE-2015-1641 Word 利用样本分析: http://paper.seebug.org/351/
+[ Popular Software ]   Adobe 发布本月的漏洞公告，共修复两个产品的 6 个漏洞： https://threatpost.com/adobe-fixes-six-vulnerabilities-in-flash-connect-with-july-update/126747/
+[ Popular Software ]   MongoDB 多实例运行在同一主机的安全隐患： https://medium.com/@alexbyk/mongodb-at-shared-hosting-security-surprises-c441ecb84b54
+[ Popular Software ]  SAP 修复了 SAP POS 与 Host Agent 中的多个高风险漏洞： https://threatpost.com/sap-patches-high-risk-flaws-in-sap-pos-host-agent/126786/
+[ Popular Software ]    版本控制软件 Mercurial 4.1.3 可以被授权用户的 Python 调试器(pdb)接管，实现任意代码执行（CVE-2017-9462）： https://hackerone.com/reports/222020
+[ Popular Software ]   GNOME 文档查看工具 Evince 的 CBT handler 命令注入漏洞(CVE-2017-1000083)： https://bugzilla.gnome.org/show_bug.cgi?id=784630
+[ Popular Software ]  Cisco Webex 再次被发现存在远程代码执行漏洞： https://bugs.chromium.org/p/project-zero/issues/detail?id=1324   官方公告：  https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20170717-webex
+[ Popular Software ]  How the Twitter App Bypasses Paywalls： https://elaineou.com/2017/01/19/how-the-twitter-app-bypasses-paywalls/
+[ Popular Software ]  福昕阅读器解析 PDF 时存在越界读取导致信息泄露漏洞：（CVE-2017-10943）： http://payatu.com/foxit-reader-pdf-parsing-bounds-read-information-disclosure-vulnerability-4/  （CVE-2017-10944）：  http://payatu.com/foxit-reader-pdf-parsing-bounds-read-information-disclosure-vulnerability-5/
+[ Popular Software ]   Oracle E-Business Suite 可在未认证的情况下下载任意文档(CVE-2017-10244)： https://threatpost.com/oracle-e-business-suite-flaw-allows-downloads-of-documents/126897/
+[ Popular Software ]   Nitro Pro PDF Reader 11.0.3.173 ,Javascript API RCE 漏洞 Exploit： https://gist.github.com/stevenseeley/725c6c0be2ff76494c23db730fd30b6d
+[ Popular Software ]   Talos 研究员发现 FreeRDP 存在 2 个代码执行漏洞和 4 个拒绝服务漏洞： http://blog.talosintelligence.com/2017/07/vulnerbility-spotlight-freerdp-multiple.html
+[ Popular Software ]  Flash漏洞利用之“喜闻乐见”，Flash 漏洞的攻与防： http://www.freebuf.com/vuls/141405.html
+[ Popular Software ]    如何利用 Photoshop 的远程连接特性，实现 RAT 远控，文章作者已经删除了，看 Google 的缓存吧： https://webcache.googleusercontent.com/search?q=cache:wM9HbXH70EMJ:https://medium.com/0xcc/how-to-turn-photoshop-into-a-remote-access-tool-972238dc98e9+&cd=1&hl=zh-CN&ct=clnk&gl=cn
+[ Popular Software ]    基于 NTFS ADS 实现的 Mark of the Web 特性需要所有网络客户端的自觉遵守，然而 7-zip 在解压文件时会丢失 "Mark of the Web" 标志： https://textslashplain.com/2016/04/04/downloads-and-the-mark-of-the-web/
+[ Popular Software ]   Jenkins < 1.650 反序列化漏洞（CVE-2016-0792）Exploit： https://cxsecurity.com/issue/WLB-2017070198
+[ Popular Software ]    Sublime Text 的 URL Handler "Subl" 存在一个 Shell 命令执行漏洞： https://inopinatus.org/2017/08/02/shell-command-execution-vulnerability-in-subl-a-third-party-sublime-text-url-handler/
+[ Popular Software ]   之前推送过有人利用 "TYPO-SQUATTING" 污染 Python 软件包库，ThreatPost 这篇报道提到一位叫做 HackTask 的用户正在用同样的方法攻击 Node.js NPM 软件库。TYPO-SQUATTING 指上传恶意软件包，并且起个和其他热门库相似的名字，这样用户可能因错别字误装： https://threatpost.com/attackers-use-typo-squatting-to-steal-npm-credentials/127235/
+[ Popular Software ]  Apache Tomcat 7.x 安全加固指南： https://www.ernw.de/download/hardening/ERNW_Checklist_Tomcat7_Hardening.pdf
+[ Popular Software ]  Supervisord远程命令执行漏洞（CVE-2017-11610）： https://www.leavesongs.com/PENETRATION/supervisord-RCE-CVE-2017-11610.html
+[ Popular Software ]  Adobe Flash 也发布了本月的漏洞公告，共修复了两个漏洞，其中一个为高危： https://threatpost.com/flash-player-marches-toward-end-patches-two-code-execution-bugs-in-latest-update/127288/
+[ Popular Software ]  追寻恶意 NPM 包： https://duo.com/blog/hunting-malicious-npm-packages
+[ Popular Software ]  Talos 公开了一个 Adobe Reader DC Parser 的类型混淆 RCE 漏洞（CVE-2017-11263），漏洞发生在 AcroForm 的解析过程： http://blog.talosintelligence.com/2017/08/adobe-reader-dc-parser.html
+[ Popular Software ]  Metinfo5.3.17前台SQL注入漏洞分析: http://paper.seebug.org/371/
+[ Popular Software ]  Acrobat Reader DC  - 流对象远程代码执行漏洞细节与POC（CVE-2017-11254）： https://blogs.securiteam.com/
+[ Popular Software ]  Office Persistence on x64 operating system,来自 3gstudent's blog: https://3gstudent.github.io/3gstudent.github.io/Office-Persistence-on-x64-operating-system/
+[ Popular Software ]  Office高级威胁漏洞在野利用分析： http://www.freebuf.com/news/143585.html
+[ Popular Software ]   利用 Adobe Flash 的沙箱逃逸漏洞，结合 UNC/file SMB 密钥转发的问题，泄露 Windows 用户的登陆密码(CVE-2017-3085)： https://blog.bjornweb.nl/2017/08/flash-remote-sandbox-escape-windows-user-credentials-leak/
+[ Popular Software ]   有哪些方法可以 Bypass Office 365 的钓鱼邮件过滤器： https://twitter.com/byt3bl33d3r/status/895333432401608704
+[ Popular Software ]  ThinkPHP 5.0.10-3.2.3 缓存函数设计缺陷可导致 Getshell： http://paper.seebug.org/374/
+[ Popular Software ]  Talos 团队发现，近期有攻击者开始结合 CVE-2017-0199 和早期的 CVE-2012-0158 使用，绕过 Word 的告警弹框，最终实现代码执行： http://blog.talosintelligence.com/2017/08/when-combining-exploits-for-added.html
+[ Popular Software ]   Xshell官方版本存在后门代码，请尽快检查版本号： http://weibo.com/1773148625/Fh2sEl7Kf?type=comment#_rnd1502767390868
+[ Popular Software ]  攻击 Windows 版 CPU-Z 的驱动，实现任意未签名驱动加载： https://github.com/SamLarenN/CPUZ-DSEFix
+[ Popular Software ]  Adobe Flash Invoke Accesses Trait Out-of-bounds（CVE-2017-3106）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1320
+[ Popular Software ]  Xshell软件后门技术分析： http://www.freebuf.com/articles/terminal/144367.html
+[ Popular Software ]   ZDI 公开了两个 Foxit Reader 的 0Day，分别是 JavaScript API 触发的命令执行（CVE-2017-10951）和文件写漏洞（CVE-2017-10952），由于触发漏洞需要绕过 Safe Reading Mode，所以官方拒绝修复： https://www.zerodayinitiative.com/blog/2017/8/17/busting-myths-in-foxit-reader
+[ Popular Software ]   绕过 Office 文档的反分析技术，以实现对密码保护的 Office 文档的自动化分析： http://www.ringzerolabs.com/2017/08/bypassing-anti-analysis-technique-in.html
+[ Popular Software ]  Xshell高级后门完整分析报告： https://security.tencent.com/index.php/blog/msg/120
+[ Popular Software ]  Xshellghost技术分析 - 入侵感染供应链软件的大规模定向攻击: http://www.freebuf.com/articles/terminal/144842.html
+[ Popular Software ]  远程终端管理工具Xshell被植入后门代码事件: http://www.freebuf.com/articles/terminal/144822.html
+[ Popular Software ]  0patching Foxit Reader's saveAs "0day" (CVE-2017-10952)： https://0patch.blogspot.com/2017/08/0patching-foxit-readers-saveas-0day-cve.html
+[ Popular Software ]  虚拟仪器软件 LabVIEW 的代码执行漏洞(CVE-2017-2779)： http://blog.talosintelligence.com/2017/08/vulnerability-spotlight-code-execution.html
+[ Popular Software ]  WooCommerce WordPress 插件修复了反射型 XSS 漏洞： https://threatpost.com/reflected-xss-bug-patched-in-popular-woocommerce-wordpress-plugin/127744/
+[ Popular Software ]  9 月 5 日，Apache Struts2 修复 RCE 高危安全漏洞 S2-052（CVE-2017-9805）： https://cwiki.apache.org/confluence/display/WW/S2-052 http://mp.weixin.qq.com/s/PedD0NG2KLAKWbupzU8lrw
+[ Popular Software ]  Malicious URI resolving in PDF documents， PDF 文档中 URI 解析中的危险。来自微博 redrain_QAQ： http://dl.acm.org/citation.cfm?id=2467304
+[ Popular Software ]   本月 Windows 修复的漏洞中，其中有一个 Microsoft Office RTF 的漏洞已经在野外被利用，FireEye 发现它被用于投递 FINSPY（CVE-2017-8759）： https://www.fireeye.com/blog/threat-research/2017/09/zero-day-used-to-distribute-finspy.html  https://blogs.technet.microsoft.com/mmpc/2017/09/12/exploit-for-cve-2017-8759-detected-and-neutralized/
+[ Popular Software ]   VMware 发布 AppDefense，可限制虚拟服务器上运行应用程序的类型： https://www.networkworld.com/article/3222858/data-center/vmware-adds-whitelist-security-to-the-hypervisor.html
+[ Popular Software ]   昨天推送的 Microsoft Office RTF WSDL Parser 野外被利用 0Day 的 PoC： https://github.com/Voulnet/CVE-2017-8759-Exploit-sample https://github.com/vysec/CVE-2017-8759
+[ Popular Software ]  Youtube 上的高级 Flash 漏洞 Part 4： https://opnsec.com/2017/09/advanced-flash-vulnerabilities-in-youtube-part-4/
+[ Popular Software ]   攻击者利用 MS Word 未公开特性实现（打开word文件时）发起 HTTP 请求，进而可以在服务端收集客户端的操作系统和软件版本信息： https://securelist.com/an-undocumented-word-feature-abused-by-attackers/81899/
+[ Popular Software ]    Microsoft Office 有哪些特性可以被后门用来实现常驻（Persist），来自 MWR Labs：  https://labs.mwrinfosecurity.com/publications/persisting-with-microsoft-office/
+[ Popular Software ]   关于 CCleaner 被植入后门事件，Talos 昨天又发了一篇分析文章。他们得到了后门所回连 C&C 服务器的一份备份。在分析过程中，发现了一个攻击者攻击目标的域名列表，因此猜测这些厂商已经中招。其中包括索尼、三星、HTC、MSI、爱普生、思科等公司。卡巴斯基从代码中发现其与 Axiom APT 的样本有关联： http://blog.talosintelligence.com/2017/09/ccleaner-c2-concern.html
+[ Popular Software ]   Joomla! <= 3.7.5 LDAP 注入漏洞详情（CVE-2017-14596）： https://blog.ripstech.com/2017/joomla-takeover-in-20-seconds-with-ldap-injection-cve-2017-14596/
+[ Popular Software ]  Tomcat 远程代码执行漏洞分析（CVE-2017-12615）及补丁 Bypass，来自腾讯云鼎实验室的分析： http://www.freebuf.com/vuls/148283.html
+[ Popular Software ]  你的终端是安全的吗？iTerm2 中可能通过 DNS 请求泄漏隐私信息： http://www.freebuf.com/news/148292.html
+[ Popular Software ]  Office 2016 远程代码执行漏洞详情（CVE-2017-8630）： https://securingtomorrow.mcafee.com/mcafee-labs/microsoft-kills-potential-remote-code-execution-vulnerability-in-office-cve-2017-8630/
+[ Popular Software ]  Web 服务器管理控制面板软件 ZPanel 密码重置漏洞： https://blogs.securiteam.com/index.php/archives/3386
+[ Popular Software ]  HACK THE HACKER – 利用 WINAFL 和 HEATMAPS Fuzz Mimikatz： https://www.sec-consult.com/en/blog/2017/09/hack-the-hacker-fuzzing-mimikatz-on-windows-with-winafl-heatmaps-0day/index.html
+[ Popular Software ]    Avast 对 CCleaner APT 事件（Avast 将其定性为 APT 事件）的进一步分析。事件初期，Avast 向渠道分发过存在后门的 CCleaner 5.33 版本： https://blog.avast.com/additional-information-regarding-the-recent-ccleaner-apt-security-incident 360 威胁情报中心今天也发了一篇《深入分析CCleaner后门代码 - 编译环境污染类的供应链攻击案例》：  http://mp.weixin.qq.com/s/5IewlRR-1VZ5sx1YactNkg
+[ Popular Software ]  Netgear ReadyNAS Surveillance 中存在远程代码执行漏洞： https://blogs.securiteam.com/index.php/archives/3409
+[ Popular Software ]   黑客将后门隐藏在虚假的 WordPress 安全插件中： https://www.bleepingcomputer.com/news/security/hacker-hides-backdoor-inside-fake-wordpress-security-plugin/
+[ Popular Software ]   Windows WAV 音频文件指针未初始化远程拒绝服务漏洞（ZDI-17-838）： http://www.zerodayinitiative.com/advisories/ZDI-17-838/
+[ Popular Software ]   保护软件供应链：深入分析 CCleaner 后门事件： https://www.crowdstrike.com/blog/protecting-software-supply-chain-deep-insights-ccleaner-backdoor/
+[ Popular Software ]    Apache Tomcat < 9.0.1 (Beta) / < 8.5.23 / < 8.0.47 / < 7.0.8 - JSP Upload Bypass / Remote Code Execution Exploit： https://github.com/cyberheartmi9/CVE-2017-12617
+[ Popular Software ]   QNAP HelpDesk SQL 注入漏洞详情披露(CVE-2017-13068)： https://blogs.securiteam.com/index.php/archives/3469
+[ Popular Software ]   PHP Melody version 2.7.3 多处漏洞详情披露： https://blogs.securiteam.com/index.php/archives/3464
+[ Popular Software ]    不需要宏代码，利用 DDE(Dynamic Data Exchange)协议实现 MS Word 的命令执行，弹出计算器： https://sensepost.com/blog/2017/macro-less-code-exec-in-msword/
+[ Popular Software ]  微信挂死为哪般？ 原来是微软音频驱动模块 MaxxAudioRenderAVX64 的 Double Free 搞的鬼： https://mp.weixin.qq.com/s/6J1VJVYYyFPAeC5-Mr0ZKQ
+[ Popular Software ]  最新Office 0day漏洞(CVE-2017-11826)在野攻击通告： http://blogs.360.cn/blog/office_0day_cve-2017-11826_ch/
+[ Popular Software ]   昨天推送了一条【不需要宏代码，利用 DDE(Dynamic Data Exchange)协议实现 MS Word 的命令执行，弹出计算器】的文章。 Nviso Labs 公开了一个用于用于检测 Office DDE 的 YARA 规则文件： https://blog.nviso.be/2017/10/11/detecting-dde-in-ms-office-documents/
+[ Popular Software ]  虚假的加密: MICROSOFT OUTLOOK S/MIME 加密方式存在明文泄漏 (CVE-2017-11776)： https://www.sec-consult.com/en/blog/2017/10/fake-crypto-microsoft-outlook-smime-cleartext-disclosure-cve-2017-11776/index.html
+[ Popular Software ]  Phishing Against Protected View： https://posts.specterops.io/phishing-against-protected-view-enigma0x3-on-wordpress-com-eed399fca512
+[ Popular Software ]  CVE-2017-12617-Tomcat远程代码执行漏洞复现测试： http://www.freebuf.com/vuls/150203.html
+[ Popular Software ]    Microsoft Office 在嵌入远程对象（如：图片）时，客户端打开文档时会尝试下载该对象。下载时发送的 SMB 请求可以泄露用户的隐私信息，包括：主机环境信息、Windows 版本、Office 版本等等：  https://blogs.securiteam.com/index.php/archives/3463
+[ Popular Software ]  Shadowsocks 被发现多个漏洞，可以实现本地命令执行： https://x41-dsec.de/lab/advisories/x41-2017-008-shadowsocks/ https://x41-dsec.de/lab/advisories/x41-2017-010-shadowsocks-libev/
+[ Popular Software ]   据 ZDI 统计，PDF 阅读器有很大一部分漏洞出在图片转 PDF 的功能中。ZDI 这篇 Blog 介绍如何高效地 Fuzz 和分析 Foxit Reader 的图片转 PDF 特性： https://www.zerodayinitiative.com/blog/2017/10/17/wrapping-the-converter-within-foxit-reader
+[ Popular Software ]    微软 Office DDEAUTO 攻击方式出现之后，大多数杀软引擎的检测方法是基于 YARA 规则。SensePost 的研究员昨天又写了一篇 Blog，谈 Word 样本的混淆可以绕过这种基于 YARA 的检测： https://staaldraad.github.io/pentest/phishing/dde/2017/10/23/msword-field-codes/
+[ Popular Software ]  结合一个野外样本构造一个cve-2016-7193弹计算器的利用： https://mp.weixin.qq.com/s/dzlvMaXMV_LPwqxYnYrdDw
+[ Popular Software ]  Wordpress安全架构分析： https://paper.seebug.org/422/
+[ Popular Software ]  Typecho 前台 getshell 漏洞分析： https://paper.seebug.org/424/
+[ Popular Software ]  McAfee 对微软 Office 内存破坏漏洞利用分析(CVE-2017-11826) ： https://securingtomorrow.mcafee.com/mcafee-labs/analyzing-microsoft-office-zero-day-exploit-cve-2017-11826-memory-corruption-vulnerability/ ;  卡巴斯基实验室也对 CVE-2017-11826 漏洞利用进行了分析：  https://securelist.com/analyzing-an-exploit-for-%D1%81ve-2017-11826/82869/
+[ Popular Software ]   SecureLayer7 对 KeystoneJS 的渗透测试报告： https://securelayer7.net/download/pdf/KeystoneJS-Pentest-Report-SecureLayer7.pdf
+[ Popular Software ]  Office DDEAUTO技术分析报告： http://www.freebuf.com/articles/terminal/152064.html
+[ Popular Software ]   WordPress WPDB SQL 注入漏洞详情： https://blog.ircmaxell.com/2017/10/disclosure-wordpress-wpdb-sql-injection-technical.html
+[ Popular Software ]  CVE-2017-11826 漏洞分析： https://paper.seebug.org/435/
+[ Popular Software ]     Microsoft Office 2010 SP2+ 版本支持的 URI Schemes 列表： https://msdn.microsoft.com/en-us/library/office/dn906146.aspx
+[ Popular Software ]  用于检测从 Office（Word/Excel/PowerPoint/Viso）进程从命令行启动新进程的 Sysmon 规则文件： https://github.com/Neo23x0/sigma/blob/master/rules/windows/sysmon/sysmon_office_shell.yml
+[ Popular Software ]   Splunk 本地提权漏洞详情披露(KL-001-2017-022)： https://cxsecurity.com/issue/WLB-2017110030
+[ Popular Software ]   Ametys CMS 未授权密码重置漏洞披露： https://blogs.securiteam.com/index.php/archives/3517
+[ Popular Software ]  “盲”逆向：iOS 应用 Blind 寻踪： https://paper.seebug.org/440/
+[ Popular Software ]    微软发了一份公告，指引用户如何防御 Office Dynamic Data Exchange (DDE) 攻击： https://technet.microsoft.com/library/security/4053440
+[ Popular Software ]   CrowdStrike 对 CCleaner 后门 Shellcode Stage 2 Payload 的深度分析：  https://www.crowdstrike.com/blog/in-depth-analysis-of-the-ccleaner-backdoor-stage-2-dropper-and-its-payload/
+[ Popular Software ]    VMware RPC 接口的漏洞挖掘和利用，来自 ZDI 研究员在 RuxCON 会议的演讲： https://ruxcon.org.au/assets/2017/slides/ForTheGreaterGood.pdf
+[ Popular Software ]  Wordpress <= 4.8.2 SQL Injection POC： http://blog.vulspy.com/2017/11/09/Wordpress-4-8-2-SQL-Injection-POC/
+[ Popular Software ]   微软今天修复的 Office EQNEDT32.EXE 内存破坏漏洞分析（CVE-2017-11882）： https://embedi.com/blog/skeleton-closet-ms-office-vulnerability-you-didnt-know-about
+[ Popular Software ]  Ametys CMS未经身份验证： https://blogs.securiteam.com/index.php/archives/3524
+[ Popular Software ]  2017年Office漏洞及漏洞攻击研究报告：http://www.freebuf.com/articles/paper/154040.html
+[ Popular Software ]   CouchDB 远程代码执行漏洞利用（CVE-2017-12635）： https://justi.cz/security/2017/11/14/couchdb-rce-npm.html
+[ Popular Software ]  CouchDB漏洞(CVE–2017–12635, CVE–2017–12636)分析： http://bobao.360.cn/learning/detail/4716.html
+[ Popular Software ]  POMP: 硬件辅助的程序崩溃分析： https://mp.weixin.qq.com/s/RKLbKMvIBZ4gsNrBX1R2Mg
+[ Popular Software ]    0patch 对上周公开的 Office Equation 漏洞（CVE-2017-11882）的分析及提供的手动 Patch 方法： https://0patch.blogspot.com/2017/11/did-microsoft-just-manually-patch-their.html
+[ Popular Software ]   CrowdShield 团队的研究员 1N3 分享了针对 FreeFloat、CoolPlayer、CesarFTP 等多款常用服务器软件的 Exploits:  https://twitter.com/i/web/status/930830262505684997  https://github.com/1N3/Exploits
+[ Popular Software ]   Windows Server 2016 版本的 ADPREP 程序存在一个 Bug： https://secureidentity.se/adprep-bug-in-windows-server-2016/
+[ Popular Software ]   Embedi 团队公开了 Office EQNEDT32.EXE 内存破坏漏洞（CVE-2017-11882）的 PoC：  https://github.com/embedi/CVE-2017-11882
+[ Popular Software ]  Running Openbts with the nuand bladerf on UBUNTU ： https://blog.strcpy.info/2016/11/16/running-openbts-with-the-nuand-bladerf-on-ubuntu-the-definitive-guide/
+[ Popular Software ]  深入分析Adobe Acrobat的类型混淆漏洞（CVE-2017-16379）： https://cybellum.com/cy-2017-011-type-confusion-in-adobe-acrobat/ http://www.4hou.com/vulnerable/8504.html
+[ Popular Software ]   剖析第三方聊天工具 Chats Chats Chats 的攻击界面： https://speakerdeck.com/shikarisenpai/chat-with-a-hacker
+[ Popular Software ]   0patch 对 9 月份野外发现的 Office Word 类型混淆 0Day（CVE-2017-11826）的分析及提供的手动 Patch 方法： https://0patch.blogspot.com/2017/11/0patching-pretty-nasty-microsoft-word.html
+[ Popular Software ]  深度 - Java 反序列化 Payload 之 JRE8u20： https://mp.weixin.qq.com/s?__biz=MzI5Nzc0OTkxOQ==&mid=2247483738&idx=1&sn=dd5ec08b7229b368d8f820d8376d2f8a&chksm=ecb11daadbc694bc2d56bad5584e43b1c844af96145086bd926f2f77d8f171e1a40fcfa0e536&mpshare=1&scene=1&srcid=11207v7VJcif9KICIS3kZ0dK#rd
+[ Popular Software ]  Office漏洞利用大全： https://mp.weixin.qq.com/s/Fb64DE0ThynWsjX5-qCTnA
+[ Popular Software ]   Fuzzing Microsoft Office Protected-View Sandbox Broker 的 IPC 接口，来自 MWR Labs 研究员在 BlueHat 2017 会议的演讲，演讲中还分析了两个漏洞实例（CVE-2017-8502、CVE-2017-8692）：  https://labs.mwrinfosecurity.com/publications/corrupting-memory-in-microsoft-office-protected-view-sandbox/  https://labs.mwrinfosecurity.com/advisories/microsoft-office-protected-view1/  https://labs.mwrinfosecurity.com/advisories/microsoft-office-protected-view2/
+[ Popular Software ]   108 字节的 Office EQNEDT32.EXE CVE-2017-11882 Exploit：  https://29wspy.ru/reversing/CVE-2017-11882.pdf
+[ Popular Software ]   Fortinet 对野外发现的攻击 Office CVE-2017-11826 漏洞的样本的分析，这个样本是以 RTF 作为攻击向量的： https://blog.fortinet.com/2017/11/22/cve-2017-11826-exploited-in-the-wild-with-politically-themed-rtf-document
+[ Popular Software ]  Samba UAF(CVE–2017–14746)和内存泄露漏洞(CVE–2017–15275)预警: https://cert.360.cn/warning/detail?id=f3bb2a2c62aadbcae932163325eb9e5d
+[ Popular Software ]  Gnuboard 漏洞分析: https://paper.seebug.org/463/
+[ Popular Software ]   Sysmon 6.20 新版的变化： https://www.darkoperator.com/blog/2017/11/24/operational-look-at-sysinternals-sysmon-620-update
+[ Popular Software ]  危机四伏的Office高危漏洞CVE-2017-11882： http://www.freebuf.com/news/154968.html
+[ Popular Software ]  CVE-2017-11882漏洞复现和利用： http://www.freebuf.com/vuls/154978.html
+[ Popular Software ]  MobSF框架及源代码分析： http://www.mottoin.com/96841.html
+[ Popular Software ]  Symantec Encryption Desktop 本地提权，在 NTFS 文件系统上实现任意磁盘读写： https://labs.nettitude.com/blog/symantec-encryption-desktop-local-privilege-escalation-exploiting-an-arbitrary-hard-disk-read-write-vulnerability-over-ntfs/
+[ Popular Software ]  Cisco WebEx 网络录制文件播放器存在多个漏洞： https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20171129-webex-players
+[ Popular Software ]   TeamViewer_Permissions_Hook_V1 - 通过向 TeamViewer 注入 DLL 并改写内存的方式实现对特殊功能限制的破解，譬如特殊菜单的启用： https://github.com/gellin/TeamViewer_Permissions_Hook_V1TeamViewer 紧急推出了补丁，已修复这个问题： https://threatpost.com/teamviewer-rushes-fix-for-permissions-bug/129096/
+[ Popular Software ]  2017 年的几个经典的 WordPress 插件漏洞分析： https://blog.ripstech.com/2017/wordpress-plugin-vulnerabilities-static-analysis/
+[ Popular Software ]   前段时间 Office DDE 一直被用于发起代码执行攻击，Lastline 研究员从最近的样本中发现，对于 Excel，除了 DDE，攻击者还可以利用外部链接（Linked File Objects）特性实现拉起本地 CMD 命令：  https://www.lastline.com/labsblog/when-scriptlets-attack-excels-alternative-to-dde-code-execution/
+[ Popular Software ]  ACDSee Ultimate 10 远程代码执行漏洞披露（CVE-2017-2886）： http://blog.talosintelligence.com/2017/12/vulnerability-spotlight-talos-2017-0393.html
+[ Popular Software ]  Node.js Security: Breaking The Loop ： https://www.slideshare.net/LiranTal1/nodejs-security-xss-vulnerable-dependencies-snyk-owasp
+[ Popular Software ]  Apache Synapse 远程代码执行漏洞（CVE-2017-15708）： http://www.openwall.com/lists/oss-security/2017/12/10/4?from=timeline
+[ Popular Software ]   TarLogic 团队对 Office CVE-2017-11826 漏洞的分析： https://www.tarlogic.com/en/blog/exploiting-word-cve-2017-11826/
+[ Popular Software ]   Microsoft Azure AD Connect 中存在权限缺陷： https://threatpost.com/permissions-flaw-found-azure-ad-connect/129170/
+[ Popular Software ]  在 Git 中滥用 Escape Sequences 漏洞，Hiding content from Git: https://www.twistlock.com/2017/12/13/hiding-content-git-escape-sequence-twistlock-labs-experiment/
+[ Popular Software ]   Android 版 Outlook 下载附件时存在目录穿越漏洞： https://bugs.chromium.org/p/project-zero/issues/detail?id=1356
+[ Popular Software ]   Android 版 Telegram  Messenger 存在目录穿越漏洞：  https://bugs.chromium.org/p/project-zero/issues/detail?id=1470
+[ Popular Software ]  CVE–2017–16943 Exim–UAF漏洞分析： https://cert.360.cn/report/detail?id=9efc77a68170170bc490e876d4087fb2
+[ Popular Software ]  Adobe Reader integer underflow 漏洞的利用 - READING BACKWARDS，这个漏洞是 CVE-2016-6947 补丁的再次突破，发现者为 Pwn2Own 2014 选手 Sebastian Apelt（ZDI-17-260）：  https://www.zerodayinitiative.com/blog/2017/12/18/reading-backwards-controlling-an-integer-underflow-in-adobe-reader
+[ Popular Software ]  通过修改 Office 文档 Frameset 以窃取 NTLM  Hash： https://pentestlab.blog/2017/12/18/microsoft-office-ntlm-hashes-via-frameset/
+[ Popular Software ]  S2-055 反序列化 CVE-2017-7525 Exploit： https://github.com/iBearcat/S2-055
+[ Popular Software ]  Shadowsocks 的封装 auto-ss 在处理网络请求响应时校验不完善，通过中间人方式修改域名可以实现远程命令执行： https://www.x41-dsec.de/lab/advisories/x41-2017-007-shadowsocks_auto-ss/
+[ Popular Software ]  ShadowSocks ConnecTion 在解析 Web 页面时缺乏检查，通过中间人方式修改页面内容可以导致命令执行： https://www.x41-dsec.de/lab/advisories/x41-2017-007-shadowsocks_connection/
+[ Popular Software ]  超过 30 万安装量的 WordPress 插件被爆存在后门： https://www.bleepingcomputer.com/news/security/backdoor-found-in-wordpress-plugin-with-more-than-300-000-installations/
+[ Popular Software ]  Cure53 发布的 Enigmail 渗透测试报告： https://enigmail.net/download/other/Enigmail%20Pentest%20Report%20by%20Cure53%20-%20Excerpt.pdf
+[ Popular Software ]   VyprVPN for MacOS 本地提权漏洞披露（CVE-2017-17809）： https://github.com/VerSprite/research/blob/master/advisories/VS-2017-007.md
+[ Popular Software ]  TeamViewer 13.0.5058中的权限漏洞测试： https://3gstudent.github.io/3gstudent.github.io/TeamViewer-13.0.5058%E4%B8%AD%E7%9A%84%E6%9D%83%E9%99%90%E6%BC%8F%E6%B4%9E%E6%B5%8B%E8%AF%95/
+[ Popular Software ]  WebLogic WLS-WebServices组件反序列化漏洞分析： https://zhuanlan.zhihu.com/p/32267755 https://www.anquanke.com/post/id/92003
+[ Popular Software ]  有关CVE-2017-17562的一些零碎点： https://kevien.github.io/2017/12/24/CVE-2017-17562%E7%9A%84%E4%B8%80%E4%BA%9B%E9%9B%B6%E7%A2%8E%E7%82%B9/
+[ Popular Software ]  GoAhead远程代码执行漏洞（CVE-2017-17562）分析及实战： http://www.freebuf.com/articles/web/157846.html
+[ Popular Software ]  Weblogic XMLDecoder RCE分析： https://paper.seebug.org/487/
+[ Popular Software ]   QNAP QTS Pre-auth 远程代码执行漏洞利用脚本： https://pastebin.com/XAKn6q5Y
+[ Popular Software ]  DedeCMS V5.7 SP2鸡肋任意图片删除漏洞分析： http://www.bugsafe.cn/archives/137.html
+[ Popular Software ]  RCE with BMC Server Automation： https://nickbloor.co.uk/2018/01/01/rce-with-bmc-server-automation/
+[ Popular Software ]   VMware 发布了 3 个关于 vSphere Data Protection（VDP）的重要补丁（CVE-2017-15548, CVE-2017-15549, CVE-2017-15550）： https://threatpost.com/vmware-issues-3-critical-patches-for-vsphere-data-protection/129277/
+[ Popular Software ]  在 Microsoft Word 的图像链接中进行 UNC路径注入： https://blog.netspi.com/microsoft-word-unc-path-injection-image-linking/
+[ Popular Software ]  Working With Sysmon Configurations Like a Pro Through Better Tooling，Sysmon 使用技巧： https://posts.specterops.io/working-with-sysmon-configurations-like-a-pro-through-better-tooling-be7ad7f99a47
+[ Popular Software ]  批量挖SRC漏洞的其中一种打开方式-基于cms的漏洞扫描设计与实现： https://paper.seebug.org/492/
+[ Popular Software ]  以太币的 CPP Ethereum 客户端被发现多个漏洞： http://blog.talosintelligence.com/2018/01/vulnerability-spotlight-multiple.html#more
+[ Popular Software ]  “噩梦公式”二代 | 2018年微软修复的首个Office 0day漏洞（CVE-2018-0802）分析： http://www.freebuf.com/vuls/159789.html
+[ Popular Software ]   Cisco Talos 公布的三维动画制作软件 Blender 未修复漏洞一览：  http://blog.talosintelligence.com/2018/01/unpatched-blender-vulns.html
+[ Popular Software ]   Microsoft 公式编辑器漏洞调试与补丁修复(CVE-2018-0802)： https://0patch.blogspot.com/2018/01/the-bug-that-killed-equation-editor-how.html
+[ Popular Software ]   BT 下载客户端 Transmission 刚刚修复了一个 DNS Rebinding 远程代码执行漏洞：  https://github.com/transmission/transmission/pull/468  https://twitter.com/i/web/status/951526615145566208
+[ Popular Software ]   Office 内嵌公式编辑器 EQNEDT32.EXE 0day 漏洞（CVE-2018-0802）的野外样本出现了： https://twitter.com/i/web/status/952206579373432832https://github.com/rxwx/CVE-2018-0802/blob/master/packager_exec_CVE-2018-0802.py
+[ Popular Software ]   利用 Oculus VR 的 CSRF 漏洞实现劫持关联的 Facebook 账号： https://www.josipfranjkovic.com/blog/hacking-facebook-oculus-integration-csrf
+[ Popular Software ]   微软 OFFICE DDE 攻击： https://pentestlab.blog/2018/01/16/microsoft-office-dde-attacks/
+[ Popular Software ]   MailChimp 在处理邮件外部链接时不严格，导致用户邮件链接通过 Referer 泄漏： https://shkspr.mobi/blog/2018/01/mailchimp-leaks-your-email-address/
+[ Popular Software ]  Oracle WebLogic 远程诊断助手rda_tfa_hrs 命令注入远程执行代码漏洞披露（CVE-2018-2616）： http://www.zerodayinitiative.com/advisories/ZDI-18-116/
+[ Popular Software ]   Oracle VM VirtualBox VBVA 图形组件被发现了一个越界读写漏洞（CVE-2018-2698），可以被用于实现虚拟机逃逸和 SYSTEM 提权： https://twitter.com/_niklasb/status/953604276726718465/photo/1
+[ Popular Software ]  NDAY漏洞CVE-2017-11882与0Day漏洞CVE-2018-0802漏洞组合传播远控木马的样本分析： http://www.freebuf.com/vuls/160252.html
+[ Popular Software ]  Realtek Audio Driver 音频驱动中存在本地提权漏洞（CVE-2017-3767）： https://support.lenovo.com/us/zh/product_security/len-15759
+[ Popular Software ]  PHP CVE-2018-5711 - Hanging Websites by a Harmful GIF，一个 GIF 图片宕掉你的服务器： http://blog.orange.tw/2018/01/php-cve-2018-5711-hanging-websites-by.html
+[ Popular Software ]   Node.JS 第三方 Web Server 组件 augustine 存在目录穿越漏洞，可以通过特殊构造的 GET 请求请求任意文件： https://hackerone.com/reports/296282
+[ Popular Software ]  手机社交应用 Tinder 缺乏加密导致用户行为可被攻击者窥探： https://www.wired.com/story/tinder-lack-of-encryption-lets-strangers-spy-on-swipes/
+[ Popular Software ]   Oracle 金融服务分析应用 XXE 和反射型 XSS 漏洞详情披露（CVE-2018-2660, CVE-2018-2661）： http://seclists.org/fulldisclosure/2018/Jan/76
+[ Popular Software ]   VLC 媒体播放器 2.2 /6/7/8 堆溢出漏洞： https://cxsecurity.com/issue/WLB-2018010232
+[ Popular Software ]    7-Zip 18.00 之前版本被发现多个 ZIP/RAR 格式处理相关的内存破坏漏洞： https://landave.io/2018/01/7-zip-multiple-memory-corruptions-via-rar-and-zip/
+[ Popular Software ]   GCC 7.3 发布，这个版本新增了用于缓解“幽灵” Spectre CPU 漏洞的编译选项（CVE 2017-5715）： https://gcc.gnu.org/ml/gcc/2018-01/msg00197.html
+[ Popular Software ]   利用 npm 包污染的方法，从你的网站偷信用卡账号和密码： https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5
+[ Popular Software ]  Electron 自定义协议命令注入（CVE-2018-1000006）分析和 Url Scheme 安全考古： https://paper.seebug.org/515/
+[ Popular Software ]  DDE攻击利用：使用 OneNote 和 Excel 进行代码执行： https://posts.specterops.io/reviving-dde-using-onenote-and-excel-for-code-execution-d7226864caee
+[ Popular Software ]  VyprVPN for macOS 的漏洞分析与利用： https://versprite.com/og/exploiting-vypervpn-macos/
+[ Popular Software ]  office“噩梦公式”漏洞攻击演进分析: https://www.anquanke.com/post/id/96409
+[ Popular Software ]  也谈Weblogic漏洞CVE-2017-10271的利用方法: http://webcache.googleusercontent.com/search?q=cache:sH7j8TF8uOIJ:www.freebuf.com/vuls/160367.html
+[ Popular Software ]  CVE-2017-8570首次公开的野外样本及漏洞分析： https://mp.weixin.qq.com/s/dMqovzZ70SJgdnfAZtcZMg
+[ Popular Software ]  ManageEngine 中被发现多个安全漏洞：  https://threatpost.com/multiple-critical-flaws-found-in-zohos-manageengine/129709/
+[ Popular Software ]    Kaseya 的虚拟系统管理员（VSA）Agent 被攻击者用于渗透用户，部署门罗币挖矿工具： https://www.esentire.com/news-and-events/security-advisories/kaseya-virtual-system-administrator/  https://medium.com/huntresslabs/deep-dive-kaseya-vsa-mining-payload-c0ac839a0e88
+[ Popular Software ]    Adobe Flash CVE-2018-4878 0Day 被用于攻击韩国，目前 Flash 已经放出补丁： https://isc.sans.edu/forums/diary/Adobe+Flash+0Day+Used+Against+South+Korean+Targets/23301/ https://threatpost.com/adobe-flash-player-zero-day-spotted-in-the-wild/129742/
+[ Popular Software ]   WordPress DOS 漏洞分析利用与修复（CVE-2018-6389）： https://baraktawily.blogspot.com/2018/02/how-to-dos-29-of-world-wide-websites.html
+[ Popular Software ]  Joomla! 3.8.3 SQL 注入漏洞分析： https://blog.ripstech.com/2018/joomla-privilege-escalation-via-sql-injection/
+[ Popular Software ]  GitStack未经验证的远程代码执行漏洞（CVE-2018-5955）： https://blogs.securiteam.com/index.php/archives/3665
+[ Popular Software ]   InfoZip UnZip 受多个缓冲区溢出漏洞影响，可导致任意代码执行和拒绝服务： https://www.sec-consult.com/en/blog/advisories/multiple-vulnerabilities-in-infozip-unzip/index.html
+[ Popular Software ]   PureVPN for MacOS 权限提升漏洞披露（CVE-2018-6822）： https://github.com/VerSprite/research/blob/master/advisories/VS-2018-002.md
+[ Popular Software ]  Flash 0Day漏洞（CVE-2018-4878）原理及利用代码分析: http://www.freebuf.com/vuls/162369.html
+[ Popular Software ]  从补丁到漏洞分析 --记一次joomla漏洞应急: https://paper.seebug.org/529/
+[ Popular Software ]  针对 CVE-2018-4878 的技术分析： https://blog.morphisec.com/cve-2018-4878-an-analysis-of-the-flash-player-hack
+[ Popular Software ]   Shimo VPN Client for MacOS 本地提权漏洞披露（CVE-2018-6823）： https://github.com/VerSprite/research/blob/master/advisories/VS-2018-001.md
+[ Popular Software ]   Weblogic wls-wsat 组件反序列化漏洞（CVE-2017-10271）的利用脚本： https://github.com/kkirsche/CVE-2017-10271
+[ Popular Software ]  Adobe Coldfusion 11.0.03.292866 BlazeDS Java 对象反序列化远程代码执行漏洞POC： https://cxsecurity.com/issue/WLB-2018020117
+[ Popular Software ]  Joomla 二次注入漏洞分析 (CVE -2018-6376)： https://www.notsosecure.com/analyzing-cve-2018-6376/
+[ Popular Software ]  Adobe Flash Exploitation, Then and Now: From CVE-2015-5119 to CVE-2018-4878，Adobe Flash 多个漏洞利用方式回顾： https://www.mdsec.co.uk/2018/02/adobe-flash-exploitation-then-and-now-from-cve-2015-5119-to-cve-2018-4878/
+[ Popular Software ]  LibreOffice 远程任意文件泄漏漏洞披露(CVE-2018-6871)： https://github.com/jollheef/libreoffice-remote-arbitrary-file-disclosure
+[ Popular Software ]  Spotify 刚刚修复了一个 RCE 漏洞，PoC： https://twitter.com/steventseeley/status/962719615930466304
+[ Popular Software ]  CloudMe 文件存储服务远程缓冲区溢出漏洞： https://blogs.securiteam.com/index.php/archives/3669
+[ Popular Software ]  卡巴斯基发现网络犯罪分子正在利用 Telegram Windows 客户端的反转字符串漏洞发起攻击： https://securelist.com/zero-day-vulnerability-in-telegram/83800/
+[ Popular Software ]  dotCMS 中存在两处 SQL 注入（CVE-2016-10007, CVE-2016-10008）： http://seclists.org/fulldisclosure/2018/Feb/35?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29
+[ Popular Software ]  对 7-Zip 中两个有趣的微补丁的分析 (CVE-2017-17969 、CVE-2018-5996)： https://0patch.blogspot.com/2018/02/two-interesting-micropatches-for-7-zip.html
+[ Popular Software ]    utorrent 被发现多个 JSON-RPC 相关的 RCE、信息泄露漏洞：  https://bugs.chromium.org/p/project-zero/issues/detail?id=1524
+[ Popular Software ]  PrivateVPN for MacOS 本地提权漏洞与任意写文件漏洞披露（CVE-2018-7311）： https://github.com/VerSprite/research/blob/master/advisories/VS-2018-004.md
+[ Popular Software ]  CactusVPN for MacOS 本地提权漏洞披露(CVE-2018-7281): https://github.com/VerSprite/research/blob/master/advisories/VS-2018-003.md
+[ Popular Software ]   uTorrent 两个严重远程代码执行漏洞披露： https://threatpost.com/utorrent-users-warned-of-remote-code-execution-vulnerability/130030/
+[ Popular Software ]    npm 5.7.0 之前版本在执行 sudo npm --help 等命令时会随机修改 /etc /usr /boot 等目录的属主权限： https://github.com/npm/npm/issues/19883
+[ Popular Software ]   远程桌面软件 NoMachine 6.0.66_2 变量未初始化提权漏洞的利用（CVE-2018-6947）： https://www.fidusinfosec.com/nomachine-road-code-execution-without-fuzzing-cve-2018-6947/
+[ Popular Software ]  Drupal 修复两个严重漏洞，一个评论越权访问，另一个 XSS： https://threatpost.com/drupal-patches-critical-bug-that-leaves-platform-open-to-xss-attack/130070/
+[ Popular Software ]   Hacking 成人应用 SinVR，获得免费的内容：  https://www.digitalinterruption.com/single-post/2018/02/22/Hacking-SinVR-for-fun-and-profit-and-free-adult-content
+[ Popular Software ]   利用 ithare::kscope 工具挖掘 GCC 编译器（CLANG/GCC/MSVC）的 Bugs： http://ithare.com/c17-compiler-bug-hunt-very-first-results-12-bugs-reported-3-already-fixed/
+[ Popular Software ]   Adobe Acrobat Reader DC Document ID 远程代码执行漏洞披露 （CVE-2018-4901）： https://www.talosintelligence.com/vulnerability_reports/TALOS-2017-0505
+[ Popular Software ]  Duo Security 发现多个基于 SAML 的单点登录(SSO)系统存在认证的漏洞，在不知道账户密码的情况下认证账户： https://duo.com/blog/duo-finds-saml-vulnerabilities-affecting-multiple-implementationshttps://www.kb.cert.org/vuls/id/475445
+[ Popular Software ]   Hotspot Shield VPN 客户端存在信息泄露漏洞，通过 XSS 和 DNS REBINDING 技术可以泄露用户的真实 IP（CVE-2018-6460）： http://www.paulosyibelo.com/2018/02/hotspot-shield-cve-2018-6460-sensitive.html
+[ Popular Software ]  Paypal出现漏洞，可获取账户余额和近期交易数据： http://www.freebuf.com/news/163400.html
+[ Popular Software ]  POPping WordPress，WordPress 插件反序列化漏洞分析： https://nickbloor.co.uk/2018/02/28/popping-wordpress/
+[ Popular Software ]  Tomcat CVE-2018-1305 分析： https://www.anquanke.com/post/id/99213
+[ Popular Software ]   SAMSUNG Display Solutions 应用的内容注入漏洞披露（CVE-2018-6019）： http://seclists.org/fulldisclosure/2018/Mar/4?utm_source=feedburner&;utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29
+[ Popular Software ]  绕过 Flash Player 中 ByteArray 的 length 属性检查实现代码执行（CVE-2018-4878） ： https://securingtomorrow.mcafee.com/mcafee-labs/hackers-bypassed-adobe-flash-protection-mechanism/
+[ Popular Software ]  FLASH 0day(CVE-2018-4878)从POC到利用： https://mp.weixin.qq.com/s/F2N04exaW8QO1IeHRZgmfg
+[ Popular Software ]   CactusVPN for MacOS 本地提权漏洞披露（CVE-2018-7493）： https://github.com/VerSprite/research/blob/master/advisories/VS-2018-007.md
+[ Popular Software ]   PrivateVPN for MacOS 本地提权漏洞披露（CVE-2018-7716）： https://github.com/VerSprite/research/blob/master/advisories/VS-2018-005.md
+[ Popular Software ]   从应用层审计私密通信应用 Wire 的安全性： https://medium.com/@wireapp/wire-application-level-security-audits-98324d1f211biOS Client： https://www.x41-dsec.de/reports/X41-Kudelski-Wire-Security-Review-iOS.pdfAndroid Client： https://www.x41-dsec.de/reports/X41-Kudelski-Wire-Security-Review-Android.pdfWeb, Calling： https://www.x41-dsec.de/reports/X41-Kudelski-Wire-Security-Review-Web-Calling.pdf
+[ Popular Software ]  ManageEngine Applications Manager 远程代码执行和 SQLi 漏洞披露，含技术细节： https://pentest.blog/advisory-manageengine-applications-manager-remote-code-execution-sqli-and/
+[ Popular Software ]  Jive-n XML 外部实体注入漏洞介绍 (CVE-2018-5758)： https://rhinosecuritylabs.com/research/xml-external-entity-injection-xxe-cve-2018-5758/
+[ Popular Software ]  对 CCleaner 事件的新调查，可能存在键盘记录： https://blog.avast.com/new-investigations-in-ccleaner-incident-point-to-a-possible-third-stage-that-had-keylogger-capacities
+[ Popular Software ]  在严苛环境下的 Adobe ColdFusion (CVE-2017-3066)漏洞利用: https://codewhitesec.blogspot.com/2018/03/exploiting-adobe-coldfusion.html
+[ Popular Software ]  SAP NetWeaver AS JAVA CRM Log 注入导致的远程代码执行漏洞 POC（CVE-2018-2380）： https://github.com/erpscanteam/CVE-2018-2380
+[ Popular Software ]  VPN Unlimited for MacOS 本地提权漏洞披露： https://github.com/VerSprite/research/blob/master/advisories/VS-2018-014.md
+[ Popular Software ]  Adobe ColdFusion 反序列化远程命令执行漏洞（CVE-2017-3066）环境与复现，来自 phithon别跟路人甲BB's weibo： https://m.weibo.cn/status/4217944643207972
+[ Popular Software ]   WordPress Site Editor 插件本地文件包含漏洞披露(CVE-2018-7422)： http://seclists.org/fulldisclosure/2018/Mar/40?utm_source=feedburner&;utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29
+[ Popular Software ]  打破 Ledger 硬件钱包的安全防御： https://saleemrashid.com/2018/03/20/breaking-ledger-security-model/
+[ Popular Software ]  深入研究数据库攻击 Part 3：为什么一张图片就能让我的 Postgres 数据库开始挖掘门罗币：  https://www.imperva.com/blog/2018/03/deep-dive-database-attacks-scarlett-johanssons-picture-used-for-crypto-mining-on-postgre-database/
+[ Popular Software ]  研究人员发现在 unix 环境下可通过第三方插件攻击流行的文本编辑器，比如： Sublime, Vim, Emacs 等：  https://threatpost.com/researchers-show-how-popular-text-editors-can-be-attacked-via-third-party-plugins/130559/paper：  https://go.safebreach.com/rs/535-IXZ-934/images/Abusing_Text_Editors.pdf
+[ Popular Software ]  IBM Notes 客户端代码执行漏洞详情(CVE-2018-1435): https://improsec.com/blog/ibm-advisory-7
+[ Popular Software ]  悄悄被修复的 VSCode 因开启 inspect 模式导致的远程代码执行漏洞： https://medium.com/0xcc/visual-studio-code-silently-fixed-a-remote-code-execution-vulnerability-8189e85b486b
+[ Popular Software ]  MSSQL "order by" 语句的报错注入方法： https://github.com/incredibleindishell/exploit-code-by-me/blob/master/MSSQL%20Error-Based%20SQL%20Injection%20Order%20by%20clause/Error%20based%20SQL%20Injection%20in%20%E2%80%9COrder%20By%E2%80%9D%20clause%20(MSSQL).pdf
+[ Popular Software ]  Drupal 高危远程代码执行漏洞补丁发布（CVE-2018-7600） ： https://www.drupal.org/sa-core-2018-002
+[ Popular Software ]  Joomla内核SQL注入漏洞（CVE-2018-8045）分析： http://blog.nsfocus.net/cve-2018-804-analysis/
+[ Popular Software ]  Slack URI 解析命令注入远程执行代码漏洞披露 (CVE-2018-1000006) ： https://www.zerodayinitiative.com/advisories/ZDI-18-265/
+[ Popular Software ]  NordVPN for MacOS 本地提权漏洞披露(CVE-2018-9105)： https://versprite.com/advisories/nordvpn-for-macos/
+[ Popular Software ]  利用最新Apache解析漏洞（CVE-2017-15715）绕过上传黑名单： https://www.leavesongs.com/PENETRATION/apache-cve-2017-15715-vulnerability.html
+[ Popular Software ]  Flash Player 漏洞在一些 Exploit Kit 中的利用（CVE-2018-4878）： https://malware.dontneedcoffee.com/2018/03/CVE-2018-4878.html
+[ Popular Software ]   RTF 文档样式表 UAF 漏洞分析（CVE-2018-0797）： https://www.fortinet.com/blog/threat-research/a-root-cause-analysis-of-cve-2018-0797---rich-text-format-styles.html
+[ Popular Software ]  Exim Off-by-one(CVE-2018-6789)漏洞复现分析： https://paper.seebug.org/557/
+[ Popular Software ]  Adobe Flash 28.0.0.137 远程代码执行漏洞(CVE-2018-4878) POC： https://packetstormsecurity.com/files/147041
+[ Popular Software ]  深度挖掘数据库攻击方式 Part 4：使用 MySQL UDF 执行命令： https://www.imperva.com/blog/2018/04/deep-dive-database-attacks-part-iv-delivery-and-execution-of-malicious-executables-mysql/
+[ Popular Software ]  Hacking the Neato Botvac Connected, Part 2： https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2018/april/security-in-a-vacuum-hacking-the-neato-botvac-connected-part-2/
+[ Popular Software ]  安全研究人员发现 Spring Framework 存在 RCE 漏洞： https://securityaffairs.co/wordpress/71117/hacking/spring-framework-hack.html
+[ Popular Software ]  spring-messaging Remote Code Execution 分析-【CVE-2018-1270】： https://paper.seebug.org/562/
+[ Popular Software ]  Exim Off-by-One RCE漏洞（CVE-2018-6789）利用分析(附EXP)： http://www.freebuf.com/vuls/166519.html
+[ Popular Software ]  Signal for iOS 锁屏绕过漏洞披露（CVE-2018-9840）： http://nint.en.do/Signal-Bypass-Screen-locker.php
+[ Popular Software ]  发送嵌入 OLE 对象的 RTF 格式邮件窃取 Outlook 用户 NetNTLM HASH： https://insights.sei.cmu.edu/cert/2018/04/automatically-stealing-password-hashes-with-microsoft-outlook-and-ole.html
+[ Popular Software ]   Check Point 公布 Drupal 高危漏洞 Drupalgeddon 2 (CVE-2018-7600) 的分析与利用： https://research.checkpoint.com/uncovering-drupalgeddon-2/
+[ Popular Software ]  NordVPN for Windows 提权漏洞披露（CVE-2018-10170）： https://github.com/VerSprite/research/blob/master/advisories/VS-2018-018.md
+[ Popular Software ]  McAfee Labs 对历史上一些 Adobe Flash 漏洞的回顾总结： https://securingtomorrow.mcafee.com/mcafee-labs/despite-decline-use-adobe-flash-vulnerabilities-will-continue-cause-concern/
+[ Popular Software ]  Whatsapp 的链接预览功能会泄漏用户真实 IP 地址： https://medium.com/@kankrale.rahul/whatsapp-users-ip-disclosure-with-link-preview-feature-39a477f54fba
+[ Popular Software ]  Cisco WebEx 客户端远程代码执行漏洞披露（CVE-2018-0112） ： https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180418-wbs
+[ Popular Software ]  Cisco Adaptive Security Appliance VPN 客户端证书绕过漏洞披露(CVE-2018-0227)： https://tools.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-20180418-asa1
+[ Popular Software ]  Foxit PDF Reader JavaScript createTemplate 远程代码执行漏洞(CVE-2018-3853) ： https://www.talosintelligence.com/reports/TALOS-2018-0536
+[ Popular Software ]  Adobe Flash 在处理 blur filtering 时存在越界写漏洞(CVE-2018-4937): https://bugs.chromium.org/p/project-zero/issues/detail?id=1539
+[ Popular Software ]  Adobe Flash 渲染 slab 时存在内存破坏漏洞(CVE-2018-4935)： https://bugs.chromium.org/p/project-zero/issues/detail?id=1536
+[ Popular Software ]  NETDATA APPS.PLUGIN 组件安全漏洞介绍： https://www.synacktiv.com/posts/exploit/netdata-appsplugin-security-fixes.html
+[ Popular Software ]  Microsoft Skype URL 命令注入远程代码执行漏洞披露(CVE-2018-1000006)： https://www.zerodayinitiative.com/advisories/ZDI-18-308/
+[ Popular Software ]  Drupal 7 - CVE-2018-7600 PoC Writeup： https://ricterz.me/posts/Drupal%207%20-%20CVE-2018-7600%20PoC%20Writeup
+[ Popular Software ]  Foxit Reader BMP 图像解析 BITMAPINFOHEADER biSize 存在堆缓冲区溢出漏洞导致远程代码执行(CVE-2017-17557) ： https://srcincite.io/advisories/src-2018-0009/
+[ Popular Software ]  TrustPort Management 未授权远程代码执行漏洞披露： https://blogs.securiteam.com/index.php/archives/3685
+[ Popular Software ]  Drupal 发布高危漏洞补丁（CVE-2018-7602）: https://www.drupal.org/sa-core-2018-004
+[ Popular Software ]  WebLogic反序列化漏洞（CVE-2018-2628）漫谈： https://paper.seebug.org/584/
+[ Popular Software ]  Hyland Perceptive Document Filters 多个远程代码执行漏洞披露（CVE-2018-3855、CVE-2018-3844、CVE-2018-3845、CVE-2018-3851）： https://blog.talosintelligence.com/2018/04/hyland-vulnerabilities-code-execution.html
+[ Popular Software ]  Drupal内核远程代码执行漏洞CVE-2018-7602: http://blog.nsfocus.net/cve-2018-7602-drupal/
+[ Popular Software ]  PHPLiteAdmin >= 1.9.5 认证绕过漏洞披露： http://seclists.org/fulldisclosure/2018/Apr/58
+[ Popular Software ]  Milestone XProtect .NET 反序列化远程代码执行漏洞披露(CVE-2018-7891)： https://labs.mwrinfosecurity.com/advisories/milestone-xprotect-net-deserialization-vulnerability/
+[ Popular Software ]  ThinkPHP 框架SQL注入技术分析： http://www.freebuf.com/articles/web/169406.html
+[ Popular Software ]  NagiosXI 多个漏洞组合实现高权限下的远程代码执行（CVE-2018-8733、CVE-2018-8734、CVE-2018-8735、CVE-2018-8736）： http://blog.redactedsec.net/exploits/2018/04/26/nagios.html
+[ Popular Software ]  Oracle WebLogic Java 反序列化漏洞(CVE-2018-2628)的补丁可被绕过以继续利用漏洞： https://thehackernews.com/2018/04/oracle-weblogic-rce-exploit.html
+[ Popular Software ]  Securing Email （Paper）： https://arxiv.org/pdf/1804.07706.pdf
+[ Popular Software ]  WordPress 插件 Responsive Cookie Consent 1.7 / 1.6 / 1.5 - 持久化 XSS 漏洞(CVE-2018-10309): https://www.exploit-db.com/exploits/44563/
+[ Popular Software ]  Unit 42 针对 CVE-2018-7600 的漏洞分析： https://researchcenter.paloaltonetworks.com/2018/05/unit42-exploit-wild-drupalgeddon2-analysis-cve-2018-7600/
+[ Popular Software ]   7-Zip：从未初始化的内存到远程代码执行(CVE-2018-10115)： https://landave.io/2018/05/7-zip-from-uninitialized-memory-to-remote-code-execution/
+[ Popular Software ]  Wordpress xmlrpc.php 常见漏洞及利用方法: https://medium.com/@the.bilal.rizwan/wordpress-xmlrpc-php-common-vulnerabilites-how-to-exploit-them-d8d3c8600b32
+[ Popular Software ]  邮件传输代理 Exim 缓冲区溢出漏洞(CVE-2018-6789) 调试复现与利用： https://medium.com/@straightblast426/my-poc-walk-through-for-cve-2018-6789-2e402e4ff588
+[ Popular Software ]  Adobe Reader PDF - 客户端请求注入漏洞详情: https://insert-script.blogspot.co.at/2018/05/adobe-reader-pdf-client-side-request.html
+[ Popular Software ]   SaferVPN for Windows 权利提升漏洞披露（CVE-2018-10647）： https://github.com/VerSprite/research/blob/master/advisories/VS-2018-024.md
+[ Popular Software ]  Oracle Access Manager 的身份认证功能存在 Padding Oracle 漏洞: https://www.sec-consult.com/en/blog/2018/05/oracle-access-managers-identity-crisis/
+[ Popular Software ]  思科系统 WebEx 会议平台录音功能存在严重漏洞允许远程执行代码： https://threatpost.com/critical-cisco-webex-bug-allows-remote-code-execution/131657/
+[ Popular Software ]  SpeedFlash 与 ScrnSize：域名阴影下的虚假的 Flash 更新： https://www.riskiq.com/blog/labs/fake-flash-domain-shadowing/

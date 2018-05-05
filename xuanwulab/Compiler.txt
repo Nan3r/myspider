@@ -1,0 +1,8 @@
+[ Compiler ]  GCC low-level IR and basic code generation： http://kristerw.blogspot.com/2017/08/gcc-low-level-ir-and-basic-code.html
+[ Compiler ]  GCC 合并了我写的代码，从编译器开始解决安全问题。来自嘶吼，作者为吴潍浠： http://www.4hou.com/binary/7688.html
+[ Compiler ]  An Obfuscating Compiler，Paper： https://eprint.iacr.org/2017/050
+[ Compiler ]  LLVM 昨天修复了一个无符号整数溢出漏洞： http://llvm.org/viewvc/llvm-project?view=revision&revision=316191
+[ Compiler ]  之前推送过一篇 Paper《Compiler-Agnostic Function Detection in Binaries》，在二进制文件中检测函数的方法。现在作者要将这个技术移植到 Binary Ninja 二进制分析框架中了： https://www.vusec.net/2017/11/nucleus-picked-binary-ninja/
+[ Compiler ]   来自 Hex-Rays 的 Ilfak Guilfanov 对 IDA Pro 新加入的 CPU 微码反编译器架构的介绍： https://recon.cx/2018/brussels/resources/slides/RECON-BRX-2018-Decompiler-internals-microcode.pdf
+[ Compiler ]   “编译器炸弹”（Compiler Bomb）长什么样？16 字节的源码编译后变成 16GB： https://codeexplainer.wordpress.com/2018/01/20/how-dismantle-compiler-bomb/
+[ Compiler ]  C 编译器生成只包含可打印字符的可执行文件(Paper) ： http://www.cs.cmu.edu/~tom7/abc/paper.pdf

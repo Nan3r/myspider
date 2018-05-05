@@ -1,0 +1,109 @@
+[ MachineLearning ]  Tensorflow - Play with neural networks : https://github.com/tensorflow/playground , Whitepaper : http://download.tensorflow.org/paper/whitepaper2015.pdf
+﻿"Google 的第二代机器学习引擎 Tensorflow - 把玩神经网络 :  https://t.co/vSmstgd7k4   Tensorflow Paper : https://t.co/JJY5zZURrh"
+[ MachineLearning ]  Understanding Machine Learning : From Theory to Algorithms : http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf (pdf)
+﻿"剑桥大学出版社 2014 年出版的一本书：《深入理解机器学习︰从理论到算法》 ︰ https://t.co/sVlw7m4fG5 "
+[ MachineLearning ]  Leaf - Machine Learning for Hackers : http://autumnai.com/leaf/book/leaf.html
+﻿"Leaf - 面向黑客的一个机器学习框架 ︰ https://t.co/qEThHx5juR"
+[ MachineLearning ]  In-depth Machine Learning Course w/ Python https://pythonprogramming.net/machine-learning-tutorial-python-introduction/
+﻿" 基于 Python 的深度学习教程：  https://t.co/65jI97AoSg "
+[ MachineLearning ]  How the Android security team is using neural networks to increase security: http://www.wired.com/2016/06/googles-android-security-team-turns-machine-learning + adblock fix: https://t.co/4GkCrZtS0N
+﻿"Android 安全团队是如何利用神经网络提高安全性的，来自 Wired 的报道︰ https://t.co/Q3obQar96Z   https://t.co/4GkCrZtS0N"
+[ MachineLearning ]  An All-In-one Docker Image for Deep Learning https://github.com/saiprashanths/dl-docker
+﻿" 多合一深度学习 Docker 镜像： https://t.co/5jcJThbtpz "
+[ MachineLearning ]  A list of 16+ free #MachineLearning books: https://hackerlists.com/free-machine-learning-books/ #DataScience #BigData https://t.co/tZ93wYd0ZO
+﻿"16 本免费的机器学习电子书 ︰ https://t.co/lvnPcUZX7E  "
+[ MachineLearning ]  Good read on crafting adversarial input to defeat neural network-based malware classifiers. http://bit.ly/1OwQZLo
+﻿" 构造畸形输入，对抗基于神经网络的恶意软件分类器，Paper： https://t.co/8hktGYwXUn"
+[ MachineLearning ]  MIT Deep Learning Book in PDF format (very good resource) https://github.com/HFTrader/DeepLearningBook
+﻿" MIT 关于深度学习的书籍： https://t.co/XoULexSWms"
+[ MachineLearning ]  JIT native code generation for TensorFlow computation graphs using Python and LLVM http://blog.christianperone.com/2016/08/jit-native-code-generation-for-tensorflow-computation-graphs-using-python-and-llvm/ (by @ tarantulae)
+﻿"用 Python 和 LLVM 为 TensorFlow 计算流图生成 JIT Native 代码： https://t.co/oCyrZd43Ia "
+[ MachineLearning ]  Baidu releases deep learning framework - nice work @ AndrewYNg https://twitter.com/jeremyphoward/status/770760275213430784
+﻿"百度开源了自己的深度学习平台 PaddlePaddle： https://github.com/baidu/paddle "
+[ MachineLearning ]  Our slides from the .@ fsfe summit are here! http://slides.com/eldraco/stratosphere-fsfe "Stratosphere Project: Free Software Machine Learning to protect NGOs"
+﻿" 利用机器学习的方法保护非政府组织： https://t.co/Vyw3wxk9RR "
+[ MachineLearning ]  Defeating n-gram Scores for HTTP Attack Detection http://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=1489&context=etd_projects
+﻿" 攻击基于 n-gram 的 HTTP 机器学习攻击检测： https://t.co/ZgknG7geWO "
+[ MachineLearning ]  The Google Cloud Machine Learning API is finally in beta and heck yes https://cloud.google.com/ml/docs/
+﻿" Google Cloud 的机器学习 API 文档： https://t.co/dMq1jHZuMT"
+[ MachineLearning ]  Graph-powered Machine Learning at Google https://research.googleblog.com/2016/10/graph-powered-machine-learning-at-google.html
+﻿" Google 基于图的机器学习： https://t.co/FwwzYlcnFj "
+[ MachineLearning ]  Five myths about machine learning in cybersecurity: https://securelist.com/blog/opinions/76351/five-myths-about-machine-learning-in-cybersecurity/ via @ Securelist
+﻿"关于机器学习在网络安全中的五大误区︰ https://securelist.com/blog/opinions/76351/five-myths-about-machine-learning-in-cybersecurity/"
+[ MachineLearning ]  利用深度学习的思路，对恶意软件从系统调用（Syscall）序列的角度分类： https://www.sec.in.tum.de/assets/Uploads/deeplearning.pdf
+[ MachineLearning ]  Introduction to Machine Learning for Developers : http://blog.algorithmia.com/introduction-machine-learning-developers/
+﻿"机器学习介绍︰ https://t.co/WcA7a23xK9"
+[ MachineLearning ]  Metasploit for machine learning： https://github.com/cchio/deep-pwning
+[ MachineLearning ]  Minimal and clean #Python implementations of #MachineLearning algorithms. #DataScience https://github.com/rushter/MLAlgorithms https://t.co/9RGfZOnZKL
+﻿"关于机器学习算法实现的集合： https://t.co/UkYzIPze0O https://t.co/9RGfZOnZKL"
+[ MachineLearning ]  A Visual and Interactive Guide to the Basics of Neural Networks - https://jalammar.github.io/visual-interactive-guide-basics-neural-networks/
+﻿"一个基础的神经网络可视化交互指南： https://t.co/5RVJaADVta"
+[ MachineLearning ]  Awesome Machine Learning for Cyber Security https://github.com/jivoi/awesome-ml-for-cybersecurity
+﻿"网络安全之机器学习资源集： https://t.co/Ei7EGIfQps "
+[ MachineLearning ]  Machine Learning Crash Course (Part 1) : https://ml.berkeley.edu/blog/2016/11/06/tutorial-1/
+﻿"机器学习速成课 (Part 1): https://t.co/YA3v1r4A30"
+[ MachineLearning ]  Collection of Deep Learning Security Research Papers http://www.covert.io/deep-learning-security-papers/
+﻿"深度学习安全研究论文集： https://t.co/MS5aHULmBY "
+[ MachineLearning ]  An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks : https://github.com/humphd/have-fun-with-machine-learning
+﻿"机器学习新手指南︰ https://t.co/ZxBSbHrOdC"
+[ MachineLearning ]  机器学习对抗性攻击： http://geek.csdn.net/news/detail/132656 Video 1： https://v.qq.com/x/page/k0362x6r8f4.html Video 2： https://v.qq.com/x/page/j0362flvwh9.html
+[ MachineLearning ]  Google's best practices for machine learning engineering [pdf] http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf
+﻿"关于 Google 在机器学习方面的实践： https://t.co/0CynZVNotQ"
+[ MachineLearning ]  Slides from my "Advances in Cloud-Scale Machine Learning for Cyber-Defense" session at @RSAConference yesterday: https://t.co/56nCPVtALs
+﻿" 基于云的机器学习在网络防御方面的优势，来自 RSA大会︰ https://t.co/56nCPVtALs"
+[ MachineLearning ]  Decrypting after a Findzip ransomware infection https://blog.malwarebytes.com/cybercrime/2017/02/decrypting-after-a-findzip-ransomware-infection/
+﻿"解密受 Findzip 勒索软件感染的文件： https://t.co/EtpfxbCiy3"
+[ MachineLearning ]  Building Safe AI : A Tutorial on Encrypted Deep Learning : https://iamtrask.github.io/2017/03/17/safe-ai/ cc @ iamtrask
+﻿"构建安全 AI 教程之加密的深度学习︰ https://t.co/7bsB0SrA3w "
+[ MachineLearning ]  N. Papernot et al. "Practical Black-Box Attacks against Machine Learning" https://arxiv.org/abs/1602.02697
+﻿"针对深度神经网络攻击实践： https://t.co/SJoGbTiSvr"
+[ MachineLearning ]  利用机器学习检测恶意 URL： https://arxiv.org/pdf/1701.07179.pdf
+[ MachineLearning ]  Fun stuff: Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN - https://arxiv.org/abs/1702.05983
+﻿"Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN（paper）： https://t.co/xKjZEpX24w"
+[ MachineLearning ]  Machine Learning and Cyber Security Resources http://fsecurify.com/machine-learning-and-cyber-security/
+" 安全相关的机器学习资料收集： http://fsecurify.com/machine-learning-and-cyber-security/  另外作者还共享了一些用于机器学习的数据，比如 FTP 等协议日志/恶意样本数据/常用密码/威胁情报 等： http://www.secrepo.com/ "
+[ MachineLearning ]  Google 引入定制的机器学习技术检测 Gmail 中的钓鱼邮件： https://threatpost.com/new-machine-learning-behind-early-phishing-detection-in-gmail/125976/
+[ MachineLearning ]  机器学习与 Python 数学运算相关的总结手册，以各种图表形式展示： https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6
+[ MachineLearning ]   机器学习与深度学习工程师的必备手册： https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5  Github： https://github.com/kailashahirwar/cheatsheets-ai
+[ MachineLearning ]  机器学习及其在网络安全方面的应用，来自 NCC Group： https://www.nccgroup.trust/uk/our-research/rise-of-the-machines-machine-learning-and-its-cyber-security-applications/
+[ MachineLearning ]  利用 CNN 破解 ICP 验证码： http://weibo.com/2033280760/FaWqjlSL3?ref=home&rid=8_0_8_2606540069133092225
+[ MachineLearning ]   机器学习研究会用到的各种数据集资源： https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research
+[ MachineLearning ]  信息安全方向的人工智能技术介绍： http://defense.ballastsecurity.net/static/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf
+[ MachineLearning ]  Adversarial Example Defense: Ensembles of Weak Defenses are not Strong，关于神经网络防御的一篇 Paper，来自 USENIX 2017 会议： https://www.usenix.org/conference/woot17/workshop-program/presentation/he
+[ MachineLearning ]   加州大学柏克莱分校 Dawn Song 在微软举办的 Faculty Summit 2017 学术峰会上关于 AI 与安全的演讲，介绍 AI 和安全是如何相互影响的： https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/AI_and_Security_Dawn_Song.pdf
+[ MachineLearning ]  微软公开了他们的实时 AI 项目 - Project Brainwave（脑电波）： https://www.microsoft.com/en-us/research/blog/microsoft-unveils-project-brainwave/?utm_source=t.co&utm_medium=referral
+[ MachineLearning ]  大数据时代下的隐私保护： https://mp.weixin.qq.com/s/Gykx7qrRUL6qgE7hT6hhPA
+[ MachineLearning ]   Awesome Adversarial Machine Learning - 机器学习对抗相关的资料整理： https://github.com/yenchenlin/awesome-adversarial-machine-learning
+[ MachineLearning ]   利用深度神经网络从普通图片推理出 3D 立体面部纹理，Paper： https://arxiv.org/pdf/1612.00523v1.pdf
+[ MachineLearning ]  [论文学习] 脆弱的推荐系统: 通过伪造共同访问对推荐系统进行攻击： http://paper.kakapo.ml/?p=218
+[ MachineLearning ]  机器学习及深度学习速查手册： https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5
+[ MachineLearning ]  利用像素攻击愚弄深层神经网络(Paper)： https://arxiv.org/pdf/1710.08864.pdf
+[ MachineLearning ]   机器学习对抗领域的攻击与防御，来自 NCCGroup： https://www.nccgroup.trust/uk/our-research/adversarial-machine-learning-approaches-and-defences/?research=Whitepapers
+[ MachineLearning ]  对抗攻击原理分析： http://blog.ycombinator.com/how-adversarial-attacks-work/
+[ MachineLearning ]  自然语言处理（NLP）指南： https://tomassetti.me/guide-natural-language-processing/
+[ MachineLearning ]  机器学习，犯罪，以及自动化的未来： https://docs.google.com/presentation/d/16BWLRm4aNdxToJO-_63s1gLlw-hbSXlQE-jSzzsHkIw/edit#slide=id.p
+[ MachineLearning ]  基于SVM模型识别登录验证码: https://manning23.github.io/2015/04/30/%E5%9F%BA%E4%BA%8ESVM%E6%A8%A1%E5%9E%8B%E8%AF%86%E5%88%AB%E7%99%BB%E5%BD%95%E9%AA%8C%E8%AF%81%E7%A0%81/
+[ MachineLearning ]  wesome-ml-for-cybersecurity - 优秀的网络安全机器学习资源整合： https://github.com/Biprodeep/awesome-ml-for-cybersecurity
+[ MachineLearning ]  XLearning - 一款支持多种机器学习、深度学习框架调度系统: https://github.com/Qihoo360/XLearning/blob/master/README_CN.md
+[ MachineLearning ]    Machine Learning for Systems and Systems for Machine Learning： http://learningsys.org/nips17/assets/slides/dean-nips17.pdf
+[ MachineLearning ]  利用 Raspberry Pi 和 YOLO 打造基于深度学习的摄像头： https://www.makeartwithpython.com/blog/poor-mans-deep-learning-camera/
+[ MachineLearning ]  机器学习速查表：   https://ml-cheatsheet.readthedocs.io/en/latest/index.html
+[ MachineLearning ]   之前推送过一片 USENIX 的 Paper《Syntia - 利用蒙特卡洛树搜索技术实现混淆代码的自动化反混淆，自动化合成原始代码语意》，最近作者在德国 CCC 会议作了一次关于这个的演讲： https://events.ccc.de/congress/2017/Fahrplan/system/event_attachments/attachments/000/003/362/original/slides.pdf  https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-blazytko.pdf  https://github.com/RUB-SysSec/syntia
+[ MachineLearning ]   利用机器学习检测恶意 URL/DGA 域名的两篇 Paper： 《Predicting Domain Generation Algorithms with LSTMs》、《eXpose: A Char-Level CNNs For Detecting Malicious URLs, Paths and Reg Keys》： https://arxiv.org/pdf/1611.00791.pdf  https://arxiv.org/pdf/1702.08568.pdf
+[ MachineLearning ]  探秘深度神经网络中的黑盒攻击（paper）： https://arxiv.org/pdf/1712.09491.pdf
+[ MachineLearning ]  DGA 域名的死亡游戏，来自 Nominum： https://www.nominum.com/tech-blog/death-match-domain-generation-algorithms/
+[ MachineLearning ]  机器学习之安全数据集： https://xianzhi.aliyun.com/forum/topic/1879/
+[ MachineLearning ]  Google 用于支持手机和嵌入式平台的深度学习框架 TensorFlow Lite 版预览版发布： https://github.com/tensorflow/tensorflow/tree/r1.5/tensorflow/contrib/lite  FaceBook 也有一个类似的轻量级框架 Caffe2Go： https://code.facebook.com/posts/196146247499076/delivering-real-time-ai-in-the-palm-of-your-hand/
+[ MachineLearning ]  音频对抗之声音转文字中的定向攻击： https://arxiv.org/abs/1801.01944
+[ MachineLearning ]   CommanderSong - 语言识别中的对抗性扰动攻击： https://arxiv.org/pdf/1801.08535.pdf
+[ MachineLearning ]   AlphaGoZero 机器学习算法的开源实现： https://github.com/tensorflow/minigo
+[ MachineLearning ]   关于对抗神经网络样本训练的一个 Repo： Circumventing the defense in "Ensemble Adversarial Training: Attacks and Defenses"： https://github.com/andrewilyas/ens-adv-train-attack
+[ MachineLearning ]  人工智能是如何阻止 Emotet 爆发的： https://cloudblogs.microsoft.com/microsoftsecure/2018/02/14/how-artificial-intelligence-stopped-an-emotet-outbreak/
+[ MachineLearning ]  借助深度神经网络进行 Bot 检测（paper）： https://arxiv.org/pdf/1802.04289.pdf
+[ MachineLearning ]    修改一个像素，迫使深度神经网络得出错误的图片分类结果，这个 Repo 是 "One pixel attack for fooling deep neural networks" Paper 的代码实现：  https://github.com/Hyperparticle/one-pixel-attack-keras
+[ MachineLearning ]  为工程师写的简明机器学习入门介绍： https://arxiv.org/pdf/1709.02840.pdf
+[ MachineLearning ]   MIT 的《深度学习》电子书: https://github.com/janishar/mit-deep-learning-book-pdf
+[ MachineLearning ]  TensorFlow Probability 工具介绍： https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245
+[ MachineLearning ]  利用深度神经网络检测恶意 PowerShell 命令： https://arxiv.org/pdf/1804.04177.pdf
+[ MachineLearning ]  利用深度学习检测 IoT DDOS 攻击（paper）： https://arxiv.org/pdf/1804.04159.pdf
+[ MachineLearning ]  机器学习时代的 Hash 介绍： https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0

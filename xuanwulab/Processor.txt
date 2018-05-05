@@ -1,0 +1,12 @@
+[ Processor ]   如何黑掉一台关机状态的 PC - 在 Intel ME 中运行未签名的代码，来自 BlackHat Europe 2017 会议： https://www.blackhat.com/docs/eu-17/materials/eu-17-Goryachy-How-To-Hack-A-Turned-Off-Computer-Or-Running-Unsigned-Code-In-Intel-Management-Engine.pdf
+[ Processor ]   还原 Intel ME 11.x 的 Huffman tables，来自 PTSecurity： http://blog.ptsecurity.com/2017/12/huffman-tables-intel-me.html
+[ Processor ]    INTEL ME 引擎的 Flash 文件系统剖析，来自 Positive 研究员在 BlackHat Europe 2017 会议的演讲：  https://www.blackhat.com/docs/eu-17/materials/eu-17-Sklyarov-Intel-ME-Flash-File-System-Explained.pdf  https://www.blackhat.com/docs/eu-17/materials/eu-17-Sklyarov-Intel-ME-Flash-File-System-Explained-wp.pdf
+[ Processor ]  腾讯安全玄武实验室发布 “幽灵” CPU 漏洞在线检测工具，此工具可检测您的浏览器是否易于遭受“幽灵”漏洞的攻击： http://xlab.tencent.com/special/spectre/spectre_check.html
+[ Processor ]  利用硬件性能计数器检测 Spectre 和 Meltdown 漏洞，来自 Endgame: https://www.endgame.com/blog/technical-blog/detecting-spectre-and-meltdown-using-hardware-performance-counters
+[ Processor ]  针对 Intel SGX enclave 的 Spectre 漏洞 PoC： https://github.com/lsds/spectre-attack-sgx
+[ Processor ]  在 ARM 平台上利用 Meltdown 漏洞从用户态 Dump SYSTEM 寄存器： https://github.com/lgeek/spec_poc_arm
+[ Processor ]  Project Zero 公开了他们关于 Spectre “幽灵” CPU 漏洞的详情： https://bugs.chromium.org/p/project-zero/issues/detail?id=1272
+[ Processor ]  Intel 公开最新微码数据文件的下载： https://downloadcenter.intel.com/download/27431/Linux-Processor-Microcode-Data-File?product=122139
+[ Processor ]  英特尔 80x86 系列处理器架构在安全上的缺陷： https://t.co/L09uwV7ckd
+[ Processor ]  CPUMicrocodes - Intel, AMD & VIA CPU 微码更新补丁文件收集： https://github.com/platomav/CPUMicrocodes
+[ Processor ]  Effect of CPU caches，CPU 缓存研究：  https://medium.com/@minimarcel/effect-of-cpu-caches-57db81490a7f

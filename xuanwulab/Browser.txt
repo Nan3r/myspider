@@ -1,0 +1,1211 @@
+[ Browser ]  Firefox's blacklist of GPU drivers and related bugs, useful if you're fuzzing/researching WebGL: https://hg.mozilla.org/mozilla-central/file/tip/widget/windows/GfxInfo.cpp#l817
+﻿"Firefox GPU 驱动程序黑名单和相关的 Bug 列表，这些信息对 Fuzz WebGL 或许有用: https://t.co/FVFXBp0hMT"
+[ Browser ]  In IE11 (latest docmode), the event handling for passive elements depends on "markup quality" (i.e. quirks mode): http://pastebin.com/raw/BSGDKYUn
+﻿"IE11 中被动元素的消息处理取决于标记质量: https://t.co/UfxvlxGdtm"
+[ Browser ]  Nvidia GPUs can break Chrome's incognito mode https://charliehorse55.wordpress.com/2016/01/09/how-nvidia-breaks-chrome-incognito/
+﻿"Nvidia GPU 是如何破坏 Chrome 的隐身模式： https://t.co/LtsxNAW3ON"
+[ Browser ]  Google Chrome - Javascript Execution Via Default Search Engines http://goo.gl/fb/7Z6Z9e #FullDisclosure
+﻿"Google Chrome 通过默认搜索引擎触发 Javascript 执行： https://t.co/ICPloMb51u"
+[ Browser ]  Bugs From Hell: Injected Third-party Code + Detours = a Bad Time - http://dblohm7.ca/blog/2016/01/11/bugs-from-hell-injected-third-party-code-plus-detours-equals-a-bad-time/
+﻿"来自地狱的 Bug - 对 Firefox Bug 1213567 的调试分析： https://t.co/OegeppqXfQ Bug 1213567:  https://bugzilla.mozilla.org/show_bug.cgi?id=1218473 "
+[ Browser ]  [dos] - Internet Explorer 11.0.9600.18124 EdUtil::GetCommonAncestorElement - Denial of Service: Internet Explo... http://bit.ly/1ZukzWH
+﻿"Internet Explorer 11.0.9600.18124 EdUtil::GetCommonAncestorElement 拒绝服务 PoC： https://t.co/Bx7dhWuAra"
+[ Browser ]  ChakraCore GitHub repository is now open https://blogs.windows.com/msedgedev/2016/01/13/chakracore-now-open/
+﻿"Chakra JavaScript 引擎的核心组件 ChakraCore 开源了： https://t.co/CZGh3eT3cs Github Repo： https://github.com/Microsoft/ChakraCore "
+[ Browser ]  List of chrome protocol handlers extracted from Google Chrome source code https://gist.github.com/ethicalhack3r/ed3c628e684d9817d28c
+﻿"从 Google Chrome 浏览器的源码中导出的协议 Handlers 列表： https://t.co/6ERO60QpvO "
+[ Browser ]  New post: Trend Micro Continues Protection for Older Versions of Internet Explorer http://bit.ly/1Po7AL1 @ TrendMicro
+﻿"在微软停止对 IE8、IE9、IE10 的支持后，Trend Micro 将通过自家产品继续保护 IE 用户： https://t.co/EcgCyrx5R3 "
+[ Browser ]  Firefox Sandboxing Guide : https://firejail.wordpress.com/documentation-2/firefox-guide/
+﻿"Firefox 浏览器沙箱介绍: https://t.co/WnTefKcMSw"
+[ Browser ]  I wrote some more stuff on PartitionAlloc http://struct.github.io/partition_alloc.html - Next is adding delayed frees. Not enough time in the day...
+﻿"PartitionAlloc 浅析 - PartitionAlloc 是 Chrome 浏览器的默认堆分配器，来自 Chris Rohlf Blog： https://t.co/pcKdh9ARtn "
+[ Browser ]  Rogue Google Chrome Extension Spies On You http://blog.malwarebytes.org/online-security/2016/01/rogue-google-chrome-extension-spies-on-you/
+﻿"Google Chrome 流氓扩展正在监视你，来自 MalwareBytes Blog： https://t.co/wRD8hXu1kO"
+[ Browser ]  With the promotion of Chrome 48 to stable you can now turn on PDF Win32k lockdown and AppContainer on Win8+ :-) https://t.co/Abem5fYY5X
+﻿"Chrome 48 开始支持在 Windows 8+ 开启 PDF Win32k lockdown 和 AppContainer 了： https://t.co/Abem5fYY5X"
+[ Browser ]  Mozilla patched a handful of critical vulns with Firefox 44 - http://ow.ly/XB6Ru
+﻿"Mozilla Firefox 44 版本修复了多个严重漏洞，来自 ThreatPost 的报道： https://t.co/Qq7jLkkf1X"
+[ Browser ]  Oracle to Kill Java Browser Plugin http://threatpost.com/oracle-to-kill-java-browser-plugin/116065/
+﻿"Oracle 将废弃 Java 浏览器插件： https://t.co/aDF0FTeU6m"
+[ Browser ]  Native Client : A Sandbox for Portable, Untrusted x86 Native Code : https://www.utdallas.edu/~zxl111930/spring2012/lec18.pdf (pdf) #b2b
+﻿"2012 年 4 月， Google 的 Tavis Ormandy 等人对 Native Client（NaCl） 沙箱的架构和实现的介绍，《为不可信的 x86 Native Code 设计的可移植的沙箱》， Slides: https://t.co/5aqiKF14uW "
+[ Browser ]  MS Edge priorities in 2016: https://blogs.windows.com/msedgedev/2016/02/03/2016-platform-priorities/ Extensions (of course), HUGE #a11y improvements, and a whole host of new standards
+﻿"2016 年微软 Edge 浏览器的开发计划: https://t.co/xATlx2QYYe  回顾 2015 的变化： https://blogs.windows.com/msedgedev/2016/01/21/microsoft-edge-2015-in-review/ "
+[ Browser ]  Comodo's #Chromodo browser disables the same-origin policy - http://ow.ly/XUg3G
+﻿"Comodo 的 Chromodo 浏览器禁用了同源策略： https://t.co/dPcBThYe0X"
+[ Browser ]  Project Zero guest blog post: "Racing MIDI messages in Chrome" by Oliver Chang (Chrome Security team) - https://goo.gl/6XkAME
+﻿"Chrome 浏览器 MIDI 消息条件竞争触发的 UAF 漏洞， 普通漏洞的利用大多是先获得 Render 进程的任意代码执行，然后通过 IPC 消息再次触发 Browser 进程的另一个漏洞，最终获得 Browser 进程的任意代码执行。而这个漏洞的特殊性在于它可以直接通过 JavaScript API 触发并利用， 直接逃逸沙箱。 来自 Project Zero Blog： https://t.co/2uEC8NNMo1"
+[ Browser ]  [WRITE-UP] A tale of two offline @ google Chrome UXSS vulns! http://ceukelai.re/a-tale-of-two-offline-chrome-uxss-vulns/ https://t.co/USZmlbVy2M
+﻿"两个离线 Chrome UXSS 漏洞的故事（CVE-2015-6784/CVE-2015-6790）  https://t.co/TlBhJ1hFfS https://t.co/USZmlbVy2M"
+[ Browser ]  IE7-11 new XSS vector no interaction <div onactivate=alert('Xss') id=xss style=overflow:scroll> demo: http://codepen.io/anon/pen/adRQqM#xss #xss in URL
+﻿"IE7-11 新的 XSS 向量: https://t.co/5e2n4VdEkt "
+[ Browser ]  Cross-Origin CSS Attacks Revisited (feat. UTF-16) http://blog.innerht.ml/cross-origin-css-attacks-revisited-feat-utf-16/
+﻿"跨域 CSS 攻击（Chrome CVE-2015-1287/CVE-2015-5826）， 来自 innerht.ml Blog：  https://t.co/fZ5bKUcf8Z"
+[ Browser ]  ZDI-16-165: Microsoft Edge Text Node Type Confusion Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-165/
+﻿"ZDI-16-165: Edge 浏览器 Text Node 类型混淆 RCE 漏洞， 来自 ZDI 的公告： https://t.co/ck1WbLcp9H"
+[ Browser ]  Browser fingerprinting - take that Incognito Mode. https://github.com/Valve/fingerprintjs2 https://t.co/b5BDLSORou
+﻿"fingerprintjs2 - 浏览器指纹库： https://t.co/3CRj3VhBmI https://t.co/b5BDLSORou"
+[ Browser ]  Firefox 44.0.2 security fixes: https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/#firefox44.0.2
+﻿"Firefox 44.0.2 修复了一个同源策略相关的严重漏洞， Mozilla 公告: https://t.co/3UrtfF6wQl"
+[ Browser ]  Stealing Secrets with CSS : Cross Origin CSS Attacks : http://blog.k3170makan.com/2016/02/stealing-secrets-with-css-cross-origin.html
+﻿"通过 CSS 盗取数据 - 跨域 CSS 攻击（CVE-2015-5826/ CVE-2015-1287）: https://t.co/dCiPsYBmbr  前天推送过一篇文章也是分析这个问题： http://blog.innerht.ml/cross-origin-css-attacks-revisited-feat-utf-16/ "
+[ Browser ]  PoC of CVE-2016-0069 / MS16-009 Cross origin URL information leakage of Internet Explorer http://d.hatena.ne.jp/hasegawayosuke/20160220/p1
+﻿"IE CVE-2016-0069/MS16-009 跨域 URL 信息泄漏 PoC： https://t.co/WjTVPepDOB"
+[ Browser ]  FortiGuard discloses another couple Microsoft vulnerabilities. Get all the bits and bytes here http://ftnt.net/1otap7I
+"IE 信息泄露（CVE-2016-0059/MS16-006）漏洞分析，要想利用这个漏洞，需要用户点击邮件或者 Office 文档中的链接。 来自 FortiGuard 的 Blog: http://blog.fortinet.com/post/analysis-of-cve-2016-0059-microsoft-ie-information-disclosure-vulnerability-discovered-by-fortinet "
+[ Browser ]  Go everyone test ur browser if it has the obvious dangerous (but easy to fix) #0day vulnerability. #Edge #Chrome https://dl.dropboxusercontent.com/u/14747595/auto_download_test/test.html
+﻿"浏览器 'Auto-Download' 漏洞测试页面： https://t.co/oMEnkwK4S7"
+[ Browser ]  @ MarkYason on WinRT PDF: https://securityintelligence.com/winrt-pdf-a-potential-route-for-attacking-edge/
+﻿"WinRT PDF 是 Edge 浏览器的一个新的攻击界面, WinRT PDF 是 Edge 浏览器用于处理 PDF 文件的类库,最早出现在 Windows 8: https://t.co/GNUuNSQNS5  这篇 Blog 的作者 Mark Yason 在这几天的 RSA 2016 会议上也有一个相关的演讲< EdgeHTML 引擎的攻击界面和漏洞利用缓解技术>: http://www.rsaconference.com/writable/presentations/file_upload/hta-w04-understanding-the-attack-surface-and-attack-resilience-of-edgehtml.pdf Edge "
+[ Browser ]  Vulnerabilities in Mobile Safari http://goo.gl/fb/4PSAlz #FullDisclosure
+﻿"Safari 浏览器移动版多个 DoS PoC， 来自 FullDisclosure 公告： https://t.co/LAV6kf9IrY "
+[ Browser ]  ES7 Async functions have just been enabled by default in Chakra \o/ https://github.com/Microsoft/ChakraCore/commit/c6f496186226ff0d4194bd3278e3aca5b2321ff9
+﻿"Chakra 引擎将默认启用对 ES7 异步函数的支持， Github 提交日志：  https://t.co/DTWgWesg47"
+[ Browser ]  This Chrome high severity bug I've reported 21 days ago is fixed ublink::PaintArtifact::appendToWebDisplayItemList https://gist.github.com/revskills/a40e500bb3d987acb5af
+﻿"21 天前 revskills 报告给 Chrome 的 UAF 漏洞被修复了， 漏洞 Crash 调用栈信息：  https://t.co/1dXGIVJN5E"
+[ Browser ]  Latest @ Firefox update fixes 40 vulnerabilities, 22 critical - http://ow.ly/ZgHFp
+﻿"Firefox 发布 45 版本,本次修复 40 个漏洞， 其中 22 个为 Critical, 来自 ThreatPost 的报道: https://t.co/FmTFF9nDww"
+[ Browser ]  This P0 bug in IE is marked as Read AV, underlying cause is indirect call to null function ptr caught by CFG https://code.google.com/p/google-security-research/issues/detail?id=669
+﻿"Project Zero Issue 669 IE 读操作访问违例（CAnimatablePropertyListElement::GetCurrentValues）， Crash 的位置是在 CFG 的检查中（LdrpValidateUserCallTargetBitMapCheck）：  https://t.co/MmC7xdpLW9 "
+[ Browser ]  Is there a better mobile browser usage list than here: http://caniuse.com/usage-table ?
+﻿"CanIUse 网站统计的浏览器市场用户占用率︰ https://t.co/AZD8xny1dP？"
+[ Browser ]  ZDI-16-197: Google Chrome Pdfium JPEG2000 Out-Of-Bounds Write Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-197/
+﻿"Google Chrome Pdfium JPEG2000 越界写漏洞，可以实现任意代码执行， 来自 ZDI-16-197 公告： https://t.co/ITWzCcwEtf"
+[ Browser ]  Chrome gpu process sandbox escape due to use of invalid iterator in IPC handler https://code.google.com/p/google-security-research/issues/detail?id=665
+﻿"Chrome GPU 进程在处理 IPC Handler 的迭代器时，存在越界访问漏洞（CVE-2016-1642）， 来自 Project Zero Issue 665： https://t.co/I3oWtGVcJm "
+[ Browser ]  #DailyBug Microsoft Edge CDOMTextNode::get_data type confusion http://blog.skylined.nl/20160310001.html
+﻿"微软 Edge 浏览器 CDOMTextNode::get_data 类型混淆漏洞， 利用该漏洞可以实现信息泄露。存在漏洞的版本为： Edge 20.10240.16384.0， 来自 SkyLined Blog：  https://t.co/BxVa0cUIlC"
+[ Browser ]  ZDI-16-199: Mozilla Firefox nsHTMLDocument SetBody Use-After-Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-199/
+﻿"ZDI-16-199 ︰ Firefox nsHTMLDocument SetBody UAF RCE， ZDI 公告： https://t.co/r70A910aNt"
+[ Browser ]  XSLT strikes again: UAF in Firefox (CVE-2016-1964) https://www.mozilla.org/en-US/security/advisories/mfsa2016-27/
+﻿"XSLT 又来了 - 本月 Firefox 45 版本修复的漏洞中又出现了一个 XSLT 相关的 UAF 漏洞 (CVE-2016-1964)：  https://t.co/hByeHqAYns"
+[ Browser ]  An incredibly long & boring analysis of an Edge use-after-free bug that's neither a security issue nor exploitable: http://blog.skylined.nl/20160316001.html
+﻿"SkyLined 的新 Blog: Edge 浏览器 CTreePosGap::PartitionPointers UAF 漏洞 ︰ https://t.co/Vt7uaJSHyG  由于 MemGC 保护的存在, 内存不会立即释放,也因为这个,微软没有认, 所以 SkyLined 认为他可以分享出来了, 这个问题目前还是未修复状态 "
+[ Browser ]  Bypassing SOP and shouting hello before you cross the pond http://labs.detectify.com/2016/03/17/bypassing-sop-and-shouting-hello-before-you-cross-the-pond/ #sopbypass #cve20153755 #poc
+﻿"Bypassing SOP & 过河之前先别喊: https://t.co/HpgJWvFGYs 这篇 Blog 提到,作者发现了一个 Firefox SOP Bypass 漏洞(CVE-2015-3755), 但后来发现自己的 Mac OS X 并不是最新版本, 升级后发现这个漏洞被修复了. 作者还提到, 这个漏洞去年被玄武实验室 xisigr 发现并报告给了 Safari (在 Safari 上只能欺骗 URL)"
+[ Browser ]  Bypassing NoScript Security Suite Using Cross-Site Scripting and MITM Attacks https://mazinahmed.net/uploads/Bypassing%20NoScript%20Security%20Suite%20Using%20Cross-Site%20Scripting%20and%20MITM%20Attacks.pdf
+﻿"通过跨站脚本和中间人攻击绕过 Firefox NoScript 扩展的保护,  PDF：  https://t.co/ZXaayL5zMq"
+[ Browser ]  Seek and Destroy Non-Secure References Using the moarTLS Analyzer https://textplain.wordpress.com/2016/03/17/seek-and-destroy-non-secure-references-using-the-moartls-analyzer/ https://t.co/zOfl34NKIH
+﻿"moarTLS - 作者写了一个 Chrome 浏览器扩展,用于发现 HTTPS 页面引用的非 HTTPS 资源: https://t.co/qHeY9QucEn https://t.co/zOfl34NKIH"
+[ Browser ]  Beauty & the Beast: Diverting modern web browsers to build unique browser fingerprints, Laperdrix et al., @ ieeessp https://hal.inria.fr/hal-01285470
+﻿"美女与野兽  - 为现代浏览器生成独特的浏览器指纹， Paper： https://t.co/VyEHSLBIzX"
+[ Browser ]  A short blog post explaining XSS filter/auditor in response to the previous poll: http://blog.innerht.ml/the-misunderstood-x-xss-protection/
+﻿"浏览器 XSS filter/auditor 保护的误解 - 哪种 XSS filter/auditor 设置最糟糕， Blog︰ https://t.co/SiZe4qA6Wv"
+[ Browser ]  Turns out Google Chrome has just fixed the bugs at #Pwn2Own, where are the others? @ MicrosoftEdge @ AdobeSecurity http://googlechromereleases.blogspot.com/2016/03/stable-channel-update_24.html
+﻿"Google Chrome 浏览器已经修复了在 Pwn2Own 比赛中使用的漏洞（49.0.2623.108）：  https://t.co/7jX9YUy7oH"
+[ Browser ]  Very interesting on Chrome performance and iOS Safari being better, from the hammerjs maintainer https://blog.runspired.com/2016/03/25/the-chrome-distortion-chrome-alters-our-expectations-in-highly-negative-ways/ via @ nolanlawson
+﻿"这篇 Blog 分析了多款浏览器的性能，其中 Chrome 的性能已经明显低于 Safari 和 Edge：  https://t.co/k5QlgVvhzE "
+[ Browser ]  Hooking Firefox PR_Write with Frida https://wiremask.eu/articles/hooking-firefox-with-frida/
+﻿"用 Frida 动态插桩框架 Hook Firefox 浏览器，通过 Hook PR_Write 函数可以监控 Firefox 的写文件和网络传输操作（仅用 15 行代码）：  https://t.co/Pxl9OHh1G2 "
+[ Browser ]  My sensors privacy report. Cross-device, fingerprinting, info leaks, tracking http://lukaszolejnik.com/SensorsPrivacyReport.pdf for Sensors API under work at @ w3c
+﻿"浏览器中有很多传感器相关的设备 API，这篇 Paper 分析这些 API 有可能带来的隐私泄露问题 ： https://t.co/OjYECAjroI"
+[ Browser ]  Let's build a browser engine! (Part 1 - 7) : https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
+﻿"自己写一个袖珍型浏览器引擎 Part 1: https://t.co/kPZ2iWvSbN   剩下的 Part 2 - 7： https://limpet.net/mbrubeck/ "
+[ Browser ]  You’ll be able to log into websites with your face in MS Edge and Windows 10. #Build2016
+﻿"Build 2016 大会上， 微软表示 Windows 10 Edge 浏览器将支持刷脸登陆， 这一技术被成为： Windows Hello 生物识别技术"
+[ Browser ]  Safari Technology Preview — a new way to try features and fixes that are coming to Safari. https://webkit.org/blog/6017/introducing-safari-technology-preview/ https://t.co/m8JYUBQ9iK
+﻿"为了更方便地让大家了解 Safari 浏览器的新特性， Apple 从今天开始推出 Safari 技术预览版： https://t.co/oHI4cNWLw2 https://t.co/m8JYUBQ9iK"
+[ Browser ]  CrossFire: An Analysis of Firefox Extension-Reuse Vulnerabilities http://www.onarlioglu.com/publications/ndss2016crossfire.pdf
+﻿"CrossFire︰ Firefox 浏览器扩展重用漏洞分析， Paper： https://t.co/ixl45sGtvc  CrossFire 是这篇 Paper 中提出的一个用于检测扩展重用漏洞的静态分析工具"
+[ Browser ]  Finally got around to finish the blog post about Chromium's process model - https://netsekure.org/2016/03/30/chromium-internals-process-model/.
+﻿"Chromium 的进程模型： https://t.co/DxwYHy6YCH  Chromium 官方的文档： https://www.chromium.org/developers/design-documents/process-models  "
+[ Browser ]  Spoofing window.location via WebWorkers: http://goo.gl/hrVISR. Full list of #XSSI example attacks: http://goo.gl/8USvx4
+﻿"通过 WebWorkers 欺骗 window.location: https://t.co/ccoDZBV7cl  XSSI 攻击示例列表 ︰ https://t.co/ny28XCAYfq"
+[ Browser ]  MSIE MSHTML!CSVGHelpers::SetAttributeStringAndPointer Use-After-Free https://packetstormsecurity.com/files/136544/GS20160404172619.tgz
+﻿"IE 浏览器 MSHTML！CSVGHelpers::SetAttributeStringAndPointer UAF 漏洞（CVE-2016-0111）， Project Zero Issue 691: https://bugs.chromium.org/p/project-zero/issues/detail?id=691"
+[ Browser ]  2,000 Firefox extensions vulnerable to reuse flaw - http://ow.ly/10iXxd
+﻿"2000 个 Firefox 扩展存在扩展重用漏洞， 来自 ThreatPost 的报道： https://t.co/6mmGMxQ4Hz   关于这个扩展重用漏洞，前几天推送过： http://www.buyukkayhan.com/publications/ndss2016crossfire.pdf "
+[ Browser ]  New write-up by @ avlidienbrunn: CSP: bypassing form-action with reflected XSS http://labs.detectify.com/2016/04/04/csp-bypassing-form-action-with-reflected-xss/ https://t.co/lW4uKFgc4E
+﻿"利用反射式 XSS 绕过 CSP form-action 限制， 来自 detectify labs： https://t.co/AzKEQrEbvc https://t.co/lW4uKFgc4E"
+[ Browser ]  Information theft attacks abusing browser's XSS filter http://www.mbsd.jp/blog/20160407.html
+﻿"滥用浏览器的 XSS 过滤器，窃取信息， 来自 MBSD Blog： https://t.co/WE6o1KzBPw"
+[ Browser ]  Putting Users in Control of Flash - Microsoft Edge now intelligently auto-pauses ancillary Flash content https://blogs.windows.com/msedgedev/2016/04/07/putting-users-in-control-of-flash/
+﻿"Edge 浏览器将会取消自动播放 Flash 动画，除非用户手动点击播放： https://t.co/WrZuOEn4RQ"
+[ Browser ]  ZDI-16-224: Google Chrome libANGLE glGetUniformfv Buffer Overflow Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-224/
+﻿"ZDI-16-224 ︰ Google Chrome 浏览器 libANGLE glGetUniformfv 缓冲区溢出 RCE，今年 Pwn2Own 韩国选手 lokihardt 用该漏洞打的 Chrome： https://t.co/FxMnkgJWro"
+[ Browser ]  Here are my "On the Security of Browser Extensions" slides: http://stuff.iceqll.eu/slides/2016-on-the-security-of-browser-exts/
+﻿"浏览器扩展的安全研究， 在线 Slides ︰ https://t.co/wW55X89xwp"
+[ Browser ]  Tofino, Mozilla's new experimental desktop browser based on Chromium/Electron (following in @ Brave's footsteps): https://medium.com/project-tofino/browsers-innovators-dilemma-and-project-tofino-ef634c6164f0#.skrqr83w9
+﻿"Mozilla Tofino 项目 - Mozilla 对浏览器的新探索，Github 上介绍这个项目是浏览器交互实验︰ https://t.co/l1PrCXrcnm   Github Repo： https://github.com/mozilla/tofino "
+[ Browser ]  WebRTC Test Landing Page http://mozilla.github.io/webrtc-landing/
+﻿"Mozilla WebRTC 实现 Demo 页面：  https://t.co/XdJ6C36QzB"
+[ Browser ]  My birthday blog post on the difficulties of using SVG images with Content Security Policy: https://pokeinthe.io/2016/04/09/black-icons-with-svg-and-csp/
+﻿"SVG + CSP： 一碗索然无味的字母汤 ︰ https://t.co/zlia2raiHs"
+[ Browser ]  Microsoft Edge supports an early version of the Web Authentication spec. Log in with your face or finger! Read more https://blogs.windows.com/msedgedev/2016/04/12/a-world-without-passwords-windows-hello-in-microsoft-edge/
+﻿"微软 Edge 支持无密码登陆，可以刷脸或指纹登陆， 来自 Edge Blog： https://t.co/raYZlXXxEJ"
+[ Browser ]  H.264/AVC is coming to RTC in Edge. Also available in Firefox & behind flag in Chrome https://blogs.windows.com/msedgedev/2016/04/13/roadmap-update-for-real-time-communications-in-microsoft-edge/#.Vw59t3IzVxs.twitter
+﻿"微软 Edge 浏览器将在 RTC（网页实时通信）中支持 H.264/AVC： https://t.co/gkuzCcwDzw"
+[ Browser ]  Latest #Chrome Update Addresses Two High-Severity Vulnerabilities: https://threatpost.com/latest-chrome-update-addresses-two-high-severity-vulnerabilities/117400/ via @ threatpost
+﻿"Chrome 浏览器发布 50.0.2662.75 版本， 本次更新修复了 20 个漏洞，其中含两个高危漏洞， 来自 ThreatPost 的报道： https://t.co/iTvEIbHJUy  Chrome 官方 Blog： http://googlechromereleases.blogspot.com/2016/04/stable-channel-update_13.html "
+[ Browser ]  UXSS Vulnerability in Comodo Dragon Browser (Write Up) http://blog.evanricafort.com/2016/04/11/universal-xss-vulnerability-in-comodo-dragon-browser-version-29-1-0-0-write-up/ #infosec #hacking #security #vulnerability #uxss #comodo
+﻿"Comodo Dragon 浏览器 UXSS 漏洞 PoC： https://t.co/oGiwriniLt "
+[ Browser ]  #DailyBug bonus #Firefox 100% CPU usage https://bugzilla.mozilla.org/show_bug.cgi?id=1124835 <body onload='i=open("").Iterator;i.prototype.next=String;for(s in i(1));'>
+﻿"Firefox 迭代器拒绝服务漏洞， Bug 1124835： https://t.co/rMjDuWBWnk"
+[ Browser ]  Edge XSS filter bypass : http://blog.portswigger.net/2016/04/edge-xss-filter-bypass.html cc: @ garethheyes
+﻿"Edge 浏览器 XSS Filter Bypass， 来自 PortSwigger Blog ︰ https://t.co/DKkTLUVjRO "
+[ Browser ]  What is definition of a CSS hack http://www.sitepoint.com/what-is-the-definition-of-a-css-hack/ One of the things I’d add is a hack often takes advantage of parser bugs.
+﻿" 'CSS hack' 的定义是什么：  https://t.co/HaZc8CcWUK "
+[ Browser ]  Microsoft Internet Explorer 11 MSHTML.DLL Remote Binary Planting… http://goo.gl/fb/Gs4QTt #FullDisclosure
+﻿"IE 11 MSHTML.DLL 引用了系统中多个不存在的 DLL 文件，攻击者如果可以植入这些 DLL，就可以实现 DLL 劫持， 来自 Full Disclosure 的公告：  https://t.co/aF6uN4p0ac "
+[ Browser ]  New challenge "The XSS Metaphor" by @ kinugawamasato @ filedescriptor & me is out. Have a great and productive week :) https://html5sec.org/minichallenges/5
+﻿" HTML5 小挑战 5 - The XSS Metaphor ：  https://t.co/Vyj6bciLKn"
+[ Browser ]  Chrome XSS Bypass http://brutelogic.com.br/blog/chrome-xss-bypass/
+﻿"Chrome XSS Auditor Bypass，来自 Brutelogic Blog： https://t.co/KGY6mTebN8"
+[ Browser ]  Bypassing Browser Memory Protections : https://www.trailofbits.com/resources/bypassing_browser_memory_protections_vista_paper.pdf (pdf)
+﻿"绕过浏览器的内存保护机制，来自 08 年的一篇总结性 Paper，作者为 Alexander Sotirov 和 Mark Dowd ︰ https://t.co/mRli4O7JR6  "
+[ Browser ]  Using a Braun Shaver to Bypass XSS Audit and WAF https://blog.bugcrowd.com/guest-blog-using-a-braun-shaver-to-bypass-xss-audit-and-waf-by-frans-rosen-detectify
+﻿"通过 Amazon 上的智能剃须刀链接，构造特殊的 URL，绕过 XSS Auditor 和 WAF： https://t.co/G7otdb0qrr "
+[ Browser ]  Malware - Analysing and Repurposing Spartan's CVE-2015-7645 http://vulnerablespace.blogspot.co.uk/2016/04/malware-analysing-and-repurposing.html
+﻿"Spartan CVE-2015-7645 漏洞分析和再利用：  https://t.co/HEKJPENYBM"
+[ Browser ]  Here's how the new #Opera "#VPN" works behind the curtains, including captured API calls when the "VPN" is set up: https://gist.github.com/spaze/558b7c4cd81afa7c857381254ae7bd10
+﻿"Opera 开发版将集成 VPN 服务： http://www.opera.com/blogs/desktop/2016/04/free-vpn-integrated-opera-for-windows-mac/   Github 上有人分析该功能是如何实现的 ︰ https://t.co/z1jE3tdcl2"
+[ Browser ]  Exploiting Internet Explorer’s MS15-106, Part I: VBScript Filter Type Confusion Vulnerability (CVE-2015-6055) http://hubs.ly/H02MtX10
+﻿"Internet Explorer MS15-106 漏洞利用： Part 1︰ VBScript 过滤器类型混淆漏洞 (CVE-2015-6055)， 来自 CoreSecurity Blog：  https://t.co/lCSvKBZFgo"
+[ Browser ]  Debug Microsoft Edge from VS Code with the new Edge Diagnostics Adapter. https://blogs.windows.com/msedgedev/2016/04/27/introducing-edge-diagnostics-adapter/ https://t.co/rMV43Tp5mh
+﻿"基于 Edge 的诊断适配器， 用 VS Code 或 Sublime Text 调试 Edge 浏览器： https://t.co/NLecZ7wKIO https://t.co/rMV43Tp5mh"
+[ Browser ]  CVE-2016-1779 技术分析及其背后的故事 - http://xlab.tencent.com/cn/2016/04/19/CVE-2016-1779/ by @ XuanwuLab
+﻿"CVE-2016-1779 技术分析及其背后的故事， 来自玄武实验室 xisigr： https://t.co/Wdo7pRkrxx "
+[ Browser ]  Insight into security mechanisms within the MSFT Edge Browser. Worth a watch! http://bit.ly/1qM5kbO #DFIR https://t.co/657cRY2NkN
+﻿"《The Cutting Edge of Browser Security》， 视频， 介绍微软在 Edge 浏览器的安全性方面做出过哪些努力：  https://t.co/hiHAza9Rc1   https://t.co/657cRY2NkN"
+[ Browser ]  Firefox 46 Patches Critical Memory Vulnerabilities: https://threatpost.com/firefox-46-patches-critical-memory-vulnerabilities/117698/ via @ threatpost
+﻿"Firefox 浏览器更新 46 版本， 本次更新共修复了 10 个漏洞， 其中一个为严重级别: https://t.co/JI1j4AfVTN"
+[ Browser ]  Extracting page contents with CSS injection via OTF+SVG & XEE https://gist.github.com/cure53/1501bcb6aa6608b2af38fcafd68af219
+﻿" 通过 CSS 注入提取页面内容（基于 OTF+SVG & XEE）， GitHub Repo： https://t.co/aviTd5cQeR"
+[ Browser ]  Firefox release 46.0 gets enabled W^X for JIT-code: https://www.mozilla.org/en-US/firefox/46.0/releasenotes/, http://jandemooij.nl/blog/2015/12/29/wx-jit-code-enabled-in-firefox/
+﻿"Firefox 46.0 版本开始启用 JIT 代码可写、可执行互斥机制， 更新日志︰ https://t.co/qkc1YwxBjs   https://t.co/DVwJ9NE8ft"
+[ Browser ]  Compare browser type systems with the new API Catalog tool https://blogs.windows.com/msedgedev/2016/04/28/introducing-api-catalog/ https://t.co/TV9xCtz0UL
+﻿"微软推出了一个称为 'API Catalog' 的工具，该工具可以在多个浏览器之间比较 API 支持的差异性，也可以和规格文档比较： https://t.co/wOmonDVr9k https://t.co/TV9xCtz0UL"
+[ Browser ]  How Browsers Work : Behind the scenes of modern web browsers : http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/ #b2b
+﻿"浏览器是如何工作的：  https://t.co/bh6R9np6IB  中文版： http://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/ "
+[ Browser ]  Firefox 42 SOP bypass PoC by @ llamakko https://github.com/llamakko/CVE-2015-7214
+﻿"Firefox 42 SOP Bypass PoC： https://t.co/hnj974pPCv"
+[ Browser ]  Understanding EdgeHTML’s Attack Surface and Exploit Mitigations by @ MarkYason - https://securityintelligence.com/understanding-edgehtmls-attack-surface-and-exploit-mitigations/#.VyOQSJ95ZlU.linkedin
+﻿"EdgeHTML 的攻击界面和漏洞利用缓解措施： https://t.co/lZ0QmfOcud"
+[ Browser ]  V8 JavaScript Engine: ES6, ES7, and beyond http://v8project.blogspot.com/2016/04/es6-es7-and-beyond.html?spref=tw
+﻿"V8 JavaScript 引擎︰ ES6、 ES7, ... ： https://t.co/65BWKC6YM2"
+[ Browser ]  Google Chrome Overtakes Microsoft’s Internet Explorer, Edge Nowhere to Be Found http://windowsitpro.com/windows-10/google-chrome-overtakes-microsoft-s-internet-explorer-edge-nowhere-be-found
+﻿"来自 Netmarketshare 的数据显示， Google Chrome 市场占用率首次超过 Internet Explorer： https://t.co/u95lod1z7a"
+[ Browser ]  Finally finished my master's thesis on "Attacking Browser Extensions" → http://nicolas.golubovic.net/thesis/master.pdf repository with test suite follows shortly
+﻿" 攻击浏览器的扩展（Firefox/Chrome）： https://t.co/RuUuvz6DaF "
+[ Browser ]  Devtools presence detector using a timing attack: http://awal.js.org/devtools-timing-attack/ Nice demo from @ awalGarg
+﻿" 浏览器开发者工具（F12）检测器，基于 Timing Attack 的方法。 该网站可以检测你当前是否打开了开发者工具 ︰ https://t.co/dXyLrc53Xv  GitHub Repo: https://github.com/awalGarg/devtools-timing-attack "
+[ Browser ]  Browser Support for CSP 1.0 and CSP 2.0: http://caniuse.com/#search=CSP
+﻿"浏览器特性支持情况查询网站，包括 HTML5，CSS，SVG 等 ︰ https://t.co/abvyTXdKIT"
+[ Browser ]  A Taste of JavaScript’s New Parallel Primitives https://hacks.mozilla.org/2016/05/a-taste-of-javascripts-new-parallel-primitives/
+﻿"Mozilla 正在扩展 JavaScript 引擎，以支持并行执行：  https://t.co/fZ7jZI1jtD"
+[ Browser ]  @ oldfresher 's exploit for CVE-2015-6764 is awesome, I added some comments to help newbies to understand it.https://github.com/4B5F5F4B/Exploits/tree/master/CVE-2015-6764
+﻿"KK 为 oldfresher 的 v8 利用代码（CVE-2015-6764）加了注释，方便新手理解。oldfresher 用此漏洞参加的 Pwn2Own Mobile 2015 比赛： https://t.co/DH3tLq1aRO"
+[ Browser ]  Slowly, but surely reducing Chromium attack surface: https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/lyuWXZ_1kXo. Thanks @ meacer!
+﻿"Blink（Chromium）项目将要禁止通过 <a> 标签、window.open、window.location 打开 view-source， 来自 Blink 邮件组 ︰ https://t.co/P1ygXO13n9 "
+[ Browser ]  My selection of new Chromium and Firefox intents: https://github.com/simevidas/browser-intents/blob/master/README.md https://t.co/pdP9wBHOPD
+﻿"Chromium 和 Firefox 浏览器项目上的一些特性以及开发者的意图 ︰ https://t.co/NpzKE6mdXA https://t.co/pdP9wBHOPD"
+[ Browser ]  Too lazy to use ROP in your Chrome IPC memory corruption sandbox escape? This is what you _could_ have used :-) https://bugs.chromium.org/p/chromium/issues/detail?id=564238
+﻿" Chrome IPC 内存破坏沙箱逃逸时不想用 ROP？ 那可以用这个： https://t.co/YIzNTKyu6c  Windows Image Sections 允许映射任意可执行内存到高权限进程"
+[ Browser ]  Browser as an Interactive Disassembler, by Vyacheslav Egorov http://mrale.ph/blog/2015/03/29/browser-as-an-interactive-disassembler.html
+﻿"将浏览器作为一个交互式的反汇编工具： https://t.co/aWshp4Kvx5"
+[ Browser ]  Detect audio frequency using HTML5 (and more) - Web Audio DAW. Use HTML5 Web Audio API for dynamic sound synthesis : https://github.com/rserota/wad
+﻿" 基于 HTML5 的动态音效合成工具， GitHub Repo︰ https://t.co/vPMubcNED9"
+[ Browser ]  ZDI-16-283: (Pwn2Own) Microsoft Edge JavaScript fill Out-Of-Bounds Access Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-283/
+﻿"ZDI-16-283: Edge 浏览器 JavaScript fill 越界访问 RCE， 腾讯 KeenLab 今年用此漏洞参加了 Pwn2Own 比赛：  https://t.co/bzD7AFpHUz"
+[ Browser ]  Advisory - ZDI-16-282: (Pwn2Own) Microsoft Edge JavaScript concat Method Uninitialized Memory Remote Code Executio… http://ift.tt/1TDbamz
+﻿"ZDI-16-282 公告: 微软 Edge 浏览器 JavaScript 引擎 concat 方法内存未初始化 RCE，今年的 Pwn2Own，lokihardt 就是用此漏洞攻击的 Edge：  https://t.co/98dqBpepYM"
+[ Browser ]  Google fixes five vulnerabilities w/ Chrome update, awards $20K to bug hunters - http://ow.ly/H15o3008MCU
+﻿"Chrome 浏览器更新 50.0.2661.102 版本，本次更新共修复了 5 个漏洞，其中 3 个为高危：  https://t.co/YrwbOwZtMk"
+[ Browser ]  Microsoft Edge Accessibility documentation now live at https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/accessibility/
+﻿"Edge 浏览器关于 Accessibility 的文档：  https://t.co/FwpH8gnGcO"
+[ Browser ]  Attacking Browser Extensions : http://nicolas.golubovic.net/thesis/master.pdf (pdf)
+﻿"前两周推送过这篇《攻击浏览器扩展（Firefox/Chrome）》的 Paper︰ https://t.co/gQc55VywtN  这两天作者又公开了相关的测试工具和示例代码： https://github.com/qll/attacking-browser-extensions  "
+[ Browser ]  Bug 1266397 - Popup blocker bypass using Flash https://bugzilla.mozilla.org/show_bug.cgi?id=1266397 < "I really do not have the time to look at this now."
+﻿" 用 Flash 绕过 Firefox 的弹框保护，来自 Firefox Bug 1266397： https://t.co/LLuLaJGHjE  "
+[ Browser ]  Exploit for another OOB bug CVE-2016-1646 in V8. Great thanks @ oldfresher for his generous sharing. https://github.com/4B5F5F4B/Exploits/tree/master/CVE-2016-1646
+﻿" KK 为 Chrome v8 CVE-2016-1646 写的 Exploit, 在 Windows 10、 Chrome 46.0.2490.0 版本上测试通过：  https://t.co/1smKuferaO "
+[ Browser ]  Google to kill Flash in Chrome by introducing click-to-play by default: https://groups.google.com/a/chromium.org/forum/#!searchin/chromium-dev/HTML5$20by$20default/chromium-dev/0wWoRRhTA_E/__E3jf40OAAJ & https://docs.google.com/presentation/d/106_KLNJfwb9L-1hVVa4i29aw1YXUy9qFX-Ye4kvJj-4/edit?pref=2&pli=1#slide=id.g1270f83468_0_5 #Flash #Bounties
+﻿" Chrome 浏览器开发者论坛上对 Flash 'click-to-play' 问题的讨论，第一次访问网站时会弹框确认是否允许加载 Flash，点击同意后，以后的访问就会自动加载了︰ https://t.co/UGabd8yzZ1   https://t.co/6YWoKbU5hR  "
+[ Browser ]  New Blog Post + Quick Tool: Chrome History Parser http://sketchymoose.blogspot.co.uk/2016/05/chrome-history-parser-chp.html #DFIR Sorry its been a while peeps!
+﻿" Chrome 浏览器历史文件解析工具 - 可以查询已下载文件列表、URL 访问历史、搜索关键词历史： https://t.co/y6J6jRHMN0 "
+[ Browser ]  Most ES6, including Modules, are supported by latest Edge preview. All ES7 proposals too https://blogs.windows.com/msedgedev/2016/05/17/es6-modules-and-beyond/
+﻿"Edge 浏览器目前支持大部分的 ES6 规范，包括对模块的支持。同时也支持所有的 ES7 提案， 来自 Edge 开发者 Blog： https://t.co/RH64K1mXzV"
+[ Browser ]  Audio, Battery, WebRTC APIs in HTML5 are all being abused by third-party scripts for fingerprinting : https://webtransparency.cs.princeton.edu/webcensus/index.html#fp-results
+﻿"HTML5 中的 Audio、Battery、WebRTC API 都可以被滥用实现指纹跟踪︰ https://t.co/ovqd7hL0Ut    lcamtuf 也研究过这个问题： https://www.chromium.org/Home/chromium-security/client-identification-mechanisms "
+[ Browser ]  ZDI-16-338: Microsoft Edge JavaScript shift Method Uninitialized Memory Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-338/
+﻿"ZDI-16-338︰ 微软 Edge 浏览器 JavaScript shift 方法未初始化内存 RCE，来自 ZDI 的公告： https://t.co/cRQrQ6e1Cq"
+[ Browser ]  ZDI-16-342: (Pwn2Own) Apple Safari TextTrack Object Use-After-Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-342/
+﻿"ZDI-16-342: Apple Safari TextTrack 对象 UAF RCE（lokihardt 参加 Pwn2Own 比赛用的漏洞）： https://t.co/5sR87zad14"
+[ Browser ]  btw https://github.com/WebKit/webkit/commit/98845d940e30529098eea7e496af02e14301c704 is the bug i’m playing with. will upload code for the exploit at some point
+﻿" WebKit WebCore::TimerBase::heapPopMin() UAF， 代码 Patch：  https://t.co/SqBipbA1uj "
+[ Browser ]  researchers at @ PrincetonCITP released a new browser fingerprinting demo using AudioContext API: https://audiofingerprint.openwpm.com/
+﻿" 基于 AudioContext API 的浏览器指纹 Demo: https://t.co/KQig38A3ee"
+[ Browser ]  ZDI-16-355: Microsoft Edge JavaScript unshift Method Uninitialized Memory Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-355/
+﻿"ZDI-16-355 ︰ 微软 Edge 浏览器 JavaScript unshift 方法未初始化内存 RCE（CVE-2016-0186）， ZDI 公告：  https://t.co/A3cHNzP8TY"
+[ Browser ]  @ berendjanwever Version 2 is out, with slicker UI and port enumeration. Live: http://blog.skylined.nl/LocalNetworkScanner/ Source: https://github.com/SkyLined/LocalNetworkScanner/
+﻿" SkyLined 写的一个本地网络扫描工具，不一样的是，这是一个用 JavaScript 写的网页版工具︰ https://t.co/2PmTMwMiGN  GitHub Repo︰ https://t.co/cs3C9RGcEb"
+[ Browser ]  .@ google updates #Chrome to 51.0.2704.63, pays one researcher $30,000 in bounties. https://threatpost.com/researcher-pockets-30000-in-chrome-bounties/118337/
+﻿" Chrome 更新 51.0.2704.63 版本，本次共修复了 9 个高危漏洞。Google 支付了 3 万美金给 Mariusz Mlynski，奖励他发现的 4 个高危漏洞。此外，本次更新中还修复了玄武实验室 LiuKe 发现的两个漏洞，来自 ThreatPost 的报道： https://t.co/kjVCKHPEH5   Release Blog： http://googlechromereleases.blogspot.com/2016/05/stable-channel-update_25.html "
+[ Browser ]  A fun old MSc thesis (ca. 2009) that deals with heap corruptions, SpiderMonkey v1.7, infoleak construction etc.: https://drive.google.com/file/d/0B5hBKwgSgYFaalNIYVc3OXdrQW8/view?usp=sharing
+﻿" Web 2.0 时代，经典的浏览器内存破坏类漏洞攻击，来自一篇 2009 年的 Paper，其中有对 Mozilla SpiderMonkey 引擎的分析︰ https://t.co/FYvV1WgyXb "
+[ Browser ]  Microsoft Internet Explorer 8 Divide By Zero Proof Of Concept https://packetstormsecurity.com/files/137217/ie8xpsp3-divide-crash-poc.zip
+﻿" IE8 浏览器的一个除零漏洞 PoC： https://t.co/9YiAbR6jUx"
+[ Browser ]  Text to speech in Edge with Speech synthesis API https://blogs.windows.com/msedgedev/2016/06/01/introducing-speech-synthesis-api/
+﻿" Edge 浏览器将通过语音合成 API 支持文本到语音的转换，来自 Edge 开发者 Blog： https://t.co/I4avJ7fKs9"
+[ Browser ]  Interesting new feature in Chrome 53 https://chromium.googlesource.com/chromium/src/+/e14e5ad593f4b86b03ba71357117bf2ec1bf29c8/third_party/WebKit/LayoutTests/presentation/resources/embedded-smoke-tests.html#52 new PresentationRequest('https://example.com'); p.start()
+﻿" 从 Chrome 53 版本的代码库里看到的一个有趣的新特性： PresentationRequest() ： https://t.co/OtvzRJVGFt "
+[ Browser ]  Exploiting Browser-based timing attacks : http://www.slideshare.net/phdays/ss-62583382 (Slides)
+﻿" Exploiting Browser-based Timing Attacks，来自 PHDays 会议 ︰ https://t.co/50H6GmnC3H  PHDays 2016 会议的全部 Slides: http://www.slideshare.net/phdays/presentations "
+[ Browser ]  Scalable and Effective Fuzzing of Google Chrome Browser : http://www.slideshare.net/phdays/google-chrome-62582929 (Slides)
+﻿" 大规模、高效地 Fuzz Google Chrome 浏览器，来自 PHDays 会议 ︰ https://t.co/L4lASbkU8l "
+[ Browser ]  NCC Group Blog: When a Trusted Site in Internet Explorer was Anything But - https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/june/when-a-trusted-site-in-internet-explorer-was-anything-but/ by @ exploresecurity
+﻿" 当 IE 中的可信站点（Trusted Site）不可信的时候会怎样，来自 NCC Group： https://t.co/xN1AyA0G5G"
+[ Browser ]  Google patched two high severity flaws in Chrome this week - http://ow.ly/vH5L300QZD0
+﻿"Chrome 浏览器更新 51.0.2704.79 版本，本次共修复了两个高危漏洞，来自 ThreatPost 的报道： https://t.co/iNuprOaco8   官方 Blog: http://googlechromereleases.blogspot.com/2016/06/stable-channel-update.html "
+[ Browser ]  How to write your own Virtual DOM : https://medium.com/@ deathmood/how-to-write-your-own-virtual-dom-ee74acc13060#.yui37egv7
+﻿" 虚拟 DOM 树的实现: https://t.co/KASpaHE6aZ"
+[ Browser ]  Headless Chrome is coming soon : https://bugs.chromium.org/p/chromium/issues/detail?id=546953#c54
+﻿" Chrome 马上将会支持无界面模式启动，同时可以为后台渲染页面截屏 ︰ https://t.co/wBzXbONeWm"
+[ Browser ]  WAVM : Standalone WebAssembly VM prototype : https://github.com/AndrewScheidecker/WAVM
+﻿"WAVM - 独立版本的 WebAssembly 虚拟机原型︰ https://t.co/4SQX5wEaPC"
+[ Browser ]  Mozilla fixes 13 vulnerabilities in #Firefox, including some that could lead to spoofing, clickjacking - http://ow.ly/lhLv3013yF3
+﻿"Mozilla Firefox 浏览器更新 47 版本，本次更新共修复了 13 个漏洞，来自 ThreatPost 的报道： https://t.co/9sudRW76sc"
+[ Browser ]  We're excited to announce that we've open-sourced part of our WebGL renderer: https://github.com/MicrosoftEdge/WebGL More coming soon on the Edge Dev Blog!
+﻿" 微软开源了 Edge 浏览器的 WebGL 渲染器， GitHub Repo︰ https://t.co/DHhkeBPUVE  "
+[ Browser ]  Window Hijacking: Using JavaScript to open a new tab then change location of tab after an arbitrary period of time : https://github.com/dxa4481/windowHijacking
+﻿" WindowHijacking - 浏览器新标签页窗口劫持 ︰ https://t.co/OtynVYpZNN"
+[ Browser ]  This mobile performance paper is always worth re-reading: http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/
+﻿" 为什么手机浏览器那么慢 ︰ https://t.co/aebWdNEhwc"
+[ Browser ]  Just posted "Exploiting IE’s MS15-106, Part 2: JScript ArrayBuffer.slice Mem Disclosure(CVE-2015-6053)" + CFG bypass https://blog.coresecurity.com/2016/06/14/exploiting-internet-explorers-ms15-106-part-ii-jscript-arraybuffer-slice-memory-disclosure-cve-2015-6053/
+﻿" Exploit IE MS15-106 Part 2︰ JScript ArrayBuffer.slice 内存信息泄漏(CVE-2015-6053)，来自 CoreSecurity Blog： https://t.co/AIokgXmlAZ"
+[ Browser ]  Chrome - GPU process BufferManager double-read https://bugs.chromium.org/p/project-zero/issues/detail?id=787#c_ts1465984996
+﻿" Chrome GPU 进程 BufferManager Double-Read 漏洞，来自 Project Zero Issue 787： https://t.co/XfcoAIPiGI"
+[ Browser ]  Safari will no longer reveal installed common plug-ins. No Flash, Java, Silverlight, QuickTime in navigator.plugins: https://webkit.org/blog/6589/next-steps-for-legacy-plug-ins/
+﻿" 默认情况下，Safari 10 将不再向网站提供某插件是否安装的信息，如 Flash、Java、Silverlight，来自 WebKit Blog : https://t.co/dJUFcTISsp"
+[ Browser ]  ZDI-16-365: Microsoft Internet Explorer s_DestroyLinkCallback Use-After-Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-365/
+﻿"IE s_DestroyLinkCallback UAF（CVE-2016-0200），来自 ZDI 公告： https://t.co/m0FguVoQEs"
+[ Browser ]  Chrome GPU Process MailboxManagerImpl Double Read https://packetstormsecurity.com/files/137504/GS20160616153455.tgz
+﻿"Chrome 浏览器 GPU 进程 MailboxManagerImpl Double Read 漏洞，来自 Project Zero Issue 780: https://bugs.chromium.org/p/project-zero/issues/detail?id=780  "
+[ Browser ]  ZDI-16-368: Microsoft Edge JavaScript map Method Out-Of-Bounds Write Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-368/
+﻿" Edge 浏览器 JavaScript map 方法越界写漏洞，来自 ZDI 公告，发现者为 lokihardt： https://t.co/Rncm8QftoP"
+[ Browser ]  Check out this experimental Contextual Identity feature released on Firefox Nighty: https://blog.mozilla.org/tanvi/2016/06/16/contextual-identities-on-the-web/
+﻿" Firefox 在 Nighty 版本中增加了一个实验性的上下文标识功能 ︰ https://t.co/EbJusy3erV"
+[ Browser ]  CVE-2016-0199 / MS16-063: MSIE 11 garbage collector attribute type confusion http://goo.gl/fb/dk4dDv #FullDisclosure
+﻿" IE 11 浏览器 GC 属性类型混淆漏洞 PoC（CVE-2016-0199/MS16-063）： https://t.co/pHF3KAdlEX "
+[ Browser ]  Making HTTPS fast in Microsoft Edge. The road to 0-RTT with TLS 1.3, TCP Fast Open, TLS False Start, and HTTP/2 https://blogs.windows.com/msedgedev/2016/06/15/building-a-faster-and-more-secure-web-with-tcp-fast-open-tls-false-start-and-tls-1-3/
+﻿" 通过 TCP Fast Open、TLS False Start 以及 TLS 1.3，实现更快更安全地 Web 浏览体验： https://t.co/9UVJzp9v6Y "
+[ Browser ]  If you want hour(s) more battery life on Windows, use MS Edge https://blogs.windows.com/windowsexperience/2016/06/20/more-battery-with-edge/ (even more than Opera with battery saver enabled)
+﻿" 微软对主流浏览器的电量消耗情况作了一个对比，最后得出结论：要想电池寿命长，请用 Edge 浏览器： https://t.co/x3VwY4FaOg "
+[ Browser ]  Small print for TorBrowser high entrp ASLR Selfrando - disable jemalloc & low lvl crypto - https://www.ics.uci.edu/~perl/pets16_selfrando.pdf / http://news.softpedia.com/news/tor-browser-integrates-tool-to-fend-off-deanonymization-exploits-505418.shtml
+﻿" Tor 浏览器在保护匿名性方面的防御措施： https://t.co/BtuSaCVRAc  https://t.co/2TcqauCPYK"
+[ Browser ]  Microsoft Edge CBaseScriptable PrivateQueryInterface Uninitialized Memory Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-371/
+﻿" Edge 浏览器 CBaseScriptable PrivateQueryInterface 未初始化内存 RCE，来自 ZDI 的公告： https://t.co/gc61VfkjPX"
+[ Browser ]  Proof-of-Concept for spraying high addresses in Chrome & Firefox on 64-bit Windows: http://blog.skylined.nl/20160622001.html (+ details on CVE-2014-1736)
+﻿" 64 位 Windows，Chrome/Firefox 浏览器高地址 HeapSpray PoC ︰ https://t.co/v73TfTLreG  Blog 后面还分析了 Chrome createImageData 任意地址读写漏洞（CVE-2014-1736）"
+[ Browser ]  Leaner, smarter, faster: JavaScript performance updates in Edge & Chakra https://blogs.windows.com/msedgedev/2016/06/22/javascript-performance-updates-anniversary-update/#cAhDyQOe2o8FfeYh.99
+﻿" Edge 浏览器 Chakra 引擎 JavaScript 处理性能提升，来自微软 Blog： https://t.co/Brk0lhapdY"
+[ Browser ]  Researchers at Theori published an analysis of Internet Explorer 11 VBScript Memory Corruption (with PoC exploit) http://theori.io/research/cve-2016-0189
+﻿" IE vbscript.dll 内存破坏漏洞（CVE-2016-0189）的补丁分析： https://t.co/N6KsQbE30o"
+[ Browser ]  My "Protecting browsers’ secrets in a domain environment" talk @ BsidesTLV #Mimikatz #MicrosoftATA http://www.slideshare.net/ItaiGrady/protecting-browsers-secrets-in-adomainenvironment via @ SlideShare
+﻿" 如何保护好浏览器存储的各网站凭据信息： https://t.co/OFlneLlgwJ  刚好，mimikatz 更新了新版本，支持通过 DPAPI 解密 Chrome 存储的密钥了： https://github.com/gentilkiwi/mimikatz/releases "
+[ Browser ]  Proof of concept for CVE-2016-1649, lokihardt's libangle bug. https://github.com/4B5F5F4B/PoCs/blob/master/CVE-2016-1649/PoC.html
+﻿" Chrome 浏览器 libangle 缓冲区溢出 RCE 漏洞的 PoC（CVE-2016-1649），漏洞最早由 lokihardt 发现，该 PoC 由 KK 提供： https://t.co/z5rUx7SZE9"
+[ Browser ]  No UI #XSS vector Edge, MSIE10-11 &lt;div style="-ms-scroll-limit:1px;overflow:scroll;width:1px" onscroll=alert('xss')&gt; https://t.co/ZHvLVK37qC
+﻿" 影响 Edge、IE 10-11 的一个 XSS 攻击向量： https://t.co/ZHvLVK37qC"
+[ Browser ]  I wrote up everything I know (and was able to learn) about the script tag -> https://eager.io/blog/everything-I-know-about-the-script-tag/
+﻿" 关于 HTML Script 标签，我所了解的： https://t.co/uxo5ZPTPCu"
+[ Browser ]  Headless Chromium very useful for fuzzing purposes (no Xvfb) https://chromium.googlesource.com/chromium/src/+/master/headless/README.md
+﻿" 无前台界面的 Chromium 构建教程，对于 Fuzz 很有用： https://t.co/ic5Lk24f83"
+[ Browser ]  no UI #XSS vector, inspired by @ BenHayak vector :D <div style=writing-mode:tb;overflow:scroll onscroll=alert(1)> https://jsfiddle.net/a7p7okzv/
+﻿" 一个没有 UI 的 XSS 攻击向量： https://t.co/SWfFnbf4Wl"
+[ Browser ]  Reflections on trusting CSP http://blog.kotowicz.net/2016/06/reflections-on-trusting-csp.html
+﻿" 关于 CSP 的一些思考：新的 CSP 特性一定会带来新的 Bypass 方法： https://t.co/NFabi0eEal  "
+[ Browser ]  Patch analysis of MS16-063 for Internet Explorer 11 JScript Memory Corruption (with proof-of-concept exploit) http://theori.io/research/jscript9_typed_array
+﻿" jscript9.dll TypedArray MS16-063 的补丁分析: https://t.co/GH1NRn6HDO"
+[ Browser ]  The history of HTML styling https://eager.io/blog/the-languages-which-almost-were-css/
+﻿" HTML 样式语言的历史 - 一门差点成为 CSS 的语言： https://t.co/Pg0Ba6iomx"
+[ Browser ]  My Firefox bug's public: https://bugzilla.mozilla.org/show_bug.cgi?id=1152280 Actual results: Arbitrary read/write. Expected results: Probably an error or something.
+﻿" Firefox asm.js 不正确的边界检查漏洞（CVE-2015-2712），比较早的一个漏洞了，影响 37.0.1 版本︰ https://t.co/mBux6Y5l7b  "
+[ Browser ]  Mozilla publishes their next-generation HTML rendering engine, built in their own secure programming language http://www.theregister.co.uk/2016/07/04/mozilla_servo_nightly_builds/
+﻿"Mozilla 发布了它的下一代 HTML 渲染引擎 Servo，来自 The Register 的报道： https://t.co/im9ss1VFWC"
+[ Browser ]  Apple Safari for Mac OS X SVG local XXE https://www.wearesegment.com/research/Apple-Safari-for-Mac-OS-X-SVG-local-XXE
+﻿" Safari SVG 本地 XXE 漏洞： https://t.co/vXlHTNtJRR "
+[ Browser ]  Firefox - Same-Origin Policy bypass (CVE-2015-7188) : http://blog.bentkowski.info/2016/07/firefox-same-origin-policy-bypass-cve.html
+﻿" Firefox 同源策略绕过漏洞(CVE-2015-7188): https://t.co/O8eRKYbUXU"
+[ Browser ]  Looks like Microsoft changed the Edge XSS Filter rules quite dramatically in 14327.rs1_release.160620-2342 / Edge 38 http://pastebin.com/hecQRGVY
+﻿" Edge 浏览器 14327.rs1_release.160620 版本修改了 XSS Filter 的检测规则： https://t.co/3jIq1l7bG8"
+[ Browser ]  browsersploit : Advanced browser exploit pack for doing internal and external pentesting : https://github.com/julienbedard/browsersploit
+﻿" BrowserExploit - 浏览器高级渗透测试框架︰ https://t.co/dTsdIIQ19s"
+[ Browser ]  I wrote a privacy analysis of @ w3c Vibration API. Privacy engineer's point of view, uses and abuses. https://blog.lukaszolejnik.com/privacy-of-w3c-vibration-api/
+﻿" W3C 的振动（Vibration） API 隐私问题分析： https://t.co/fan9kg8oPL"
+[ Browser ]  The Future of Browser History — https://medium.com/@ patrykadas/browserhistory-2abad38022b1#.w2jtzjcjj
+﻿"浏览器历史访问记录的未来： https://t.co/m0K7Az3D2S"
+[ Browser ]  The Scriptless Scriptlet - Or how to execute JavaScript from CSS in MSIE11 without using Scripts https://gist.github.com/cure53/521c12e249478c1c50914b3b41d8a750
+﻿" IE11 中，如何通过 CSS 执行 JavaScript 脚本： https://t.co/g3m3pa628E"
+[ Browser ]  A new version of http://html5test.com has been released. Finally! http://blog.html5test.com/2016/07/html5test-has-been-updated/
+﻿" 新版 html5test.com 上线了：  https://t.co/z8beL6SpCK"
+[ Browser ]  Nice! Mozilla ships its first Rust code in Firefox. Media parsers have been a large attack surface for browsers. https://hacks.mozilla.org/2016/07/shipping-rust-in-firefox/
+﻿" Mozilla Firefox 48 版本起将在各桌面平台内置 Rust 组件，其中的 MP4 解析器将用 Rust 代码实现： https://t.co/WLToS14wUA"
+[ Browser ]  Another day, another single-parameter MSIE11 XSS filter bypass. This one is hilarious - enjoy: https://html5sec.org/xssfilter/entities
+﻿" IE11 XSS Filter Bypass PoC︰ https://t.co/5qQ1vRVrVz"
+[ Browser ]  XSS in XML - exploitation demo to run an external JS in full DOM: http://sdl.me/XSSDemo/xss-xml-frames.html
+﻿" XSS in XML - 在 DOM 中运行外部 JS 代码: https://t.co/42gqNp51zb"
+[ Browser ]  Blogged! I wrote about CVE-2016-3212. / Abusing XSS Filter: One ^ leads to XSS http://masatokinugawa.l0.cm/2016/07/xxn-caret.html (日本語) http://mksben.l0.cm/2016/07/xxn-caret.html (英語)
+﻿" 滥用 IE XSS Filter - '^' 导致的 XSS（CVE-2016-3212）： https://t.co/0YTvdHRQCd "
+[ Browser ]  Blog post: Executing non-alphanumeric JavaScript without parenthesis http://blog.portswigger.net/2016/07/executing-non-alphanumeric-javascript.html
+﻿" 不依赖圆括号，让浏览器执行非字母、数字组成的 JavaScript： https://t.co/Wval9N75WK"
+[ Browser ]  Malware in the browser: how you might get hacked by a Chrome extension https://kjaer.io/extension-malware/
+﻿" 浏览器里的恶意扩展 - 没准哪天你就被 Chrome 扩展黑了： https://t.co/sJN7Iv7iEh"
+[ Browser ]  #Firefox to block #Flash in August, disable by default in 2017 - http://ow.ly/kuif302u4gU https://t.co/QVG61kxoxD
+﻿" 从 8 月份开始，Firefox 将会对 Flash 的加载弹框确认，至 2017 年默认禁用 Flash，来自 ThreatPost 的报道： https://t.co/f6ZLUzx4WX  Firefox 的官方说明： https://blog.mozilla.org/futurereleases/2016/07/20/reducing-adobe-flash-usage-in-firefox/ "
+[ Browser ]  Google fixed 48 bugs, including a sandbox escape, in the latest version of Chrome - http://ow.ly/c57l302u4cq
+﻿" Chrome 浏览器更新 52.0.2743.82 版本，本次更新修复了 48 个漏洞，来自 ThreatPost 的报道： https://t.co/axAJvx08pe   官方的公告： http://googlechromereleases.blogspot.com/2016/07/stable-channel-update.html  "
+[ Browser ]  #pets16 New & old website fingerprinting attacks and defenses https://crysp.uwaterloo.ca/software/webfingerprint/ [Tor; code/papers] https://t.co/O7uAzTCCl2
+﻿" Web 指纹技术（Fingerprint）的攻击与防御： https://t.co/Si8K9SxoMm   https://t.co/O7uAzTCCl2"
+[ Browser ]  New post: Adding rel="noopener" to external links is important for security, but it can also improve performance https://jakearchibald.com/2016/performance-benefits-of-rel-noopener/
+﻿" rel='noopener' 属性对于外部链接的安全性很重要，而且也会提高性能： https://t.co/G3xBpVryMF"
+[ Browser ]  Improved MathML in WebKit by @ igalia now in Safari Technology Preview release 9. https://webkit.org/blog/6803/improvements-in-mathml-rendering/ https://t.co/OXKgly4dz2
+﻿" MathML 是 W3C 的一个 HTML5 推荐标准，通过它可在浏览器 Web 页面中很方便地编写数学表达式： https://t.co/c6lNN0WkZw https://t.co/OXKgly4dz2"
+[ Browser ]  Breaking Bad CSP : http://www.slideshare.net/LukasWeichselbaum/breaking-bad-csp (Slides)
+﻿" Breaking Bad CSP: https://t.co/5xrChkGQIJ "
+[ Browser ]  HitCon 2016 《Windows 10 x64 edge 0day and exploit》: https://github.com/exp-sky/HitCon-2016-Windows-10-x64-edge-0day-and-exploit/blob/master/Windows%2010%20x64%20edge%200day%20and%20exploit.pdf
+﻿"玄武实验室 exp-sky 在 HitCon 2016 会议的演讲：《Windows 10 x64 edge 0day and exploit》: https://t.co/v9JIyrPc9O"
+[ Browser ]  Updated virtual machines are now available with the latest EdgeHTML 14 preview build (14.14393): https://developer.microsoft.com/microsoft-edge/tools/vms/ Happy testing!
+﻿" 各版本的 Edge/IE 虚拟机下载，包括 Edge on Windows 10 Preview 版本: https://t.co/RcDO2GeXRA "
+[ Browser ]  New blogpost! "Bypassing paths in CSP with open redirects + mitigation" https://chloe.re/2016/07/25/bypassing-paths-with-open-redirects-in-csp/
+﻿" 通过跳转绕过 CSP 中的路径限制： https://t.co/dmid7FZsH6"
+[ Browser ]  ChakraCore's interpreter and runtime works on Linux and OS X! JIT and high performance GC is a work-in-progress: https://blogs.windows.com/msedgedev/2016/07/27/chakracore-on-linux-osx/
+﻿"ChakraCore 可以在 Linux 和 OS X 系统运行了︰ https://t.co/Usl5ocdEaY"
+[ Browser ]  Some interesting RCE bugs in Qihoo360 Secure Browsers: http://webcache.googleusercontent.com/search?q=cache:EzbVUe9O3R8J:www.wooyun.org/bugs/wooyun-2010-0170984+&cd=1&hl=en http://webcache.googleusercontent.com/search?q=cache:QSX8osHVm90J:www.wooyun.org/bugs/wooyun-2016-0172781+&cd=2&hl=en http://webcache.googleusercontent.com/search?q=cache:-UONmS2PCmcJ:www.wooyun.org/bugs/wooyun-2016-0174114+&cd=5&hl=en
+﻿"Qihoo360 安全浏览器的几个有趣的历史漏洞，来自 WooYun，但现在只能在 Google 快照里看了: https://t.co/Wuw7WbBjAP https://t.co/KWkxVK9utF https://t.co/hcu4oC2lkw"
+[ Browser ]  Finally, it is published: this was my whiteboard while reverse engineering IE's JS engine https://www.syssec.rub.de/research/publications/detile-fine-grained-information-leak-detection/ https://t.co/exSzf7hqEm
+﻿" Detile - 脚本引擎中的细粒度信息泄漏检测： https://www.syssec.rub.de/media/emma/veroeffentlichungen/2016/07/29/detile_info_leak_detection_dimva16.pdf "
+[ Browser ]  FireFox Local File Disclosure and Same Origin Policy bypass : http://leucosite.com/FireFox-LFD-and-SOP-Bypass/
+﻿" Firefox 本地任意文件读取与同源策略绕过 PoC︰ https://t.co/NcaHEGUkYZ"
+[ Browser ]  Timing Attacks in the Modern Web https://tom.vg/2016/08/browser-based-timing-attacks/
+﻿" Timing Attacks in the Modern Web： https://t.co/dF5Zi98D6A "
+[ Browser ]  Addressbar spoofing with right-to-left characters on Firefox for Android (FIXED) - CVE-2016-5267 https://www.mozilla.org/en-US/security/advisories/mfsa2016-82/ #infosec
+﻿" Android 版本 Firefox 的一个地址栏欺骗漏洞（CVE-2016-5267），与从右到左书写的字符有关： https://t.co/gG4skVznCu  另外 Firefox 昨天发布 48 版本，终于开始启用多进程模型： https://www.mozilla.org/en-US/firefox/48.0/releasenotes/  同时 48 版本也修复了多个漏洞： https://www.mozilla.org/en-US/security/advisories/ "
+[ Browser ]  CSS mix-blend-mode is bad for your browsing history (aka, patience is a virtue): https://lcamtuf.blogspot.com/2016/08/css-mix-blend-mode-is-bad-for-keeping.html
+﻿"CSS 混合模式可以使攻击者更方便地探测你的浏览器历史记录︰ https://t.co/98uoYbXc1t"
+[ Browser ]  Proof-of-concept JavaScript malware implemented as a Proxy Auto-Configuration (PAC) File https://github.com/SafeBreach-Labs/pacdoor
+﻿" 通过邪恶的 PAC 窃取浏览器的 HTTPS URLs，PAC 指代理自动配置文件。作者在 BlackHat 会议的演讲 PPT： https://www.blackhat.com/docs/us-16/materials/us-16-Kotler-Crippling-HTTPS-With-Unholy-PAC.pdf   PoC 代码实现 PacDoor： https://t.co/L72uZa9mhh "
+[ Browser ]  Microsoft extends bug bounty to cover Edge remote code exec http://www.theregister.co.uk/2016/08/05/microsoft_opens_15k_remote_code_exec_edge_preview_pwn_party/
+﻿"微软扩充了 Bug Bounty 计划的覆盖面，这次涵盖 Edge 浏览器 Preview 版本的 RCE 漏洞： https://t.co/30FRPJbx7H "
+[ Browser ]  Payment Request API is coming to Chrome Beta. Check out this introduction article: https://developers.google.com/web/updates/2016/07/payment-request https://t.co/AG8eBMavXU
+﻿" Chrome Beta 版马上将会提供对支付相关 API 的支持︰ https://t.co/YCYAtjYcJI "
+[ Browser ]  Let's Encrypt Root to be Trusted by @ mozilla (Firefox v50) https://letsencrypt.org/2016/08/05/le-root-to-be-trusted-by-mozilla.html
+﻿" Firefox v50 版本开始，将添加对 Let's Encrypt 根证书密钥的信任，v50 版本将于 2016 年第 4 季度发布： https://t.co/ALw2vN5x0P"
+[ Browser ]  MP3/HTML polygot PoC for Firefox: http://pastebin.com/raw/x2bTAv4q
+﻿"Firefox MP3/HTML polygot PoC︰ https://t.co/p7XsnUvVVE"
+[ Browser ]  All about WPAD and HTTPS: https://www.microsoft.com/en-us/research/publication/pretty-bad-proxy-an-overlooked-adversary-in-browsers-https-deployments/
+﻿"关于 WPAD 和 HTTPS，微软在 2009 年就发表过一篇 Paper《Pretty-Bad-Proxy: An Overlooked Adversary in Browsers’ HTTPS Deployments》（浏览器 HTTPS 部署时一个被忽视的敌人 - Bad Proxy）: https://t.co/6EvgZxIvZp   还有一篇来自 Verisign 的 Paper《gTLD 时代 WPAD 命名冲突引起的中间人劫持攻击分析》： https://www.verisign.com/assets/labs/MitM-Attack-by-Name-Collision-Cause-Analysis-and-WPAD-Vulnerability-Assessment-in-the-New-gTLD-Era.pdf "
+[ Browser ]  IE local path disclosure vulnerability using sandbox iframes resolved in #MS16095 #CVE20163321 https://www.securify.nl/advisory/SFY20160301/internet_explorer_iframe_sandbox_local_file_name_disclosure_vulnerability.html
+﻿"IE HTML5 Sandbox iframe 本地文件可被探测漏洞（file://）（CVE-2016-3321,MS16-095）： https://t.co/e8jUhIOyuX"
+[ Browser ]  ZDI-16-454: Microsoft Internet Explorer CAnchor Use-After-Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-454/
+﻿"ZDI-16-454 IE 浏览器 CAnchor UAF RCE 漏洞，来自 ZDI 公告： https://t.co/XIo6sS0Kxq"
+[ Browser ]  Both reported to secure@ microsoft.com Edge XSS Filter bypass: http://www.cracking.com.ar/bugs/2016-07-14/ Address Bar spoof: http://www.cracking.com.ar/bugs/ms/spoofy.html
+﻿" Edge 浏览器的两个漏洞， XSS Filter Bypass︰ https://t.co/9QgBylu1tB   地址栏欺骗︰ https://t.co/25SJ1KuMGM"
+[ Browser ]  Microsoft Internet Explorer: Read AV in MSHTML!CMultiReadStreamLifetimeManager::ReleaseThreadStateInternal https://code.google.com/p/google-security-research/issues/detail?id=827
+﻿" IE 浏览器 MSHTML!CMultiReadStreamLifetimeManager::ReleaseThreadStateInternal 访问违例漏洞（CVE-2016-3288），来自 Project Zero Issue 827： https://t.co/9vaT1xw4NJ"
+[ Browser ]  Chrome social engineering - Fool users into opening downloaded executable PoC: http://pastebin.com/raw/jb8Pp3AL - #justmightwork
+﻿" 利用社会工程学方法诱导用户点击下载的可执行文件: http://pastebin.com/raw/jb8Pp3AL "
+[ Browser ]  A new blog post on Google Chrome, Firefox Address Bar Spoofing Vulnerability (CVE-2016-5267): http://www.rafayhackingarticles.net/2016/08/google-chrome-firefox-address-bar.html #infosec #security
+﻿" Chrome、Firefox 浏览器地址栏欺骗漏洞分析(CVE-2016-5267): https://t.co/Be3BriW1oi "
+[ Browser ]  ZDI-16-486: Apple Safari Array.splice Out-Of-Bounds Access Remote Code Execuction Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-486/
+﻿"ZDI-16-486︰ Apple Safari Array.splice 越界访问 RCE（CVE-2016-4622）： https://t.co/DEnPk4KM8G"
+[ Browser ]  #HITBGSEC D2 - Moritz Jodeit -Look Mom I Don't Use Shellcode - http://gsec.hitb.org/materials/sg2016/D2%20-%20Moritz%20Jodeit%20-Look%20Mom%20I%20Don't%20Use%20Shellcode.pdf
+﻿" 妈妈你看，我都不需要用 Shellcode，来自 HITB Gsec 会议，介绍的是 IE11 的漏洞利用： https://t.co/5himMhDBzv"
+[ Browser ]  Browser-based fingerprinting: implications and mitigations https://blog.malwarebytes.com/cybercrime/exploits/2016/08/browser-based-fingerprinting-implications-and-mitigations/
+﻿"基于浏览器的指纹，所涉及的问题及缓解方法： https://t.co/8FqmG9kPsv"
+[ Browser ]  Stop Cross-Site Timing Attacks with SameSite cookies: http://bit.ly/2bDDJ8C... and cross-site forgery in general. https://t.co/VkqbSUMTkg
+﻿" 利用 SameSite 特性阻断跨站时序攻击： https://www.igvita.com/2016/08/26/stop-cross-site-timing-attacks-with-samesite-cookies/ "
+[ Browser ]  Stealing all browser data (passwords,history etc.) from Yandex Browser by exploiting a CSRF in Yandex's sync system https://www.netsparker.com/blog/web-security/csrf-vulnerability-yandex-browser/
+﻿" Yandex 浏览器的一个 CSRF 漏洞： https://t.co/DRiD5ZKZzJ "
+[ Browser ]  Our (@ we1x @ slekies @ arturjanc) #CSP paper is out. 95% bypassable, whitelisting is doomed, #strictdynamic helps. https://research.google.com/pubs/pub45542.html
+﻿" CSP Is Dead, Long Live CSP，白名单的不安全性以及 CSP 的将来。来自 Google 的 Paper： https://t.co/4yGRmUiFiw"
+[ Browser ]  Patch now: Google releases security update for Chrome http://googlechromereleases.blogspot.ie/2016/08/stable-channel-update-for-desktop_31.html
+﻿" Chrome 浏览器发布 53 版本，修复多个漏洞： https://t.co/kJr1uQHU6T "
+[ Browser ]  Stealing data from Inputs and Textareas in Edge http://www.brokenbrowser.com/grabdatafrominput/
+﻿"从 Edge 浏览器的 Inputs 和 Textareas 区域偷数据： https://t.co/H2h4mpVnxm"
+[ Browser ]  Universal XSS in Dashlane, fixed today. Patch was delayed 1 month because Apple denied request to expedite review(!) https://bugs.chromium.org/p/project-zero/issues/detail?id=890
+﻿" Dashlane 密码管理器 UXSS 漏洞，来自 Project Zero Issue 890：  https://t.co/PAFgQE0vzx"
+[ Browser ]  . #Chrome to Label Some HTTP Sites ‘Not Secure’ in 2017: https://threatpost.com/chrome-to-label-some-http-sites-not-secure-in-2017/120452/ via @ threatpost
+﻿" 2017 年 1 月开始，Chrome 会标记 HTTP 网站为 '非安全'，用户导航至 HTTP 网站时将会被提示： https://t.co/8Q2cpdd8pG"
+[ Browser ]  Internet Explorer has a URL problem : http://blog.innerht.ml/internet-explorer-has-a-url-problem/
+﻿" IE 浏览器 URL 跳转相关的一个小问题︰ https://t.co/8iJLfaDZAs"
+[ Browser ]  Edge/IE - Spoofing the Referer and defeating the XSS Filter with two lines of code. http://www.brokenbrowser.com/referer-spoofing-defeating-xss-filter/ https://t.co/b0raf7WBTD
+﻿" Edge/IE 浏览器两行代码欺骗 Referer，绕过 XSS Filter： https://t.co/cnu7SsOFZk https://t.co/b0raf7WBTD"
+[ Browser ]  [dos] - Microsoft Internet Explorer 11.0.9600.18482 - Use After Free: Microsoft Internet Explorer 11.0.9600.1... http://bit.ly/2cpZ1p1
+﻿" Internet Explorer 11.0.9600.18482 UAF PoC： https://t.co/PxfEIsymb6"
+[ Browser ]  Blocking out-of-date Flash ActiveX controls https://blogs.windows.com/msedgedev/2016/09/13/blocking-out-of-date-flash/
+﻿" 从 2016 年 10 月 16 号开始，微软将阻止过期的 Flash ActiveX 控件的加载执行： https://t.co/dDsS794fK2"
+[ Browser ]  Introducing the Firefox debugger.html (modern JavaScript debugger) : https://hacks.mozilla.org/2016/09/introducing-debugger-html/
+﻿" debugger.html - Firefox 浏览器的 JavaScript 调试器︰ https://t.co/UNuRu5MX0b"
+[ Browser ]  Mozilla will patch zero-day Firefox bug to fiddle man-in-the-middle diddle http://www.theregister.co.uk/2016/09/18/mozilla_tor_flaws/ Zero Day: https://hackernoon.com/tor-browser-exposed-anti-privacy-implantation-at-mass-scale-bd68e9eb1e95#.3m17mqa45
+﻿"Mozilla Firefox 浏览器 9 月 20 号将会发布更新，修复一个中间人劫持漏洞，该漏洞影响 Tor 网络的匿名性： https://t.co/8a7B2Q2v2O    漏洞的分析： https://t.co/UPCUXQCYZg"
+[ Browser ]  Chromium 扩展（Extension）的页面（Page）加载过程分析 ： http://blog.csdn.net/luoshengyang/article/details/52420761
+[ Browser ]  I just published “Postmortem of the Firefox (and Tor) Certificate Pinning Vulnerability Rabbit Hole” https://medium.com/p/postmortem-of-the-firefox-and-tor-certificate-pinning-vulnerability-rabbit-hole-bd507c1403b4
+﻿" 对 Firefox 刚刚修复的证书验证中间人劫持漏洞的分析： https://t.co/JPJWyUGFvU"
+[ Browser ]  Abusing WebVTT and CORS for fun and profit http://blog.k3170makan.com/2016/09/abusing-webvtt-and-cors-for-fun-and.html
+﻿" Abusing WebVTT and CORS for fun and profit： https://t.co/ScMpwTjTXm"
+[ Browser ]  Browser Bug Searcher https://browser-issue-tracker-search.appspot.com/ ? a thing to ? for ? across all major browser vendor issue trackers. https://t.co/0jBV09Pw42
+﻿" Browser Bug Searcher： https://browser-issue-tracker-search.appspot.com "
+[ Browser ]  Apple Safari 10 (multiple remote code execution vulns) https://support.apple.com/en-us/HT207157
+﻿"苹果公开了 Safari 10 的漏洞公告，其中包括 WebKit 组件的多个漏洞： https://t.co/TfPyqnnM4R"
+[ Browser ]  Safari's URL redirection XSS(CVE-2016-4585) by Takeshi Terada http://www.mbsd.jp/blog/20160921.html (日本語) http://www.mbsd.jp/blog/20160921_2.html (English)
+﻿" Safari URL 重定向 XSS（CVE-2016-4585）： https://t.co/Y6nDa038mr "
+[ Browser ]  Just compiled a list of sensitive Windows APIs which MS Edge marks as invalid indirect call targets for CFG: https://gist.github.com/fdfalcon/ba8cbd042752c915ef2e1159917a33f4
+﻿" 被 MS Edge 浏览器 CFG 标记为 Invalid Indirect Call 的 API 列表︰ https://t.co/MANvA8pkCX"
+[ Browser ]  Blogged! / CVE-2016-4758: UXSS in Safari's showModalDialog http://masatokinugawa.l0.cm/2016/09/safari-uxss-showModalDialog.html (日本語) http://mksben.l0.cm/2016/09/safari-uxss-showModalDialog.html (English)
+﻿" Safari showModalDialog 的 UXSS（CVE-2016-4758）： http://mksben.l0.cm/2016/09/safari-uxss-showModalDialog.html "
+[ Browser ]  Mozilla to distrust WoSign and StartCom https://docs.google.com/document/d/1C6BlmbeQfn4a9zydVi2UvjBGv6szuSB4sMYUcVrR8vQ/preview
+﻿"Mozilla 将不再信任 WoSign 和 StartCom 颁发的新证书： https://t.co/ug8Th1ljfA"
+[ Browser ]  Safari UXSS 漏洞分析（CVE-2016-4758），来自 Holic (知道创宇 404 安全实验室)翻译自 Masato Kinugawa 的一篇文章： http://paper.seebug.org/53/
+[ Browser ]  Chromium 扩展（Extension）的Content Script加载过程分析： http://blog.csdn.net/luoshengyang/article/details/52465364
+[ Browser ]  CSP Evaluator and CSP Mitigator available for web app developers https://threatpost.com/new-google-tools-help-devs-improve-content-security-policy-protection/120894/ via @ threatpost
+﻿" Google 开发了一款工具，用于帮助开发者评估和缓解 CSP 策略相关的安全问题： https://t.co/BVD7fcd3fY "
+[ Browser ]  Introducing Windows Defender Application Guard for Microsoft Edge https://blogs.windows.com/msedgedev/2016/09/27/application-guard-microsoft-edge/ https://t.co/3XG4nOf9u6
+﻿" 微软称 Windows 10 下次重大更新将使用一个轻量级虚拟机隔离环境运行 Edge 浏览器，这项保护特性的名字为 Windows Defender Application Guard： https://t.co/s1Xkmss4IN "
+[ Browser ]  IE/Edge Workers SOP bypass using leaked script errors thanks to base href or importScripts) http://www.brokenbrowser.com/workers-sop-bypass-importscripts-and-basehref/ https://t.co/1kse7COZvJ
+﻿"利用泄漏的脚本错误 Bypass IE/Edge Workers SOP： https://t.co/XcXugVuzUV https://t.co/1kse7COZvJ"
+[ Browser ]  ZDI-16-527: Apple Safari HTMLVideoElement Use-After-Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-16-527/
+﻿"ZDI-16-527︰ 苹果 Safari HTMLVideoElement UAF，来自 ZDI 的公告： https://t.co/pg4Ripa9ZT"
+[ Browser ]  Web Worker 中的 importScripts 和 baseHref 同源策略绕过问题： http://paper.seebug.org/57/
+[ Browser ]  FireFox Print Preview Hijacking PoC: http://pastebin.com/raw/Nm45xLDR (Popups must be enabled)
+﻿" FireFox 浏览器打印预览劫持 PoC: https://t.co/WunIUXXShI "
+[ Browser ]  Node.js debugging with Chrome DevTools in parallel with browser JS : https://blog.hospodarets.com/nodejs-debugging-in-chrome-devtools cc @ malyw https://t.co/6ZWH3t4NEh
+﻿" 利用 Chrome 的开发者工具（DevTools）调试 Node.js: https://t.co/9r3qnAvAvr "
+[ Browser ]  TIL HTML entities work in javascript only within SVG script tags, potential #WAF bypass: http://pastebin.com/raw/rt3sSdcH Chrome and FF
+﻿" SVG 标签嵌套的 Script 标签，有可能被用于 Bypass WAF: https://t.co/pTLAPC57ZK "
+[ Browser ]  Great writeup on Chrome XSS auditor bypass https://www.leavesongs.com/HTML/chrome-xss-auditor-bypass-collection.html
+﻿" 多个 Chrome XSS Auditor Bypass 实例： https://t.co/3mlpB8iXRY"
+[ Browser ]  Blogged! XSS小ネタです。 / XSS via Referrer After Anniversary Update http://masatokinugawa.l0.cm/2016/10/referrer-xss-win10.html (日本語) http://mksben.l0.cm/2016/10/xss-via-referrer.html (English)
+﻿"  基于 Referer 的 XSS： https://t.co/Qp8d3B2oWg "
+[ Browser ]  The Sandbox for Firefox (Nightly) on Linux is getting better and better: http://www.morbo.org/2016/10/firefox-sandbox-on-linux-tightened.html
+﻿" Linux 版 Firefox 的沙箱正在不断增强︰ https://t.co/JIJ5HtEXmw"
+[ Browser ]  #DailyBug #Firefox NULL pointer Repro: <track xmlns="..."><feImage xmlns="..." xmlns:xlink="..." xlink:href='?'>… https://twitter.com/i/web/status/785412860222603265
+﻿"Firefox NULL pointer (<track xmlns="..."><feImage xmlns="..." xmlns:xlink="..." xlink:href='?'>) ： https://bugzilla.mozilla.org/show_bug.cgi?id=1308862
+[ Browser ]  CVE-2016-1707 Chrome Address Bar URL Spoofing on IOS： http://xlab.tencent.com/en/2016/10/09/CVE-2016-1707-Chrome-Address-Bar-URL-Spoofing-on-IOS/
+[ Browser ]  :_( JavaScript eval() type confusion in Microsoft Edge http://zerodayinitiative.com/advisories/ZDI-16-532/
+﻿"微软 Edge 浏览器 JS eval 函数类型混淆漏洞，导致远程代码执行：  http://zerodayinitiative.com/advisories/ZDI-16-532/ "
+[ Browser ]  Browser Treatment of Bad SSL : https://docs.google.com/document/d/1b7lenmn5XO06QohaJzVffnJxjXjY1rD70wg34gfuxRo/edit
+﻿" 六种常用浏览器对 Bad SSL 的不同处理方式对比︰ https://t.co/PIoaYn0cgB"
+[ Browser ]  MS Edge: open default txt/css apps without user interaction. PoC: http://www.cracking.com.ar/demos/edgedefaultapp/ Notepad and Visual Studio are opened in my case.
+﻿"MS Edge 浏览器在没有用户交互的情况下会以默认应用打开 txt/css，PoC︰ : https://t.co/04V7TxLr1y "
+[ Browser ]  基于浏览器的指纹识别: 影响和缓解措施： http://paper.seebug.org/64/
+[ Browser ]  ? We just announced our intent to ship the Web Bluetooth API in Chrome 56 at https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/Ono3RWkejAA/2skvuBhSCQAJ https://t.co/jxrVGkcIU5
+﻿" Chrome 计划在 56 版本开始支持 Web Bluetooth（蓝牙）相关的 API： https://t.co/XTk1Do9UNf https://t.co/jxrVGkcIU5 "
+[ Browser ]  a single byte write opened a root execution exploit: https://daniel.haxx.se/blog/2016/10/14/a-single-byte-write-opened-a-root-execution-exploit/ I blogged about our recent c-ares security vulnerability
+﻿" Chrome OS c-ares 组件的一个漏洞，改写一个字节，实现 Root 代码执行（CVE-2016-5180）︰ https://t.co/n0uVPiZx1i "
+[ Browser ]  Open any local folder/file in IE11 (and more) using MSHH #PoC http://pastebin.com/raw/fp7fDuXJ
+﻿"在 IE11 中打开本地文件夹或文件，PoC： https://t.co/qcULZalE1s"
+[ Browser ]  Decrypting Google Chrome Safe Storage Passwords on OS X http://bufferovernoah.com/2016/10/17/chrome/
+﻿"在 OS X 系统，解密 Chrome 存储的用户密码： https://t.co/6OR4qkFE5V "
+[ Browser ]  CFI all the Chromes! http://crbug.com/464797 http://crbug.com/469376 http://crbug.com/537386 http://crbug.com/584575 https://t.co/MfA34oVbqr
+﻿" Chrome 浏览器将要在各个平台启用 CFI： https://t.co/ugHjhbX41f https://t.co/akzjl90wUz https://t.co/hinCZK8e9d https://t.co/zlCFaTAcgM https://t.co/MfA34oVbqr"
+[ Browser ]  [浏览器安全系列四] Fancy3D引擎（YY浏览器）远程命令执行： http://paper.seebug.org/75/
+[ Browser ]  [浏览器安全系列三] 搜狗浏览器从UXSS到远程命令执行： http://paper.seebug.org/74/
+[ Browser ]  [浏览器安全系列二] 百度浏览器远程命令执行： http://paper.seebug.org/73/
+[ Browser ]  [浏览器安全系列一] 2345浏览器本地文件读取及远程命令执行： http://paper.seebug.org/72/
+[ Browser ]  Microsoft Edge: Heap Overflow in Array.map https://bugs.chromium.org/p/project-zero/issues/detail?id=923
+﻿" Edge 浏览器 Array.map 堆溢出漏洞（CVE-2016-7190）： https://t.co/940Jffbpf0 "
+[ Browser ]  Microsoft Edge: Info Leak in Function.apply https://bugs.chromium.org/p/project-zero/issues/detail?id=920
+﻿" Edge 浏览器 Function.apply 信息泄漏漏洞（CVE-2016-7194）： https://t.co/5mrZEuIDv5 "
+[ Browser ]  Microsoft Edge: Info Leak in Array.join https://bugs.chromium.org/p/project-zero/issues/detail?id=919
+﻿"Edge 浏览器 Array.join 信息泄漏漏洞（CVE-2016-7189）： https://t.co/cnPKuULuau "
+[ Browser ]  Microsoft Edge: Stack Overflow in Spread Operator https://bugs.chromium.org/p/project-zero/issues/detail?id=910
+﻿" Edge 浏览器对象展开运算符栈溢出漏洞（CVE-2016-3386），来自 Project Zero： https://t.co/lqBVtIz1px "
+[ Browser ]  Windows: Edge/IE Isolated Private Namespace Insecure Boundary Descriptor EoP https://bugs.chromium.org/p/project-zero/issues/detail?id=878
+﻿" Edge/IE 浏览器隔离的私有命名空间不安全边界描述符 EoP： https://t.co/ZV8vbZ4WlC"
+[ Browser ]  Mozilla 将对 SHA-1证书展示连接不可信的错误信息：SHA-1算法签名的证书已经不再安全，它很快就能被一个有足够动机和资源的实体伪造。为了加快淘汰SHA-1证书，Mozilla将从明年初其对 SHA-1证书展示连接不可信的错误信息： http://www.solidot.org/story?sid=50050
+[ Browser ]  #DailyBug #Firefox assert on x86 Windows https://bugzilla.mozilla.org/show_bug.cgi?id=1311612 https://t.co/zClvU1glZ9
+﻿"Assert in gfxFontGroup։։GetDefaultFont on x86： https://bugzilla.mozilla.org/show_bug.cgi?id=1311612"
+[ Browser ]  [Paper] Bypassing XSS Filters using XML internal entities http://www.davidlitchfield.com/BypassingXSSFiltersusingXMLInternalEntities.pdf
+﻿"利用 XML internal entities 绕过 Chrome 和 IE 浏览器的 XSS 过滤器： https://t.co/KANNEb09VB"
+[ Browser ]  A Study of WebRTC Security https://webrtc-security.github.io/
+﻿"WebRTC（Web Real-Time Communications） 技术的安全性研究： https://t.co/aHwT47VHus"
+[ Browser ]  上面推送了《Bypassing Chrome's and IE's XSS Filters using XML Internal Entities》，知道创宇研究员把它翻译成中文了，《使用 XML 内部实体绕过 Chrome 和 IE 的 XSS 过滤器》： http://paper.seebug.org/80/
+[ Browser ]  IE 漏洞攻防编年简史： http://blog.topsec.com.cn/ad_lab/ie%E6%BC%8F%E6%B4%9E%E6%94%BB%E9%98%B2%E7%BC%96%E5%B9%B4%E7%AE%80%E5%8F%B2/
+[ Browser ]  Mozilla Turning TLS 1.3 On By Default With Firefox 52: https://threatpost.com/mozilla-turning-tls-1-3-on-by-default-with-firefox-52/121461/ via @ threatpost
+﻿"Mozilla Firefox 浏览器从 52 版本开始将默认采用 TLS 1.3 协议： https://t.co/a55Nzuu1a4"
+[ Browser ]  Mozilla "Add unified fuzzing interface, supporting AFL and libfuzzer" https://bugzilla.mozilla.org/show_bug.cgi?id=1303757
+﻿"Mozilla Firefox 添加了一个统一的 Fuzzing 接口，支持 AFL 和 libfuzzer：  https://t.co/vl2UJESXdO"
+[ Browser ]  New post: Bypassing Content-Security-Policy with DNS prefetching https://blog.compass-security.com/2016/10/bypassing-content-security-policy-with-dns-prefetching/
+﻿"通过 DNS 预读取绕过内容安全策略： https://t.co/FgxhRa2MXc"
+[ Browser ]  This is huge: Chrome will require Certificate Transparency for all new public certificates from Oct 2017 https://t.co/byz9iRUEEv
+﻿"从 2017年10月开始，Google 要求所有的新公共证书都要使用Certificate Transparency 策略： https://t.co/byz9iRUEEv"
+[ Browser ]  浏览器插件的攻击向量： http://www.freebuf.com/articles/web/117112.html
+[ Browser ]  A BrowserStack vulnerability disclosure http://bloggerbust.ca/2016/10/26/browsersmack-a-browser-stack-proxy-vulnerability/
+﻿" BrowserSmack - BrowserStack 的代理漏洞，BrowserStack 是一种跨浏览器测试的解决方案： https://t.co/YUPrcOUW2b"
+[ Browser ]  结合 host 头注入和 host的不严谨解析，提供恶意数据服务： http://paper.seebug.org/85/
+[ Browser ]  Bypass unsafe-inline mode CSP： http://paper.seebug.org/91/
+[ Browser ]  A peek into the WebAssembly Browser Preview http://blogs.windows.com/msedgedev/2016/10/31/webassembly-browser-preview/ https://t.co/CUnPzFkSx1
+﻿"WebAssembly Browser Preview： https://blogs.windows.com/msedgedev/2016/10/31/webassembly-browser-preview/#kvKPLOBh0uS2Xgxy.97"
+[ Browser ]  Chromium Win32k system call lockdown https://docs.google.com/document/d/1gJDlk-9xkh6_8M_awrczWCaUuyr0Zd2TKjNBCiPO_G4/edit#
+﻿" Google 爆出最近有 win32k 的 0Day 正在野外被攻击者利用，Google 同时表示， Chromium 浏览器不受影响，原因是它有 Win32k System Call Lockdown 保护特性： https://t.co/eJyyfDU66m"
+[ Browser ]  Google 表示，从 2017 年 1 月开始，Chrome 56 版本将不再信任 WoSign 和 StartCom 签发的证书： https://threatpost.com/google-to-distrust-wosign-startcom-certs-in-2017/121709/
+[ Browser ]  因隐私担忧 Firefox 移除对电池状态API的支持： http://www.solidot.org/story?sid=50220
+[ Browser ]  色情网站利用WebSocket绕过广告屏蔽：色情网站总是会在主流网站前面拥抱和采用新的技术。最新的一个例子是Pornhub.com用WebSocket绕过广告屏蔽： http://www.solidot.org/story?sid=50238
+[ Browser ]  前端黑魔法：使用JS检测远程用户的杀毒软件： http://www.mottoin.com/91264.html
+[ Browser ]  绿盟科技张云海在 BlueHat 会议的演讲《How To Avoid Implement An Exploit Friendly JIT》的 PPT： http://www.slideshare.net/YunhaiZhang1/how-to-avoid-implement-an-exploit-friendly-jit
+[ Browser ]  WebKit is removing Battery API: https://trac.webkit.org/changeset/208303 Previously, Firefox: https://bugzilla.mozilla.org/show_bug.cgi?id=1313580 Chrome issue:… https://t.co/bTtR9FwF1y
+﻿" WebKit 正在移除电池相关的 API: https://t.co/fYrouTdmYd  之前 Firefox 浏览器也禁用了相关代码︰ https://t.co/0hM87z2rby    Chrome 也一样： https://t.co/bTtR9FwF1y"
+[ Browser ]  Browser modifier with rootkit capabilities - BrowserModifier:Win32/Soctuseer https://blogs.technet.microsoft.com/mmpc/2016/11/08/msrt-november-2016-unwanted-software-has-nowhere-to-hide-in-this-months-release/ by @ msftmmpc
+﻿"BrowserModifier:Win32/Soctuseer： https://t.co/BDcd6Y07fl"
+[ Browser ]  #DeepSec MitM 'Captive portals', HSTS & cookies by @ atrox_at https://www.dropbox.com/s/zktz1gurst6zlxr/deepsec2016.pdf [cache side channel leak brows… https://t.co/Yj6kgNx9UM
+﻿"HSTS and Cookies: Side-channels to Steal Browsing History（PDF），来自 Deepsec 2016： https://t.co/2BTTS6nxpt "
+[ Browser ]  Maxthon Browser Exploitation http://d3adend.org/blog/?p=851
+﻿" 傲游浏览器 Android 版本下存在任意文件写入、登陆页面 UXSS 及 SQL 注入漏洞： https://t.co/seZjatjTpV"
+[ Browser ]  #DailyBug #MSIE11 MSHTML CMapElement::Notify use-after-free non-reantrant functions and event handling do not mix http://blog.skylined.nl/20161114001.html
+﻿"Microsoft Internet Explorer 11 MSHTML CMap­Element::Notify use-after-free： https://t.co/BVBmisr0fh"
+[ Browser ]  Bypassing Mixed Content Warnings – Loading Insecure Content in Secure Pages https://www.brokenbrowser.com/loading-insecure-content-in-secure-pages/
+﻿"绕过混合内容的警告 — 在安全页面中加载不安全的内容： https://t.co/7qqyizMw6V"
+[ Browser ]  [0day] [PoC] Risky design decisions in Google Chrome and Fedora desktop enable drive-by downloads: https://goo.gl/3FOMdC
+﻿"Google Chrome 在 Fedora 系统下存在不经确认的自动下载风险 ︰ https://t.co/zkrbt2zr5w"
+[ Browser ]  Microsoft Edge edgehtml CAttr­Array::Destroy use-after-free details https://goo.gl/fb/QhTEX1 #FullDisclosure
+﻿"Microsoft Edge 浏览器 edgehtml CAttr­Array::Destroy UAF 漏洞细节： https://t.co/9pV1Yzparh "
+[ Browser ]  傲游浏览器漏洞系列（上）- 任意文件写入，UXSS： http://paper.seebug.org/108/ 傲游浏览器漏洞系列（下）- 客户端SQL注入和代码执行： http://paper.seebug.org/109/
+[ Browser ]  #DailyBug :) https://twitter.com/natashenka/status/799075178256809984
+﻿" Microsoft Edge 浏览器 eval 函数类型混淆漏洞（CVE-2016-7240）： https://bugs.chromium.org/p/project-zero/issues/detail?id=948"
+[ Browser ]  Google 将在 Chrome 56 版本中移除对 SHA-1 的支持： https://threatpost.com/google-removing-sha-1-support-in-chrome-56/122041/
+[ Browser ]  Microsoft Edge: Heap Overflow in Array.splice https://bugs.chromium.org/p/project-zero/issues/detail?id=934
+﻿"Microsoft Edge 浏览器 Array.splice 堆溢出漏洞： https://t.co/8G0XA0vM1V "
+[ Browser ]  Microsoft Internet Explorer 11 iertutil LCIEGetTypedComponentFromThread use… https://goo.gl/fb/Mi0AWd #FullDisclosure
+﻿"Microsoft IE 11 iertutil LCIEGetTypedComponentFromThread UAF 漏洞细节： https://t.co/DCWGLKNhwm "
+[ Browser ]  #DailyBug #Edge CTextExtractor::GetBlockText OOB read Using a heap-spray trick I developed 10 years ago. http://blog.skylined.nl/20161118002.html
+﻿"Microsoft Edge CText­Extractor::Get­Block­Text OOB read ( CVE-2016-3247) 漏洞细节： https://t.co/KsnQSXwAiM"
+[ Browser ]  一个价值7500刀的CHROME UXSS（CVE-2016-1631）分析与利用： http://avfisher.win/archives/619
+[ Browser ]  PoC for Microsoft Edge Scripting Engine Memory Corruption Vulnerability (MS16-129) (CVE-2016-7202): http://www.security-assessment.com/files/documents/advisory/edge_chakra_mem_corruption.pdf
+﻿"Microsoft Edge Chakra JavaScript engine 内存破环漏洞(CVE-2016-7202) PoC : https://t.co/liR3KJmIQT"
+[ Browser ]  .@ Microsoft Cutting Off #SHA1 Support in February for Edge, IE 11: https://threatpost.com/microsoft-cutting-off-sha-1-support-in-february-for-edge-ie-11/122119/ via @ threatpost
+﻿"Microsoft 确认将于 2017 年 2 月 停止 Edge 和 IE 11 中对 SHA-1 的支持： https://t.co/RYHsYy352e"
+[ Browser ]  MSIE8 MSHTML Ptls5::Ls­Find­Span­Visual­Boundaries memory corruption https://goo.gl/fb/652D94 #FullDisclosure
+﻿"Microsoft IE 8 Ptls5::Ls­Find­Span­Visual­Boundaries 内存破坏漏洞： https://t.co/gUhVflG7W0 "
+[ Browser ]  Apple Safari Addressbar Spoofing Attacks with Search Engines on IOS： http://xisigr.com/x/apple-safari-addressbar-spoofing-attacks-with-search-engines-on-ios/
+[ Browser ]  Exploiting Internet Explorer 11 64-bit on Windows 8.1 Preview： http://bobao.360.cn/learning/detail/3207.html
+[ Browser ]  #DailyBug CVE-2015-1251 #Chrome blink SpeechRecognitionController use-after-free http://blog.skylined.nl/20161123001.html
+﻿"Chrome 浏览器 blink Speech­Recognition­Controller UAF 漏洞（CVE-2015-1251）细节： https://t.co/kkKXyXeWAd"
+[ Browser ]  MS Edge: Abusing of Protocols to Load Local Files, bypass the HTML5 Sandbox, and more! - Broken Browser https://www.brokenbrowser.com/abusing-of-protocols/
+﻿"MS Edge 浏览器： 利用协议来加载本地文件、绕过 HTML5 沙箱： https://t.co/iT22BucNJR"
+[ Browser ]  利用特殊协议加载本地文件， 绕过 HTML5 沙箱， 打开弹窗诸事： http://paper.seebug.org/125/
+[ Browser ]  New Firefox/Tor Browser 0-day vulnerability discovered in the wild (being exploited against Tor users). https://t.co/e1Yi65Ysbf
+﻿"针对 Firefox/Tor 浏览器的 0day，能够直接调用 kernel32.dll： https://t.co/e1Yi65Ysbf    目前 Firefox 正在积极修复此 0day： https://t.co/JjAdTo9lxj"
+[ Browser ]  #DailyBug Google #Chrome Accessibility blink::Node corruption details http://blog.skylined.nl/20161129001.html
+﻿"Chrome Accessibility blink::Node corruption 细节： https://t.co/Ws3o7njVUk"
+[ Browser ]  JSON-handle DomXSS Vulnerability：http://paper.seebug.org/129/
+[ Browser ]  'Three roads lead to Rome' Edge 浏览器的漏洞利用：http://blogs.360.cn/360safe/2016/11/29/three-roads-lead-to-rome
+[ Browser ]  IE浏览器UAF漏洞CVE-2014-0282的分析与利用： http://www.mottoin.com/92909.html
+[ Browser ]  MSEdge XSS Filter bypass: <embed/:script allowscriptaccess=always src=//l0.cm/xss.swf> https://vulnerabledoma.in/char_test?body=%3Cembed/:script%20allowscriptaccess=always%20src=//l0.cm/xss.swf%3E
+﻿"绕过 MSEdge 浏览器 XSS Filter︰ <embed/:script allowscriptaccess=always src=//l0.cm/xss.swf>： https://t.co/BOFGxNft3v"
+[ Browser ]  Bypassing CSP using polyglot JPEGs（翻译版）： http://paper.seebug.org/133/
+[ Browser ]  Multiple Universal XSS fixed in latest Chrome 55 : https://googlechromereleases.blogspot.in/2016/12/stable-channel-update-for-desktop.html
+﻿"最新 Chrome 55 中被修复的漏洞们: https://t.co/Rv6z0k8k22"
+[ Browser ]  （CVE-2016-9079）Firefox 远程代码执行漏洞技术分析与防护方案： http://blog.nsfocus.net/analysis-protection-firefox-vulnerability/
+[ Browser ]  （CVE-2016-3377）Win10 Edge 浏览器从越界写到任意内存读写： http://www.freebuf.com/articles/system/121690.html
+[ Browser ]  Firefox - SVG cross domain cookie vulnerability https://insert-script.blogspot.gr/2016/12/firefox-svg-cross-domain-cookie.html
+﻿"借助 SVG，实现跨域设置 Cookie(Firefox 的漏洞)： https://t.co/yHhDFZ5sA2"
+[ Browser ]  Latest Safari Technology Preview clears http://window.name on cross-origin navigation: https://webkit.org/blog/7093/release-notes-for-safari-technology-preview-19/
+﻿"最新的 Safari 技术预览版将在跨域导航时清空 window.name： https://t.co/MIyXjdKHz7: https://t.co/CoDG7LwSYr"
+[ Browser ]  MS Edge - Spoofing the Address-bar thanks to SmartScreen Malware Warning. A scammer's dream.… https://t.co/Nx2836KQX8
+﻿"滥用 Edge 浏览器的 '恶意站点警告' 特性，实现地址栏欺骗，让 facebook.com 显示钓鱼站警告页面： https://www.brokenbrowser.com/spoof-addressbar-malware/"
+[ Browser ]  滥用 Edge 浏览器的 '恶意站点警告' 特性，实现地址栏欺骗，让 facebook.com 显示钓鱼站警告页面： https://www.brokenbrowser.com/spoof-addressbar-malware/
+[ Browser ]  Firefox - SVG cross domain cookie vulnerability (译版，本文有增改): http://paper.seebug.org/136/
+[ Browser ]  RCE in JXBrowser JavaScript/Java bridge : http://blog.portswigger.net/2016/12/rce-in-jxbrowser-javascriptjava-bridge.html
+﻿"RCE in JXBrowser JavaScript/Java bridge ︰ https://t.co/K0KbulRxWD"
+[ Browser ]  Here is basically how Firefox chrome code execution works http://pastebin.com/raw/EsBErDZ3/ #TheMoreYouKnow
+﻿" 如何在 Firefox/Chrome 浏览器 about:newtab 特权页面的 Console 中弹计算器： https://t.co/V6YB7TJHhx "
+[ Browser ]  ROP & Heap Spray for a Reverse Shell in IE8 : https://woumn.wordpress.com/2016/12/07/rop-heap-spray-for-a-reverse-shell-in-ie8/ https://t.co/NTri6b0JDk
+﻿"在 IE8 中利用 ROP和堆喷射来反弹 shell︰ https://t.co/gWwIxNFw6U"
+[ Browser ]  #DailyBug #MSIE 9 MSHTML CDisp­Node::Insert­Sibling­Node use-after-free http://blog.skylined.nl/20161208001.html
+﻿"MSIE 9 MSHTML CDispNode::InsertSiblingNode UAF 细节（CVE-2013-1306）： https://t.co/Ne5uhZdRHq"
+[ Browser ]  Exotic HTTP Headers - Exploration of HTTP security and other non-typical headers : https://peteris.rocks/blog/exotic-http-headers/
+﻿"Exotic HTTP Headers，文章详细介绍了浏览器安全相关的 HTTP Header︰ https://t.co/LBhjO5rzxf"
+[ Browser ]  RCE in JXBrowser JavaScript/Java bridge： http://paper.seebug.org/139/
+[ Browser ]  JSCPWN,JavaScriptCore引擎的漏洞利用思路： http://drops.wiki/index.php/2016/12/10/jscpwn/
+[ Browser ]  Alpha version of sandboxed Tor Browser released - http://bit.ly/2hm9uq4 https://t.co/dFhrmgwTEc
+﻿"Tor 技术专家发布了 Alpha 版的受沙箱保护的 Tor 浏览器，用于保护用户匿名性： https://t.co/yq9WFC4h8w https://t.co/dFhrmgwTEc"
+[ Browser ]  Bluetooth support for the Web. Web Bluetooth: https://webbluetoothcg.github.io/web-bluetooth/ https://www.w3.org/community/web-bluetooth/ https://t.co/24r6FSn03I
+﻿" Web Bluetooth API 草案规范发布︰ https://t.co/TrT9RGI0eF "
+[ Browser ]  初探 CSP Bypass： https://xianzhi.aliyun.com/forum/read/523.html
+[ Browser ]  Most fun exploit I ever wrote: [0day] [exploit] Redux: compromising Linux using SNES Ricoh 5A22 processor opcodes?! https://goo.gl/bwNwm2
+﻿"利用任天堂 SNES 攻破 Fedora 25 + Google Chrome： https://t.co/5aVNxI3vZP"
+[ Browser ]  UXSS on Microsoft Edge – Adventures in a Domainless World/Learn to find your own UXSS - Broken Browser https://www.brokenbrowser.com/uxss-edge-domainless-world/
+﻿"Microsoft Edge 浏览器在 about:blank 页面下的 UXSS：  https://t.co/VePidlgITi"
+[ Browser ]  [advisory] Microsoft Internet Explorer HyperlinkString Out-Of-Bounds Read Information Disclosure Vulnerability https://t.co/kNq78M6cAV
+﻿"Microsoft IE 浏览器 HyperlinkString 越界读信息泄漏漏洞（CVE-2016-7278）：  https://t.co/kNq78M6cAV"
+[ Browser ]  Project Zero guest blog post: "Chrome OS exploit: one byte overflow and symlinks" - https://googleprojectzero.blogspot.com/2016/12/chrome-os-exploit-one-byte-overflow-and.html
+﻿"Chrome OS 漏洞利用：DNS库中1个字节的溢出，来自 Project Zero： https://t.co/xd2x1PtBWV"
+[ Browser ]  ChakraCore Array.prototype.reverse CVE-2016-7202 漏洞的 Git 提交日志： https://github.com/Microsoft/ChakraCore/commit/fc7ea25190ecba4827f2e784e3788ef75909cc4a
+[ Browser ]  Chakra JIT CFG Mitigation Bypass http://theori.io/research/chakra-jit-cfg-bypass
+﻿"利用 Chakra JIT native code buffer 绕过 CFG： https://t.co/wpZ4IpmuBf"
+[ Browser ]  UXSS on Microsoft Edge – Adventures in a Domainless World（译）： http://paper.seebug.org/143/
+[ Browser ]  PoC for Microsoft Internet Explorer ‘DrawMultiple’ Memory Corruption Vulnerability (MS16-144) (CVE-2016-7283): https://t.co/Hscco5p7Fj
+﻿"Microsoft IE 'DrawMultiple' 内存破坏漏洞 (CVE-2016-7283) PoC: https://t.co/Hscco5p7Fj"
+[ Browser ]  Content Security Policy: Embedded Enforcement https://w3c.github.io/webappsec-csp/embedded/ via @ mikewest
+﻿"CSP新机制：嵌入式策略强制；新机制允许在 Web 页面中嵌入一个嵌套的浏览器 context，同时可强制执行一组指定的内容安全策略： https://t.co/Al4SQzPsSo "
+[ Browser ]  RedStar OS: Naenara Browser 3.5 exploit (JACKRABBIT) & others https://www.myhackerhouse.com/naenara-browser-3-5-exploit-jackrabbit/
+﻿"利用 CVE-2009-2477 黑掉朝鲜红星操作系统浏览器 Naenara ： https://t.co/gRd4eUAExB"
+[ Browser ]  Microsoft Edge: Uninitialized Memory in SIMD.toLocaleString https://bugs.chromium.org/p/project-zero/issues/detail?id=961
+﻿"Microsoft Edge SIMD.toLocaleString 未初始化内存调用（CVE-2016-7286）： https://t.co/xO5JbUeztj"
+[ Browser ]  A Collection of Javascript Engine Vulnerability Trigger PoCs https://github.com/tunz/js-vuln-db
+﻿" 三个 JS 引擎（JavaScriptCore、ChakraCore、V8）的多个漏洞 PoC 收集 ： https://t.co/LwGjLKEkE3"
+[ Browser ]  ?ChakraCore v1.4: • JIT on Mac & Linux • TTD • Async Functions • WebAssembly & SharedArrayBuffer (Exp) • More: https://github.com/Microsoft/ChakraCore/wiki/Release-Notes#v140
+﻿"ChakraCore v1.4 新版发布︰ https://t.co/LnrSM6Bn1g"
+[ Browser ]  从几个月之前的 48 版本开始，Firefox 就开始在小范围地推送多进程版本灰度测试，到目前的 50、51 版本，覆盖范围在一步步扩大。与此同时，从 50 版本开始，Firefox 也开始尝试引入 Sandbox 保护，先从 Windows 版本开始： https://blog.mozilla.org/futurereleases/2016/12/21/update-on-multi-process-firefox/
+[ Browser ]  Just released my @ Peach_Fuzzer pit for the HTTP/2 protocol targeting Microsoft Edge! https://github.com/sirusdv/EdgeHTTP2Fuzzer
+﻿"HTTP/2 Peach Pit for Microsoft Edge： https://t.co/onSh1dCz0R"
+[ Browser ]  如何用正确姿势挖掘浏览器漏洞（附完整 PPT）： http://www.leiphone.com/news/201612/YlysgkvgBbeBIkL9.html
+[ Browser ]  This sec-critical vuln seems to be fixed, double-free in Firefox JavaScript Engine (51) https://gist.github.com/revskills/3e6efaa8bd399a3de0ef99220cd4bde1 bz#1293258
+﻿"revskills 攻破 Firefox JS 引擎的 PoC： https://t.co/tfZJplnVT2 "
+[ Browser ]  How to bypass CSP nonces with DOM XSS ? http://sirdarckcat.blogspot.com/2016/12/how-to-bypass-csp-nonces-with-dom-xss.html
+﻿"如何利用 DOM XSS 绕过 CSP nonces： https://t.co/iH4tHievpi"
+[ Browser ]  Finally, a secure web browser for the enterprise: https://enterprise.google.com/chrome/chrome-browser/ (GPO policies are crucial for enterprise use).
+﻿"Google 推出企业版 chrome 浏览器： https://t.co/sbaX4M8K9Z 。"
+[ Browser ]  Understanding the Firefox fracas. @ iamwilliamwebb takes a look at the vuln and exploit: http://r-7.co/2ifd7vY
+﻿"Firefox 漏洞分析与利用，来自 Rapid7︰ https://t.co/PpsphozlVv"
+[ Browser ]  How to bypass CSP nonces with DOM XSS （译）： http://paper.seebug.org/166/
+[ Browser ]  The full list of CSP bypasses with all known vectors that came up during the recent discussions: http://sebastian-lekies.de/csp/bypasses.php
+﻿"CSP nonces 绕过合集︰ https://t.co/826WO8YSFd"
+[ Browser ]  [remote] - Microsoft Windows 10 Edge - 'chakra.dll' Info Leak / Type Confusion Remote Code Execution https://www.exploit-db.com/exploits/40990/
+﻿"Microsoft Windows 10 Edge 'chakra.dll'  信息泄漏与类型混淆漏洞结合导致远程代码执行(CVE-2016-7200、CVE-2016-7201)： https://t.co/pQF1TkSM8L"
+[ Browser ]  Reverse Engineering and things I don't want to forget: Building Webkit on Windows http://djmanilaice.blogspot.com/2017/01/building-webkit-on-windows.html?spref=tw
+﻿"Building Webkit on Windows： https://webkit.org/webkit-on-windows/"
+[ Browser ]  Brave Browser 1.2.16/1.9.56 - Address Bar URL Spoofing (iOS + Android) : https://www.exploit-db.com/exploits/40994/ cc @ aaditya_purani || @ thehackerledge
+﻿"Brave Browser 1.2.16/1.9.56 存在地址栏 URL 欺骗漏洞︰ https://t.co/mNM8yZAXSc "
+[ Browser ]  The Official Tor Browser For iOS Is Free To Use http://arstechnica.com/security/2017/01/tor-onion-browser-ios-vpn/
+﻿"iOS 版官方 Tor Browser 现在可以免费使用了： https://t.co/kKb4o0fR1r"
+[ Browser ]  JavaScript Regular Expressions are now 7-15% faster in V8. Updates &amp; tips on keeping your RegExps fast by @schuay https://t.co/RUhQOlpCyd ?
+﻿"V8 JavaScript 引擎提升了正则表达式的性能： https://t.co/RUhQOlpCyd "
+[ Browser ]  firejail 条件竞争本地 Root 提取漏洞： https://github.com/elttam/advisories/tree/master/firejail
+[ Browser ]  Recent publications on browser fingerprinting & protection: http://yinzhicao.org/TrackingFree/crossbrowsertracking_NDSS17.pdf at #ndss17 and https://www.datenzone.de/blog/wp-content/uploads/2016/10/Disguised-Chromium-Browser-Robust-Browser-Flash-and-Canvas-Fingerprinting-Protection.pdf from #wpes16
+﻿"跨浏览器指纹追踪技术（PDF）︰ https://t.co/DvPGMek2Wl   浏览器指纹防护技术（PDF）： https://t.co/sWRKFvCWMH "
+[ Browser ]  Execute millions of SQL statements in milliseconds in the browser with WebAssembly and Web Workers : https://medium.com/@ mikeptweet/execute-millions-of-sql-statements-in-milliseconds-in-the-browser-with-webassembly-and-web-workers-3e0b25c3f1a6#.3i59zl6xr
+﻿"通过  WebAssembly 和 Web Workers 可在浏览器中以毫秒级执行上百万条 SQL 语句︰ https://t.co/6lFSvpT0v5"
+[ Browser ]  Mozilla Firefox < 50.1.0 - Use After Free https://cxsecurity.com/issue/WLB-2017010092
+﻿"Mozilla Firefox < 50.1.0 UAF 漏洞（CVE-2016-9899）PoC： https://t.co/c6W3aJUfGn"
+[ Browser ]  基于内存漏洞的互联网与本地系统的跨界攻击: The “Web/Local” Boundary Is Fuzzy: https://www.inforsec.org/wp/?p=1741#more-1741
+[ Browser ]  在 Chrome 浏览器中，http-equiv 中的特殊非 ASCII 字符可能被当成正确的字符解析： https://bugs.chromium.org/p/chromium/issues/detail?id=678150
+[ Browser ]  Opera Presto 引擎源代码泄漏，Opera于2013年宣布放弃自家的布局引擎Presto，改用WebKit/Blink。Presto是Opera浏览器的核心引擎，被用于Opera 7到14，从Opera 15开始它就变成基于Google的Chromium开源浏览器。尽管被桌面版本所抛弃，但Presto引擎仍然被用于移动版本的Opera Mini 和 Opera Mobile。上周，未知人士将Presto引擎源代码上传到了两大代码托管平台 GitHub（404）和 Bitbucket（404），Opera迅速发出DMCA删除通知将代码下架： http://www.solidot.org/story?sid=51121 https://notabug.org/141243/presto
+[ Browser ]  BadBookmarklet： http://xlab.tencent.com/cn/2017/01/18/badbookmarklet/
+[ Browser ]  Bypass IE XSS filter for POST requests with any POST payload (it is not triggered at all). Of course PDF is used: https://t.co/AIBQqvyEOl
+﻿"利用 PDF 绕过 IE XSS 过滤器对 Post 数据的防御: https://t.co/AIBQqvyEOl"
+[ Browser ]  #chromium Mus window system overview: http://frederic-wang.fr/mus-window-system.html by Frederic Wang <fwang at igalia> (cc @ igalia @ ChromiumDev)
+﻿"让 Chromium 运行在 Ozone/Wayland 上： https://t.co/egtfLeKZxK "
+[ Browser ]  Security vulnerabilities fixed in Firefox 51 https://www.mozilla.org/en-US/security/advisories/mfsa2017-01/
+﻿" Firefox 浏览器 51 版本发布，修复的漏洞列表： https://t.co/JJXwbKweB3 "
+[ Browser ]  CVE-2016-5218 - Google Chrome Address Bar Spoof Writeup - http://leucosite.com/Chrome-Address-Bar-Spoof/
+﻿" Google Chrome 地址栏欺骗漏洞（CVE-2016-5218）分析： https://t.co/AtrSjO5gew"
+[ Browser ]  Browser Bug Hunting and Mobile (Fuzzing) Syscan360 http://slides.com/revskills/fzbrowsers#/1
+﻿"浏览器漏洞挖掘与手机 Fuzzing，来自 Syscan 360 会议： https://t.co/YHVbrMwe36"
+[ Browser ]  ZDI-17-054: Apple Safari SearchInputType Type Confusion Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-17-054/
+﻿"ZDI-17-054: Apple Safari SearchInputType Type Confusion Remote Code Execution Vulnerability： https://t.co/jmI1DR11ms"
+[ Browser ]  Chrome 56 released - 51 security fixes https://chromereleases.googleblog.com/2017/01/stable-channel-update-for-desktop.html?m=1
+﻿"Chrome 浏览器 56 版本发布，修复 51 个安全漏洞： https://t.co/jf6dh3dpLb"
+[ Browser ]  How to change Firefox’s Sandbox security level http://www.ghacks.net/2017/01/23/how-to-change-firefoxs-sandbox-security-level/
+﻿"如何修改 Firefox 沙箱的 Security Level： https://t.co/rbvsnl7igK"
+[ Browser ]  Apple WebKit: Type confusion in RenderBox with accessibility enabled https://bugs.chromium.org/p/project-zero/issues/detail?id=1038
+﻿" WebCore::AXObjectCache::gAccessibilityEnabed 启用时，WebKit RenderBox 存在一个类型混淆漏洞（CVE-2017-2373）： https://t.co/R3J3jFvXd1"
+[ Browser ]  Apple WebKit: Type confusion in HTMLKeygenElement https://bugs.chromium.org/p/project-zero/issues/detail?id=999
+﻿" Apple WebKit: Type confusion in HTMLKeygenElement（CVE-2017-2369）： https://t.co/KwI7aCz5Da "
+[ Browser ]  Also derestricted some other bugs: https://bugs.chromium.org/p/project-zero/issues/detail?id=994, 999 (userAgentShadowRoot fun, affecting both Blink and WebKit) and 1038.
+﻿" Google Chrome: Type confusion in HTMLKeygenElement::shadowSelect()，Chrome 55 版本已经修复该漏洞︰ https://t.co/ERxPwwO29I "
+[ Browser ]  Open-sourcing Chrome on iOS! https://blog.chromium.org/2017/01/open-sourcing-chrome-on-ios.html
+﻿"iOS 版本的 Chrome 开源了： https://t.co/FM6jnquzlJ"
+[ Browser ]  New paper: The journey and evolution of God Mode in 2016: CVE-2016-0189 https://www.virusbulletin.com/virusbulletin/2017/01/journey-and-evolution-god-mode-2016-cve-2016-0189/ https://t.co/2YR5NUxUdY
+﻿" 2016 年 'God Mode' 的演化历程︰ IE VBScript CVE-2016-0189： https://t.co/GWtAEgoGeH https://t.co/2YR5NUxUdY"
+[ Browser ]  Metasploit module for Cisco WebEx Chrome Extension Remote Command Execution http://t0s.me/2krq34X
+﻿" 用于攻击思科 WebEx Chrome 扩展的 Metasploit 模块，可实现远程命令执行： https://t.co/h3OaKP8yux"
+[ Browser ]  Chromium Internals - Lifetime of a navigation https://netsekure.org/2017/02/02/chromium-internals-lifetime-of-navigation/
+﻿" Chromium 浏览器导航的生命周期： https://t.co/f62F0w7aCc"
+[ Browser ]  Firefox 50.0.2 释放后重用漏洞分析（CVE-2016-9899）： http://whereisk0shl.top/firefox-uaf-cve-2016-9899-fck-rop-gadget.html
+[ Browser ]  IE11 UXSS / SOP bypass - Abusing of the ActiveXObject to access content across domains without restrictions.… https://t.co/KWjyv4XmW6
+﻿"IE11 UXSS / SOP 绕过，利用 ActiveXObject 跨域访问资源： https://t.co/KWjyv4XmW6"
+[ Browser ]  V8 5.7 news! ? ES2017 async functions now as fast as Promises ⚡️⚡️ Promises perf doubled ? 15% faster RegExp… https://t.co/LbQAIdo4tu
+﻿"V8 JavaScript Engine 5.7 版本发布： https://t.co/LbQAIdo4tu"
+[ Browser ]  攻击JavaScript引擎：一个JavaScriptCore的学习案例(CVE-2016-4622 (2016-10-27))： http://paper.seebug.org/207/#0-tsina-1-37955-397232819ff9a47a7b7e80a40613cfe1 另一篇相关文章： http://drops.wiki/index.php/2016/12/10/jscpwn/
+[ Browser ]  2016 年 WebKit（WebKitGTK+）在安全性方面的一些变化： https://blogs.gnome.org/mcatanzaro/2017/02/08/an-update-on-webkit-security-updates/
+[ Browser ]  Microsoft Edge: Use-after-free in TypedArray.sort https://bugs.chromium.org/p/project-zero/issues/detail?id=983
+﻿"Edge 浏览器 TypedArray.sort 中的 UAF 漏洞（CVE-2016-7288）： https://t.co/0ldeKjlai2"
+[ Browser ]  Chrome OS Security Guide https://www.youtube.com/watch?v=maCSmdy3an4
+﻿"Chrome OS 安全指南（video）： https://t.co/McY9fOlloS"
+[ Browser ]  (Cross-)Browser Fingerprinting via OS and Hardware Level Features : http://yinzhicao.org/TrackingFree/crossbrowsertracking_NDSS17.pdf (pdf) ,Github : https://github.com/Song-Li/cross_browser
+﻿"通过操作系统和硬件等级进行跨浏览器指纹识别︰ https://t.co/OvOcKoL0Ia，Github: https://t.co/uHXtWER9Sa"
+[ Browser ]  New blog post: Decoding Chrome's HTTPS UX: https://noncombatant.org/2017/02/15/decoding-chromes-https-ux/
+﻿" Chrome 浏览器与 HTTPS、SSL、证书安全相关的用户体验问题: https://t.co/WKGvs7MYB4"
+[ Browser ]  Web Inspector JavaScript Debugger has better stepping, breakpoints, async call stacks, and new Web Worker support!… https://twitter.com/i/web/status/831941571608248321
+﻿" WebKit 的 JavaScript 调试器在单步调试、断点处理、异步调用栈分析等方法有了改进：  https://t.co/ZeQgttuk9z"
+[ Browser ]  Chrome: bypass for download filetype blacklist, extension->native privesc https://bugs.chromium.org/p/project-zero/issues/detail?id=1000
+﻿"Chrome 浏览器 Linux 桌面版下载文件类型黑名单绕过漏洞，一个恶意的 Chrome 扩展可以借此实现 Native 代码执行能力： https://t.co/pp7DM7jXwV"
+[ Browser ]  IE11 and the attack of the zombies. https://www.brokenbrowser.com/zombie-alert/ Persistent script that runs *even* after the user lef… https://twitter.com/i/web/status/833691414185771011
+﻿"IE11 和僵尸 alert： https://t.co/jg0SJkjeTe  https://t.co/MQijGnBCHm"
+[ Browser ]  Fingerprinting Firefox users with cached intermediate CA certificates. #fiprinca https://shiftordie.de/blog/2017/02/21/fingerprinting-firefox-users-with-cached-intermediate-ca-certificates-fiprinca/ https://t.co/LfRKAu3tbI
+﻿"利用缓存的中间 CA 证书为 Firefox 用户建立指纹信息： https://t.co/6FQlN4ANlT https://t.co/LfRKAu3tbI"
+[ Browser ]  BeEF now supports persistent hooking in IE 11 using an invisible HTMLFile ActiveX object https://github.com/beefproject/beef/pull/1364 @ beefproject @ MagicMac2000
+﻿"浏览器利用框架 BeEF 支持利用不可见的 HTMLFile ActiveX 对象 Hook IE 11 了： https://t.co/aR2oIBqAqi "
+[ Browser ]  Google Chrome: out-of-bound read in layout https://bugs.chromium.org/p/project-zero/issues/detail?id=1024
+﻿"Chrome 浏览器 layout 过程中的一个越界读漏洞： https://t.co/wT6EkKwPEc"
+[ Browser ]  Apple WebKit: UXSS via Frame::setDocument https://bugs.chromium.org/p/project-zero/issues/detail?id=1057
+﻿" WebKit Frame::setDocument UXSS（CVE-2017-2365）： https://t.co/Hh7zR95X6B"
+[ Browser ]  Apple WebKit: Bypass pop-up blocker via cross-origin or sandboxed iframe. https://bugs.chromium.org/p/project-zero/issues/detail?id=1050
+﻿" 通过跨域或者 sandboxed iframe 绕过 WebKit 的弹框屏蔽器（pop-up blocker）（CVE-2017-2371），漏洞发现者为 lokihardt： https://t.co/5bCgxdcJKm"
+[ Browser ]  Apple WebKit: UXSS via FrameLoader::clear https://bugs.chromium.org/p/project-zero/issues/detail?id=1049
+﻿" WebKit FrameLoader::clear UXSS（CVE-2017-2363）： https://t.co/tJMkB8yx83"
+[ Browser ]  Edge adds the option for mandatory code signing enforcement and blocking of new executable pages. Killer with cfg. https://t.co/jcMKdehjGw
+﻿"微软安全团队在缓解 Edge浏览器 Native 代码执行方面是如何考虑及实施的： https://t.co/jcMKdehjGw"
+[ Browser ]  Microsoft Edge and IE: Type confusion in HandleColumnBreakOnColumnSpanningElement https://bugs.chromium.org/p/project-zero/issues/detail?id=1011
+﻿"Microsoft Edge 及 IE 浏览器 HandleColumnBreakOnColumnSpanningElement 中存在类型混淆漏洞（CVE-2017-0037）： https://t.co/Wxy5Ua11Nh"
+[ Browser ]  Microsoft Edge and Internet Explorer 'HandleColumnBreakOnColumnSpanningElement' Type Confusion CVE-2017-0037 PoC https://www.exploit-db.com/exploits/41454/
+﻿"Microsoft Edge 及 IE'HandleColumnBreakOnColumnSpanningElement' 类型混淆漏洞（CVE-2017-0037） PoC： https://t.co/tjr2ZQKUJ3"
+[ Browser ]  FireFox RCE by chaining small bugs - Write up - http://leucosite.com/FireFox-RCE/
+﻿"组合四个小 bug 实现 FireFox RCE： https://t.co/1kyC6eIwxg"
+[ Browser ]  Chrome 和 Edge 浏览器在内存安全防护上的比较，背后是隔离机制与缓解措施的比较： https://medium.com/@justin.schuh/securing-browsers-through-isolation-versus-mitigation-15f0baced2c2#.d43zzgbsr
+[ Browser ]  Hunting bugs in the Microsoft Edge Script Engine : https://recon.cx/2017/brussels/resources/slides/RECON-BRX-2017-Your_Chakra_Is_Not_Aligned.pdf (Slides) cc @ natashenka #reconbrx
+﻿"Microsoft Edge 脚本引擎 Chakra 的漏洞挖掘，来自 RECON BRX 2017: https://t.co/iGeaGPaUzt "
+[ Browser ]  Mozilla Firefox: use-after-poison in nsStylePadding::GetPadding https://bugs.chromium.org/p/project-zero/issues/detail?id=1135
+﻿"Mozilla Firefox 浏览器 nsStylePadding::GetPadding：:GetPaddin 中存在 use-after-poison 漏洞： https://t.co/t7gtuwwB35 "
+[ Browser ]  攻击JavaScript引擎： http://bbs.pediy.com/thread-215671.htm
+[ Browser ]  Security vulnerabilities fixed in Firefox 52 https://www.mozilla.org/en-US/security/advisories/mfsa2017-05/
+﻿"Firefox 52 中修复的漏洞： https://t.co/BvMjhAptNu "
+[ Browser ]  Here are the release notes for today’s Safari Technology Preview release 25 update. https://webkit.org/blog/7432/release-notes-for-safari-technology-preview-25/ https://t.co/LpAlZA6G6Y
+﻿" Safari 技术预览版25发布报告： https://t.co/uL5RD4G7MS "
+[ Browser ]  0patching another 0-day: Internet Explorer 11 Type Confusion (CVE-2017-0037) http://0patch.blogspot.com/2017/03/0patching-another-0-day-internet.html
+﻿"0patching 团队为前两周 IE HandleColumnBreakOnColumnSpanningElement 类型混淆漏洞（CVE-2017-0037）生成了一个第三方补丁：： https://t.co/8crPfJ967k"
+[ Browser ]  Chrome 57 security fixes https://chromereleases.googleblog.com/2017/03/stable-channel-update-for-desktop.html
+﻿"Chrome 发布 57 版本稳定版（57.0.2987.98），本次更新修复了多个漏洞： https://t.co/Ut2IWPsXD2"
+[ Browser ]  WebKit JS exploit used for iOS 9.3.3 jailbreak / Nintendo Switch(CVE-2016-4657/Demo): https://www.youtube.com/watch?v=xkdPjbaLngE , PoC: https://github.com/LiveOverflow/lo_nintendoswitch/blob/master/poc1.html
+﻿"任天堂 Switch 和 iOS 9.3 共同点在哪里？一起走进 CVE-2016-4657: https://t.co/J2tgiraDPW  PoC: https://t.co/ZkUXltO40r"
+[ Browser ]  Microsoft Edge Fetch API allows setting of arbitrary request headers https://goo.gl/fb/c8Kmng #FullDisclosure
+﻿"Microsoft Edge Fetch API 允许设置任意请求头可绕过SOAP限制（CVE-2017-0140）： https://t.co/PverQW0xHd 漏洞细节： https://www.securify.nl/advisory/SFY20170101/microsoft_edge_fetch_api_allows_setting_of_arbitrary_request_headers.html"
+[ Browser ]  URL spoofing in UC browser. https://goo.gl/fb/S2d3BM #FullDisclosure
+﻿"Android 版 UC 浏览器中的存在 URL 欺骗： https://t.co/clUZfnayrS "
+[ Browser ]  Microsoft Edge: Chakra incorrect jit optimization with TypedArray setter. https://bugs.chromium.org/p/project-zero/issues/detail?id=1045
+﻿"Microsoft Edge Chakra TypedArray setter JIT 优化过程不正确导致的类型混淆漏洞（CVE-2017-0071）： https://t.co/G8M4QaPwww"
+[ Browser ]  Microsoft Edge: Undefined behavior on some getters https://bugs.chromium.org/p/project-zero/issues/detail?id=1043
+﻿"Edge 一些 getters 未定义行为触发的 UAF（CVE-2017-0070）： https://t.co/VsHJ9LiOLU"
+[ Browser ]  MS Edge (Again): Spoofing the Address-bar thanks to SmartScreen Malware Warning. https://www.brokenbrowser.com/bypass-the-patch-to-keep-spoofing-the-address-bar-with-the-malware-warning/ [ Bypass… https://twitter.com/i/web/status/842129410606129155
+﻿"利用 Edge 浏览器的恶意软件警告页面实现地址栏欺骗，虽然微软已经发补丁修复这个问题，但这篇 Blog 介绍如何 Bypass 这个补丁： https://t.co/jmuuxD3dSe "
+[ Browser ]  CVE-2017-0042 - IE11 Local folder/file detection PoC - http://pastebin.com/raw/Eztknq4s - ft. @ shhnjk
+﻿"IE 11 探测本地文件的 PoC（CVE-2017-0042）： https://t.co/aD0xIBZ98W"
+[ Browser ]  AngularJS 1.6.3 also fixes a universal CSP bypass via add-on in Firefox: Context: https://github.com/mozilla/addons-linter/issues/1000#issuecomment-282083435 Attack: http://pastebin.com/raw/kGrdaypP
+﻿"Angular 1.5.8 的 Bug，可以被用于 Bypass CSP︰ https://t.co/yk8ftr4IRv  Attack︰ https://t.co/RdOj1AMnaU"
+[ Browser ]  Bad SSL : https://badssl.com/
+﻿"用于检测浏览器对 SSL 加密套件支持情况的一个网站: https://t.co/mf2rL1FwGH"
+[ Browser ]  More browser hacking: exploiting a cross-mmap overflow in #Firefox https://saelo.github.io/posts/firefox-script-loader-overflow.html
+﻿"深入分析 CVE-2016-9066: 在 Firefox 中利用跨 mmap 溢出： https://t.co/FP1yfpupoM "
+[ Browser ]  CVE-2017-0037 IE11&Edge Type Confusion 从 PoC 到半个 Exploit： http://paper.seebug.org/251/#0-tsina-1-66632-397232819ff9a47a7b7e80a40613cfe1
+[ Browser ]  patch for firefox renderer exploit -> https://github.com/mozilla/gecko-dev/commit/557f236c19730116d3bf53c0deef36362cafafcd #Pwn2Own
+﻿"Firefox 52.0.1 修复了长亭科技在 PWN2OWN 2017 比赛中使用的漏洞： https://t.co/n7l5s5noQm "
+[ Browser ]  Mozilla Firefox: table use-after-free https://bugs.chromium.org/p/project-zero/issues/detail?id=1130
+﻿"Firefox 52 版本修复的一个 Table UAF 漏洞 （CVE-2017-5404）： https://t.co/ynfmCw07uT"
+[ Browser ]  Firefox nsScriptLoadHandler 整数溢出导致的缓冲区溢出漏洞（CVE-2016-9066）: https://www.seebug.org/vuldb/ssvid-92794#0-tsina-1-33549-397232819ff9a47a7b7e80a40613cfe1
+[ Browser ]  SOP bypass/ UXSS on IE – 无域世界的新冒险： http://paper.seebug.org/254/
+[ Browser ]  Here are the release notes for today’s Safari Technology Preview release 26 update. https://webkit.org/blog/7474/release-notes-for-safari-technology-preview-26/ https://t.co/Rm6de0MJ8z
+﻿"最新的 Safari 技术预览版 26 发布： https://t.co/rzvM6xnuje "
+[ Browser ]  I published the advisory for Heap Overflow in Google Chrome's PDFium http://payatu.com/bounds-write-heap-buffer-google-chrome-pdfium/
+﻿"Google Chrome 54.0.2840.99 PDFIUM 的一个堆越界写漏洞，成功利用可以实现任意代码执行： https://t.co/XSTKX9bZOF "
+[ Browser ]  Great attack surface reduction for the Microsoft Edge sandbox in the upcoming Creators Update https://twitter.com/MSEdgeDev/status/844957192818110464
+﻿"微软发了一篇新 Blog，谈即将发布的 Windows 10 Creators 中 Edge 沙箱所做的防御改进措施： https://blogs.windows.com/msedgedev/2017/03/23/strengthening-microsoft-edge-sandbox/  "
+[ Browser ]  How the V8 javascript engine garbage collection works. V8 is used by Chrome and nodejs - http://bit.ly/2nRTteQ #web #javascript
+﻿"V8 引擎的垃圾回收机制介绍： https://t.co/MHZdkBirEB "
+[ Browser ]  IE浏览器漏洞综合利用技术：堆喷射技术： http://bobao.360.cn/learning/detail/3656.html
+[ Browser ]  Safari Browser: Builtin JavaScript allows Function.caller to be used in strict mode https://bugs.chromium.org/p/project-zero/issues/detail?id=1032
+﻿"Safari 浏览器 Builtin JS 允许在 strict mode 下使用 Function.caller（CVE-2017-2446），这样一些敏感的 API 可以被直接调用： https://t.co/zZIUUI2B94"
+[ Browser ]  Safari Browser: Out-of-bounds read when calling bound function https://bugs.chromium.org/p/project-zero/issues/detail?id=1033
+﻿"Safari Browser: Out-of-bounds read when calling bound function（CVE-2017-2447）： https://t.co/J1mQMsuSsM"
+[ Browser ]  MS Edge Referrer Spoof - How to spoof the referrer even after MS patch. ?(also, inject an iframe everywhere) ?… https://t.co/k8iamKdlfp
+﻿"利用 iframe 注入的方法欺骗 Edge Referer，这篇 Blog 是对之前补丁的绕过： https://www.brokenbrowser.com/referer-spoofing-patch-bypass         Seebug 的翻译： http://paper.seebug.org/258/#0-tsina-1-52849-397232819ff9a47a7b7e80a40613cfe1 "
+[ Browser ]  Safari 浏览器 DateTimeFormat.format 中的一个类型混淆漏洞（CVE-2017-2446）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1036
+[ Browser ]  interesting presentation: https://www.blackhat.com/docs/asia-17/materials/asia-17-Li-Cross-The-Wall-Bypass-All-Modern-Mitigations-Of-Microsoft-Edge.pdf
+﻿" Bypass Edge 浏览器所有的利用缓解措施，来自 BlackHat Asia 会议的演讲︰ https://t.co/qlUq8zamZp"
+[ Browser ]  Test Edge for free via BrowserStack, including WebDriver support for automated testing https://blogs.windows.com/msedgedev/2017/03/30/free-edge-testing-browserstack/ Great for Mac-based devs
+﻿"微软和 BrowserStack 合作，为广大用户提供 Edge 浏览器的自动化测试支持，可以通过编写脚本快速实现： https://t.co/F1iwWwSunf "
+[ Browser ]  ZDI-17-241: Apple Safari RenderBox Use-After-Free Remote Code Execution Vulnerability http://www.zerodayinitiative.com/advisories/ZDI-17-241/
+﻿"ZDI-17-241 - Safari RenderBox UAF RCE（CVE-2017-2463），该漏洞由玄武实验室 Kai Kang 发现： https://t.co/6vFGzkbPrg"
+[ Browser ]  MS Edge - Defeating the popUp blocker, the XSS filter and SuperNavigate with our fake ticket to the Intranet Zone ?… https://twitter.com/i/web/status/847891250288222209
+﻿" Edge 浏览器中，不带 . 的 URL 会被当作 Intranet 域渲染，利用这个特性，这篇 Blog 介绍如何 Bypass 弹框禁止、XSS Filter 等保护： https://twitter.com/i/web/status/847891250288222209  https://www.brokenbrowser.com/free-ticket-to-the-intranet-zone/ "
+[ Browser ]  Want to Make ActiveX Great Again on Edge? https://www.blackhat.com/docs/asia-17/materials/asia-17-Sun-The-Power-Of-Data-Oriented-Attacks-Bypassing-Memory-Mitigation-Using-Data-Only-Exploitation-Technique.pdf.
+﻿" 数据攻击的威力 - 利用 Data-Only 技术突破内存利用缓解措施，来自 McAfee 研究员在 BlackHat Asia 会议的演讲：  https://t.co/UmBsVkPktv。"
+[ Browser ]  Webkit bug derestriction time, https://bugs.chromium.org/p/project-zero/issues/detail?id=1080, 1082, 1087, 1090, 1097, 1105, 1114
+﻿"WebKit: HTMLInputElement UAF（CVE-2017-2454）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1080"
+[ Browser ]  Here are the release notes for today’s Safari Technology Preview release 27 update. https://webkit.org/blog/7497/release-notes-for-safari-technology-preview-27/ https://t.co/vyZziFTE9v
+﻿"Safari 技术预览版 27 发布： https://webkit.org/blog/7497/release-notes-for-safari-technology-preview-27/"
+[ Browser ]  Microsoft Edge - Detecting Installed Extensions from JS A generic method that works without manifest cooperation. ?… https://twitter.com/i/web/status/850012348412833792
+﻿"有效检测 Microsoft Edge 浏览器已安装的应用： https://www.brokenbrowser.com/microsoft-edge-detecting-installed-extensions/"
+[ Browser ]  WebKitGTK+ Security Advisory WSA-2017-0003 https://webkitgtk.org/security/WSA-2017-0003.html
+﻿"WebKit 的全功能移植版版本 - WebKitGTK+ 昨天发布安全漏洞公告，本次修复了 30 多个漏洞： https://t.co/MrGNCPhAtc"
+[ Browser ]  qwertyoruiopz PS4 4.0x WebKit Exploit Writeup： https://github.com/Cryptogenic/Exploit-Writeups/blob/master/PS4/4.0x%20WebKit%20Exploit%20Writeup.md
+[ Browser ]  Part 2 of the BrowserGather project is out, for fileless Chrome cookie extraction with PowerShell. Check it out! https://t.co/7RadNW96Bs
+﻿" 浏览器信息收集 part 2: 利用 PowerShell 无文件读取 Chrome Cookie： https://t.co/7RadNW96Bs  part 1： http://sekirkity.com/browsergather-part-1-fileless-chrome-credential-extraction-with-powershell/"
+[ Browser ]  Edge 15 now supports CSP 2 https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/9163354-content-security-policy-level-2
+﻿"Microsoft Edge 15 现在开始支持 CSP 2 （Content Security Policy Level 2）了：  https://t.co/nwqDv9d3Xg"
+[ Browser ]  之前 IE 11 中虽然禁用了 VBScript，但因为兼容性，仍然可以通过网页兼容模式打开下启用。而这次更新，增加了一个完全禁用的选项： https://blogs.windows.com/msedgedev/2017/04/12/disabling-vbscript-execution-in-internet-explorer-11/#IqqfLpJt5v8Th67x.97
+[ Browser ]  Chrome 59 has cross-platform headless support : https://www.chromestatus.com/features/5678767817097216
+﻿"Chrome 59 已支持 headless 模式︰ https://t.co/Yrv3HGPsdW"
+[ Browser ]  ChakraCore 的秘密，来自 360 两位研究员在 HITB 会议的演讲，介绍了他们在 ChakraCore 中挖掘漏洞的经验以及漏洞利用的技巧： http://conference.hitb.org/hitbsecconf2017ams/materials/D1T2%20-%20Linan%20Hao%20and%20Long%20Liu%20-%20The%20Secret%20of%20ChakraCore.pdf
+[ Browser ]  HTTP 响应中如果 Content-Type 修改为 image/jpeg，而传输的是脚本。Firefox 和 Chrome 将不会执行脚本内容，但是 IE/Edge/Safari 会正常执行： https://twitter.com/ericlaw/status/852243435591417856 测试页：https://bayden.com/test/mime/script.asp
+[ Browser ]  input 标签 webkitdirectory 属性相关的跨浏览器本地文件泄露漏洞： http://leucosite.com/Chrome-Firefox-Edge-Local-File-Disclosure/
+[ Browser ]  MS Edge - SOP bypass abusing of the reading mode view. Spoof the user! Courtesy of the read: pseudo-protocol ??… https://twitter.com/i/web/status/853943139626831873
+﻿"利用 Edge 浏览器的阅读模式( read: 伪协议)实现地址栏欺骗，然后进一步利用 <object data:> 实现完整的页面伪造： https://www.brokenbrowser.com/sop-bypass-abusing-read-protocol/"
+[ Browser ]  Phishing with Unicode Domains - https://www.xudongz.com/blog/2017/idn-phishing/
+﻿"Unicode 特殊字符与 URL 结合带来的地址栏欺骗问题，影响 Firefox 浏览器： https://t.co/bn9dMG0L1t"
+[ Browser ]  Mozilla kills Firefox Aurora channel, builds will move directly from Nightly to Beta https://venturebeat.com/2017/04/17/mozilla-kills-firefox-aurora-channel-builds-will-move-directly-from-nightly-to-beta/
+﻿"Firefox 将不再有 Aurora 版，以后会直接从 Nightly 版本到 Beta 版本。之前 Aurora 版本会包含所有标记 'experimental' 的特性：  https://t.co/EV8kVZf5Nz"
+[ Browser ]  Attacking Microsoft Edge to identify users by leaking URLs from Fetch requests http://mov.sx/2017/04/16/microsoft-edge-leaks-url.html
+﻿"在 Microsoft Edge 中通过 Fetch 请求来泄露 URLs 以识别用户： https://t.co/amoyawDusP"
+[ Browser ]  Apple WebKit: UXSS via PrototypeMap::createEmptyStructure https://bugs.chromium.org/p/project-zero/issues/detail?id=1084
+﻿"Apple WebKit: UXSS via PrototypeMap::createEmptyStructure ： https://t.co/4bsgFOwjYe"
+[ Browser ]  Modernizing the DOM tree in Microsoft Edge: https://blogs.windows.com/msedgedev/2017/04/19/modernizing-dom-tree-microsoft-edge/
+﻿"《DOM 树的与时俱进》，DOM 是 Web 浏览器的基础，微软官方这篇 Blog 介绍从 IE 到 Edge DOM 实现上的改进，这些改进大大的提高了 DOM 的处理性能︰ https://t.co/AFrOaj8JvN"
+[ Browser ]  The ECMA and The Chakra http://conference.hitb.org/hitbsecconf2017ams/materials/CLOSING%20KEYNOTE%20-%20Natalie%20Silvanovich%20-%20The%20ECMA%20and%20The%20Chakra.pdf #ExploitDev #Hacking #InfoSec @ MicrosoftEdge https://t.co/bHPbqdAhza
+﻿"关于 ECMA 标准和 Chakra 引擎的漏洞挖掘，来自 Project Zero 的 natashenka 在 HITB AMS 2017 会上的演讲： https://t.co/RsjKbS6PkG "
+[ Browser ]  Safari Browser: Memory corruption in Array concat https://bugs.chromium.org/p/project-zero/issues/detail?id=1095
+﻿" Safari Browser Array.concat 方法中越界的内存拷贝可导致内存破坏（CVE-2017-2464）： https://t.co/nx6YKwNUwJ "
+[ Browser ]  Discontinuing the hardened Tor Browser series https://blog.torproject.org/blog/discontinuing-hardened-tor-browser-series
+﻿"TOR 官方表示将停止发布 "安全增强版"的 TOR 浏览器 ： https://t.co/AaCpyBWlJb"
+[ Browser ]  Garbage collection in V8, an illustrated guide: https://github.com/lrlna/sketchin/blob/master/guides/garbage-collection-in-v8.md
+﻿"图解 v8 引擎的垃圾回收机制︰ https://t.co/mpzc8YekTq"
+[ Browser ]  SOP bypass / UXSS – Tweeting like Charles Darwin (Edge) - Broken Browser https://www.brokenbrowser.com/sop-bypass-uxss-tweeting-like-charles-darwin/
+﻿" domainless about:blanks + data/meta 实现的 SOP Bypass： https://t.co/YoH7letU1d"
+[ Browser ]  Microsoft IE: Memory corruption in CStyleSheetArray::BuildListOfMatchedRules https://bugs.chromium.org/p/project-zero/issues/detail?id=1118
+﻿"Microsoft IE 11.576.14393.0 CStyleSheetArray::BuildListOfMatchedRules 内存破坏漏洞（CVE-2017-0202）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1118"
+[ Browser ]  See what we've been up to in Chrome Security in Q1! https://groups.google.com/a/chromium.org/d/msg/security-dev/tIlW-LN-X1I/vvnK3fxqAgAJ
+﻿" Chrome 的安全团队对一季度 Chrome 浏览器安全相关动态的回顾，除了常规的漏洞修复，还有 CFG 启用、CSP、Site Isolation： https://t.co/6I5b7c4DsY   关于 Site Isolation，Chromium 的有专门文档介绍：  https://www.chromium.org/developers/design-documents/site-isolation "
+[ Browser ]  Getting Started With Headless Chrome : https://developers.google.com/web/updates/2017/04/headless-chrome cc @ ebidel
+﻿"命令行环境下的 Chrome 使用入门 ： https://developers.google.com/web/updates/2017/04/headless-chrome"
+[ Browser ]  We're now migrating Chrome users from 32-bit to 64-bit if their system can support it. #security #stability #speed https://chromereleases.googleblog.com/2017/05/stable-channel-update-for-desktop.html
+﻿"Chrome 更新 58.0.3029.96 版本，修复了一个 WebRTC 条件竞争高危漏洞（CVE-2017-5068）： https://chromereleases.googleblog.com/2017/05/stable-channel-update-for-desktop.html "
+[ Browser ]  I wrote "Exploiting MS16-145: MS Edge TypedArray.sort UAF (CVE-2016-7288)", involving Quicksort, COOP and more http://blog.quarkslab.com/exploiting-ms16-145-ms-edge-typedarraysort-use-after-free-cve-2016-7288.html
+﻿"2 月份，Project Zero 公开了一个 ChakraCore TypedArray.sort 的 UAF 漏洞，Quarkslab 这篇 Blog 介绍如何修改 PoC 才能强制漏洞对象的释放稳定 Crash，之后继续介绍如何借助 WebGL 获得读写能力，最终利用 COOP 技术 Bypass CFG 实现代码执行： http://blog.quarkslab.com/exploiting-ms16-145-ms-edge-typedarraysort-use-after-free-cve-2016-7288.html "
+[ Browser ]  We just released the first part of our pwn2own writeup series! :) https://twitter.com/phoenhex/status/860184736056176641
+Pwn2Own 2017 Samuel Groß 攻击 Safari 所使用的 WebKit JSC::CachedCall UAF 漏洞的分析（CVE-2017-2491），这是个系列文章，将会完整介绍他们从 WebKit UAF 到 MacBook Pro Root 提权的过程，今天是第一篇： https://phoenhex.re/2017-05-04/pwn2own17-cachedcall-uaf
+[ Browser ]  [blog] [1day] Ode to the use-after-free: one vulnerable function, a thousand possibilities: https://scarybeastsecurity.blogspot.com/2017/05/ode-to-use-after-free-one-vulnerable.html https://t.co/5NyLySbP5C
+" 唱给 UAF 的赞歌：WebKit Array.sort() UAF 漏洞的分析和利用（CVE-2012-3748），该漏洞曾被用于 Mobile Pwn2Own 2012，来自 Chris Evans： https://scarybeastsecurity.blogspot.com/2017/05/ode-to-use-after-free-one-vulnerable.html "
+[ Browser ]  Detecting and defeating browser spoofing : https://browserprint.info/blog/defeatingSpoofing
+" 检测与防御浏览器的指纹欺骗： https://browserprint.info/blog/defeatingSpoofing "
+[ Browser ]  MS Edge - Spoofing the Malware Page was patched today *and bypassed* again. Spoof the user again! (1 byte change) ?… https://twitter.com/i/web/status/862063751742337024
+" Edge 浏览器 SmartScreen 警告页欺骗，可以绕过今天的补丁： https://www.cracking.com.ar/demos/edgesmartscreen/patch-bypass-2.html "
+[ Browser ]  Details of CVE-2016-9066 exploitation: a Cross-mmap Overflow in Firefox: https://saelo.github.io/posts/firefox-script-loader-overflow.html
+" CVE-2016-9066 漏洞分析： Firefox 中的 Cross-mmap 溢出的漏洞： https://t.co/m5dtryqb9p "
+[ Browser ]  Chrome 浏览器对于扩展的处理一直有个例外情况，扩展（extensions）内嵌的 iframe 会和扩展同属一个进程，所以 iframe 的漏洞将导致特权 API 的泄露。为了解决这个问题，Chrome 56 决定将扩展内嵌 iframe 隔离到独立进程渲染： https://blog.chromium.org/2017/05/improving-extension-security-with-out.html
+[ Browser ]  SOP bypass / UXSS – Stealing Credentials Pretty Fast (Edge) - Broken Browser https://www.brokenbrowser.com/sop-bypass-uxss-stealing-credentials-pretty-fast/
+" SOP BYPASS / UXSS –  偷 Edge 浏览器用户的 Twitter/Facebook 密码： https://www.brokenbrowser.com/sop-bypass-uxss-stealing-credentials-pretty-fast/ "
+[ Browser ]  Firefox 53 & Edge 40 Browsers CSP Bypass https://www.n0tr00t.com/2017/05/10/Firefox-and-Edge-Browsers-CSP-Bypass.html
+" Firefox53 & Edge40 Browsers CSP Bypass PoC： https://www.n0tr00t.com/2017/05/10/Firefox-and-Edge-Browsers-CSP-Bypass.html "
+[ Browser ]  Pwn2Own 2017 再现上帝之手，来自腾讯湛泸实验室在 Pwn2Own 2017 比赛中利用 DVE 技术成功利用 Edge 漏洞(ArrayBuffer)的细节(CVE-2017-0234/0236)： http://weibo.com/ttarticle/p/show?id=2309404105928097034074
+[ Browser ]  深入理解 EdgeHTML 渲染引擎的攻击面及其防护，原文来自 IBM X-Force 团队 Mark Vincent Yason 在 BlackHat 2015 会议的演讲，本文是来自知道创宇 xd0ol1 的翻译： http://paper.seebug.org/300/
+[ Browser ]  Exploiting the unexploitable with lesser known browser tricks : https://speakerdeck.com/filedescriptor/exploiting-the-unexploitable-with-lesser-known-browser-tricks (Slides) cc @ filedescriptor
+" 利用鲜为人知的浏览器小技巧实现 X-Frame-Options 相关 Web 漏洞的利用 ，来自Appsec EU 2017： https://speakerdeck.com/filedescriptor/exploiting-the-unexploitable-with-lesser-known-browser-tricks "
+[ Browser ]  About the security content of Safari 10.1.1 https://support.apple.com/en-us/HT207804
+" Safari 10.1.1 安全更新内容：  https://support.apple.com/en-us/HT207804 "
+[ Browser ]  The tl;dr here is: smaller memory footprint, better real-world perf, and some nice JIT security improvements. https://v8project.blogspot.de/2017/05/launching-ignition-and-turbofan.html
+" V8 从 5.9 版本开始将切换至 Ignition 解释器和 TurboFan 编译器，性能将有重大提升，以前的 Full-codegen 和 Crankshaft 编译器很快就会被移除：  https://v8project.blogspot.com/2017/05/launching-ignition-and-turbofan.html "
+[ Browser ]  Unpatched Mozilla Firefox v50 - v55 Stack Overflow DoS Vulnerability https://goo.gl/fb/j1YsBw #FullDisclosure
+" Mozilla Firefox v50 - v55 存在栈溢出漏洞： http://seclists.org/fulldisclosure/2017/May/62?utm_source=feedburner&utm_medium=twitter&utm_campaign=Feed%3A+seclists%2FFullDisclosure+%28Full+Disclosure%29 "
+[ Browser ]  IE11 - popUp blocker bypass - Combined with zombie alerts? popUps from everywhere! https://www.cracking.com.ar/demos/iepopups/ Video:… https://twitter.com/i/web/status/865198883563032576
+" IE 11 popUp blocker Bypass PoC： https://twitter.com/i/web/status/865198883563032576 "
+[ Browser ]  Firefox 的这个 button 特性也许可以被用来 Bypass WAF：<button onauxclick=alert(1)>Right-Click Me</button>： https://twitter.com/0x6d6172696f/status/865092205182152705
+[ Browser ]  Blogged! IE/EdgeのXSSフィルターバイパスについて書きました。かなり有用なベクターです。あわせてXSSフィルターバイパスチートシートのIE/Edge版も公開しました！ http://masatokinugawa.l0.cm/2017/05/xss14.html https://t.co/oXXWYY9dcs
+" IE/EDGE XSS filter PoC（日文）： http://masatokinugawa.l0.cm/2017/05/xss14.html "
+[ Browser ]  Chrome CDM框架重大缺陷，DRM视频轻易复制。通过一些手段就可以轻松绕过DRM保护机制，从而把视频重新封装为未压缩的MP4等格式文件 ： http://www.52pojie.cn/thread-609243-1-1.html
+[ Browser ]  ChakraCore 一起读代码 - 01 - 字节码的生成： http://www.nul.pw/2017/05/14/223.html
+[ Browser ]  利用 Edge/IE 浏览器处理特殊字符的奇怪行为绕过 Facebook 的 URL 安全检测服务 Linkshim： http://www.paulosyibelo.com/2017/05/exploiting-odd-behaviors-in-ms-edge-ie.html
+[ Browser ]  Exploiting a v8 OOB write. https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/
+" Array.prototype.map 越界写漏洞的利用： https://t.co/LEpE5Ni6wA    https://bugs.chromium.org/p/chromium/issues/detail?id=716044 "
+[ Browser ]  WebKit: JSC: BindingNode::bindValue doesn't increase the scope's reference count https://bugs.chromium.org/p/project-zero/issues/detail?id=1137
+" Project Zero 今天公开了多个 WebKit 的漏洞： 1）：  https://bugs.chromium.org/p/project-zero/issues/detail?id=1132  2）：  https://bugs.chromium.org/p/project-zero/issues/detail?id=1120  3）：  https://bugs.chromium.org/p/project-zero/issues/detail?id=1109  4）：  https://bugs.chromium.org/p/project-zero/issues/detail?id=1137  5）：  https://bugs.chromium.org/p/project-zero/issues/detail?id=1134   6）：  https://bugs.chromium.org/p/project-zero/issues/detail?id=1133 7）：  https://bugs.chromium.org/p/project-zero/issues/detail?id=1146  8）：  https://bugs.chromium.org/p/project-zero/issues/detail?id=11629）：  https://bugs.chromium.org/p/project-zero/issues/detail?id=1151   "
+[ Browser ]  Same question goes for #v8; I'd like to see what code they generate for various input. https://twitter.com/berendjanwever/status/867721975023755265
+"  如何 Dump ChakraCore 引擎生成的 Bytecode： https://t.co/LAdXpPIi9B "
+[ Browser ]  WebKitGTK+ Security Advisory WSA-2017-0004 https://webkitgtk.org/security/WSA-2017-0004.html
+" WebKitGTK+ 昨天发布漏洞公告，修复了多个漏洞： https://t.co/A8geg8fq97 "
+[ Browser ]  Mozilla Firefox: Memory disclosure in ConvolvePixel https://bugs.chromium.org/p/project-zero/issues/detail?id=1185
+" Mozilla Firefox: Memory disclosure in ConvolvePixel（CVE-2017-5465）：  https://t.co/dwzBnngXw2 "
+[ Browser ]  Mozilla Firefox: out-of-bounds read in gfxTextRun https://bugs.chromium.org/p/project-zero/issues/detail?id=1160
+" Mozilla Firefox: out-of-bounds read in gfxTextRun（CVE-2017-5447）： https://t.co/yUssY9vIYq "
+[ Browser ]  JavaScript Bindings 层的漏洞挖掘与防御，来自 IEEE 会议： https://www.ieee-security.org/TC/SP2017/papers/16.pdf
+[ Browser ]  Mozilla Firefox Memory disclosure in ConvolvePixel (CVE-2017-5465) https://bugs.chromium.org/p/project-zero/issues/detail?id=1185 #vulnerability
+" Mozilla Firefox: ConvolvePixel()函数越界访问导致内存泄露（cve-2017-5465）： https://t.co/lZGvU69Pup "
+[ Browser ]  Project Zero 今天新公开了几个 WebKit 的漏洞： https://bugs.chromium.org/p/project-zero/issues/detail?id=1176   https://bugs.chromium.org/p/project-zero/issues/detail?id=1163  https://bugs.chromium.org/p/project-zero/issues/detail?id=1197    https://bugs.chromium.org/p/project-zero/issues/detail?id=1187  https://bugs.chromium.org/p/project-zero/issues/detail?id=1173
+[ Browser ]  Safari 技术预览版 31 的 Release Notes： https://webkit.org/blog/7622/release-notes-for-safari-technology-preview-31/
+[ Browser ]  N-API - Node.js 的下一代 Native API： https://medium.com/@nodejs/n-api-next-generation-node-js-apis-for-native-modules-169af5235b06
+[ Browser ]  Chrome 将停止支持 PNaCl ，拥抱 WebAssembly： http://www.solidot.org/story?sid=52585
+[ Browser ]  初见 Chrome Headless Browser，利用它检测 XSS： https://lightless.me/archives/first-glance-at-chrome-headless-browser.html
+[ Browser ]  ClusterFuzz - Google Chrome 的大规模 Fuzz 和 Crash 分析框架，来自 Chromium 团队 Abhishek Arya 2015 年在 NullCon GOA 会议的演讲： https://nullcon.net/website/archives/ppt/goa-15/analyzing-chrome-crash-reports-at-scale-by-abhishek-arya.pdf
+[ Browser ]  Chrome 允许用户单独配置，绕过 key pinning，企业可以利用这个特性实施监控： https://dev.chromium.org/Home/chromium-security/security-faq#TOC-How-does-key-pinning-interact-with-local-proxies-and-filters-
+[ Browser ]  Exploiting an integer overflow with array spreading (WebKit)（CVE-2017-2536/ZDI-17-358）： https://phoenhex.re/2017-06-02/arrayspread
+[ Browser ]  恶意软件最爱系列之深入分析 IE CVE-2014-1776 漏洞（视频）： http://www.securitytube.net/video/16596
+[ Browser ]  WebKit 将启用智能反追踪技术（Intelligent Tracking Prevention），默认阻止第三方 Cookie 使用，降低用户隐私被追踪的风险： https://t.co/WlymWQvPcq
+[ Browser ]   WebKit 已经全部实现了对 WebAssembly 的支持： https://webkit.org/blog/7691/webassembly/
+[ Browser ]   Edge spoof using Web Note（需要用户交互），PoC： https://t.co/sCp5Dr2yWk
+[ Browser ]  macOS High Sierra 和 iOS 11 的 Safari 浏览器将开始支持 WebRTC 和 Media Capture 特性： https://t.co/1LyEJCSKj4
+[ Browser ]  利用 file 类型的 input 标签泄露 Edge 浏览器的用户名，PoC： https://t.co/GwwA0E2nzh
+[ Browser ]   利用 macOS Disk Arbitration 服务挂载（Mount）实现中的条件竞争漏洞（CVE-2017-2533），结合符号链接可实现 Root 提权，这个漏洞可以在 Safari 浏览器中触发。这是今年 Pwn2Own 中 Niklas Baumstark 和 Samuel Groß 利用的一个漏洞： https://phoenhex.re/2017-06-09/pwn2own-diskarbitrationd-privesc
+[ Browser ]   近期，Twitter 上研究员 lupus_cyber 展示了一个 Chrome 最新版（59.0.3071.86）的 0Day Exploit 弹计算器的视频，该 Exploit 绕过了 Sandbox、ASLR、DEP、EMET 5.52 的保护： https://securityonline.info/0-day-rce-exploit-google-chrome-latest-version-59-0-3071-86/
+[ Browser ]  Tor Browser 7.0 发布，加入了多进程模式和内容沙盒： https://t.co/6zRl3G8lcz
+[ Browser ]  V8 JavaScript 引擎更新 6.0 版本： https://v8project.blogspot.com/2017/06/v8-release-60.html
+[ Browser ]   Internet Explorer add-on Installer 沙箱逃逸漏洞的利用(CVE-2015-1743)：  http://thomas-vanhoutte.blogspot.be/2017/06/one-of-my-first-sandbox-escapes-and-bugs.html
+[ Browser ]   本月 Firefox 54 修复的 CVE-2017-7762: Addressbar spoofing in Reader mode 漏洞的 PoC：  https://twitter.com/shhnjk/status/874712568824299522
+[ Browser ]   蝴蝶效应与程序错误 - 一个渣洞的利用之旅（CVE-2016-9651），介绍了 Gong Guang 如何利用 V8 对象私有属性的逻辑漏洞(利用对象赋值)->越界读(unescape)->越界写(堆风水)->任意地址读写(改写 JITted Code Buffer)->任意代码执行的过程，整个过程非常巧妙： https://github.com/secmob/pwnfest2016
+[ Browser ]  Safari 技术预览版 33 的 Release Notes： https://webkit.org/blog/7751/safari-technology-preview-33/
+[ Browser ]   IE Localhost 沙箱逃逸的漏洞(CVE-2017-0226)，从 PM 到穿透 EPM： http://thomas-vanhoutte.blogspot.be/2017/06/making-zdi-localhost-escape-work-from.html
+[ Browser ]   Edge 浏览器 SparseArraySegment 内存破坏漏洞（CVE-2017-0138）的细节与 PoC： http://www.security-assessment.com/files/documents/advisory/sparsearraysegment.pdf   IE 浏览器 "TryGetProperty" 内存破坏漏洞（CVE-2017-0049）的细节与 PoC： http://www.security-assessment.com/files/documents/advisory/trygetproperty.pdf  IE 浏览器 "ToPrimitive" 内存破坏漏洞（CVE-2017-0130）的细节与 PoC： http://www.security-assessment.com/files/documents/advisory/toprimitive.pdf     IE 浏览器 "ReverseSegment" 内存破坏漏洞（CVE-2017-0040）的细节与 PoC： http://www.security-assessment.com/files/documents/advisory/reversesegment.pdf Edge 浏览器 comparestring 信息泄露漏洞的细节与 PoC(CVE-2017-0009)： http://www.security-assessment.com/files/documents/advisory/comparestring_infoleak.pdf
+[ Browser ]  浏览器地址栏之困，来自玄武实验室研究员 xisigr 在中国网络安全大会（NSC2017）的演讲： https://github.com/xisigr/paper/blob/master/NSC2017%E7%AC%AC%E4%BA%94%E5%B1%8A%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%A4%A7%E4%BC%9A/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%9C%B0%E5%9D%80%E6%A0%8F%E4%B9%8B%E5%9B%B0.pdf
+[ Browser ]   Project Zero 公开了几个 lokihardt 发现的 WebKit JS 引擎（JSC）相关的漏洞： https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=owner%3Alokihardt+modified-after%3A2017%2F6%2F10
+[ Browser ]  Microsoft Edge 浏览器地址栏欺骗 PoC，By @qab： https://t.co/ohsFZE3BQx
+[ Browser ]  Google Chrome V8 slow/fast properties 类型混淆漏洞 (CVE-2014-3188)，沙箱逃逸 Exploit 的细节： https://bugs.chromium.org/p/chromium/issues/attachment?aid=63680
+[ Browser ]   Firefox Structured clone 算法在处理 shared array buffers 时存在引用计数泄露，这篇 Blog 介绍 saelo 利用这个漏洞实现在 Linux Firefox Beta 53 版本的任意代码执行： https://phoenhex.re/2017-06-21/firefox-structuredclone-refleak
+[ Browser ]  Firefox 56 现已开始支持 headless 模式： https://t.co/lLqzMHEteh
+[ Browser ]    WebKit: JSC: heap buffer overflow in Intl.getCanonicalLocales(CVE-2017-6984)： https://bugs.chromium.org/p/project-zero/issues/detail?id=1229
+[ Browser ]  Safari 技术预览版 34 发布： https://webkit.org/blog/7760/release-notes-for-safari-technology-preview-34/
+[ Browser ]   Google Chrome RegExp.prototype.exec 和 RegExp.prototype.test 中的一个越界访问漏洞：  https://bugs.chromium.org/p/project-zero/issues/detail?id=1232
+[ Browser ]   Google Chrome infinite alerts + crash Poc: https://pastebin.com/raw/kLVm9zhC
+[ Browser ]  IE11-Flash-steal - 在 IE11 结合 Flash 偷文件的 PoC，作者表示目前该漏洞未修复： https://github.com/SandboxEscaper/IE11-Flash-steal/
+[ Browser ]  Edge-sandbox-escape PoC: https://github.com/SandboxEscaper/Edge-sandbox-escape
+[ Browser ]   Windows 10 Insider Preview Build 16237 版本中的 IE 11 已经默认禁用了 VBScript： https://blogs.windows.com/msedgedev/2017/07/07/update-disabling-vbscript-internet-explorer-11/
+[ Browser ]   Firefox 54.0.1 - 拒绝服务漏洞POC： https://www.exploit-db.com/exploits/42302/
+[ Browser ]   Safari-iOS10.3.2-macOS-10.12.4-exploit-Bugs，利用以下几个漏洞穿越 Safari 的沙箱（TOCTOU in diskarbitrationd/PID reuse logic bug in authd/Arbitrary dylib loading in speechsynthesisd/NULL ptr dereference in nsurlstoraged）： https://github.com/maximehip/Safari-iOS10.3.2-macOS-10.12.4-exploit-Bugs
+[ Browser ]    Google 计划从 Chrome 61 版本开始完全废弃 WoSign 和 StartCom 颁发的证书： https://threatpost.com/google-to-fully-distrust-wosignstartcom-ssl-certs-in-chrome-61/126729/
+[ Browser ]  2.5代指纹追踪技术—跨浏览器指纹识别: http://paper.seebug.org/350/
+[ Browser ]  Safari 技术预览版 35 发布： https://t.co/QSwLOjNSW8
+[ Browser ]   The Evil Friend in Your Browser - 对 2500 个浏览器扩展的安全分析： https://www.brucker.ch/bibliography/download/2017/talk-brucker.ea-steelcon-evil-friend-2017-2x2.pdf
+[ Browser ]   The Return of the JIT - 利用 Firefox ASM.JS JIT-Spray Bypass DEP 和 ASLR（CVE-2017-5375/5400）： http://rh0dev.github.io/blog/2017/the-return-of-the-jit/
+[ Browser ]    IE 浏览器 textarea text value UAF 漏洞分析以及信息泄露 PoC（CVE-2017-0059）： https://redr2e.com/cve-to-poc-cve-2017-0059/
+[ Browser ]  Microsoft IE: CMarkup::DestroySplayTree 方法存在内存破坏漏洞（CVE-2017-8594）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1233
+[ Browser ]   Microsoft IE VBScript arithmetic functions 中的存在类型混淆漏洞： https://bugs.chromium.org/p/project-zero/issues/detail?id=1237
+[ Browser ]   The Return of the JIT (Part 2) - 在 Firefox ASM.JS 的常量中藏 x86 代码： https://rh0dev.github.io/blog/2017/the-return-of-the-jit-part-2/
+[ Browser ]   IE 11 CVE-2017-0037/0059 从 CVE 到 Exploit，作者公开了一个完整的 Exploit： https://redr2e.com/cve-to-exploit-cve-2017-0037-and-0059/
+[ Browser ]   Project Zero 今天公开了多个 WebKit 的漏洞，集中在渲染引擎 WebCore 和 JS 引擎 JavaScriptCore，由 lokihardt 和 ifratric 发现： https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=statusmodified%3Etoday-1+&sort=-statusmodified+publicon&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary+StatusModified&cells=ids
+[ Browser ]  Microsoft Internet Explorer MS17-007 mshtml.dll 远程代码执行（CVE-2017-0037）： https://cxsecurity.com/issue/WLB-2017070156
+[ Browser ]    Safari 技术预览 36 版本的 Release Notes： https://webkit.org/blog/7833/release-notes-for-safari-technology-preview-36/
+[ Browser ]   新 V8 引擎即将来临以及 Node.js 性能方面的改变： https://www.nearform.com/blog/node-js-is-getting-a-new-v8-with-turbofan/
+[ Browser ]   HTML+CSS+GIF+BAT Firefox 中弹计算器，需要用户手动保存网页： http://leucosite.com/polyglot.html
+[ Browser ]  Tor 浏览器 7.0.4 发布： https://t.co/XQzHtLbXLx
+[ Browser ]  Safari 技术预览版 37发布： https://webkit.org/blog/7862/release-notes-for-safari-technology-preview-release-37/
+[ Browser ]   Edge 浏览器 textarea.defaultValue UAF 漏洞（CVE-2017-8652）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1255
+[ Browser ]   Firefox 默认开始下载 64 位版本。64 位 Windows 用户在官网下载时默认开始下载 64 位版本 Firefox ： https://blog.mozilla.org/firefox/firefox-64-default-64-bit-windows/
+[ Browser ]  微博上的 泳少 公开了一个 Chrome XSS Auditor bypass PoC: http://weibo.com/2836258870/Fh3Vx6c8K?type=comment
+[ Browser ]  浏览器安全 / Chrome XSS Auditor bypass: http://paper.seebug.org/376/
+[ Browser ]  利用 SVG Bypass Chrome XSS Auditor： https://brutelogic.com.br/blog/chrome-xss-auditor-svg-bypass/
+[ Browser ]  Chrome 61 Beta 版本支持的新特性，包括 Web 支付、JS Modules、Web Share、Web USB： https://blog.chromium.org/2017/08/chrome-61-beta-javascript-modules.html
+[ Browser ]  攻击者通过钓鱼的手段攻击 Chrome 扩展的开发作者，进而攻击 Chrome 扩展的用户，7 款 Chrome 扩展受影响： https://threatpost.com/seven-more-chrome-extensions-compromised/127458/
+[ Browser ]   Chrome Turbofan 编译器优化不正确导致的类型混淆漏洞，漏洞的分析和 PoC： https://blogs.securiteam.com/index.php/archives/3379
+[ Browser ]   Microsoft Edge 浏览器 CInputDateTimeScrollerElement::_SelectValueInternal 越界读漏洞（CVE-2017-8644）： https://www.exploit-db.com/exploits/42459
+[ Browser ]    Project Zero 新公开了 Edge ChakraCore JIT 引擎的多个漏洞（CVE-2017-8548/CVE-2017-8601/CVE-2017-8637/CVE-2017-8659/CVE-2017-8646）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1290  https://bugs.chromium.org/p/project-zero/issues/detail?id=1316  https://bugs.chromium.org/p/project-zero/issues/detail?id=1284  https://bugs.chromium.org/p/project-zero/issues/detail?id=1287  https://bugs.chromium.org/p/project-zero/issues/detail?id=1277
+[ Browser ]   浏览器的侧信道 - 现代浏览器隔离会话状态下（普通模式、隐身模式、不同浏览器）的指纹追踪与隐私问题，来自 USENIX 会议： https://www.usenix.org/system/files/conference/woot17/woot17-paper-van-goethem.pdf
+[ Browser ]   Mozilla Firefox < 45.0 - 'nsHtml5TreeBuilder' UAF 漏洞利用 (可绕过 EMET 5.52)： https://www.exploit-db.com/exploits/42484
+[ Browser ]  i春秋 Ker 团队研究员公开的一个 ChakraCore 的堆溢出漏洞，eval 一个超长的字符串就可以触发： https://dl.packetstormsecurity.net/1708-exploits/msedgechakraint-overflow.txt
+[ Browser ]  为了更好地支持开发者测试，Chrome 现在支持 Beta 版本、开发版、稳定版同时安装在同一个系统中： https://blog.chromium.org/2017/08/run-multiple-versions-of-chrome-side-by.html?m=1
+[ Browser ]  Safari 技术预览版 38 发布：  https://webkit.org/blog/7877/release-notes-for-safari-technology-preview-38/
+[ Browser ]  Rendertron - Docker 化、headless 版本的 Chrome，Rendertron 作为一个独立的 HTTP Server 运行，目标是实现 Google 提出的 Web APP 新形态：PWA(Progressive Web Apps)： https://github.com/GoogleChrome/rendertron
+[ Browser ]  浏览器漏洞挖掘思路： https://zhuanlan.zhihu.com/p/28719766
+[ Browser ]  今年 Pwn2Own 2017 比赛中 Tencent Sniper 战队攻击 Safari 所用的 JavaScriptCore 数组边界检查优化引入的漏洞（CVE-2017-2547），来自 ZDI Blog： https://www.zerodayinitiative.com/blog/2017/8/24/deconstructing-a-winning-webkit-pwn2own-entry
+[ Browser ]   Safari XSS 的新方法： https://twitter.com/mramydnei/status/902470271327551489 <script>location.href;'javascript:alert%281%29'</script>
+[ Browser ]  JavaScript V8 引擎是如何工作的以及如何写入高性能代码： https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e
+[ Browser ]   随着 SharedArrayBuffer 的引入，JavaScript 语言也找到了实现并发的方式，来自 WebKit 官方 Blog： https://webkit.org/blog/7846/concurrent-javascript-it-can-work/
+[ Browser ]    JavaScript V8 引擎的内部是如何处理对象属性的（Properties）： http://v8project.blogspot.com/2017/08/fast-properties.html
+[ Browser ]   turbofan 编译器优化不当导致 Chrome 远程代码执行： https://blogs.securiteam.com/index.php/archives/3379
+[ Browser ]  金山&Q管 Win10 锁定Edge算法分析： https://mp.weixin.qq.com/s/YLOqAtL5yU31h7LOeg7cGQ
+[ Browser ]   Chrome Oilpan - Meta Data, Freelists and more。Chrome 最早使用 WebKit 作为渲染引擎，当时 TCMalloc 作为主要的内存分配器。后来切换到 Blink 之后内存分配也换成了 PartitionAlloc。2015 年开始，Blink 开始用 Oilpan 管理 DOM 对象的分配和垃圾回收： https://struct.github.io/oilpan_metadata.html
+[ Browser ]  浅谈多浏览器的自动化测试： http://www.freebuf.com/articles/others-articles/145586.html
+[ Browser ]  URL Spoofing with Modern Browser： https://www.math1as.com/index.php/archives/505/
+[ Browser ]    Chrome 发布 61 版本，修复多个漏洞： https://chromereleases.googleblog.com/2017/09/stable-channel-update-for-desktop.html
+[ Browser ]  国内定制版浏览器（内嵌 IE 内核）的漏洞利用缓解措施失效问题： http://justhaifei1.blogspot.com/2017/09/re-enjoying-activex-and-others.html
+[ Browser ]  Safari 技术预览版 39 发布： https://webkit.org/blog/7913/release-notes-for-safari-technology-preview-39/
+[ Browser ]  通过 x11 视窗系统实现 Linux Tor Sandbox 的逃逸： https://bugs.chromium.org/p/project-zero/issues/detail?id=1293&desc=2
+[ Browser ]  Tor 开发团队发布安卓上的 Tor 浏览器 Orfox： https://threatpost.com/tor-project-brings-security-slider-feature-to-android-app-orfox/127849/
+[ Browser ]  Microsoft Edge, Google Chrome 及 Apple Safari CSP 绕过 (CVE-2017-5033 、CVE-2017-2419) ： http://blog.talosintelligence.com/2017/09/vulnerability-spotlight-content.html
+[ Browser ]    lokihardt 在 Pwn2Own 2016 比赛中利用 Windows 10 Chrome libANGLE buffer-overflow 漏洞实现沙箱逃逸的细节（附 PoC）： https://bugs.chromium.org/p/chromium/issues/attachment?aid=227798   https://bugs.chromium.org/p/chromium/issues/attachment?aid=227802
+[ Browser ]   WebKit: JSC: Incorrect optimization in BytecodeGenerator::emitGetByVal（CVE-2017-7061），来自 lokihardt： https://bugs.chromium.org/p/project-zero/issues/detail?id=1263
+[ Browser ]    V8 发布 6.2 版本，主要是性能方面的提高，此外 FullCodeGen 编译器被移除了： https://v8project.blogspot.com.es/2017/09/v8-release-62.html
+[ Browser ]  Google 对保护着 30 亿设备的 Safe Browsing 技术的简单介绍： https://security.googleblog.com/2017/09/safe-browsing-protecting-more-than-3_11.html
+[ Browser ]  “Elements kinds” in V8 - V8 的对象元素种类： https://v8project.blogspot.com/2017/09/elements-kinds-in-v8.html
+[ Browser ]  Firefox 57 将通过引入 HACL* 库支持 Verified cryptography： https://blog.mozilla.org/security/2017/09/13/verified-cryptography-firefox-57/
+[ Browser ]   Microsoft Edge: ACG bypass using DuplicateHandle。Edge 浏览器今年引入了 ACG (Arbitrary Code Guard) 保护特性，将 JIT 编译放到了独立的 JIT server 进程中处理。Project Zero 研究员 ifratric 发现利用 Content process 中残留的 Jit Server process handle 结合 DuplicateHandle 就可以实现完全控制 Jit Server Process： https://bugs.chromium.org/p/project-zero/issues/detail?id=1299
+[ Browser ]  Building the DOM faster: speculative parsing, async, defer and preload。Firefox 为了加快 DOM 树构建所采用的一系列优化措施： https://hacks.mozilla.org/2017/09/building-the-dom-faster-speculative-parsing-async-defer-and-preload/
+[ Browser ]  理解 V8 字节码：  https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775
+[ Browser ]    v8 引擎实现了 Type profiling，可在运行时收集类型信息： https://medium.com/fhinkel/runtime-type-information-for-javascript-b134faac3c0a
+[ Browser ]  微软 Edge Web 峰会 2017 上的一个演讲《Building a safer browser: Four guards to keep users safe》，视频： https://channel9.msdn.com/Events/WebPlatformSummit/Microsoft-Edge-Web-Summit-2017/ES03
+[ Browser ]   《X41 Browser Security White Paper》，来自 X41 D-Sec GmbH 团队分享的一份 Google Chrome、Microsoft Edge、Internet Explorer 3 大浏览器的深度安全研究报告。报告非常详细，涵盖浏览器的方方面面：浏览器漏洞 Bug Bounty 的情况、浏览器沙箱、浏览器利用缓解技术、Web 安全与同源策略、HTML 5、浏览器与硬件设备的交互、软件更新、加密机制、浏览器 Fuzzing：  https://browser-security.x41-dsec.de/X41-Browser-Security-White-Paper.pdf  https://github.com/x41sec/browser-security-whitepaper-2017
+[ Browser ]   Microsoft Edge: Memory corruption with partial page loading（CVE-2017-8731）：  https://bugs.chromium.org/p/project-zero/issues/detail?id=1309
+[ Browser ]   Microsoft Edge: out-of-bounds read in COptionsCollectionCacheItem::GetAt（CVE-2017-8734）：  https://bugs.chromium.org/p/project-zero/issues/detail?id=1301
+[ Browser ]   除了 X41 发布的《Browser Security White Paper》，Cure53 也发了一篇相关 Paper《Cure53’s Browser Security White Paper》。看到这两篇 Paper 之后，Google 专门发了一篇 Blog： https://cure53.de/browser-security-whitepaper.pdf https://www.blog.google/topics/connected-workspaces/2-new-white-papers-examine-enterprise-web-browser-security/
+[ Browser ]  Safari 发布技术预览版 40： https://webkit.org/blog/7922/release-notes-for-safari-technology-preview-40/
+[ Browser ]   什么触发了 Chrome 浏览器的 HTTPS 警告？来自 Google 的研究员将在 ACM 会议上分享《Where the Wild Warnings Are: Root Causes of Chrome HTTPS Certificate Errors》：  https://threatpost.com/whats-triggers-https-chrome-browser-warnings/128043/
+[ Browser ]   Project Zero 今天公开了多个 Edge 的漏洞（CVE-2017-8729/CVE-2017-8740/CVE-2017-11764/CVE-2017-8755）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1308  https://bugs.chromium.org/p/project-zero/issues/detail?id=1310  https://bugs.chromium.org/p/project-zero/issues/detail?id=1326  https://bugs.chromium.org/p/project-zero/issues/detail?id=1327
+[ Browser ]   Project Zero 今天也公开了多个苹果 AppleBCMWLANCore 驱动的漏洞： https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=label%3AProduct-AppleBCMWLANCore&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary&cells=ids
+[ Browser ]   Firefox Nightly 版本本周开始支持 FIDO U2F (Universal 2nd Factor) security key： https://www.yubico.com/2017/09/firefox-nightly-enables-support-fido-u2f-security-keys/
+[ Browser ]  《To Type or Not to Type: Quantifying Detectable Bugs in JavaScript》，Paper： http://ttendency.cs.ucl.ac.uk/projects/type_study/documents/type_study.pdf
+[ Browser ]  受 LiveOverflow 研究的启发，我发现另一个通过支付 API 实现的 Chrome popunder 技巧： https://t.co/ek4eQ0qdVq
+[ Browser ]  iOS 11 中的 Safari WebKit 新版本有什么新特性： https://webkit.org/blog/7956/new-webkit-features-in-safari-11/
+[ Browser ]  Temporarily disabling escape analysis： https://v8project.blogspot.com/2017/09/disabling-escape-analysis.html
+[ Browser ]   WebKit 内存破坏漏洞 CVE-2017-7092 疑似 PoC：var s = 'x'.repeat(0x7fffffff); http://s.link (s); ： https://twitter.com/5aelo/status/912386187851190272
+[ Browser ]  Revealing the content of the address bar (IE)。IE 浏览器 object 标签内运行的脚本可以获得主页面的地址栏信息： https://www.brokenbrowser.com/revealing-the-content-of-the-address-bar-ie/
+[ Browser ]  Pwn2Own 2017 Safari backup CVE-2017-7092 Exploit： https://github.com/xuechiyaobai/CVE-2017-7092-Exploit/blob/master/ooo.html
+[ Browser ]  巧妙获取 IE 地址栏中输入的内容： https://www.brokenbrowser.com/revealing-the-content-of-the-address-bar-ie/
+[ Browser ]   浏览器中的僵尸网络：了解恶意浏览器扩展引起的威胁(Paper) ： https://arxiv.org/pdf/1709.09577.pdf
+[ Browser ]  Chrome 目前会将存在密码或信用卡输入域的 HTTP 页面标记为 "Not Secure"。从 10 月份开始，Chrome 将更进一步：存在用户输入数据的 HTTP 页面或者隐身模式浏览的 HTTP 页面也会被标记为 "Not Secure"： https://blog.chromium.org/2017/04/next-steps-toward-more-connection.html
+[ Browser ]  Firefox WebExtensions 扩展（browser.downloads）可以下载并打开不可执行的文件（CVE-2017-7821）。可以被利用实现 RCE；PoC： https://pastebin.com/raw/KrdfFWAg
+[ Browser ]  Chrome IPC handler OnMsgDidDeleteInProcessInstance PP_Instance 不正确使用导致的沙箱逃逸漏洞的细节 CVE-2017-5092： https://bugs.chromium.org/p/chromium/issues/detail?id=733549
+[ Browser ]  利用浏览器的新特性 - WebUSB，恶意网站可以直接从你手机里偷数据： https://labs.mwrinfosecurity.com/blog/webusb/
+[ Browser ]   ZDI 对 Pwn2Own 2017 比赛中玄武实验室攻击 Edge 浏览器所用的 Chakra JIT 漏洞的分析（CVE-2017-0234）： https://www.zerodayinitiative.com/blog/2017/10/5/check-it-out-enforcement-of-bounds-checks-in-native-jit-code
+[ Browser ]   Edge 浏览器的 arraybuffer 占用 4G 虚拟空间的特性可以用来做 64 位的精确堆喷射,可以精确的伪造需要的数据结构。来自 yuange 微博： http://weibo.com/2246379231/FpHBgievX?ref=collection
+[ Browser ]   Project Zero 新公开了两个 Edge Chakra 的漏洞： Microsoft Edge: Chakra: JIT: Incorrect GenerateBailOut calling patterns（CVE-2017-11799），Microsoft Edge: Chakra: Accesses to uninitialized pointers in StackScriptFunction::BoxState::Box（CVE-2017-11809）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1333  https://bugs.chromium.org/p/project-zero/issues/detail?id=1338
+[ Browser ]  深入剖析 WebKit： http://www.starming.com/2017/10/11/deeply-analyse-webkit/
+[ Browser ]  Browser UI Security 技术白皮书，来自 腾讯玄武实验室 xisigr： http://xlab.tencent.com/cn/2017/10/16/browser-ui-security-whitepaper/
+[ Browser ]  Chrome 发布 62.0.3202.62 版本，本次更新修复了多达 35 个漏洞： https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop.html
+[ Browser ]   除了 Firefox 浏览器，今天更新的 Windows 10 中，EdgeHTML 16 也开始支持 CSS Grid Layout 特性，来自 Mozilla Firefox Blog 对该特性的介绍： https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-1/ https://hacks.mozilla.org/2017/10/an-introduction-to-css-grid-layout-part-2/
+[ Browser ]  Safari 技术预览版 42 发布： https://webkit.org/blog/8001/release-notes-for-safari-technology-preview-42/
+[ Browser ]    微软的 OSR 团队主要负责提高 RCE Exploits 缓解和防御能力，包括 CFG、ACG、LPAC、WDAG。与微软不同，Google Chrome 的防御重点则是沙箱（Sandbox）。OSR 团队这篇 Blog 介绍他们认为仅仅依靠一个强悍的沙箱是不够的： https://blogs.technet.microsoft.com/mmpc/2017/10/18/browser-security-beyond-sandboxing/
+[ Browser ]  Chromium Internals - Security Principal in Chromium，Chromium 的安全法则： http://netsekure.org/2015/11/23/chromium-internals-security-principal-in-chromium/
+[ Browser ]  微软昨天发了一篇 Blog 介绍利用 Chrome V8 的漏洞在沙箱内也可以绕过一些 Web 安全策略（比如同源策略）。同时称，如果是 Edge，CFI 保护措施可以防御这个。有位研究员为此写了一篇 Blog 称有了 JS 的内存读写能力，CFI 也防不住： http://robert.ocallahan.org/2017/10/microsofts-chrome-exploitation-and.html
+[ Browser ]  Google 新推出了 "new Advanced Protection" 特性用于保护用户： http://securityaffairs.co/wordpress/64481/security/google-advanced-protection.html
+[ Browser ]  利用 canMakeRequest 在页面中检测浏览器是否运行在隐身模式，在最新版 Chrome 62 版本依然有效： https://lukaszolejnik.com/stuff/incognito-detection.html
+[ Browser ]  Chrome 62 发布，修复了 35 个安全问题，也引入了多个新特性，其中包括：支持 OpenType 可变字体，改进网页加载字体所需的时间；所有包含输入框的 HTTP 页面将被标记为不安全，而在隐身模式下所有 HTTP 页面将被标记为不安全： http://www.solidot.org/story?sid=54176
+[ Browser ]  Talos Blog 对 Chrome 62.0.3202.62 修复的 PDFium Tiff Decoder off-by-one 读写代码执行漏洞的分析（CVE-2017-5133）： http://blog.talosintelligence.com/2017/10/GooglePDFium-Vulnerabilitiy.html
+[ Browser ]  Chrome 发布 62.0.3202.75 版本，修复了一个 v8 的高危漏洞： https://chromereleases.googleblog.com/2017/10/stable-channel-update-for-desktop_26.html
+[ Browser ]  Linux Tor 浏览器使用 SFTP URI 可导致本地 IP 泄漏： https://hackerone.com/reports/253429
+[ Browser ]    PacSec 2017 和 Mobile Pwn2Own 将于这两天在日本东京举办。上周五 ZDI 发了一篇 Blog 介绍今年 Pwn2Own 2017 比赛中长亭科技利用 SQLite 漏洞攻击 Safari 的细节（ZDI-15-570, ZDI-17-360, ZDI-17-366, ZDI-17-367, ZDI-17-368, and ZDI-17-369）。今年的 BlackHat 长亭科技研究员也分享过这个利用过程：  https://www.zerodayinitiative.com/blog/2017/10/27/on-the-trail-to-mobile-pwn2own  https://www.blackhat.com/docs/us-17/wednesday/us-17-Feng-Many-Birds-One-Stone-Exploiting-A-Single-SQLite-Vulnerability-Across-Multiple-Software.pdf
+[ Browser ]   为了保护用户的隐私，Firefox 将在下个版本中移除 "Canvas Fingerprinting"，"Canvas Fingerprinting" 可以被用于跨网站建立指纹追踪用户：  https://threatpost.com/firefox-bolsters-privacy-pulls-plug-on-browser-canvas-fingerprinting/128697/
+[ Browser ]    EdgeHTML 16 新引入的几个特性介绍：WebAssembly、SharedArrayBuffer、Atomics：  https://blogs.windows.com/msedgedev/2017/10/31/optimizations-webassembly-sharedarraybuffer-atomics-edgehtml-16/#4OWbChIifql6k32H.97
+[ Browser ]  Safari 技术预览版 43 发布： https://webkit.org/blog/8016/release-notes-for-safari-technology-preview-43/
+[ Browser ]   Tor Browser 上周五修复了一个严重漏洞， Firefox 在处理 file:// 时存在 Bug，macOS 和 Linux 版本的 Tor 浏览器会泄露用户的真实 IP： https://threatpost.com/tor-browser-users-urged-to-patch-critical-tormoil-vulnerability/128769/ ; https://www.wearesegment.com/research/tormoil-torbrowser-unspecified-critical-security-vulnerability/
+[ Browser ]  v8 团队 Blog 介绍了多个他们用于测试 JavaScript 性能的工具套件： http://v8project.blogspot.com/2017/11/web-tooling-benchmark.html https://v8.github.io/web-tooling-benchmark/
+[ Browser ]   《From Out of Memory to Remote Code Execution》，来自古河在 PacSec 2017 会议的演讲。其中介绍了浏览器（主要是 Edge ChakraCore 引擎）中内存耗尽（OOM）相关漏洞的挖掘和利用，包括如何利用可控、不中断(Continuable)的 OOM 漏洞触发新的分支路径触发漏洞，以及如何利用这种 OOM 漏洞实现 RCE。最后还介绍了一个利用 Fast Array Buffer 实现 64 位地址空间 Heap Spray 的技巧： https://speakerdeck.com/yukichen/from-out-of-memory-to-remote-code-execution
+[ Browser ]  Type Confusion In Chrome Lead to RCE（CVE-2017-5070），来自 360 Zhao Qixun(@S0rryMybad)： https://bugs.chromium.org/p/chromium/issues/detail?id=722756
+[ Browser ]  console.log 不是 JavaScript 调试器，Firefox Devtools Playground 才是，来自 Mozilla Blog： https://hacks.mozilla.org/2017/11/go-beyond-console-log-with-the-firefox-debugger/
+[ Browser ]    Project Zero 公开了一个 IE 11 jscript!JsErrorToString 的 UAF 漏洞（CVE-2017-11810）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1340
+[ Browser ]   Chrome 62 版本修复的 UXSS with MHTML（CVE-2017-5124）漏洞的分析和 PoC，分析部分是俄语：  https://bo0om.ru/chrome-and-safari-uxss  https://github.com/Bo0oM/CVE-2017-5124/
+[ Browser ]   Firefox 57 版本发布，开始启用全新的 Quantum 引擎，号称在速度上有巨大提升。本次更新也修复了若干漏洞：  https://www.mozilla.org/en-US/security/advisories/mfsa2017-24/
+[ Browser ]  Edge 浏览器 CVE-2017-11845 内存破坏漏洞疑似 PoC: https://twitter.com/w3bd3vil/status/930500317065527296
+[ Browser ]  Firefox - settings cookie via DOMParser： http://insert-script.blogspot.com/2017/11/firefox-settings-cookie-via-domparser.html
+[ Browser ]   Project Zero 公开了几个 Edge 浏览器昨天修复的漏洞详情 (CVE-2017-11861、CVE-2017-11811、CVE-2017-11873、CVE-2017-8751)：  https://bugs.chromium.org/p/project-zero/issues/detail?id=1357  https://bugs.chromium.org/p/project-zero/issues/detail?id=1341  https://bugs.chromium.org/p/project-zero/issues/detail?id=1339  https://bugs.chromium.org/p/project-zero/issues/detail?id=1343
+[ Browser ]  Safari 技术预览版 44 发布： https://webkit.org/blog/8035/release-notes-for-safari-technology-preview-44/ https://t.co/s42okH2ht7
+[ Browser ]   V8 团队 Blog 对性能优化分析组件 CodeStubAssembler 的介绍： https://v8project.blogspot.com/2017/11/csa.html
+[ Browser ]  CVE-2016-7202：Overflow in Array.reverse： https://mp.weixin.qq.com/s/lHWzYgIzB0p0biUYwuqWEg
+[ Browser ]    Yandex 浏览器的 SDL 安全开发流程经验分享：  https://yadi.sk/i/aOxmJ_xJ3PnrQW
+[ Browser ]  利用 Angular 4 开发 Google Chrome Extension： https://www.red-gate.com/simple-talk/dotnet/software-tools/developing-google-chrome-extension-using-angular-4/
+[ Browser ]  如何比较不同浏览器的页面加载时间： https://hacks.mozilla.org/2017/11/comparing-browser-page-load-time-an-introduction-to-methodology/
+[ Browser ]    Chrome 63 版本将支持 Dynamic import() 新特性：  https://twitter.com/i/web/status/932914724060254208  https://developers.google.com/web/updates/2017/11/dynamic-import
+[ Browser ]  New in Firefox 58: Developer Edition： https://hacks.mozilla.org/2017/11/new-in-firefox-58-developer-edition/
+[ Browser ]  对 Edge 浏览器的 js 解析引擎 Chakra 漏洞 CVE-2017-8548 的分析，来自安全客，文章已经被删了，可以看 Google 缓存的快照： http://webcache.googleusercontent.com/search?q=cache:4THnpjT159oJ:bobao.360.cn/learning/detail/4751.html+&cd=1&hl=zh-CN&ct=clnk&gl=cn
+[ Browser ]  Firefox 58 版本将禁止 Top-Level 窗口到 data URL 的跳转： https://blog.mozilla.org/security/2017/11/27/blocking-top-level-navigations-data-urls-firefox-58/
+[ Browser ]   V8 JavaScript 引擎 JS 代码解析（Parsing）、Ignition 与 TurboFan 编译器编译、二进制代码生成、JIT 优化的过程： https://speakerdeck.com/brn/source-to-binary-journey-of-v8-javascript-engine-english-version
+[ Browser ]   V8 引擎为了提高垃圾回收(GC)的效率，减少内存回收时的中断时间，在其并行 GC 管理器 Orinoco 中实现了一个新特性 - Scavenger（清道夫）： https://v8project.blogspot.com/2017/11/orinoco-parallel-scavenger.html
+[ Browser ]  IE浏览器缓解技术逆向初探: https://www.anquanke.com/post/id/87816 https://weibo.com/1560130242/FxvnO4RlT?ref=collection&type=comment
+[ Browser ]  IE：从一字节改写到全地址读写: https://www.anquanke.com/post/id/87922
+[ Browser ]  减少由第三方软件造成的 Chrome 崩溃： https://blog.chromium.org/2017/11/reducing-chrome-crashes-caused-by-third.html
+[ Browser ]    上周五 Project Zero 公开了 ifratric 发现的 3 个 Chakra CFG Bypass 漏洞（CVE-2017-11874）：  https://bugs.chromium.org/p/project-zero/issues/list?can=1&q=label%3AFinder-ifratric+modified%3Etoday-3&sort=-modified&colspec=ID+Type+Status+Priority+Milestone+Owner+Summary+Modified&cells=ids
+[ Browser ]  Firefox 57（Quantum）将启用新的主题 API： https://hacks.mozilla.org/2017/12/using-the-new-theming-api-in-firefox/
+[ Browser ]  一石多鸟——击溃全线移动平台浏览器： https://mp.weixin.qq.com/s/MiIG-AZDYzU20WPNl-kOkQ
+[ Browser ]   OOB access in v8 wasm after Symbol.toPrimitive overwrite，这是 Chrome 9 月份修复的由 Choongwoo Han 报告的 v8 漏洞（CVE-2017-5122）： https://bugs.chromium.org/p/chromium/issues/detail?id=752423
+[ Browser ]  继 Chromium 之后，Firefox 也开始支持 Headless 模式运行，方便浏览器的自动化控制： https://hacks.mozilla.org/2017/12/using-headless-mode-in-firefox/
+[ Browser ]  Edge 浏览器通过 Media Extensions 来实现扩充对未知媒体文件格式的支持： https://blogs.windows.com/msedgedev/2017/12/05/introducing-web-media-extension-package-ogg-vorbis-theora-support/#VVBJi1Cwwm3F4q4k.97
+[ Browser ]  在 Firefox 中使用 Headless 模式： https://hacks.mozilla.org/2017/12/using-headless-mode-in-firefox/
+[ Browser ]  浏览器 XSS Filter Bypass Cheat Sheet ： https://github.com/masatokinugawa/filterbypass
+[ Browser ]  Safari 技术预览版 45 发布 : https://webkit.org/blog/8039/release-notes-for-safari-technology-preview-45/
+[ Browser ]   Chrome 发布 63.0.3239.84 版本，本次更新修复了大量的漏洞：   https://chromereleases.googleblog.com/2017/12/stable-channel-update-for-desktop.html
+[ Browser ]    证书的扩展验证（EV，Extended validation）被浏览器使用提高用户体验，当用户访问证书有效并携带 EV 信息的网站时，地址栏不再显示 URL，而是公司名称，例如 "Stripe, Inc"。这篇 Blog 中作者提到了一种不同国家地区公司名称冲突带来的问题。美国有两个州都有 "Stripe, Inc" 公司，此时 URL 无法分辨： https://stripe.ian.sh/
+[ Browser ]  Chrome v63 XSS Filter Bypass PoC： https://twitter.com/brutelogic/status/940197514149617665
+[ Browser ]  Dolphin Browser for Android 不安全的 URI Scheme 解析漏洞披露 （CVE-2017-17553）： https://github.com/VerSprite/research/blob/master/advisories/VS-2017-002.md
+[ Browser ]  Chrome 61 修复的一个 V8 Web Assembly 的类型混淆漏洞（CVE-2017-5116）： https://bugs.chromium.org/p/chromium/issues/detail?id=759624
+[ Browser ]  V8 从 5.9 版本开始原生支持函数级 Code Coverage 的统计，6.1 版本进一步增加对块级别统计的支持。通过 Chrome DevTools 的 Coverage tab 就可以查看： http://v8project.blogspot.com/2017/12/javascript-code-coverage.html
+[ Browser ]  浏览器 UI 安全研究 -Popunder Preventer bypass: https://zhuanlan.zhihu.com/p/32043215
+[ Browser ]  观察ChakraCore JIT生成的native code： https://zhuanlan.zhihu.com/p/23314157
+[ Browser ]   Out-Of-Bounds Read Vulnerability in Skia，Chrome 62 版本修复 CVE-2017-15388 漏洞： https://bugs.chromium.org/p/chromium/issues/detail?id=756563
+[ Browser ]  Mozilla SpiderMonkey JS 引擎介绍: https://www.slideshare.net/ZongShenShen/coscup-2015-a-beginners-journey-to-mozilla-spider-monkey-js-engine?from_action=save
+[ Browser ]  Dolphin Browser for Android 备份及还原功能存在任意文件写漏洞（CVE-2017-17551）： https://versprite.com/og/exploiting-dolphin-browser-backup-restore/index.html
+[ Browser ]  主流浏览器中 HSTS 的缺陷： https://zhuanlan.zhihu.com/p/32153145?group_id=926523103417331712
+[ Browser ]   ZDI 分析 2017 Top 5 漏洞案例的第三篇，这篇是分析 2016 年 Apple Safari 在处理 SearchInputType 对象中的一个类型混淆漏洞（ZDI-17-054/CVE-2017-2354）：  https://www.thezdi.com/blog/2017/12/20/invariantly-exploitable-input-an-apple-safari-bug-worth-revisiting
+[ Browser ]  Safari 技术预览版 46 发布： https://webkit.org/blog/8042/release-notes-for-safari-technology-preview-46/
+[ Browser ]   Samsung Internet Browser 5.4.02.3 允许远程攻击者绕过 SOP 限制窃取用户敏感信息（CVE-2017-17692）： http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-17692
+[ Browser ]    ZDI 分析 2017 Top 5 漏洞案例的第五篇：Chakra 引擎 ASM.js 相关的两个 UAF 漏洞的分析（CVE-2017-11812）： https://www.zerodayinitiative.com/blog/2017/12/22/a-matching-pair-of-use-after-free-bugs-in-chakra-asmjs
+[ Browser ]   Chrome 62 版本修复的两个漏洞的详情： Chrome UAF in CFFL_InteractiveFormFiller::OnBeforeKeyStroke(CVE-2017-5127)，： https://bugs.chromium.org/p/chromium/issues/detail?id=765384 Use-after-free in CPWL_Edit::OnKillFocus（CVE-2017-5126） https://bugs.chromium.org/p/chromium/issues/detail?id=760455
+[ Browser ]  日本研究员 brn 青野健利结合 V8 代码中的重要数据结构对 V8 引擎的介绍，前段时间推送过他的分享的一份《Source to Binary：Journey of v8 JavaScript engine》： http://abcdef.gets.b6n.ch/entry/2017/12/25/120000
+[ Browser ]  Samsung Internet Browser SOP Bypass（CVE-2017-17692）：  https://datarift.blogspot.in/p/samsung-interent-browser-sop-bypass-cve.html
+[ Browser ]   为什么浏览器一直没有默认启用对 TLS 1.3 的支持： https://blog.cloudflare.com/why-tls-1-3-isnt-in-browsers-yet/
+[ Browser ]    Chrome 61 修复的一个漏洞的详情： Security: V8 JIT escape analysis bug（CVE-2017-5121）： https://bugs.chromium.org/p/chromium/issues/detail?id=765433
+[ Browser ]   ASLR on the Line - 利用 CPU 处理器的侧信道问题从 JavaScript 中 Bypass 浏览器的 ASLR： https://github.com/brainsmoke/pub-archive/raw/master/slides/aotl-34c3-slides.pdf
+[ Browser ]  Chrome 浏览器输入 file://.//pipe/ 可以查看打开的 Named Pipe： https://twitter.com/_xpn_/status/946878269940527104
+[ Browser ]  Breaking Browsers: Hacking Auto-Complete ： https://www.slideshare.net/jeremiahgrossman/breaking-browsers-hacking-autocomplete-blackhat-usa-2010
+[ Browser ]   Chrome ASAN Beta 61.0.3163.79  ScriptProcessorHandler::FireProcessEvent  UAF 漏洞(CVE-2017-5129)： https://bugs.chromium.org/p/chromium/issues/detail?id=765495
+[ Browser ]   Chrome 62 修复的 Heap overflow in WebGL 漏洞的详情（CVE-2017-5128）： https://bugs.chromium.org/p/chromium/issues/detail?id=765469
+[ Browser ]  因为 CPU 缓存侧信道的重大影响，为了缓解，Firefox 决定先降低某些时钟相关 API 的精度，不过需要到 57 版本才能生效：  https://blog.mozilla.org/security/2018/01/03/mitigations-landing-new-class-timing-attack/
+[ Browser ]  Microsoft Edge: Chakra: JIT: BackwardPass::RemoveEmptyLoopAfterMemOp doesn't insert branches.（CVE-2017-11909）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1384
+[ Browser ]  Microsoft Edge: Chakra: JIT: Op_MaxInAnArray and Op_MinInAnArray can explicitly call user defined JavaScript functions： https://bugs.chromium.org/p/project-zero/issues/detail?id=1379
+[ Browser ]  Microsoft Edge: Chakra: JIT: Escape analysis bug（CVE-2017-11918）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1396
+[ Browser ]  Microsoft Edge: Chakra: OOB read in asm.js： https://bugs.chromium.org/p/project-zero/issues/detail?id=1385
+[ Browser ]  Spectre 和 Meltdown CPU 漏洞对 WebKit 引擎的影响以及对应的缓解建议： https://webkit.org/blog/8048/what-spectre-and-meltdown-mean-for-webkit/
+[ Browser ]  JavaScript 中的高精度计时器（Timers）: https://gruss.cc/files/fantastictimers.pdf
+[ Browser ]  JavaScript Object Explorer - 不用查文档找对象方法的在线工具： https://sdras.github.io/object-explorer/
+[ Browser ]  WebKit 官方对 Intelligent Tracking Prevention 的介绍： https://webkit.org/blog/7675/intelligent-tracking-prevention/
+[ Browser ]  JavaScript 引擎、运行时、CallStack 是怎么工作的： https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf
+[ Browser ]  Fuzzing Javascript Engines，来自 Jeonghoon Shin 在韩国 PoC 2017 会议的演讲： http://powerofcommunity.net/poc2017/jeonghoon.pdf
+[ Browser ]  Playing with IE11 ActiveX 0days，来自韩国 PoC 2017 会议： http://powerofcommunity.net/poc2017/james.pdf
+[ Browser ]  JavaScript 中的 MMU 侧信道攻击，从沙箱中 Bypass ASLR，来自韩国 PoC 2017 会议的演讲：  http://powerofcommunity.net/poc2017/ben.pdf
+[ Browser ]  Edge 浏览器 1-Day 漏洞与基于内核的沙箱逃逸，来自韩国 PoC 2017 会议： http://powerofcommunity.net/poc2017/andrew.pdf
+[ Browser ]  Safari 技术预览版 47 发布：  https://webkit.org/blog/8060/release-notes-for-safari-technology-preview-47/
+[ Browser ]  提取 Google Chrome 中的密码： https://blog.elcomsoft.com/2018/01/extracting-and-making-use-of-chrome-passwords/
+[ Browser ]   Google Chrome XPath 表达式在谓词中包含函数调用时存在 UAF 漏洞（CVE-2017-15412）： https://bugs.chromium.org/p/chromium/issues/detail?id=727039
+[ Browser ]   W3C TAG 组织推进网站 HTTPS 迁移，有些浏览器特性要求只有在 HTTPS 下才能使用： https://blog.mozilla.org/security/2018/01/15/secure-contexts-everywhere
+[ Browser ]   让 WebAssembly 工作更快速：Firefox 新的流媒体与分层编译器： https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/
+[ Browser ]  Microsoft Edge: Chakra: Incorrect scope handling（CVE-2018-0774）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1411
+[ Browser ]  Microsoft Edge: Chakra: JIT: Incorrect bounds calculation（ CVE-2018-0769）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1390
+[ Browser ]  Microsoft Edge: Chakra: JIT: Loop analysis bug（ CVE-2018-0777）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1429
+[ Browser ]   Firefox 58 新功能介绍： https://hacks.mozilla.org/2018/01/firefox-58-the-quantum-era-continues/
+[ Browser ]   Chrome 60 SkShader::MakeColorShader 变量未初始化漏洞（CVE-2017-5102）: https://bugs.chromium.org/p/chromium/issues/detail?id=727678
+[ Browser ]   360 研究员 BoAAAAA 新公开了几个 V8 近期修复漏洞的 PoC 和 Exploit（CVE-2017-15399/CVE-2017-15428/CVE-2017-5070）： https://github.com/xuechiyaobai/V8_November_2017
+[ Browser ]  Safari技术预览版 48 发布：  https://webkit.org/blog/8084/release-notes-for-safari-technology-preview-48/
+[ Browser ]   Chrome 64 中修复的漏洞一览： https://chromereleases.googleblog.com/2018/01/stable-channel-update-for-desktop_24.html
+[ Browser ]  渗透技巧——导出Chrome浏览器中保存的密码： http://www.4hou.com/technology/10114.html
+[ Browser ]   V8 v6.3+ 中的 Hash Tables 数据结构是如何存储 Keys 的： https://v8project.blogspot.com/2018/01/hash-code.html
+[ Browser ]   V8 引擎 UAF 漏洞导致远程代码执行（CVE-2017-15399）： https://bugs.chromium.org/p/chromium/issues/detail?id=776677
+[ Browser ]  JavaScript引擎 V8 v6.5 发布： https://v8project.blogspot.com/2018/02/v8-release-65.html
+[ Browser ]   微软 OSR 团队研究员以 Chrome 为案例谈浏览器沙箱之外的安全： http://www.bluehatil.com/files/Browser%20Security%20Beyond%20Sandboxing.pdf
+[ Browser ]    Meltdown/Spectre CPU 漏洞爆出之后，Chrome 浏览器从站点隔离（Site Isolation）、Cross-site document blocking 等方面缓解漏洞对浏览器的影响： https://developers.google.com/web/updates/2018/02/meltdown-spectre
+[ Browser ]  Safari 技术预览版 49 发布：   https://webkit.org/blog/8088/release-notes-for-safari-technology-preview-49/
+[ Browser ]    iOS Safari HTMLFormElement::associatedElements 迭代过程中出过的 3 个 UAF 漏洞（CVE-2017-2460/CVE-2017-13791/）： http://www.uaf.li/2018/02/three-uaf-when-iterating-through.html
+[ Browser ]  Google 表示将在 2018 年 7 月发布的 Chrome 68 会把所有 HTTP 网站标记为“不安全”： https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html
+[ Browser ]  Microsoft Edge: ACG bypass using UnmapViewOfFile： https://bugs.chromium.org/p/project-zero/issues/detail?id=1435
+[ Browser ]  Safari 技术预览版 50 发布：   https://webkit.org/blog/8121/release-notes-for-safari-technology-preview-50/
+[ Browser ]    Chrome 平台也开始支持 Progressive Web Apps： https://medium.com/@kennethrohde/progressive-web-apps-coming-to-all-chrome-platforms-80e31272e2a8
+[ Browser ]    Mobile Pwn2Own 2017 V8 ZDI-CAN-5336 漏洞 PoC 公开了：  https://bugs.chromium.org/p/chromium/issues/detail?id=780402&desc=2
+[ Browser ]   Man in the browser on Firefox - 基于 pydbg HOOK Firefox 相应的函数，实现 SSL Sniffer：  https://www.shellcode.it/article/mitb-firefox/
+[ Browser ]  Edge Type Confusion利用：从type confused到内存读写: https://www.anquanke.com/post/id/98774
+[ Browser ]  Tor Browser 8.0a2 推出： https://twitter.com/i/web/status/968210337127370753
+[ Browser ]  Safari 技术预览版 51 发布： https://webkit.org/blog/8136/release-notes-for-safari-technology-preview-51/
+[ Browser ]   Chrome 发布 65.0.3325.146，修复了 45 个漏洞： https://chromereleases.googleblog.com/2018/03/stable-channel-update-for-desktop.html
+[ Browser ]  部分浏览器(Edge Safari)安全资料整理，来自 老实敦厚的大宝's weibo： https://weibo.com/1865156260/G6xjD9VTf?type=comment
+[ Browser ]  以 Firefox 做通信通道来绕过防火墙限制的探索： https://medium.com/code-fighters/firefox-tunnel-to-bypass-any-firewall-bc6f8b432980
+[ Browser ]  Firefox 处理 Vorbis 音频数据时存在越界内存写入漏洞(CVE-2018-5146、CVE-2018-5147): https://www.mozilla.org/en-US/security/advisories/mfsa2018-08/
+[ Browser ]  MacOS 上的 Google 软件更新程序本地提权漏洞披露（CVE-2018-6084）： https://bugs.chromium.org/p/project-zero/issues/detail?id=1486
+[ Browser ]  Safari 技术预览版 52 发布： https://webkit.org/blog/8165/release-notes-for-safari-technology-preview-52/
+[ Browser ]  Mozilla 正在测试使用 HTTPS 传输 DNS 以保护用户隐私： https://threatpost.com/mozilla-tests-dns-over-https-meets-some-privacy-pushback/130765/
+[ Browser ]  Firefox 提供 Facebook Container 扩展，将用户认证信息置于单独容器中以防止用户被追踪： https://venturebeat.com/2018/03/27/mozilla-launches-facebook-container-add-on-to-isolate-your-web-browsing-activity-from-facebook/
+[ Browser ]  Google Chrome 现已支持将 Web 请求拷贝为 PowerShell 命令： https://twitter.com/i/web/status/979705974901657600
+[ Browser ]   Building a 1-day Exploit for Google Chrome，Google Chrome V8 引擎 PropertyArray 整数溢出漏洞攻击链构造： https://github.com/theori-io/zer0con2018_bpak/blob/master/Chrome_Analysis_Zer0Con_2018_Final.pdf
+[ Browser ]   Safari 主分支中最近的一些有趣的安全加固方式： https://twitter.com/i/web/status/980400734033403904
+[ Browser ]  Shellcodes Are for the 99% ,主要介绍了 Microsoft Edge 下的 Mitigation Bypass , 来自 cansecwest 2018： https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxiaW5nc3Vuc2VjfGd4Ojc0YWZlOGNlMzg0YjYzMGY
+[ Browser ]   Chrome: V8: ElementsAccessorBase::CollectValuesOrEntriesImpl 中存在类型混淆漏洞(CVE-2018-6064)： https://bugs.chromium.org/p/project-zero/issues/detail?id=1498
+[ Browser ]   Safari 技术预览版 53 发布：  https://webkit.org/blog/8179/release-notes-for-safari-technology-preview-53/
+[ Browser ]  在 Safari 浏览器上进行 host header XSS 攻击： https://labs.detectify.com/2018/04/04/host-headers-safari/
+[ Browser ]  ZDI 公布 Pwn2Own 2018 上利用的 Mozilla FireFox 漏洞细节(CVE-2018-5146)： https://www.zerodayinitiative.com/blog/2018/4/5/quickly-pwned-quickly-patched-details-of-the-mozilla-pwn2own-exploit
+[ Browser ]  Hooking Chrome 浏览器的 SSL 函数读取 SSL 通信数据： https://nytrosecurity.com/2018/02/26/hooking-chromes-ssl-functions/
+[ Browser ]  针对 Microsoft Edge UAF 的分析（CVE-2017-0236）： http://math1as.com/2018/04/10/CVE-2017-0236-analysis/
+[ Browser ]  解决浏览器性能问题的备忘单： https://medium.com/@ricomariani/browser-performance-banes-and-cheat-sheet-2ba783ac5002
+[ Browser ]  WebKit JIT 引擎的数值比较 Bug 研究： https://www.zerodayinitiative.com/blog/2018/4/12/inverting-your-assumptions-a-guide-to-jit-comparisons
+[ Browser ]  Safari 11.1 中的 WebKit 新特性介绍： https://webkit.org/blog/8216/new-webkit-features-in-safari-11-1/
+[ Browser ]  Some Brief Notes on WebKit Heap Hardening： https://labs.mwrinfosecurity.com/blog/some-brief-notes-on-webkit-heap-hardening/
+[ Browser ]   Apple Safari - Wasm Section Exploit ，Apple Safari Web Assembly (Wasm) 对自定义区段处理不当导致的远程代码执行漏洞的分析与利用： https://labs.mwrinfosecurity.com/assets/BlogFiles/apple-safari-wasm-section-vuln-write-up-2018-04-16.pdf
+[ Browser ]  How to kill a (Fire)fox： http://blogs.360.cn/blog/how-to-kill-a-firefox/
+[ Browser ]  在 Chrome 67 的安全面板中现已提供证书透明度信息： https://twitter.com/ChromeDevTools/status/986628922816135168
+[ Browser ]  Safari 技术预览版 54 发布： https://webkit.org/blog/8232/release-notes-for-safari-technology-preview-54/
+[ Browser ]  浏览器扩展应用安全 Part 1,作者分享讲解了几个自己挖到的漏洞（CVE-2018-5113, CVE-2018-5112, CVE-2018-5134 and CVE-2018-5135）： http://leucosite.com/WebExtension-Security/
+[ Browser ]  Microsoft Edge ACG bypass with OpenProcess()，目前处于未修复状态： https://bugs.chromium.org/p/project-zero/issues/detail?id=1552
+[ Browser ]  谷歌宣布自 WebView 66 开始默认引入安全浏览功能以保护用户安全： https://android-developers.googleblog.com/2018/04/protecting-webview-with-safe-browsing.html
+[ Browser ]   Safari Wasm Sections POC RCE Exploit（CVE-2018-4121） ： https://github.com/mwrlabs/CVE-2018-4121
+[ Browser ]  FireFox RCE by chaining small bugs， 由多个 Bug 组合而成的 FireFox RCE 漏洞： http://leucosite.com/FireFox-RCE/
+[ Browser ]  通过 WebGL 纹理的错误消息泄漏重定向 URL 地址(CVE-2018-6047)： https://bugs.chromium.org/p/chromium/issues/detail?id=799847
+[ Browser ]  寻找 Edge 的 HSTS 预加载列表 Part 1：  https://medium.com/bugbountywriteup/find-edges-hsts-preload-list-part-i-2ee5ce6bc5aa
+[ Browser ]  Firefox 在隐私浏览模式下依然将数据写入 IndexedDB 导致的隐私泄漏问题( CVE-2017–7843 ): https://medium.com/@konarkmodi/breaking-bad-to-make-good-firefox-cve-2017-7843-219034357496
+[ Browser ]  深入剖析 JavaScriptCore: https://ming1016.github.io/2018/04/21/deeply-analyse-javascriptcore/
+[ Browser ]   利用 FireFox 新标签页绕过 CSP 防御： https://twitter.com/XssPayloads/status/989766989458563074
+[ Browser ]   FireFox 地址栏支持使用特殊字符限制搜索范围： https://twitter.com/asadotzler/status/991061409839562752
+[ Browser ]   V8 增加对大整数（BigInt）类型的支持，这种类型可以表示任意精度的整数： https://v8project.blogspot.com/2018/05/bigint.htmlhttps://developers.google.com/web/updates/2018/05/bigint
+[ Browser ]  Safari 技术预览版 55 发布： https://webkit.org/blog/8284/release-notes-for-safari-technology-preview-55/
+[ Browser ]  WebKit WebCore::jsElementScrollHeightGetter 存在 UAF 漏洞(CVE-2018-4200)： https://bugs.chromium.org/p/project-zero/issues/detail?id=1525
