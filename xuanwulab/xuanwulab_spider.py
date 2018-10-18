@@ -48,5 +48,12 @@ if __name__ == '__main__':
 	'''
 	cron spider
 	'''
-	today = str(datetime.date.today()).replace('-', '/') + '/'
+	dtoday = datetime.date.today()
+	today = str(dtoday).replace('-', '/') + '/'
 	main(url+today, session)
+	if datetime.datetime.now().weekday() == 1:
+		oneday = datetime.timedelta(days = 1)
+		sunday = dtoday - oneday
+		saturday = sunday - oneday
+		main(url+sunday.strftime('%Y/%m/%d/'), session)
+		main(url+saturday.strftime('%Y/%m/%d/'), session)
